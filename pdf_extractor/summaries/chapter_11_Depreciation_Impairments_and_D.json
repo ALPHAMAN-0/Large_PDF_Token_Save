@@ -1,0 +1,70 @@
+{
+  "executiveSummary": "Chapter 11 covers the systematic allocation of long-lived asset costs through depreciation, impairment testing and write-downs, and depletion of mineral resources under IFRS. It also addresses revaluation accounting—the IFRS option to carry property, plant, and equipment at fair value rather than historical cost—and explains how to present, disclose, and analyse these assets in financial statements.",
+
+  "keyTopics": [
+    "Depreciation concepts and methods: Depreciation is a cost-allocation process (not a valuation process) that spreads the depreciable base (cost minus residual value) over an asset's useful life using the activity, straight-line, sum-of-the-years'-digits, or declining-balance method.",
+    "Component depreciation: IFRS requires each significant component of a PP&E item (e.g., airframe, engines, and other parts of an aircraft) to be depreciated separately over its own useful life.",
+    "Revision of depreciation estimates: Changes in estimated useful life or residual value are treated as changes in accounting estimates and applied prospectively by spreading the remaining book value over the revised remaining life.",
+    "Impairment recognition and measurement: An asset is impaired when its carrying amount exceeds its recoverable amount (the higher of fair value less costs to sell or value-in-use); the excess is recognised as an impairment loss and subsequent depreciation is recalculated on the reduced base.",
+    "Reversal of impairment losses: Under IFRS, a previously recognised impairment loss may be reversed in a later period if the recoverable amount rises, but the reversal cannot bring the carrying amount above what it would have been had no impairment ever been recorded.",
+    "Cash-generating units (CGUs): When individual assets cannot generate independent cash flows, impairment testing is performed at the CGU level—the smallest identifiable group of assets whose cash flows are largely independent.",
+    "Depletion of mineral resources: Natural resource costs are allocated using the units-of-production method (cost depletion); the depletion base includes exploration and evaluation (E&E) costs, intangible development costs, and restoration obligations, but typically excludes movable tangible equipment.",
+    "Revaluation accounting: IFRS permits (but does not require) companies to carry PP&E at fair value; revaluation increases above historical cost bypass net income and go to Other Comprehensive Income (revaluation surplus), while decreases below cost are recognised as impairment losses in net income."
+  ],
+
+  "importantDefinitions": {
+    "Depreciation": "The systematic allocation of the depreciable amount of a tangible asset to expense over its estimated useful life; a cost-allocation process, not a measure of fair value.",
+    "Depreciable Base": "The cost of an asset less its residual (salvage) value; the total amount to be depreciated over the asset's useful life.",
+    "Residual (Salvage) Value": "The estimated net amount the entity expects to obtain from disposal of an asset at the end of its useful life.",
+    "Impairment": "The condition that exists when a long-lived asset's carrying amount is not recoverable through either continued use or sale, resulting in a write-down to recoverable amount.",
+    "Recoverable Amount": "The higher of an asset's fair value less costs to sell and its value-in-use; the amount used in the impairment test.",
+    "Value-in-Use": "The present value of estimated future net cash flows expected to arise from the continued use and ultimate disposal of an asset, discounted at a pretax rate reflecting current market assessments.",
+    "Cash-Generating Unit (CGU)": "The smallest identifiable group of assets that generates cash inflows that are largely independent of the cash inflows from other assets or groups.",
+    "Depletion": "The systematic allocation of the cost of mineral resources (oil, gas, coal, etc.) to expense, typically using the units-of-production method.",
+    "Revaluation Surplus": "The cumulative unrealized gain on revaluation of a long-lived asset above its historical cost, reported in Accumulated Other Comprehensive Income in the equity section.",
+    "Component Depreciation": "The IFRS requirement to identify and depreciate separately each significant part of a PP&E item that has a different useful life or pattern of consumption."
+  },
+
+  "accountingTreatments": [
+    "Recording depreciation: Debit Depreciation Expense / Credit Accumulated Depreciation for each period; the asset is presented on the statement of financial position at cost less accumulated depreciation (carrying amount).",
+    "Recording an impairment loss (asset in use): Debit Loss on Impairment / Credit Accumulated Depreciation—Equipment for the excess of carrying amount over recoverable amount; the loss appears in 'Other income and expense' in the income statement.",
+    "Reversing an impairment loss: Debit Accumulated Depreciation / Credit Recovery of Impairment Loss; reversal is limited to the carrying amount that would have existed had no impairment been recorded.",
+    "Recording depletion: Debit Inventory / Credit Accumulated Depletion for units extracted during the period; when inventory is sold, depletion cost becomes part of Cost of Goods Sold.",
+    "Recording a revaluation increase: Debit the asset account / Credit Unrealized Gain on Revaluation (Other Comprehensive Income); does not pass through net income unless it reverses a prior impairment loss.",
+    "Revision of depreciation estimate (prospective): No journal entry at the revision date; future depreciation = remaining book value (less any residual value) divided by remaining revised useful life, applied from the current period forward."
+  ],
+
+  "criticalFormulas": [
+    "Activity Method: Depreciation = [(Cost - Residual Value) / Total Estimated Hours] x Hours Used in Period. Example: ($500,000 - $50,000) / 30,000 hrs x 4,000 hrs = $60,000.",
+    "Straight-Line Method: Annual Depreciation = (Cost - Residual Value) / Estimated Service Life. Example: ($500,000 - $50,000) / 5 years = $90,000 per year.",
+    "Sum-of-the-Years'-Digits: Depreciation = (Remaining Life / Sum of Digits) x Depreciable Base; SYD for 5-year asset = 15. Year 1: (5/15) x $450,000 = $150,000; Year 2: (4/15) x $450,000 = $120,000.",
+    "Double-Declining-Balance: Rate = 2 x (1 / Useful Life); applied to beginning book value (residual value not deducted from base). Example: Year 1 = 40% x $500,000 = $200,000; Year 2 = 40% x $300,000 = $120,000; depreciation stops when book value reaches residual value.",
+    "Depletion Rate: Depletion Cost per Unit = (Total Cost - Residual Value) / Total Estimated Units. Example: €1,000,000 / 100,000 oz = €10/oz; 25,000 oz extracted x €10 = €250,000 depletion.",
+    "Asset Turnover: Net Sales / Average Total Assets. Example (Siemens 2018): €83,044 / [(€138,915 + €136,111) / 2] = 0.60 times.",
+    "Return on Assets (ROA): Net Income / Average Total Assets (or Profit Margin on Sales x Asset Turnover). Example (Siemens): 7.4% x 0.60 = 4.4%.",
+    "Prospective Depreciation after Revision: Remaining Book Value / Remaining Revised Life. Example (Nestlé): CHF45,000 book value / 20 years remaining = CHF2,250 per year."
+  ],
+
+  "illustrativeExample": "Norwel SA purchases a circuit board stamping machine for €24,000 + 5% tax (€1,200) + platform (€1,800) = total cost €27,000. Depreciable base = €27,000 - €2,000 residual = €25,000. Annual straight-line depreciation = €25,000 / 5 = €5,000. Using half-year convention: 2022 depreciation = €2,500; 2023 = €5,000. Book value at December 31, 2023 = €27,000 - €7,500 = €19,500. At June 30, 2024, accumulated depreciation = €2,500 + €5,000 + €2,500 (half-year 2024) = €10,000; book value = €17,000. Recoverable amount = higher of value-in-use (€13,000) and fair value less costs to sell (€13,400) = €13,400. Impairment loss = €17,000 - €13,400 = €3,600. Entry: Debit Loss on Impairment €3,600 / Credit Accumulated Depreciation—Machinery €3,600.",
+
+  "disclosurePresentationNotes": [
+    "Basis of valuation: Companies must disclose whether PP&E is carried at historical cost or under the revaluation model, along with the depreciation methods and useful lives or rates used for each class of assets.",
+    "Carrying amount rollforward: Disclosures should show gross cost, accumulated depreciation, and impairment losses at the beginning and end of the period, including additions, disposals, and currency effects (as illustrated by the Nestlé Group disclosures).",
+    "Impairment disclosures: Companies must disclose the amount of impairment losses recognised and reversed during the period, the events and circumstances leading to the impairment, and how recoverable amount was determined (fair value less costs to sell or value-in-use).",
+    "Mineral resource (E&E) disclosures: Companies must disclose their accounting policies for E&E expenditures (e.g., full-cost vs. successful-efforts), and the amounts of E&E assets, liabilities, income/expense, and operating cash flows related to mineral resource exploration."
+  ],
+
+  "potentialPitfalls": [
+    "Depreciation does not provide cash for asset replacement: A common misconception is that accumulated depreciation represents a cash fund set aside for replacing assets. In reality, depreciation is a non-cash expense that reduces book value and net income; replacement funds come only from revenues generated by the asset.",
+    "Declining-balance method omits residual value from the base but still requires a stop: Unlike other methods, the declining-balance rate is applied to the full (gross) book value without first deducting residual value; however, depreciation must cease once book value equals the estimated residual value, and companies often switch to straight-line near end of life to ensure this.",
+    "Revaluation increases bypass income but losses hit income—creating asymmetry: Under IFRS revaluation accounting, upward revaluations above historical cost go to Other Comprehensive Income (not net income), while downward revaluations below historical cost are recognised as impairment losses in net income, creating an asymmetric impact on reported earnings that users must understand when comparing companies."
+  ],
+
+  "notesLimitations": "The chapter file was read in full (1,999 lines) with no truncation. Some numeric cells in tables (e.g., the SYD schedule, the DDB schedule, and the Siemens financial data table) were partially extracted as text without all column values due to the text-extraction format of the source; values used in formulas and examples above were sourced from the surrounding narrative text and are consistent with the chapter's worked calculations. Appendix 11A (Revaluation of PP&E in a multi-year setting for land and depreciable assets) was fully captured in the file.",
+
+  "sources": [
+    "Learning Objective 1 (LO1) — Depreciation concepts and methods (activity, straight-line, SYD, declining-balance); Illustration 11.2–11.7.",
+    "Learning Objective 3 (LO3) — Impairment recognition, measurement, and reversal; Illustrations 11.15–11.18; Case 1 (Hanoi Ltd.) and Case 2 (Verma Company) worked examples.",
+    "Learning Objective 4 (LO4) — Depletion of mineral resources, E&E cost treatment, units-of-production method; Illustration 11.19–11.21 (MaClede SA and Tullow Oil plc disclosures)."
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "executiveSummary": "Chapter 13 explains the recognition, measurement, and reporting of current liabilities, provisions, and contingencies under IFRS. It draws a clear line between definite current obligations (accounts payable, taxes, wages) and uncertain obligations (provisions), then further distinguishes provisions—which meet the criteria for recognition—from contingent liabilities and assets, which are generally disclosed but not recorded.",
+
+  "keyTopics": [
+    "Definition and classification of current liabilities: A liability is a present obligation arising from past events that requires transfer of economic resources; it is classified as current if expected to be settled within the operating cycle or within 12 months of the reporting date.",
+    "Types of current liabilities: Includes accounts payable, notes payable (interest-bearing and zero-interest-bearing), current maturities of long-term debt, dividends payable, unearned revenues, sales and value-added taxes payable, income taxes payable, and employee-related liabilities (payroll deductions, compensated absences, bonuses).",
+    "Short-term obligations expected to be refinanced: A short-term debt may be reclassified as non-current only if, at the reporting date, the company already has the contractual right to defer settlement for at least 12 months; post-period refinancing agreements do not qualify.",
+    "Provisions—recognition and measurement: A provision is recorded only when (1) a present legal or constructive obligation exists from a past event, (2) outflow of resources is probable (>50%), and (3) a reliable estimate is possible. The amount is the 'best estimate' of the expenditure needed to settle at the reporting date.",
+    "Common types of provisions: Litigation provisions, assurance-type and service-type warranty provisions, consideration payable (premiums, coupons, rebates), environmental liabilities (including unwinding of discount), onerous contracts, and restructuring provisions.",
+    "Environmental liabilities: Recognised at fair value (or present value of future costs) and capitalised as part of the related long-lived asset; the discount is subsequently unwound through interest expense each period.",
+    "Contingent liabilities and assets: Contingent liabilities are disclosed (not recognised) when possible but not probable, and omitted entirely when remote. Contingent assets are disclosed when probable and recognised only when virtually certain (≥90%).",
+    "Liquidity analysis: Two key ratios—the current ratio (Current Assets ÷ Current Liabilities) and the acid-test ratio ([Cash + Short-Term Investments + Net Receivables] ÷ Current Liabilities)—assess a company's ability to meet short-term obligations."
+  ],
+
+  "importantDefinitions": {
+    "Current liability": "An obligation expected to be settled within the entity's normal operating cycle or within 12 months after the reporting date.",
+    "Provision": "A liability of uncertain timing or amount, recognised when a present obligation (legal or constructive) from a past event makes a probable outflow of resources reliably estimable.",
+    "Legal obligation": "An obligation arising from a contract, legislation, or other operation of law that binds the entity to a specific course of action.",
+    "Constructive obligation": "An obligation that arises from an entity's established pattern of practice, published policies, or specific statements that create a valid expectation in third parties that the entity will discharge the responsibility.",
+    "Contingent liability": "A possible obligation whose existence will be confirmed only by uncertain future events not wholly within the entity's control, or a present obligation where payment is not probable or the amount cannot be reliably estimated; not recognised on the statement of financial position.",
+    "Contingent asset": "A possible asset arising from past events whose existence will be confirmed by uncertain future events not wholly in the entity's control; disclosed when probable, recognised only when virtually certain.",
+    "Onerous contract": "A contract in which the unavoidable costs of fulfilling the obligations exceed the economic benefits expected to be received; requires recognition of a provision at the lower of fulfilment cost or exit penalty.",
+    "Assurance-type warranty": "A warranty that guarantees a product meets agreed specifications at the point of sale; treated as a provision (expensed at sale) rather than a separate performance obligation.",
+    "Service-type warranty": "An extended warranty sold separately that provides services beyond mere defect assurance; recorded as a separate performance obligation in Unearned Warranty Revenue and recognised over the warranty period.",
+    "Virtually certain": "A probability threshold of approximately 90% or more, used to trigger recognition of a contingent asset as a full asset.",
+    "Operating cycle": "The time elapsing between the acquisition of goods or services and the final cash collection from sales, used to determine the current/non-current boundary for certain liabilities.",
+    "Compensated absences": "Paid time off (vacation, sick leave, etc.) for which a liability must be accrued when rights are vested or accumulating, based on expected future wage rates."
+  },
+
+  "accountingTreatments": [
+    "Interest-bearing note payable: Dr Cash / Cr Notes Payable at face value on issuance; at period-end, Dr Interest Expense / Cr Interest Payable for accrued interest (e.g., €100,000 × 6% × 4/12 = €2,000); at maturity, Dr Notes Payable + Interest Payable / Cr Cash.",
+    "Zero-interest-bearing note payable: Dr Cash (present value) / Cr Notes Payable (present value) at issuance; at period-end, Dr Interest Expense / Cr Notes Payable to accrete the discount; at maturity, Dr Notes Payable (face) / Cr Cash.",
+    "Assurance-type warranty provision: At sale date, Dr Warranty Expense / Cr Warranty Liability for estimated future claims; as claims are settled, Dr Warranty Liability / Cr Cash (or Inventory/Payroll).",
+    "Environmental liability: Dr Long-Lived Asset (e.g., Drilling Platform) / Cr Environmental Liability at present value of decommissioning costs; each period Dr Depreciation Expense / Cr Accumulated Depreciation (cost allocation), and Dr Interest Expense / Cr Environmental Liability (unwinding of discount).",
+    "Restructuring provision: Recognised when a formal plan exists and affected parties have been notified; Dr Restructuring Expense / Cr Restructuring Liability. Only direct, incremental costs (e.g., employee termination, lease penalties) are included; future operating losses and retraining costs are excluded.",
+    "Contingent liability disclosure only (not recorded): When probability is 'possible but not probable' (roughly 5–50%), disclose nature, estimated financial effect, and timing uncertainties in notes; no journal entry is made. When remote (<5%), no disclosure is required."
+  ],
+
+  "criticalFormulas": [
+    "Interest on note payable: Interest = Principal × Rate × Time (in years). Example: €100,000 × 6% × (4/12) = €2,000 interest for a 4-month note.",
+    "Warranty liability (expected value method): Warranty Liability = Σ (Probability_i × Cost_i) across all outcome scenarios. Example: 100 machines × $200 expected cost per unit = $20,000 total warranty provision; after $4,000 incurred in year 1, balance = $16,000.",
+    "Environmental liability (present value): Environmental Liability = Future Dismantlement Cost × PV Factor. Example: $1,000,000 × 0.62092 (10%, 5 years) = $620,920 initial liability.",
+    "Annual interest (unwinding discount): Interest Expense = Carrying Amount of Liability × Discount Rate. Example: $620,920 × 10% = $62,092 in year 1.",
+    "Current ratio: Current Ratio = Current Assets ÷ Current Liabilities. Example (Wilmar): Current Assets ÷ Current Liabilities = 2.02×.",
+    "Acid-test ratio: Acid-Test Ratio = (Cash + Short-Term Investments + Net Receivables) ÷ Current Liabilities. Example (Wilmar): = 1.27.",
+    "Sales tax extraction: Sales (net) = Total Receipts ÷ (1 + Tax Rate); Tax Payable = Total Receipts − Sales (net). Example: €150,000 ÷ 1.04 = €144,231 sales; €5,769 tax payable."
+  ],
+
+  "illustrativeExample": "Denson Machinery (Assurance-Type Warranty): Sells 100 machines at $5,000 each in 2022; total revenue = $500,000. Estimated warranty cost = $200/unit × 100 = $20,000. In 2022, $4,000 of warranty costs are incurred: Dr Warranty Expense $4,000 / Cr Cash $4,000. At Dec 31, 2022, adjusting entry for remaining estimated liability: Dr Warranty Expense $16,000 / Cr Warranty Liability $16,000. Balance sheet shows Warranty Liability (current) = $16,000; income statement shows Warranty Expense = $20,000. In 2023, remaining claims settled: Dr Warranty Liability $16,000 / Cr Cash $16,000.",
+
+  "disclosurePresentationNotes": [
+    "Provisions rollforward: IFRS requires a reconciliation of opening to closing balance for each major class of provision, showing additions, amounts used, reversals, and the effect of unwinding the discount and changes in discount rate (as illustrated by Nokia's provisions note).",
+    "Contingent liabilities must be disclosed in notes (unless remote) with: a brief description of nature, an estimate of financial effect if practicable, an indication of timing uncertainties, and the possibility of any reimbursement from third parties.",
+    "Current liabilities presentation: Reported at full maturity value on the statement of financial position (present-value adjustment deemed immaterial for short periods); listed after non-current liabilities and may be ordered by maturity, descending amount, or liquidation preference. Secured liabilities and pledged collateral must be clearly identified.",
+    "Cumulative preference dividends in arrears are not recognised as a liability (no past obligating event) but must be disclosed in a note or parenthetically in the equity section; share dividends distributable are reported in equity, not as a current liability."
+  ],
+
+  "potentialPitfalls": [
+    "Classifying refinanced short-term debt as non-current when the refinancing agreement was finalised after the reporting date: Under IFRS, the right to defer settlement must exist at the reporting date itself—a post-period agreement does not retroactively reclassify the debt as non-current.",
+    "Recording a provision for general future risks (self-insurance, anticipated future losses, or expected economic downturns): IFRS prohibits recognising provisions for obligations that do not yet exist; a liability requires a past obligating event, so future-event contingencies cannot be accrued even if highly probable.",
+    "Confusing assurance-type and service-type warranties: Assurance-type warranties are expensed at the point of sale as a provision; service-type warranties are recorded as a separate performance obligation (Unearned Warranty Revenue) and recognised as revenue on a straight-line basis over the extended coverage period—mixing the two methods misstates both revenue and liabilities."
+  ],
+
+  "notesLimitations": "The chapter file was complete at 1,707 lines and contained no apparent truncation. However, actual numerical amounts for journal entry debits/credits in several illustrations (e.g., Illustrations 13.5–13.9 entries for Landscape Co.) were represented as labels only without dollar amounts in the extracted text, likely because the original PDF used a columnar table format that was stripped during extraction. Where amounts could be derived from surrounding narrative they have been included. Appendices, if any, and end-of-chapter exercise/problem numbers beyond the practice problem were not summarised as they are drill exercises rather than substantive content.",
+
+  "sources": [
+    "Learning Objective 1 — 'Describe the nature, valuation, and reporting of current liabilities' (lines 73–643): covers the IFRS liability definition, all categories of current liabilities, refinancing criteria, VAT vs. sales tax, and employee-related liabilities.",
+    "Learning Objective 2 — 'Explain the accounting for different types of provisions' (lines 644–1300): covers recognition criteria, measurement at best estimate, and all six major provision types (litigation, warranties, consideration payable, environmental, onerous contracts, restructuring).",
+    "Learning Objective 3 & 4 — 'Explain the accounting for loss and gain contingencies' and 'Indicate how to present and analyze liability-related information' (lines 1301–1487): covers the probability framework for contingent liabilities and assets, financial statement presentation, and liquidity ratios."
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "executiveSummary": "Chapter 3 explains the complete accounting information system, walking through every step of the accounting cycle from identifying transactions to preparing closing entries. Using the service company Yazici Advertising A.Ş. and the merchandising company Ciner Cabinets as extended examples, the chapter demonstrates how double-entry bookkeeping, adjusting entries, and financial statement preparation work together under accrual-basis accounting in conformity with IFRS.",
+
+  "keyTopics": [
+    "Basic Terminology and Double-Entry System: The chapter establishes 11 foundational terms—event, transaction, account, real/nominal accounts, ledger, journal, posting, trial balance, adjusting entries, financial statements, and closing entries—and explains that every transaction requires equal debits and credits, maintaining the accounting equation (Assets = Liabilities + Equity).",
+    "The Accounting Cycle: An eight-step sequential process—journalize, post, prepare unadjusted trial balance, adjust, prepare adjusted trial balance, prepare financial statements, close, and optionally prepare a post-closing trial balance—provides the structured workflow companies follow each fiscal period.",
+    "Journalizing and Posting: Transactions are first recorded chronologically in a general journal (or special journals) with dates, account titles, debit/credit amounts, and explanations, then transferred (posted) to the general ledger; a chart of accounts assigns numbered codes to every account.",
+    "Adjusting Entries — Deferrals: Prepaid expenses (e.g., supplies, insurance, depreciation) and unearned revenues require end-of-period adjustments that reduce overstated balance-sheet accounts and recognize the proper period's expense or revenue; e.g., Yazici adjusted supplies from 25,000 to 10,000, recognizing 15,000 of Supplies Expense.",
+    "Adjusting Entries — Accruals: Accrued revenues (services performed but not yet billed) and accrued expenses (expenses incurred but not yet paid, such as interest and salaries) require adjustments that increase both income-statement and balance-sheet accounts simultaneously; e.g., Yazici accrued 6,000 of unpaid salaries for three working days.",
+    "Financial Statements and Closing Process: Financial statements are prepared directly from the adjusted trial balance; revenue and expense (nominal/temporary) accounts are then closed to Income Summary, which is transferred to Retained Earnings, and Dividends is also closed to Retained Earnings, leaving only permanent (real) accounts with balances.",
+    "Merchandising vs. Service Company Statements: A merchandising company (e.g., Ciner Cabinets) must separately report net sales, cost of goods sold, and gross profit on sales, as well as selling and administrative expense categories, whereas a service company reports only service revenue and operating expenses.",
+    "Cash Basis vs. Accrual Basis (Appendix 3A): Cash-basis accounting records revenues when cash is received and expenses when cash is paid, violating the revenue recognition and expense recognition principles; it is not permitted under IFRS. The accrual basis is theoretically superior because receivables and payables forecast future cash flows."
+  ],
+
+  "importantDefinitions": {
+    "Accounting Information System": "A system that collects and processes transaction data and disseminates financial information to interested parties.",
+    "Double-Entry Accounting": "A recording system in which every transaction is recorded with equal debits and credits, ensuring the accounting equation always remains in balance.",
+    "Adjusting Entries": "Journal entries made at the end of an accounting period to update all accounts to an accrual basis so that correct financial statements can be prepared.",
+    "Deferrals": "Adjustments for cash that was received or paid before the related revenue is earned or expense is incurred; subdivided into prepaid expenses and unearned revenues.",
+    "Accruals": "Adjustments for revenues earned or expenses incurred before cash is received or paid; subdivided into accrued revenues and accrued expenses.",
+    "Contra Asset Account": "An account that offsets a related asset account on the statement of financial position and carries a normal credit balance (e.g., Accumulated Depreciation, Allowance for Doubtful Accounts).",
+    "Book Value (Carrying Value)": "The difference between an asset's original cost and its related accumulated depreciation; represents the net reported amount on the statement of financial position.",
+    "Closing Entries": "Journal entries made at the end of a period that reduce all nominal (temporary) accounts to zero and transfer net income or net loss to Retained Earnings.",
+    "Nominal (Temporary) Accounts": "Revenue, expense, and dividend accounts that are closed to zero at the end of each accounting period; they appear on the income statement.",
+    "Real (Permanent) Accounts": "Asset, liability, and equity accounts that are carried forward from period to period and appear on the statement of financial position.",
+    "Trial Balance": "A list of all open ledger accounts and their balances, used to prove the mathematical equality of debits and credits after posting.",
+    "Unearned Revenue": "A liability representing cash received from customers before the related service has been performed; recognized as revenue when the performance obligation is satisfied."
+  },
+
+  "accountingTreatments": [
+    "Prepaid Expense Adjustment: When a prepaid asset (e.g., supplies, insurance) is consumed, debit the expense account and credit the asset account for the amount used. Example — Supplies Expense 15,000 / Supplies 15,000 (to record supplies consumed during October).",
+    "Depreciation Adjustment: Debit Depreciation Expense and credit Accumulated Depreciation for the allocated portion of the asset's cost. Example — Yazici: Depreciation Expense 400 / Accumulated Depreciation—Equipment 400 (monthly allocation of (50,000 – 2,000) / 10 years / 12 months).",
+    "Unearned Revenue Adjustment: When earned, debit the liability (Unearned Revenue) and credit the revenue account. Example — Unearned Service Revenue 4,000 / Service Revenue 4,000.",
+    "Accrued Expense Adjustment: Debit the expense account and credit the related payable. Example — Interest Expense 500 / Interest Payable 500 (50,000 × 12% × 1/12); Salaries and Wages Expense 6,000 / Salaries and Wages Payable 6,000.",
+    "Accrued Revenue Adjustment: Debit the receivable and credit the revenue account. Example — Accounts Receivable 2,000 / Service Revenue 2,000 (for services performed but not yet billed).",
+    "Bad Debt Adjustment: Debit Bad Debt Expense and credit Allowance for Doubtful Accounts for estimated uncollectible receivables. Example — Bad Debt Expense 1,600 / Allowance for Doubtful Accounts 1,600."
+  ],
+
+  "criticalFormulas": [
+    "Accounting Equation: Assets = Liabilities + Equity. All transactions must keep this equation in balance. Example — issuing shares for 40,000 cash: Cash +40,000 = Share Capital +40,000.",
+    "Interest Formula: Interest = Face Value × Annual Interest Rate × Time (fraction of year). Variables: Face Value = principal of the note; Annual Interest Rate = stated yearly rate; Time = portion of year outstanding. Example — 50,000 × 12% × 1/12 = 500 interest for one month.",
+    "Depreciation (Straight-Line): Annual Depreciation = (Cost – Residual Value) / Useful Life. Monthly = Annual / 12. Example — (50,000 – 2,000) / 10 years = 4,800 per year; 4,800 / 12 = 400 per month.",
+    "Cash-to-Accrual Revenue Conversion: Accrual Revenue = Cash Receipts – Beginning Accounts Receivable + Ending Accounts Receivable + Beginning Unearned Revenue – Ending Unearned Revenue. Example — 300,000 – 30,000 + 45,000 + 0 – 12,000 = 303,000.",
+    "Cash-to-Accrual Expense Conversion: Accrual Expenses = Cash Paid + Beginning Prepaid – Ending Prepaid – Beginning Accrued Liabilities + Ending Accrued Liabilities. Example — 170,000 + 8,000 – 11,000 – 4,000 + 6,000 = 169,000."
+  ],
+
+  "illustrativeExample": "Yazici Advertising A.Ş. — October Adjusting Entries (partial): (1) Supplies purchased 25,000; inventory count shows 10,000 on hand; adjust: Dr Supplies Expense 15,000 / Cr Supplies 15,000. (2) Insurance paid 6,000 for 12 months; one month expires: Dr Insurance Expense 500 / Cr Prepaid Insurance 500. (3) Note payable 50,000 at 12% for 3 months; one month accrued: Dr Interest Expense 500 / Cr Interest Payable 500 (50,000 × 0.12 × 1/12). (4) Salaries paid through Oct 26; 3 days unpaid at 2,000/day: Dr Salaries and Wages Expense 6,000 / Cr Salaries and Wages Payable 6,000. After these entries the adjusted trial balance confirms total debits equal total credits, and financial statements are prepared directly from it.",
+
+  "disclosurePresentationNotes": [
+    "Contra Accounts on the Statement of Financial Position: Accumulated Depreciation is deducted from the related asset's cost to show the asset's carrying (book) value; Allowance for Doubtful Accounts is deducted from gross receivables to show the net realizable amount. Both contra balances and the original cost must be disclosed.",
+    "Classified Statement of Financial Position: Assets are segregated into non-current (property, plant, and equipment) and current (inventory, prepaid items, receivables, cash); liabilities are split into non-current (e.g., bonds payable due beyond one year) and current (payables due within one year). Under IFRS, the statement is called the 'statement of financial position.'",
+    "Merchandising Income Statement Structure: Under IFRS, a merchandising company's income statement must present net sales, cost of goods sold, gross profit, selling expenses, administrative expenses, income from operations, other revenues/gains, other expenses/losses, income before taxes, income tax expense, and net income as separate line items.",
+    "IFRS vs. U.S. GAAP Accounting Systems: The double-entry system, debit/credit rules, journal, ledger, and chart of accounts are identical under IFRS and U.S. GAAP. A key difference is that IFRS allows more fair-value measurements than U.S. GAAP, which relies more heavily on historical cost. SOX internal-control attestation requirements apply to U.S.-listed companies but not universally to non-U.S. filers."
+  ],
+
+  "potentialPitfalls": [
+    "Confusing Debits/Credits with Increases/Decreases: Debit means 'left side' and credit means 'right side' — they do not inherently mean increase or decrease. Asset and expense accounts increase with debits; liability, revenue, and equity accounts increase with credits. Misapplying this rule is the most common journalizing error.",
+    "Trial Balance Limitations — It Does Not Prove Accuracy: A balanced trial balance only confirms that total debits equal total credits; it does not detect errors such as omitted journal entries, duplicate postings, wrong account used (e.g., debiting the wrong expense), or offsetting errors of equal amount. Students often assume a balanced trial balance means the books are error-free.",
+    "Closing Dividends Through Income Summary: Dividends must be closed directly to Retained Earnings — never through Income Summary. Routing dividends through Income Summary would incorrectly reduce reported net income, because dividends are distributions of earnings, not operating expenses. A separate closing entry (Dr Retained Earnings / Cr Dividends) is required."
+  ],
+
+  "notesLimitations": "The chapter text was complete and read in full (lines 0–1999). Numerical values in several illustrations (e.g., the exact dollar amounts in Illustration 3.20 unadjusted trial balance, Illustration 3.41 Ciner income statement, and Illustration 3A.5 Dr. Liwan financial data) appear as labels only without their corresponding numeric cells, as the PDF-extracted text omitted the actual table figures. Appendix 3C worksheet illustration (Illustration 3C.1) figures were referenced but not reproduced in the text extraction. All conceptual content, formulas, and journal entry structures are fully captured.",
+
+  "sources": [
+    "Learning Objective 1 — Basic Accounting Information System (lines 53–225): Covers the 11 key terms, double-entry rules, expanded accounting equation, and the 8-step accounting cycle.",
+    "Learning Objective 3 — Adjusting Entries (lines 436–801): Detailed coverage of deferrals (prepaid expenses, unearned revenues) and accruals (accrued revenues, accrued expenses) with Yazici Advertising numerical examples for supplies, insurance, depreciation, unearned revenue, interest, salaries, and bad debts.",
+    "Learning Objective 5 and Appendix 3A (lines 964–1373): Merchandising company financial statements (Ciner Cabinets) and the cash-basis vs. accrual-basis comparison with Eser Contractor and Dr. Liwan conversion examples."
+  ]
+}

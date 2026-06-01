@@ -1,0 +1,70 @@
+{
+  "executiveSummary": "Chapter 7 covers the recognition, measurement, valuation, and presentation of cash and receivables under IFRS, two of the most liquid and important current assets on the statement of financial position. The chapter establishes that cash must be freely available and unrestricted, while receivables must be reported at cash realizable value using the allowance method to reflect expected credit losses. An appendix extends the discussion to internal cash controls, the imprest petty cash system, and bank reconciliation procedures.",
+
+  "keyTopics": [
+    "Reporting Cash and Cash Equivalents: Cash includes coin, currency, bank deposits, and negotiable instruments; cash equivalents are short-term, highly liquid investments with original maturities of three months or less. Special reporting issues arise for restricted cash, bank overdrafts, and compensating balances.",
+    "Recognition of Accounts Receivable: Receivables are recognized when control of goods or services transfers to the customer. The transaction price is measured net of variable consideration such as trade discounts, cash (sales) discounts, and estimated sales returns.",
+    "Valuation of Accounts Receivable — Allowance Method: IFRS requires the allowance method when bad debts are material, recognizing estimated uncollectibles through Bad Debt Expense and Allowance for Doubtful Accounts. The percentage-of-receivables approach (including aging schedules) is used to estimate the required allowance balance.",
+    "Notes Receivable — Recognition and Valuation: Long-term notes are recorded at the present value of expected cash flows; when stated and market interest rates differ, a discount or premium is recorded and amortized using the effective-interest method over the note's life.",
+    "Derecognition of Receivables: Receivables are removed from the books when contractual rights expire or when substantially all risks and rewards of ownership are transferred. Transfers may be structured as a true sale without guarantee (factoring without recourse) or as a secured borrowing (factoring with recourse / failed sale).",
+    "Accounts Receivable Turnover Analysis: Analysts compute the accounts receivable turnover ratio (net sales divided by average net receivables) and the average collection period (365 days divided by turnover) to assess a company's liquidity and effectiveness of its credit and collection policies.",
+    "IFRS vs. U.S. GAAP Differences: Key differences include the classification of bank overdrafts (cash under IFRS; liability under U.S. GAAP), the criteria for derecognizing transferred receivables (risks-and-rewards plus control under IFRS; control only under U.S. GAAP), and the approach to estimating impairment on long-term receivables (12-month vs. lifetime expected loss model).",
+    "Cash Controls (Appendix 7A): Internal control techniques include using multiple bank accounts, lockbox systems, imprest bank accounts, the imprest petty cash system, physical protection of cash, and monthly bank reconciliations to reconcile book and bank balances to the correct cash balance."
+  ],
+
+  "importantDefinitions": {
+    "Cash": "Coin, currency, available funds on deposit at banks, and negotiable instruments (money orders, certified checks, bank drafts) that are freely available to meet current obligations.",
+    "Cash Equivalents": "Short-term, highly liquid investments with original maturities of three months or less that are readily convertible to known amounts of cash and subject to insignificant risk of value changes (e.g., government bonds, commercial paper).",
+    "Restricted Cash": "Cash set aside for a specific purpose (e.g., compensating balances, plant expansion, debt retirement) that is not freely available; classified as current or non-current depending on when it will be disbursed.",
+    "Compensating Balance": "The minimum cash balance a borrower must maintain in a deposit account as support for an existing borrowing arrangement with a lending institution.",
+    "Cash Realizable Value": "The net amount a company expects to receive in cash from its receivables, equal to gross receivables minus the allowance for doubtful accounts.",
+    "Allowance for Doubtful Accounts": "A contra-asset account representing the estimated portion of accounts receivable that is not expected to be collected; paired with Bad Debt Expense in the adjusting entry.",
+    "Trade Discount": "A percentage reduction from the list (catalog) price used to determine the actual billing price to a customer; not separately recorded in the accounts.",
+    "Cash (Sales) Discount": "A reduction in the invoice price offered to customers as an incentive for early payment (e.g., 2/10, n/30); recorded using either the gross method or the preferred net method.",
+    "Imputed Interest Rate": "An estimated market interest rate used to determine the present value of a note when no stated rate exists or the stated rate is unreasonable; determined at the note's inception and not revised for subsequent market changes.",
+    "Factoring Receivables": "The sale of receivables to a finance company or bank (factor) that collects directly from customers; may be without guarantee (without recourse, true sale) or with guarantee (with recourse, treated as secured borrowing under IFRS).",
+    "Derecognition": "The removal of a financial asset (receivable) from the statement of financial position when contractual rights to cash flows expire or when substantially all risks and rewards of ownership are transferred to another party.",
+    "Percentage-of-Receivables Approach": "An allowance-method estimation technique that applies historical uncollectibility rates to the ending accounts receivable balance (possibly by age category in an aging schedule) to determine the required allowance balance."
+  },
+
+  "accountingTreatments": [
+    "Estimating bad debts (allowance method): Debit Bad Debt Expense / Credit Allowance for Doubtful Accounts for the amount needed to bring the allowance to the estimated required balance at period end. Example: if desired balance is €26,610 and existing credit balance is €800, record €25,810.",
+    "Write-off of an uncollectible account: Debit Allowance for Doubtful Accounts / Credit Accounts Receivable for the specific amount written off. No impact on Bad Debt Expense or net realizable value.",
+    "Recovery of a previously written-off account: Two entries — (1) Debit Accounts Receivable / Credit Allowance for Doubtful Accounts to reinstate; (2) Debit Cash / Credit Accounts Receivable to record collection.",
+    "Zero-interest-bearing note received: Record the note at its present value (cash paid), with the discount representing unearned interest. Each period, Debit Notes Receivable / Credit Interest Revenue for the effective-interest amortization amount.",
+    "Sale of receivables without guarantee (factoring without recourse): Debit Cash (net proceeds) + Due from Factor (retained %) / Credit Accounts Receivable (face) and record the difference as Loss on Sale of Receivables.",
+    "Transfer of receivables with guarantee (with recourse / failed sale): Debit Cash (net proceeds) / Credit Notes Payable (or Recourse Liability) — the receivable remains on the transferor's books; transaction treated as a secured borrowing."
+  ],
+
+  "criticalFormulas": [
+    "Accounts Receivable Turnover = Net Sales / Average (Net) Accounts Receivable. Variables: Net Sales = total sales less returns and allowances; Average Accounts Receivable = (Beginning balance + Ending balance) / 2. Example: LVMH Net Sales €35,664M / [(€2,274M + €2,521M) / 2] = 14.9 times.",
+    "Average Collection Period (Days Outstanding) = 365 / Accounts Receivable Turnover. Variables: 365 = days in a year; AR Turnover from formula above. Example: 365 / 14.9 = 24.5 days.",
+    "Present Value of an Interest-Bearing Note = PV of Principal + PV of Interest Payments = Face Value × PVFn,i + Annual Interest × PVF-OAn,i. Example: €10,000 note, 10% stated, 12% market, 3 years: €10,000 × 0.71178 + €1,000 × 2.40183 = €7,118 + €2,402 = €9,520.",
+    "Effective-Interest Amortization of Discount = (Carrying Amount of Note × Market Rate) - Cash Received. Example (Year 1, Morgan Group): €9,520 × 12% = €1,142 interest revenue; €1,000 cash received; €142 discount amortized, new carrying amount €9,662.",
+    "Required Bad Debt Expense (Percentage-of-Receivables): Desired Allowance Balance - Existing Credit Balance (or + Existing Debit Balance). Example: Desired balance €26,610 - existing credit €800 = Bad Debt Expense of €25,810.",
+    "Net Cash Discount Annualized Rate = Discount % / ((Credit Period - Discount Period) / 365). Example: 1% discount, 10-day discount period, 30-day net period: 0.01 / (20/365) = 18.25% annualized cost of not taking the discount."
+  ],
+
+  "illustrativeExample": "Factoring without recourse (Illustration 7.15): Crest Textiles factors €500,000 of accounts receivable with Commercial Factors. Finance charge = 3% × €500,000 = €15,000. Retained holdback = 5% × €500,000 = €25,000. Crest Textiles records: Debit Cash €460,000, Debit Due from Factor €25,000, Debit Loss on Sale of Receivables €15,000 / Credit Accounts Receivable €500,000. Commercial Factors records: Debit Accounts Receivable €500,000 / Credit Due to Customer (Crest Textiles) €25,000, Credit Interest Revenue €15,000, Credit Cash €460,000.",
+
+  "disclosurePresentationNotes": [
+    "Receivables must be segregated by category (trade vs. non-trade, current vs. non-current) on the face of the statement of financial position, with valuation allowances presented as a deduction from gross receivables to arrive at net carrying amount.",
+    "Companies must disclose the fair value of receivables, concentrations of credit risk (e.g., significant receivables from one industry or geographic region), and any receivables pledged as collateral for borrowings.",
+    "Restricted cash must be disclosed separately — if restricted for short-term purposes it is presented in current assets; if restricted for long-term obligations (e.g., retirement of long-term debt, plant expansion) it is classified as a non-current asset.",
+    "IFRS requires disclosure of an aging analysis for receivables that are past due or impaired, the carrying amount of receivables whose terms have been renegotiated, and quantitative and qualitative information to allow assessment of the credit risk inherent in the receivable portfolio."
+  ],
+
+  "potentialPitfalls": [
+    "Confusing the write-off entry with bad debt expense recognition: Under the allowance method, writing off a specific account (Debit Allowance / Credit Accounts Receivable) does NOT record any new expense — the expense was already recognized in the prior period's adjusting entry. Debiting Bad Debt Expense at the time of write-off double-counts the loss.",
+    "Misclassifying a transfer of receivables as a sale when it should be a secured borrowing: If the transferor provides a full guarantee (recourse) covering all credit losses, substantially all risks and rewards remain with the transferor under IFRS, and the transaction is a failed sale — both the receivable asset and the borrowing liability must remain on the books.",
+    "Ignoring the existing balance in the Allowance for Doubtful Accounts when computing bad debt expense under the percentage-of-receivables approach: Because this method targets a required ending balance in the allowance account, the bad debt expense journal entry must be adjusted upward (if the allowance has a debit balance) or downward (if it has a credit balance) relative to the gross estimated uncollectible amount."
+  ],
+
+  "notesLimitations": "The chapter text was fully readable across all chunks with no truncation. Certain numerical figures within aging schedule tables (Illustration 7.6) and journal entry amounts in some illustrations appeared as placeholders in the extracted text (values stripped during PDF conversion), so specific dollar amounts for those entries could not be verified from the source file. All formulas and examples cited are drawn from complete narrative passages. Appendix 7A (Cash Controls and Bank Reconciliation) was fully included in the source file.",
+
+  "sources": [
+    "Learning Objective 1 — Reporting Cash and Cash Equivalents (lines 56–237): Covers classification of cash, cash equivalents, restricted cash, bank overdrafts, and compensating balances with reference to IFRS authoritative literature footnotes [1]–[4].",
+    "Learning Objectives 2–4 — Recognition and Valuation of Accounts and Notes Receivable (lines 277–970): Covers transaction price, variable consideration, trade/cash discounts, returns, the allowance method, aging schedules, and present-value measurement of notes with effective-interest amortization, referencing IFRS literature footnotes [5]–[7].",
+    "Learning Objective 5 and IFRS/GAAP Comparison (lines 971–1843): Covers derecognition, factoring (with and without recourse), secured borrowing, accounts receivable turnover analysis, and a detailed comparison of IFRS vs. U.S. GAAP differences including impairment models and transfer-of-receivables criteria, referencing footnotes [8]–[11]."
+  ]
+}

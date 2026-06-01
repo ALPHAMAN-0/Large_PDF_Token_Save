@@ -1,0 +1,69 @@
+{
+  "executiveSummary": "Chapter 21 covers the accounting and reporting for lease transactions under IFRS 16, which mandates that lessees capitalize virtually all leases by recording a right-of-use (ROU) asset and a corresponding lease liability at the present value of future lease payments. The chapter explains lessee accounting (finance lease method for all leases), lessor accounting (classification into finance or operating leases using five tests), special adjustments such as residual values, executory costs, initial direct costs, and sale-leaseback transactions, and highlights the significant balance-sheet and financial-ratio impacts the new standard brings to companies in retail, aviation, and other lease-intensive industries.",
+
+  "keyTopics": [
+    "The leasing environment: leasing has grown into the fastest form of capital investment globally, with top-50 companies reporting over $1.3 trillion in leasing volume; lessors include banks (~43%), captive leasing companies (~33%), and independents (~24%).",
+    "Lessee accounting under IFRS 16: all leases (except low-value assets under $5,000 and short-term leases of 12 months or less) are capitalized by recording a ROU asset and lease liability equal to the present value of lease payments, with subsequent interest expense (effective-interest method) and straight-line depreciation.",
+    "Lease liability measurement: the liability is the present value of fixed payments, variable payments tied to an index/rate at commencement, the probable shortfall under a guaranteed residual value, and the cost of purchase or termination options reasonably certain to be exercised; unguaranteed residual values are excluded.",
+    "Discount rates: lessees use the implicit rate of the lessor if known; otherwise, the lessee's incremental borrowing rate is used. Lessors always use the implicit rate.",
+    "Lessor classification tests: a lessor classifies a lease as a finance lease if it meets at least one of five tests — (1) transfer of ownership, (2) bargain purchase option, (3) lease term is a major part (75% guideline) of economic life, (4) present value of payments equals or exceeds substantially all (90% guideline) of the asset's fair value, or (5) the asset is so specialized it has no alternative use to the lessor.",
+    "Finance lease accounting for lessors: at commencement the lessor derecognizes the asset and records a Lease Receivable; for sales-type leases, selling profit (Sales Revenue minus Cost of Goods Sold) is recognized immediately; interest revenue accrues over the lease term using the effective-interest method.",
+    "Operating lease accounting: lessors retain the asset on their balance sheet, depreciate it, and recognize lease revenue on a straight-line basis; lessees also capitalize a ROU asset and liability but (under IFRS 16) still apply the finance lease expense pattern.",
+    "Special adjustments and sale-leasebacks: the ROU asset is adjusted for lease prepayments (increases), lessor incentive payments (decreases), and initial direct costs (increases); in a sale-leaseback, whether a true sale or a failed sale (financing) is determined by applying revenue recognition control criteria."
+  ],
+
+  "importantDefinitions": {
+    "Lease": "A contract that conveys the right to control the use of an identified property, plant, or equipment asset for a period of time in exchange for consideration (IFRS 16).",
+    "Right-of-Use (ROU) Asset": "An asset recorded by the lessee representing its right to use the underlying leased asset over the lease term; initially measured equal to the lease liability, adjusted for prepayments, lessor incentives, and initial direct costs.",
+    "Lease Liability": "The lessee's obligation to make lease payments, measured at the present value of those payments using the implicit rate or, if not known, the incremental borrowing rate.",
+    "Finance Lease": "A lease that transfers substantially all the risks and rewards incidental to ownership of an underlying asset; meets at least one of five lessor classification tests under IFRS 16.",
+    "Operating Lease": "A lease that does not meet any of the five finance lease classification tests; the lessor retains the asset and recognizes revenue on a straight-line basis.",
+    "Implicit Interest Rate": "The discount rate that equates the present value of lease payments plus unguaranteed residual value to the fair value of the leased asset at lease commencement.",
+    "Incremental Borrowing Rate": "The rate the lessee would pay to borrow, over a similar term, funds sufficient to purchase the leased asset; used when the implicit rate is not known.",
+    "Guaranteed Residual Value": "A residual value whose realization at lease end is guaranteed by the lessee or a third party; included in the lessee's lease payments only to the extent the guaranteed amount is expected to exceed the asset's fair value at that date.",
+    "Unguaranteed Residual Value": "The portion of the leased asset's residual value not guaranteed; excluded from the lessee's lease liability computation but included in the lessor's Lease Receivable.",
+    "Bargain Purchase Option": "An option allowing the lessee to purchase the leased asset at a price substantially below expected fair value, making exercise reasonably certain; included in lease payments; lessee depreciates the ROU asset over the asset's economic life.",
+    "Initial Direct Costs": "Incremental costs (e.g., commissions, document preparation fees) that would not have been incurred absent execution of the lease; added to the lessee's ROU asset; expensed immediately by the lessor in a sales-type lease.",
+    "Sale-Leaseback": "A transaction in which a company sells an asset to another party and simultaneously leases it back; classified as a true sale or a failed sale (financing) based on whether control passes to the buyer-lessor."
+  },
+
+  "accountingTreatments": [
+    "Lessee at commencement — record ROU asset and lease liability at PV of lease payments: Dr Right-of-Use Asset / Cr Lease Liability. Immediately record first annuity-due payment: Dr Lease Liability / Cr Cash.",
+    "Lessee ongoing — at each period end recognize interest on the liability (effective-interest method): Dr Interest Expense / Cr Lease Liability; and depreciate the ROU asset (straight-line over lease term, or economic life if ownership transfers or bargain purchase option exists): Dr Depreciation Expense / Cr Accumulated Depreciation—ROU Asset.",
+    "Lessor — finance (sales-type) lease at commencement: Dr Lease Receivable (PV of all payments including residual values) / Cr Sales Revenue / Cr Inventory (or Equipment); also Dr Cost of Goods Sold / Cr Sales Revenue for the cost portion. Unguaranteed residual value reduces both Sales Revenue and COGS by its PV, leaving gross profit unchanged.",
+    "Lessor — operating lease: retain asset on balance sheet; collect cash: Dr Cash / Cr Unearned Lease Revenue; recognize revenue ratably: Dr Unearned Lease Revenue / Cr Lease Revenue; record depreciation: Dr Depreciation Expense / Cr Accumulated Depreciation—Equipment.",
+    "Residual value loss (lessee): if actual fair value at lease end is below guaranteed amount, record: Dr Loss on Lease / Cr Cash (or Lease Liability) for the deficiency.",
+    "ROU asset adjustment formula: ROU Asset = Lease Liability + Prepaid Lease Payments − Lease Incentives Received + Initial Direct Costs."
+  ],
+
+  "criticalFormulas": [
+    "Lease Liability (PV) = Lease Payment × PVF-AD(n, r) [annuity-due] or × PVF-OA(n, r) [ordinary annuity]; variables: lease payment = periodic cash payment, n = number of periods, r = discount rate (implicit or incremental borrowing rate). Example: €20,711.11 × PVF-AD(5, 4%) = €20,711.11 × 4.62990 = €95,890.35.",
+    "Lease Receivable (Lessor) = PV of Rental Payments + PV of Guaranteed Residual Value + PV of Unguaranteed Residual Value. Example: €20,711.11 × 4.62990 + €5,000 × 0.82193 = €95,890.35 + €4,109.65 = €100,000.00.",
+    "Lessor Lease Payment Derivation: Lease Payment = (Fair Value − PV of Residual Value) ÷ PVF-AD(n, r). Example: (€100,000 − €4,109.65) ÷ 4.62990 = €95,890.35 ÷ 4.62990 ≈ €20,711.11.",
+    "Guaranteed Residual Value Inclusion (Lessee): include PV of expected shortfall only = PV of (Guaranteed RV − Expected RV) if Guaranteed RV > Expected RV. Example: Expected RV = €3,000; Guaranteed RV = €5,000; shortfall = €2,000; PV = €2,000 × 0.82193 = €1,643.86, added to lease liability.",
+    "ROU Asset at Commencement = Lease Liability + Prepayments − Incentives + Initial Direct Costs. Example: €400,000 + €10,000 − €30,000 + €1,500 = €381,500."
+  ],
+
+  "illustrativeExample": "CNH Capital (lessor) leases a backhoe to Ivanhoe Mines (lessee) for 5 years; fair value €100,000, cost to CNH €85,000, guaranteed residual value €5,000, implicit rate 4%. Annual payment (annuity-due) = €20,711.11. Lessee PV of payments = €20,711.11 × 4.62990 = €95,890.35. Jan 1, 2022 — Lessee: Dr ROU Asset €95,890.35 / Cr Lease Liability €95,890.35; then Dr Lease Liability €20,711.11 / Cr Cash €20,711.11. Dec 31, 2022 — Lessee: Dr Interest Expense €3,007.17 / Cr Lease Liability €3,007.17; Dr Depreciation Expense €19,178.07 / Cr Accumulated Depreciation €19,178.07. Lessor Jan 1, 2022: Dr Lease Receivable €100,000 / Dr COGS €85,000 / Cr Sales Revenue €100,000 / Cr Inventory €85,000 (gross profit = €15,000). Total lessee financing cost over 5 years = €103,555.55 − €95,890.35 = €7,665.20.",
+
+  "disclosurePresentationNotes": [
+    "Lessee statement of financial position: ROU assets and lease liabilities are presented separately from other assets/liabilities, or disclosed in notes; current portion of lease liability (due within one year) classified as current, remainder as non-current.",
+    "Lessee income statement: interest expense on lease liabilities and depreciation expense on ROU assets are disclosed separately; under IFRS 16 these replace the single operating lease expense that existed under the old IAS 17.",
+    "Qualitative disclosures required by both lessees and lessors include: general description of lease arrangements, how variable payments are determined, terms and conditions of renewal/termination options and residual value guarantees, and significant assumptions/judgments such as discount rates.",
+    "Lessee quantitative disclosures include: total and component lease costs, weighted-average remaining lease term and discount rate, and a maturity analysis of finance lease liabilities showing undiscounted cash flows for each of the next five years plus thereafter. Lessor quantitative disclosures include: lease-related income, components of net investment in finance leases, and maturity analyses for both operating and finance lease receivables."
+  ],
+
+  "potentialPitfalls": [
+    "Residual value guarantee misapplication: students often include the full guaranteed residual value in the lease liability, but IFRS 16 requires the lessee to include only the present value of the expected shortfall (i.e., the amount by which the guaranteed value exceeds the expected fair value at lease end). If the expected value meets or exceeds the guarantee, nothing is added.",
+    "Discount rate selection: lessees must use the lessor's implicit rate when it is practicable to determine it; only when it is impracticable to determine the implicit rate may the lessee substitute its incremental borrowing rate. Using the incremental borrowing rate when the implicit rate is known overstates the liability and ROU asset.",
+    "Depreciation period confusion: the ROU asset is depreciated over the lease term when ownership does not transfer and there is no bargain purchase option; if either condition is present the depreciation period is the full economic life of the underlying asset. Using the wrong period materially misstates depreciation expense and the carrying amount of the ROU asset."
+  ],
+
+  "notesLimitations": "The chapter text was complete and read in full across all chunks. However, the amortization schedule tables (Illustrations 21.7, 21.11, 21.14, 21.23, 21B.3, 21B.7, GAAP21.3–21.4) were partially truncated in the extracted text — specific numerical column values were omitted, though the schedule structure and key totals were recoverable from surrounding narrative. Appendix figures and some journal entry amounts in the Practice Problem section were also partially omitted. All key concepts, formulas, and accounting treatments are fully represented.",
+
+  "sources": [
+    "Learning Objective 1 — The Leasing Environment (lines 62–281): describes the leasing market, lessor categories (banks, captives, independents), and advantages of leasing for both lessees and lessors.",
+    "Learning Objective 2 — Lessee Accounting (lines 283–937): covers right-of-use model, lease liability measurement, discount rates, residual value treatment (Examples 1–3), exceptions for low-value and short-term leases, and IFRS 16 versus IAS 17 expense front-loading discussion.",
+    "Learning Objectives 3 and 4 — Lessor Accounting and Special Problems (lines 938–1754): covers lessor classification tests, finance (sales-type) and operating lease accounting, executory costs, lease prepayments and incentives, initial direct costs, and presentation/disclosure requirements under IFRS 16."
+  ]
+}

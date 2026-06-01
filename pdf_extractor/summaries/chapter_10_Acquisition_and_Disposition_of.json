@@ -1,0 +1,68 @@
+{
+  "executiveSummary": "Chapter 10 covers the full lifecycle accounting for property, plant, and equipment (PP&E) under IFRS, from initial recognition and measurement of acquisition costs—including borrowing cost capitalization during construction—through subsequent expenditure treatment (additions, improvements, repairs) and final disposal. The chapter establishes that historical cost, inclusive of all costs necessary to bring an asset to its intended location and condition, is the primary measurement basis, and that gains or losses on disposition must be recognised in income.",
+
+  "keyTopics": [
+    "Definition and characteristics of PP&E: tangible assets held for use in production, supply of goods/services, rental, or administration; expected to be used over more than one period; not held for resale.",
+    "Initial cost measurement: historical cost includes purchase price plus all direct costs (freight, installation, trial runs, legal fees, taxes) required to bring the asset to its intended location and condition for use.",
+    "Borrowing cost capitalisation: IFRS requires capitalising actual borrowing costs (less any investment income on idle specific-debt proceeds) on qualifying assets during the capitalisation period, using either the specific-debt rate or a weighted-average capitalisation rate for general debt.",
+    "Special acquisition situations: assets purchased via deferred-payment contracts are recorded at present value; lump-sum purchases require allocation of total cost on a relative-fair-value basis; assets acquired by issuing shares use the market price of the shares (or fair value of property if share price is unavailable).",
+    "Non-monetary exchanges: when an exchange has commercial substance (future cash flows change), assets are recorded at fair value and gains/losses are recognised immediately; when commercial substance is absent, gains are deferred and reduce the basis of the acquired asset, while losses are still recognised.",
+    "Government grants: IFRS requires the income approach—grants are recognised in income on a systematic basis matching related costs, either as deferred grant revenue amortised over the asset's life or as a reduction in the asset's carrying amount reducing future depreciation.",
+    "Subsequent expenditures: additions and improvements that increase future economic benefits are capitalised; ordinary repairs and rearrangement/reorganisation costs are expensed as incurred; major overhauls are treated as separate components and capitalised.",
+    "Disposal of PP&E: depreciation is recorded to the disposal date, all related accounts are removed, and any resulting gain or loss is reported in the income statement; involuntary conversions are recognised in two stages—loss at the date of conversion and recovery gain when the insurance settlement is established."
+  ],
+
+  "importantDefinitions": {
+    "Property, Plant, and Equipment (PP&E)": "Tangible assets held for use in production, supply of goods or services, for rental to others, or for administrative purposes, expected to be used during more than one period.",
+    "Historical Cost": "The cash or cash equivalent price of obtaining an asset and bringing it to the location and condition necessary for its intended use.",
+    "Borrowing Costs": "Interest and other costs incurred by an entity in connection with the borrowing of funds, which may be capitalised into the cost of a qualifying asset under IFRS.",
+    "Qualifying Asset": "An asset that necessarily takes a substantial period of time to get ready for its intended use or sale, thereby qualifying for borrowing cost capitalisation.",
+    "Capitalization Period": "The period during which borrowing costs are capitalised; begins when expenditures are being incurred, construction activities are in progress, and borrowing costs are being incurred, and ends when the asset is substantially complete.",
+    "Capitalization Rate": "The weighted-average rate of borrowing costs applicable to general (non-specific) debt outstanding during the period, used to determine the amount of borrowing costs eligible for capitalisation.",
+    "Commercial Substance": "An exchange has commercial substance when the future cash flows of the entity change as a result of the transaction, i.e., the economic positions of the parties differ after the exchange.",
+    "Government Grant": "Assistance from a government in the form of transfers of resources to a company in return for past or future compliance with conditions relating to the company's operating activities.",
+    "Component Depreciation": "IFRS requirement to identify significant components of an asset separately, determine each component's depreciation base, and depreciate each component individually over its own useful life.",
+    "Involuntary Conversion": "Termination of an asset's service through an uncontrollable event such as fire, flood, theft, or condemnation, typically followed by an insurance recovery recorded as a separate gain."
+  },
+
+  "accountingTreatments": [
+    "Initial recognition — capitalise all costs necessary to bring PP&E to its intended location and condition: purchase price (net of trade discounts), import duties, non-refundable taxes, freight, installation, and trial-run costs. Start-up costs, administrative overhead, and promotional costs are expensed.",
+    "Borrowing costs during construction (specific debt): Dr Buildings (Capitalised Borrowing Cost) / Cr Cash for actual interest less any investment income earned on temporarily invested specific-debt proceeds.",
+    "Borrowing costs during construction (general debt): multiply the average carrying amount of the project by the weighted-average capitalisation rate; amount capitalised cannot exceed total actual borrowing costs incurred. Journal entry: Dr Buildings / Dr Interest Expense (remainder) / Cr Cash.",
+    "Non-monetary exchange with commercial substance — record acquired asset at fair value of asset given up (or asset received if more clearly evident); recognise gain or loss immediately: Dr New Asset + Dr Accumulated Depreciation / Cr Old Asset ± Gain/Loss on Disposal ± Cash.",
+    "Non-monetary exchange without commercial substance — record acquired asset at book value of asset given up plus cash paid (gain deferred, reducing asset basis); losses still recognised immediately: Dr New Asset + Dr Accumulated Depreciation / Cr Old Asset / Cr Cash.",
+    "Disposal by sale — update depreciation to sale date, then: Dr Cash + Dr Accumulated Depreciation / Cr Asset at cost ± Gain or Loss on Disposal of [Asset]."
+  ],
+
+  "criticalFormulas": [
+    "Average Carrying Amount (general debt) = Sum of (Expenditure Amount × Months Remaining in Capitalisation Period / 12). Example: $400,000 on Jan 1 × 12/12 = $400,000; $200,000 on Mar 1 × 10/12 = $166,667; $200,000 on May 1 × 8/12 = $133,333 → Total average carrying amount = $700,000 [VERIFY exact figures per Illustration 10.3].",
+    "Capitalization Rate (general debt) = Sum of (Interest Rate × Debt Amount) / Total General Debt Outstanding. Example from chapter: (0.10 × $1,000,000 + 0.12 × $1,500,000) / $2,500,000 = $280,000 / $2,500,000 = 11.2%.",
+    "Borrowing Costs to Capitalise (general debt) = Average Carrying Amount × Capitalisation Rate, subject to a ceiling of Actual Total Borrowing Costs. Example: $820,000 × 11.2% = $91,840, which is less than actual costs of $280,000, so $91,840 is capitalised.",
+    "Lump-Sum Purchase Allocation = (Individual Asset Fair Value / Total Fair Values of All Assets) × Total Purchase Price. Example from chapter: Land FV $40,000 / Total FV $160,000 × $80,000 = $20,000 allocated to land.",
+    "Present Value of Zero-Interest Note (deferred payment) = Future Payment × PV Factor. Example: €20,000 annual payment × PVF-OA(5, 10%) = €20,000 × 3.79079 = €75,816 recorded as equipment cost.",
+    "Gain or Loss on Disposal = Proceeds Received − Book Value of Asset. Example: machine sold for €7,000; book value €6,600 (cost €18,000 − accumulated depreciation €11,400) → Gain = €400."
+  ],
+
+  "illustrativeExample": "Columbia SA (Practice Problem): Machine purchased for €12,000 + 6% sales tax (€720) + €2,800 platform = total capitalised cost €15,520. Warehouse constructed under specific €1,000,000 borrowing at 10% p.a.; capitalisation period is 9 months (March 1 to December 31), so interest = €1,000,000 × 10% × 9/12 = €75,000; less investment income on idle funds of €13,000 → borrowing costs capitalised = €62,000. Machine sold July 1, 2024: accumulated depreciation = €1,690 (2022 half-year) + €3,380 (2023 full year) + €1,690 (2024 half-year) = €6,760; book value = €15,520 − €6,760 = €8,760; proceeds €7,000 → Loss on disposal = €1,760.",
+
+  "disclosurePresentationNotes": [
+    "Borrowing costs: entities must disclose the amount of borrowing costs capitalised during the period and the capitalisation rate used; see Royal Dutch Shell example (Illustration 10.6) reporting interest incurred, interest capitalised, and the applied rate (4% in 2018).",
+    "Government grants: entities must disclose the accounting policy adopted (deferred income approach or asset-reduction approach), the nature and extent of grants recognised, and unfulfilled conditions or contingencies; PetroChina (deferred income) and Daimler AG (asset reduction) illustrate both policies.",
+    "Non-monetary exchanges: entities must disclose the nature of transactions, the method of accounting for the assets exchanged, and the amount of any gains or losses recognised on the exchanges during the period.",
+    "Fully depreciated assets still in use: although IFRS does not explicitly prohibit omitting zero-carrying-amount assets, adequate disclosure of the cost and nature of such assets is generally required to avoid a misleading presentation (noted as an evaluative question in the chapter)."
+  ],
+
+  "potentialPitfalls": [
+    "Capitalising rearrangement, reorganisation, or start-up costs: IFRS expressly prohibits capitalising costs incurred after an asset is already in the location and condition intended by management, as well as initial operating losses and promotional expenses—these must be expensed immediately even though they may feel like necessary launch costs.",
+    "Misapplying the borrowing-cost ceiling for general debt: companies must compare their computed capitalisation amount (average carrying amount × capitalisation rate) to actual total borrowing costs incurred and capitalise only the lower figure; failing to apply this cap can overstate asset costs and understate interest expense.",
+    "Recording a profit on self-construction or using inflated trade-in allowances: a company must never record assets above fair value—self-constructed assets capped at what an outside producer would charge, and non-monetary exchange assets recorded at fair value of the asset given up (not the dealer's inflated trade-in allowance), otherwise assets and future depreciation are both misstated (illustrated by the WorldCom fraud where operating costs were improperly capitalised)."
+  ],
+
+  "notesLimitations": "The chapter text was fully captured in a single read (1,519 lines). Numerical figures within tables in Illustrations 10.3, 10.4, 10.7, 10.9–10.13, 10.15–10.16 were partially missing or truncated in the source file (column values absent from extracted text); formulas and examples were reconstructed from surrounding narrative text and the Practice Problem solution where specific numbers were available. No appendices or global accounting insights (noted as deferred to Chapter 11) were included in this file.",
+
+  "sources": [
+    "Learning Objective 1 — Property, Plant, and Equipment: Identification and Initial Costs (lines 60–235)",
+    "Learning Objective 2 — Capitalisation of Borrowing Costs, including specific debt, general debt, and blended-debt illustrations (lines 236–503)",
+    "Learning Objectives 3–5 — Valuation Issues, Subsequent Expenditures, and Disposition (lines 504–1233); Practice Problem and Solution (lines 1324–1383)"
+  ]
+}

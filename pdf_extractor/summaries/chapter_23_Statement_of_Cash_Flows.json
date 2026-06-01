@@ -1,0 +1,67 @@
+{
+  "executiveSummary": "Chapter 23 explains the purpose, format, and preparation of the statement of cash flows, which classifies all cash receipts and payments into operating, investing, and financing activities. The chapter demonstrates both the indirect method (reconciling net income to cash from operations) and the direct method (reporting gross operating cash receipts and disbursements), using a multi-year Tax Consultants Inc. illustration and a comprehensive Satellite Ltd. worksheet example. A central lesson is that accrual-based net income can diverge sharply from operating cash flow — a disconnect that can signal financial distress, as illustrated by the W. T. Grant bankruptcy.",
+
+  "keyTopics": [
+    "Purpose and usefulness of the statement of cash flows: The statement reveals a company's ability to generate future cash, pay dividends and obligations, and explains the gap between net income and operating cash flows — information unavailable from the income statement alone.",
+    "Three-activity classification: Every cash flow is classified as operating (income-statement-related), investing (non-current asset transactions), or financing (liability and equity transactions), with IFRS allowing some flexibility on interest/dividend placement.",
+    "Indirect method for operating activities: Starts with accrual-based net income and adds back non-cash expenses (depreciation, amortization) while adjusting for working capital changes (receivables, payables, inventory) and non-operating gains/losses to arrive at net cash from operations.",
+    "Direct method for operating activities: Converts each income statement line to a cash basis, reporting major classes such as cash collected from customers and cash paid to suppliers; IASB encourages this method but most companies use the indirect method in practice.",
+    "Special adjustments: Non-cash items such as deferred taxes, share-based compensation expense, bond discount/premium amortization, equity-method income, and unrealized gains/losses on investments each require specific adjustments to reconcile net income to operating cash flow.",
+    "Significant non-cash transactions: Material investing/financing events that involve no cash (e.g., acquiring land via a note payable, converting bonds to shares) must be disclosed in a supplemental note or schedule rather than on the face of the statement.",
+    "Worksheet approach: A structured worksheet is recommended for complex entities; it lists beginning and ending balance-sheet balances, reconciles every account change with a corresponding cash flow effect, and ensures the totals agree before the formal statement is prepared.",
+    "IFRS vs. U.S. GAAP differences: IFRS permits more classification flexibility for interest paid/received and dividends paid/received and requires non-cash activities to appear only in notes, while U.S. GAAP mandates operating treatment for most interest/dividend items and may show non-cash activities in a separate cash flow schedule."
+  ],
+
+  "importantDefinitions": {
+    "Statement of Cash Flows": "A required financial statement that reports all cash receipts and cash payments during a period, classified into operating, investing, and financing activities, and reconciles the beginning and ending cash balances.",
+    "Operating Activities": "Cash flows directly related to the revenues, expenses, gains, and losses that enter into the determination of net income, such as collections from customers and payments to suppliers and employees.",
+    "Investing Activities": "Cash flows from acquiring and disposing of non-current assets — including property, plant, equipment, intangibles, and investments — and from making and collecting loans.",
+    "Financing Activities": "Cash flows from transactions with debt and equity providers, including issuing or repurchasing shares, borrowing or repaying debt, and paying cash dividends.",
+    "Indirect Method": "A presentation approach for operating activities that begins with accrual-based net income and adjusts for non-cash charges (e.g., depreciation), non-cash credits, and changes in working capital to compute net cash from operations; also called the reconciliation method.",
+    "Direct Method": "A presentation approach for operating activities that reports the actual gross amounts of operating cash receipts (e.g., cash from customers) and cash disbursements (e.g., cash to suppliers), producing a condensed cash-basis income statement.",
+    "Cash Equivalents": "Short-term, highly liquid investments with original maturities of three months or less that are readily convertible to known amounts of cash and carry insignificant risk of value change (e.g., Treasury bills, commercial paper, money market funds).",
+    "Significant Non-Cash Transactions": "Material investing or financing events that do not involve cash flows — such as acquiring assets by issuing shares or assuming liabilities — and must be disclosed in a supplemental note rather than within the body of the statement.",
+    "Free Cash Flow": "Operating cash flow minus capital expenditures and dividends; represents the discretionary cash available to management and is widely used by analysts to value shares.",
+    "COROA (Cash Operating Return on Assets)": "An advanced profitability metric that divides pre-tax, pre-interest operating cash flow by total gross assets (including accumulated depreciation), intended to measure pure cash returns on all invested capital without distortion from leverage or tax rates. [VERIFY exact formula details from original source]"
+  },
+
+  "accountingTreatments": [
+    "Depreciation and amortization: Because these non-cash charges reduce net income but not cash, they are added back to net income in the operating section under the indirect method. No separate cash flow entry is made; the actual cash outflow was recorded as an investing activity in the year the asset was purchased.",
+    "Gains and losses on asset disposals: A gain on sale is deducted from net income in the operating section (to avoid double-counting with the full cash proceeds reported in investing); a loss on sale is added back to net income (it is a non-cash income-statement charge). The complete cash proceeds from the sale appear as an investing inflow.",
+    "Working capital changes: Increases in current assets (receivables, inventory, prepaid expenses) are deducted from net income; decreases are added. Increases in current liabilities (accounts payable, accrued liabilities) are added; decreases are deducted. These adjustments convert accrual revenues and expenses to a cash basis.",
+    "Bond discount/premium amortization: Discount amortization increases interest expense without a cash outflow, so it is added back to net income; premium amortization decreases interest expense without a cash inflow, so it is deducted from net income in the operating section.",
+    "Share-based compensation: The non-cash credit to Share Premium—Options is matched by a debit to Compensation Expense that reduces net income. The expense is added back to net income in operating activities; subsequent option exercises appear as a financing cash inflow.",
+    "Non-cash investing/financing transactions (e.g., land acquired via note payable): These transactions are excluded from the body of the statement of cash flows but must be disclosed in a supplemental note or schedule. Example journal entry for disclosure: Dr. Land 60,000 / Cr. Notes Payable 60,000 — reported as a supplemental non-cash transaction."
+  ],
+
+  "criticalFormulas": [
+    "Net Cash from Operating Activities (Indirect) = Net Income + Non-Cash Expenses (depreciation, amortization) + Losses on Asset Sales − Gains on Asset Sales − Increases in Current Assets + Decreases in Current Assets + Increases in Current Liabilities − Decreases in Current Liabilities. Example: Net income $134,000 + Depreciation $21,000 + Decrease in A/R $10,000 − Increase in prepaid $6,000 + Increase in A/P $35,000 = Net Cash from Operations $194,000.",
+    "Cash Receipts from Customers (Direct) = Sales Revenue − Increase in Accounts Receivable (or + Decrease in Accounts Receivable). Example: Sales $780,000 − Increase in A/R $15,000 = Cash collected $765,000.",
+    "Cash Payments to Suppliers (Direct) = Cost of Goods Sold + Increase in Inventory (or − Decrease in Inventory) − Increase in Accounts Payable (or + Decrease in Accounts Payable). Example: COGS $450,000 + Inventory increase $160,000 − A/P increase $60,000 = Cash paid to suppliers $550,000.",
+    "Cash Payments for Operating Expenses (Direct) = Operating Expenses + Increase in Prepaid Expenses (or − Decrease) − Increase in Accrued Expenses Payable (or + Decrease). Example: Op. expenses $160,000 + Prepaid increase $8,000 − Accrued payable increase $20,000 = Cash paid for op. expenses $148,000.",
+    "Change in Cash = Cash End of Period − Cash Beginning of Period = Net Cash from Operating + Investing + Financing Activities. Example: $49,000 − $0 = $3,000 + $0 + $46,000."
+  ],
+
+  "illustrativeExample": "Tax Consultants Inc. — Year 2 (2023): Net income $134,000. Non-cash add-back: depreciation $21,000. Working capital: A/R decreased $10,000 (add), prepaid increased $6,000 (deduct), A/P increased $35,000 (add). Net cash from operations = $134,000 + $21,000 + $10,000 − $6,000 + $35,000 = $194,000. Investing: purchased land $(70,000), building $(200,000), equipment $(68,000) = $(338,000). Financing: issued bonds $150,000, paid dividends $(18,000) = $132,000. Net change in cash = $194,000 − $338,000 + $132,000 = −$12,000 (cash decreased from $49,000 to $37,000).",
+
+  "disclosurePresentationNotes": [
+    "Significant non-cash investing and financing activities (e.g., acquiring land by issuing a long-term note, converting bonds to ordinary shares) must be disclosed in a separate supplemental note or schedule to the financial statements and excluded from the body of the cash flow statement under IFRS (IAS 7).",
+    "Interest paid, interest received, dividends received, and dividends paid must each be separately disclosed and classified consistently from period to period; under the chapter's assignment conventions, the first three are classified as operating and dividends paid as financing (IFRS IAS 7 reference [9]).",
+    "Income taxes paid must be disclosed separately as an operating cash flow unless they can be directly identified with a specific investing or financing activity; many entities present a supplemental line 'Income taxes paid: $X' within or alongside the operating section.",
+    "Companies must disclose the components of cash and cash equivalents each period; if cash equivalent definitions change or bank overdrafts are included in cash and cash equivalents (permitted under IFRS but not U.S. GAAP), that policy must be disclosed."
+  ],
+
+  "potentialPitfalls": [
+    "Double-counting gains/losses: A common error is failing to remove a gain (or add back a loss) from net income when the full sale proceeds are already reported as an investing cash inflow. Leaving the gain in net income overstates operating cash flow, while leaving the loss in net income understates it.",
+    "Netting accounts receivable incorrectly under the direct method: Using the net change in accounts receivable (net of the allowance for doubtful accounts) overstates cash received from customers and understates cash operating expenses; under the direct method each must be adjusted separately — gross receivables for cash collections and the allowance change for bad-debt expense.",
+    "Treating all working capital changes as operating: Not all current-account movements belong in operating activities. The purchase of short-term non-trading equity investments is an investing outflow; issuance of a short-term non-trade note payable is a financing inflow; and a declared-but-unpaid dividend does not appear anywhere on the statement until actually paid."
+  ],
+
+  "notesLimitations": "The chapter text was fully readable through line 2200. Numeric values inside many illustration tables (e.g., specific dollar amounts in Illustrations 23.3–23.42 for Tax Consultants and Satellite Ltd.) were partially omitted from the extracted text because the PDF-to-text conversion rendered column headings but suppressed some table cell values. The Satellite Ltd. comprehensive illustration and its formal statement (Illustration 23.42) are described qualitatively but specific HK$ subtotals beyond those explicitly stated in the text could not be verified from the extracted file. No figures or appendix graphics were recoverable from the plain-text extraction.",
+
+  "sources": [
+    "Learning Objective 1 — Describe the usefulness and format of the statement of cash flows (IAS 7 authoritative references [1]–[4])",
+    "Learning Objectives 2 & 3 — Prepare a statement of cash flows; contrast direct and indirect methods (Tax Consultants Inc. illustrations, Years 1–3; Drogba SA direct-method example; IAS 7 reference [6])",
+    "Learning Objectives 4 & 5 — Special problems in preparation; use of a worksheet (Satellite Ltd. comprehensive example; IFRS/U.S. GAAP comparison section; IAS 7 references [8]–[9])"
+  ]
+}

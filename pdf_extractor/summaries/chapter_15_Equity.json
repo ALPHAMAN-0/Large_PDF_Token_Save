@@ -1,0 +1,66 @@
+{
+  "executiveSummary": "Chapter 15 covers the accounting and reporting of corporate equity, examining the issuance of ordinary and preference shares, treasury share transactions, and the four types of dividends. It concludes by showing how to present the equity section of the statement of financial position and how to compute key analytical ratios such as return on equity, payout ratio, and book value per share.",
+
+  "keyTopics": [
+    "Corporate form and share system: Corporations issue shares to raise capital; each share within a class carries equal rights including participation in profits, voting, asset claims on liquidation, and the preemptive right to maintain proportionate ownership.",
+    "Equity components: Equity is classified into share capital, share premium, retained earnings, accumulated other comprehensive income, treasury shares, and non-controlling interest, with a key distinction drawn between contributed (paid-in) capital and earned capital (retained earnings).",
+    "Issuance of shares: Shares may be issued at par, at no-par with a stated value, in lump-sum transactions (allocated using the proportional or incremental method), for non-cash consideration (at fair value of goods/services received), or at a cost charged against share premium.",
+    "Preference shares: A special share class that may carry dividend priority, liquidation priority, convertibility into ordinary shares, callability, and non-voting status; redeemable preference shares with mandatory redemption features must be classified as liabilities under IFRS.",
+    "Treasury shares: Shares repurchased but not retired; recorded under the cost method as a deduction from equity, not as an asset; gains or losses on reissuance are routed through Share Premium—Treasury (not income), with any excess deficit charged to Retained Earnings.",
+    "Types of dividends: Cash dividends create a liability on declaration; property dividends require remeasurement to fair value at declaration with any gain or loss recognized; liquidating dividends return contributed capital and must be disclosed; share dividends reclassify retained earnings to share capital at par value without changing total equity.",
+    "Share splits versus share dividends: A share split increases shares outstanding and reduces par value per share with only a memorandum entry; a share dividend transfers par value from retained earnings to share capital and does not change par value per share.",
+    "Equity analysis ratios: Return on ordinary share equity (net income minus preference dividends divided by average ordinary equity), payout ratio (cash dividends to net income), and book value per share (ordinary shareholders' equity divided by outstanding ordinary shares) are the primary ratios used to evaluate equity."
+  ],
+
+  "importantDefinitions": {
+    "Equity": "The residual interest in the assets of a company after deducting all liabilities; equals net assets and is also called shareholders' equity or corporate capital.",
+    "Contributed (Paid-in) Capital": "The total amount paid in by shareholders for shares issued, comprising par value of outstanding shares plus share premium (net of any discounts).",
+    "Retained Earnings": "Earned capital accumulated from profitable operations that has not been distributed as dividends; represents undistributed income remaining invested in the company.",
+    "Ordinary Shares": "The basic residual ownership interest in a corporation, bearing the ultimate risks of loss and benefits of success, with no guaranteed dividends or liquidation priority.",
+    "Preference Shares": "A special class of shares that possess certain preferences over ordinary shares—typically priority as to dividends and liquidation proceeds—in exchange for sacrificing some ordinary rights such as voting.",
+    "Treasury Shares": "A corporation's own shares that have been issued, fully paid, and subsequently reacquired but not yet retired; deducted from equity and carry no voting rights, dividend rights, or liquidation claims.",
+    "Preemptive Right": "The inherent right of existing shareholders to purchase a proportionate share of any new issue of the same class of shares, protecting them from involuntary dilution of their ownership interest.",
+    "Liquidating Dividend": "A dividend paid from contributed capital rather than retained earnings, representing a return of shareholders' investment rather than a distribution of profits.",
+    "Share Premium": "Amounts paid by shareholders in excess of a share's par or stated value; reported separately in equity and not available for recognition as income.",
+    "Par Value": "A nominal value assigned to a share in the corporate charter; has no relationship to fair value but establishes the minimum legal capital amount credited to the Share Capital account."
+  },
+
+  "accountingTreatments": [
+    "Issuance of par value shares: Debit Cash (or asset received), Credit Share Capital—Ordinary at par value, Credit Share Premium—Ordinary for any excess. Direct issue costs (underwriting, legal, printing) are debited to Share Premium; indirect costs (management salaries) are expensed.",
+    "Treasury shares—purchase (cost method): Debit Treasury Shares at full repurchase cost; Credit Cash. The Share Capital and Share Premium accounts are not adjusted on purchase. Treasury Shares is reported as a deduction from total equity.",
+    "Treasury shares—reissuance above cost: Debit Cash, Credit Treasury Shares at cost, Credit Share Premium—Treasury for the excess. No gain is recognised in income.",
+    "Treasury shares—reissuance below cost: Debit Cash, Debit Share Premium—Treasury (to extent of existing credit balance), Debit Retained Earnings (any remaining shortfall), Credit Treasury Shares at cost.",
+    "Cash dividend: At declaration — Debit Retained Earnings (or Cash Dividends Declared), Credit Dividends Payable (current liability). At payment — Debit Dividends Payable, Credit Cash.",
+    "Share dividend: At declaration — Debit Retained Earnings at par value of shares distributable, Credit Ordinary Share Dividend Distributable (shown in equity, not as a liability). At distribution — Debit Ordinary Share Dividend Distributable, Credit Share Capital—Ordinary. No change in total equity."
+  ],
+
+  "criticalFormulas": [
+    "Return on Ordinary Share Equity = (Net Income − Preference Dividends) / Average Ordinary Shareholders' Equity. Variables: Net Income = total earnings for the period; Preference Dividends = dividends declared on preference shares; Average Ordinary Shareholders' Equity = average of opening and closing ordinary equity. Example: ($360,000 − $54,000) / $2,550,000 = 12%.",
+    "Payout Ratio = Cash Dividends (to Ordinary Shareholders) / (Net Income − Preference Dividends). Variables: Cash Dividends = dividends paid in cash to ordinary shareholders; Net Income = earnings for the period; Preference Dividends = dividends paid to preference shareholders. Example: €100,000 / €500,000 = 20%.",
+    "Book Value per Share = Ordinary Shareholders' Equity / Outstanding Ordinary Shares. Variables: Ordinary Shareholders' Equity = total equity less preference share equity; Outstanding Ordinary Shares = issued shares minus treasury shares. Example: HK$1,000,000 / 100,000 shares = HK$10 per share.",
+    "Lump-Sum Allocation—Proportional Method: Proceeds allocated to each class = (Fair Value of Class / Aggregate Fair Value of All Classes) × Total Proceeds. Example: Ordinary class fair value $20,000; preference $12,000; aggregate $32,000; total proceeds $30,000. Ordinary gets ($20,000/$32,000) × $30,000 = $18,750; Preference gets $11,250."
+  ],
+
+  "illustrativeExample": "Pacific Company issued 100,000 shares of $1 par ordinary shares at $10 per share (equity: $100,000 share capital + $900,000 share premium + $300,000 retained earnings = $1,300,000). On Jan 20, 2022, Pacific repurchases 10,000 shares at $11 each: Debit Treasury Shares $110,000 / Credit Cash $110,000. On Mar 10, 2022, Pacific resells 1,000 treasury shares at $15 each: Debit Cash $15,000 / Credit Treasury Shares $11,000 / Credit Share Premium—Treasury $4,000. On Mar 21, Pacific sells another 1,000 shares at $8: Debit Cash $8,000 / Debit Share Premium—Treasury $3,000 / Credit Treasury Shares $11,000. The $4,000 credit minus the $3,000 debit leaves a $1,000 credit balance in Share Premium—Treasury before the next transaction.",
+
+  "disclosurePresentationNotes": [
+    "Equity section of the statement of financial position must disclose for each class of shares: number of shares authorized, issued, and outstanding; par or stated value; dividend and liquidation preferences; participation rights; call prices and dates; conversion or exercise prices and dates; sinking fund requirements; and unusual voting rights.",
+    "Dividends in arrears on cumulative preference shares do not constitute a liability but must be disclosed in the notes to the financial statements, with the amount clearly stated (e.g., 'The Company is in arrears on preference shares in the amount of X').",
+    "IFRS requires a statement of changes in equity showing: total comprehensive income (split between owners of the parent and non-controlling interests), effects of retrospective restatements, and a reconciliation of each equity component from opening to closing balance including profit/loss, other comprehensive income, and owner transactions.",
+    "Restrictions on retained earnings (e.g., from bond covenants, treasury share purchases, legal reserves) are best disclosed by note, identifying the source, pertinent provisions, and the restricted or unrestricted amount; liquidation preferences must be disclosed in the equity section itself, not only in the notes."
+  ],
+
+  "potentialPitfalls": [
+    "Treating treasury shares as an asset: Treasury shares are not assets—repurchasing own shares reduces both assets and equity simultaneously. Classifying them as assets overstates total assets and misstates equity, violating the conceptual definition that an asset must provide probable future economic benefits to the entity.",
+    "Recognising gains or losses on treasury share transactions in income: Any difference between the cost of treasury shares and their resale price must be routed through Share Premium—Treasury (credit for gains; debit up to the credit balance for losses) and then to Retained Earnings—never to the income statement, because corporations cannot realise a profit or loss on transactions with their own shareholders.",
+    "Confusing share dividends with share splits: A share dividend requires a journal entry (debit Retained Earnings at par value, credit Share Dividend Distributable) and increases total par value of outstanding shares without changing par value per share. A share split requires only a memorandum entry, reduces par value per share, and changes no dollar amounts in the equity accounts; treating one like the other produces incorrect retained earnings balances and misclassified equity components."
+  ],
+
+  "notesLimitations": "The chapter text was fully readable with no truncation. Some illustration tables (e.g., Illustrations 15.1–15.18) contained partially extracted numerical data due to PDF-to-text conversion formatting; specific dollar amounts in columnar illustrations (particularly the BASF Statement of Equity in Illustration 15.18 and the D'Ouville practice problem solution) may be incomplete. Appendix 15A covering detailed dividend preference calculations and book value per share with arrears was included in the reading. No figures or appendices appear to be missing from the extracted text.",
+
+  "sources": [
+    "Learning Objective 1 — Corporate Form and Issuance of Shares (covering par value, no-par, lump-sum, non-cash, and costs of issuance; pp. 1–30 of chapter text)",
+    "Learning Objective 2 — Accounting and Reporting for Treasury Shares (cost method, purchase, reissuance above/below cost, and retirement; pp. 31–50 of chapter text)",
+    "Learning Objectives 3 & 4 — Dividends, Presentation, and Analysis (cash, property, liquidating, and share dividends; share splits; equity presentation; ROE, payout ratio, book value per share; pp. 51–100 of chapter text)"
+  ]
+}

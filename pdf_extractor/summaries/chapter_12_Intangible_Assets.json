@@ -1,0 +1,66 @@
+{
+  "executiveSummary": "Chapter 12 examines the recognition, measurement, amortization, impairment, and disclosure of intangible assets under IFRS, covering all major categories from patents and trademarks to goodwill. The chapter distinguishes between limited-life intangibles (amortised over useful life) and indefinite-life intangibles (not amortised but tested annually for impairment), and contrasts purchased versus internally created assets. Research costs are always expensed; certain development costs are capitalised once economic viability is achieved.",
+
+  "keyTopics": [
+    "Characteristics of intangible assets: identifiability (separable or arising from contractual/legal rights), lack of physical substance, and non-monetary nature — forming the basis for recognition under IFRS.",
+    "Valuation of purchased vs. internally created intangibles: purchased intangibles are capitalised at cost (including incidental acquisition costs), while most internally created intangibles are expensed, with narrow exceptions for development-phase costs meeting economic-viability criteria.",
+    "Amortisation of limited-life intangibles: cost less residual value is allocated over useful life using the pattern of consumption; if indeterminable, straight-line is used. Residual value is assumed zero unless reliable evidence exists.",
+    "Indefinite-life intangibles: not amortised; instead tested for impairment at least annually by comparing carrying amount to recoverable amount (higher of fair value less costs to sell or value-in-use).",
+    "Six categories of intangible assets: marketing-related (trademarks, domain names), customer-related (customer lists, order backlogs), artistic-related (copyrights), contract-related (franchises, licences), technology-related (patents), and goodwill.",
+    "Goodwill: recorded only in a business combination as the excess of purchase price over the fair value of identifiable net assets acquired (master valuation approach); never amortised; tested for impairment annually at the cash-generating unit (CGU) level; goodwill impairment losses cannot be reversed.",
+    "Impairment of intangibles: limited-life assets are reviewed for indicators and tested when indicators exist; impairment loss equals carrying amount minus recoverable amount; losses on assets other than goodwill may be reversed in a later period up to the would-have-been carrying amount.",
+    "Research and development costs: all research-phase costs and most development-phase costs are expensed; capitalisation of development costs begins only when all six economic-viability criteria are simultaneously met. Similar costs — start-up costs, initial operating losses, and advertising costs — are also expensed as incurred."
+  ],
+
+  "importantDefinitions": {
+    "Intangible Asset": "An identifiable, non-monetary asset without physical substance that provides future economic benefits, normally classified as non-current.",
+    "Amortisation": "The systematic allocation of the cost (less residual value) of a limited-life intangible asset to expense over its useful life.",
+    "Limited Useful Life": "A finite period over which an intangible asset is expected to generate cash flows, determined by legal, contractual, competitive, or other economic factors.",
+    "Indefinite Useful Life": "A condition where no foreseeable limit exists on the period an intangible will provide cash flows; such assets are not amortised.",
+    "Goodwill": "The excess of the purchase price of an acquired business over the fair value of its identifiable net assets; recognised only in a business combination and not amortised.",
+    "Recoverable Amount": "The higher of an asset's fair value less costs to sell and its value-in-use; the benchmark used in impairment testing under IFRS.",
+    "Value-in-Use": "The present value of estimated future cash flows expected from the continued use and ultimate disposal of an asset.",
+    "Economic Viability": "The point in the development phase at which it is probable that the future economic benefits of an R&D project will flow to the company, triggering capitalisation of subsequent development costs.",
+    "Bargain Purchase": "A business combination in which the purchase price is less than the fair value of identifiable net assets acquired; the excess is recognised immediately as a gain.",
+    "Cash-Generating Unit (CGU)": "The smallest identifiable group of assets that generates cash inflows largely independent of other assets; the unit at which goodwill impairment is tested."
+  },
+
+  "accountingTreatments": [
+    "Purchased intangibles — capitalise at cost (purchase price + legal fees + incidental costs); in a basket purchase allocate on relative fair values. Journal entry: Dr Intangible Asset / Cr Cash (or other consideration).",
+    "Internally created intangibles — expense all research-phase costs immediately; capitalise development-phase costs only once all economic-viability criteria are met. Journal entry before viability: Dr R&D Expense / Cr Cash; after viability: Dr Intangible Asset / Cr Cash.",
+    "Amortisation of limited-life intangibles — Dr Amortisation Expense / Cr Accumulated Amortisation (or the asset account directly) each period; base = cost minus residual value; method follows pattern of consumption or straight-line.",
+    "Impairment loss — if carrying amount exceeds recoverable amount: Dr Loss on Impairment / Cr Intangible Asset (or Accumulated Impairment). Recoverable amount becomes the new carrying amount for future amortisation. Impairment on goodwill is never reversed; impairment on other intangibles may be reversed.",
+    "Goodwill recognition in a business combination — Dr identifiable assets at FV, Dr Goodwill (residual) / Cr Liabilities at FV, Cr Cash. Goodwill is subsequently held at cost less accumulated impairment; no amortisation.",
+    "Start-up costs, initial operating losses, advertising costs — Dr Expense (operating or R&D) / Cr Cash or Payable; no deferral or capitalisation permitted under IFRS."
+  ],
+
+  "criticalFormulas": [
+    "Amortisation Expense = (Cost - Residual Value) / Useful Life  |  Variables: Cost = acquisition cost; Residual Value = estimated net realisable value at end of useful life (often 0); Useful Life = years of expected benefit.  |  Example: Patent cost €180,000, residual 0, useful life 10 yrs → €180,000 / 10 = €18,000 per year.",
+    "Goodwill = Purchase Price - Fair Value of Identifiable Net Assets  |  Variables: Purchase Price = total consideration paid; Fair Value of Identifiable Net Assets = FV of all identifiable assets minus FV of liabilities assumed.  |  Example: Feng pays $400,000; fair value of Tractorling's net assets = $350,000 → Goodwill = $50,000.",
+    "Impairment Loss = Carrying Amount - Recoverable Amount  (only if Carrying Amount > Recoverable Amount)  |  Variables: Carrying Amount = cost minus accumulated amortisation; Recoverable Amount = max(FV less costs to sell, Value-in-Use).  |  Example: Patent carrying value €5,000,000; value-in-use €2,000,000 → Impairment loss = €3,000,000.",
+    "Amortisation Base with Residual Value = Cost - Residual Value  |  Example: Customer list cost €6,000,000; residual €60,000; useful life 3 yrs → Base = €5,940,000; annual amortisation = €1,980,000."
+  ],
+
+  "illustrativeExample": "Sky ASA practice problem (from chapter end-of-chapter section): Sky purchases a patent on 2 January 2023 for €40,000 (5-year life) and files a second patent on 1 July 2023 for legal fees of €11,400 (remaining life = 4.5 yrs, i.e., 54 months). At 31 December 2023, patent amortisation = (€40,000 × 12/60) + (€11,400 × 6/54) = €8,000 + €1,267 = €9,267. Separately, a licence purchased for €20,000 (8-year life starting 1 July 2022) has a carrying amount at 31 December 2023 of €20,000 − (€20,000 × 18/96) = €16,250. With a recoverable amount of €7,000, the impairment loss = €16,250 − €7,000 = €9,250. Statement of financial position intangibles at 31 December 2023: Licences €6,750 (€16,250 − €9,250), Patents €42,133 (€51,400 − €9,267), Goodwill €90,000 = Total €138,883.",
+
+  "disclosurePresentationNotes": [
+    "Statement of financial position: all intangible assets other than goodwill are reported as a single separate line item; goodwill, if present, is reported as a further separate line item. Contra accounts (accumulated amortisation) need not be shown on the face of the statement.",
+    "Income statement: amortisation expense and impairment losses (and reversals) for intangibles other than goodwill are presented within operating income as separate line items; goodwill impairment is also presented in operating income.",
+    "Notes to financial statements: must disclose the amortisation expense for each class of intangible, a roll-forward (reconciliation) of changes in carrying amounts during the period (additions, disposals, amortisation, impairment, exchange differences), useful lives or amortisation rates used, and the method of amortisation for limited-life intangibles.",
+    "R&D disclosures: the total R&D costs expensed in each period for which an income statement is presented must be disclosed in the notes, along with the accounting policy for distinguishing research from development and for capitalising development costs (e.g., GlaxoSmithKline discloses capitalisation begins when a regulatory filing has been made and approval is highly probable)."
+  ],
+
+  "potentialPitfalls": [
+    "Confusing internally created intangibles with purchased ones: IFRS prohibits capitalising internally developed brands, mastheads, customer lists, and most other internally generated intangibles (including goodwill) because they fail the identifiability criterion or cannot be measured reliably; only externally purchased or narrow development-phase costs that satisfy all six economic-viability criteria may be capitalised.",
+    "Misapplying goodwill impairment rules: goodwill impairment is tested at the cash-generating unit level (not the individual asset level), the loss is first absorbed by goodwill and then allocated pro-rata to other CGU assets, and — critically — goodwill impairment losses can never be reversed, unlike impairment losses on other intangible assets.",
+    "Treating all development costs as immediately expensable: a common error is to expense all R&D in the period incurred; under IFRS, once a project reaches economic viability (all six criteria simultaneously met), subsequent development costs must be capitalised. Failure to capitalise these costs understates assets and overstates expenses in the period and understates amortisation in future periods."
+  ],
+
+  "notesLimitations": "The chapter text is complete and was read in full (2,128 lines). Certain numerical tables embedded in illustrations (e.g., Illustration 12.4 Tractorling balance sheet totals, Illustration 12.13 R&D-to-sales percentages for named companies, Illustration 12.16 GlaxoSmithKline income statement figures) appear to have had their specific numbers omitted or truncated in the source text file, likely due to PDF extraction formatting issues. Values referenced in the practice problem and Lerch/Arcon/Kohlbuy worked examples were intact and used above. IFRS vs. U.S. GAAP comparison section (Learning Objective 6) was present and incorporated.",
+
+  "sources": [
+    "Learning Objective 1 — Characteristics, Valuation, and Amortisation of Intangible Assets (lines 70–296)",
+    "Learning Objective 3 — Accounting Issues for Recording Goodwill, including Illustration 12.4–12.6 and Bargain Purchase discussion (lines 589–795)",
+    "Learning Objective 4 & 5 — Impairment Procedures (Illustrations 12.7–12.11), Presentation Requirements, and Research & Development Costs including Illustration 12.15 sample R&D expenditure table (lines 796–1506)"
+  ]
+}

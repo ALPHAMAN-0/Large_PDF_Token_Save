@@ -1,0 +1,70 @@
+{
+  "executiveSummary": "Chapter 9 extends inventory valuation beyond historical cost by covering the lower-of-cost-or-net realizable value (LCNRV) rule, special valuation bases for agricultural and commodity inventories, purchase commitment accounting, and two widely used estimation techniques—the gross profit method and the retail inventory method. The chapter concludes that proper inventory measurement requires matching the measurement basis to the nature of the inventory and the reliability of available evidence, while disclosing significant judgments and policies to financial statement users.",
+
+  "keyTopics": [
+    "Lower-of-Cost-or-Net Realizable Value (LCNRV): Inventories must be written down to net realizable value (estimated selling price less costs to complete and sell) whenever NRV falls below cost, recognizing the loss in the period of decline rather than the period of sale.",
+    "Methods of Applying LCNRV: The rule can be applied on an individual-item, similar-or-related-items, or total-inventory basis; the individual-item approach is preferred because it yields the most conservative balance sheet figure and prevents offsetting unrealized gains against unrealized losses.",
+    "Recording Write-Downs and Recoveries: Two methods exist—the cost-of-goods-sold method (buries the loss in COGS) and the loss method (discloses it separately); an allowance account is used so both cost and NRV are visible; write-downs may be reversed in later periods up to the original write-down amount under IFRS.",
+    "Special Valuation Bases—Agricultural and Commodity Inventories: Biological assets and agricultural produce at harvest are measured at fair value less costs to sell (net realizable value), with unrealized gains and losses recognized in income; commodity broker-traders similarly use NRV.",
+    "Basket (Lump-Sum) Purchases and Relative Standalone Sales Value: When a group of dissimilar assets is purchased for a single price, cost is allocated among individual units in proportion to their relative standalone sales values to accurately reflect each unit's cost.",
+    "Purchase Commitments: Non-cancelable purchase contracts are disclosed in notes but not recognized as assets or liabilities; if market price falls below the contract price before delivery, a loss (and corresponding liability) is recognized in the period of the price decline—IFRS calls such a contract onerous.",
+    "Gross Profit Method: An estimation technique that derives ending inventory by subtracting estimated cost of goods sold (sales multiplied by the cost percentage) from goods available for sale; used for interim reports and insurance claims but not acceptable as a substitute for the annual physical count under IFRS.",
+    "Retail Inventory Method: Retailers estimate ending inventory at cost by applying a cost-to-retail ratio to the ending inventory valued at retail prices; the conventional (LCNRV) version excludes markdowns from the ratio, while the cost version includes them, producing a higher ending inventory."
+  ],
+
+  "importantDefinitions": {
+    "Net Realizable Value (NRV)": "The estimated selling price of inventory in the normal course of business less the estimated costs of completion and the estimated costs necessary to make the sale (IAS 2).",
+    "Lower-of-Cost-or-Net Realizable Value (LCNRV)": "The inventory valuation rule requiring that inventory be reported at the lower of its historical cost or its net realizable value at each reporting date.",
+    "Allowance to Reduce Inventory to Net Realizable Value": "A contra-asset account credited when inventory is written down, so that both the cost and the net amount are visible on the statement of financial position.",
+    "Biological Asset": "A living animal or plant (e.g., dairy cows, fruit trees) classified as a non-current asset and measured at fair value less costs to sell under IFRS.",
+    "Agricultural Produce": "The harvested product of a biological asset (e.g., milk, wool, picked fruit); measured at NRV at the point of harvest, which then becomes its cost for subsequent accounting.",
+    "Relative Standalone Sales Value": "The method of allocating a lump-sum purchase price among individual units in proportion to each unit's selling price relative to the total selling price of all units acquired.",
+    "Purchase Commitment": "A formal, non-cancelable contract to buy inventory at a specified price in the future; an onerous purchase commitment (where market price < contract price) requires immediate loss recognition under IFRS.",
+    "Gross Profit Method": "An inventory estimation technique that uses the historical gross profit percentage to estimate cost of goods sold and thereby derive ending inventory; useful for interim periods and casualty loss claims.",
+    "Retail Inventory Method": "A procedure for estimating inventory cost used by high-volume retailers, converting ending inventory at retail to cost by applying a cost-to-retail ratio computed from goods available for sale.",
+    "Cost-to-Retail Ratio": "In the retail inventory method, the ratio of goods available for sale at cost to goods available for sale at retail price; used to convert retail inventory to approximate cost.",
+    "Inventory Turnover": "Cost of goods sold divided by average inventory; measures how many times per period a company sells and replaces its inventory stock.",
+    "Markdown": "A reduction below the original retail selling price of merchandise, reflecting a decline in the utility or market value of the item."
+  },
+
+  "accountingTreatments": [
+    "Write-down using the loss method (preferred): Debit 'Loss Due to Decline of Inventory to NRV' and credit 'Allowance to Reduce Inventory to NRV' for the excess of cost over NRV; this loss appears separately in the income statement. Example for Ricardo SpA: Dr Loss Due to Decline 12,000 / Cr Allowance 12,000.",
+    "Write-down using the cost-of-goods-sold method: Debit 'Cost of Goods Sold' and credit 'Inventory' (or Allowance) for the write-down amount; the loss is buried in COGS and not separately disclosed—permissible under IFRS on materiality grounds.",
+    "Reversal of prior write-down: Debit 'Allowance to Reduce Inventory to NRV' and credit 'Recovery of Inventory Loss' (income); reversal is limited to the original write-down amount and inventory may never be reported above original cost. Example: Dr Allowance 4,000 / Cr Recovery of Inventory Loss 4,000.",
+    "Biological assets at NRV: Debit 'Biological Assets' and credit 'Unrealized Holding Gain or Loss—Income' for increases in fair value less costs to sell; the reverse entry is made for decreases. Example for Bancroft Dairy: Dr Biological Assets 33,800 / Cr Unrealized Holding Gain 33,800.",
+    "Purchase commitment loss: When contract price exceeds market price, debit 'Unrealized Holding Loss—Income' and credit 'Purchase Commitment Liability.' Upon delivery, debit Purchases/Inventory and Purchase Commitment Liability, then credit Cash for the full contract amount. Example: Dr Unrealized Holding Loss 3,000,000 / Cr Purchase Commitment Liability 3,000,000.",
+    "Retail inventory method—ending inventory at cost: Compute ending inventory at retail (goods available at retail minus net sales), then multiply by the cost-to-retail ratio. Example: Ending inventory at retail £25,000 × 0.70 cost-to-retail ratio = £17,500 ending inventory at cost."
+  ],
+
+  "criticalFormulas": [
+    "NRV = Estimated Selling Price − Estimated Costs to Complete − Estimated Costs to Sell. Example: Selling price €1,000 − completion €50 − selling costs €200 = NRV €750.",
+    "Gross Profit Method—Ending Inventory: Ending Inventory = (Beginning Inventory + Purchases) − [Net Sales × (1 − Gross Profit %)]. Example: (€60,000 + €200,000) − [€280,000 × 0.70] = €260,000 − €196,000 = €64,000.",
+    "Conversion of markup on cost to gross profit on selling price: GP% on selling price = Markup on Cost % ÷ (100% + Markup on Cost %). Example: 25% markup on cost → 25% ÷ 125% = 20% gross profit on selling price.",
+    "Retail Inventory Method—Cost-to-Retail Ratio: Cost-to-Retail Ratio = Goods Available at Cost ÷ Goods Available at Retail. Example: £77,000 ÷ £110,000 = 0.70 (70%). Ending inventory at cost = Ending inventory at retail £25,000 × 0.70 = £17,500.",
+    "Conventional (LCNRV) Retail Ratio: Computed on goods available at cost divided by (goods available at retail + net markups), excluding net markdowns—this lowers the ratio and approximates LCNRV. Example (In-Fusion): cost ratio = 53.9%; ending inventory = €12,500 × 0.539 = €6,737.50.",
+    "Inventory Turnover = Cost of Goods Sold ÷ Average Inventory; Average Days to Sell = 365 ÷ Inventory Turnover. Example: Tate & Lyle: £1,621M ÷ [(£419M + £434M) ÷ 2] = 3.80 times; 365 ÷ 3.80 ≈ 96 days."
+  ],
+
+  "illustrativeExample": "Cetus SE—Gross Profit Method: Beginning inventory €60,000 + Purchases €200,000 = Goods available €260,000. Net sales at selling price = €280,000; gross profit rate on selling price = 30%; estimated gross profit = €84,000; estimated COGS = €280,000 − €84,000 = €196,000. Ending inventory = €260,000 − €196,000 = €64,000. Ricardo SpA—LCNRV: Ending inventory at cost €82,000; NRV €70,000; write-down = €12,000. Loss method entry: Dr Loss Due to Decline of Inventory to NRV €12,000 / Cr Allowance to Reduce Inventory to NRV €12,000. Statement of financial position reports: Inventory at cost €82,000 less Allowance €12,000 = Inventory at NRV €70,000.",
+
+  "disclosurePresentationNotes": [
+    "IFRS (IAS 2) requires disclosure of: (1) the accounting policies and cost formulas used (FIFO, weighted-average); (2) the total carrying amount and amounts by classification (raw materials, WIP, finished goods, merchandise); (3) any inventories carried at fair value less costs to sell; (4) the amount of inventories recognized as expense (COGS) during the period; (5) the amount of any write-down and any reversal of write-downs, with the circumstances that led to the reversal; and (6) the carrying amount of inventories pledged as security.",
+    "Significant or unusual financing arrangements relating to inventories—such as product financing arrangements, firm purchase commitments, pledging of inventories as collateral, and transactions with related parties—should be disclosed in the notes to financial statements.",
+    "A change in inventory cost flow method (e.g., from weighted-average to FIFO) is a change in accounting principle requiring separate disclosure of the effect on income in current and prior periods and an explanatory paragraph in the auditor's report.",
+    "Under IFRS, inventories carried at net realizable value (such as biological assets, agricultural produce, and broker-trader commodities) must be separately identified; the amount of unrealized gains and losses recognized in income from NRV remeasurement should also be disclosed."
+  ],
+
+  "potentialPitfalls": [
+    "Confusing markup on cost with gross profit on selling price: These are different percentages on different bases. A 25% markup on cost equals only 20% gross profit on selling price, and mistakenly applying a cost-based percentage to sales in the gross profit method will overestimate COGS and understate ending inventory.",
+    "Including markdowns in the cost-to-retail ratio under the conventional retail method: The conventional (LCNRV) retail method intentionally excludes net markdowns from the denominator of the cost-to-retail ratio. Including markdowns inflates the ratio, produces a higher ending inventory value, and fails to approximate LCNRV—the result is the cost method, not the conventional method.",
+    "Failing to recognize a loss on a non-cancelable purchase commitment when market price falls: Companies sometimes treat all executory purchase contracts as unrecognized off-balance-sheet items. Under IFRS, an onerous purchase commitment—where the contract price exceeds the current market price—requires immediate recognition of a loss and a corresponding Purchase Commitment Liability in the period the price decline occurs, not when the goods are received."
+  ],
+
+  "notesLimitations": "The chapter text was complete and read in full (1,499 lines). Several tables and illustrations contained numerical data that was partially truncated or presented without column headers in the source text (e.g., Illustrations 9.3, 9.4, 9.10, 9.11, 9.18, 9.21, 9.22); specific figures from those tables could not always be confirmed and are described narratively. Appendices (e.g., Appendix 17A on hedging derivatives referenced in note 11) were not included in this chapter file. The GAAP comparison section at the end covers a sixth learning objective (LO 6—IFRS vs. U.S. GAAP) that does not appear in the chapter's stated five learning objectives; its content has been incorporated where relevant.",
+
+  "sources": [
+    "Learning Objective 1 (LO1): Lower-of-Cost-or-Net Realizable Value—covers NRV definition, LCNRV rule, recording methods (cost-of-goods-sold vs. loss method), allowance account, and recovery of inventory loss (pp. 1–15 of chapter text).",
+    "Learning Objectives 3 and 4 (LO3, LO4): Gross Profit Method and Retail Inventory Method—covers both estimation techniques, markup/markdown concepts, conventional vs. cost retail methods, and special retail items (pp. 16–35 of chapter text).",
+    "Learning Objective 5 (LO5) and GAAP Comparison (LO6): Presentation, Analysis, and IFRS vs. U.S. GAAP—covers IAS 2 disclosure requirements, inventory turnover ratio, and key differences including LIFO prohibition under IFRS and write-down reversal rules (pp. 36–46 of chapter text)."
+  ]
+}

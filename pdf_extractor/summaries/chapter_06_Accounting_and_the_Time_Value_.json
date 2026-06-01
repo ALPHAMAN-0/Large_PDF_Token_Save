@@ -1,0 +1,71 @@
+{
+  "executiveSummary": "Chapter 6 develops the foundational time value of money (TVM) concepts that underpin modern accounting measurement, covering simple and compound interest, future and present values of single sums and annuities (ordinary and due), deferred annuities, bond valuation, and IFRS 13's expected cash flow approach. The chapter demonstrates that because a dollar received today is worth more than a dollar received in the future, accountants must discount or accumulate cash flows to produce fair, decision-relevant measurements for notes, leases, pensions, impairments, and other long-lived assets and liabilities.",
+
+  "keyTopics": [
+    "Time Value of Money Fundamentals: A dollar today is worth more than a future dollar because of the opportunity to invest and earn interest; TVM underpins fair value measurements (IFRS 13 Level 3) when market prices are unavailable.",
+    "Simple vs. Compound Interest: Simple interest is computed only on principal (I = p × i × n); compound interest accrues on both principal and previously earned interest, producing significantly larger accumulations over multiple periods.",
+    "Future and Present Value of a Single Sum: FV = PV(FVF_n,i) accumulates a present amount forward; PV = FV(PVF_n,i) discounts a future amount back. Either formula can be rearranged to solve for an unknown interest rate or number of periods.",
+    "Ordinary Annuity vs. Annuity Due: An ordinary annuity makes rents at the end of each period; an annuity due makes rents at the beginning. Annuity due factors equal ordinary annuity factors multiplied by (1 + i), reflecting one additional period of compounding.",
+    "Deferred Annuities: Rents do not begin until after a deferral period. Present value is computed by finding PV of an ordinary annuity for the full horizon and subtracting the PV of rents for the deferred periods (or by discounting the annuity PV as a single sum for the deferral length).",
+    "Bond Valuation: A bond's issue price equals the PV of periodic coupon interest payments (annuity) plus the PV of the principal (single sum), both discounted at the market rate. A coupon rate below the market rate produces a discount; above produces a premium.",
+    "Effective-Interest Amortization: Bond discount or premium is amortized each period by multiplying the carrying value by the effective (market) rate to get interest expense, then subtracting the cash coupon paid; the difference adjusts the carrying value.",
+    "Expected Cash Flow Approach (IFRS 13): Instead of using only the most likely cash flow, this method weights multiple possible cash flow scenarios by their probabilities. The resulting expected cash flows are discounted at the risk-free rate (pure rate + expected inflation), with credit risk captured in the probability weights."
+  ],
+
+  "importantDefinitions": {
+    "Time Value of Money": "The principle that a dollar received today is worth more than a dollar promised in the future, because today's dollar can be invested to earn interest.",
+    "Simple Interest": "Interest computed on the original principal only: I = p × i × n, regardless of any previously accrued but unpaid interest.",
+    "Compound Interest": "Interest computed on both the outstanding principal and any interest earned in prior periods that has not been withdrawn; the typical basis for business finance.",
+    "Present Value (PV)": "The current worth of a future cash amount or series, discounted at a specified compound interest rate; always less than the corresponding future value.",
+    "Future Value (FV)": "The accumulated amount a present sum or series will grow to at a specified compound interest rate after n periods; always greater than the original present value.",
+    "Ordinary Annuity": "A series of equal periodic rents (payments or receipts) made at the end of each period for n periods.",
+    "Annuity Due": "A series of equal periodic rents made at the beginning of each period; its future and present value factors equal the corresponding ordinary annuity factors multiplied by (1 + i).",
+    "Deferred Annuity": "An annuity in which rents do not begin until two or more periods after the agreement date; the deferral period earns interest but produces no rents.",
+    "Effective Yield (Effective Interest Rate)": "The actual annual rate of return earned on an investment when compounding occurs more than once per year; always exceeds the stated (nominal) rate when compounding frequency > 1.",
+    "Expected Cash Flow Approach": "An IFRS 13 present-value technique that weights multiple possible cash flow outcomes by their probabilities and discounts the resulting expected cash flows at the risk-free rate.",
+    "Risk-Free Rate of Return": "Under IFRS 13, the discount rate for expected cash flows, equal to the pure rate of interest plus the expected inflation rate; credit risk is excluded because it is already embedded in the probability weights.",
+    "Effective-Interest Method": "The preferred IFRS amortization method for bond discount/premium; interest expense each period equals the bond's carrying value multiplied by the market rate at issuance."
+  },
+
+  "accountingTreatments": [
+    "Bond Issuance at Discount: Debit Cash (proceeds), Debit Discount on Bonds Payable, Credit Bonds Payable (face value). Example: Alltech issues $100,000, 5% bonds for $95,787.80 — Debit Cash $95,787.80, Debit Discount on Bonds Payable $4,212.20, Credit Bonds Payable $100,000.",
+    "Effective-Interest Amortization of Discount: Each period, Debit Interest Expense (carrying value × effective rate), Credit Cash (face × coupon rate), Credit Discount on Bonds Payable (difference). This increases the carrying value toward par over the bond's life.",
+    "Warranty Liability Using Expected Cash Flows: Debit Warranty Expense, Credit Warranty Liability for the present value of probability-weighted expected repair outflows, discounted at the risk-free rate (e.g., Juno's: PV of $6,160 year-1 + $6,900 year-2 at 5%).",
+    "Non-Current Notes / Leases with Below-Market Rates: The asset (or lease right-of-use asset) and corresponding liability are recorded at the present value of future cash flows using the market rate, not the stated rate; the difference is recorded as a discount.",
+    "Pension Obligation (Deferred Annuity): The pension liability is the present value of a deferred annuity — first compute PV of pension payments over the post-retirement period (ordinary annuity), then discount that lump sum back to today over the pre-retirement period (single-sum factor)."
+  ],
+
+  "criticalFormulas": [
+    "Future Value of a Single Sum: FV = PV × (1 + i)^n. Variables: PV = present value, i = interest rate per period, n = number of periods. Example: €50,000 × (1.06)^5 = €50,000 × 1.33823 = €66,912.",
+    "Present Value of a Single Sum: PV = FV × [1 ÷ (1 + i)^n]. Variables as above. Example: €73,466 × [1 ÷ (1.08)^5] = €73,466 × 0.68058 ≈ €50,000.",
+    "Future Value of an Ordinary Annuity: FV-OA = R × [(1 + i)^n − 1] ÷ i. Variables: R = periodic rent. Example: $5,000 × FVF-OA(5, 6%) = $5,000 × 5.63709 = $28,185.45.",
+    "Present Value of an Ordinary Annuity: PV-OA = R × [1 − 1 ÷ (1 + i)^n] ÷ i. Example: $6,000 × PVF-OA(5, 6%) = $6,000 × 4.21236 = $25,274.16.",
+    "Annuity Due Conversion: FV-AD factor = FV-OA factor × (1 + i); PV-AD factor = PV-OA factor × (1 + i). Example: PV-OA(4, 5%) = 3.54595; PV-AD(4, 5%) = 3.54595 × 1.05 = 3.72325.",
+    "Expected Cash Flow: E[CF] = Σ (Cash Flow_k × Probability_k). Example: $100×0.30 + $200×0.50 + $300×0.20 = $30 + $100 + $60 = $190.",
+    "Effective-Interest Amortization: Amortization = (Carrying Value × Effective Rate) − (Face Value × Coupon Rate). Example (Year 1, Alltech): $95,787.80 × 6% − $100,000 × 5% = $5,747.27 − $5,000.00 = $747.27 discount amortized.",
+    "Compounding Period Adjustments: Periodic rate = Annual rate ÷ m; Total periods = Years × m (m = compounding periods per year). Example: 8% annual, quarterly, 6 years → i = 2%, n = 24."
+  ],
+
+  "illustrativeExample": "Bond Valuation — Alltech Corporation (Illustration 6.40): Alltech issues $100,000 of 5% bonds on January 1, 2022, maturing in 5 years, with annual coupons, when the market rate is 6%. Step 1 — PV of principal: $100,000 × PVF(5, 6%) = $100,000 × 0.74726 = $74,726.00. Step 2 — PV of coupons: $5,000 × PVF-OA(5, 6%) = $5,000 × 4.21236 = $21,061.80. Step 3 — Issue price: $74,726.00 + $21,061.80 = $95,787.80 (discount of $4,212.20). Year 1 interest expense under effective-interest method: $95,787.80 × 6% = $5,747.27; cash paid = $5,000; discount amortized = $747.27; new carrying value = $96,535.07.",
+
+  "disclosurePresentationNotes": [
+    "IFRS 13 requires entities to disclose the valuation technique(s) and inputs used for Level 3 fair value measurements, including a description of the expected cash flow approach and the discount rate applied.",
+    "For bonds and notes, the carrying value (face value adjusted for unamortized discount or premium) must be presented on the statement of financial position; the effective-interest amortization schedule supports the interest expense reported in profit or loss.",
+    "Lease obligations measured at the present value of future payments must be disclosed with the discount rate used, maturity analysis of undiscounted cash flows, and reconciliation of opening to closing balances (IFRS 16).",
+    "Pension and other post-employment benefit obligations require disclosure of the actuarial assumptions underlying the present value calculation, including the discount rate, expected salary growth, and mortality rates (IAS 19). [VERIFY exact IAS 19 disclosure checklist items against current standard]"
+  ],
+
+  "potentialPitfalls": [
+    "Ordinary Annuity vs. Annuity Due confusion: Failing to identify whether rents occur at the end (ordinary) or beginning (due) of each period leads to using the wrong table factor; annuity due values are always higher by a factor of (1 + i), so the error is systematic and material.",
+    "Incorrect period and rate conversion for sub-annual compounding: Using the annual interest rate and number of years directly when compounding is quarterly or monthly overstates present values and understates future values; the annual rate must be divided by m and years multiplied by m before entering the tables.",
+    "Most-likely vs. expected cash flow under IFRS 13: Using the single most-probable cash flow estimate (traditional approach) instead of the probability-weighted expected cash flow approach required for Level 3 measurements can systematically understate or overstate fair value when cash flow distributions are skewed."
+  ],
+
+  "notesLimitations": "The chapter text was fully captured in a single read (1,381 lines). Numerical values inside certain illustrations (e.g., the precise figures for Illustrations 6.1, 6.3, 6.4, 6.5, 6.21, 6.28, 6.31, 6.44, and 6.45) were referenced but their table bodies were not rendered in the plain-text extraction — only surrounding narrative and row/column headers were present. The five compound interest tables (Tables 6.1–6.5) appended to the chapter were not included in the extracted text file. Practice problem solution values for parts (a), (c), and (d) of the Vesper Inc. problem contained blanks (indicated by '$') in the source text, suggesting the answer key figures were in a separately formatted answer box not captured by the extractor. No appendices or Global Accounting Insights section were present, consistent with the chapter's own note that TVM concepts are universal.",
+
+  "sources": [
+    "Learning Objective 1 — Basic Time Value Concepts (lines 68–311): covers interest, compounding, fundamental variables, and applications of present value in accounting.",
+    "Learning Objectives 2–4 — Single-Sum and Annuity Problems (lines 312–892): covers FV/PV of 1, ordinary annuity, annuity due, and computational examples for unknown n and i.",
+    "Learning Objective 5 — Other TVM Issues (lines 893–1136): covers deferred annuities, bond valuation with effective-interest amortization, and the IFRS 13 expected cash flow approach."
+  ]
+}

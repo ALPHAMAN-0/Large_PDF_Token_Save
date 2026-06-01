@@ -21,9 +21,12 @@ import tiktoken
 import anthropic
 from reportlab.lib import colors
 from reportlab.lib.enums import TA_CENTER, TA_JUSTIFY, TA_LEFT
+from reportlab.lib.fonts import addMapping
 from reportlab.lib.pagesizes import A4
 from reportlab.lib.styles import ParagraphStyle, getSampleStyleSheet
 from reportlab.lib.units import cm
+from reportlab.pdfbase import pdfmetrics
+from reportlab.pdfbase.ttfonts import TTFont
 from reportlab.platypus import (
     BaseDocTemplate,
     Frame,
@@ -36,6 +39,18 @@ from reportlab.platypus import (
     TableStyle,
 )
 from reportlab.platypus.tableofcontents import TableOfContents
+
+# ─── Unicode-capable TTF fonts ────────────────────────────────────────────────
+_SUPP = "/System/Library/Fonts/Supplemental"
+pdfmetrics.registerFont(TTFont("Arial",           f"{_SUPP}/Arial.ttf"))
+pdfmetrics.registerFont(TTFont("Arial-Bold",      f"{_SUPP}/Arial Bold.ttf"))
+pdfmetrics.registerFont(TTFont("Arial-Italic",    f"{_SUPP}/Arial Italic.ttf"))
+pdfmetrics.registerFont(TTFont("Arial-BoldItalic",f"{_SUPP}/Arial Bold Italic.ttf"))
+pdfmetrics.registerFont(TTFont("CourierNew",      f"{_SUPP}/Courier New.ttf"))
+addMapping("Arial", 0, 0, "Arial")
+addMapping("Arial", 1, 0, "Arial-Bold")
+addMapping("Arial", 0, 1, "Arial-Italic")
+addMapping("Arial", 1, 1, "Arial-BoldItalic")
 
 # ─── Paths ────────────────────────────────────────────────────────────────────
 SCRIPT_DIR   = Path(__file__).parent
@@ -212,38 +227,52 @@ def _esc(text):
 
 def _make_styles():
     def ps(name, parent="Normal", **kw):
-        return ParagraphStyle(name, parent=getSampleStyleSheet()[parent], **kw)
+        s = ParagraphStyle(name, parent=getSampleStyleSheet()[parent], **kw)
+        # Override base font to Arial so all Unicode chars render correctly
+        if "fontName" not in kw:
+            s.fontName = "Arial"
+        return s
 
     return {
         "cover_title": ps("CoverTitle", "Title",
+            fontName="Arial-Bold",
             fontSize=30, leading=36, spaceAfter=10,
             textColor=colors.HexColor("#1a2744"), alignment=TA_CENTER),
         "cover_sub": ps("CoverSub",
+            fontName="Arial",
             fontSize=15, leading=20, spaceAfter=6,
             textColor=colors.HexColor("#4a5568"), alignment=TA_CENTER),
         "cover_date": ps("CoverDate",
+            fontName="Arial",
             fontSize=10, textColor=colors.grey, alignment=TA_CENTER),
         "toc_title": ps("TOCTitle", "Heading1",
+            fontName="Arial-Bold",
             fontSize=18, textColor=colors.HexColor("#1a2744"), spaceAfter=10),
         "ch_heading": ps("ChapterHeading", "Heading1",
+            fontName="Arial-Bold",
             fontSize=20, leading=26, spaceBefore=0, spaceAfter=4,
             textColor=colors.HexColor("#1a2744")),
         "sec_heading": ps("SectionHeading", "Heading2",
+            fontName="Arial-Bold",
             fontSize=12, leading=16, spaceBefore=8, spaceAfter=3,
             textColor=colors.HexColor("#2d4a8a")),
         "body": ps("Body",
+            fontName="Arial",
             fontSize=10, leading=15, spaceAfter=5, alignment=TA_JUSTIFY),
         "bullet": ps("Bullet",
+            fontName="Arial",
             fontSize=10, leading=15, leftIndent=16, spaceAfter=2),
         "example": ps("Example",
+            fontName="Arial",
             fontSize=9.5, leading=14, leftIndent=20, rightIndent=8,
             backColor=colors.HexColor("#f4f7fc"), spaceAfter=4, spaceBefore=2),
         "formula": ps("Formula",
-            fontSize=9.5, leading=14, leftIndent=20, fontName="Courier",
+            fontName="CourierNew",
+            fontSize=9.5, leading=14, leftIndent=20,
             spaceAfter=3, spaceBefore=2),
         "italic_note": ps("ItalicNote",
-            fontSize=9, leading=13, textColor=colors.grey,
-            fontName="Helvetica-Oblique", spaceAfter=3),
+            fontName="Arial-Italic",
+            fontSize=9, leading=13, textColor=colors.grey, spaceAfter=3),
     }
 
 
@@ -254,6 +283,7 @@ class _SummaryDoc(BaseDocTemplate):
         self.toc = TableOfContents()
         self.toc.levelStyles = [
             ParagraphStyle("TOCLevel0",
+                fontName="Arial",
                 fontSize=11, leading=17, leftIndent=0, firstLineIndent=0,
                 textColor=colors.HexColor("#1a2744")),
         ]
@@ -267,7 +297,7 @@ class _SummaryDoc(BaseDocTemplate):
 
 def _draw_footer(canvas, doc):
     canvas.saveState()
-    canvas.setFont("Helvetica", 8)
+    canvas.setFont("Arial", 8)
     canvas.setFillColor(colors.HexColor("#888888"))
     canvas.drawString(MARGIN, 1.1 * cm, doc._current_chapter)
     canvas.drawRightString(PAGE_W - MARGIN, 1.1 * cm, str(canvas.getPageNumber()))
@@ -295,7 +325,7 @@ def build_pdf(chapter_data, output_path):
         Spacer(1, 0.4 * cm),
         HRFlowable(width="55%", thickness=2, color=colors.HexColor("#2d4a8a"), hAlign="CENTER"),
         Spacer(1, 0.4 * cm),
-        Paragraph(f"{len(chapter_data)} Chapters &nbsp;·&nbsp; Generated with Claude Sonnet 4.6", S["cover_date"]),
+        Paragraph(f"{len(chapter_data)} Chapters  ·  Generated with Claude Sonnet 4.6", S["cover_date"]),
         PageBreak(),
     ]
 
@@ -350,8 +380,8 @@ def build_pdf(chapter_data, output_path):
             tbl.setStyle(TableStyle([
                 ("BACKGROUND",    (0, 0), (-1, 0),  colors.HexColor("#2d4a8a")),
                 ("TEXTCOLOR",     (0, 0), (-1, 0),  colors.white),
-                ("FONTNAME",      (0, 0), (-1, 0),  "Helvetica-Bold"),
-                ("FONTNAME",      (0, 1), (-1, -1), "Helvetica"),
+                ("FONTNAME",      (0, 0), (-1, 0),  "Arial-Bold"),
+                ("FONTNAME",      (0, 1), (-1, -1), "Arial"),
                 ("FONTSIZE",      (0, 0), (-1, -1), 9.5),
                 ("LEADING",       (0, 0), (-1, -1), 14),
                 ("ROWBACKGROUNDS",(0, 1), (-1, -1), [colors.HexColor("#f0f4ff"), colors.white]),

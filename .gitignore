@@ -1,0 +1,13 @@
+# Virtual environments
+pdf_extractor/venv/
+pdf_extractor/venv_new/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# OS files
+.DS_Store
+Thumbs.db

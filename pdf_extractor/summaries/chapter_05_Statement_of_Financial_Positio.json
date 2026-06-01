@@ -1,0 +1,68 @@
+{
+  "executiveSummary": "Chapter 5 examines two core financial statements required under IFRS: the statement of financial position (balance sheet) and the statement of cash flows. It explains how each statement is structured, how items are classified and valued, and how analysts use the data to assess liquidity, solvency, and financial flexibility. The chapter concludes with disclosure requirements, presentation techniques, ratio analysis fundamentals, and a comparison of IFRS versus U.S. GAAP reporting conventions.",
+
+  "keyTopics": [
+    "Usefulness and limitations of the statement of financial position: The balance sheet helps users assess liquidity, solvency, and financial flexibility, but is limited by the use of historical cost, management estimates, and omission of internally generated intangibles such as brand value and human capital.",
+    "Classification of assets: Assets are divided into non-current (long-term investments, property/plant/equipment, intangibles, other assets) and current assets (cash equivalents, short-term investments, receivables, inventories, prepaid expenses), with each sub-category carrying a specific valuation basis.",
+    "Equity section structure: Shareholders' equity comprises share capital, share premium, retained earnings, accumulated other comprehensive income, treasury shares, and non-controlling interest—each component requiring separate disclosure.",
+    "Non-current and current liabilities: Non-current liabilities cover bonds, long-term notes, pension obligations, and deferred taxes; current liabilities are obligations expected to be settled within the operating cycle or one year, and their excess over current assets is the working capital buffer.",
+    "Statement of cash flows — purpose and structure: This statement classifies all cash receipts and payments into operating, investing, and financing activities, and reconciles beginning and ending cash balances; it fills the gap left by accrual-based statements.",
+    "Preparation of the statement of cash flows: Starting from comparative balance sheets and the income statement, analysts adjust net income for non-cash items and changes in working capital to derive operating cash flow, then separately identify investing and financing cash flows and significant non-cash transactions.",
+    "Cash flow analysis ratios and free cash flow: The current cash debt coverage (operating cash flow / average current liabilities), cash debt coverage (operating cash flow / average total liabilities), and free cash flow (operating cash flow minus capital expenditures and dividends) measure liquidity, solvency, and discretionary financial flexibility respectively.",
+    "Notes, disclosure techniques, and IFRS presentation guidelines: IFRS requires a Summary of Significant Accounting Policies as the first note; additional notes include maturity analyses, roll-forward schedules, and disaggregated line-item detail. Disclosure techniques include parenthetical explanations, cross-references, contra accounts, and adjunct accounts. IAS 1 generally prohibits offsetting assets against liabilities."
+  ],
+
+  "importantDefinitions": {
+    "Statement of Financial Position": "A financial statement that reports an entity's assets, liabilities, and equity at a specific point in time; also called the balance sheet.",
+    "Liquidity": "The amount of time expected to elapse until an asset is converted to cash or a liability must be paid; a measure of a company's ability to meet short-term obligations.",
+    "Solvency": "A company's ability to pay its debts as they mature, reflecting the long-term relationship between debt levels and total assets.",
+    "Financial Flexibility": "A company's ability to alter the amounts and timing of cash flows to respond to unexpected needs and opportunities, usually assessed via free cash flow.",
+    "Working Capital": "The excess of total current assets over total current liabilities; it represents the net liquid buffer available to fund the operating cycle.",
+    "Current Assets": "Cash and other assets expected to be converted to cash, sold, or consumed within one year or the operating cycle, whichever is longer.",
+    "Operating Activities": "Cash flows arising from transactions that enter into the determination of net income, such as cash receipts from customers and cash payments to suppliers.",
+    "Free Cash Flow": "Net cash provided by operating activities minus capital expenditures minus cash dividends; represents discretionary cash available for investment, debt retirement, or share repurchases.",
+    "Contra Account": "An account that reduces an associated asset, liability, or equity balance on the balance sheet (e.g., Accumulated Depreciation reduces Property, Plant and Equipment; Allowance for Doubtful Accounts reduces Receivables).",
+    "Accounting Policies": "The specific principles, bases, conventions, rules, and practices applied by a company in preparing and presenting financial information, disclosed in the first note to the financial statements."
+  },
+
+  "accountingTreatments": [
+    "Property, plant, and equipment (PPE) is recorded at cost and subsequently depreciated (straight-line or reducing balance) over estimated useful life, except land which is not depreciated. Journal entry at acquisition: Dr PPE / Cr Cash (or Payables). Depreciation: Dr Depreciation Expense / Cr Accumulated Depreciation.",
+    "Inventories are stated at the lower of cost or net realizable value (LCNRV), using FIFO or weighted-average cost flow assumptions. Write-downs: Dr Inventory Write-down Expense / Cr Inventory (or Allowance for Inventory Obsolescence).",
+    "Held-for-collection debt securities are reported at amortized cost; trading securities (debt and equity) are reported at fair value through profit or loss; non-trading equity securities are reported at fair value, with changes recorded as required under IFRS 9.",
+    "Receivables are presented net of an allowance for doubtful accounts. Entry for estimated bad debts: Dr Bad Debt Expense / Cr Allowance for Doubtful Accounts. Write-off: Dr Allowance / Cr Accounts Receivable.",
+    "Non-cash investing and financing transactions (e.g., issuing shares to acquire assets, converting bonds to equity) are excluded from the body of the cash flow statement but disclosed in a separate note to satisfy the full disclosure principle.",
+    "Current portion of long-term debt is reclassified from non-current to current liabilities at each balance sheet date, unless the entity has refinanced on a long-term basis before the reporting period end—in which case it remains non-current."
+  ],
+
+  "criticalFormulas": [
+    "Working Capital = Current Assets - Current Liabilities. Example: Current Assets = $500,000; Current Liabilities = $300,000 → Working Capital = $200,000.",
+    "Current Cash Debt Coverage = Net Cash Provided by Operating Activities / Average Current Liabilities. Example: Operating CF = €1,200,000; Avg Current Liabilities = €1,000,000 → Ratio = 1.2 (strong liquidity).",
+    "Cash Debt Coverage = Net Cash Provided by Operating Activities / Average Total Liabilities. Example: Operating CF = €1,200,000; Avg Total Liabilities = €1,500,000 → Ratio = 0.80.",
+    "Free Cash Flow = Net Cash Provided by Operating Activities - Capital Expenditures - Cash Dividends. Example (Nestor SA): €411,750 - €252,500 - €48,000 = €111,250 in free cash flow.",
+    "Current Ratio = Current Assets / Current Liabilities. Example (Acer Group): NT$186,391M / NT$149,315M = 1.25 (current assets are 125% of current liabilities).",
+    "Altman Z-Score (abbreviated): Z = (Working Capital/Total Assets)×1.2 + (Retained Earnings/Total Assets)×1.4 + (EBIT/Total Assets)×3.3 + (Sales/Total Assets)×[coefficient]. Z > 3.0 signals low bankruptcy risk; Z < 1.81 signals high risk."
+  ],
+
+  "illustrativeExample": "Telemarketing Inc. (first year of operations, 2022): Issued 50,000 shares at $1 par for $50,000 cash; earned revenues generating $39,000 net income (after tax); purchased land for $15,000; paid $14,000 dividends. Cash flow from operations = Net Income $39,000 - Increase in A/R $41,000 + Increase in A/P $12,000 = $10,000. Cash from investing = -$15,000 (land purchase). Cash from financing = +$50,000 (share issuance) - $14,000 (dividends) = +$36,000. Net increase in cash = $10,000 - $15,000 + $36,000 = $31,000, reconciling to the ending cash balance on the comparative balance sheet.",
+
+  "disclosurePresentationNotes": [
+    "IFRS (IAS 1) requires a complete set of financial statements annually with comparative prior-period information; the set must include the statement of financial position, statement of comprehensive income, statement of changes in equity, statement of cash flows, and notes including a Summary of Significant Accounting Policies.",
+    "Specific note disclosures required for the balance sheet include: disaggregation of PPE into classes with accumulated depreciation roll-forwards; aging/maturity analyses for receivables and financial liabilities; disaggregation of inventories by stage; and reconciliation (roll-forward) schedules for PPE, intangibles, and provisions.",
+    "Offsetting of assets and liabilities is generally prohibited under IFRS unless a legally enforceable right of offset exists and the entity intends to settle net or simultaneously; however, valuation allowances (e.g., allowance for doubtful accounts, inventory impairment) are not considered offsetting.",
+    "Companies must apply accounting policies consistently from period to period (comparability principle); significant changes require disclosure and retrospective application. Parenthetical explanations and cross-referencing on the face of the statement are acceptable supplemental disclosure techniques."
+  ],
+
+  "potentialPitfalls": [
+    "Confusing historical cost with fair value: Most balance sheet assets and liabilities are carried at historical cost, not current market value. Analysts who treat book values as proxies for fair value—especially for PPE, intangibles, or investments—can seriously misjudge a company's actual economic position.",
+    "Misreading positive net income as a sign of healthy cash flow: A company can report net income while experiencing negative operating cash flows if receivables or inventories grow rapidly. The W. T. Grant bankruptcy case illustrates how consistent profits masked a deteriorating cash position for years before failure.",
+    "Overlooking off-balance-sheet items and omitted intangibles: Significant obligations (e.g., operating leases before IFRS 16 adoption, contingent liabilities) and valuable internally generated assets (brand, workforce, customer relationships) may not appear on the balance sheet, causing users to underestimate both risk and economic value."
+  ],
+
+  "notesLimitations": "The chapter text was fully extracted across 2,099 lines with no truncation detected. Some exhibits (e.g., Illustrations 5.2–5.16, 5.19–5.29, 5.36, and Appendix 5A ratio tables) contained partially extracted numerical data because the original PDF tables were rendered as text stubs without all cell values. Specific currency amounts in several real-company illustrations (Christian Dior, ÆON, RELX Group, Ahold Delhaize, adidas, AB InBev, Silver Fern Farms, Siemens AG) were not fully populated in the extracted text. The Altman Z-Score formula coefficients for the Sales/Total Assets term were not completely captured [VERIFY]. Appendix 5A ratio formulae for ratios 9–16 were partially rendered; verify exact ratio denominators (e.g., Return on Ordinary Share Capital denominator) against the original textbook table.",
+
+  "sources": [
+    "Learning Objective 1 — Usefulness, Limitations, and Content of the Statement of Financial Position (lines 97–199, Chapter 5)",
+    "Learning Objective 3 — Purpose, Content, and Preparation of the Statement of Cash Flows (lines 736–1091, Chapter 5)",
+    "Appendix 5A — Ratio Analysis Reference and IFRS vs. U.S. GAAP Comparison (lines 1386–1999, Chapter 5)"
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "executiveSummary": "Chapter 14 covers the recognition, measurement, and presentation of non-current liabilities—primarily bonds payable and long-term notes payable—under IFRS. It explains how bonds and notes are valued at the present value of future cash flows, how discounts and premiums are amortized using the effective-interest method, and how gains or losses are recognized when debt is extinguished before maturity through cash, asset transfer, or modification of terms.",
+
+  "keyTopics": [
+    "Types of bonds: The chapter classifies bonds as secured/unsecured, term/serial/callable, convertible, commodity-backed, deep-discount (zero-interest), registered/bearer, income, and revenue bonds—each designed to meet different investor and issuer needs.",
+    "Bond pricing and present value: A bond's issue price equals the present value of its future interest and principal cash flows discounted at the market (effective) rate; when the market rate exceeds the stated rate the bond sells at a discount, and when it is lower the bond sells at a premium.",
+    "Effective-interest amortization: IFRS requires the effective-interest method to amortize bond discount or premium, producing a constant effective interest rate applied to the changing carrying value of the bond each period.",
+    "Long-term notes payable: Notes are valued identically to bonds at present value; zero-interest-bearing notes, interest-bearing notes issued at off-market rates, and notes issued for property/services all require imputed interest rate analysis and discount/premium amortization.",
+    "Extinguishment of debt: Debt can be extinguished before maturity by paying cash (gain or loss = carrying amount minus reacquisition price), transferring non-cash assets or equity interests (measured at fair value), or through creditor-granted modification of terms (old note extinguished, new note recorded at fair value).",
+    "Fair value option: Companies may elect to measure bonds and notes payable at fair value each period; unrealized holding gains/losses from general interest-rate changes flow through net income, while those attributable to credit-risk changes are reported in other comprehensive income under IFRS.",
+    "Off-balance-sheet financing: Arrangements such as unconsolidated subsidiaries and special purpose entities (SPEs) allow companies to borrow without recording the liability; IFRS has tightened consolidation and disclosure rules to curb abuse.",
+    "Presentation and solvency analysis: Non-current debt due within one year is reclassified as current; key ratios—debt to assets and times interest earned—measure long-run solvency and interest-coverage ability."
+  ],
+
+  "importantDefinitions": {
+    "Non-current liability": "An obligation not expected to require payment within one year or the company's operating cycle, whichever is longer; examples include bonds payable, long-term notes, mortgages, and lease liabilities.",
+    "Bond indenture": "The formal legal contract between the bond issuer and bondholders specifying face value, coupon rate, maturity date, call provisions, collateral pledged, sinking fund requirements, and restrictive covenants.",
+    "Stated (coupon/nominal) rate": "The contractual annual interest rate printed on the bond certificate, expressed as a percentage of face value and used to calculate periodic cash interest payments.",
+    "Effective (market) rate": "The actual rate of return earned by bondholders given the issue price; if the bond sells at a discount the effective rate exceeds the stated rate, and if at a premium the effective rate is lower.",
+    "Bond discount": "The amount by which the face (par) value of a bond exceeds its issue price, arising when the market rate exceeds the stated rate; amortization of discount increases interest expense each period.",
+    "Bond premium": "The amount by which the issue price of a bond exceeds its face value, arising when the market rate is below the stated rate; amortization of premium decreases interest expense each period.",
+    "Carrying (book) value": "The face amount of a bond or note adjusted for any unamortized discount (subtracted) or unamortized premium (added); equals the present value of remaining cash flows at the original effective rate.",
+    "Imputed interest rate": "An estimated market interest rate applied when a note's stated rate is unreasonable or absent, used to determine the present value of the note and the implicit interest charge.",
+    "Extinguishment of debt": "The retirement or settlement of a debt obligation before or at maturity; any difference between the reacquisition price and the carrying amount is recognized immediately in income as a gain or loss.",
+    "Off-balance-sheet financing": "Borrowing arrangements—such as non-consolidated subsidiaries or special purpose entities—structured to avoid recording debt on the statement of financial position, thereby understating leverage.",
+    "Debt to assets ratio": "Total liabilities divided by total assets; measures the proportion of assets financed by creditors and indicates default risk.",
+    "Times interest earned": "(Net income + interest expense + income tax expense) divided by interest expense; measures how many times operating earnings cover interest obligations."
+  },
+
+  "accountingTreatments": [
+    "Bond issuance at a discount: Debit Cash (proceeds), credit Bonds Payable at face value net of discount under IFRS (i.e., record at carrying value directly). Each period: Debit Interest Expense (carrying value x effective rate), Credit Cash (face x stated rate x period), and the difference reduces the discount, increasing carrying value.",
+    "Bond issuance at a premium: Record bonds payable at carrying value (face + premium net under IFRS). Each period: Debit Interest Expense (carrying value x effective rate), Credit Bonds Payable (premium reduction), Credit Cash (face x stated rate x period), reducing carrying value toward face over time.",
+    "Bonds issued between interest dates: The bond is recorded at its present value; accrued interest paid by the investor is debited to Interest Expense (or Interest Payable). On the first coupon date, full coupon cash is paid and amortization covers only the partial period from issue date to coupon date.",
+    "Zero-interest-bearing notes: Record at present value (cash received or fair value of consideration); the difference from face value is a discount debited to Notes Payable. Annually: Debit Interest Expense, Credit Notes Payable for the effective-interest amount (no cash interest paid).",
+    "Extinguishment before maturity (cash): Amortize discount or premium to the redemption date, then: Debit Bonds Payable (carrying amount), Debit or Credit Loss/Gain on Extinguishment of Debt, Credit Cash (reacquisition price).",
+    "Debt modification as extinguishment: Debit Notes Payable—old (carrying value), Credit Notes Payable—new (fair value of restructured terms), Credit Gain on Extinguishment of Debt (difference); subsequent interest expense uses the new effective market rate."
+  ],
+
+  "criticalFormulas": [
+    "Bond issue price = PV of principal + PV of interest annuity. Variables: F = face value, r = effective (market) rate per period, n = number of periods, C = coupon payment per period. Formula: Price = F x PVF(r,n) + C x PVF-OA(r,n). Example: F=€100,000, C=€4,000 (8%/2), r=5% (10%/2), n=10 → Price = 100,000 x 0.61391 + 4,000 x 7.72173 = €61,391 + €30,887 = €92,278 (discount bond).",
+    "Effective-interest expense per period = Carrying value at period start x Effective rate per period. Example: €92,278 x 0.05 = €4,614 interest expense; Cash paid = €4,000; Discount amortized = €614.",
+    "Gain or loss on extinguishment = Carrying amount of debt – Reacquisition price. If positive: gain; if negative: loss. Example: Carrying value €94,925, call price €101,000 (101% of €100,000) → Loss = €101,000 – €94,925 = €6,075.",
+    "Debt to assets ratio = Total Liabilities / Total Assets. Example: Novartis: $66,871M / $145,563M = 0.46 = 46%.",
+    "Times interest earned = (Net income + Interest expense + Income tax expense) / Interest expense. Example: Novartis: ($12,614M + $957M + $1,221M) / $957M = $14,792M / $957M = 15.5 times."
+  ],
+
+  "illustrativeExample": "Evermaster AG issues €100,000 of 8% bonds (semiannual coupons of €4,000) on January 1, 2022, due January 1, 2027, with a market rate of 10%. Issue price = €92,278 (discount = €7,722). First period (Jul 1, 2022): Interest Expense = €92,278 x 5% = €4,614; Cash = €4,000; Discount amortized = €614; new carrying value = €92,892. On January 1, 2024 (after 4 semiannual periods) carrying value = €94,925. Company calls bonds at 101 (€101,000): Loss on extinguishment = €101,000 – €94,925 = €6,075 recognized in income.",
+
+  "disclosurePresentationNotes": [
+    "Non-current liabilities are presented on the statement of financial position, usually as a single line item supported by detailed note disclosures covering nature of liabilities, maturity dates, interest rates, call provisions, conversion features, assets pledged as collateral, and restrictive covenants.",
+    "Long-term debt maturing within one year must be reclassified to current liabilities unless the company has completed a refinancing agreement by the reporting date (IFRS) or by the issuance date (U.S. GAAP); sinking fund requirements and scheduled maturities for the next five years must be disclosed.",
+    "If the fair value option is elected, bonds and notes are measured at fair value at each reporting date; unrealized gains/losses from interest-rate changes are in net income, while those from credit-risk changes are reported in other comprehensive income under IFRS.",
+    "Off-balance-sheet commitments and contractual obligations must be disclosed in tabular format (required under U.S. SEC rules), including future cash flows by year bucket; the fair value of all long-term debt must also be disclosed for comparison to carrying amounts."
+  ],
+
+  "potentialPitfalls": [
+    "Confusing stated rate and effective rate: Students often use the stated rate to compute interest expense rather than applying the effective rate to the period-opening carrying value; this produces incorrect amortization amounts and a carrying value that never reaches face value at maturity.",
+    "Misclassifying extinguishment gains/losses: Gains and losses on early debt retirement (including call premiums and unamortized discount/premium at redemption) must be fully recognized in income in the period of extinguishment—they cannot be deferred or amortized over the remaining original term.",
+    "Treating off-balance-sheet arrangements as immaterial: Companies sometimes assume that non-consolidated subsidiaries or SPE liabilities need not be evaluated for consolidation; under IFRS control criteria (power + variable returns + ability to affect returns), these entities may require full consolidation regardless of ownership percentage, and failure to consolidate can materially understate reported leverage."
+  ],
+
+  "notesLimitations": "The source file is complete and was read in full across four segments (lines 0–1768). Numerical tables for the full amortization schedules (Illustrations 14.7, 14.9, 14.16, 14.20, 14.24) had many interior rows omitted from the text extract (only the first row and totals were legible); formula footnotes were intact. No figures (charts) from the opening story were reproduced in the text. Appendix/exercise answer tables were partially truncated but all core conceptual and numerical content was available.",
+
+  "sources": [
+    "Learning Objective 1 (lines 39–533): Nature of bonds, types of bonds, present value pricing, effective-interest amortization of discount and premium, bonds issued between interest dates.",
+    "Learning Objectives 2–3 (lines 534–1052): Long-term notes payable (zero-interest, interest-bearing, imputed rate, mortgage notes); extinguishment by cash, asset/equity transfer, and modification of terms.",
+    "Learning Objective 4 (lines 1053–1338): Fair value option for financial liabilities, off-balance-sheet financing (SPEs, non-consolidated subsidiaries), presentation requirements, debt-to-assets and times-interest-earned ratios using Novartis 2018 data."
+  ]
+}

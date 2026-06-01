@@ -1,0 +1,70 @@
+{
+  "executiveSummary": "Chapter 18 establishes the converged IASB/FASB standard 'Revenue from Contracts with Customers,' presenting a comprehensive five-step asset-liability model for recognizing revenue. The chapter demonstrates that revenue must be recognized when (or as) a performance obligation is satisfied—i.e., when control of a good or service transfers to the customer—replacing older 'risks and rewards' criteria. It also covers practical application to complex situations such as returns, repurchase agreements, consignments, warranties, long-term contracts (Appendix 18A), and franchises (Appendix 18B).",
+
+  "keyTopics": [
+    "The Five-Step Revenue Recognition Process: The core framework requires companies to (1) identify the contract, (2) identify separate performance obligations, (3) determine the transaction price, (4) allocate the transaction price, and (5) recognize revenue when each obligation is satisfied by transfer of control.",
+    "Asset-Liability Approach: Revenue recognition is grounded in changes in contract assets (rights to consideration) and contract liabilities (obligations to transfer goods/services), providing a discipline-based alternative to the prior 'risks and rewards' model.",
+    "Transaction Price Adjustments: The transaction price must account for variable consideration (estimated via expected value or most likely amount), the time value of money for significant financing components, non-cash consideration at fair value, and consideration paid or payable to customers.",
+    "Standalone Selling Price Allocation: When multiple performance obligations exist, the transaction price is allocated based on relative standalone selling prices, using observable prices, adjusted market assessment, expected cost-plus-margin, or residual approaches.",
+    "Special Revenue Recognition Issues: The chapter applies the five-step model to sales returns and allowances, repurchase agreements (typically financing transactions), bill-and-hold arrangements, principal-agent/consignment relationships, assurance-type vs. service-type warranties, and non-refundable upfront fees.",
+    "Contract Assets and Liabilities (Presentation): Companies present unconditional rights to receive consideration as receivables and conditional rights as contract assets; advance receipts are contract liabilities (unearned revenue). Contract modifications are accounted for either as new contracts or prospectively via a blended price.",
+    "Long-Term Construction Contracts (Appendix 18A): Revenue is recognized over time using the percentage-of-completion method (cost-to-cost basis) when performance criteria are met, or using the cost-recovery (zero-profit) method when reliable estimates are unavailable. Expected losses on unprofitable contracts must be recognized immediately in full.",
+    "Franchise Revenue Recognition (Appendix 18B): Franchisors recognize initial franchise fee revenue when control of franchise rights transfers (typically at store opening) or over time when ongoing access and support obligations exist; sales-based royalties are recognized only when the uncertainty over variable consideration is resolved."
+  ],
+
+  "importantDefinitions": {
+    "Revenue Recognition Principle": "Revenue is recognized when (or as) a performance obligation is satisfied, i.e., when the customer obtains control of the good or service.",
+    "Performance Obligation": "A promise in a contract to transfer a distinct good or service (or a bundle of goods/services) to a customer; can be explicit, implicit, or based on customary business practice.",
+    "Transaction Price": "The amount of consideration a company expects to receive from a customer in exchange for transferring goods or services, adjusted for variable consideration, financing, non-cash items, and payments to customers.",
+    "Standalone Selling Price": "The price at which a company would sell a promised good or service separately to a customer; the primary basis for allocating the transaction price among multiple performance obligations.",
+    "Contract Asset": "A company's right to consideration in exchange for goods or services already transferred to a customer, where that right is conditional on satisfying another performance obligation before billing.",
+    "Contract Liability": "A company's obligation to transfer goods or services to a customer for which consideration has already been received (e.g., unearned revenue, deferred revenue).",
+    "Variable Consideration": "Consideration that depends on future events such as rebates, bonuses, volume discounts, or royalties; estimated using the expected value (probability-weighted) or most likely amount method, subject to a constraint against significant revenue reversal.",
+    "Asset-Liability Approach": "The conceptual basis for the revenue standard that recognizes and measures revenue through changes in contract assets and liabilities arising from contracts with customers.",
+    "Percentage-of-Completion Method": "A long-term contract accounting method (Appendix 18A) that recognizes revenue, costs, and gross profit progressively as construction progresses, typically measured on a cost-to-cost basis.",
+    "Cost-Recovery (Zero-Profit) Method": "A long-term contract method (Appendix 18A) that recognizes revenue only to the extent of recoverable costs incurred until completion, deferring all gross profit recognition to the period of contract completion.",
+    "Assurance-Type Warranty": "A warranty guaranteeing a product meets agreed-upon specifications at the time of sale; treated as part of the product's performance obligation with a related liability accrual, not a separate obligation.",
+    "Service-Type Warranty": "An extended warranty providing services beyond defect assurance at an additional price; treated as a separate performance obligation with revenue allocated from the transaction price and recognized over the warranty period."
+  },
+
+  "accountingTreatments": [
+    "Revenue recognition at a point in time: Debit Accounts Receivable (or Cash), Credit Sales Revenue when all five control indicators are met. Simultaneously, debit Cost of Goods Sold, credit Inventory for the cost side.",
+    "Revenue recognition over time (long-term contracts, percentage-of-completion): Debit Construction in Process (gross profit earned), debit Construction Expenses (costs incurred), credit Revenue from Long-Term Contracts. Progress billings: Debit Accounts Receivable, credit Billings on Construction in Process.",
+    "Sales returns and allowances: Debit Sales Returns and Allowances (contra-revenue) and credit Refund Liability for estimated returns; debit Estimated Inventory Returns (asset) and credit Cost of Goods Sold for the expected returned inventory cost.",
+    "Repurchase agreement (financing transaction): No sale is recorded. Debit Cash, credit Liability to Customer at proceeds; subsequently debit Interest Expense, credit the liability for imputed interest each period until repurchase.",
+    "Service-type warranty (separate performance obligation): At sale, debit Cash/Receivable, credit Sales Revenue and credit Unearned Warranty Revenue for the allocated portion. Recognize Unearned Warranty Revenue as Warranty Revenue on a straight-line basis over the service warranty period.",
+    "Contract liability (advance payment): Debit Cash, credit Unearned Sales Revenue on receipt. Upon delivery and satisfaction of the performance obligation, debit Unearned Sales Revenue, credit Sales Revenue."
+  ],
+
+  "criticalFormulas": [
+    "Percentage Completion (Cost-to-Cost Basis): % Complete = Costs Incurred to Date / Most Recent Estimate of Total Costs. Example: Costs to date £1,000,000; total estimated costs £4,000,000 → 25% complete.",
+    "Revenue Recognized to Date (Percentage-of-Completion): Revenue to Date = % Complete × Total Contract Revenue. Example: 25% × £4,500,000 = £1,125,000.",
+    "Current-Period Revenue: Current Revenue = Revenue Recognized to Date − Revenue Recognized in Prior Periods. Example: Year 2 to-date revenue £3,240,000 − Year 1 £1,125,000 = £2,115,000 in Year 2.",
+    "Relative Standalone Selling Price Allocation: Allocated Amount = (Product's Standalone Price / Sum of All Standalone Prices) × Total Transaction Price. Example: Motor Moka beans standalone $12, coffee standalone $3, total $15, transaction price $13 → Beans allocated $13 × (12/15) = $10.40.",
+    "Variable Consideration (Expected Value): Transaction Price = Σ (Probability × Outcome Amount). Example: 60% × $150,000 + 30% × $145,000 + 10% × $140,000 = $147,500.",
+    "Imputed Interest Revenue (Financing Component): Interest Revenue = Carrying Value of Note × Imputed Rate × Time Fraction. Example: R$900,000 × 12% × 6/12 = R$54,000."
+  ],
+
+  "illustrativeExample": "Handler Company sells equipment to Chai Company for $2,000,000, which includes installation (standalone $20,000) and training (standalone $50,000). Total standalone value = $2,070,000. Allocation: Equipment = ($2,000,000 / $2,070,000) × $2,000,000 = $1,932,367; Installation = ($20,000 / $2,070,000) × $2,000,000 = $19,324; Training = ($50,000 / $2,070,000) × $2,000,000 = $48,309. On November 1, 2022, Handler records Cash $2,000,000 / Service Revenue (installation) $19,324 / Unearned Service Revenue $48,309 / Sales Revenue $1,932,367. Training revenue of $4,026/month ($48,309 / 12) is then recognized over 12 months; by December 31, 2022, $8,052 is earned. Total revenue recognized by year-end: $1,932,367 + $19,324 + $8,052 = $1,959,743.",
+
+  "disclosurePresentationNotes": [
+    "Disaggregation of Revenue: Companies must disclose revenue disaggregated into categories that reflect how economic factors (geography, product type, market, contract type, duration) affect the nature, amount, timing, and uncertainty of revenue and cash flows, reconciled to segment revenues.",
+    "Contract Balances Reconciliation: Opening and closing balances of contract assets (unbilled receivables) and contract liabilities (deferred revenue) must be disclosed with a qualitative description of significant changes, including revenue recognized in the current period from obligations satisfied in prior periods.",
+    "Remaining Performance Obligations: The aggregate transaction price allocated to unsatisfied performance obligations (not subject to significant variable consideration constraint) must be disclosed, along with expected timing of recognition, to inform users about future committed revenue.",
+    "Costs to Obtain or Fulfill Contracts: Closing balances of capitalized incremental contract acquisition costs (e.g., commissions) and fulfillment costs, the amortization method, and amounts amortized in the period must be disclosed separately from other assets."
+  ],
+
+  "potentialPitfalls": [
+    "Misidentifying the number of performance obligations: Combining interdependent goods/services into one obligation is correct (e.g., software license heavily customized for a client), but incorrectly bundling distinct, separately sold items—or conversely, splitting an integrated deliverable—leads to misstated revenue timing. The test is whether each element is distinct both on its own AND within the contract.",
+    "Recognizing constrained variable consideration too early: Companies must limit recognition of variable amounts (bonuses, royalties, volume rebates) to amounts where a significant revenue reversal is not highly probable. Recording the full bonus before the outcome is reasonably assured overstates revenue; sales-based royalties in franchise and licensing arrangements cannot be recognized until the sale actually occurs regardless of estimates.",
+    "Treating repurchase agreements and consignments as completed sales: When a seller retains a forward obligation or call option to repurchase an asset at or above selling price, control has not transferred and the transaction is a financing arrangement, not a sale. Similarly, consigned inventory remains on the consignor's books; recognizing revenue at shipment rather than upon notification of sale by the consignee inflates revenues prematurely."
+  ],
+
+  "notesLimitations": "The chapter text was complete and read in full (approximately 3,194 lines). Numerical table values embedded in illustrations (e.g., exact figures in Illustrations 18A.4, 18A.6, 18A.14, and the franchise Illustrations 18B.2/18B.3/18B.5) were partially truncated in the source text as the PDF extraction omitted some tabular cells—figures in those illustrations are marked [VERIFY] where the exact numeric output could not be confirmed from the raw text. Appendices 18A and 18B were included and covered in full. End-of-chapter brief exercises and problems beyond the practice problem solution were listed by heading only and are not summarized here.",
+
+  "sources": [
+    "Learning Objective 1 (Fundamentals of Revenue Recognition) and Learning Objective 2 (The Five-Step Revenue Recognition Process): IFRS 15 / ASC 606, Revenue from Contracts with Customers (IASB/FASB converged standard, issued 2014).",
+    "Learning Objective 3 (Accounting for Revenue Recognition Issues): Illustrations 18.3–18.26, covering contracts, variable consideration, returns, repurchase agreements, bill-and-hold, principal-agent, consignments, warranties, and upfront fees.",
+    "Learning Objectives 5–8 (Appendices 18A and 18B): Percentage-of-completion and cost-recovery methods for long-term contracts (Illustrations 18A.1–18A.17) and franchise revenue recognition (Illustrations 18B.1–18B.5)."
+  ]
+}

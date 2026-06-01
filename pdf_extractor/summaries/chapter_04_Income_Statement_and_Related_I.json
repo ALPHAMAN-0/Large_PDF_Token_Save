@@ -1,0 +1,67 @@
+{
+  "executiveSummary": "Chapter 4 examines the income statement — its purpose, format, content, and limitations — under IFRS, covering how revenues, expenses, gains, losses, and discontinued operations are classified and reported. The chapter also addresses accounting changes and error corrections, intraperiod tax allocation, and the related equity statements (retained earnings, comprehensive income, and statement of changes in equity). A central theme is that consistent, transparent income reporting is essential for investors and creditors to predict the amounts, timing, and uncertainty of future cash flows.",
+
+  "keyTopics": [
+    "Uses and limitations of the income statement: The income statement helps predict future cash flows by revealing past performance trends, but is limited because companies omit unmeasurable items, income numbers vary with accounting method choices, and measurement involves significant judgment.",
+    "Income statement format and sections: A multi-step income statement typically presents gross profit, income from operations, income before income tax, and net income, with separate sections for financing costs, income tax, discontinued operations, non-controlling interest, and earnings per share.",
+    "Expense classification — nature vs. function: Companies may classify expenses by their nature (e.g., salaries, depreciation) or by their function (e.g., cost of goods sold, selling expenses); the function-of-expense method is most common in practice.",
+    "Gains and losses reporting: Under IFRS, all gains and losses — including write-downs, restructuring charges, and asset disposals — are reported within income from operations (often in 'Other income and expense'), rather than being excluded as non-recurring; material items are separately disclosed.",
+    "Discontinued operations: When a component of an entity is disposed of or classified as held-for-sale and represents a major line of business, the related results and disposal gain or loss are reported net of tax in a separate section after income from continuing operations.",
+    "Intraperiod tax allocation: Tax expense is allocated within a period to specific income statement categories — income from continuing operations and discontinued operations — so that each section reflects its own tax effect, following the principle 'let the tax follow the income.'",
+    "Accounting changes and error corrections: Changes in accounting principle and error corrections are accounted for retrospectively (restating prior-period statements and adjusting beginning retained earnings); changes in accounting estimates are handled prospectively.",
+    "Comprehensive income and equity statements: Comprehensive income includes net income plus other comprehensive income (OCI) items — such as unrealized gains/losses on non-trading equity securities — that bypass the income statement; companies must present OCI in either a one-statement or two-statement format, and also prepare a statement of changes in equity."
+  ],
+
+  "importantDefinitions": {
+    "Income (IFRS)": "Increases in assets, or decreases in liabilities, that result in increases in equity, other than those relating to contributions from holders of equity claims; includes both revenues and gains.",
+    "Expenses (IFRS)": "Decreases in assets, or increases in liabilities, that result in decreases in equity, other than those relating to distributions to holders of equity claims; includes both expenses and losses.",
+    "Earnings per Share (EPS)": "Net income minus preference dividends, divided by the weighted average number of ordinary shares outstanding during the period; must be disclosed on the face of the income statement.",
+    "Discontinued Operation": "A component of an entity that has been disposed of or is classified as held-for-sale, and represents a major line of business or geographic area, or a subsidiary acquired exclusively for resale.",
+    "Intraperiod Tax Allocation": "The allocation of income tax expense within a single fiscal period to the specific income statement categories — continuing operations and discontinued operations — that give rise to the tax.",
+    "Earnings Management": "The planned timing of revenues, expenses, gains, and losses to smooth or manipulate reported income, typically to meet earnings targets or reduce perceived earnings risk.",
+    "Quality of Earnings": "The degree to which reported earnings are sustainable, backed by actual cash flows, and free from distortions introduced by earnings management or aggressive accounting choices.",
+    "Comprehensive Income": "All changes in equity during a period except those resulting from investments by owners and distributions to owners; equals net income plus other comprehensive income.",
+    "Other Comprehensive Income (OCI)": "Non-owner changes in equity that bypass the income statement, such as unrealized gains and losses on non-trading equity securities, foreign currency translation adjustments, and revaluation surpluses.",
+    "Retrospective Adjustment": "Recasting prior-period financial statements to reflect a newly adopted accounting principle or an error correction, with the cumulative effect recorded as an adjustment to beginning retained earnings."
+  },
+
+  "accountingTreatments": [
+    "Revenue and expense recognition (transaction approach): All revenues, expenses, gains, and losses are recognized on the income statement for the period in which they occur; the statement uses a multi-step format with subtotals for gross profit, income from operations, income before income tax, and net income.",
+    "Discontinued operations — net-of-tax presentation: Results from operations of a discontinued component and any gain or loss on disposal are each reported net of their respective tax effects in a separate section of the income statement below 'Income from continuing operations.' Journal entries record the tax effect separately: e.g., Gain on Discontinued Operations DR, Income Tax Payable CR, Net Gain on Discontinued Operations (net) shown on statement.",
+    "Change in accounting principle — retrospective: The company restates prior-year comparative income statements under the new method and debits or credits beginning retained earnings for the cumulative after-tax effect of the change. Example entry: Retained Earnings DR (or CR) / Inventory (or related asset/liability) CR (or DR).",
+    "Correction of prior-period error — retrospective: The error is corrected in the year of discovery by adjusting the beginning balance of retained earnings and restating prior comparative statements. Example: Retained Earnings DR $X / Accounts Receivable CR $X (for an overstated prior-year receivable).",
+    "Change in accounting estimate — prospective: No adjustment to prior periods; the revised estimate is applied in the current and future periods and disclosed by nature of the change. Example: Bad Debt Expense DR $240,000 / Allowance for Doubtful Accounts CR $240,000.",
+    "Other comprehensive income — equity recording: OCI items such as unrealized holding gains on non-trading equity securities are recorded directly to equity (bypassing net income): Unrealized Holding Gain DR / Accumulated Other Comprehensive Income (AOCI) CR, net of deferred tax."
+  ],
+
+  "criticalFormulas": [
+    "Earnings Per Share (EPS) = (Net Income − Preference Dividends) / Weighted Average Ordinary Shares Outstanding. Variables: Net Income = total profit for the period; Preference Dividends = dividends declared (or accrued if cumulative) on preference shares; Weighted Average Shares = shares weighted by portion of year outstanding. Example: ($350,000 − $50,000) / 100,000 shares = $3.00 per share.",
+    "Gross Profit = Net Sales − Cost of Goods Sold. Variables: Net Sales = gross sales revenue minus sales discounts and returns/allowances; Cost of Goods Sold = cost of inventory sold. Example: $500,000 net sales − $320,000 COGS = $180,000 gross profit.",
+    "Income from Operations = Gross Profit − Selling Expenses − Administrative Expenses ± Other Income and Expense. Example: $180,000 − $60,000 − $40,000 + $5,000 gain = $85,000 income from operations.",
+    "Intraperiod Tax on Discontinued Operations = Gain (or Loss) on Discontinued Operations × Tax Rate. Example (Schindler AG): €100,000 gain × 30% = €30,000 tax; net gain reported = €70,000.",
+    "Comprehensive Income = Net Income ± Other Comprehensive Income Items (net of tax). Example (Gill SpA): Net income €110,000 + unrealized holding gain €30,000 (net of tax) = Comprehensive Income €140,000."
+  ],
+
+  "illustrativeExample": "Schindler AG intraperiod tax allocation (Illustrations 4.12 and 4.13): Income before income tax = €250,000; tax rate = 30%. Tax on continuing operations = €250,000 × 30% = €75,000; Income from continuing operations = €175,000. Discontinued operations gain of €100,000 → tax = €100,000 × 30% = €30,000; net gain = €70,000. Net income = €175,000 + €70,000 = €245,000. Alternatively, with a €100,000 discontinued operations loss: tax benefit = €30,000; net loss = €70,000; Net income = €175,000 − €70,000 = €105,000.",
+
+  "disclosurePresentationNotes": [
+    "IFRS minimum income statement line items: Companies must present at minimum revenue, financing costs, share of profit/loss of associates accounted for using the equity method, income tax expense, post-tax results of discontinued operations, and profit or loss for the period, with net income allocated between controlling and non-controlling interests.",
+    "Earnings per share on the face of the statement: EPS for income from continuing operations and net income must be disclosed on the face of the income statement; per share amounts for discontinued operations may be shown on the face or in the notes.",
+    "Comprehensive income display — one or two statements: Companies must present OCI components in either (1) a single statement of comprehensive income (net income as a subtotal) or (2) two consecutive statements (income statement followed by a separate comprehensive income statement); EPS is not required for comprehensive income.",
+    "Statement of changes in equity: Required under IFRS, this statement must disclose total comprehensive income for the period, contributions from and distributions to owners (share issuances and dividends), and a reconciliation of the opening to closing balance of each equity component including accumulated OCI."
+  ],
+
+  "potentialPitfalls": [
+    "Confusing prospective vs. retrospective treatment: A common error is applying retrospective restatement to changes in accounting estimates (which should be prospective) or applying prospective treatment to changes in accounting principle or error corrections (which require retrospective restatement of prior-period statements and adjustment to beginning retained earnings).",
+    "Misclassifying discontinued operations: A component qualifies as a discontinued operation only if it represents a major line of business or geographic area and is disposed of or classified as held-for-sale; disposing of individual brands or products that cannot be separately identified with distinct cash flows does NOT qualify, and reporting it as discontinued operations overstates the separation of operating from non-operating results.",
+    "Omitting intraperiod tax allocation: Presenting discontinued operations or other separately reported items before tax (rather than net of tax) understates the transparency of the income statement; IFRS requires each separately reported category — continuing operations and discontinued operations — to carry its own tax effect so that users see after-tax impacts and can properly forecast future cash flows."
+  ],
+
+  "notesLimitations": "The chapter text was read in full (1,978 lines). Actual dollar/currency figures in the Boc Hong, Braun Company, and Gaubert Inc. illustrations were partially absent from the extracted text (the PDF extraction process rendered numeric columns as blank spaces), so specific monetary amounts in those illustrative tables could not be verified. Illustration numbers (4.1–4.24) and all narrative content are complete. No appendices were present in this chapter.",
+
+  "sources": [
+    "Learning Objective 1 — Identify the uses and limitations of an income statement (lines 71–132); covers usefulness for cash flow prediction and three key limitations.",
+    "Learning Objective 3 — Discuss how to report various income items (lines 506–1109); covers gross profit, income from operations, expense classification, gains/losses, discontinued operations, intraperiod tax allocation, and EPS.",
+    "Learning Objective 4 and 5 — Accounting changes, errors, and related equity statements (lines 1110–1451); covers retrospective vs. prospective treatment, retained earnings statement, comprehensive income, and statement of changes in equity."
+  ]
+}
