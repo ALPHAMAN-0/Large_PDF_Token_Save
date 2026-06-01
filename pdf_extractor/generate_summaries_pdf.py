@@ -362,7 +362,6 @@ def build_pdf(chapter_data, output_path):
         def _defs(s=summary):
             raw = s.get("importantDefinitions", {})
             if isinstance(raw, list):
-                # Claude occasionally returns a list of "Term: Definition" strings
                 pairs = []
                 for item in raw:
                     if ":" in str(item):
@@ -374,22 +373,33 @@ def build_pdf(chapter_data, output_path):
                 pairs = list(raw.items())
             if not pairs:
                 return
-            data = [["Term", "Definition"]] + [[_esc(k), _esc(v)] for k, v in pairs]
-            col_w = [4.5 * cm, CONTENT_W - 4.5 * cm - 0.1 * cm]
-            tbl = Table(data, colWidths=col_w, repeatRows=1)
+
+            # Paragraph styles for table cells — controls word-wrap inside columns
+            _hdr = ParagraphStyle("TblHdr", fontName="Arial-Bold",
+                                  fontSize=9.5, leading=14, textColor=colors.white)
+            _term = ParagraphStyle("TblTerm", fontName="Arial-Bold",
+                                   fontSize=9.5, leading=14)
+            _def  = ParagraphStyle("TblDef",  fontName="Arial",
+                                   fontSize=9.5, leading=14)
+
+            col_term = 4.5 * cm
+            col_def  = CONTENT_W - col_term - 0.1 * cm
+            data = [
+                [Paragraph("Term", _hdr), Paragraph("Definition", _hdr)],
+            ] + [
+                [Paragraph(_esc(k), _term), Paragraph(_esc(v), _def)]
+                for k, v in pairs
+            ]
+            tbl = Table(data, colWidths=[col_term, col_def], repeatRows=1)
             tbl.setStyle(TableStyle([
                 ("BACKGROUND",    (0, 0), (-1, 0),  colors.HexColor("#2d4a8a")),
-                ("TEXTCOLOR",     (0, 0), (-1, 0),  colors.white),
-                ("FONTNAME",      (0, 0), (-1, 0),  "Arial-Bold"),
-                ("FONTNAME",      (0, 1), (-1, -1), "Arial"),
-                ("FONTSIZE",      (0, 0), (-1, -1), 9.5),
-                ("LEADING",       (0, 0), (-1, -1), 14),
                 ("ROWBACKGROUNDS",(0, 1), (-1, -1), [colors.HexColor("#f0f4ff"), colors.white]),
                 ("GRID",          (0, 0), (-1, -1), 0.3, colors.HexColor("#c0c8d8")),
                 ("VALIGN",        (0, 0), (-1, -1), "TOP"),
-                ("TOPPADDING",    (0, 0), (-1, -1), 4),
-                ("BOTTOMPADDING", (0, 0), (-1, -1), 4),
+                ("TOPPADDING",    (0, 0), (-1, -1), 5),
+                ("BOTTOMPADDING", (0, 0), (-1, -1), 5),
                 ("LEFTPADDING",   (0, 0), (-1, -1), 6),
+                ("RIGHTPADDING",  (0, 0), (-1, -1), 6),
             ]))
             story.append(tbl)
         sec("Important Definitions", _defs)
