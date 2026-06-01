@@ -1,0 +1,3545 @@
+CHAPTER 20
+Accounting for Pensions and Postretirement
+Benefits
+LEARNING OBJECTIVES
+After studying this chapter, you should be able to:
+1. Discuss the fundamentals of pension plan accounting.
+2. Use a worksheet for employer’s pension plan entries.
+3. Explain the accounting for past service costs.
+4. Explain the accounting for remeasurements.
+5. Describe the requirements for reporting pension plans in
+financial statements.
+6. Explain the accounting for other postretirement benefits.
+
+--- Page 1786 ---
+This chapter also includes numerous conceptual
+discussions that are integral to the topics presented here.
+PREVIEW OF CHAPTER 20
+As the opening story indicates, the market effects reverberating
+from the financial crisis of 2008 continue to be felt, putting
+pension plans in peril and increasing the cost of retirement
+benefits. For example, British Airways’ (GBR) pension and
+healthcare costs for retirees in a recent year totaled £149 million,
+or approximately £4 per passenger carried. Many other companies
+have substantial pension and other postretirement expenses and
+obligations as well. The content and organization of the chapter
+are as follows.
+Pension Peril
+The effects of the financial crisis of 2008 and the resultant economic
+downturn rippled through global markets. Pension plans, both those
+sponsored by governments and by private companies, still feel the
+effects. Consider the following actions by private companies to deal
+with the continuing repercussions of the financial crisis.
+In the last three years, General Electric (USA) has faced major
+challenges. The company’s share price has declined by over 75
+
+--- Page 1787 ---
+percent, primarily due to a series of financially disastrous
+decisions by the former management that has led to a severe cash
+crunch. In response, the company’s pension plan is being
+adjusted. First, the plan was closed to new entrants. More
+recently, the company announced that the plan was freezing
+salaried benefits for 20,000 employees. Because of the freeze,
+these employees would earn no additional new pension benefits
+over the remainder of their employment.
+United Utilities (GBR) made its defined benefit pension
+schemes less generous to employees as the United Kingdom’s
+biggest listed water company cut costs in the face of a harsher
+regulatory regime. The company amended the terms of its defined
+benefit schemes to increase contributions made by members,
+while also increasing the retirement age and capping increases in
+pensionable salaries.
+Marks and Spencer plc (GBR) increased contributions to
+its pension plan (£800 million) to address a deficit in the plan
+(assets relative to its pension obligations). However, the clothing
+and food chain, which has 20,000 current members in its defined
+benefits scheme, said it would not be following the growing band
+of companies—such as BP (GBR) and Vodafone (GBR)—which
+are closing their final salary schemes to existing members.
+Just as market declines create challenges for companies and their
+pension plans, market recoveries can quickly reverse the negative
+consequences of market downturns for pension plans. For example, a
+recent review of 100 large pension funds revealed that 16 of the funds
+have a funding ratio (which is defined as pension assets divided by
+pension liabilities) greater than 100 percent and that the average
+funding ratio is up 87 percent relative to the prior year. A good
+example is Marks and Spencer. It reported a net pension liability or
+deficit of £283.3 million at the height of the financial crisis in 2008.
+In 2019, the company reported a pension surplus of £914.3 million—
+quite a swing in an 11-year period.
+Why are pension plans so vulnerable to the effects of swings in
+financial markets? As you will learn in this chapter, pensions are a
+
+--- Page 1788 ---
+form of deferred compensation. When a pension is included in a
+salary and benefit package, employees may accept lower pay while
+working in exchange for pension benefits that will be paid in the
+future at retirement. Companies and governments must set aside
+assets to meet these future obligations. However, when economic
+times are tough, assets in the funds (shares and bonds) lose value,
+and companies and governments may not have the resources to
+contribute to the funds. As a result, a pension deficit arises, and
+employees’ pensions may be in peril. Given the need for good
+information about the impact of these continuing pension perils on
+companies, the IASB has developed comprehensive rules on the
+accounting for pensions and other postretirement benefit plans.
+Review and Practice
+Go to the Review and Practice section at the end of the chapter
+for a targeted summary review and practice problem with solution.
+Multiple-choice questions with annotated solutions, as well as
+additional exercises and practice problem with solutions, are also
+available online.
+Fundamentals of Pension Plan Accounting
+LEARNING OBJECTIVE 1
+Discuss the fundamentals of pension plan accounting.
+A pension plan is an arrangement whereby an employer provides
+benefits (payments) to retired employees for services they performed
+in their working years. Pension accounting may be divided and
+separately treated as accounting for the employer and
+accounting for the pension fund. The company or employer is
+the organization sponsoring the pension plan. It incurs the cost and
+makes contributions to the pension fund. The fund or plan is the
+entity that receives the contributions from the employer, administers
+the pension assets, and makes the benefit payments to the retired
+
+--- Page 1789 ---
+employees (pension recipients). Illustration 20.1 shows the three
+entities involved in a pension plan and indicates the flow of cash
+among them.
+ILLUSTRATION 20.1 Flow of Cash Among Pension Plan
+Participants
+A pension plan is funded when the employer makes payments to a
+funding agency.1 That agency accumulates the assets of the pension
+fund and makes payments to the recipients as the benefits come due.
+Some pension plans are contributory. In these, the employees bear
+part of the cost of the stated benefits or voluntarily make payments to
+increase their benefits. Other plans are non-contributory. In these
+plans, the employer bears the entire cost. In some countries,
+companies design their pension plans so as to take advantage of
+certain income tax benefits. Plans that offer tax benefits are often
+called qualified pension plans. They permit deductibility of the
+employer’s contributions to the pension fund and tax-free
+status of earnings from pension fund assets.
+The pension fund should be a separate legal and accounting
+entity. The pension fund, as a separate entity, maintains a set of
+books and prepares financial statements. Maintaining records and
+preparing financial statements for the fund, an activity known as
+“accounting for employee benefit plans,” is not the subject of this
+chapter.2 Instead, this chapter explains the pension accounting and
+reporting problems of the employer as the sponsor of a pension
+plan.
+
+--- Page 1790 ---
+The need to properly administer and account for pension funds
+becomes apparent when you understand the size of these funds.
+Illustration 20.2 lists the pension fund assets and pension expenses
+of six major companies in a recent year. The two most common types
+of pension plans are defined contribution plans and defined
+benefit plans. We look at each of them in the following sections.
+Company
+Size of
+Pension
+Fund*
+2018
+Pension
+Expense*
+Pension Expense as % of
+Pretax Income (Loss)
+Siemens (DEU)
+€31,307
+€692
+9.20%
+AB InBev (BEL)
+€ 5,059
+€193
+2.26%
+BASF (DEU)
+€19,280
+€730
+13.80%
+Cathay Pacific
+(HKG)
+$7,074
+$293
+9.03%
+Dairy Farm
+International
+(CHN)
+$
+169
+$ 23
+12.79%
+Unilever (GBR)
+€20,867
+€464
+3.75%
+*Amounts in millions.
+ILLUSTRATION 20.2 Pension Funds and Pension Expense
+Defined Contribution Plan
+In a defined contribution plan, the employer agrees to contribute
+to a pension trust a certain sum each period, based on a formula. This
+formula may consider such factors as age, length of employee service,
+employer’s profits, and compensation level. The plan defines only
+the employer’s contribution. It makes no promise regarding the
+ultimate benefits paid out to the employees.
+The size of the pension benefits that the employee finally collects
+under the plan depends on several factors: the amounts originally
+contributed to the pension trust, the income accumulated in the trust,
+and the treatment of forfeitures of funds caused by early terminations
+
+--- Page 1791 ---
+of other employees. A company usually turns over to an
+independent third-party trustee the amounts originally
+contributed. The trustee, acting on behalf of the beneficiaries (the
+participating employees), assumes ownership of the pension assets
+and is accountable for their investment and distribution. The trust is
+separate and distinct from the employer.
+The accounting for a defined contribution plan is
+straightforward. The employee gets the benefit of gain (or the risk
+of loss) from the assets contributed to the pension plan. The employer
+simply contributes each year based on the formula established in the
+plan. As a result, the employer’s annual cost (pension expense) is
+simply the amount that it is obligated to contribute to the pension
+trust. The employer reports a liability on its statement of financial
+position only if it does not make the contribution in full. The
+employer reports an asset only if it contributes more than the
+required amount and must disclose the amount of expense recorded
+for the defined contribution plan. [2]
+Defined Benefit Plan
+A defined benefit plan outlines the benefits that employees will
+receive when they retire. These benefits typically are a function of an
+employee’s years of service and of the compensation level in the years
+approaching retirement.
+To meet the defined benefit commitments that will arise at
+retirement, a company must determine what the contribution should
+be today (a time value of money computation). Companies may use
+many different contribution approaches. However, the funding
+method should provide enough money at retirement to meet the
+benefits defined by the plan.
+The employees are the beneficiaries of a defined contribution
+trust, but the employer is the beneficiary of a defined benefit trust.
+Under a defined benefit plan, the trust’s primary purpose is to
+safeguard and invest assets so that there will be enough to pay the
+employer’s obligation to the employees. In form, the trust is a
+separate entity. In substance, the trust assets and liabilities belong
+
+--- Page 1792 ---
+to the employer. That is, as long as the plan continues, the
+employer is responsible for the payment of the defined
+benefits (without regard to what happens in the trust). The
+employer must make up any shortfall in the accumulated assets held
+by the trust. On the other hand, the employer can recapture any
+excess accumulated in the trust, either through reduced future
+funding or through a reversion of funds.
+Because a defined benefit plan specifies benefits in terms of uncertain
+future variables, a company must establish an appropriate funding
+pattern to ensure the availability of funds at retirement in order to
+provide the benefits promised. This funding level depends on a
+number of factors such as turnover, mortality, length of employee
+service, compensation levels, and interest earnings.
+Employers are at risk with defined benefit plans because they
+must contribute enough to meet the cost of benefits that the
+plan defines. The expense recognized each period is not necessarily
+equal to the cash contribution. Similarly, the liability is controversial
+because its measurement and recognition relate to unknown future
+variables. Thus, the accounting issues related to this type of plan are
+complex. Our discussion in the following sections deals
+primarily with defined benefit plans.3
+
+--- Page 1793 ---
+What Do the Numbers Mean?
+Which Plan Is Right for You?
+Defined contribution plans are more popular with employers than
+defined benefit plans. One reason is that they are cheaper. Defined
+contribution plans often cost no more than 3 percent of payroll,
+whereas defined benefit plans can cost 5 to 6 percent of payroll.
+In some countries, employees are required to explicitly opt out of
+an employer-sponsored defined contribution plan. This should
+help employees build their own nest eggs and will contribute to
+further growth in defined contribution plans. However, note the
+following three warnings: (1) low-income workers will still not be
+able to save enough, (2) it leaves each participant alone to manage
+risk, and (3) companies establish a minimum contribution, which
+too many participants choose to use, instead of a large
+contribution.
+
+--- Page 1794 ---
+Although many companies are changing to defined contribution
+plans, the number of existing defined benefit plans and benefits
+paid from these plans are substantial. Further, while the balance
+between defined benefit and defined contribution plans has been
+shifting over time, there is also significant variation in the types of
+plans across countries, as shown in the chart.
+For 16 of the 20 countries shown in the chart, assets in defined
+contribution plans outweighed those in defined benefit plans. In
+four countries, including the Czech Republic and Poland, defined
+benefit plans did not exist at all. Defined benefit funds dominate
+pension markets in four countries, including Canada and
+Switzerland.
+Sources: Private Pension Plan Bulletin (2016),
+www.dol.gov/agencies/ebsa/researchers/statistics/retirement-bulletins/private-
+pension-plan; and “Pension Markets in Focus,” OECD (2019).
+
+--- Page 1795 ---
+The Role of Actuaries in Pension Accounting
+The problems associated with pension plans involve complicated
+mathematical considerations. Therefore, companies engage
+actuaries to ensure that a pension plan is appropriate for the
+employee group covered.4 Actuaries are individuals trained through a
+long and rigorous certification program to assign probabilities to
+future events and their financial effects. The insurance industry
+employs actuaries to assess risks and to advise on the setting of
+premiums and other aspects of insurance policies. Employers rely
+heavily on actuaries for assistance in developing, implementing, and
+funding pension funds.
+Actuaries make predictions (called actuarial assumptions) of
+mortality rates, employee turnover, interest and earnings rates, early
+retirement frequency, future salaries, and any other factors necessary
+to operate a pension plan. They also compute the various pension
+measures that affect the financial statements, such as the pension
+obligation, the annual cost of servicing the plan, and the cost of
+amendments to the plan. In summary, accounting for defined benefit
+pension plans relies heavily upon information and measurements
+provided by actuaries.
+Measures of the Liability
+In accounting for a company’s pension plan, two questions arise. (1)
+What is the pension obligation that a company should report in the
+financial statements? (2) What is the pension expense for the period?
+Attempting to answer the first question has produced much
+controversy.
+Alternative Approaches
+Most agree that an employer’s pension obligation is the deferred
+compensation obligation it has to its employees for their service under
+the terms of the pension plan. Measuring that obligation is not so
+simple, though, because there are alternative ways of measuring it.
+
+--- Page 1796 ---
+One measure of the pension obligation is to base it only on the
+benefits vested to the employees. Vested benefits are those that the
+employee is entitled to receive even if he or she renders no additional
+services to the company. Most pension plans require a certain
+minimum number of years of service to the employer before an
+employee achieves vested benefits status. Companies compute the
+vested benefit obligation using only vested benefits at current
+salary levels.
+Another way to measure the obligation uses both vested and non-
+vested years of service. On this basis, the company computes the
+deferred compensation amount on all years of employees’ service—
+both vested and non-vested—using current salary levels. This
+measurement of the pension obligation is called the accumulated
+benefit obligation.
+A third measure bases the deferred compensation amount on both
+vested and non-vested service using future salaries. This
+measurement of the pension obligation is called the defined benefit
+obligation. Because future salaries are expected to be higher than
+current salaries, this approach results in the largest measurement of
+the pension obligation.
+The choice between these measures is critical. The choice affects the
+amount of a company’s pension liability and the annual pension
+expense reported. The diagram in Illustration 20.3 presents the
+differences in these three measurements.
+
+--- Page 1797 ---
+ILLUSTRATION 20.3 Different Measures of the Pension
+Obligation
+Which of these alternative measures of the pension liability does the
+accounting profession favor? The profession adopted the defined
+benefit obligation—the present value (without deducting any
+plan assets) of the expected future payments required to
+settle the obligation resulting from employee service in
+current and prior periods.5 [4] Those in favor of the defined
+benefit obligation contend that a promise by an employer to pay
+benefits based on a percentage of the employees’ future salaries is far
+greater than a promise to pay a percentage of their current salary, and
+such a difference should be reflected in the pension liability and
+pension expense.
+Moreover, companies discount to present value the estimated future
+benefits to be paid. Minor changes in the interest rate used to
+discount pension benefits can dramatically affect the measurement of
+the employer’s obligation. For example, a one percent decrease in the
+discount rate can increase pension liabilities 15 percent. Accounting
+rules require that, at each measurement date, a company must
+
+--- Page 1798 ---
+determine the appropriate discount rate used to measure the pension
+liability, based on current interest rates. [5]
+Net Defined Benefit Obligation (Asset)
+The net defined benefit obligation (asset) (also referred to as the
+funded status) is the deficit or surplus related to a defined pension
+plan. The deficit or surplus is measured as follows.
+Defined Benefit Obligation − Fair Value of Plan Assets (if
+any)
+The deficit or surplus is often referred to as the funded status of the
+plan.
+If the defined benefit obligation is greater than the plan assets, the
+pension plan has a deficit. Conversely, if the defined benefit obligation
+is less than the plan assets, the pension plan has a surplus.
+Illustration 20.4 shows these relationships.
+Deficit
+Surplus
+Defined benefit
+obligation
+€(1,000,000) Defined benefit
+obligation
+€(150,000)
+Plan assets
+900,000 Plan assets
+200,000
+Net defined benefit
+obligation
+€
+(100,000) Net defined
+benefit asset
+€
+50,000
+ILLUSTRATION 20.4 Presentation of Funded Status
+The net defined benefit obligation (asset) is often referred to simply
+as the pension liability or the pension asset on the statement of
+financial position.
+As indicated, companies should report either a pension asset or
+pension liability related to a pension plan on the statement of
+financial position (often referred to as the net approach). To
+illustrate, assume that at year-end Acer SpA has a defined benefit
+obligation of €4,000,000 and plan assets of €3,700,000. In this case,
+
+--- Page 1799 ---
+Acer reports €300,000 (€4,000,000 − €3,700,000) as a pension
+liability on its statement of financial position.
+Some believe that companies should report separately both the
+defined benefit obligation and the plan assets on the statement of
+financial position. This approach (often referred to as the gross
+approach) would report Acer’s defined benefit obligation of
+€4,000,000 and its plan assets of €3,700,000 on the statement of
+financial position. The IASB disagrees, indicating that offsetting these
+amounts is consistent with its standard on when assets and liabilities
+should be netted.6
+Reporting Changes in the Defined Benefit Obligation
+(Asset)
+The IASB requires that all changes in the defined benefit obligation
+and plan assets in the current period be recognized in comprehensive
+income. This approach reflects application of accrual-based
+accounting for pensions (expense recognition principle). That is,
+companies report pension expense as employees work and earn
+benefits rather than when employees are paid benefits after
+retirement (referred to as cash basis or pay as you go). The Board
+believes that immediate recognition of the effects of these changes in
+the statement of comprehensive income provides the most
+understandable and useful information to financial statement users.
+The IASB requires that companies report changes arising from
+different elements of pension liabilities and assets in different
+sections of the statement of comprehensive income, depending on
+their nature.
+In the past, companies often reported only a single pension expense
+number in the comprehensive income statement. Disclosing
+additional segmentation of changes in the pension liability (including
+the components of pension cost) provides additional transparency
+about the nature of these costs. [7] The three components are as
+follows.
+
+--- Page 1800 ---
+Service cost. Service cost is either current service cost or past
+service cost. Current service cost is the increase in the present
+value of the defined benefit obligation from employee service in
+the current period. Past service cost is the change in the present
+value of the defined benefit obligation for employee service for
+prior periods—generally resulting from a plan amendment (e.g.,
+changes to the plan). This component is reported in the statement
+of comprehensive income in the operating section of the income
+statement and affects net income.
+Net interest. Net interest is computed by multiplying the
+discount rate by the defined benefit obligation and the plan
+assets. If the plan has a net defined benefit obligation at the end
+of the period, the company reports interest expense. Conversely,
+if it has a net defined benefit asset, it reports interest revenue.
+This approach is justified because of its simplicity, and because
+any financing costs should be based on the funded status of the
+plan. This amount is often shown below the operating section of
+the income statement in the financing section and affects net
+income.
+Remeasurements. Remeasurements are gains and losses
+related to the defined benefit obligation (changes in discount rate
+or other actuarial assumptions) and gains or losses on the fair
+value of the plan assets (actual rate of return less interest
+revenue included in the finance component). This component is
+reported in other comprehensive income (OCI), net of tax. These
+remeasurement gains or losses therefore affect
+comprehensive income but not net income.
+Illustration 20.5 shows the components of changes in the pension
+liability (asset) and their placement on the statement of
+comprehensive income.
+
+--- Page 1801 ---
+ILLUSTRATION 20.5 Reporting Changes in the Pension
+Obligation (Assets)
+As indicated in Illustration 20.5, service cost and net interest are
+reported in net income. We discuss determination of each of these
+components in the following section. Remeasurements, which are
+reported in other comprehensive income, are discussed in a later
+section.
+Service Cost
+To determine current service cost and the related increase in the
+defined benefit obligation, companies must:
+1. Apply an actuarial valuation method.
+2. Assign benefits to period of service.
+3. Make actuarial assumptions.7
+In applying an actuarial valuation method, the IASB concluded that
+companies must consider future compensation levels in
+measuring the present obligation and periodic pension
+expense if the plan’s benefit formula incorporates them. In
+other words, the present obligation resulting from a promise to pay a
+benefit of 1 percent of an employee’s final pay differs from the
+
+--- Page 1802 ---
+promise to pay 1 percent of current pay. To overlook this fact is to
+ignore an important aspect of pension expense. Thus, the Board
+adopts the projected unit credit method (often referred to as
+the benefits/years-of-service method), which determines
+pension expense based on future salary levels.
+Some object to this determination, arguing that a company should
+have more freedom to select an expense recognition pattern. Others
+believe that incorporating future salary increases into current pension
+expense is accounting for events that have not yet happened. They
+argue that if a company terminates the plan today, it pays only
+liabilities for accumulated benefits. Nevertheless, the IASB
+indicates that the defined benefit obligation provides a more
+realistic measure of the employer’s obligation under the plan
+on a going concern basis. Therefore, companies should use it
+as the basis for determining service cost.
+The assignment of benefits to periods of service is based on the
+actuarial valuation method. The actuary then allocates the cost of the
+pension benefits over the expected service life of the company’s
+employees. In determining the proper service cost for a period, the
+actuary makes assumptions related to such factors as mortality; rates
+of employee turnover, disability, and early retirement; discount rate;
+benefit levels; and future salary levels. While IAS 19 does not require
+use of an actuary, given the complexity of these estimates, just about
+all companies rely on an actuary to determine service cost and related
+other defined benefit measures.
+Net Interest
+In computing net interest, companies assume that the discount rate,
+the net defined benefit obligation, and the pension asset are
+determined at the beginning of the year.8 The discount rate is based
+on the yields of high-quality bonds with terms consistent with the
+company’s pension obligation. Net interest is then computed as
+indicated in the following equation.
+Net Interest = (Defined Benefit Obligation × Discount Rate)
+− (Plan Assets × Discount Rate)
+
+--- Page 1803 ---
+That is, net interest is determined by multiplying the net defined
+benefit obligation (asset) by the discount rate. [9]
+Because payment of the pension obligation is deferred, companies
+record the pension liability on a discounted basis. As a result, the
+liability accrues interest over the service life of the employee (passage
+of time), which is essentially interest expense (interest on the
+liability). Similarly, companies earn a return on their plan assets.
+That is, a company assumes that it earns interest based on multiplying
+the discount rate by the plan assets. While the IASB recognizes that
+the actual return on plan assets may differ from the assumed interest
+revenue computed, it believes that the change in plan assets can be
+divided into an amount that arises from the passage of time and
+amounts that arise from other changes. As we discuss in the next
+section, changes not related to the passage of time are reported in
+other comprehensive income as remeasurements. Thus, the growth in
+the plan assets should mirror the growth in the defined benefit
+obligation. In other words, the assumed interest revenue on the plan
+assets based on the passage of time offsets the interest expense on the
+defined benefit obligation.
+In summary, pension expense is comprised of two components: (1)
+service cost and (2) net interest. Companies report each of these
+components in the income statement. In some cases, companies may
+choose to report these components in one section as a single amount
+of total pension expense. Other companies may choose to report the
+service cost component in operating income and the net interest in a
+separate section related to financing.9
+Plan Assets and Actual Return
+Pension plan assets are usually investments in shares, bonds, other
+securities, and real estate that a company holds to earn a reasonable
+rate of return. Plan assets are reported at fair value. Companies
+generally hold these assets in a separate legal entity (a pension fund)
+that exists only to administer the employee benefit plan. These assets
+held by the pension fund are therefore not available to the company’s
+own creditors (even in bankruptcy). Employer contributions and the
+
+--- Page 1804 ---
+actual return on plan assets increase pension plan assets. Actual
+return on plan assets is the increase in the pension fund assets
+arising from interest, dividends, and realized and unrealized changes
+in the fair value of the plan. Benefits paid to retired employees
+decrease plan assets.
+To illustrate, assume that Hasbro SA has pension plan assets of
+€4,200,000 on January 1, 2022. During 2022, Hasbro contributed
+€300,000 to the plan and paid out retirement benefits of €250,000.
+Its actual return on plan assets was €210,000 for the year. Hasbro’s
+plan assets at December 31, 2022, are €4,460,000, computed as
+shown in Illustration 20.6.
+Plan assets, January 1, 2022
+€4,200,000
+Contributions by Hasbro to plan
+300,000
+Actual return
+210,000
+Benefits paid to employees
+(250,000)
+Plan assets, December 31, 2022 €4,460,000
+ILLUSTRATION 20.6 Determination of Pension Assets
+In some cases, companies compute that actual return by adjusting the
+change in plan assets for the effect of contributions during the year
+and benefits paid during the year. The equation in Illustration 20.7,
+or a variation thereof, can be used to compute the actual return.
+Actual
+Return =
+(Plan Assets Ending Balance −
+Plan Assets Beginning Balance) −
+(Contributions
+− Benefits
+Paid)
+ILLUSTRATION 20.7 Equation for Computing Actual
+Return
+Stated another way, the actual return on plan assets is the difference
+between the fair value of the plan assets at the beginning of the period
+and the end of the period, adjusted for contributions and benefit
+payments. Illustration 20.8 uses the equation above to compute
+actual return, using the information provided in Illustration 20.6.
+
+--- Page 1805 ---
+Plan assets, December 31, 2022
+€4,460,000
+Plan assets, January 1, 2022
+(4,200,000)
+Increase in fair value of plan assets
+260,000
+Deduct: Contributions to plan
+€300,000
+Add: Benefit payments to employees
+250,000
+(50,000)
+Actual return
+€ 210,000
+ILLUSTRATION 20.8 Computation of Actual Return on
+Plan Assets
+In this case, Hasbro has a positive actual return on plan assets.
+Recently, some pension plans have experienced negative actual
+returns due to the increased volatility in global securities markets.
+Using a Pension Worksheet
+LEARNING OBJECTIVE 2
+Use a worksheet for employer’s pension plan entries.
+We will now illustrate the basic computation of pension expense
+using the first two components: (1) service cost and (2) net interest.
+We discuss remeasurements in later sections.
+Companies often use a worksheet to record pension-related
+information. As its name suggests, the worksheet is a working tool. A
+worksheet is not a permanent accounting record. It is neither a
+journal nor part of the general ledger. The worksheet is merely a
+device to make it easier to prepare entries and the financial
+statements.10 Illustration 20.9 shows the format of the pension
+worksheet.
+
+--- Page 1806 ---
+ILLUSTRATION 20.9 Basic Format of Pension Worksheet
+The “General Journal Entries” columns of the worksheet (in the
+center) determine the entries to record in the formal general ledger
+accounts. The “Memo Record” columns (on the right side) maintain
+balances in the defined benefit obligation and the plan assets. The
+difference between the defined benefit obligation and the fair value of
+the plan assets is the pension asset/liability, which is shown in the
+statement of financial position. If the defined benefit obligation is
+greater than the plan assets, a pension liability occurs. If the defined
+benefit obligation is less than the plan assets, a pension asset occurs.
+On the first line of the worksheet, a company enters the beginning
+balances (if any).It then records subsequent transactions and events
+related to the pension plan using debits and credits, using both sets of
+columns as if they were one. For each transaction or event, the debits
+must equal the credits. The ending balance in the Pension
+Asset/Liability column should equal the net balance in the
+memo record.
+2022 Entries and Worksheet
+To illustrate the use of a worksheet and how it helps in accounting for
+a pension plan, assume that Zarle AG provides the following
+information related to its pension plan for the year 2022.
+Plan assets, January 1, 2022, are €100,000.
+Defined benefit obligation, January 1, 2022, is €100,000.
+
+--- Page 1807 ---
+Annual service cost is €9,000.
+Discount rate is 10 percent.
+Funding contributions are €8,000.
+Benefits paid to retirees during the year are €7,000.
+Using these data, the worksheet in Illustration 20.10 presents the
+beginning balances and all of the pension entries recorded by Zarle in
+2022. Zarle records the beginning balances for the defined benefit
+obligation and the pension plan assets on the first line of the
+worksheet in the memo record. Because the defined benefit obligation
+and the plan assets are the same at January 1, 2022, the Pension
+Asset/Liability account has a zero balance at January 1, 2022.
+ILLUSTRATION 20.10 Pension Worksheet—2022
+Entry (a) in Illustration 20.10 records the service cost component,
+which increases pension expense by €9,000 and increases the liability
+(defined benefit obligation) by €9,000. Entry (b) accrues the interest
+expense component, which increases both the liability and the
+pension expense by €10,000 (the beginning defined benefit obligation
+
+--- Page 1808 ---
+multiplied by the discount rate of 10 percent). Entry (c) records the
+interest revenue component, which increases plan assets and
+decreases pension expense by €10,000. This is computed by
+multiplying the beginning plan assets by the discount rate of 10
+percent. As a result, interest expense (income) is zero in 2022. Entry
+(d) records Zarle’s contribution (funding) of assets to the pension
+fund, thereby decreasing cash by €8,000 and increasing plan assets by
+€8,000. Entry (e) records the benefit payments made to retirees,
+which results in equal €7,000 decreases to the plan assets and the
+defined benefit obligation.
+Zarle makes the “formal journal entry” on December 31, which
+records the pension expense in 2022 as follows.
+2022
+Pension Expense
+9,000
+Cash
+8,000
+Pension Asset/Liability
+1,000
+Funded Status
+The credit to Pension Asset/Liability for €1,000 represents the
+difference between the 2022 pension expense of €9,000 and the
+amount funded of €8,000. Pension Asset/Liability (credit) is a
+liability because Zarle underfunds the plan by €1,000. The Pension
+Asset/Liability account balance of €1,000 also equals the net of the
+balances in the memo accounts. Illustration 20.11 shows that the
+defined benefit obligation exceeds the plan assets by €1,000, which
+reconciles to the pension liability reported in the statement of
+financial position.
+Defined benefit obligation (Credit) €(112,000)
+Plan assets at fair value (Debit)
+111,000
+Pension asset/liability (Credit)
+€
+(1,000)
+ILLUSTRATION 20.11 Pension Reconciliation Schedule—
+December 31, 2022
+
+--- Page 1809 ---
+If the net of the memo record balances is a credit, the reconciling
+amount in the Pension Asset/Liability column will be a credit equal in
+amount. If the net of the memo record balances is a debit, the Pension
+Asset/Liability amount will be a debit equal in amount. The worksheet
+is designed to produce this reconciling feature, which is useful later in
+the preparation of the financial statements and required note
+disclosure related to pensions.
+In this illustration (for 2022), the debit to Pension Expense exceeds
+the credit to Cash, resulting in a credit to Pension Asset/Liability—the
+recognition of a liability. If the credit to Cash exceeded the debit to
+Pension Expense, Zarle would debit Pension Asset/Liability—the
+recognition of an asset.11
+Past Service Cost
+LEARNING OBJECTIVE 3
+Explain the accounting for past service costs.
+Past service cost (PSC) is the change in the present value of the
+defined benefit obligation resulting from a plan amendment or a
+curtailment.12 For example, a plan amendment arises when a company
+decides to provide additional benefits to existing employees for past
+service. Conversely, the company may decide that it is necessary to
+reduce its benefit package retroactively for existing employees,
+thereby reducing their pension benefit. A curtailment occurs when
+the company has a significant reduction in the number of employees
+covered by the plan. Because a curtailment has the same effect as a
+reduction in benefits due to an amendment to the plan, these
+situations are accounted for in the same way. Illustration 20.12
+summarizes the nature of past service costs.
+
+--- Page 1810 ---
+Past Service Costs
+(Expense in Current Period)
+Plan
+Amendments
+Curtailments
+Introduction
+of a plan.
+Withdrawal
+of a plan.
+Changes to a
+plan.
+Significant reduction in the number of
+employees covered by the plan.
+ILLUSTRATION 20.12 Types of Past Service Costs
+The accounting for past service cost is straightforward—expense past
+service cost in the period of the amendment or curtailment. As a
+result, a substantial increase (decrease) in pension expense and the
+defined benefit obligation often results when a plan amendment or
+curtailment occurs. Because current and past service costs relate
+directly to employment, they are reported in the operating section of
+the statement of comprehensive income.
+Some disagree with the IASB position of expensing these costs in the
+year a plan is amended or curtailed. They argue that a company would
+not provide these additional benefits for past years of service unless it
+expects to receive benefits in the future. According to this reasoning, a
+company should not recognize the full past service cost in the year of
+the amendment. Instead, the past service cost should be spread out
+over the remaining service life of employees who are expected to
+benefit from the changes in the plan. Others believe that if they are
+truly past service costs, they should be treated retroactively as an
+adjustment made to prior periods.
+However, the IASB decided that any changes in the defined benefit
+obligation or plan assets should be recognized in the current period.
+
+--- Page 1811 ---
+To do otherwise is not informative and leads to delayed recognition of
+costs or reduced benefits that are neither assets nor liabilities. [13]
+It is also possible to decrease past service costs by decreasing the
+defined benefit obligation (referred to as negative past service cost).
+Negative past service cost arises when an entity changes the benefits
+attributable to past service cost so that the present value of the
+defined benefit obligation decreases. In that case, pension expense is
+decreased. Both positive (increased pension expense) and negative
+(decreased pension expense) past service cost adjustments are
+handled in the same manner; that is, pension expense should be
+adjusted immediately.
+2023 Entries and Worksheet
+Continuing the Zarle AG illustration into 2023, we note that the
+company amends the pension plan on January 1, 2023, to grant
+employees past service benefits with a present value of €81,600. The
+following additional facts apply to the pension plan for the year 2023.
+Annual service cost is €9,500.
+Discount rate is 10 percent.
+Annual funding contributions are €20,000.
+Benefits paid to retirees during the year are €8,000.
+Illustration 20.13 presents a worksheet of all the pension entries
+and information recorded by Zarle in 2023.
+
+--- Page 1812 ---
+ILLUSTRATION 20.13 Pension Worksheet—2023
+The first line of the worksheet shows the beginning balances of the
+Pension Asset/Liability account and the memo accounts. Entry (f)
+records Zarle’s granting of past service cost, by adding €81,600 to the
+defined benefit obligation and to Pension Expense. Entry (g) records
+the current service cost; entry (h) records interest expense for the
+period. Because the past service cost occurred at the beginning of the
+year, interest is computed on the January 1, 2023, balance of the
+defined benefit obligation, adjusted for the past service cost. Interest
+expense is therefore €19,360 (€193,600 × .10). Entry (i) records
+interest revenue for the period of €11,100 (€111,000 × .10). Entries (j)
+and (k) are similar to the corresponding entries in 2022.
+Zarle makes the following journal entry on December 31 to formally
+record the 2023 pension expense—the sum of the annual pension
+expense column.
+2023
+Pension Expense
+99,360
+Cash
+20,000
+Pension Asset/Liability
+79,360
+
+--- Page 1813 ---
+Because the expense exceeds the funding, Zarle credits the Pension
+Asset/Liability account for the €79,360 difference. That account is a
+liability. In 2023, as in 2022, the balance of the Pension
+Asset/Liability account (€80,360) is equal to the net of the balances
+in the memo accounts, as shown in Illustration 20.14.
+Defined benefit obligation (Credit) €(214,460)
+Plan assets at fair value (Debit)
+134,100
+Pension asset/liability (Credit)
+€ (80,360)
+ILLUSTRATION 20.14 Pension Reconciliation Schedule—
+December 31, 2023
+The reconciliation is the formula that makes the worksheet work. It
+relates the components of pension accounting, recorded and
+unrecorded, to one another.
+Remeasurements
+LEARNING OBJECTIVE 4
+Explain the accounting for remeasurements.
+Of great concern to companies that have pension plans are the
+uncontrollable and unexpected swings that can result from (1) sudden
+and large changes in the fair value of plan assets and (2) changes in
+actuarial assumptions that affect the amount of the defined benefit
+obligation. How should these changes (referred to as
+remeasurements) affect the financial statements, most notably
+pension expense? The IASB believes that the most informative way is
+to recognize the remeasurement in other comprehensive income. The
+rationale for this reporting is that the predictive nature of
+remeasurements is much different than the other two components of
+pension benefit cost—service cost and net interest. [14]
+Remeasurements are generally of two types:
+
+--- Page 1814 ---
+1. Gains and losses on plan assets.
+2. Gains and losses on the defined benefit obligation.
+Asset Gains and Losses
+The gains and losses on plan assets (referred to as asset gains and
+losses) represent the difference between the actual return and the
+interest revenue computed in determining net interest. Asset gains
+occur when actual returns exceed the interest revenue. Asset losses
+occur when the actual returns are less than interest revenue. To
+illustrate, assume that Shopbob SE has plan assets at January 1, 2022,
+of €100,000. The discount rate for the year is 6 percent, and the actual
+return on the plan assets for 2022 is €8,000. In 2022, Shopbob should
+record an asset gain of €2,000, computed as shown in Illustration
+20.15.
+Actual return
+€8,000
+Less: Interest revenue (€100,000 × .06)
+6,000
+Asset gain
+€2,000
+ILLUSTRATION 20.15 Computation of Asset Gain
+Shopbob therefore debits plan assets for the asset gain of €2,000 and
+credits Other Comprehensive Income (G/L) for the same amount. If
+interest revenue exceeds the actual return, Shopbob debits Other
+Comprehensive Income (G/L) for the asset loss and credits plan
+assets.
+Liability Gains and Losses
+In estimating the defined benefit obligation (the liability), actuaries
+make assumptions about such items as mortality rate, retirement rate,
+turnover rate, disability rate, and salary amounts. Any change in these
+actuarial assumptions affects the amount of the defined benefit
+obligation. Seldom does actual experience coincide exactly with
+actuarial predictions. These gains or losses from changes in the
+defined benefit obligation are called liability gains and losses.
+
+--- Page 1815 ---
+Companies report liability gains (resulting from unexpected decreases
+in the liability balance) and liability losses (resulting from unexpected
+increases in the liability balance) in Other Comprehensive Income
+(G/L). Companies combine the liability gains and losses in the same
+Other Comprehensive Income (G/L) account used for asset gains and
+losses. They accumulate the asset and liability gains and losses from
+year to year in Accumulated Other Comprehensive Income.13 This
+amount is reported on the statement of financial position in the
+equity section.
+2024 Entries and Worksheet
+Continuing the Zarle illustration, the following facts apply to the
+pension plan for 2024.
+Annual service cost is €13,000.
+Discount rate is 10 percent.
+Actual return on plan assets is €12,000.
+Annual funding contributions are €24,000.
+Benefits paid to retirees during the year are €10,500.
+Changes in actuarial assumptions establish the end-of-year
+defined benefit obligation at €265,000.
+The worksheet in Illustration 20.16 presents all of Zarle’s 2024
+pension entries and related information. The first line of the
+worksheet records the beginning balances that relate to the pension
+plan. In this case, Zarle’s beginning balances are the ending balances
+from its 2023 pension worksheet in Illustration 20.13.
+
+--- Page 1816 ---
+ILLUSTRATION 20.16 Pension Worksheet—2024
+Entries (l), (m), (n), (o), and (p) are similar to the corresponding
+entries in 2022 or 2023. Entries (m) and (n) are related. Entry (m)
+records the interest expense of €21,446 (€214,460 × .10). Entry (n)
+records interest revenue of €13,410 (€134,100 × .10). Therefore, net
+interest expense is €8,036 (€21,446 − €13,410.) In 2024, entries (o)
+and (p) are recorded similarly to those in 2022 and 2023.
+Entries (q) and (r) need additional explanation. As indicated, the
+actual return on plan assets for 2024 was €12,000. However, as
+indicated in entry (n), pension expense was decreased €13,410 as a
+result of multiplying the beginning plan assets by the discount rate to
+arrive at an assumed interest revenue of €13,410. As a result, Zarle
+has an asset loss of €1,410 (€13,410 − €12,000) because the assumed
+interest revenue is greater than the actual return. This asset loss is
+debited to Other Comprehensive Income (G/L) and credited to plan
+assets. Pension plan assets are then properly stated at their fair value.
+Entry (r) records the change in the defined benefit obligation resulting
+from the changes in the actuarial assumptions related to this
+obligation. As indicated in the facts above, the actuary has determined
+that the ending balance in the defined benefit obligation should be
+€265,000 at December 31, 2024. However, the balance at December
+
+--- Page 1817 ---
+31, 2024, before any adjustment for actuarial gains and losses related
+to the defined benefit obligation is €238,406, as shown in
+Illustration 20.17.
+December 31, 2023, DBO balance
+€214,460
+Service cost [entry (l)]
+13,000
+Interest expense [entry (m)]
+21,446
+Benefits paid
+(10,500)
+December 31, 2024, DBO balance (before liability
+increases)
+238,406
+Liability Loss
+26,594
+December 31, 2024, DBO balance
+€265,000
+ILLUSTRATION 20.17 Defined Benefit Obligation Balance
+The difference between the ending balance of €265,000 as determined
+by the actuary and the present balance of €238,406 is €26,594 (a
+liability loss on the defined benefit liability). As shown on the
+worksheet, this liability loss is debited to Other Comprehensive
+Income (G/L) and credited to the defined benefit obligation. After this
+worksheet adjustment, the defined benefit obligation is stated at its
+actuarial value of €265,000. The journal entry to record the
+information related to the pension plan at December 31, 2024, based
+on the pension worksheet in Illustration 20.16, is as follows.
+Pension Expense
+21,036
+Other Comprehensive Income (G/L) 28,004
+Cash
+24,000
+Pension Asset/Liability
+25,040
+As the 2024 worksheet indicates, the €105,400 balance in the Pension
+Asset/Liability account at December 31, 2024, is equal to the net of
+the balances in the memo accounts. Illustration 20.18 shows this
+computation.
+
+--- Page 1818 ---
+Defined benefit obligation (Credit) €(265,000)
+Plan assets at fair value (Debit)
+159,600
+Pension asset/liability
+€(105,400)
+ILLUSTRATION 20.18 Pension Reconciliation Schedule—
+December 31, 2024
+Zarle carries the 2024 ending balances for Pension Asset/Liability and
+Accumulated Other Comprehensive Income forward as the beginning
+balances for pension plan accounting in 2025. These balances will be
+adjusted by changes in the defined benefit obligation and plan assets
+as shown in the prior examples. For example, assume that Zarle’s
+pension plan had the following activity in 2025:
+Pension expense
+€17,450
+Contributions
+32,000
+Asset gain
+13,150
+Decrease in Pension Asset/Liability
+27,700
+The ending balances for the defined benefit obligation and plan assets
+are €303,560 and €225,860, respectively. These elements are
+summarized in the partial 2025 pension worksheet shown in
+Illustration 20.19.
+ILLUSTRATION 20.19 Partial Pension Worksheet—2025
+
+--- Page 1819 ---
+Focusing on the “Journal entry” row, in 2025 Zarle records pension
+expense of €17,450 and a decrease in Pension Asset/Liability of
+€27,700. The reduction in Pension Asset/Liability is due in part to the
+asset gain of €13,150 recorded in 2025. As a result, Zarle’s 2025
+ending balances (which become the 2026 beginning balances) are
+Pension Asset/Liability €77,700 and Accumulated Other
+Comprehensive Income €14,854 (beginning Accumulated OCI of
+€28,004 − gain of €13,150).
+
+--- Page 1820 ---
+What Do the Numbers Mean?
+Roller Coaster
+The following chart shows what has happened to the financial
+health of pension plans over the last few years. It is a real roller
+coaster.
+As discussed in the opening story, the funded status of pension
+plans took a dramatic fall from an over-funded status in 2007 to
+persistent under-funded status in the years since the financial
+crisis. The future is highly uncertain, with continued stagnant
+bond returns and the yet-to-be-determined market effects of Brexit
+and the Covid-19 pandemic.
+A number of factors cause a fund to change from being overfunded
+to underfunded. First, low interest rates decimate returns on
+pension plan assets. As a result, pension fund assets have not
+grown; in some cases, they have declined in value. Second, using
+low interest rates to discount the projected benefit payments leads
+to a higher pension liability. Finally, more individuals are retiring,
+which leads to a depletion of the pension plan assets.
+Sources: D. Zion and A. Varshay, “Strong Returns Didn’t Close Pension Funding
+Gaps Last Year; But So Far So Good This Year,” Credit Suisse Equity Research
+(February 5, 2013); V. Monga, “Longer Lives Cut Premium to Offload Pensions,” Wall
+
+--- Page 1821 ---
+Street Journal (February 3, 2015); and T.W. Martin, V. Monda, and H. Gillers, “Brexit
+Adds to Pension Funds’ Pain,” Wall Street Journal (July 10, 2016).
+Reporting Pension Plans in Financial
+Statements
+LEARNING OBJECTIVE 5
+Describe the requirements for reporting pension plans in financial
+statements.
+As you might suspect, a phenomenon as significant and complex as
+pensions involves extensive reporting and disclosure requirements.
+We will cover these requirements in two categories: (1) those within
+the financial statements and (2) those within the notes to the
+financial statements.
+Within the Financial Statements
+Pension Expense
+As indicated earlier, pension expense (service cost and net interest)
+affects net income and is reported in the statement of comprehensive
+income. Companies may choose to report these components in one
+section of the statement of comprehensive income and report total
+pension expense. Other companies may choose to report the service
+cost component in operating income and the net interest in a separate
+section related to financing.14
+Gains and Losses (Remeasurements)
+Asset and liability gains and losses are recognized in other
+comprehensive income. By recognizing these gains and losses as part
+of other comprehensive income but not net income, the Board
+believes that the usefulness of financial statements is enhanced.
+
+--- Page 1822 ---
+To illustrate the presentation of other comprehensive income and
+related accumulated OCI, assume that Obey ASA provides the
+following information for the year 2022.
+Net income for 2022
+€100,000
+Liability loss for 2022
+60,000
+Asset loss for 2022
+15,000
+Accumulated OCI, January 1, 2022
+40,000
+Both the liability loss and the asset loss decrease the funded status of
+the plan on the statement of financial position. This results because
+the defined benefit obligation increases and the plan assets decrease.
+However, neither the liability loss nor the asset loss affects pension
+expense in 2022.
+For Obey, the computation of “Other comprehensive loss” for 2022 is
+as shown in Illustration 20.20.
+Liability loss
+€60,000
+Asset loss
+15,000
+Other comprehensive loss €75,000
+ILLUSTRATION 
+20.20 
+Computation 
+of 
+Other
+Comprehensive Income
+Illustration 20.21 shows the computation of “Comprehensive
+income” for 2022.
+Net income
+€100,000
+Other comprehensive loss
+75,000
+Comprehensive income
+€ 25,000
+ILLUSTRATION 20.21 Computation of Comprehensive
+Income
+The components of other comprehensive income must be reported
+using one of two formats: (1) a two statement approach or (2) a one
+statement approach (a combined statement of comprehensive
+
+--- Page 1823 ---
+income). Regardless of the format used, net income must be added to
+other comprehensive income to arrive at comprehensive income. For
+homework purposes, use the two statement approach unless stated
+otherwise. Earnings per share information related to comprehensive
+income is not required.
+To illustrate the two statement approach, assume that Obey has
+reported a traditional income statement. The comprehensive income
+statement is shown in Illustration 20.22.
+Obey ASA 
+Comprehensive Income Statement 
+For the Year Ended December 31, 2022
+Net income
+€100,000
+Other comprehensive loss
+Liability loss
+€60,000
+Asset loss
+15,000
+75,000
+Comprehensive income
+€ 25,000
+ILLUSTRATION 20.22 Comprehensive Income Reporting
+The computation of “Accumulated other comprehensive income” as
+reported in equity at December 31, 2022, is shown in Illustration
+20.23.
+Accumulated other comprehensive income, January 1, 2022 €40,000
+Other comprehensive loss
+75,000
+Accumulated other comprehensive loss, December 31, 2022 €35,000
+ILLUSTRATION 20.23 Computation of Accumulated Other
+Comprehensive Income
+Regardless of the display format for the income statement, the
+accumulated other comprehensive loss is reported in the equity
+section of the statement of financial position of Obey ASA as shown in
+Illustration 20.24, which uses assumed data for the share capital—
+ordinary and retained earnings information.)
+
+--- Page 1824 ---
+Obey ASA 
+Statement of Financial Position
+As of December 31, 2022
+(Equity Section)
+Equity
+Share capital—ordinary
+€100,000
+Retained earnings
+60,000
+Accumulated other comprehensive loss
+35,000
+Total equity
+€125,000
+ILLUSTRATION 20.24 Reporting of Accumulated OCI
+By providing information on the components of comprehensive
+income as well as total accumulated other comprehensive income, the
+company reports all changes in net assets.
+The IASB prohibits recycling of pension-related other comprehensive
+income items. Recycling means that other comprehensive income
+items are reclassified (through amortization) to net income over a
+period of time. Recycling, for example, is used under U.S. GAAP. The
+IASB notes that it is difficult to establish a reasonable basis for
+making these transfers. [16] In addition, not adjusting these amounts
+over time into net income signals that these items have characteristics
+different than normal revenues and expenses.
+Recognition of the Net Funded Status of the Pension Plan
+Companies must recognize on their statement of financial position
+the overfunded (pension asset) or underfunded (pension liability)
+status of their defined benefit pension plan. The overfunded or
+underfunded status is measured as the difference between the fair
+value of the plan assets and the defined benefit obligation.
+When a pension plan is overfunded (when there is a pension asset),
+the amount reported in the statement of financial position is
+constrained. The IASB decided that the amount reported should be
+either the lower of the pension asset (plan assets less the defined
+benefit obligation), or the asset ceiling. The asset ceiling is the
+
+--- Page 1825 ---
+portion of the pension asset that the employer is eligible to receive
+back from the plan in the form of refunds or reductions in future
+contributions. For homework purposes, assume that the pension plan
+asset reported in the statement of financial position is not
+constrained by the asset ceiling.
+Classification of Pension Asset or Pension Liability
+The IASB does not indicate whether a company should distinguish
+current and non-current portions of assets and liabilities arising from
+pension benefits. For homework purposes, assume that no portion of
+a pension asset is reported as a current asset. The excess of the fair
+value of the plan assets over the defined benefit obligation is classified
+as a non-current asset. The rationale for non-current classification is
+that the pension plan assets are restricted. That is, these assets are
+used to fund the defined benefit obligation, and therefore non-current
+classification is appropriate.
+The current portion of a net pension liability represents the amount of
+benefit payments to be paid in the next 12 months (or operating cycle,
+if longer) if that amount cannot be funded from existing plan assets.
+Otherwise, the pension liability is classified as a non-current liability.
+Aggregation of Pension Plans
+Some companies have two or more pension plans. In such instances, a
+question arises as to whether these multiple plans should be
+combined and shown as one amount on the statement of financial
+position. The Board takes the position that in general pension plans
+should not be combined. The only situation in which offsetting is
+permitted is when a company:
+a. Has a legally enforceable right to use a surplus in one plan to
+settle obligations in the other plan, and
+b. Intends either to settle the obligation on a net basis, or to realize
+the surplus in one plan and settle its obligations under the other
+plan simultaneously.
+
+--- Page 1826 ---
+Within the Notes to the Financial Statements
+Information on pension plans is important in understanding a
+company’s financial position, results of operations, and cash flows. To
+better understand a pension plan, a company is required to disclose
+information that: [17]
+a. Explains characteristics of its defined benefit plans and risks
+associated with them.
+b. Identifies and explains the amounts in its financial statements
+arising from its defined benefit plans.
+c. Describes how its defined benefit plans may affect the amount,
+timing, and uncertainty of the company’s future cash flows.
+To meet these requirements, companies provide extensive disclosures
+related to their defined benefit plans (see Underlying Concepts).
+We focus our discussion on the second objective, which requires
+identifying and explaining the amounts in financial statements arising
+from defined pension plans. These requirements are summarized in
+Illustration 20.25.
+Underlying Concepts
+This represents another compromise between relevance and
+faithful representation. Disclosure is used to balance these
+objectives.
+
+--- Page 1827 ---
+Amounts reported in the financial statements:
+Companies should provide reconciliation from the beginning balance
+to the ending balance for each of the following:
+1. Plan assets.
+2. Defined benefit obligation.
+3. Funded status of the plan.
+This reconciliation should report the following, where appropriate.
+Current service cost.
+Interest revenue or expense.
+Remeasurements of the net defined benefit liability (asset)
+showing separately (a) the return on plan assets, excluding
+amounts of interest revenue computed in (2); and (b) actuarial
+gains and losses arising from changes in the defined benefit
+obligation.
+Past service cost and curtailments.
+Contributions and payments to the plan.
+Information on how the defined benefit plan may affect the
+amount, timing, and uncertainty of future cash flows:
+1. Sensitivity analysis for each significant actuarial assumption,
+showing how the defined benefit obligation would have been
+affected by changes in the relevant actuarial assumption that
+were reasonably possible at the reporting date.
+2. Methods and assumptions used in preparing the sensitivity
+analyses required by (1) and the limitations of those methods.
+3. Changes from the previous period in the methods and
+assumptions used in preparing the sensitivity analyses and the
+reasons for such changes.
+
+--- Page 1828 ---
+4. Description of any funding arrangements and funding policy that
+affect future contributions.
+5. Expected contributions to the plan for the next annual reporting
+period.
+6. Information about the maturity profile of the defined benefit
+obligation, including information about the distribution of the
+timing of benefit payments, such as a maturity analysis of the
+benefit payments.
+ILLUSTRATION 20.25 Pension Disclosure Requirements
+The reconciliation is a key element of the pension disclosure package.
+By having a reconciliation of the changes in the assets and liabilities
+from the beginning of the year to the end of the year, statement
+readers can better understand the underlying economics of the plan.
+In essence, this disclosure contains the information in the pension
+worksheet for the defined benefit obligation and plan asset columns
+in accordance with IAS 19 requirements. Using the information for
+Zarle presented earlier in the chapter, the schedule in Illustration
+20.26 provides an example of the reconciliation.
+
+--- Page 1829 ---
+Zarle AG 
+Pension Disclosure
+2022
+2023
+2024
+Change in benefit obligation
+Benefit obligation at beginning of
+year
+€100,000
+€112,000
+€ 214,460
+Service cost
+9,000
+9,500
+13,000
+Interest expense
+10,000
+19,360
+21,446
+Amendments (Past service cost)
+0
+81,600
+0
+Benefits paid
+(7,000)
+(8,000)
+(10,500)
+Actuarial loss
+0
+0
+26,594
+Benefit obligation at end of year
+(112,000)
+(214,460)
+(265,000)
+Change in plan assets
+Fair value of plan assets at
+beginning of year
+100,000
+111,000
+134,100
+Interest revenue
+10,000
+11,100
+13,410
+Contributions
+8,000
+20,000
+24,000
+Benefits paid
+(7,000)
+(8,000)
+(10,500)
+Asset loss
+0
+0
+(1,410)
+Fair value of plan assets at end of
+year
+111,000
+134,100
+159,600
+Funded status (Pension
+asset/liability)
+€ (1,000) € (80,360) €(105,400)
+ILLUSTRATION 20.26 Pension Disclosure for Zarle AG—
+2022, 2023, 2024
+The 2022 column reveals that Zarle underfunds the defined benefit
+obligation by €1,000. The 2023 column reveals that Zarle reports the
+underfunded liability of €80,360 in the statement of financial
+position. Finally, the 2024 column indicates that Zarle recognizes the
+
+--- Page 1830 ---
+underfunded liability of €105,400 in the statement of financial
+position.
+Other Postretirement Benefits
+LEARNING OBJECTIVE 6
+Explain the accounting for other postretirement benefits.
+In addition to pensions, companies often promise other types of
+postretirement benefits. The benefits include life insurance outside a
+pension plan; medical, dental, and eye care; legal and tax services; and
+so on. Because healthcare benefits are the largest of other
+postretirement benefits, we provide a general description of how they
+differ from traditional pension plans in Illustration 20.27.
+Item
+Pensions
+Healthcare Benefits
+Funding
+Generally funded.
+Generally not funded.
+Benefit
+Well-defined and
+level dollar
+amount.
+Generally uncapped and great
+variability.
+Beneficiary
+Retiree (maybe
+some benefit to
+surviving spouse).
+Retiree, spouse, and other
+dependents.
+Benefit
+payable
+Monthly.
+As needed and used.
+Predictability Variables are
+reasonably
+predictable.
+Utilization difficult to predict.
+Level of cost varies geographically
+and fluctuates over time.
+ILLUSTRATION 20.27 Differences between Pensions and
+Postretirement Healthcare Benefits
+Two of the differences in Illustration 20.27 highlight why measuring
+the future payments is so much more difficult for healthcare benefit
+plans than for pension plans.
+
+--- Page 1831 ---
+1. Many postretirement plans do not set a limit on
+healthcare benefits. No matter how serious the illness or how
+long it lasts, the benefits continue to flow. (Even if the employer
+uses an insurance company plan, the premiums will escalate
+according to the increased benefits provided.)
+2. The levels of healthcare benefit use and healthcare costs
+are difficult to predict. Increased longevity, unexpected
+illnesses (e.g., AIDS, H1N1 flu, and COVID-19), along with new
+medical technologies and cures, cause changes in healthcare
+utilization and costs.
+Additionally, although the fiduciary and reporting standards for
+employee benefit funds under government regulations generally cover
+healthcare benefits, the stringent minimum vesting, participation, and
+funding standards that apply to pensions do not apply to healthcare
+benefits. Nevertheless, the basic concepts of pension accounting apply
+to other postretirement benefits. As a result, the IASB indicates that
+the accounting and reporting of these other types of postretirement
+benefits should be the same as that used for pension plan reporting
+(except for substituting “Postretirement” for “Pension” in related
+account titles). However, companies with both pension and other
+postretirement benefit plans must separately disclose the plan details
+when the plans are subject to materially different risks. [18]
+Concluding Observations
+Hardly a day goes by without the financial press analyzing in depth
+some issue related to pension plans around the world. This is not
+surprising, since pension funds now hold trillions of dollars, euros,
+pounds, and yen in assets. As you have seen, the accounting issues
+related to pension plans are complex. Recent amendments to IAS 19,
+as discussed in this chapter, have clarified many of these issues and
+should help users understand the financial implications of a
+company’s pension plans on its financial position, results of
+operations, and cash flows.
+
+--- Page 1832 ---
+What Do the Numbers Mean?
+How’s Your Volatility?
+Companies were not required to adopt the changes arising from
+the amendments to IAS 19 until 2013. In the period leading up to
+adoption, many were analyzing the impact on financial statements
+and the implications for users of financial statements. The
+following table summarizes some of the key accounting impacts
+and their consequences—some good, some bad.
+Accounting/Financial Reporting
+Impact
+Consequences of the
+Changes
+Potentially higher pension expense
+due to use of a single (usually lower)
+discount rate to determine return on
+assets (interest revenue) and
+recognition of all past service costs in
+net income.
+Could lead to violation of
+loan covenants or
+decreased bonus
+payments for
+performance plans based
+on net income.
+Increased volatility in statement
+of financial position and
+shareholders’ equity due to
+recognition of all remeasurements in
+other comprehensive income.
+Could lead to violation of
+loan covenants based on
+shareholders’ equity and
+affect regulatory
+oversight based on share
+capital.
+Reduced net income volatility for
+companies that previously recognized
+all gains and losses in net income.
+Companies may realize
+lower cost of capital
+because less volatility is
+associated with lower
+risk.
+The reduced net income volatility could be a significant benefit
+when companies adopt the new rules. For example, the following
+chart indicates that if the new rules had been applied in the years
+1998–2009 (black line), changes in net income would have been
+less volatile, compared to net income changes reported under the
+
+--- Page 1833 ---
+prior rules (red line). Change can be painful. However, in this case
+the modification in the new rules will likely result in less net
+income volatility.
+Not surprisingly, the biggest differences in income under the new
+and old rules emerge in periods of market decline (e.g., 2000–
+2002 and 2007–2008). In more stable market periods, there is
+expected to be minimal difference in reported pension expense.
+For example, in 2012 Roche Group (CHE) indicated that the
+effect on income would be CHF164 million, or just 1 percent of
+operating profits. The company expected the ongoing impact for
+2013 and beyond to be of a similar magnitude.
+Review and Practice
+Key Terms Review
+accumulated benefit obligation
+actual return on plan assets
+actuarial present value (n)
+
+--- Page 1834 ---
+actuaries
+asset ceiling
+asset gains and losses
+benefits/years-of-service method
+components of pension cost
+contributory pension plan
+curtailment
+defined benefit obligation
+defined benefit plan
+defined contribution plan
+discount rate
+funded pension plan
+funded status
+interest on the liability (interest expense)
+liability gains and losses
+net defined benefit obligation (asset)
+non-contributory pension plan
+past service cost (PSC)
+pension asset/liability
+pension plan
+pension worksheet
+plan assets
+projected unit credit method (benefits/ years-of-service method)
+qualified pension plan
+reconciliation
+remeasurements
+
+--- Page 1835 ---
+service cost
+settlement (n)
+vested benefit obligation
+vested benefits
+Learning Objectives Review
+1 Discuss the fundamentals of pension plan accounting.
+The company or employer is the organization sponsoring the pension
+plan. It incurs the cost and makes contributions to the pension fund.
+The fund or plan is the entity that receives the contributions from the
+employer, administers the pension assets, and makes the benefit
+payments to the pension recipients (retired employees). The fund
+should be a separate legal and accounting entity; it maintains a set of
+books and prepares financial statements.
+Types of pension plans. The two most common types of pension
+arrangements are as follows. (1) Defined contribution plans: The
+employer agrees to contribute to a pension trust a certain sum each
+period based on a formula. This formula may consider such factors as
+age, length of employee service, employer’s profits, and compensation
+level. Only the employer’s contribution is defined; no promise is made
+regarding the ultimate benefits paid out to the employees. (2) Defined
+benefit plans: These plans define the benefits that the employee will
+receive at the time of retirement. The formula typically provides for
+the benefits to be a function of years of service and the compensation
+level when the employee nears retirement.
+Valuing the pension obligation. One measure bases the pension
+obligation only on the benefits vested to the employees. Vested
+benefits are those that the employee is entitled to receive even if he or
+she renders no additional services under the plan. Companies
+compute the vested benefits pension obligation using current salary
+levels; this obligation includes only vested benefits. Another measure
+of the obligation, called the accumulated benefit obligation, computes
+
+--- Page 1836 ---
+the deferred compensation amount based on all years of service
+performed by employees under the plan—both vested and non-vested
+—using current salary levels. A third measure, called the defined
+benefit obligation, bases the computation of the deferred
+compensation amount on both vested and non-vested service using
+future salaries.
+Identify amounts reported. In the statement of financial position,
+companies report the net defined benefit obligation/asset (funded
+status), which is the defined benefit obligation less the fair value of
+plan assets (if any). Changes in the net defined benefit obligation
+(asset) are reported in comprehensive income. Service cost (current
+and past) and net interest (computed by multiplying the discount rate
+by the funded status of the plan) are reported in the operating section
+of the income statement. Remeasurements are gains and losses
+related to the defined benefit obligation (changes in discount rate or
+other actuarial assumptions) and gains or losses on the fair value of
+the plan assets. Remeasurements are reported in other
+comprehensive income.
+2 Use a worksheet for employer’s pension plan entries.
+Companies may use a worksheet unique to pension accounting. This
+worksheet records both the formal entries and the memo entries to
+keep track of all the employer’s relevant pension plan items and
+components.
+3 Explain the accounting for past service costs.
+Past service cost is the change in the value of the defined benefit
+obligation resulting from a plan amendment or a curtailment. Past
+service costs are expensed in the period of the amendment or
+curtailment. As a result, a substantial increase (decrease) in pension
+expense and the defined benefit obligation often results when a plan
+amendment or curtailment occurs.
+
+--- Page 1837 ---
+4 Explain the accounting for remeasurements.
+Remeasurements arise from (1) gains and losses on plan assets and
+(2) gains and losses on the defined benefit obligation. The gains and
+losses on plan assets (asset gain or loss) represent the difference
+between the actual return and the interest revenue computed in
+determining net interest. Asset gains occur when actual returns
+exceed the interest revenue. Asset losses occur when the actual
+returns are less than interest revenue. The gains or losses on the
+defined benefit obligation (liability gain/loss) are due to changes in
+actuarial assumptions that affect the amount of the defined benefit
+obligation. All remeasurements are reported in other comprehensive
+income. These amounts are not recycled into income in subsequent
+periods.
+5 Describe the requirements for reporting pension plans
+in financial statements.
+A company reports the pension asset/liability as an asset or a liability
+in the statement of financial position at the end of a reporting period.
+The classification as non-current or current follows the general
+guidelines used for classification of other assets or liabilities. On the
+income statement (or related notes), the company must report the
+amount of pension expense for the period. In addition, any actuarial
+gains or losses charged or credited to other comprehensive income
+should be reported in the statement of comprehensive income.
+In the notes, a company is required to disclose information that: (a)
+explains characteristics of its defined benefit plans and risks
+associated with them, (b) identifies and explains the amounts in its
+financial statements arising from its defined benefit plans, and (c)
+describes how its defined benefit plans may affect the amount, timing,
+and uncertainty of the company’s future cash flows. Important note
+disclosures are summarized in Illustration 20.25. The reconciliation of
+the changes in the pension assets and liabilities is a key element of
+the pension disclosure package.
+
+--- Page 1838 ---
+6 Explain the accounting for other postretirement
+benefits.
+Companies often provide other types of non-pension postretirement
+benefits, such as life insurance outside a pension plan, medical care,
+and legal and tax services. The accounting for these other types of
+postretirement benefits is the same as that used for pension plan
+reporting. Companies with both pension and other postretirement
+benefit plans must separately disclose the plan details when the plans
+are subject to materially different risks.
+Enhanced Review and Practice
+Go online for multiple-choice questions with solutions, review
+exercises with solutions, and a full glossary of all key terms.
+Practice Problem
+Jablonski plc sponsors a defined benefit pension plan for its
+employees. On January 1, 2022, the following balances related to
+this plan.
+Plan assets
+₤170,000
+Projected benefit obligation
+240,000
+Pension asset/liability
+70,000 Cr.
+OCI—Loss
+11,000
+As a result of the operation of the plan during 2022, the actuary
+provided the following additional data at December 31, 2022.
+Service cost for 2022
+₤45,000
+Actual return on plan assets in 2022
+17,000
+Contribution in 2022
+85,000
+Benefits paid retirees in 2022
+10,500
+
+--- Page 1839 ---
+Discount rate
+7%
+Changes in actuarial assumptions result in a defined benefit
+obligation end-of-year balance of $335,000.
+Instructions
+a. Compute pension expense for Jablonski for the year 2022 by
+preparing a pension worksheet that shows the journal entry for
+pension expense.
+b. Indicate the pension amounts reported in the financial
+statements.
+Solution
+a. 
+2022
+Pension Expense
+49,900
+Other Comprehensive Income (G/L) 38,600
+Pension Asset/Liability
+3,500
+Cash
+85,000
+
+--- Page 1840 ---
+b. The pension amounts reported in the 2022 financial statements
+are as follows.
+Income Statement
+Pension expense
+₤49,900
+Comprehensive Income Statement
+Net income
+₤XXXX
+Other comprehensive income
+Asset gain
+₤ 5,100
+Liability loss
+43,700
+38,600
+Comprehensive income
+₤XXXX
+Statement of Financial Position
+Equity
+Accumulated other comprehensive loss
+(G/L)
+₤
+49,600
+Liabilities
+Pension liability
+₤
+73,500
+Exercises, Problems, Problem Solution Walkthrough Videos, Data
+Analytics Activities, and many more assessment tools and
+resources are available for practice in Wiley’s online courseware.
+Questions
+1. What is a pension plan? How does a contributory pension plan
+differ from a non-contributory plan?
+2. Differentiate between a defined contribution pension plan and a
+defined benefit pension plan. Explain how the employer’s obligation
+differs between the two types of plans.
+3. Differentiate between “accounting for the employer” and
+“accounting for the pension fund.”
+
+--- Page 1841 ---
+4. The meaning of the term “fund” depends on the context in which it
+is used. Explain its meaning when used as a noun. Explain its
+meaning when used as a verb.
+5. What is the role of an actuary relative to pension plans? What are
+actuarial assumptions?
+6. What factors must be considered by the actuary in measuring the
+amount of pension benefits under a defined benefit plan?
+7. Name three approaches to measuring benefits from a pension plan
+and explain how they differ.
+8. Explain how cash-basis accounting for pension plans differs from
+accrual-basis accounting for pension plans. Why is cash-basis
+accounting generally considered unacceptable for pension plan
+accounting?
+9. What is the net benefit obligation (asset)? How is the net benefit
+obligation (asset) reported in the financial statements?
+10. What elements comprise changes in the net benefit obligation
+(asset)? How are these changes reported in the financial statements?
+11. Identify the components of pension expense. Briefly explain the
+nature of each component.
+12. What is service cost, and what is the basis of its measurement?
+13. What is net interest? Identify the elements of net interest and
+explain how they are computed.
+14. Given the following items and amounts, compute the actual
+return on plan assets: fair value of plan assets at the beginning of the
+period $9,200,000; benefits paid during the period $1,400,000;
+contributions made during the period $1,000,000; and fair value of
+the plan assets at the end of the period $10,150,000.
+15. Explain the difference between service cost and past service cost.
+16. What is meant by “past service cost”? When is past service cost
+recognized as pension expense?
+
+--- Page 1842 ---
+17. What is a pension plan curtailment? Explain the accounting for
+pension plan curtailments.
+18. Sarah is a finance major who has taken only one accounting
+course. She asserts that pension remeasurements, like many other
+accounting adjustments, are recorded in net income. Is Sarah correct?
+Explain.
+19. How does an “asset gain or loss” develop in pension accounting?
+20. What are “liability gains and losses,” and how are they accounted
+for?
+21. If pension expense recognized in a period exceeds the current
+amount funded by the employer, what kind of account arises, and how
+should it be reported in the financial statements? If the reverse occurs
+—that is, current funding by the employer exceeds the amount
+recognized as pension expense—what kind of account arises, and how
+should it be reported?
+22. Bill Haley is learning about pension accounting. He is convinced
+that in years when companies record liability gains and losses, total
+comprehensive income will not be affected. Is Bill correct? Explain.
+23. At the end of the current period, Jacob AG has a defined benefit
+obligation of €125,000 and pension plan assets with a fair value of
+€98,000. The amount of the vested benefits for the plan is €95,000.
+What amount and account(s) related to its pension plan will be
+reported on the company’s statement of financial position?
+24. At the end of the current year, Joshua plc has a defined benefit
+obligation of £335,000 and pension plan assets with a fair value of
+£345,000. The amount of the vested benefits for the plan is £225,000.
+Joshua has a liability gain of £8,300. What amount and account(s)
+related to its pension plan will be reported on the company’s
+statement of financial position?
+25. Explain the meaning of the following terms.
+a. Contributory plan.
+b. Vested benefits.
+
+--- Page 1843 ---
+c. Retroactive benefits.
+26. Of what value to the financial statement reader is the schedule
+reconciling the funded status of the plan with amounts reported in the
+employer’s statement of financial position?
+27. What are postretirement benefits other than pensions?
+28. What are the major differences between postretirement
+healthcare benefits and pension benefits?
+Brief Exercises
+BE20.1 (LO 2) Assume that Cathay Pacific Airlines (HKG)
+reported the following in a recent annual report (in millions).
+Service cost
+HK$316
+Interest on defined benefit obligation
+342
+Interest revenue on plan assets
+371
+Compute Cathay Pacific’s pension expense.
+BE20.2 (LO 2) For Becker AG, year-end plan assets were
+€2,000,000. At the beginning of the year, plan assets were
+€1,680,000. During the year, contributions to the pension fund were
+€120,000, and benefits paid were €200,000. Compute Becker’s actual
+return on plan assets.
+BE20.3 (LO 2) At January 1, 2022, Uddin Company had plan assets
+of $250,000 and a defined benefit obligation of the same amount.
+During 2022, service cost was $27,500, the discount rate was 10%,
+actual return on plan assets was $25,000, contributions were
+$20,000, and benefits paid were $17,500. Prepare a pension
+worksheet for Uddin Company for 2022.
+BE20.4 (LO 2) For 2022, assume that Wm Morrison
+Supermarkets plc (GBR) had pension expense of £61 million and
+contributed £52 million to the pension fund. Prepare Morrison’s
+journal entry to record pension income and funding.
+
+--- Page 1844 ---
+BE20.5 (LO 2) Duesbury Corporation amended its pension plan on
+January 1, 2022, and granted $120,000 of past service costs to its
+employees. The employees have an average time to vesting of 4 years.
+Current service cost for 2022 is $23,000, and net interest expense is
+$8,000. Compute pension expense for Duesbury in 2022.
+BE20.6 (LO 2, 4) Villa SpA has experienced tough competition,
+leading it to seek concessions from its employees in the company’s
+pension plan. In exchange for promises to avoid layoffs and wage cuts,
+the employees agreed to receive lower pension benefits in the future.
+As a result, Villa amended its pension plan on January 1, 2022, and
+recorded negative past service cost of €125,000. The average period to
+vesting for the benefits affected by this plan is 5 years. Current service
+cost for 2022 is €26,000. Interest expense is €9,000, and interest
+revenue is €2,500. Actual return on assets in 2022 is €1,500. Compute
+pension expense for Villa in 2022.
+BE20.7 (LO 4) Refer to the information for Villa SpA in BE20.6.
+Compute the gain or loss on pension plan assets for Villa SpA and
+indicate the accounting and reporting for the asset gains or losses.
+BE20.8 (LO 2, 4, 5) Hemera SA had a defined benefit obligation of
+R$3,100,000 and plan assets of R$2,900,000 at January 1, 2022.
+Hemera’s discount rate is 6%. In 2022, actual return on plan assets is
+R$160,000. Hemera contributed R$200,000 to the pension fund and
+paid benefits of R$150,000. Service cost for 2022 is R$50,000;
+Hemera reports that the defined benefit obligation at December 31,
+2022, is R$3,600,000. Determine (a) pension expense for 2022; (b)
+pension assets at December 31, 2022; and (c) pension asset and
+liability gains and losses. Indicate how pension gains and losses will
+be reported by Hemera in the statement of comprehensive income
+and the statement of financial position.
+BE20.9 (LO 5) Tevez AG experienced an actuarial loss of €750 in its
+defined benefit plan in 2022. For 2022, Tevez’s revenues are
+€125,000, and expenses (excluding pension expense of €14,000) are
+€85,000. Prepare Tevez’s statement of comprehensive income for
+2022.
+
+--- Page 1845 ---
+BE20.10 (LO 5) At December 31, 2022, Conway SA had a defined
+benefit obligation of €510,000 and plan assets of €322,000. Prepare a
+pension reconciliation schedule for Conway.
+BE20.11 (LO 6) Caleb Corporation has the following information
+available concerning its postretirement medical benefit plan for 2022.
+Service cost
+$40,000
+Interest expense
+52,400
+Interest revenue
+26,900
+Compute Caleb’s 2022 postretirement expense.
+BE20.12 (LO 6) For 2022, Benjamin plc computed its annual
+postretirement expense as £240,900. Benjamin’s contribution to the
+plan during 2022 was £160,000. Prepare Benjamin’s 2022 entry to
+record postretirement expense.
+Exercises
+E20.1 (LO 1) (Pension Expense, Journal Entry) The following
+information is available for the pension plan of Radcliffe Company for
+the year 2022.
+Interest revenue on plan assets
+$ 15,000
+Benefits paid to retirees
+40,000
+Contributions (funding)
+90,000
+Discount (interest) rate
+10%
+Defined benefit obligation, January 1, 2022 500,000
+Service cost
+60,000
+Instructions
+a. Compute pension expense for the year 2022.
+b. Prepare the journal entry to record pension expense and the
+employer’s contribution to the pension plan in 2022.
+
+--- Page 1846 ---
+E20.2 (LO 1) (Computation of Pension Expense) Veldre SpA
+provides the following information about its defined benefit pension
+plan for the year 2022.
+Service cost
+€ 90,000
+Contribution to the plan
+105,000
+Benefits paid
+40,000
+Plan assets at January 1, 2022
+640,000
+Defined benefit obligation at January 1, 2022 700,000
+Discount (interest) rate
+10%
+Instructions
+Compute the pension expense for the year 2022.
+E20.3 (LO 2) (Preparation of Pension Worksheet) Using the
+information in E20.2, prepare a pension worksheet inserting the
+January 1, 2022 and December 31, 2022, balances, and the journal
+entry recording pension expense.
+E20.4 (LO 2) (Basic Pension Worksheet) The following facts
+apply to the pension plan of Boudreau plc for the year 2022.
+Plan assets, January 1, 2022
+£490,000
+Defined benefit obligation, January 1, 2022
+490,000
+Discount (interest) rate
+8%
+Service cost
+40,000
+Contributions (funding)
+25,000
+Actual return on plan assets
+39,200
+Benefits paid to retirees
+33,400
+Instructions
+Using the preceding data, compute pension expense for the year 2022.
+As part of your solution, prepare a pension worksheet that shows the
+journal entry for pension expense for 2022 and the year-end balances
+in the related pension accounts.
+
+--- Page 1847 ---
+E20.5 (LO 1) (Computation of Actual Return, Asset Gain and
+Loss) Gingrich Importers provides the following pension plan
+information.
+Fair value of pension plan assets, January 1, 2022
+2,400,000
+Fair value of pension plan assets, December 31, 2022
+2,725,000
+Contributions to the plan in 2022
+280,000
+Benefits paid retirees in 2022
+350,000
+Discount (interest) rate
+7%
+Instructions
+a. From the data above, compute the actual return on the plan
+assets for 2022.
+b. Compute asset gain or loss, and indicate how the gain or loss will
+be reported.
+E20.6 (LO 2, 3) (Basic Pension Worksheet, Past Service
+Costs) The following defined pension data of Yang Ltd. apply to the
+year 2022 (amounts in thousands).
+Defined benefit obligation, 1/1/22 (before amendment)
+¥560,000
+Plan assets, 1/1/22
+546,200
+Pension liability
+13,800
+On January 1, 2022, Yang Ltd., through plan amendment,
+grants past service benefits having a present value of
+120,000
+Discount (interest) rate
+9%
+Service cost
+58,000
+Contributions (funding)
+65,000
+Actual return on plan assets
+49,158
+Benefits paid to retirees
+40,000
+Instructions
+
+--- Page 1848 ---
+For 2022, prepare a pension worksheet for Yang Ltd. that shows the
+journal entry for pension expense and the year-end balances in the
+related pension accounts.
+E20.7 (LO 2, 4, 5) (Pension Worksheet, Gains and Losses)
+Kennedy Company had a defined benefit obligation of $6,300,000 and
+plan assets of $4,900,000 at January 1, 2022. Kennedy has the
+following data related to the plan during 2022.
+Discount (interest) rate
+7%
+Service cost
+$120,000
+Actual return on plan assets
+295,000
+Contributions
+400,000
+Benefits paid
+300,000
+Defined benefit obligation at December 31, 2022, is $6,650,000. There
+are no accumulated gains or losses at December 31, 2021.
+Instructions
+a. Prepare a pension worksheet for Kennedy Company for 2022.
+b. Prepare the journal entry to record 2022 pension expense.
+c. Indicate how pension gains and losses (if any) will be reported by
+Kennedy in the statement of comprehensive income and the
+statement of financial position.
+E20.8 (LO 2, 4, 5) (Disclosures: Pension Expense and Other
+Comprehensive Income) Taveras Enterprises provides the
+following information related to its defined benefit pension plan.
+Balances or Values at December 31, 2022
+Defined benefit obligation
+€2,729,907
+Fair value of plan assets
+2,278,329
+Accumulated OCI—Net loss (1/1/22 balance, –0–)
+1,700
+Other pension plan data:
+
+--- Page 1849 ---
+Service cost for 2022
+94,000
+Actual return on plan assets in 2022
+130,000
+Interest on January 1, 2022, defined benefit obligation
+157,127
+Contributions to plan in 2022
+93,329
+Benefits paid
+140,000
+Discount (interest) rate
+6%
+Instructions
+a. Prepare the note disclosing the components of pension expense
+for the year 2022.
+b. Determine the amounts of other comprehensive income and
+comprehensive income for 2022. Net income for 2022 is €35,000.
+c. Compute the amount of accumulated other comprehensive
+income reported at December 31, 2022.
+E20.9 (LO 2, 4) (Pension Worksheet and Remeasurement)
+Webb Corp. sponsors a defined benefit pension plan for its employees.
+On January 1, 2022, the following balances relate to this plan.
+Plan assets
+$480,000
+Defined benefit obligation
+600,000
+Pension asset/liability
+120,000
+Accumulated OCI
+–0–
+As a result of the operation of the plan during 2022, the following
+additional data are provided by the actuary.
+Service cost for 2022
+$90,000
+Discount (interest) rate
+6%
+Actual return on plan assets in 2022
+55,000
+Unexpected loss from change in defined benefit obligation,
+due to change in actuarial predictions
+76,000
+Contributions in 2022
+99,000
+
+--- Page 1850 ---
+Benefits paid retirees in 2022
+85,000
+Instructions
+a. Using the data above, compute pension expense for Webb Corp.
+for the year 2022 by preparing a pension worksheet.
+b. Prepare the journal entry for pension expense for 2022.
+E20.10 (LO 1, 4, 5) (Pension Expense, Journal Entries,
+Statement Presentation) Henning plc sponsors a defined benefit
+pension plan for its employees. The following data relate to the
+operation of the plan for the year 2022.
+1. The actuarial present value of future benefits earned by
+employees for services rendered in 2022 amounted to £56,000.
+2. The company’s funding policy requires a contribution to the
+pension trustee amounting to £145,000 for 2022.
+3. As of January 1, 2022, the company had a defined benefit
+obligation of £900,000, an accumulated benefit obligation of
+£800,000, and a balance of £40,000 in accumulated OCI (Loss).
+The fair value of pension plan assets amounted to £600,000 at
+the beginning of the year. The discount rate was 9%. Actual return
+on plan assets was £60,000, and no benefits were paid.
+Instructions
+a. Determine the amounts of the components of pension expense
+that should be recognized by the company in 2022.
+b. Prepare the journal entry or entries to record pension expense
+and the employer’s contribution to the pension trustee in 2022.
+c. Indicate the amounts that would be reported on the income
+statement and the statement of financial position for the year
+2022.
+E20.11 (LO 1, 2, 4, 5) (Pension Expense, Journal Entries,
+Statement Presentation) Ferreri SpA received the following
+
+--- Page 1851 ---
+selected information from its pension plan trustee concerning the
+operation of the company’s defined benefit pension plan for the year
+ended December 31, 2022.
+January 1,
+2022
+December 31,
+2022
+Defined benefit obligation
+€1,500,000
+€1,527,000
+Fair value of plan assets
+800,000
+1,130,000
+Accumulated benefit obligation
+1,600,000
+1,720,000
+Accumulated OCI (G/L)—Net gain
+–0–
+200,000
+The service cost component of pension expense for employee services
+rendered in the current year amounted to €77,000. The company’s
+actual funding of the plan (contributions) in 2022 amounted to
+€250,000. The discount (interest) rate was 10%. Assume no benefits
+paid in 2022.
+Instructions
+a. Determine the amounts of the components of pension expense
+that should be recognized by the company in 2022.
+b. Prepare the journal entry to record pension expense and the
+employer’s contribution to the pension plan in 2022.
+c. Indicate the pension-related amounts that would be reported on
+the income statement and the statement of financial position for
+Ferreri SpA for the year 2022.
+E20.12 (LO 1, 4, 5) (Computation of Actual Return, Gains and
+Losses, and Pension Expense) Erickson plc sponsors a defined
+benefit pension plan. The company’s actuary provides the following
+information about the plan.
+January 1,
+2022
+December 31, 
+2022
+Vested benefit obligation
+£1,500
+£1,900
+Accumulated benefit obligation
+1,900
+2,730
+
+--- Page 1852 ---
+Defined benefit obligation
+2,500
+3,300
+Plan assets (fair value)
+1,700
+2,620
+Discount (interest) rate
+10%
+Pension liability
+800
+?
+Service cost for the year 2022
+400
+Contributions (funding in 2022)
+700
+Benefits paid in 2022
+200
+Instructions
+a. Compute the actual return on the plan assets in 2022.
+b. Compute the amount of net gain or loss for 2022.
+c. Compute the amount of the other comprehensive income (G/L)
+as of December 31, 2022. (Assume the January 1, 2022, balance
+was zero.)
+E20.13 (LO 2, 4, 5) (Worksheet for E20.12) Using the
+information in E20.12 about Erickson plc’s defined benefit pension
+plan, prepare a 2022 pension worksheet with supplementary
+schedules of computations. Prepare the journal entries at December
+31, 2022, to record pension expense and related pension transactions.
+Also, indicate the pension amounts reported in the statement of
+financial position.
+E20.14 (LO 2, 5) (Pension Expense, Journal Entries) Latoya
+Company provides the following selected information related to its
+defined benefit pension plan for 2022.
+Pension asset/liability (January 1)
+$ 25,000 Cr.
+Accumulated benefit obligation (December 31) 400,000
+Actual return on plan assets
+67,500
+Contributions (funding) in 2022
+50,000
+Discount (interest) rate
+10%
+Defined benefit obligation (January 1)
+700,000
+
+--- Page 1853 ---
+Service cost
+80,000
+Instructions
+a. Compute pension expense and prepare the journal entry to record
+pension expense and the employer’s contribution to the pension
+plan in 2022. Preparation of a pension worksheet is not required.
+Benefits paid in 2022 were $35,000.
+b. Indicate the pension-related amounts that would be reported in
+the company’s statement of comprehensive income and
+statement of financial position for 2022.
+E20.15 (LO 2, 5) (Pension Worksheet—Missing Amounts) The
+accounting staff of Usher Inc. has prepared the following pension
+worksheet (amounts in $). Unfortunately, several entries in the
+worksheet are not decipherable. The company has asked for your
+assistance in completing the worksheet and the accounting tasks
+related to the pension plan for 2022.
+Instructions
+a. Determine the missing amounts in the 2022 pension worksheet,
+indicating whether the amounts are debits or credits.
+b. Prepare the journal entry to record 2022 pension expense for
+Usher Inc.
+
+--- Page 1854 ---
+E20.16 (LO 6) (Postretirement Benefit Expense
+Computation) Kreter Concepts provides the following information
+about its postretirement benefit plan for the year 2022.
+Service cost
+ 45,000
+Contribution to the plan
+10,000
+Actual return on plan assets (at 8%)
+8,800
+Benefits paid
+20,000
+Plan assets at January 1, 2022
+110,000
+Defined postretirement benefit obligation at January 1,
+2022
+330,000
+Discount (interest) rate
+8%
+Instructions
+Compute the postretirement benefit expense for 2022.
+E20.17 (LO 6) (Postretirement Benefit Worksheet) Using the
+information in E20.16, prepare a worksheet inserting January 1, 2022,
+balances, and showing December 31, 2022, balances. Prepare the
+journal entry recording postretirement benefit expense.
+
+--- Page 1855 ---
+E20.18 (LO 6) (Postretirement Benefit Expense
+Computation) Garner Inc. provides the following information
+related to its postretirement benefits for the year 2022.
+Defined postretirement benefit obligation at January 1,
+2022
+$710,000
+Actual return on plan assets (at 10%)
+34,000
+Discount (interest) rate
+10%
+Service cost
+83,000
+Instructions
+Compute postretirement benefit expense for 2022.
+E20.19 (LO 6) (Postretirement Benefit Expense
+Computation) Englehart AG provides the following information
+about its postretirement benefit plan for the year 2022.
+Service cost
+€ 90,000
+Contribution to the plan
+56,000
+Actual return on plan assets
+62,000
+Benefits paid
+40,000
+Plan assets at January 1, 2022
+710,000
+Defined postretirement benefit obligation at January 1,
+2022
+760,000
+Accumulated OCI (Loss) at January 1, 2022
+100 Dr.
+Discount (interest) rate
+9%
+Instructions
+Compute the postretirement benefit expense for 2022.
+E20.20 (LO 6) (Postretirement Benefit Worksheet) Using the
+information in E20.19, prepare a worksheet inserting the January 1,
+2022, and December 31, 2022, balances, and the journal entry
+recording postretirement benefit expense.
+
+--- Page 1856 ---
+E20.21 (LO 6) (Postretirement Benefit Worksheet—Missing
+Amounts) The accounting staff of Holder Inc. has prepared the
+following postretirement benefit worksheet (amounts in €).
+Unfortunately, several entries in the worksheet are not decipherable.
+The company has asked your assistance in completing the worksheet
+and completing the accounting tasks related to the pension plan for
+2022.
+Instructions
+a. Determine the missing amounts in the 2022 postretirement
+worksheet, indicating whether the amounts are debits or credits.
+b. Prepare the journal entry to record 2022 postretirement expense
+for Holder Inc.
+c. What discount rate is Holder using in accounting for the interest
+on its other postretirement benefit plan? Explain.
+Problems
+P20.1 (LO 2, 4, 5) (2-Year Worksheet) On January 1, 2022,
+Harrington SA has the following defined benefit pension plan
+balances.
+
+--- Page 1857 ---
+Defined benefit obligation €4,500,000
+Fair value of plan assets
+4,200,000
+The interest rate applicable to the plan is 10%. On January 1, 2023, the
+company amends its pension agreement so that past service costs of
+€500,000 are created. Other data related to the pension plan are as
+follows.
+2022
+2023
+Service cost
+€150,000 €180,000
+Contributions (funding) to the plan
+240,000
+285,000
+Benefits paid
+200,000
+280,000
+Actual return on plan assets
+420,000
+260,000
+Instructions
+a. Prepare a pension worksheet for the pension plan for 2022 and
+2023.
+b. For 2023, prepare the journal entry to record pension-related
+amounts.
+P20.2 (LO 2, 3, 4, 5) 
+ (3-Year Worksheet, Journal
+Entries, and Reporting) Jackson Company adopts acceptable
+accounting for its defined benefit pension plan on January 1, 2021,
+with the following beginning balances: plan assets $200,000 and
+defined benefit obligation $250,000. Other data relating to 3 years’
+operation of the plan are shown below.
+2021
+2022
+2023
+Annual service cost
+$16,000 $19,000 $26,000
+Discount (interest) rate
+10%
+10%
+10%
+Actual return on plan assets
+20,000
+22,000
+24,000
+Annual funding (contributions)
+16,000 40,000
+48,000
+Benefits paid
+14,000
+16,400
+21,000
+Past service cost (plan amended, 1/1/22)
+160,000
+
+--- Page 1858 ---
+Change in actuarial assumptions
+establishes a December 31, 2023, defined
+benefit obligation of:
+520,000
+Instructions
+a. Prepare a pension worksheet presenting all 3 years’ pension
+balances and activities.
+b. Prepare the journal entries (from the worksheet) to reflect all
+pension plan transactions and events at December 31 of each
+year.
+c. Indicate the pension-related amounts reported in the financial
+statements for 2023.
+P20.3 (LO 3, 4, 5) (Pension Expense, Journal Entries)
+Gottschalk plc sponsors a defined benefit plan for its 100 employees.
+On January 1, 2022, the company’s actuary provided the following
+information.
+Pension plan assets (fair value) £200,000
+Accumulated benefit obligation
+260,000
+Defined benefit obligation
+380,000
+The average remaining service period for the participating employees
+is 10 years. All employees are expected to receive benefits under the
+plan. On December 31, 2022, the actuary calculated that the present
+value of future benefits earned for employee services rendered in the
+current year amounted to £52,000; the defined benefit obligation was
+£490,000, the fair value of pension assets was £276,000, and the
+accumulated benefit obligation amounted to £365,000. The discount
+(interest) rate is 10%. The actual return on plan assets is £11,000. The
+company’s current year’s contribution to the pension plan amounted
+to £65,000. No benefits were paid during the year.
+Instructions
+
+--- Page 1859 ---
+a. Determine the components of pension expense that the company
+would recognize in 2022. (With only one year involved, you need
+not prepare a worksheet.)
+b. Prepare the journal entry to record the pension expense and the
+company’s funding of the pension plan in 2022.
+c. Compute the amount of the 2022 increase/decrease in gains or
+losses.
+d. Indicate the pension amounts reported in the financial
+statements for 2022.
+P20.4 (LO 2, 4) (Pension Expense, Journal Entries for 2
+Years) Gordon Company sponsors a defined benefit pension plan.
+The following information related to the pension plan is available for
+2022 and 2023 (no benefits were paid in either year).
+2022
+2023
+Plan assets (fair value), December 31
+$699,000
+$849,000
+Defined benefit obligation, January 1
+700,000
+800,000
+Pension asset/liability, January 1
+140,000 Cr.
+?
+Service cost
+60,000
+90,000
+Actual return on plan assets
+24,000
+30,000
+Contributions (funding)
+115,000
+120,000
+Accumulated benefit obligation, December
+31
+500,000
+550,000
+Discount (interest) rate
+9%
+9%
+Instructions
+a. Compute pension expense for 2022 and 2023.
+b. Prepare the journal entries to record the pension expense and the
+company’s funding of the pension plan for both years.
+P20.5 (LO 4) (Computation of Pension Expense, Journal
+Entries for 3 Years) Hiatt Toothpaste SA initiates a defined benefit
+
+--- Page 1860 ---
+pension plan for its 50 employees on January 1, 2022. The insurance
+company which administers the pension plan provided the following
+selected information for the years 2022, 2023, and 2024.
+For Year Ended December
+31,
+2022
+2023
+2024
+Plan assets (fair value)
+€50,000 € 85,000 €180,000
+Vested benefit obligation
+45,000
+165,000
+292,000
+Defined benefit obligation
+60,000 200,000
+324,000
+Net (gain) loss
+–0–
+78,900
+5,800
+Employer’s funding contribution
+(made at end of year)
+50,000
+60,000
+105,000
+There were no balances as of January 1, 2022, when the plan was
+initiated. The actual return on plan assets was 10% over the 3-year
+period, but the discount (interest) rate was 13% in 2022, 11% in 2023,
+and 8% in 2024. The service cost component of net periodic pension
+expense amounted to the following: 2022, €60,000; 2023, €85,000;
+and 2024, €119,000. No benefits were paid in 2022, €30,000 of
+benefits were paid in 2023, and €18,500 of benefits were paid in 2024
+(all benefits paid at end of year).
+Instructions
+(Round to the nearest euro.)
+a. Calculate the amount of net periodic pension expense that the
+company would recognize in 2022, 2023, and 2024.
+b. Prepare the journal entries to record net periodic pension
+expense, employer’s funding contribution, and related pension
+amounts for the years 2022, 2023, and 2024.
+P20.6 (LO 1, 4) (Pension Expense, Journal Entries, and Net
+Gain or Loss) Aykroyd Inc. has sponsored a non-contributory,
+defined benefit pension plan for its employees since 1992. Relevant
+information about the pension plan on January 1, 2022, is as follows.
+
+--- Page 1861 ---
+1. The company has 200 employees. All these employees are
+expected to receive benefits under the plan.
+2. The defined benefit obligation amounted to $5,000,000, and the
+fair value of pension plan assets was $3,000,000. There is a zero
+balance in Accumulated Other Compensive Income related to the
+pension.
+On December 31, 2022, the defined benefit obligation and the vested
+benefit obligation were $4,850,000 and $4,025,000, respectively. The
+fair value of the pension plan assets amounted to $4,100,000 at the
+end of the year. A 10% discount rate was used in the actuarial present
+value computations in the pension plan. The present value of benefits
+attributed by the pension benefit formula to employee service in 2022
+amounted to $200,000. The employer’s contribution to the plan
+assets amounted to $775,000 in 2022. This problem assumes no
+payment of pension benefits.
+Instructions
+(Round all amounts to the nearest dollar.)
+a. Compute pension expense for the year 2022.
+b. Prepare the journal entries required to report the accounting for
+the company’s pension plan for 2022.
+c. Compute the amount of the increase/decrease in net gains or
+losses in 2022.
+P20.7 (LO 2, 4) (Pension Worksheet) Hanson Ltd. sponsors a
+defined benefit pension plan for its employees. On January 1, 2022,
+the following balances related to this plan.
+Plan assets (fair value)
+£520,000
+Defined benefit obligation
+700,000
+Pension asset/liability
+180,000 Cr.
+Accumulated net loss
+91,000
+
+--- Page 1862 ---
+As a result of the operation of the plan during 2022, the actuary
+provided the following additional data on December 31, 2022.
+Service cost for 2022
+£108,000
+Discount (interest) rate
+9%
+Actual return on plan assets in 2022
+48,000
+Contributions in 2022
+133,000
+Benefits paid retirees in 2022
+85,000
+Instructions
+Using the preceding data, compute pension expense for Hanson Ltd.
+for the year 2022 by preparing a pension worksheet that shows the
+journal entry for pension expense.
+P20.8 (LO 2, 4, 5) 
+ (Comprehensive 2-Year
+Worksheet) Lemke SA sponsors a defined benefit pension plan for
+its employees. The following data relate to the operation of the plan
+for the years 2022 and 2023.
+2022
+2023
+Defined benefit obligation, January 1
+R600,000
+Plan assets (fair value), January 1
+410,000
+Pension asset/liability, January 1
+190,000 Cr.
+Service cost
+40,000
+R
+59,000
+Discount (interest) rate
+10%
+10%
+Actual return on plan assets
+36,000
+61,000
+Annual contributions
+97,000
+81,000
+Benefits paid retirees
+31,500
+54,000
+Increase in defined benefit obligation due to
+changes in actuarial assumptions
+87,000
+–0–
+Accumulated benefit obligation at December
+31
+721,800
+789,000
+
+--- Page 1863 ---
+Vested benefit obligation at December 31
+464,000
+Instructions
+a. Prepare a pension worksheet for both 2022 and 2023.
+b. Prepare the journal entries (from the worksheet) to reflect all
+pension plan transactions and events at December 31 of each
+year.
+c. For 2023, indicate the pension amounts reported in the financial
+statements.
+P20.9 (LO 2, 3, 4) 
+ (Comprehensive 2-Year
+Worksheet) Hobbs AG has the following defined benefit pension
+plan balances on January 1, 2022.
+Defined benefit obligation €4,600,000
+Fair value of plan assets
+4,600,000
+The discount (interest) rate applicable to the plan is 10%. On January
+1, 2023, the company amends its pension agreement so that past
+service costs of €600,000 are created. Other data related to the
+pension plan are as follows.
+2022
+2023
+Service cost
+€150,000 €170,000
+Contributions (funding) to the plan
+200,000
+184,658
+Benefits paid
+220,000 280,000
+Actual return on plan assets
+252,000
+350,000
+Instructions
+a. Prepare a pension worksheet for the pension plan in 2022.
+b. Prepare any journal entries related to the pension plan that would
+be needed at December 31, 2022.
+c. Prepare a pension worksheet for 2023 and any journal entries
+related to the pension plan as of December 31, 2023.
+
+--- Page 1864 ---
+d. Indicate the pension-related amounts reported in the 2023
+financial statements.
+P20.10 (LO 2, 4) (Pension Worksheet—Missing Amounts)
+Kramer Co. has prepared the following pension worksheet (amounts
+in $). Unfortunately, several entries in the worksheet are not
+decipherable. The company has asked your assistance in completing
+both the worksheet and the accounting tasks related to the pension
+plan for 2022.
+Instructions
+a. Determine the missing amounts in Kramer’s 2022 pension
+worksheet, indicating whether the amounts are debits or credits.
+b. Prepare the journal entry to record 2022 pension expense.
+c. Determine for 2022 the discount rate used to determine interest
+expense/revenue.
+P20.11 (LO 2, 4, 5) (Pension Worksheet) The following data
+relate to the operation of Kramer Co.’s pension plan in 2023. The
+pension worksheet for 2022 is provided in P20.10.
+
+--- Page 1865 ---
+Service cost
+$59,000
+Actual return on plan assets
+32,000
+Annual contributions
+51,000
+Benefits paid retirees
+27,000
+For 2023, Kramer will use a discount rate of 8%.
+Instructions
+a. Prepare a pension worksheet for 2023.
+b. Prepare the journal entries (from the worksheet) to reflect all
+pension plan transactions and events at December 31.
+c. Indicate the pension amounts reported in the financial
+statements.
+P20.12 (LO 2, 4, 5) (Pension Worksheet) Chen Group sponsors a
+defined benefit pension plan for its employees. On January 1, 2022,
+the following balances related to this plan (amounts in thousands).
+Plan assets (fair value)
+¥270,000
+Defined benefit obligation
+340,000
+Pension asset/liability
+70,000 Cr.
+OCI—Loss
+39,000
+As a result of the operation of the plan during 2022, the actuary
+provided the following additional data at December 31, 2022.
+Service cost for 2022
+¥45,000
+Actual return on plan assets in 2022
+27,000
+Contributions in 2022
+65,000
+Benefits paid retirees in 2022
+41,000
+Discount (interest) rate
+7%
+Instructions
+
+--- Page 1866 ---
+a. Compute pension expense for Chen Group for the year 2022 by
+preparing a pension worksheet that shows the journal entry for
+pension expense.
+b. Indicate the pension amounts reported in the financial
+statements.
+P20.13 (LO 6) 
+ (Postretirement Benefit Worksheet)
+Hollenbeck Foods Inc. sponsors a postretirement medical and dental
+benefit plan for its employees. The following balances relate to this
+plan on January 1, 2022.
+Plan assets
+$200,000
+Defined postretirement benefit obligation
+200,000
+As a result of the plan’s operation during 2022, the following
+additional data are provided by the actuary.
+Service cost for 2022 is $70,000
+Discount (interest) rate is 10%
+Contributions to plan in 2022 are $65,000
+Actual return on plan assets is $15,000
+Benefits paid to employees are $44,000
+Instructions
+a. Using the preceding data, compute the net periodic
+postretirement benefit cost for 2022 by preparing a worksheet
+that shows the journal entry for postretirement expense and the
+year-end balances in the related postretirement benefit memo
+accounts. (Assume that contributions and benefits are paid at the
+end of the year.)
+b. Prepare any journal entries related to the postretirement plan for
+2022 and indicate the postretirement amounts reported in the
+financial statements for 2022.
+
+--- Page 1867 ---
+P20.14 (LO 6) (Postretirement Benefit Worksheet—2 Years)
+Elton AG has the following postretirement benefit plan balances on
+January 1, 2022.
+Defined postretirement benefit obligation €2,250,000
+Fair value of plan assets
+2,250,000
+The discount (interest) rate applicable to the plan is 10%. On January
+1, 2023, the company amends the plan so that past service costs of
+€175,000 are created. Other data related to the plan are as follows.
+2022
+2023
+Service costs
+€ 75,000 € 85,000
+Contributions (funding) to the plan
+45,000
+35,000
+Benefits paid
+40,000
+45,000
+Actual return on plan assets
+140,000 120,000
+Instructions
+a. Prepare a worksheet for the postretirement plan in 2022.
+b. Prepare any journal entries related to the postretirement plan
+that would be needed at December 31, 2022.
+c. Prepare a worksheet for 2023 and any journal entries related to
+the postretirement plan as of December 31, 2023.
+d. Indicate the postretirement-benefit–related amounts reported in
+the 2023 financial statements.
+Concepts for Analysis
+CA20.1 (LO 1) (Pension Terminology and Theory) Since the
+late 1800s, many business organizations have been concerned with
+providing for the retirement of their employees. During recent
+decades, a marked increase in this concern has resulted in the
+establishment of pension plans in most large companies and in many
+medium- and small-sized ones.
+
+--- Page 1868 ---
+The substantial growth of these plans, both in numbers of employees
+covered and in amounts of retirement benefits, has increased the
+significance of pension cost in relation to the financial position,
+results of operations, and cash flows of many companies. In
+examining the costs of pension plans, a public accountant encounters
+certain terms. The components of pension costs that the terms
+represent must be dealt with appropriately if IFRS is to be reflected in
+the financial statements of entities with pension plans.
+Instructions
+a. Define a pension plan. How does a contributory pension plan
+differ from a non-contributory plan?
+b. Differentiate between “accounting for the employer” and
+“accounting for the pension fund.”
+c. Explain the terms “funded” and “pension liability” as they relate
+to:
+1. The pension fund.
+2. The employer.
+d. 
+1. Discuss the theoretical justification for accrual recognition of
+pension costs.
+2. Discuss the relative objectivity of the measurement process
+of accrual versus cash (pay-as-you-go) accounting for annual
+pension costs.
+e. Distinguish among the following as they relate to pension plans.
+1. Service cost.
+2. Past service costs.
+3. Vested benefits.
+CA20.2 (LO 1) 
+ (Pension Terminology) The following
+items commonly appear in a company’s financial statements.
+1. Under the caption Assets:
+
+--- Page 1869 ---
+Pension asset/liability.
+2. Under the caption Liabilities:
+Pension asset/liability.
+3. Under the caption Equity:
+Asset loss as a component of Accumulated Other Comprehensive
+Income.
+4. On the income statement:
+Pension expense.
+Instructions
+Explain the significance of each of the items above on company
+financial statements. (Note: Not all the items listed above are
+necessarily found on the statements of a single company.)
+CA20.3 (LO 1) (Basic Terminology) In examining the costs of
+pension plans, Leah Hutcherson, public accountant, encounters
+certain terms. The components of pension costs that the terms
+represent must be dealt with appropriately if IFRS is to be reflected in
+the financial statements of entities with pension plans.
+Instructions
+a. 
+1. Explain the application of accrual concepts to recognition of
+pension costs.
+2. Discuss the relative verifiability and neutrality of the
+measurement process of accrual versus cash (pay-as-you-go)
+accounting for annual pension costs.
+b. Explain the following terms as they apply to accounting for
+pension plans.
+1. Defined benefit obligation.
+2. Net interest.
+c. What information should be disclosed about a company’s pension
+plans in its financial statements and its notes?
+
+--- Page 1870 ---
+CA20.4 (LO 1) 
+ (Major Pension Concepts) Lyons plc is a
+medium-sized manufacturer of paperboard containers and boxes. The
+company sponsors a non-contributory, defined benefit pension plan
+that covers its 250 employees. Tim Shea has recently been hired as
+president of Lyons plc. While reviewing last year’s financial
+statements with Anita Kroll, controller, Shea expressed confusion
+about several of the items in the footnote to the financial statements
+relating to the pension plan. In part, the footnote reads as follows.
+Note J. The company has a defined benefit pension plan
+covering substantially all of its employees. The benefits are based
+on years of service and the employee’s compensation during the
+last four years of employment. The company’s funding policy is to
+contribute annually the maximum amount allowed under the tax
+law. Contributions are intended to provide for benefits expected
+to be earned in the future as well as those earned to date.
+The net periodic pension expense on Lyons plc’s comparative income
+statement was £72,000 in 2023 and £57,680 in 2022.
+The following are selected figures from the plan’s funded status and
+amounts recognized in the Lyons plc’s statement of financial position
+at December 31, 2023 (amounts in thousands).
+Defined benefit obligation
+£(1,200)
+Plan assets at fair value
+1,050
+Defined benefit obligation in excess of plan assets £
+(150)
+Given that Lyons plc’s workforce has been stable for the last 6 years,
+Shea could not understand the increase in the net periodic pension
+expense. Kroll explained that the net periodic pension expense
+consists of several elements, some of which may increase or decrease
+the net expense.
+Instructions
+a. The determination of the net periodic pension expense is a
+function of two elements. List and briefly describe each of the
+elements.
+
+--- Page 1871 ---
+b. Describe the major difference and the major similarity between
+the vested benefit obligation and the defined benefit obligation.
+c. 
+1. Explain why pension gains and losses are not recognized in
+net income in the period in which they arise.
+2. Briefly describe how pension gains and losses are recognized.
+CA20.5 (LO 1) 
+ (Implications of International
+Accounting Standard No. 19) Ruth Moore and Carl Nies have to
+do a class presentation on the pension pronouncement “Employee
+Benefits.” In developing the class presentation, they decided to
+provide the class with a series of questions related to pensions and
+then discuss the answers in class. Given that the class has read IAS 19,
+they felt this approach would provide a lively discussion. Here are the
+situations:
+1. In an article prior to the recent amendments to IAS 19, it was
+reported that the discount rates used by the largest 200
+companies for pension reporting ranged from 5% to 11%. How can
+such a situation exist, and does the pension pronouncement
+alleviate this problem?
+2. An article indicated that when IAS 19 was issued, it caused an
+increase in the liability for pensions for a significant number of
+companies. Why might this situation occur?
+3. A recent article noted that most gains and losses are recognized in
+net income. However, pension accounting has long been
+recognized as an exception—an area of accounting in which at
+least some dampening of market swings is appropriate. This is
+because pension funds are managed so that their performance is
+insulated from the extremes of short-term market swings. A
+pension expense that reflects the volatility of market swings
+might, for that reason, convey information of little relevance. Are
+these statements true?
+4. Many companies held assets twice as large as they needed to fund
+their pension plans at one time. Are these assets reported on the
+
+--- Page 1872 ---
+statement of financial position of these companies per the
+pension pronouncement? If not, where are they reported?
+5. Understanding the impact of the changes required in pension
+reporting requires detailed information about a company’s
+pension plan(s) and an analysis of the relationship of many
+factors, particularly:
+a. The type of plan(s) and any significant amendments.
+b. The plan participants.
+c. The funding status.
+d. The actuarial funding method and assumptions currently
+used.
+What impact does each of these items have on financial
+statement presentation?
+Instructions
+What answers do you believe Ruth and Carl gave to each of these
+questions?
+CA20.6 (LO 1, 3, 4) 
+ (Non-Vested Employees—An
+Ethical Dilemma) Cardinal Technology recently merged with
+College Electronix (CE), a computer graphics manufacturing firm. In
+performing a comprehensive audit of CE’s accounting system, Richard
+Nye, internal audit manager for Cardinal Technology, discovered that
+the new subsidiary did not capitalize pension assets and liabilities,
+subject to the requirements of IFRS.
+The fair value of CE’s pension assets was $15.5 million, the vested
+benefit obligation was $12.9 million, and the defined benefit
+obligation was $17.4 million. Nye reported this audit finding to Renée
+Selma, the newly appointed controller of CE. A few days later, Selma
+called Nye for his advice on what to do. Selma started her
+conversation by asking, “Can’t we eliminate the negative income effect
+of our pension dilemma simply by terminating the employment of
+non-vested employees before the end of our fiscal year?”
+
+--- Page 1873 ---
+Instructions
+How should Nye respond to Selma’s remark about firing non-vested
+employees?
+Using Your Judgment
+Financial Reporting Problem
+Marks and Spencer plc (M&S)
+The financial statements of M&S (GBR) are presented in Appendix A.
+The company’s complete annual report, including the notes to the
+financial statements, is available online.
+Instructions
+Refer to M&S’s financial statements and the accompanying notes to
+answer the following questions.
+a. What kind of pension plan does M&S provide its employees?
+b. What was M&S’s pension expense for 2019 and 2018?
+c. What is the impact of M&S’s pension plans for 2019 on its
+financial statements?
+d. What information does M&S provide on the target allocation of
+its pension assets? How do the allocations relate to the expected
+returns on these assets?
+Comparative Analysis Case
+adidas and Puma
+The financial statements of adidas (DEU) and Puma (DEU) are
+presented in Appendices B and C, respectively. The complete annual
+reports, including the notes to the financial statements, are available
+online.
+Instructions
+
+--- Page 1874 ---
+Use the companies’ financial information to answer the following
+questions related to adidas and Puma.
+a. What kind of pension plans do adidas and Puma provide their
+employees?
+b. What net periodic pension expense (cost) did adidas and Puma
+report in 2018?
+c. What is the year-end 2018 funded status of adidas’s and Puma’s
+plans?
+d. What relevant rates were used by adidas and Puma in computing
+their pension amounts?
+e. Compare the benefit payments and contributions for adidas and
+Puma.
+Accounting, Analysis, and Principles
+PENCOMP AG’s statement of financial position at December 31, 2021,
+is as follows.
+PENCOMP AG
+Statement of Financial Position
+As of December 31, 2021
+Assets
+Equity
+Plant and
+equipment
+€2,000
+Share capital
+€2,000
+Accumulated
+depreciation
+(240)
+Retained
+earnings
+896
+1,760 Total equity
+2,896
+Inventory
+€ 1,800
+Liabilities
+Cash
+438
+Notes payable
+€ 1,000
+Total current
+assets
+2,238
+Pension liability
+102
+
+--- Page 1875 ---
+PENCOMP AG
+Statement of Financial Position
+As of December 31, 2021
+Total assets
+€3,998
+Total
+liabilities
+1,102
+Total equity
+and liabilities
+€3,998
+Additional information concerning PENCOMP’s defined benefit
+pension plan follows.
+Defined benefit obligation at 12/31/21
+€ 820.5
+Plan assets (fair value) at 12/31/21
+718.5
+Service cost for 2022
+42.0
+Discount (interest) rate
+10%
+Actual return on plan assets in 2022
+60.6
+Contributions to pension fund in 2022
+70.0
+Benefits paid during 2022
+40.0
+Accumulated OCI (net loss due to changes in actuarial
+assumptions and deferred net losses on plan assets) at
+12/31/21; included in retained earnings balance
+92.0
+Other information about PENCOMP is as follows.
+Salary expense, all paid with cash during 2022 €  700.0
+Sales, all for cash
+3,000.0
+Purchases, all for cash
+2,000.0
+Inventory at 12/31/2022
+1,800.0
+Property originally cost €2,000 and is depreciated on a straight-line
+basis over 25 years with no residual value.
+Interest on the note payable is 10% annually and is paid in cash on
+12/31 of each year.
+Dividends declared and paid are €200 in 2022.
+
+--- Page 1876 ---
+Accounting
+Prepare an income statement for 2022 and a statement of financial
+position as of December 31, 2022. Also, prepare the pension expense
+journal entry for the year ended December 31, 2022. (Round to two
+decimal places.)
+Analysis
+Compute return on equity for PENCOMP for 2022 (assume average
+equity is equal to year-end equity). Do you think an argument can be
+made for including some or even all of the asset/liability gains and
+losses in the numerator of return on equity? Illustrate that
+calculation.
+Principles
+Explain a rationale for why the IASB has (so far) decided to exclude
+from the current-period income statement the effects of gains and
+losses due to changes in actuarial assumptions.
+Bridge to the Profession
+Authoritative Literature References
+[1] International Accounting Standard 26, Accounting and Reporting
+by Retirement Benefit Plans (London, U.K.: International Accounting
+Standards Committee Foundation, 2001).
+[2] International Accounting Standard 19, Employee Benefits
+(London, U.K.: International Accounting Standards Committee
+Foundation, 2011), paras. 50–54.
+[3] International Accounting Standard 19, Employee Benefits
+(London, U.K.: International Accounting Standards Committee
+Foundation, 2011), par. 59.
+[4] International Accounting Standard 19, Employee Benefits
+(London, U.K.: International Accounting Standards Committee
+Foundation, 2011), par. 8.
+
+--- Page 1877 ---
+[5] International Accounting Standard 19, Employee Benefits
+(London, U.K.: International Accounting Standards Committee
+Foundation, 2011), paras. 83–86.
+[6] International Accounting Standard 32, Financial Instruments:
+Presentation (London, U.K.: IASB Foundation, 2003), par. 42.
+[7] International Accounting Standard 19, Employee Benefits
+(London, U.K.: International Accounting Standards Committee
+Foundation, 2011), paras. BC70–71 and BC89–90.
+[8] International Accounting Standard 19, Employee Benefits
+(London, U.K.: International Accounting Standards Committee
+Foundation, 2011), par. 123.
+[9] International Accounting Standard 19, Employee Benefits
+(London, U.K.: International Accounting Standards Committee
+Foundation, 2011), paras. 123–124.
+[10] International Accounting Standard 19, Employee Benefits
+(London, U.K.: International Accounting Standards Committee
+Foundation, 2011), par. 134.
+[11] International Accounting Standard 19, Employee Benefits
+(London, U.K.: International Accounting Standards Committee
+Foundation, 2011), par. 64; and IFRIC Interpretation 14, IAS 19—The
+Limit on a Defined Benefit Asset, Minimum Funding Requirements
+and Their Interaction (2007).
+[12] International Accounting Standard 19, Employee Benefits
+(London, U.K.: International Accounting Standards Committee
+Foundation, 2011), par. BC163.
+[13] International Accounting Standard 19, Employee Benefits
+(London, U.K.: International Accounting Standards Committee
+Foundation, 2011), par. BC70.
+[14] International Accounting Standard 19, Employee Benefits
+(London, U.K.: International Accounting Standards Committee
+Foundation, 2011), par. BC90.
+
+--- Page 1878 ---
+[15] International Accounting Standard 19, Employee Benefits
+(London, U.K.: International Accounting Standards Committee
+Foundation, 2011), par. 121.
+[16] International Accounting Standard 19, Employee Benefits
+(London, U.K.: International Accounting Standards Committee
+Foundation, 2011), par. BC99.
+[17] International Accounting Standard 19, Employee Benefits
+(London, U.K.: International Accounting Standards Committee
+Foundation, 2011), paras. 135–144.
+[18] International Accounting Standard 19, Employee Benefits
+(London, U.K.: International Accounting Standards Committee
+Foundation, 2011), par. 138.
+Research Case
+Jack Kelly Company has grown rapidly since its founding in 2006. To
+instill loyalty in its employees, Kelly is contemplating establishment
+of a defined benefit plan. Kelly knows that lenders and potential
+investors will pay close attention to the impact of the pension plan on
+the company’s financial statements, particularly any gains or losses
+that develop in the plan. Kelly has asked you to conduct some
+research on the accounting for gains and losses in a defined benefit
+plan.
+Instructions
+Access the IFRS authoritative literature at the IFRS website (you may
+register for free IFRS access at this site). When you have accessed the
+documents, you can use the search tool in your Internet browser to
+respond to the following questions. (Provide paragraph citations.)
+a. Briefly describe how pension gains and losses are accounted for.
+b. Explain the rationale behind the accounting method described in
+part (a).
+c. What is the related pension asset or liability that may show up on
+the statement of financial position? When will each of these
+
+--- Page 1879 ---
+situations occur?
+Global Accounting Insights
+LEARNING OBJECTIVE 7
+Compare the accounting for pensions under IFRS and U.S. GAAP.
+The underlying concepts for the accounting for postretirement
+benefits are similar in U.S. GAAP and IFRS—both U.S. GAAP and IFRS
+view pensions and other postretirement benefits as forms of deferred
+compensation. At present, there are significant differences in the
+specific accounting provisions applied to these plans.
+Relevant Facts
+Following are the key similarities and differences between U.S. GAAP
+and IFRS related to pensions.
+Similarities
+U.S. GAAP and IFRS separate pension plans into defined
+contribution plans and defined benefit plans. The accounting for
+defined contribution plans is similar.
+Both U.S. GAAP and IFRS recognize the merit of reporting the
+primary components of pension expense (service cost and net
+interest) in different sections of the income statement.
+U.S. GAAP and IFRS recognize a pension asset or liability as the
+funded status of the plan (i.e., defined benefit obligation minus
+the fair value of plan assets). (Note that defined benefit obligation
+is referred to as the projected benefit obligation in U.S. GAAP.)
+U.S. GAAP and IFRS compute unrecognized past service cost
+(PSC) (referred to as prior service cost in U.S. GAAP) in the same
+manner.
+Differences
+
+--- Page 1880 ---
+While both U.S. GAAP and IFRS include interest expense on the
+liability in pension expense, GAAP subtracts an asset return
+component based on expected return. Under IFRS for asset
+returns, pension expense is reduced by the amount of interest
+revenue. Other changes in asset value remeasurements are
+recorded in other comprehensive income.
+U.S. GAAP amortizes PSC over the remaining service lives of
+employees, while IFRS recognizes PSC as a component of pension
+expense in income immediately.
+While IFRS permits the primary components of pension expense
+(service cost and net interest) to be reported in different sections
+of the income statement, U.S. GAAP requires this method of
+reporting.
+U.S. GAAP recognizes liability and asset gains and losses in
+“Accumulated other comprehensive income” and amortizes these
+amounts to income over remaining service lives (generally using
+the “corridor approach”). Under IFRS, companies recognize both
+liability and asset gains and losses (referred to as
+remeasurements) in other comprehensive income. These gains
+and losses are not “recycled” into income in subsequent periods.
+U.S. GAAP has separate standards for pensions and
+postretirement benefits, and significant differences exist in the
+accounting. The accounting for pensions and other
+postretirement benefit plans is the same under IFRS.
+About the Numbers
+As indicated, U.S. GAAP and IFRS differ in the amounts included in
+pension expense. Consider the following pension expense elements
+for Altidore SA, as measured under U.S. GAAP and IFRS.
+U.S.
+GAAP
+IFRS
+Current service cost
+€28,000 €28,000
+Past service cost
+—
+30,000
+
+--- Page 1881 ---
+Interest expense
+21,000
+21,000
+Interest revenue
+— (18,000)
+Expected return on plan assets
+(28,800)
+—
+Amortization of past service cost (10-year service
+lives)
+3,000
+—
+Amortization of liability and asset gain/loss
+500
+—
+Pension expense
+€23,700 €61,000
+Under U.S. GAAP, in determining pension expense, Altidore includes
+only current service cost and expected return on plan assets (which
+excludes unexpected gains and losses). Unexpected gains and losses
+and past service costs are amortized to income over the service lives of
+employees. Under IFRS, Altidore includes all service costs and net
+interest elements in pension expense. Thus, depending on the
+features of the pension plan (e.g., in a year when past service costs are
+granted), pension expense can be significantly different between U.S.
+GAAP and IFRS.
+On the Horizon
+The IASB and the FASB have been working collaboratively over the
+years on a postretirement benefit project and, as a result, their
+accounting in this area is similar. However, as the “About the
+Numbers” section above illustrates, significant differences remain in
+the components of pension expense. If the FASB restarts a project to
+reexamine expense measurement of postretirement benefit plans, it
+likely will consider the recent IASB amendments in this area.
+GAAP Self-Test Questions
+1. At the end of the current period, Oxford Ltd. has a projected benefit
+obligation of $195,000 and pension plan assets with a fair value of
+$110,000. The amount of the vested benefits for the plan is $105,000.
+What amount related to its pension plan will be reported on the
+company’s statement of financial position (balance sheet) under U.S.
+GAAP?
+
+--- Page 1882 ---
+a. $5,000.
+b. $90,000.
+c. $85,000.
+d. $20,000.
+2. Which of the following is false?
+a. U.S. GAAP amortizes PSC over the remaining service lives of
+employees.
+b. IFRS recognizes PSC as a component of pension expense in
+income immediately.
+c. U.S. GAAP recognizes liability and asset gains and losses in
+“Accumulated other comprehensive income” and amortizes these
+amounts to income over remaining service live (generally using
+the “corridor approach”).
+d. U.S. GAAP has a single standard for the accounting for pensions
+and other post-employment benefits.
+3. For 2022, Carson Majors Inc. had pension expense of $77 million
+and contributed $55 million to the pension fund. Which of the
+following is the journal entry that Carson Majors would make to
+record pension expense and funding under U.S. GAAP?
+a. Pension Expense
+77,000,000
+Pension Asset/Liability
+22,000,000
+Cash
+55,000,000
+b. Pension Expense
+77,000,000
+Pension Asset/Liability 22,000,000
+Cash
+99,000,000
+
+--- Page 1883 ---
+c. Pension Expense
+55,000,000
+Pension Asset/Liability 22,000,000
+Cash
+77,000,000
+d. Pension Expense
+22,000,000
+Pension Asset/Liability 55,000,000
+Cash
+77,000,000
+4. Which of the following is true?
+a. IFRS does not permit defined contribution plans.
+b. U.S. GAAP and IFRS accounts for defined contribution plans
+similarly.
+c. U.S. GAAP and IFRS amortize past service costs over the
+remaining service lives of employees.
+d. Like IFRS, U.S. GAAP recognizes both liability and asset gains and
+losses in other comprehensive income and does not “recycle” the
+losses into income in subsequent periods.
+5. Towson Company has experienced tough competition for its
+talented workforce, leading it to enhance the pension benefits
+provided to employees. As a result, Towson amended its pension plan
+on January 1, 2022, and granted past service costs of $250,000. The
+average remaining service lives of its employees is 5 years. Under U.S.
+GAAP, what effect will the granting of the PSC have in 2022?
+a. Increase pension expense by $250,000.
+b. Have no effect on pension expense.
+c. Decrease pension expense by $50,000.
+d. Increase pension expense by $50,000.
+
+--- Page 1884 ---
+GAAP Concepts and Application
+GAAP20.1 Briefly describe some of the similarities and differences
+between U.S. GAAP and IFRS with respect to the accounting for
+pensions and other postretirement benefits.
+GAAP20.2 Briefly discuss the convergence efforts that are underway
+with respect to the accounting for pensions and other postretirement
+benefits.
+GAAP20.3 The pension disclosure for Zarle, prepared under U.S.
+GAAP, is as follows.
+Zarle Company 
+Notes to the Financial Statements
+Note D. The company has a pension plan covering substantially all
+of its employees. The plan is non-contributory and provides pension
+benefits that are based on the employee’s compensation during the
+three years immediately preceding retirement. The pension plan’s
+assets consist of cash, stocks shares, and bonds. The company’s
+funding policy is consistent with the relevant government (ERISA)
+and tax regulations.
+Pension expense for 2023 is comprised of the following components
+of pension cost.
+Service cost
+$16,000
+Interest on projected benefit obligation
+26,500
+Expected return on plan assets
+(15,960)
+Amortization of prior service cost
+17,600
+Amortization of net loss
+172
+Pension expense
+$44,312
+Other changes in plan assets and benefit obligations
+recognized in other comprehensive income
+Net actuarial gain
+$ 6,212
+Amortization of prior service cost
+17,600
+
+--- Page 1885 ---
+Zarle Company 
+Notes to the Financial Statements
+Total recognized in other comprehensive income
+(23,812)
+Total recognized in pension expense and other
+comprehensive income
+$20,500
+The estimated net actuarial loss and prior service cost for the defined
+benefit pension plan that will be amortized from accumulated other
+comprehensive into pension expense over the next year are estimated
+to be the same as this year.
+The amount recognized as a non-current liability in the statement of
+financial position is as follows:
+Non-current liability
+Pension liability
+$98,900
+The amounts recognized in accumulated other comprehensive
+income related to pensions consist of:
+Net actuarial loss
+$23,728
+Prior service cost
+14,400
+Total
+$38,128
+Change in benefit obligation
+Benefit obligation at beginning of year
+$265,000
+Service cost
+16,000
+Interest cost
+26,500
+Amendments (Prior service cost)
+–0–
+Actuarial gain
+–0–
+Benefits paid
+(18,000)
+Benefit obligation at end of year
+289,500
+Change in plan assets
+Fair value of plan assets at beginning of year
+159,600
+Actual return on plan assets
+22,000
+
+--- Page 1886 ---
+Zarle Company 
+Notes to the Financial Statements
+Contributions
+27,000
+Benefits paid
+(18,000)
+Fair value of plan assets at end of year
+190,600
+Funded status (liability)
+$ 98,900
+The weighted-average discount rate used in determining the 2023
+projected benefit obligation was 10 percent. The rate of increase in
+future compensation levels used in computing the 2023 projected
+benefit obligation was 4.5 percent. The weighted-average expected
+long-term rate of return on the plan’s assets was 10 percent.
+Instructions
+Use the information on Zarle to respond to the following
+requirements.
+a. What are the key differences in accounting for pensions under
+U.S. GAAP and IFRS?
+b. Briefly explain how differences in U.S. GAAP and IFRS for
+pensions would affect the amounts reported in the financial
+statements.
+c. In light of the differences identified in (b), would Zarle’s income
+and equity be higher or lower under U.S. GAAP compared to IFRS
+standards? Explain.
+Answers to GAAP Self-Test Questions
+1. c 2. d 3. a 4. b 5. d
+Notes
+1 When used as a verb, fund means to pay to a funding agency (as to
+fund future pension benefits or to fund pension cost). Used as a
+noun, it refers to assets accumulated in the hands of a funding
+
+--- Page 1887 ---
+agency (trustee) for the purpose of meeting pension benefits when
+they become due.
+2 The IASB issued a separate standard covering the accounting and
+reporting for employee benefit plans. [1] (See the Authoritative
+Literature References section near the end of the chapter.)
+3 In many cases, companies offer a defined contribution plan in
+combination with a defined benefit plan.
+4 An actuary’s primary purpose is to ensure that the company has
+established an appropriate funding pattern to meet its pension
+obligations. This computation involves developing a set of
+assumptions and continued monitoring of these assumptions to
+ensure that they are realistic. IFRS encourages, but does not
+require, companies to use actuaries in the measurement of the
+pension amounts. [3] That the general public has little
+understanding of what an actuary does is illustrated by the
+following excerpt from the Wall Street Journal: “A polling
+organization once asked the general public what an actuary was,
+and received among its more coherent responses the opinion that it
+was a place where you put dead actors.”
+5 When we use the term “present value of benefits” throughout this
+chapter, we really mean the actuarial present value of benefits.
+Actuarial present value is the amount payable adjusted to
+reflect the time value of money and the probability of payment (by
+means of decrements for events such as death, disability,
+withdrawals, or retirement) between the present date and the
+expected date of payment. For simplicity, though, we use the term
+“present value” instead of “actuarial present value” in our
+discussion.
+6 IAS 32 states that a financial asset and a financial liability should be
+offset and the net amount reported in the statement of financial
+position when a company (a) has a legally enforceable right to set
+off the recognized amounts and (b) intends either to settle on a net
+basis, or to realize the asset and settle it simultaneously. [6]
+
+--- Page 1888 ---
+7 As indicated earlier, service cost is comprised of current and past
+service cost. Determination of past service cost is based on the
+same actuarial valuation model as that used for current service
+cost. We discuss recognition of past service cost in a later section.
+8 The IASB indicates that if the beginning of the year amount changes
+materially (due to contributions to or payments out of the plan), an
+adjustment to the beginning balances should be made. [8] For
+homework purposes, unless information indicates that balances
+have changed materially, use the beginning of the year balances.
+9 The IASB does not provide guidance on which of these two
+approaches is preferred. [10] For homework purposes, report the
+service cost and net interest components of pension expense
+separately in the operating and financing sections of the income
+statement.
+10 The use of a pension entry worksheet is recommended and
+illustrated by Paul B. W. Miller, “The New Pension Accounting
+(Part 2),” Journal of Accountancy (February 1987), pp. 86–94.
+11 The IASB in IAS 19 limits the amount of a pension asset that is
+recognized. The limit is called the asset ceiling and is based on a
+recoverability test. This test, which has been further clarified in
+IFRIC 14, limits the amount of the pension asset to the sum of
+unrecognized actuarial gains and losses (discussed later in this
+chapter). The test also restricts the amounts that will be received by
+the company in the form of refunds or reduction of future
+contributions. [11]
+12 The IASB also indicates that gains and losses on non-routine
+settlements are considered past service costs. [12] A settlement is
+a payment of benefits that is not set out in the terms of the plan.
+13 The IASB is silent as to whether the Accumulated Other
+Comprehensive Income account should be used instead of another
+equity account, like Retained Earnings. For homework purposes,
+use the Accumulated Other Comprehensive Income account. The
+IASB also permits the transfer of the balance in the Accumulated
+
+--- Page 1889 ---
+Other Comprehensive Income account to other equity accounts at a
+later date.
+14 For homework purposes, report the service cost and net interest
+components of pension expense separately in the operating and
+financing sections of the statement of comprehensive income. Note
+that other IFRSs require inclusion of some employee benefit costs
+within the costs of assets, such as inventories and property, plant,
+and equipment. Any postemployment benefit costs included in the
+cost of such assets will include an appropriate proportion of service
+cost and net interest. [15]
+Sources: J. Raife, “Time to Talk Real Public Sector Pension Costs,” Financial Times (June
+27, 2010); S. Johnson, “Sea Change in the Pipeline for BP’s Pension Fund,” Financial Times
+(January 12, 2014); P. Wells, “GE Reins in Staff Pension Benefits,” Financial Times
+(October 8, 2019); and Milliman, “2019 Corporate Pension Funding Study,”
+www.milliman.com/Insight/2019-Corporate-Pension-Funding-Study.
+
+--- Page 1890 ---

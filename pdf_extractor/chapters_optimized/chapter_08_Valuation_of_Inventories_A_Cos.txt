@@ -1,0 +1,1440 @@
+CHAPTER 8
+Valuation of Inventories: A Cost-Basis Approach
+LEARNING OBJECTIVES
+After studying this chapter, you should be able to:
+1. Describe inventory classifications and different inventory systems.
+2. Identify the goods and costs included in inventory.
+3. Compare the cost flow assumptions used to account for inventories.
+4. Determine the effects of inventory errors on the financial statements.
+This chapter also includes numerous conceptual discussions that
+are integral to the topics presented here.
+PREVIEW OF CHAPTER 8
+As the following opening story indicates, the issues related to accounting
+and reporting for inventory are complex. Inappropriate recognition and
+measurement of inventory leads to misstatements of key measures of
+financial performance. The content and organization of the chapter are as
+follows. (Note that Global Accounting Insights related to inventory is
+presented in Chapter 9.)
+It Should Be Easy, but It Isn’t!
+The accounting for inventory should be straightforward. You simply determine
+the cost of the inventory and carry this amount forward until the goods are
+sold. Unfortunately, the devil is in the details. Questions about whether costs
+
+should be inventoried or expensed are sometimes difficult to answer. And in
+some cases, it is even difficult to determine whether inventory has really been
+sold. The following are some situations that may test your accounting
+knowledge.
+Case 1
+Chocola Company, a manufacturer of chocolate bars, has a sales promotion
+in which customers receive a free chocolate bar for each bar purchased—a
+two-for-one special. The sales price of a chocolate bar is €3, and the cost to
+produce one bar is €1.
+Question: When a chocolate bar is sold to a customer, what is the
+inventory cost that should be assigned to that product? Is it €2 in
+inventory cost or is it €1 of inventory cost and €1 of selling
+expense?
+Case 2
+Wellness Pharmacy offers manufacturers more attractive product
+placement in its stores, for a defined period of time, if they pay a fixed fee
+(which is generally independent of the volume of goods sold) for this
+upgraded space. These fees are often referred to as slotting fees.
+Question: Should Wellness Pharmacy report these slotting fees as
+revenue when received, or should these fees reduce the cost of
+goods sold of the merchandise?
+Case 3
+Digital Age, an electronics retailer, purchases computers from a
+manufacturer and stores them in warehouses before delivery to its various
+retail stores. Digital Age then transfers these computers between internal
+warehouses and retail stores, incurring transportation costs.
+Question: How should Digital Age account for the transportation
+costs both between different internal warehouses and from the
+internal warehouses to its retail stores?
+Here are the solutions to these questions.
+Case 1: The purchase cost of the free chocolate bar is a component of
+inventory cost and should be reported as cost of goods sold at the time a
+chocolate bar is sold. The cost of goods sold is therefore €2, not €1.
+Chocola Company should not charge the free bar to selling expense, as
+gross profit will be misstated.
+
+Case 2: Wellness Pharmacy should record the slotting fees as a reduction
+of cost of goods sold (and therefore a reduction in inventory value). To
+recognize the fee revenue immediately is premature as Wellness
+Pharmacy has a performance obligation to provide space for a given period
+of time. The fee received is best associated with the inventory sold over the
+period of time allocated to the manufacturer.
+Case 3: Intermediate transportation costs between different internal
+warehouses and to the retail stores should be included in the cost of
+inventory. These costs represent an unavoidable part of the supply chain
+in getting inventory to the first point of sale.
+As indicated, the issues involving inventory are sometimes difficult and
+complex. Finding the appropriate answer is important because inventory is
+often the largest current asset on a company’s statement of financial position.
+Failure to record inventory correctly leads to misstatements of key measures of
+financial performance, such as gross profit and net income.
+Review and Practice
+Go to the Review and Practice section at the end of the chapter for a
+targeted summary review and practice problem with solution. Multiple-
+choice questions with annotated solutions, as well as additional exercises
+and practice problem with solutions, are also available online.
+Inventory Issues
+LEARNING OBJECTIVE 1
+Describe inventory classifications and different inventory systems.
+Classification
+Inventories are asset items that a company holds for sale in the ordinary
+course of business, or goods that it will use or consume in the production of
+goods to be sold. The description and measurement of inventory require
+careful attention. The investment in inventories is frequently the largest
+current asset of merchandising (retail) and manufacturing businesses.
+A merchandising concern, such as Carrefour (FRA), usually purchases its
+merchandise in a form ready for sale. It reports the cost assigned to unsold
+
+units left on hand as merchandise inventory. Only one inventory account,
+Inventory, appears in the financial statements.
+Manufacturing concerns, on the other hand, produce goods to sell to
+merchandising firms. Many of the largest businesses are manufacturers, such
+as China Petroleum & Chemical Corp. (CHN), Nissan (JPN), Royal
+Dutch Shell (NLD), Procter & Gamble (USA), George Weston Ltd.
+(CAN), and Nokia (FIN). Although the products they produce may differ,
+manufacturers normally have three inventory accounts—Raw Materials, Work
+in Process, and Finished Goods.
+A company reports the cost assigned to goods and materials on hand but not
+yet placed into production as raw materials inventory. Raw materials
+include the wood to make a baseball bat or the steel to make a car. These
+materials can be traced directly to the end product.
+At any point in a continuous production process, some units are only partially
+processed. The cost of the raw material for these unfinished units, plus the
+direct labor cost applied specifically to this material and a ratable share of
+manufacturing overhead costs, constitute the work in process inventory.
+Companies report the costs identified with the completed but unsold units on
+hand at the end of the fiscal period as finished goods inventory.
+Illustration 8.1 contrasts the financial statement presentation of inventories
+of Carrefour (FRA) (a merchandising company) with those of Nissan (JPN)
+(a manufacturing company). The remainder of the statement of financial
+position is essentially similar for the two types of companies.
+
+Merchandising Company
+Carrefour
+Statement of Financial Position (Balance Sheet)
+Current assets (in millions)
+Inventories
+Trade receivables
+Contract assets
+Prepaid expenses and accrued income
+Current income tax assets
+Other financial assets
+Current financial assets
+Cash and cash equivalents
+Total current assets
+Manufacturing Company
+Nissan
+Statement of Financial Position (Balance Sheet) March 31, 2019
+Current assets (in millions)
+Cash on hand and in banks
+¥ 1,219,588
+Trade notes and accounts receivable
+Sales finance receivables
+Securities
+Merchandise and finished goods
+Work in process
+Raw materials and supplies
+Other
+
+Manufacturing Company
+Allowance for doubtful accounts
+Total current assets
+¥11,613,105
+ILLUSTRATION 8.1 Comparison of Presentation of Current Assets
+for Merchandising and Manufacturing Companies
+A manufacturing company, such as Nissan, also might include a
+Manufacturing or Factory Supplies Inventory account. In it, Nissan would
+include such items as machine oils, screws, welding supplies, and the like—
+supplies that are used in production but are not the primary materials being
+processed.
+Illustration 8.2 shows the differences in the flow of costs through a
+merchandising company and a manufacturing company.
+
+ILLUSTRATION 8.2 Flow of Costs through Manufacturing and
+Merchandising Companies
+Inventory Cost Flow
+Companies that sell or produce goods report inventory and cost of goods sold
+at the end of each accounting period. The flow of costs for a company is as
+follows. Beginning inventory plus the cost of goods purchased is the cost of
+goods available for sale. As goods are sold, they are assigned to cost of goods
+sold. Those goods that are not sold by the end of the accounting period
+represent ending inventory. Illustration 8.3 shows these relationships.
+
+ILLUSTRATION 8.3 Inventory Cost Flow
+Companies use one of two types of systems for maintaining accurate inventory
+records for these costs—the perpetual system or the periodic system.
+Perpetual System
+A perpetual inventory system continuously tracks changes in the Inventory
+account. That is, a company records all purchases and sales (issues) of goods
+directly in the Inventory account as they occur. The accounting features of a
+perpetual inventory system are as follows.
+1. Purchases of merchandise for resale or raw materials for production are
+debited to Inventory rather than to Purchases.
+2. Freight-in is debited to Inventory, not Purchases. Purchase returns and
+allowances and purchase discounts are credited to Inventory rather than to
+separate accounts.
+3. Cost of goods sold is recorded at the time of each sale by debiting Cost of
+Goods Sold and crediting Inventory.
+4. A subsidiary ledger of individual inventory records is maintained as a
+control measure. The subsidiary records show the quantity and cost of
+each type of inventory on hand.
+The perpetual inventory system provides a continuous record of the balances
+in both the Inventory account and the Cost of Goods Sold account.
+Periodic System
+
+Under a periodic inventory system, a company determines the quantity of
+inventory on hand only periodically, as the name implies. It records all
+acquisitions of inventory during the accounting period by debiting the
+Purchases account. A company then adds the total in the Purchases account at
+the end of the accounting period to the cost of the inventory on hand at the
+beginning of the period. This sum determines the total cost of the goods
+available for sale during the period.
+To compute the cost of goods sold, the company then subtracts the ending
+inventory from the cost of goods available for sale. Note that under a
+periodic inventory system, the cost of goods sold is a residual
+amount that depends on a physical count of ending inventory. This
+process is referred to as “taking a physical inventory.” Companies that use the
+periodic system take a physical inventory at least once a year.
+Comparing Perpetual and Periodic Systems
+To illustrate the difference between a perpetual and a periodic system, assume
+that Fesmire Company had the following transactions during the current year.
+Beginning inventory 100 units at $6 = $ 600
+Purchases
+900 units at $6 = $5,400
+Sales
+600 units at $12 = $7,200
+Ending inventory
+400 units at $6 = $2,400
+Fesmire records these transactions during the current year as shown in
+Illustration 8.4.
+
+ILLUSTRATION 8.4 Comparative Entries—Perpetual vs. Periodic
+When a company uses a perpetual inventory system and a difference exists
+between the perpetual inventory balance and the physical inventory count, it
+needs a separate entry to adjust the perpetual inventory account. To illustrate,
+assume that at the end of the reporting period, the perpetual inventory account
+reported an inventory balance of $4,000. However, a physical count indicates
+inventory of $3,800 is actually on hand. The entry to record the necessary
+write-down is as follows.
+Inventory Over and Short 200
+Inventory
+Perpetual inventory overages and shortages generally represent a
+misstatement of cost of goods sold. The difference results from normal and
+expected shrinkage, breakage, shoplifting, incorrect recordkeeping, and the
+like. Inventory Over and Short therefore adjusts Cost of Goods Sold. In
+practice, companies sometimes report Inventory Over and Short in the “Other
+income and expense” section of the income statement.
+Note that a company using the periodic inventory system does not report the
+account Inventory Over and Short. The reason: The periodic method does not
+have accounting records against which to compare the physical count. As a
+
+result, a company buries inventory overages and shortages in cost of goods
+sold.
+Inventory Control
+For various reasons, management is vitally interested in inventory planning
+and control. Whether a company manufactures or merchandises goods, it
+needs an accurate accounting system with up-to-date records. It may lose sales
+and customers if it does not stock products in the desired style, quality, and
+quantity. Further, companies must monitor inventory levels carefully to limit
+the financing costs of carrying large amounts of inventory.
+In a perfect world, companies would like a continuous record of both their
+inventory levels and their cost of goods sold. The popularity and affordability of
+accounting software make the perpetual system cost-effective for many kinds
+of businesses. Companies like Loblaw Companies Ltd. (CAN),
+Woolworths Ltd. (AUS), and J. Sainsbury (GBR) now incorporate the
+recording of sales with optical scanners at the cash register into perpetual
+inventory systems.
+However, for many companies a complete perpetual system is not cost-
+effective. But, most of these companies need current information regarding
+their inventory levels, to protect against stockouts or overpurchasing and to aid
+in preparation of monthly or quarterly financial data. As a result, these
+companies use a modified perpetual inventory system. This system
+provides detailed inventory records of increases and decreases in quantities
+only—not currency amounts. It is merely a memorandum device outside the
+double-entry system, which helps in determining the level of inventory at any
+point in time.
+Whether a company maintains a complete perpetual inventory in quantities
+and currency amounts or a modified perpetual inventory system, it probably
+takes a physical inventory once a year. No matter what type of inventory
+records companies use, they all face the danger of loss and error. Waste,
+breakage, theft, improper entry, failure to prepare or record requisitions, and
+other similar possibilities may cause the inventory records to differ from the
+actual inventory on hand. Thus, all companies need periodic verification of
+the inventory records by actual count, weight, or measurement, with the
+counts compared with the detailed inventory records. As indicated earlier, a
+company corrects the records to agree with the quantities actually on hand.
+If possible, companies should take the physical inventory near the end of their
+fiscal year, to properly report inventory quantities in their annual accounting
+reports. Because this is not always feasible, physical inventories taken within
+
+two or three months of the year’s end are satisfactory if a company maintains
+detailed inventory records with a fair degree of accuracy.1
+Determining Cost of Goods Sold
+Goods sold (or used) during an accounting period seldom correspond exactly to
+the goods bought (or produced) during that period. As a result, inventories
+either increase or decrease during the period. Companies must then allocate
+the cost of all the goods available for sale (or use) between the goods that were
+sold or used and those that are still on hand. The cost of goods available for
+sale or use is the sum of (1) the cost of the goods on hand at the beginning of
+the period, and (2) the cost of the goods acquired or produced during the
+period. The cost of goods sold is the difference between (1) the cost of
+goods available for sale during the period, and (2) the cost of goods on hand at
+the end of the period. Illustration 8.5 shows these calculations.
+Beginning inventory, Jan. 1
+Cost of goods acquired or produced during the year
+Total cost of goods available for sale
+Ending inventory, Dec. 31
+Cost of goods sold during the year
+ILLUSTRATION 8.5 Computation of Cost of Goods Sold
+
+What Do the Numbers Mean?
+Staying Lean
+When you drop by a Walmart (USA) store, you are witnessing one of
+history’s greatest logistical and operational successes. As one article noted,
+the retail giant stocks products in more than 70 countries and at any given
+time operates more than 11,000 stores in 27 countries around the world. It
+manages an average of $32 billion in inventory.
+With these kinds of numbers, having an effective and efficient supply chain
+management system and a sound internal control system is imperative. For
+example, Walmart uses its buying power in the supply chain to purchase an
+increasing proportion of its goods directly from manufacturers and on a
+combined basis across geographic borders. Walmart estimates that it saves
+5–15% in costs across its supply chain by implementing direct purchasing
+on a combined basis for the 15 countries in which it operates. Thus,
+Walmart has a good handle on what products it needs to stock, and it gets
+the best prices when it purchases.
+Walmart also provides a classic example of the use of tight inventory
+controls. Department managers use a scanner that when placed over the
+bar code corresponding to a particular item, will tell them how many of the
+items the store sold yesterday, last week, and over the same period last
+year. It will tell them how many of those items are in stock, how many are
+on the way, and how many the neighboring Walmart stores are carrying (in
+case one store runs out). Walmart’s inventory management practices have
+helped it become one of the top-ranked companies in terms of sales.
+Sources: J. Birchall, “Walmart Aims to Cut Supply Chain Cost,” Financial Times (January 4,
+2010); www.tradegecko.com/blog/incredibly-successful-supply-chain-management-walmart;
+and K. Nash, “Wal-Mart Builds Supply Chain to Meet E-Commerce Demands,” Wall Street
+Journal (May 7, 2015).
+Goods and Costs Included in Inventory
+LEARNING OBJECTIVE 2
+Identify the goods and costs included in inventory.
+Goods Included in Inventory
+
+A company recognizes inventory and accounts payable at the time it controls
+the asset. For example, when Lee Ltd. purchases Apple (USA) watches for
+resale, Lee records these watches as inventory at the time control passes to
+Lee. Control is therefore the key factor in determining when purchases and
+sales of a product are recognized.
+The IASB indicates that Lee controls the Apple watches when it has the ability
+to direct the use of, and obtain substantially all the benefits from, these
+watches. Control also includes Lee’s ability to prevent other companies from
+directing the use of or receiving the benefits from these watches. As noted in
+Chapter 7 in the Lululemon (CAN) example, companies then look to various
+indicators to determine whether control has passed.2
+One of these indicators, passage of title, is often used to determine control
+because the rights and obligations are established legally. For example, when
+Lee purchases the Apple watches, legal title belongs to Lee until the watches
+are sold to customers. However in some limited cases, other indicators must be
+considered because legal title and passage of control do not match.
+Goods in Transit
+Often, a company such as LG Electronics (KOR) purchases merchandise that
+remains in transit—not yet received—at the end of a fiscal period. The
+accounting for these shipped goods depends on who controls the merchandise.
+In these situations, companies generally determine control based on who has
+legal title to the goods by applying the “passage of title” rule. If a supplier ships
+goods to LG f.o.b. shipping point, title passes to LG when the supplier
+delivers the goods to the common carrier, which acts as an agent for LG (the
+abbreviation f.o.b. stands for free on board). If the supplier ships the goods
+f.o.b. destination, title passes to LG only when it receives the goods from the
+common carrier. “Shipping point” and “destination” are often designated by a
+particular location, for example, f.o.b. Seoul.
+When LG obtains legal title to goods, it must record them as purchases in that
+fiscal period, assuming a periodic inventory system. Thus, goods shipped to LG
+f.o.b. shipping point, but in transit at the end of the period, belong to LG. It
+should show the purchase in its records because legal title to these goods
+passed to LG upon shipment of the goods. To disregard such purchases results
+in understating inventories and accounts payable in the statement of financial
+position, and understating purchases and ending inventories in the income
+statement.
+Consigned Goods
+
+Companies market certain products through consignment. Under this
+arrangement, a company like Williams Art Gallery (the consignor) ships
+various art merchandise to Sotheby’s Holdings (USA) (the consignee), who
+acts as Williams’ agent in selling the consigned goods. Sotheby’s agrees to
+accept the goods without any liability, except to exercise due care and
+reasonable protection from loss or damage, until it sells the goods to a third
+party. When Sotheby’s sells the goods, it remits the revenue, less a selling
+commission and expenses incurred in accomplishing the sale, to Williams.
+Goods out on consignment remain the property of the consignor (Williams in
+the example above). Although Sotheby’s has physical possession of the goods,
+it does not have control because legal title and the risks and rewards of
+ownership remain with Williams. Williams thus includes the goods in its
+inventory at purchase price or production cost. Occasionally, and only for a
+significant amount, the consignor shows the inventory out on consignment as
+a separate item. Sometimes a consignor reports the inventory on consignment
+in the notes to the financial statements. For example, Eagle Clothes, Inc.
+(USA) reported the following related to consigned goods: “Inventories consist
+of finished goods shipped on consignment to customers of the Company’s
+subsidiary April-Marcus, Inc.”
+The consignee makes no entry to the inventory account for goods received.
+Remember, these goods remain the property of the consignor until sold. In
+fact, the consignee should be extremely careful not to include any of the goods
+consigned as a part of inventory. Additional discussion related to consignments
+is provided in Chapter 18.
+Special Sales Agreements
+As we indicated earlier, transfer of legal title is the general guideline used to
+determine whether a company should include an item in inventory.
+Unfortunately, transfer of legal title and the underlying substance of the
+transaction sometimes do not match. For example, legal title may have passed
+to the purchaser, but the seller of the goods retains control of the inventory.
+Two special sales situations are illustrated here to indicate the types of
+problems companies encounter in practice:
+1. Sales with repurchase agreement.
+2. Sales with high rates of return.
+Sales with Repurchase Agreement
+
+Sometimes a company finances its inventory without reporting either a liability
+or the inventory on its statement of financial position. This approach, often
+referred to as a repurchase (or product financing) agreement, usually involves
+a transfer (sale) with either an implicit or explicit repurchase agreement.
+To illustrate, Hill Enterprises transfers (“sells”) inventory to Chase plc. and
+simultaneously agrees to repurchase this merchandise at a specified price over
+a specified period of time. Chase then uses the inventory as collateral and
+borrows against it. Chase uses the loan proceeds to pay Hill, which repurchases
+the inventory in the future. Chase employs the proceeds from repayment to
+meet its loan obligation.
+The essence of this transaction is that Hill is financing its inventory—and
+retaining control—even though it transferred to Chase technical legal title to
+the merchandise. By structuring a transaction in this manner, Hill may avoid
+personal property taxes in certain jurisdictions. Other advantages of this
+transaction for Hill are the removal of the current liability from its statement
+of financial position and the ability to manipulate income. For Chase, the
+purchase of the goods may solve an inventory liquidation problem (discussed
+later), or Chase may enter into a similar reciprocal agreement at a later date.
+These arrangements are often described in practice as “parking
+transactions” (see Underlying Concepts). In this situation, Hill simply
+parks the inventory on Chase’s statement of financial position for a short
+period of time. Generally, when a repurchase agreement exists, Hill should
+report the inventory and related liability on its books. [1] (See the
+Authoritative Literature References section near the end of the chapter.) The
+reason? Hill has retained control of the asset; that is, Hill still owns the asset.
+Underlying Concepts
+Recognizing revenue at the time the inventory is “parked” violates the
+revenue recognition principle. That is, a performance obligation is not met
+because control has not been transferred to the buyer.
+Sales with High Rates of Return
+In industries such as publishing, music, toys, and sporting goods, formal or
+informal agreements often exist that permit purchasers to return inventory for
+a full or partial refund.
+To illustrate, Quality Publishing Company sells textbooks to Campus
+Bookstores with an agreement that Campus may return for full credit any
+
+books not sold. Historically, Campus Bookstores returned approximately 25
+percent of the textbooks from Quality Publishing. How should Quality
+Publishing report its sales transactions?
+The key question to determine whether a sale occurs is: Has Quality Publishing
+transferred control of these goods to Campus Bookstore? Because Campus
+Bookstore now has the ability to direct the use of and obtain substantially all
+the benefits from these textbooks, these transactions are normally recorded as
+a sale by Quality Publishing. In addition, the normal indicators for transfer of
+control, such as passage of legal title, loss of physical control, and transfer of
+risks and rewards of ownership, appear to have occurred. However, Quality
+Publishing must also recognize that only partial control has transferred to
+Campus Bookstore. Therefore, Quality Publishing does the following.
+1. Record sales revenue at the amount it expects to receive from the
+transaction. This transaction involves variable consideration and
+therefore the transaction price is adjusted to recognize that a portion of
+these textbooks will be returned.
+2. Establish an estimated inventory return account to recognize
+that some of its textbooks will be returned. The reason for recording
+estimated inventory is that control over a significant number of the
+textbooks has not passed to Campus Bookstore.
+In other words, control does pass from seller to buyer for a majority of the
+textbooks but not all of them. Quality Publishing therefore records an
+estimated inventory return amount to recognize that fact. If returns are
+unpredictable and uncertain, Quality Publishing should not consider the
+textbooks sold and should not remove the goods from its inventory. This
+example illustrates the difficulty of determining when control has passed in
+situations where substantial returns are involved. [2] We provide expanded
+discussion of special sales agreements and returns in Chapter 18.
+
+What Do the Numbers Mean?
+A Retail Apocalypse!
+As the size and scope of ecommerce businesses such as Amazon.com
+(USA) and Alibaba (CHN) continue to expand, traditional retailers with
+brick-and-mortar stores are struggling to keep up and, in some cases, to
+remain in business.
+The most common response is to adopt an omnichannel approach. An
+omnichannel retailer provides multiple customer pathways that include
+online and mobile phone, as well as physical opportunities to learn about
+products, compare them, and eventually make a purchase. For example, an
+omnichannel merchant can allow a customer to comparison-shop via its
+website, to order the product on his or her phone, and then to pick up the
+merchandise in the store that same day.
+The movement in this direction is essential for traditional retail merchants,
+due to the growth in online purchasing coupled with rapid delivery. The
+threat to retail has become so significant that an estimated 75,000 stores
+are expected to close during the next few years. But, this also means that
+retailers will need to push out older and slow moving inventories, often by
+aggressive price cutting, to make way for a leaner and more focused
+product selection in their stores.
+These changes have resulted in challenging times for retailers and in better
+prices and selections for consumers. In most markets, the reality is that
+when one sector wins, another has to lose. While the eventual winners are
+hard to predict, it would appear that companies that can master both
+omnichannel and supply chain management have the best likelihood to
+survive and possibly thrive.
+Sources: Jennifer Smith, “Inventory Reduction Push and J.C. Penney Thins Margins,” Wall
+Street Journal Online (November 15, 2018); Abha Bhattarai, “ ‘Retail Apocalypse’ Now: Analysts
+Say More than 75,000 U.S. Stores Could Be Doomed,” Washington Post Online (April 10, 2019);
+and Lauren Thomas, “JCPenney Is Fading. Nordstrom Is Struggling. Walmart Is Thriving. That
+Sums Up What’s Happening in Retail,” www.cnbc.com (July 24, 2019).
+Costs Included in Inventory
+One of the most important problems in dealing with inventories concerns the
+dollar amount at which to carry the inventory in the accounts. Companies
+generally account for the acquisition of inventories, like other
+assets, on a cost basis.
+
+Product Costs
+Product costs are those costs that “attach” to the inventory. As a result, a
+company records product costs in the Inventory account. These costs are
+directly connected with bringing the goods to the buyer’s place of business and
+converting such goods to a salable condition. Such charges generally include
+(1) costs of purchase, (2) costs of conversion, and (3) “other costs” incurred in
+bringing the inventories to the point of sale and in salable condition.
+Costs of purchase include:
+1. The purchase price.
+2. Import duties and other taxes.
+3. Transportation costs.
+4. Handling costs directly related to the acquisition of the goods. [3]
+Conversion costs for a manufacturing company include direct materials, direct
+labor, and manufacturing overhead costs. Manufacturing overhead costs
+include indirect materials, indirect labor, and various costs, such as
+depreciation, taxes, insurance, and utilities.3
+“Other costs” include those incurred to bring the inventory to its present
+location and condition ready to sell, such as the cost to design a product for
+specific customer needs. For example, if a customer of Lenovo (CHN)
+requests that computers to be sold in Europe have an additional power adapter
+that is compatible with European power sources, the cost to design a
+multisource-adapter would be included in the cost of the computer.
+It seems proper also to allocate to inventories a share of any purchasing costs
+or expenses of a purchasing department, storage costs, and other costs incurred
+in storing or handling the goods before their sale. However, because of the
+practical difficulties involved in allocating such costs and expenses, companies
+usually exclude these items in valuing inventories.
+Period Costs
+Period costs are those costs that are indirectly related to the acquisition or
+production of goods. Period costs such as selling expenses and, under ordinary
+circumstances, general and administrative expenses are therefore not included
+as part of inventory cost.
+Yet, conceptually, these expenses are as much a cost of the product as the
+initial purchase price and related freight charges attached to the product. Why
+then do companies exclude these costs from inventoriable items? Because
+
+companies generally consider selling expenses as more directly related to the
+cost of goods sold than to the unsold inventory. In addition, period costs,
+especially administrative expenses, are so unrelated or indirectly related to the
+immediate production process that any allocation is purely arbitrary.4
+Interest is another period cost. Companies usually expense interest costs
+associated with getting inventories ready for sale. Supporters of this approach
+argue that interest costs are really a cost of financing. Others contend that
+interest costs incurred to finance activities associated with readying
+inventories for sale are as much a cost of the asset as materials, labor, and
+overhead. Therefore, they reason, companies should capitalize interest costs.
+The IASB ruled that companies should capitalize interest costs
+related to assets constructed for internal use or assets produced as
+discrete projects (such as ships or real estate projects) for sale or
+lease. [7]5 The IASB emphasized that these discrete projects should take
+considerable time, entail substantial expenditures, and be likely to involve
+significant amounts of interest cost. Thus, a company should not capitalize
+interest costs for inventories that it routinely manufactures or otherwise
+produces in large quantities on a repetitive basis. In this case, the
+informational benefit does not justify the cost.
+Treatment of Purchase Discounts
+Purchase or trade discounts are reductions in the selling prices granted to
+customers. These discounts may be used to provide an incentive for a first-time
+purchase or as a reward for a large order. In some cases, incentives are
+provided to encourage early payment. There has been some diversity in
+practice regarding the accounting for these discounts, with some companies
+recording the discount as a reduction in inventory while others treated the
+discount as revenue. However, the IASB requires these discounts to be
+recorded as a reduction from the cost of inventories. [8]
+With respect to the bookkeeping related to purchase discounts, the use of a
+Purchase Discounts account in a periodic inventory system indicates that
+the company is reporting its purchases and accounts payable at the gross
+amount. If a company uses this gross method, it reports purchase discounts
+as a deduction from purchases on the income statement.
+Another approach is to record the purchases and accounts payable at an
+amount net of the cash discount. In this approach, the company records
+failure to take a purchase discount within the discount period in a Purchase
+Discounts Lost account. If a company uses this net method, it considers
+purchase discounts lost as a financial expense and reports it in the “Other
+
+income and expense” section of the income statement. This treatment is
+considered better for two reasons. (1) It provides a correct reporting of the cost
+of the asset and related liability and (2) It can measure management
+inefficiency by holding management responsible for discounts not taken.
+To highlight the difference between the gross and net methods, assume the
+transactions shown in Illustration 8.6.
+Many believe that the somewhat more complicated net method is not justified
+by the resulting benefits (see Underlying Concepts). This could account for
+the widespread use of the less logical but simpler gross method. In addition,
+some contend that management is reluctant to report in the financial
+statements the amount of purchase discounts lost. For homework purposes,
+unless otherwise specified, use the gross method to record purchase discounts.
+Underlying Concepts
+Not using the net method because of resultant difficulties is an example of
+the application of the cost constraint.
+ILLUSTRATION 8.6 Entries under Gross and Net Methods
+Which Cost Flow Assumption to Adopt?
+LEARNING OBJECTIVE 3
+Compare the cost flow assumptions used to account for inventories.
+
+During any given fiscal period, companies typically purchase merchandise at
+several different prices. If a company prices inventories at cost and it made
+numerous purchases at different unit costs, which cost should it use?
+Conceptually, a specific identification of the given items sold and unsold seems
+optimal. Therefore, the IASB requires use of the specific identification method
+in cases where inventories are not ordinarily interchangeable, or for
+goods and services produced or segregated for specific projects. For
+example, an inventory of single-family homes is a good candidate for use of the
+specific identification method. Unfortunately, for most companies, the specific
+identification method is not practicable. Only in situations where inventory
+turnover is low, unit price is high, or inventory quantities are small are the
+specific identification criteria met. In other cases, the cost of inventory should
+be measured using one of two cost flow assumptions: (1) first-in, first-out
+(FIFO) or (2) average-cost. [9]
+To illustrate these cost flow methods, assume that Call-Mart SpA had the
+following transactions in its first month of operations.
+Date
+Purchases
+Sold or Issued
+Balance
+March 2
+2,000 @ €4.00
+2,000 units
+March 15 6,000 @ €4.40
+8,000 units
+March 19
+4,000 units
+4,000 units
+March 30 2,000 @ €4.75
+6,000 units
+From this information, Call-Mart computes the ending inventory of
+6,000 units and the cost of goods available for sale (beginning
+inventory + purchases) of €43,900 [(2,000 @ €4.00) + (6,000 @ €4.40) +
+(2,000 @ €4.75)]. The question is, which price or prices should it assign to the
+6,000 units of ending inventory? The answer depends on which cost flow
+assumption it uses.
+Specific Identification
+Specific identification calls for identifying each item sold and each item in
+inventory. A company includes in cost of goods sold the costs of the specific
+items sold. It includes in inventory the costs of the specific items on hand. This
+method may be used only in instances where it is practical to separate
+physically the different purchases made. As a result, most companies only use
+this method when handling a relatively small number of costly, easily
+distinguishable items. In the retail trade, this includes some types of jewelry,
+fur coats, automobiles, and some furniture. In manufacturing, it includes
+special orders and many products manufactured under a job cost system.
+
+To illustrate, assume that Call-Mart’s 6,000 units of inventory consists of
+1,000 units from the March 2 purchase, 3,000 from the March 15 purchase,
+and 2,000 from the March 30 purchase. Illustration 8.7 shows how Call-
+Mart computes the ending inventory and cost of goods sold.
+Date
+No. of Units
+Unit
+Cost
+Total
+Cost
+March 2
+March 15
+March 30
+Ending inventory
+Cost of goods available for sale (computed in
+previous section)
+Deduct: Ending inventory
+Cost of goods sold
+ILLUSTRATION 8.7 Specific Identification Method
+This method appears ideal. Specific identification matches actual costs against
+actual revenue. Thus, a company reports ending inventory at actual cost. In
+other words, under specific identification the cost flow matches the
+physical flow of the goods. On closer observation, however, this method
+has certain deficiencies in addition to its lack of practicability in many
+situations.
+Some argue that specific identification allows a company to manipulate net
+income. For example, assume that a wholesaler purchases identical plywood
+early in the year at three different prices. When it sells the plywood, the
+wholesaler can select either the lowest or the highest price to charge to
+expense. It simply selects the plywood from a specific lot for delivery to the
+customer. A business manager, therefore, can manipulate net income by
+delivering to the customer the higher- or lower-priced item, depending on
+whether the company seeks lower or higher reported earnings for the period.
+Another problem relates to the arbitrary allocation of costs that sometimes
+occurs with specific inventory items. For example, a company often faces
+difficulty in relating freight charges, storage costs, and discounts directly to a
+given inventory item. This results in allocating these costs somewhat
+arbitrarily, leading to a “breakdown” in the precision of the specific
+identification method.6
+
+Average-Cost
+As the name implies, the average-cost method prices items in the inventory
+on the basis of the average cost of all similar goods available during the period.
+To illustrate use of the periodic inventory method (amount of inventory
+computed at the end of the period), Call-Mart computes the ending inventory
+and cost of goods sold using a weighted-average method as shown in
+Illustration 8.8.
+Date of Invoice
+No. of Units
+Unit Cost
+Total Cost
+March 2
+March 15
+March 30
+Total goods available
+Weighted-average cost per unit
+= €4.39
+Inventory in units
+6,000 units
+Ending inventory
+6,000 × €4.39 = €26,340
+Cost of goods available for sale
+Deduct: Ending inventory
+Cost of goods sold
+ILLUSTRATION 
+Weighted-Average 
+Method—Periodic
+Inventory
+In computing the average cost per unit, Call-Mart includes the beginning
+inventory, if any, both in the total units available and in the total cost of goods
+available.
+Companies use the moving-average method with perpetual inventory
+records. Illustration 8.9 shows the application of the average-cost method
+for perpetual records.
+
+Date
+Purchased
+Sold or Issued
+Balance
+March 2 (2,000 @
+(2,000 @
+March
+(6,000 @
+(8,000 @
+March
+(4,000 @ €4.30)
+(4,000 @
+March
+(2,000 @
+(6,000 @
+ILLUSTRATION 8.9 Moving-Average Method—Perpetual Inventory
+In this method, Call-Mart computes a new average unit cost each time it
+makes a purchase. For example, on March 15, after purchasing 6,000 units for
+€26,400, Call-Mart has 8,000 units costing €34,400 (€8,000 plus €26,400) on
+hand. The average unit cost is €34,400 divided by 8,000, or €4.30. Call-Mart
+uses this unit cost in costing withdrawals until it makes another purchase. At
+that point, Call-Mart computes a new average unit cost. Accordingly, the
+company shows the cost of the 4,000 units withdrawn on March 19 at €4.30,
+for a total cost of goods sold of €17,200. On March 30, following the purchase
+of 2,000 units for €9,500, Call-Mart determines a new unit cost of €4.45, for
+an ending inventory of €26,700.
+Companies often use average-cost methods for practical rather than conceptual
+reasons. These methods are simple to apply and objective. They are not as
+subject to income manipulation as some of the other inventory pricing
+methods. In addition, proponents of the average-cost methods reason that
+measuring a specific physical flow of inventory is often impossible. Therefore,
+it is better to cost items on an average-price basis. This argument is particularly
+persuasive when dealing with similar inventory items.
+First-In, First-Out (FIFO)
+The first-in, first-out (FIFO) method assumes that a company uses goods
+in the order in which it purchases them. In other words, the FIFO method
+assumes that the first goods purchased are the first used (in a
+manufacturing concern) or the first sold (in a merchandising concern). The
+inventory remaining must therefore represent the most recent purchases.
+To illustrate, assume that Call-Mart uses the periodic inventory system. It
+determines its cost of the ending inventory by taking the cost of the most
+recent purchase and working back until it accounts for all units in the
+
+inventory. Call-Mart determines its ending inventory and cost of goods sold as
+shown in Illustration 8.10.
+Date
+No. of Units
+Unit Cost Total Cost
+March 30
+March 15
+Ending inventory
+Cost of goods available for sale
+Deduct: Ending inventory
+Cost of goods sold
+ILLUSTRATION 8.10 FIFO Method—Periodic Inventory
+If Call-Mart instead uses a perpetual inventory system in quantities and euros,
+it attaches a cost figure to each withdrawal. Then, the cost of the 4,000 units
+removed on March 19 consists of the cost of the items purchased on March 2
+and March 15. Illustration 8.11 shows the inventory on a FIFO basis
+perpetual system for Call-Mart.
+ILLUSTRATION 8.11 FIFO Method—Perpetual Inventory
+Here, the ending inventory is €27,100, and the cost of goods sold is €16,800
+[(2,000 @ €4.00) + (2,000 @ €4.40)].
+Notice that in these two FIFO examples, the cost of goods sold (€16,800) and
+ending inventory (€27,100) are the same. In all cases where FIFO is used,
+the amount reported for ending inventory and cost of goods sold
+would be the same at the end of the month whether a perpetual or
+periodic system is used. Why? Because the same costs will always be first in
+and, therefore, first out. This is true whether a company computes cost of
+goods sold as it sells goods throughout the accounting period (the perpetual
+system) or as a residual at the end of the accounting period (the periodic
+system).
+
+One objective of FIFO is to approximate the physical flow of goods. When the
+physical flow of goods is actually first-in, first-out, the FIFO method closely
+approximates specific identification. At the same time, it prevents
+manipulation of income. With FIFO, a company cannot pick a certain cost item
+to charge to expense.
+Another advantage of the FIFO method is that the ending inventory is close to
+current cost. Because the first goods in are the first goods out, the ending
+inventory amount consists of the most recent purchases. This is particularly
+true with rapid inventory turnover. This approach generally approximates
+replacement cost on the statement of financial position when price changes
+have not occurred since the most recent purchases.
+However, the FIFO method fails to match current costs against current
+revenues on the income statement. A company charges the oldest costs against
+the more current revenue, possibly distorting gross profit and net income.
+Companies often combine inventory methods. For example, Nestlé (CHE)
+uses FIFO for its raw materials inventories and prices the remainder using
+average-cost. For high inventory turnover in certain product lines, a company
+cannot justify FIFO’s additional recordkeeping and expense. In such cases, a
+company often uses average-cost because it is easy to compute.7
+Although a company may use a variety of inventory methods to assist in
+accurate computation of net income, once it selects a pricing method, it
+must apply it consistently thereafter. If conditions indicate that the
+inventory pricing method in use is unsuitable, the company must seriously
+consider all other possibilities before selecting another method. It should
+clearly explain any change and disclose its effect in the financial statements.8
+Inventory Valuation Methods—Summary Analysis
+The preceding sections of this chapter described a number of inventory
+valuation methods. Here, we present a brief summary of the two commonly
+used inventory cost flow methods to show the effects these valuation methods
+have on the financial statements. This comparison assumes periodic inventory
+procedures and the following selected data.
+Selected Data
+Beginning cash balance
+Beginning retained earnings
+Beginning inventory:
+4,000 units @ € 3 €12,000
+Purchases:
+6,000 units @ € 4 €24,000
+
+Sales:
+5,000 units @ €12 €60,000
+Operating expenses
+Income tax rate
+Illustration 8.12 shows the comparative results on net income of the use of
+average-cost and FIFO.
+Average-Cost
+FIFO
+Sales
+Cost of goods sold
+18,000a
+16,000b
+Gross profit
+Operating expenses
+Income before taxes
+Income taxes (40%)
+Net income
+a4,000 @ €3 = €12,000 b4,000 @ €3 = €12,000
+6,000 @ €4 = 24,000
+1,000 @ €4 = 4,000
+€36,000 ÷ 10,000 = €3.60
+€3.6 × 5,000 = €18,000
+ILLUSTRATION 8.12 Comparative Results of Average-Cost and
+FIFO Methods
+Notice that gross profit and net income are higher under FIFO compared to
+average-cost because prices are increasing.
+Illustration 8.13 shows the final balances of selected items at the end of the
+period.
+
+Inventory
+Gross
+Profit
+Taxes
+Net Income
+Retained
+Earnings
+Cash
+Average-
+Cost
+(5,000 ×
++
+€20,200a
+FIFO
+(5,000 ×
++
+€19,400a
+aCash at
+Year-End
+=
+Beg.
+Balance
++
+Sales
+−Purchases −Operating
+expenses
+−
+Taxes
+Average-
+cost—
+= €7,000 + €60,000 −€24,000 −€10,000
+−
+FIFO—
+= €7,000 + €60,000 −€24,000 −€10,000
+−
+ILLUSTRATION 8.13 Balances of Selected Items under Alternative
+Inventory Valuation Methods
+The average-cost method results in the higher cash balance at year-end
+(because taxes are lower). This example assumes that prices are rising. The
+opposite result occurs if prices are declining.
+Effect of Inventory Errors
+LEARNING OBJECTIVE 4
+Determine the effects of inventory errors on the financial statements.
+Items incorrectly included or excluded in determining cost of goods sold
+through inventory misstatements will result in errors in the financial
+statements. Let’s look at two cases, assuming a periodic inventory system.
+Ending Inventory Misstated
+What would happen if Lenovo (CHN) correctly records its beginning
+inventory and purchases, but fails to include some items in ending inventory?
+
+In this situation, Illustration 8.14 shows the resultant effects on the
+financial statements at the end of the period.
+Statement of Financial Position
+Income Statement
+Inventory
+Understated Cost of goods sold Overstated
+Retained earnings Understated
+Working capital
+Understated Net income
+Understated
+Current ratio
+Understated
+ILLUSTRATION 8.14 Financial Statement Effects of Misstated
+Ending Inventory
+If ending inventory is understated, working capital and the current ratio are
+understated. If cost of goods sold is overstated, then net income is understated.
+To illustrate the effect on net income over a two-year period (2022–2023),
+assume that Yei Chen Ltd. understates its ending inventory by HK$10,000 (in
+thousands) in 2022; all other items are correctly stated. The effect of this error
+is to decrease net income in 2022 and to increase net income in 2023. The
+error is counterbalanced (offset) in 2023 because beginning inventory is
+understated and net income is overstated. As Illustration 8.15 shows, the
+income statement misstates the net income figures for both 2022 and 2023,
+although the total for the two years is correct (see Underlying Concepts).
+Underlying Concepts
+When inventory is misstated, its presentation lacks representational
+usefulness.
+
+ILLUSTRATION 8.15 Effect of Ending Inventory Error on Two
+Period
+If Yei Chen overstates ending inventory in 2022, the reverse effect occurs.
+Inventory, working capital, current ratio, and net income are overstated and
+cost of goods sold is understated. The effect of the error on net income will be
+counterbalanced in 2023, but the income statement misstates both years’ net
+income figures.
+Purchases and Inventory Misstated
+Suppose that Bishop Company does not record as a purchase certain goods that
+it owns and does not count them in ending inventory. Illustration 8.16
+shows the effect on the financial statements (assuming this is a purchase on
+account).
+
+Statement of Financial Position
+Income Statement
+Inventory
+Understated Purchases
+Understated
+Retained earnings No effect
+Cost of goods sold No effect
+Accounts payable Understated Net income
+No effect
+Working capital
+No effect
+Inventory (ending) Understated
+Current ratio
+Overstated
+ILLUSTRATION 8.16 Financial Statement Effects of Misstated
+Purchases and Inventory
+Omission of goods from purchases and inventory results in an understatement
+of inventory and accounts payable in the statement of financial position; it also
+results in an understatement of purchases and ending inventory in the income
+statement. However, the omission of such goods does not affect net income for
+the period. Why not? Because Bishop understates both purchases and ending
+inventory by the same amount—the error is thereby offset in cost of goods
+sold. Total working capital is unchanged, but the current ratio is overstated
+because of the omission of equal amounts from inventory and accounts
+payable.
+To illustrate the effect on the current ratio, assume that Bishop understated
+accounts payable and ending inventory by $40,000. Illustration 8.17 shows
+the understated and correct data.
+Purchases and Ending Inventory
+Understated
+Purchases and Ending Inventory
+Correct
+Current assets
+$120,000 Current assets
+Current liabilities
+$ 40,000 Current liabilities
+Current ratio
+3 to 1 Current ratio
+2 to 1
+ILLUSTRATION 8.17 Effects of Purchases and Ending Inventory
+Errors
+The understated data indicate a current ratio of 3 to 1, whereas the correct ratio
+is 2 to 1. Thus, understatement of accounts payable and ending inventory can
+lead to a “window dressing” of the current ratio. That is, Bishop can make the
+current ratio appear better than it is.
+If Bishop overstates both purchases (on account) and ending inventory, then
+the effects on the statement of financial position are exactly the reverse. The
+financial statements overstate inventory and accounts payable, and understate
+the current ratio. The overstatement does not affect cost of goods sold and net
+
+income because the errors offset one another. Similarly, working capital is not
+affected.
+We cannot overemphasize the importance of proper inventory measurement in
+presenting accurate financial statements. For example, one women’s apparel
+maker had accounting irregularities that wiped out one year’s net income and
+caused a restatement of the prior year’s earnings. One reason: It inflated
+inventory and deflated cost of goods sold. In another case, a company had to
+restate its income by $1.7 million because an accountant in the antenna
+manufacturing division overstated the ending inventory, thereby reducing its
+cost of sales.
+APPENDIX 8A LIFO Cost Flow Assumption
+LEARNING OBJECTIVE *5
+Describe the LIFO cost flow assumption.
+As we discussed in the chapter, under IFRS, LIFO is not permitted for financial
+reporting purposes. In prohibiting LIFO, the IASB noted that use of LIFO
+results in inventories being recognized in the statement of financial position at
+amounts that may bear little relationship to recent cost levels of inventories.
+While some argued for use of LIFO because it may better match the costs of
+recently purchased inventory with current prices, the Board concluded that it is
+not appropriate to allow an approach that results in a measurement of profit or
+loss for the period that is inconsistent with the measurement of inventories in
+the statement of financial position. [12] Nonetheless, LIFO is permitted for
+financial reporting purposes in the United States, it is permitted for tax
+purposes in some countries, and its use can result in significant tax savings. In
+this appendix, we provide an expanded discussion of LIFO inventory
+procedures.
+Last-In, First-Out (LIFO)
+The last-in, first-out (LIFO) method matches the cost of the last goods
+purchased against revenue. To illustrate, we extend the Call-Mart example
+introduced in Illustration 8.7. Recall that Call-Mart SpA had the following
+transactions in its first month of operations.
+Date
+Purchases
+Sold or Issued
+Balance
+March 2
+2,000 @ €4.00
+2,000 units
+
+March 15 6,000 @ €4.40
+8,000 units
+March 19
+4,000 units
+4,000 units
+March 30 2,000 @ €4.75
+6,000 units
+If Call-Mart uses a periodic inventory system, it assumes that the cost of the
+total quantity sold or issued during the month comes from the most
+recent purchases. Call-Mart prices the ending inventory by using the total
+units as a basis of computation and disregards the exact dates of sales or
+issuances. For example, Call-Mart would assume that the cost of the 4,000
+units withdrawn absorbed the 2,000 units purchased on March 30 and 2,000
+of the 6,000 units purchased on March 15. Illustration 8A.1 shows how Call-
+Mart computes the inventory and related cost of goods sold, using the periodic
+inventory method.
+Date of Invoice
+No. of Units Unit Cost Total Cost
+March 2
+March 15
+Ending inventory
+Goods available for sale
+Deduct: Ending inventory
+Cost of goods sold
+ILLUSTRATION 8A.1 LIFO Method—Periodic Inventory
+If Call-Mart keeps a perpetual inventory record in quantities and euros, use of
+the LIFO method results in different ending inventory and cost of goods
+sold amounts than the amounts calculated under the periodic
+method. Illustration 8A.2 shows these differences under the perpetual
+method.
+ILLUSTRATION 8A.2 LIFO Method—Perpetual Inventory
+
+The month-end periodic inventory computation presented in Illustration 8A.1
+(inventory €25,600 and cost of goods sold €18,300) shows a different amount
+than the perpetual inventory computation (inventory €26,300 and cost of
+goods sold €17,600). The periodic system (with ending inventory determined
+by a physical count at the end of the month) matches the total withdrawals for
+the month with the total purchases for the month in applying the last-in, first-
+out method. In contrast, the perpetual system matches each withdrawal with
+the immediately preceding purchases. In effect, the periodic computation
+assumed that Call-Mart included the cost of the goods that it purchased on
+March 30 in the sale or issue on March 19.
+Inventory Valuation Methods—Summary Analysis
+With the addition of the LIFO example, we can revisit the summary analysis
+presented in the chapter, which was based on the following data. Recall that
+this example assumes periodic inventory procedures.
+Beginning cash balance
+Beginning retained earnings
+Beginning inventory:
+4,000 units @ € 3 €12,000
+Purchases:
+6,000 units @ € 4 €24,000
+Sales:
+5,000 units @ €12 €60,000
+Operating expenses
+Income tax rate
+Illustration 8A.3 shows the comparative results on net income of the use of
+Average-Cost, FIFO, and LIFO.
+
+Average-Cost
+FIFO
+LIFO
+Sales
+Cost of goods
+sold
+18,000a
+16,000b
+20,000c
+Gross profit
+Operating
+expenses
+Income before
+taxes
+Income taxes
+Net income
+a4,000 @ €3 =
+b4,000 @ €3 =
+c5,000 @ €4 =
+6,000 @ €4 =
+1,000 @ €4 =
+€36,000 ÷ 10,000 =
+€ 3.60 × 5,000 =
+ILLUSTRATION 8A.3 Comparative Results of Average-Cost, FIFO,
+and LIFO Methods
+Notice that gross profit and net income are lowest under LIFO, highest under
+FIFO, and somewhere in the middle under average-cost.
+Illustration 8A.4 shows the final balances of selected items at the end of the
+period.
+
+Inventory
+Gross
+Profit
+Taxes
+Net Income Retained
+Earnings
+Cash
+Average-
+Cost
+(5,000 ×
++
+€20,200a
+FIFO
+(5,000 ×
++
+€19,400a
+LIFO
+(4,000 ×
+(1,000 ×
++
+€21,000a
+aCash at
+Year-End
+=
+Beg.
+Balance
++
+Sales
+−Purchases −Operating
+expenses
+−
+Taxes
+Average-
+cost—
+= €7,000 + €60,000 −€24,000 −€10,000
+−
+FIFO—
+= €7,000 + €60,000 −€24,000 −€10,000
+−
+LIFO—
+= €7,000 + €60,000 −€24,000 −€10,000
+−
+ILLUSTRATION 8A.4 Balances of Selected Items under Alternative
+Inventory Valuation Methods
+LIFO results in the highest cash balance at year-end (because taxes are lower).
+This example assumes that prices are rising. The opposite result occurs if
+prices are declining.
+Review and Practice
+Key Terms Review
+average-cost method
+consigned goods
+
+cost of goods available for sale or use
+cost of goods sold
+finished goods inventory
+first-in, first-out (FIFO) method
+f.o.b. destination
+f.o.b. shipping point
+gross method
+inventories
+*last-in, first-out (LIFO) method
+merchandise inventory
+modified perpetual inventory system
+moving-average method
+net method
+net of the cash discount
+period costs
+periodic inventory system
+perpetual inventory system
+product costs
+Purchase Discounts
+raw materials inventory
+specific identification
+weighted-average method
+work in process inventory
+Learning Objectives Review
+1 Describe inventory classifications and different inventory
+systems.
+Only one inventory account, Inventory, appears in the financial statements of a
+merchandising concern. A manufacturer normally has three inventory
+accounts: Raw Materials, Work in Process, and Finished Goods. Companies
+
+report the cost assigned to goods and materials on hand but not yet placed into
+production as raw materials inventory. They report the cost of the raw
+materials on which production has been started but not completed, plus the
+direct labor cost applied specifically to this material and a ratable share of
+manufacturing overhead costs, as work in process inventory. Finally, they
+report the costs identified with the completed but unsold units on hand at the
+end of the fiscal period as finished goods inventory.
+A perpetual inventory system maintains a continuous record of inventory
+changes in the Inventory account. That is, a company records all purchases and
+sales (issues) of goods directly in the Inventory account as they occur. Under a
+periodic inventory system, companies determine the quantity of inventory
+on hand only periodically. A company debits a Purchases account, but the
+Inventory account remains the same. It determines cost of goods sold at the
+end of the period by subtracting ending inventory from cost of goods available
+for sale. A company ascertains ending inventory by physical count.
+2 Identify the goods and costs included in inventory.
+Companies record purchases of inventory when they obtain legal title to the
+goods (generally when they receive the goods). Shipping terms must be
+evaluated to determine when legal title passes, and careful consideration must
+be made for cost of goods sold on consignment and sales with repurchase
+agreements and high rates of return.
+Product costs are those costs that attach to the inventory and are recorded in
+the Inventory account. Such charges include freight charges on (1) costs of
+purchase, (2) costs of conversion, and (3) “other costs” incurred in bringing the
+inventories to the point of sale and in salable condition. Period costs are
+those costs that are indirectly related to the acquisition or production of goods.
+These changes, such as selling expense and general and administrative
+expenses, are therefore not included as part of inventory cost.
+3 Compare the cost flow assumptions used to account for
+inventories.
+The IASB requires use of the specific identification method in cases where
+inventories are not ordinarily interchangeable or for goods and services
+produced or segregated for specific projects. Only in situations where inventory
+turnover is low, unit price is high, or inventory quantities are small are the
+specific identification criteria met. In other cases companies use one of two
+cost flow assumptions. (1) Average-cost prices items in the inventory on the
+
+basis of the average cost of all similar goods available during the period. (2)
+First-in, first-out (FIFO) assumes that a company uses goods in the order in
+which it purchases them. The inventory remaining must therefore represent
+the most recent purchases.
+4 Determine the effects of inventory errors on the financial
+statements.
+If the company misstates ending inventory: (1) In the statement of financial
+position, the inventory and retained earnings will be misstated, which will lead
+to miscalculation of the working capital and current ratio, and (2) in the
+income statement, the cost of goods sold and net income will be misstated. If
+the company misstates purchases (and related accounts payable) and
+inventory: (1) Statement of financial position, the inventory and accounts
+payable will be misstated, which will lead to miscalculation of the current ratio,
+and (2) in the income statement, purchases and ending inventory will be
+misstated.
+*5 Describe the LIFO cost flow assumption.
+The LIFO method assumes that the last items purchased are the first items
+sold. This method matches the costs of the most recently purchased items with
+revenues in the period. In times of rising prices, use of the LIFO method
+results in lower net income and income taxes and higher cash flow.
+Enhanced Review and Practice
+Go online for multiple-choice questions with solutions, review exercises
+with solutions, and a full glossary of all key terms.
+Practice Problem
+Mayhew AG has the following inventory, purchases, and sales data for the
+month of March. The physical inventory count on March 31 shows 500 units
+on hand.
+Inventory: March 1
+200 units @ €4.00 € 800
+Purchases: March 10 500 units @ €4.50 2,250
+March 20 400 units @ €4.75 1,900
+
+March 30 300 units @ €5.00 1,500
+Sales:
+March 15 500 units
+March 25 400 units
+Instructions
+a. Under a periodic inventory system, determine the cost of inventory
+on hand at March 31 and the cost of goods sold for March under (1)
+FIFO and (2) average-cost.
+b. Under a perpetual inventory system, determine the cost of inventory
+on hand at March 31 and the cost of goods sold for March under (1)
+FIFO and (2) average-cost.
+Solution
+a. The cost of goods available for sale is €6,450, as follows.
+Inventory: March 1
+200 units @ €4.00 € 800
+Purchases: March 10
+500 units @ €4.50
+March 20
+400 units @ €4.75
+March 30
+300 units @ €5.00
+Total:
+Under a periodic inventory system, the cost of goods sold under each
+cost flow method is as follows.
+1. 
+FIFO Method
+Ending inventory:
+Date
+Units Unit Cost Total Cost
+March 30
+March 20
+Cost of goods sold: €6,450 − €2,450 = €4,000
+2. 
+Average-Cost Method
+Average unit cost: €6,450 ÷ 1,400 = €4.607
+Ending inventory: 500 × €4.607 = €2,303.50
+Cost of goods sold: €6,450 − €2,303.50 = €4,146.50
+b. The cost of goods available for sale is €6,450, as follows.
+
+Inventory: March 1
+200 units @ €4.00
+Purchases: March 10
+500 units @ €4.50
+March 20
+400 units @ €4.75
+March 30
+300 units @ €5.00
+Total:
+Under a perpetual inventory system, the cost of goods sold under each
+cost flow method is as follows.
+1. 
+2. 
+Moving-Average Cost Method
+Date
+Purchases
+Cost of Goods
+Sold
+Balance
+March
+(200 @
+March
+(500 @ €4.50)
+(700 @
+March
+(500 @ €4.357)
+(200 @
+March
+(400 @ €4.75)
+(600 @
+March
+(400 @ €4.618)
+(200 @
+
+March
+(300 @ €5.00)
+(500 @
+Ending inventory
+Cost of goods sold: €2,179 +
+€1,847 = €4,026
+Exercises, Problems, Problem Solution Walkthrough Videos, Data
+Analytics Activities, and many more assessment tools and resources are
+available for practice in Wiley’s online courseware.
+Note: All asterisked Questions, Exercises, and Problems relate to material in
+the appendix to the chapter.
+Questions
+1. In what ways are the inventory accounts of a merchandising company
+different from those of a manufacturing company?
+2. Why should inventories be included in (a) a statement of financial position
+and (b) the computation of net income?
+3. What is the difference between a perpetual inventory and a physical
+inventory? If a company maintains a perpetual inventory, should its physical
+inventory at any date be equal to the amount indicated by the perpetual
+inventory records? Why?
+4. Mishima Ltd. indicated in a recent annual report that approximately ¥19
+million of merchandise was received on consignment. Should Mishima, Inc.
+report this amount on its statement of financial position? Explain.
+5. What is a product financing arrangement? How should product financing
+arrangements be reported in the financial statements?
+6. Where, if at all, should the following items be classified on a statement of
+financial position?
+a. Goods out on approval to customers.
+b. Goods in transit that were recently purchased f.o.b. destination.
+c. Land held by a realty firm for sale.
+d. Raw materials.
+e. Goods received on consignment.
+
+f. Manufacturing supplies.
+7. Yang Specialty Products has a generous return policy. Yang gives customers
+a 30-day trial period, after which they can return the product for a full refund if
+not satisfied. Under what conditions can Yang consider the inventory sold
+when the generous return policy is offered?
+8. Holland Home Electronics transfers (sells) inventory to Oslo ASA with right
+of return within the next 3 months. Advise Holland management on the
+conditions under which it can consider goods sold under this plan.
+9. Define “cost” as applied to the valuation of inventories.
+10. Distinguish between product costs and period costs as they relate to
+inventory.
+11. Honda (JPN) is considering alternative methods of accounting for the
+cash discounts it takes when paying suppliers promptly. One method suggested
+was to report these discounts as financial income when payments are made.
+Comment on the propriety of this approach.
+12. Wysocki Company has incurred borrowing costs as part of its
+manufacturing process of its inventory. Should these costs be included in the
+cost of the inventory? Explain.
+13. Biestek Meat-Packing SA historically has experienced a 0.5% spoilage rate
+associated with production of its Polish sausage line of products. However, due
+to installation of new meat-grinding equipment, higher than usual spoilage of
+€45,000 was experienced on the Polish sausage line in a recent month. How
+should Biestek account for both the usual and increased spoilage in
+determining the cost of its sausage inventory?
+14. Zonker NV purchases 500 units of an item at an invoice cost of €30,000.
+What is the cost per unit? If the goods are shipped f.o.b. shipping point and the
+freight bill was €1,500, what is the cost per unit if Zonker pays the freight
+charges? If these items were bought on 2/10, n/30 terms and the invoice and
+the freight bill were paid within the 10-day period, what would be the cost per
+unit?
+15. Specific identification is sometimes said to be the ideal method of
+assigning cost to inventory and to cost of goods sold. Briefly indicate the
+arguments for and against this method of inventory valuation.
+16. FIFO and weighted-average methods are often used instead of specific
+identification for inventory valuation purposes. Compare these methods with
+the specific identification method, discussing the theoretical propriety of each
+method in the determination of income and asset valuation.
+
+17. In the third quarter of 2023, David Beckham, the controller for Swiss
+Precision Company, discovers an error in ending inventory counts for the
+December 31, 2022, cutoff. After Beckham reports the error in a management
+meeting, the president for Swiss argues that this error in the prior year is of no
+consequence to the 2023 financial statements. How should Beckham respond
+to the president?
+18. At the statement of financial position date, Clarkson Company held title to
+goods in transit amounting to $214,000. This amount was omitted from the
+purchases figure for the year and also from the ending inventory. What is the
+effect of this omission on the net income for the year as calculated when the
+books are closed? What is the effect on the company’s statement of financial
+position? Is materiality a factor in determining whether an adjustment for this
+item should be made?
+*19. As compared with the FIFO method of costing inventories, does the LIFO
+method result in a larger or smaller net income in a period of rising prices?
+What is the comparative effect on net income in a period of falling prices?
+Brief Exercises

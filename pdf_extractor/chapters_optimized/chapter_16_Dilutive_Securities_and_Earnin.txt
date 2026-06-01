@@ -1,0 +1,2438 @@
+CHAPTER 16
+Dilutive Securities and Earnings per Share
+LEARNING OBJECTIVES
+After studying this chapter, you should be able to:
+1. Describe the accounting for the issuance, conversion, and retirement of
+convertible securities.
+2. Describe the accounting for share warrants and for share warrants issued with
+other securities.
+3. Describe the accounting and reporting for share compensation plans.
+4. Compute basic earnings per share.
+5. Compute diluted earnings per share.
+This chapter also includes numerous conceptual discussions that are
+integral to the topics presented here.
+PREVIEW OF CHAPTER 16
+As the following opening story indicates, companies are rethinking the use of various
+forms of share-based compensation, which are based on dilutive securities. The
+purpose of this chapter is to discuss the proper accounting for dilutive securities. The
+chapter examines issues related to other types of financial instruments, such as
+convertible securities, warrants, and contingent shares, including their effects on
+reporting earnings per share. The content and organization of the chapter are as
+follows.
+Breaking the Options Habit
+
+Determining the components of executive pay has been the subject of debate in company
+board compensation committees. Share options have been a significant component in many
+pay packages. The share option habit has been hard to break. As you will learn in this
+chapter, share options—called by some “the crack cocaine of incentives”—are a form of
+compensation that gives key employees the choice to purchase shares at a given (usually
+lower-than-market) price. For many years, companies were hooked on these products.
+Why? The combination of a hot equity market and favorable accounting treatment made
+share options the incentive of choice. They were a form of compensation with no expense to
+the companies that granted them, and the share options were popular with key employees,
+so companies granted them with abandon.
+However, the accounting rules changed, resulting in required expensing of the fair value of
+share options when granted. This treatment made it easier for companies to kick the share
+option habit. As shown in the following table, a shift has occurred in the use of share
+options versus restricted shares for both large companies and high-tech companies.
+ 
+Large
+Companies
+High-Tech
+Companies
+ 
+Types of equity awards granted—by number of units
+(median)
+ 
+ 
+ 
+ 
+Share options
+Restricted shares
+Types of equity awards granted—by value of awards
+(median)
+ 
+ 
+ 
+ 
+Share options
+Restricted shares
+In fact, starting in 2006 (at the time companies began implementing the standard on share
+compensation), both large and high-tech companies started switching to restricted-share
+plans. As a spokesperson at one company said, “Once you begin expensing options, the
+attractiveness significantly drops.”
+Option awards in most cases are reserved for the key officers of a company. And while there
+has been a decline in the use of options in executive pay packages, equity-based
+compensation continues to be significant for companies around the world. One recent study
+(Equilar, CEO Pay Trends) indicates that the median value of the cash component was $1.9
+million, and the median equity component was $2.8 million. As shown in the following
+chart, the significance of the equity-based component persists across the United States,
+Canada, and Europe.
+
+Approximately 50 percent of the overall compensation of U.S. CEOs took the form of
+shares. Similarly, European and Canadian CEOs of companies received a median cash
+component of $1.8 million and $1.5 million, respectively. However, equity components
+were significantly less than the median U.S. figure, at $2.2 million and $1.4 million,
+respectively. Given the persistence and significance of share-based compensation, good
+accounting for these costs—which you will learn about in this chapter—is a necessity.
+Review and Practice
+Go to the Review and Practice section at the end of the chapter for a targeted
+summary review and practice problem with solution. Multiple-choice questions with
+annotated solutions, as well as additional exercises and practice problem with
+solutions, are also available online.
+Dilutive Securities
+LEARNING OBJECTIVE 1
+Describe the accounting for the issuance, conversion, and retirement of convertible
+securities.
+Debt and Equity
+Many of the controversies related to the accounting for financial instruments such as share
+options, convertible securities, and preference shares relate to whether companies should
+report these instruments as a liability or as equity. For example, companies should classify
+non-redeemable ordinary shares as equity because the issuer has no obligation to pay
+dividends or repurchase the shares. Declaration of dividends is at the issuer’s discretion, as
+is the decision to repurchase the shares. Similarly, preference shares that are not
+redeemable do not require the issuer to pay dividends or repurchase the shares. Thus, non-
+redeemable ordinary or preference shares lack an important characteristic of a liability—an
+
+obligation to pay the holder of the ordinary or preference shares at some point in the
+future.1
+In this chapter, we discuss securities that have characteristics of both debt and equity. For
+example, a convertible bond has both debt and equity characteristics. Should a company
+classify this security as debt, as equity, or as part debt and part equity? In addition, how
+should a company compute earnings per share if it has convertible bonds and other
+convertible securities in its capital structure? Convertible securities, as well as options,
+warrants, and other securities, are often called dilutive securities because upon exercise
+they may reduce (dilute) earnings per share.
+Convertible Debt
+Convertible bonds can be changed into other company securities during some specified
+period of time after issuance. A convertible bond combines the benefits of a bond with the
+privilege of exchanging it for shares at the holder’s option. Investors who purchase it want
+the security of a bond investment (guaranteed interest and principal) plus the added option
+of conversion if the value of the shares appreciates significantly.
+Companies issue convertible securities for two main reasons. One is to raise equity capital
+without giving up more ownership control than necessary. To illustrate, assume a company
+wants to raise $1 million; its ordinary shares are selling at $45 a share. To raise the $1
+million, the company would have to sell 22,222 shares (ignoring issue costs). By selling
+1,000 bonds at $1,000 par, each convertible into 20 ordinary shares, the company could
+raise $1 million by committing only 20,000 ordinary shares.
+A second reason to issue convertibles is to obtain debt financing at cheaper rates. Many
+companies could issue debt only at high interest rates unless they attached a conversion
+option. The conversion privilege entices the investor to accept a lower interest rate than
+would normally be the case on a straight debt issue. For example, China Minsheng Bank
+(CHN) recently issued convertible bonds that pay interest at an effective yield of 1.5
+percent. This rate was much lower than China Minsheng would have had to pay by issuing
+straight debt. For this lower interest rate, the investor receives the right to buy China
+Minsheng’s ordinary shares at a fixed price until the bond’s maturity.2
+Accounting for Convertible Debt
+Convertible debt is accounted for as a compound instrument because it contains both a
+liability and an equity component. IFRS requires that compound instruments be separated
+into their liability and equity components for purposes of accounting. [1] (See the
+Authoritative Literature References section near the end of the chapter.) Companies use the
+“with-and-without” method to value compound instruments.
+Illustration 16.1 identifies the components used in the with-and-without method.
+ILLUSTRATION 16.1 Convertible Debt Components
+
+As indicated, the equity component is the residual amount after subtracting the liability
+component. IFRS does not permit companies to assign a value to the equity amount first
+and then determine the liability component. To do so would be inconsistent with the
+definition of equity, which is considered a residual amount. [2]
+To implement the with-and-without approach, a company does the following:
+1. First, determine the total fair value of the convertible debt with both the liability and
+equity component. This is straightforward, as this amount is the proceeds
+received upon issuance.
+2. Second, determine the liability component by computing the net present value of all
+contractual future cash flows discounted at the market rate of interest. This market
+rate is the rate the company would pay on similar non-convertible debt.
+3. Finally, subtract the liability component estimated in the second step from the fair
+value of the convertible debt (issue proceeds) to arrive at the equity component. That
+is, the equity component is the fair value of the convertible debt without the liability
+component.
+Accounting at Time of Issuance
+To illustrate the accounting for convertible debt, assume that Roche Group (CHE) issues
+2,000 convertible bonds at the beginning of 2022. The bonds have a four-year term with a
+stated rate of interest of 6 percent and are issued at par with a face value of €1,000 per bond
+(the total proceeds received from issuance of the bonds are €2,000,000). Interest is payable
+annually at December 31. Each bond is convertible into 250 ordinary shares with a par value
+of €1. The market rate of interest on similar non-convertible debt is 9 percent.
+The time diagram in Illustration 16.2 depicts both the interest and principal cash flows.
+ILLUSTRATION 16.2 Time Diagram for Convertible Bond
+The liability component of the convertible debt is computed as shown in Illustration 16.3.
+Present value of principal: €2,000,000 × .70843 (Table 6.2; n = 4, i = 9%)
+Present value of the interest payments: €120,000 × 3.23972 (Table 6.4; n = 4, i
+= 9%)
+Present value of the liability component
+ILLUSTRATION 16.3 Fair Value of Liability Component of Convertible Bond
+
+The equity component of Roche’s convertible debt is then computed as shown in
+Illustration 16.4.
+Fair value of convertible debt at date of issuance
+Less: Fair value of liability component at date of issuance
+Fair value of equity component at date of issuance
+€
+ILLUSTRATION 16.4 Equity Component of Convertible Bond
+The journal entry to record this transaction is as follows.
+Cash
+Bonds Payable
+ 
+Share Premium—Conversion Equity  
+The liability component of Roche’s convertible debt issue is recorded as Bonds Payable. As
+shown in Chapter 14, the amount of the discount relative to the face value of the bond is
+amortized at each reporting period. So at maturity, the Bonds Payable account is reported at
+€2,000,000 (face value). The equity component of the convertible bond is recorded in the
+Share Premium—Conversion Equity account and is reported in the equity section of the
+statement of financial position. Because this amount is considered part of contributed
+capital, it does not change over the life of the convertible.3
+Settlement of Convertible Bonds
+We illustrate four settlement situations: (1) repurchase at maturity, (2) conversion at
+maturity, (3) conversion before maturity, and (4) repurchase before maturity.
+Repurchase at maturity
+If the bonds are not converted at maturity, Roche makes the following entry to pay off the
+convertible debtholders.
+Bonds Payable
+Cash
+ 
+(To record the redemption of bonds at maturity)  
+ 
+Because the carrying value of the bonds equals the face value, there is no gain or loss on
+repurchase at maturity. The amount originally allocated to equity of €194,374 either
+remains in the Share Premium—Conversion Equity account or is transferred to Share
+Premium—Ordinary.
+Conversion of bonds at maturity
+If the bonds are converted at maturity, Roche makes the following entry.
+Share Premium—Conversion Equity
+Bonds Payable
+
+Share Capital—Ordinary
+ 
+Share Premium—Ordinary
+ 
+(To record the conversion of bonds at maturity)  
+ 
+As indicated, Roche records a credit to Share Capital—Ordinary for €500,000 (2,000 bonds
+× 250 shares × €1 par) and the remainder to Share Premium—Ordinary for €1,694,374.
+There is no gain or loss on conversion at maturity. The original amount allocated to equity
+(€194,374) is transferred to the Share Premium—Ordinary account. As a result, Roche’s
+equity has increased by a total of €2,194,374 through issuance and conversion of the
+convertible bonds. This accounting approach is often referred to as the book value
+method in that the carrying amount (book value) of the bond and related conversion
+equity determines the amount in the ordinary equity accounts.
+Conversion of bonds before maturity
+What happens if bonds are converted before maturity? To understand the accounting, we
+again use the Roche Group example. A schedule of bond amortization related to Roche’s
+convertible bonds is shown in Illustration 16.5.
+Schedule of Bond Amortization
+Effective-Interest Method
+6% Bond Discounted at 9%
+Date
+Cash Paid Interest Expense Discount Amortized Carrying Amount of Bonds
+1/1/22
+ 
+ 
+ 
+12/31/22 €120,000
+12/31/23
+12/31/24
+12/31/25
+175,034*
+*€13 difference due to rounding.
+ILLUSTRATION 16.5 Convertible Bond Amortization Schedule
+Assuming that Roche converts its bonds into ordinary shares on December 31, 2023, Roche
+debits the Bonds Payable account for its carrying value of €1,894,464 (see Illustration 16.5).
+In addition, Roche credits Share Capital—Ordinary for €500,000 (2,000 × 250 × €1) and
+credits Share Premium—Ordinary for €1,588,838. The entry to record this conversion is as
+follows.
+Share Premium—Conversion Equity
+Bonds Payable
+Share Capital—Ordinary
+ 
+Share Premium—Ordinary
+ 
+(To record the conversion of bonds before maturity)  
+ 
+There is no gain or loss on conversion before maturity: The original amount allocated to
+equity (€194,374) is transferred to the Share Premium—Ordinary account.
+
+Repurchase before maturity
+In some cases, companies decide to repurchase the convertible debt before maturity. The
+approach used for allocating the amount paid upon repurchase follows the approach used
+when the convertible bond was originally issued. That is, Roche determines the fair value of
+the liability component of the convertible bonds at December 31, 2023, and then subtracts
+this amount from the fair value of the convertible bond issue (including the equity
+component) to arrive at the value for the equity. After this allocation is completed:
+1. The difference between the consideration allocated to the liability component and the
+carrying amount of the liability is recognized as a gain or loss, and
+2. The amount of consideration relating to the equity component is recognized (as a
+reduction) in equity. [3]
+To illustrate, instead of converting the bonds on December 31, 2023, assume that Roche
+repurchases the convertible bonds from the bondholders. Pertinent information related to
+this conversion is as follows.
+Fair value of the convertible debt (including both liability and equity components),
+based on market prices at December 31, 2023, is €1,965,000.
+The fair value of the liability component is €1,904,900. This amount is based on
+computing the present value of a non-convertible bond with a two-year term (which
+corresponds to the shortened time to maturity of the repurchased bonds).
+Roche first determines the gain or loss on the liability component, as computed in
+Illustration 16.6.
+Present value of liability component at December 31, 2023 (given above)
+Carrying value of liability component at December 31, 2023 (per Illustration
+Loss on repurchase
+€
+ILLUSTRATION 16.6 Gain or Loss on Debt Repurchase
+Roche has a loss on this repurchase because the fair value of the debt extinguished is
+greater than its carrying amount. To determine any adjustment to the equity, Roche
+computes the value of the equity as shown in Illustration 16.7.
+Fair value of convertible debt at December 31, 2023 (with equity
+component)
+Less: Fair value of liability component at December 31, 2023 (similar 2-year
+non-convertible debt)
+Fair value of equity component at December 31, 2023 (without debt
+component)
+€
+ILLUSTRATION 16.7 Equity Adjustment on Repurchase of Convertible Bonds
+
+Roche makes the following compound journal entry to record the entire repurchase
+transaction.
+Bonds Payable
+Share Premium—Conversion Equity
+Loss on Repurchase
+Cash
+ 
+(To record the repurchase of convertible bonds)  
+ 
+In summary, the repurchase results in a loss related to the liability component and a
+reduction in Share Premium—Conversion Equity. The remaining balance in Share Premium
+—Conversion Equity of €134,274 (€194,374 − €60,100) is often transferred to Share
+Premium—Ordinary upon the repurchase.
+Induced Conversions
+Sometimes, the issuer wants to encourage prompt conversion of its convertible debt to
+equity securities in order to reduce interest costs or to improve its debt to equity ratio. In
+this situation, the issuer may offer some form of additional consideration (such as cash or
+ordinary shares), called a “sweetener,” to induce conversion. The issuing company
+reports the sweetener as an expense of the current period. Its amount is the fair value of the
+additional securities or other consideration given.
+Assume that Helloid, Inc. has outstanding $1,000,000 par value convertible debentures
+convertible into 100,000 ordinary shares ($1 par value). When issued, Helloid recorded
+Share Premium—Conversion Equity of $15,000. Helloid wishes to reduce its annual
+interest cost. To do so, Helloid agrees to pay the holders of its convertible debentures an
+additional $80,000 if they will convert. Assuming conversion occurs, Helloid makes the
+following entry.
+Conversion Expense
+Share Premium—Conversion Equity
+Bonds Payable
+Share Capital—Ordinary
+ 
+Share Premium—Ordinary
+ 
+Cash
+ 
+Helloid records the additional $80,000 as an expense of the current period and not as a
+direct reduction of equity. [4]
+Some argue that the cost of a conversion inducement is a cost of obtaining equity capital. As
+a result, they contend that companies should recognize the cost of conversion as a cost of (a
+reduction of) the equity capital acquired and not as an expense. However, the IASB
+indicated that when an issuer makes an additional payment to encourage conversion, the
+payment is for a service (bondholders converting at a given time) and should be reported as
+an expense.
+Convertible Preference Shares
+
+Convertible preference shares include an option for the holder to convert preference
+shares into a fixed number of ordinary shares. The major difference between accounting for
+a convertible bond and a convertible preference share is their classification. Convertible
+bonds are compound instruments because they have both a liability and an equity
+component. Convertible preference shares (unless mandatory redemption exists) are not
+compound instruments because they have only an equity component. As a result,
+convertible preference shares are reported as part of equity. When preference shares are
+converted or repurchased, there is no gain or loss recognized. The rationale is that a
+company does not recognize a gain or loss involving transactions with its existing
+shareholders.
+To illustrate, assume that Morse AG issues 1,000 convertible preference shares that have a
+par value of €1 per share. The shares were issued at a price of €200 per share. The journal
+entry to record this transaction is as follows.
+Cash (1,000 × €200)
+Share Capital—Preference (1,000 × €1)
+ 
+Share Premium—Conversion Equity
+ 
+(To record the issuance of convertible preference shares)  
+ 
+If each share is subsequently converted into 25 ordinary shares (€2 par value) that have a
+fair value of €410,000, the journal entry to record the conversion is as follows.
+Share Capital—Preference
+Share Premium—Conversion Equity
+Share Capital—Ordinary (1,000 × 25 × €2)
+ 
+Share Premium—Ordinary
+ 
+(To record the conversion of convertible preference shares)  
+ 
+As indicated (and similar to the treatment for convertible bonds), Morse uses the book
+value method and does not recognize a gain or loss on the conversion. The fair value of the
+ordinary shares is therefore ignored in this computation. If the convertible preference
+shares are repurchased at their fair value instead of converted, Morse makes the following
+entry.
+Share Capital—Preference
+Share Premium—Conversion Equity
+Retained Earnings
+Cash
+ 
+(To record the repurchase of convertible preference shares)  
+ 
+Morse does not report a gain or loss on the repurchase. Any excess paid above the book
+value of the convertible preference shares is often debited to Retained Earnings on the
+theory that an excess dividend is being paid to the preference shareholders to facilitate the
+repurchase.
+
+What Do the Numbers Mean?
+How Low Can You Go?
+What do SONY (JPN), Tesla Motors Inc. (USA), Twitter Inc. (USA), Qihoo 360
+Technology (CHN), and semiconductor maker ASE (TWN) have in common? They
+are part of the wave of companies that have raised capital in the convertible bond
+market. And quite a wave it is. As indicated in the following chart, in the past two
+decades companies have issued over $40 billion of convertible bonds.
+These bonds are popular with issuing companies and investors. Companies use them to
+raise money at rates lower than those on ordinary bonds. Investors like them because,
+at a time of low interest rates, they can book extra profit if the issuer’s share price rises.
+However, depending on the features of the bond and the share value, some unusual
+results may be observed.
+Consider the convertible bonds issued by STMicroelectronics (STM) (CHE). STM’s
+10-year bonds have a zero coupon and are convertible into STM ordinary shares at an
+exercise price of $33.43. When issued, the bonds sold at an effective yield of minus
+0.05 percent. That’s right—a negative yield. How could this happen? When STM issued
+the bonds, investors thought the options to convert were so valuable that they were
+willing to take zero interest payments and invest an amount in excess of the maturity
+value of the bonds.
+In essence, the investors are paying interest to STM, and STM records interest revenue.
+Why would investors do this? If the share price rises, as many thought it would for
+STM and many tech companies at this time, these bond investors could convert and get
+a big gain in the shares.
+Investors did get some additional protection in the deal: They can redeem the $1,000
+bonds after three years and receive $975 (and after five and seven years, for lower
+
+amounts) if it looks like the bonds will never convert. In the end, STM has issued
+bonds with a significant unrecorded equity component. And because the entire bond
+issue is classified as debt under U.S. GAAP, STM records negative interest expense.
+Sources: STM Financial Reports. See also Floyd Norris, “Legal but Absurd: They Borrow a Billion and Report a
+Profit,” The New York Times (August 8, 2003), p. C1; Mariko Yasu, “Sony Shares Plunge after Convertible Bond
+Offering: Tokyo Mover,” Bloomberg (November 14, 2012); P.Davies, “Asia Turns Bullish on Convertible Bonds,”
+Financial Times (September 1, 2013); and Daniel Kruger, “Rising Rates Revitalize Convertible-Bond Sales,” Wall
+Street Journal (December 10, 2018).
+Share Warrants
+LEARNING OBJECTIVE 2
+Describe the accounting for share warrants and for share warrants issued with other
+securities.
+Warrants are certificates entitling the holder to acquire shares at a certain price within a
+stated period. This option is similar to the conversion privilege: Warrants, if exercised,
+become ordinary shares and usually have a dilutive effect (reduce earnings per share)
+similar to that of the conversion of convertible securities. However, a substantial difference
+between convertible securities and share warrants is that upon exercise of the warrants, the
+holder has to pay a certain amount of money to obtain the shares.
+The issuance of warrants or options to buy additional shares normally arises under three
+situations:
+1. When issuing different types of securities, such as bonds or preference shares,
+companies often include warrants to make the security more attractive—by
+providing an “equity kicker.”
+2. Upon the issuance of additional ordinary shares, existing shareholders have a
+preemptive right to purchase ordinary shares first. Companies may issue
+warrants to evidence that right.
+3. Companies give warrants, often referred to as share options, to executives and
+employees as a form of compensation.
+The problems in accounting for share warrants are complex and present many difficulties—
+some of which remain unresolved. The following sections address the accounting for share
+warrants in three situations.
+Share Warrants Issued with Other Securities
+Warrants issued with other securities are basically long-term options to buy ordinary shares
+at a fixed price. Generally, the life of warrants is five years, occasionally 10 years; very
+occasionally, a company may offer perpetual warrants.
+A share warrant works like this. Assume that Bohai Pharmaceutical Group (CHN)
+offers a unit comprising one ordinary share and one share warrant. In this case, Bohai’s
+
+warrants are detachable; that is, they can be detached (separated) from the ordinary shares
+and traded as a separate security.
+Companies may also issue non-detachable warrants with debt, which means the warrant
+cannot be separated from the debt. In either case, debt issued with warrants is considered a
+compound instrument for accounting purposes. The Bohai warrant in this example is
+exercisable at ¥24.25 per share and good for five years. The unit (share plus detachable
+warrant) sells for ¥22.75. Since the price of the ordinary share the day before the sale was
+¥19.88, the difference suggests a price of ¥2.87 for the warrant.
+The investor pays for the warrant in order to receive the right to buy ordinary shares, at a
+fixed price of ¥24.25, sometime in the future. It would not be profitable at present for the
+purchaser to exercise the warrant and buy the share because the price of the share is much
+below the exercise price. But if, for example, the price of the share rises to ¥30, the investor
+gains ¥2.88 (¥30 − ¥24.25 − ¥2.87) on an investment of ¥2.87, a 100 percent increase! If
+the price never rises, the investor loses the full ¥2.87 per warrant.4
+Thus, debt issued with share warrants is a compound instrument that has a debt and an
+equity component. As a result, the company should use the with-and-without method to
+allocate the proceeds between the two components.
+Illustration
+At one time, Siemens AG (DEU) issued bonds with detachable five-year warrants. Assume
+that the five-year warrants provide the option to buy one ordinary share (par value €5) at
+€25. At the time, an ordinary share of Siemens was selling for approximately €30. These
+warrants enabled Siemens to price its bond offering (with a €10,000,000 face value) at par
+with an 8¾ percent yield (quite a bit lower than prevailing rates at that time). In this
+example, Siemens was able to sell the bonds plus the warrants for €10,200,000.
+To account for the proceeds from this sale, Siemens uses the with-and-without method.
+Using this approach, Siemens determines the present value of the future cash flows related
+to the bonds, which is €9,707,852. It then subtracts this amount from €10,200,000 to
+determine the equity component. Determination of the equity component, using the with-
+and-without method, is shown in Illustration 16.8.
+Fair value of bonds with warrants
+Less: Fair value of liability component at date of issuance
+Equity component at date of issuance
+€
+ILLUSTRATION 16.8 Equity Component of Security Issue
+In this situation, the bonds sell at a discount. Siemens records the sale as follows.
+Cash
+Bonds Payable  
+In addition, Siemens sells warrants that it credits to Share Premium—Share Warrants. It
+makes the following entry.
+Cash
+Share Premium—Share Warrants  
+
+Siemens may combine the entries if desired. Here, we show them separately, to indicate
+that the purchaser of the bond is buying not only a bond but also a possible future claim on
+ordinary shares.
+Assuming investors exercise all 10,000 warrants (one warrant per one ordinary share),
+Siemens makes the following entry.
+Cash (10,000 × €25)
+Share Premium—Share Warrants
+Share Capital—Ordinary (10,000 × €5)  
+Share Premium—Ordinary
+ 
+What if investors fail to exercise the warrants? In that case, Siemens debits Share Premium
+—Share Warrants for €492,148 and credits Share Premium—Expired Share Warrants for a
+like amount. The Share Premium—Expired Share Warrants reverts to the former
+shareholders.
+Summary Analysis
+The IASB indicates that companies should separate the debt and equity components of
+securities, such as convertible debt or bonds issued with warrants. We agree with this
+position. In both situations (convertible debt and debt issued with warrants), the investor
+has made a payment to the company for an equity feature—the right to acquire an equity
+instrument in the future. The only real distinction between them is that the additional
+payment made when the equity instrument is formally acquired takes different forms. The
+warrant holder pays additional cash to the issuing company; the convertible debtholder
+pays for shares by forgoing the receipt of interest from the conversion date until maturity
+and by forgoing the receipt of the maturity value itself. Thus, the difference is one of
+method or form of payment only, rather than one of substance.
+Rights to Purchase Additional Shares
+If the directors of a company decide to issue new ordinary shares, the old shareholders
+generally have the right (preemptive privilege) to purchase newly issued shares in
+proportion to their holdings. This privilege, referred to as a share right, saves existing
+shareholders from suffering a dilution of voting rights without their consent. Also, it may
+allow them to purchase shares somewhat below their market price. Unlike the warrants
+issued with other securities, the warrants issued for share rights are of short duration.
+The certificate representing the share right states the number of shares the holder of the
+right may purchase. Each share owned ordinarily gives the owner one share right. The
+certificate also states the price at which the new shares may be purchased. The price is
+normally less than the current market price of such shares, which gives the rights a value in
+themselves. From the time they are issued until they expire, holders of share rights may
+purchase and sell them like any other security.
+Companies make only a memorandum entry when they issue rights to existing
+shareholders. This entry indicates the number of rights issued to existing shareholders in
+order to ensure that the company has additional unissued shares registered for issuance in
+case the rights are exercised. Companies make no formal entry at this time because they
+have not yet issued shares nor received cash.
+
+If holders exercise the share rights, a cash payment of some type usually is involved. If the
+company receives cash equal to the par value, it makes an entry crediting Share Capital—
+Ordinary at par value. If the company receives cash in excess of par value, it credits Share
+Premium—Ordinary for the amount received above par value. If it receives cash less than
+par value, a debit to Share Premium—Ordinary is appropriate.
+Share Compensation Plans
+LEARNING OBJECTIVE 3
+Describe the accounting and reporting for share compensation plans.
+The third form of warrant arises in share compensation plans to pay and motivate
+employees. This warrant is a share option, which gives key employees the option to
+purchase ordinary shares at a given price over an extended period of time.
+A consensus of opinion is that effective compensation programs are ones that do the
+following:
+1. Base compensation on employee and company performance.
+2. Motivate employees to high levels of performance.
+3. Help retain executives and allow for recruitment of new talent.
+4. Maximize the employee’s after-tax benefit and minimize the employer’s after-tax cost.
+5. Use performance criteria over which the employee has control.
+Straight cash-compensation plans (salary and perhaps a bonus), though important, are
+oriented to the short run. Many companies recognize that they need a longer-term
+compensation plan in addition to the cash component.
+Long-term compensation plans attempt to develop company loyalty among key employees
+by giving them “a piece of the action”—that is, an equity or ownership interest. These plans,
+generally referred to as share-based compensation plans, come in many forms.
+Essentially, they provide the employee with the opportunity to receive shares if the
+performance of the company (by whatever measure) is satisfactory. Typical performance
+measures focus on long-term improvements that are readily measurable and that benefit
+the company as a whole, such as increases in earnings per share, revenues, share price, or
+market share.
+Illustration 16.9 indicates that the cost of options is a much smaller element of
+compensation relative to restricted shares at global companies such as Ford (USA) and
+Disney (USA).
+
+($ in millions) U.S. Company Option Grants Restricted-Share Grants
+Disney
+Ford
+Urban Outfitters
+Walmart
+ILLUSTRATION 16.9 Company Equity Grants
+As discussed in the opening story, the major reasons for this change are twofold. Critics
+often cite the indiscriminate use of share options as a reason why company executives
+manipulated accounting numbers in an attempt to achieve higher share price. As a result,
+many responsible companies decided to cut back on the issuance of options, both to avoid
+such accounting manipulations and to head off investor doubts. In addition, IFRS now
+results in companies recording a higher expense when share options are granted.
+The data reported in Illustration 16.10 part (a) reinforce the point made in the opening
+story that the fair value of share grants is a significant component of compensation. For the
+100 largest non-tech companies in the S&P 500, 81 percent are providing some mix of
+share-based compensation elements. Part (b) of Illustration 16.10 indicates the recent
+compensation breakdown for the CEO of Marks and Spencer plc (M&S) (GBR). Note
+that the share-based component nearly equals the pay received in cash—a relationship that
+is typical for many public companies.
+ILLUSTRATION 16.10 Compensation Elements
+Measurement—Share Compensation
+
+Suppose that, as an employee for Hurdle Inc., you receive options to purchase 10,000
+shares of the firm’s ordinary shares as part of your compensation. The date you receive the
+options is referred to as the grant date. The options are good for 10 years. The market
+price and the exercise price for the shares are both $20 at the grant date. What is the
+value of the compensation you just received?
+Some believe that what you have received has no value. They reason that because the
+difference between the market price and the exercise price is zero, no compensation results.
+Others argue these options do have value. If the share price goes above $20 any time in the
+next 10 years and you exercise the options, you may earn substantial compensation. For
+example, if at the end of the fourth year the share market price is $30 and you exercise your
+options, you could earn $100,000 [10,000 options × ($30 − $20)], ignoring income taxes.
+The question for Hurdle is how to report the granting of these options. One approach
+measures compensation cost by the excess of the market price of the shares over their
+exercise price at the grant date. This approach is referred to as the intrinsic-value
+method. It measures what the holder would receive today if the option was immediately
+exercised. The intrinsic value is the difference between the market price of the
+shares and the exercise price of the options at the grant date. Using the intrinsic-
+value method, Hurdle would not recognize any compensation expense related to your
+options because at the grant date the market price equaled the exercise price. (In the
+preceding paragraph, those who answered that the options had no value were looking at the
+question from the intrinsic-value approach.)
+The second way to look at the question of how to report the granting of these options bases
+the cost of employee share options on the fair value of the share options granted. Under
+the fair value method, companies use acceptable option-pricing models to value the
+options at the date of grant. These models take into account the many factors that
+determine an option’s underlying value.5
+The IASB guidelines require that companies recognize compensation cost using the fair
+value method. [5] The IASB position is that companies should base the accounting for the
+cost of employee services on the fair value of compensation paid. This amount is presumed
+to be a measure of the value of the services received. We will discuss more about the
+politics of IFRS in this area later (see “Debate over Share-Option Accounting” section). Let’s
+first describe the procedures involved.
+Recognition—Share Compensation
+Share-Option Plans
+Share-option plans involve two main accounting issues:
+1. How to determine compensation expense.
+2. Over what periods to allocate compensation expense.
+Determining Expense
+Under the fair value method, companies compute total compensation expense based on
+the fair value of the options expected to vest on the date they grant the options to the
+
+employee(s) (i.e., the grant date).6 Public companies estimate fair value by using an
+option-pricing model, with some adjustments for the unique factors of employee share
+options. No adjustments occur after the grant date in response to subsequent changes in
+the share price—either up or down.
+Allocating Compensation Expense
+In general, a company recognizes compensation expense in the periods in which its
+employees perform the service—the service period. Unless otherwise specified, the
+service period is the vesting period—the time between the grant date and the vesting date.
+Thus, the company determines total compensation cost at the grant date and allocates it to
+the periods benefited by its employees’ services.
+Share Compensation Example
+An example will help show the accounting for a share-option plan. Assume that on
+November 1, 2021, the shareholders of Chen Ltd. approve a plan that grants the company’s
+five executives options to purchase 2,000 shares each of the company’s ¥100 par value
+ordinary shares. The company grants the options on January 1, 2022. The executives may
+exercise the options at any time within the next 10 years. The option price per share is
+¥6,000, and the market price of the shares at the date of grant is ¥7,000 per share.
+Under the fair value method, the company computes total compensation expense by
+applying an acceptable fair value option-pricing model (such as the Black-Scholes option-
+pricing model). To keep this illustration simple, we assume that the fair value option-
+pricing model determines Chen’s total compensation expense to be ¥22,000,000.
+Basic Entries
+Under the fair value method, a company recognizes the value of the options as an expense
+in the periods in which the employee performs services. In the case of Chen Ltd., assume
+that the expected period of benefit is two years, starting with the grant date. Chen would
+record the transactions related to this option contract as follows.
+As indicated, Chen allocates compensation expense evenly over the two-year service period.
+
+Exercise
+If Chen’s executives exercise 2,000 of the 10,000 options (20 percent of the options) on
+June 1, 2025 (three years and five months after date of grant), the company records the
+following journal entry.
+June 1, 2025
+Cash (2,000 × ¥6,000)
+Share Premium—Share Options (.20 × ¥22,000,000)
+Share Capital—Ordinary (2,000 × ¥100)
+ 
+Share Premium—Ordinary
+ 
+Expiration
+If Chen’s executives fail to exercise the remaining share options before their expiration
+date, the company transfers the balance in the Share Premium—Share Options account to a
+more properly titled share premium account, such as Share Premium—Expired Share
+Options. Chen records this transaction at the date of expiration as follows.
+January 1, 2032 (expiration date)
+Share Premium—Share Options
+Share Premium—Expired Share Options (.80 × ¥22,000,000)  
+Adjustment
+An unexercised share option does not nullify the need to record the costs of services
+received from executives and attributable to the share-option plan. Under IFRS, a company
+therefore does not adjust compensation expense upon expiration of the options.
+Once the total compensation is measured at the date of grant, can it be changed in future
+periods? The answer is that it depends on whether the adjustment is caused by a service or
+market condition. A service condition requires employees to complete a specified period
+of service to receive the award. If a service condition exists, the company is permitted to
+adjust the number of share options expected to the actual number of instruments vested.
+Thus, compensation can be adjusted. The company should adjust the estimate of
+compensation expense recorded in the current period (as a change in estimate). A company
+records this change in estimate by debiting Share Premium—Share Options and crediting
+Compensation Expense for the amount of cumulative compensation expense recorded to
+date (thus decreasing compensation expense in the period of forfeiture).
+A market condition results when vesting or exercisability of the share option depends on
+a performance condition, such as a rise in the market price of the company’s ordinary
+shares. Because market conditions are reflected in the determination of fair value at the
+grant date, no adjustment to compensation expense is permitted.
+Many question this accounting treatment. The practice of not reversing share-option
+awards due to market conditions (share price stays below exercise price) means that a
+company may recognize an expense for an option that is never exercised. However, if the
+
+reason the option is not exercised relates to a service condition (failure to stay as an
+employee and perform services), the compensation expense related to the option is
+adjusted. In summary, estimates of the number of share options that are expected to vest
+are adjusted to the actual number that do vest. Cancellations due to market conditions are
+not adjusted.7
+Restricted Shares
+As indicated earlier, many companies are also using restricted shares (or replacing options
+altogether) to compensate employees. Restricted-share plans transfer shares to
+employees, subject to an agreement that the shares cannot be sold, transferred, or pledged
+until vesting occurs. Similar to share options, these shares are subject to forfeiture if the
+conditions for vesting are not met.8
+Major advantages of restricted-share plans are:
+1. Restricted shares never become completely worthless. In contrast, if the share
+price does not exceed the exercise price for a share option, the options are worthless.
+The restricted shares, however, still have value.
+2. Restricted shares generally result in less dilution to existing shareholders.
+Restricted-share awards are usually one-half to one-third the size of share options. For
+example, if a company issues share options on 1,000 shares, an equivalent restricted-
+share offering might be 333 to 500 shares. The reason for the difference is that at the
+end of the vesting period, the restricted shares will have value, whereas the share
+options may not. As a result, fewer shares are involved in restricted-share plans, and
+therefore less dilution results if the share price rises.
+3. Restricted shares better align the employee incentives with the companies’
+incentives. The holder of restricted shares is essentially a shareholder and should be
+more interested in the long-term objectives of the company. In contrast, the recipients
+of share options often have a short-run focus, which leads to taking risks to hype the
+share price for short-term gain to the detriment of the long term.
+The accounting for restricted shares follows the same general principles as accounting for
+share options at the date of grant. That is, the company determines the fair value of the
+restricted shares at the date of grant (usually the fair value of a share) and then expenses
+that amount over the service period. Subsequent changes in the fair value of the shares are
+ignored for purposes of computing compensation expense.
+Restricted Shares Example
+Assume that on January 1, 2022, Ogden Company issues 1,000 restricted shares to its CEO,
+Christie DeGeorge. Ogden’s shares have a fair value of $20 per share on January 1, 2022.
+Additional information is as follows.
+The service period related to the restricted shares is five years.
+Vesting occurs if DeGeorge stays with the company for a five-year period.
+The par value is $1 per share.
+
+Ogden makes the following entry on the grant date (January 1, 2022).
+Unearned Compensation
+Share Capital—Ordinary (1,000 × $1)
+ 
+Share Premium—Ordinary (1,000 × $19)  
+The credits to Share Capital—Ordinary and Share Premium—Ordinary indicate that Ogden
+has issued shares. The debit to Unearned Compensation (often referred to as Deferred
+Compensation Expense) identifies the total compensation expense the company will
+recognize over the five-year period. Unearned Compensation represents the cost of
+services yet to be performed, which is not an asset. Consequently, the company
+reports Unearned Compensation in equity in the statement of financial position, as a contra
+equity account (similar to the reporting of treasury shares at cost).
+At December 31, 2022, Ogden records compensation expense of $4,000 (1,000 shares × $20
+× .20) as follows.
+Compensation Expense
+Unearned Compensation  
+Ogden records compensation expense of $4,000 for each of the next four years (2023, 2024,
+2025, and 2026).
+What happens if DeGeorge leaves the company before the five years has elapsed (that is,
+she does not fulfill a service condition)? In this situation, DeGeorge forfeits her rights to
+the shares, and Ogden reverses the compensation expense already recorded.
+For example, assume that DeGeorge leaves on February 3, 2024 (before any expense has
+been recorded during 2024). The entry to record this forfeiture is as follows.
+Share Capital—Ordinary
+Share Premium—Ordinary
+Compensation Expense ($4,000 × 2)  
+Unearned Compensation
+ 
+In this situation, Ogden reverses the compensation expense of $8,000 recorded through
+2023. In addition, the company debits Share Capital—Ordinary and Share Premium—
+Ordinary, reflecting DeGeorge’s forfeiture. It credits the balance of Unearned
+Compensation since none remains when DeGeorge leaves Ogden.
+This accounting is similar to accounting for share options when employees do not fulfill
+vesting requirements. Recall that once compensation expense is recorded for share options,
+it is not reversed. The only exception is when an employee leaves a company early, and so
+does not fulfill a service condition.
+In Ogden’s restricted-share plan, vesting never occurred because DeGeorge left the
+company before she met the service requirement. Because DeGeorge was never vested, she
+had to forfeit her shares. Therefore, the company must reverse compensation expense
+recorded to date.9
+Employee Share-Purchase Plans
+
+Employee share-purchase plans (ESPPs) generally permit all employees to purchase
+shares at a discounted price for a short period of time. The company often uses such plans
+to secure equity capital or to induce widespread ownership of its ordinary shares among
+employees. These plans are considered compensatory and should be recorded as
+expense over the service period.
+To illustrate, assume that Masthead plc offers all its 1,000 employees the opportunity to
+participate in an employee share-purchase plan. Under the terms of the plan, the employees
+are entitled to purchase 100 ordinary shares (par value £1 per share) at a 20 percent
+discount. The purchase price must be paid immediately upon acceptance of the offer. In
+total, 800 employees accept the offer, and each employee purchases on average 80 shares.
+That is, the employees purchase a total of 64,000 shares. The weighted-average market
+price of the shares at the purchase date is £30 per share, and the weighted-average purchase
+price is £24 per share. The entry to record this transaction is as follows.
+Cash (64,000 × £24)
+Compensation Expense [64,000 × (£30 − £24)]
+Share Capital—Ordinary (64,000 × £1)
+ 
+Share Premium—Ordinary
+ 
+(Issue shares in an employee share-purchase plan)  
+ 
+The IASB indicates that there is no reason to treat broad-based employee share plans
+differently from other employee share plans. Some have argued that because these plans
+are used to raise capital, they should not be compensatory. However, IFRS requires
+recording expense for these arrangements. The Board notes that because these
+arrangements are available only to employees, it is sufficient to conclude that the benefits
+provided represent employee compensation.10 [6]
+Disclosure of Compensation Plans
+Companies must fully disclose the status of their compensation plans at the end of the
+periods presented. To meet these objectives, companies must make extensive disclosures.
+Specifically, a company with one or more share-based payment arrangements must disclose
+information that enables users of the financial statements to understand:
+1. The nature and extent of share-based payment arrangements that existed during the
+period.
+2. How the fair value of the goods and services received, or the fair value of the equity
+instruments granted during the period, was determined.
+3. The effect of share-based payment transactions on the company’s net income (loss)
+during the period and on its financial position. [7]
+Illustration 16.11 presents the type of information disclosed for compensation plans.
+Debate over Share-Option Accounting
+The IASB faced considerable opposition when it proposed the fair value method for
+accounting for share options. This is not surprising, given that the fair value method results
+
+in greater compensation costs relative to the intrinsic-value model.
+Many small high-technology companies have been especially vocal in their opposition,
+arguing that only through offering share options can they attract top professional
+management. They contend that recognizing large amounts of compensation expense under
+these plans places them at a competitive disadvantage against larger companies that can
+withstand higher compensation charges. As one high-tech executive stated, “If your goal is
+to attack fat-cat executive compensation in multi-billion dollar firms, then please do so! But
+not at the expense of the people who are ‘running lean and mean,’ trying to build
+businesses and creating jobs in the process.”
+The share-option saga is a classic example of the difficulty the IASB faces in issuing new
+accounting guidance. Many powerful interests aligned against the Board. Even some who
+initially appeared to support the Board’s actions later reversed themselves. These efforts
+undermine the authority of the IASB at a time when it is essential that we restore faith in
+our financial reporting system (see Underlying Concepts).
+Underlying Concepts
+The share-option controversy involves economic-consequence issues. The IASB
+believes companies should follow the neutrality concept. Others disagree, noting that
+factors other than accounting theory should be considered.
+Transparent financial reporting—including recognition of share-based expense—should not
+be criticized because companies will report lower income. We may not like what the
+financial statements say, but we are always better off when the statements are
+representationally faithful to the underlying economic substance of transactions.
+By leaving share-based compensation expense out of income, reported income is biased.
+Biased reporting not only raises concerns about the credibility of companies’ reports but
+also of financial reporting in general. Even good companies get tainted by the biased
+reporting of a few “bad apples.” If we write standards to achieve some social, economic, or
+public policy goal, financial reporting loses its credibility.
+
+ILLUSTRATION 16.11 Share-Option Plan Disclosure
+Basic Earnings per Share
+LEARNING OBJECTIVE 4
+Compute basic earnings per share.
+The financial press frequently reports earnings per share data. Further, shareholders and
+potential investors widely use this data in evaluating the profitability of a company.
+Earnings per share indicates the income earned by each ordinary share. Thus,
+
+companies report earnings per share only for ordinary shares. For example, if
+Oscar SA has net income of €300,000 and a weighted average of 100,000 ordinary shares
+outstanding for the year, earnings per share is €3 (€300,000 ÷ 100,000). Because of the
+importance of earnings per share information, companies must report this information on
+the face of the income statement. [8] The exception, due to the cost constraint, is non-
+public companies.11 Generally, companies report earnings per share information below net
+income in the income statement. Illustration 16.12 shows Oscar SA’s income statement
+presentation of earnings per share.
+Net income
+Earnings per share
+ILLUSTRATION 16.12 Income Statement Presentation of EPS
+When the income statement contains discontinued operations, companies are required to
+report earnings per share from continuing and discontinued operations and net income on
+the face of the income statement. The presentation in Illustration 16.13 is representative.
+Earnings per share:
+ 
+Income from continuing operations
+Loss from discontinued operations, net of tax
+Net income
+ILLUSTRATION 16.13 Income Statement Presentation of EPS Components
+These disclosures enable the user of the financial statements to compare performance
+between different companies in the same reporting period and between different reporting
+periods for the same company. Even though earnings per share data have limitations
+because of the different accounting policies that may be used for determining “earnings,” a
+consistently determined denominator enhances financial reporting. [9]
+Earnings per Share—Simple Capital Structure
+A company’s capital structure is simple if it consists only of ordinary shares or includes no
+potential ordinary shares that upon conversion or exercise could dilute earnings per
+ordinary share. In this case, a company reports basic earnings per share (EPS). A
+capital structure is complex if it includes securities (potential ordinary shares) that could
+have a dilutive effect on earnings per ordinary share.12 In this situation, a company reports
+both basic and diluted earnings per share (EPS).
+The computation of basic earnings per share for a simple capital structure involves two
+items (other than net income): (1) preference share dividends and (2) weighted-average
+ordinary shares outstanding.
+Preference Share Dividends
+As we indicated earlier, earnings per share relates to earnings per ordinary share. When a
+company has both ordinary and preference shares outstanding, it subtracts the current-
+year preference share dividend from net income to arrive at income available to
+
+ordinary shareholders. Illustration 16.14 shows the formula for computing earnings
+per share.
+Earnings per Share =
+ILLUSTRATION 16.14 Formula for Computing Earnings per Share
+In reporting earnings per share information, a company must calculate income available to
+ordinary shareholders. To do so, the company subtracts dividends on preference shares
+from income from continuing operations and net income. If a company declares dividends
+on preference shares and a net loss occurs, the company adds the preference dividend
+to the loss (thereby increasing the amount of the loss) for purposes of computing the loss
+per share.
+If the preference shares are cumulative and the company declares no dividend in the
+current year, it subtracts (or adds) an amount equal to the dividend that it should
+have declared for the current year only from net income (or to the loss). The company
+should have included dividends in arrears for previous years in the previous years’
+computations.13
+Weighted-Average Ordinary Shares Outstanding
+In all computations of earnings per share, the weighted-average ordinary shares
+outstanding during the period constitutes the basis for the per share amounts reported.
+Shares issued or purchased during the period affect the amount outstanding. Companies
+must weight the shares by the fraction of the period they are outstanding. The
+rationale for this approach is to find the equivalent number of whole shares outstanding for
+the year.
+To illustrate, assume that Franks Inc. has changes in its ordinary shares outstanding for the
+period, as shown in Illustration 16.15.
+Date
+Share Changes
+Shares Outstanding
+Jan. 1
+Beginning balance
+Apr. 1
+Issued 30,000 shares for cash
+ 
+ 
+July 1
+Purchased 39,000 shares
+ 
+ 
+Nov. 1
+Issued 60,000 shares for cash
+Dec. 31 Ending balance
+ILLUSTRATION 16.15 Shares Outstanding, Ending Balance—Franks Inc.
+Franks computes the weighted-average ordinary shares outstanding as shown in
+Illustration 16.16.
+Net Income  − Preference Dividends
+Weighted-Average Ordinary Shares Outstanding
+
+ 
+(A)
+(B)
+(C)
+Dates Outstanding Shares Outstanding Fraction of Year Weighted Shares (A × B)
+Jan. 1–Apr. 1
+3/12
+Apr. 1–July 1
+3/12
+July 1–Nov. 1
+4/12
+Nov. 1–Dec. 31
+2/12
+Weighted-average ordinary shares outstanding
+ILLUSTRATION 16.16 Weighted-Average Ordinary Shares Outstanding
+As Illustration 16.16 shows, 90,000 shares were outstanding for three months, which
+translates to 22,500 whole shares for the entire year. Because Franks issued additional
+shares on April 1, it must weight these shares for the time outstanding. When the company
+purchased 39,000 shares on July 1, it reduced the shares outstanding. Therefore, from July
+1 to November 1, only 81,000 shares were outstanding, which is equivalent to 27,000
+shares. The issuance of 60,000 shares increases shares outstanding for the last two months
+of the year. Franks then makes a new computation to determine the proper weighted shares
+outstanding.
+Share Dividends and Share Splits
+When share dividends or share splits occur, companies need to restate the shares
+outstanding before the share dividend or split, in order to compute the weighted-average
+ordinary shares. For example, assume that Vijay Ltd. had 100,000 shares outstanding on
+January 1 and issued a 25 percent share dividend on June 30. For purposes of computing a
+weighted average for the current year, it assumes the additional 25,000 shares outstanding
+as a result of the share dividend to be outstanding since the beginning of the year.
+Thus, the weighted average for the year for Vijay is 125,000 shares.
+Companies restate the issuance of a share dividend or share split, but not the issuance or
+repurchase of shares for cash. Why? Because share splits and share dividends do not
+increase or decrease the net assets of the company. The company merely issues additional
+shares. Because of the added shares, it must restate the weighted-average shares. Restating
+allows valid comparisons of earnings per share between periods before and after the share
+split or share dividend. Conversely, the issuance or purchase of shares for cash changes
+the amount of net assets. As a result, the company earns more, or less, in the future
+because of this change in net assets. Stated another way, a share dividend or split does
+not change the shareholders’ total investment—it only increases (unless it is a
+reverse share split) the number of ordinary shares representing this investment.
+To illustrate how a share dividend affects the computation of the weighted-average ordinary
+shares outstanding, assume that Sabrina Company has the following changes in its ordinary
+shares during the year, as shown in Illustration 16.17.
+
+Date
+Share Changes
+Shares Outstanding
+January 1
+Beginning balance
+March 1
+Issued 20,000 shares for cash
+ 
+ 
+June 1
+60,000 additional shares (50% share dividend)
+ 
+ 
+November 1
+Issued 30,000 shares for cash
+December 31 Ending balance
+ILLUSTRATION 
+Shares 
+Outstanding, 
+Ending 
+Balance—Sabrina
+Company
+Sabrina computes the weighted-average ordinary shares outstanding as shown in
+Illustration 16.18.
+ 
+(A)
+(B)
+(C)
+(D)
+Dates
+Outstanding
+Shares
+Outstanding
+Restatement
+Fraction of
+Year
+Weighted Shares (A × B ×
+C)
+Jan. 1–Mar. 1
+2/12
+Mar. 1–June 1
+3/12
+June 1–Nov. 1
+ 
+5/12
+Nov. 1–Dec. 31
+ 
+2/12
+Weighted-average ordinary shares outstanding
+ILLUSTRATION 16.18 Weighted-Average Ordinary Shares Outstanding—
+Share Issue and Share Dividend
+Sabrina must restate the shares outstanding prior to the share dividend. The company
+adjusts the shares outstanding from January 1 to June 1 for the share dividend, so that it
+now states these shares on the same basis as shares issued subsequent to the share
+dividend. Sabrina does not restate shares issued after the share dividend because they are
+on the new basis. The share dividend simply restates existing shares. The same type of
+treatment applies to a share split.
+If a share dividend or share split occurs after the end of the year but before the financial
+statements are authorized for issuance, the company must restate the weighted-average
+ordinary shares outstanding for the year (and any other years presented in comparative
+form). For example, assume that Hendricks Company computes its weighted-average
+ordinary shares as 100,000 for the year ended December 31, 2022. On January 15, 2023,
+before authorizing the issuance of the financial statements, the company splits its shares 3
+for 1. In this case, the weighted-average ordinary shares used in computing earnings per
+share for 2022 is now 300,000 shares. If Hendricks provides earnings per share
+information for 2021 as comparative information, Hendricks must also adjust it for the
+share split.
+Comprehensive Example
+
+Let’s study a comprehensive illustration for a simple capital structure. Diaz SA has income
+from continuing operations of R$580,000 and a gain on discontinued operations, net of tax,
+of R$240,000. In addition, it has declared preference dividends of R$1 per share on 100,000
+shares of preference shares outstanding. Diaz also has the following changes in its ordinary
+shares outstanding during 2022, as shown in Illustration 16.19.
+Date
+Share Changes
+Shares Outstanding
+January 1
+Beginning balance
+May 1
+Purchased 30,000 treasury shares
+ 
+ 
+July 1
+300,000 additional shares (3-for-1 share split)
+ 
+ 
+December 31 Issued 50,000 shares for cash
+December 31 Ending balance
+ILLUSTRATION 16.19 Shares Outstanding, Ending Balance—Diaz SA
+To compute the earnings per share information, Diaz determines the weighted-average
+ordinary shares outstanding as shown in Illustration 16.20.
+ 
+(A)
+(B)
+(C)
+(D)
+Dates
+Outstanding
+Shares
+Outstanding
+Restatement
+Fraction of
+Year
+Weighted Shares (A × B ×
+C)
+Jan. 1–May 1
+4/12
+May 1–July 1
+2/12
+July 1–Dec. 31
+ 
+6/12
+Weighted-average ordinary shares outstanding
+ILLUSTRATION 16.20 Weighted-Average Ordinary Shares Outstanding
+In computing the weighted-average ordinary shares, the company ignores the shares sold
+on December 31, 2022, because they have not been outstanding during the year. Diaz then
+divides the weighted-average ordinary shares into income from continuing operations and
+net income to determine earnings per share. It subtracts its preference dividends of
+R$100,000 from income from continuing operations (R$580,000) to arrive at income from
+continuing operations available to ordinary shareholders of R$480,000 (R$580,000 −
+Deducting the preference dividends from the income from continuing operations also
+reduces net income without affecting the gain on discontinued operations. The final
+amount is referred to as income available to ordinary shareholders, as shown in
+Illustration 16.21.
+
+ 
+(A)
+(B)
+(C)
+ 
+Income
+Information
+Weighted
+Shares
+Earnings per
+Share (A ÷ B)
+Income from continuing operations available
+to ordinary shareholders
+R$480,000*
+Gain on discontinued operations (net of tax)
+Income available to ordinary shareholders
+*R$580,000 − R$100,000
+ILLUSTRATION 16.21 Computation of Income Available to Ordinary
+Shareholders
+Diaz must disclose the per share amount for gain on discontinued operations (net of tax)
+either on the face of the income statement or in the notes to the financial statements.
+Illustration 16.22 shows the income and per share information reported on the face of
+Diaz’s income statement.
+Income from continuing operations
+Gain on discontinued operations, net of tax
+Net income
+Earnings per share:
+ 
+Income from continuing operations (R$580,000 – R$100,000)
+Gain on discontinued operations, net of tax
+Net income
+ILLUSTRATION 16.22 Earnings per Share, with Gain on Discontinued
+Operations
+Diluted Earnings per Share
+LEARNING OBJECTIVE 5
+Compute diluted earnings per share.
+The EPS discussion to this point applies to basic EPS for a simple capital structure. One
+problem with a basic EPS computation is that it fails to recognize the potential impact of a
+company’s dilutive securities. As discussed at the beginning of the chapter, dilutive
+securities are securities that can be converted to ordinary shares.14 Upon conversion or
+exercise by the holder, the dilutive securities reduce (dilute) earnings per share. This
+adverse effect on EPS can be significant and, more importantly, unexpected unless financial
+statements call attention to their potential dilutive effect.
+As indicated earlier, a complex capital structure exists when a company has convertible
+securities, options, warrants, or other rights that upon conversion or exercise could dilute
+earnings per share. When a company has a complex capital structure, it reports both
+basic and diluted earnings per share.
+
+Computing diluted EPS is similar to computing basic EPS. The difference is that diluted
+EPS includes the effect of all potential dilutive ordinary shares that were outstanding
+during the period. The formula in Illustration 16.23 shows the relationship between basic
+EPS and diluted EPS.
+ILLUSTRATION 16.23 Relation between Basic and Diluted EPS
+Some securities are antidilutive. Antidilutive securities are securities that upon
+conversion or exercise increase earnings per share (or reduce the loss per share).
+Companies with complex capital structures will not report diluted EPS if the securities in
+their capital structure are antidilutive. The purpose of presenting both basic and diluted
+EPS is to inform financial statement users of situations that will likely occur (basic EPS)
+and also to provide “worst case” dilutive situations (dilutive EPS). If the securities are
+antidilutive, the likelihood of conversion or exercise is considered remote. Thus, companies
+that have only antidilutive securities must report only the basic EPS number. We illustrated
+the computation of basic EPS in the prior section. In the following sections, we address the
+effects of convertible and other dilutive securities on EPS calculations.
+Diluted EPS—Convertible Securities
+At conversion, companies exchange convertible securities for ordinary shares. Companies
+measure the dilutive effects of potential conversion on EPS using the if-converted
+method. This method for a convertible bond assumes (1) the conversion of the convertible
+securities at the beginning of the period (or at the time of issuance of the security, if issued
+during the period), and (2) the elimination of related interest, net of tax. Thus, the
+additional shares assumed issued increase the denominator—the weighted-average
+ordinary shares outstanding. The amount of interest expense, net of tax, increases the
+numerator—net income.
+Comprehensive Example—If-Converted Method
+As an example, Mayfield Ltd. has net income of £210,000 for the year and 100,000
+weighted-average ordinary shares outstanding during the same period. The basic earnings
+per share is therefore £2.10 (£210,000 ÷ 100,000). The company has two convertible
+debenture bond issues outstanding. One is a 6 percent issue sold at 100 (total £1,000,000)
+in a prior year and convertible into 20,000 ordinary shares. Interest expense for the current
+year related to the liability component of this convertible bond is £62,000.15 The other is a 7
+
+percent issue sold at 100 (total £1,000,000) on April 1 of the current year and convertible
+into 32,000 ordinary shares. Interest expense for the first full year related to the liability
+component of this convertible bond is £80,000. The tax rate is 40 percent.
+As Illustration 16.24 shows, to determine the numerator for diluted earnings per share,
+Mayfield adds back the interest on the if-converted securities, less the related tax effect.
+Because the if-converted method assumes conversion as of the beginning of the year,
+Mayfield assumes that it pays no interest on the convertibles during the year. The effective
+interest on the 6 percent convertibles is £62,000 for the year. The increased tax expense is
+£24,800 (£62,000 × 0.40). The interest added back net of taxes is £37,200 (£62,000 −
+£24,800) or simply £62,000 × (1 − 0.40).
+Net income for the year
+Add: Adjustment for interest (net of tax)
+ 
+6% debentures (£62,000 × [1 −.40])
+7% debentures (£80,000 × 9/12 × [1 −.40])
+Adjusted net income
+ILLUSTRATION 16.24 Computation of Adjusted Net Income
+Continuing with the information in Illustration 16.24, because Mayfield issues 7 percent
+convertibles subsequent to the beginning of the year, it weights the shares. In other words,
+it considers these shares to have been outstanding from April 1 to the end of the year. As a
+result, the interest adjustment to the numerator for these bonds reflects the interest for
+only nine months. Thus, the interest added back on the 7 percent convertible is £36,000
+[£80,000 × 9/12 year × (1 − 0.4)]. The final item in Illustration 16.24 shows the adjusted
+net income. This amount becomes the numerator for Mayfield’s computation of diluted
+earnings per share.
+Mayfield then calculates the weighted-average ordinary shares outstanding, as shown in
+Illustration 16.25. This number of shares becomes the denominator for Mayfield’s
+computation of diluted earnings per share.
+Weighted-average ordinary shares outstanding
+Add: Shares assumed to be issued:
+ 
+6% debentures (as of beginning of year)
+7% debentures (as of date of issue, April 1; 9/12 × 32,000)
+Weighted-average ordinary shares adjusted for dilutive securities 144,000
+ILLUSTRATION 16.25 Computation of Weighted-Average Ordinary Shares
+In its income statement, Mayfield reports basic and diluted earnings per share.16
+Illustration 16.26 shows this dual presentation.
+
+Net income for the year
+Earnings per Share (Note X)
+ 
+Basic earnings per share (£210,000 ÷ 100,000)
+Diluted earnings per share (£283,200 ÷ 144,000)
+ILLUSTRATION 16.26 Earnings per Share Disclosure
+Other Factors
+The conversion rate on a dilutive security may change during the period in which the
+security is outstanding. For the diluted EPS computation in such a situation, the company
+uses the most dilutive conversion rate available. [10] For example, assume that a
+company issued a convertible bond on January 1, 2020, with a conversion rate of 10
+ordinary shares for each bond starting January 1, 2022. Beginning January 1, 2023, the
+conversion rate is 12 ordinary shares for each bond. Beginning January 1, 2029, it is 15
+ordinary shares for each bond. In computing diluted EPS in 2020, the company uses the
+conversion rate of 15 shares to one bond.
+Another issue relates to preference shares. For example, assume that Mayfield’s 6 percent
+convertible debentures were instead 6 percent convertible preference shares. In that
+case, Mayfield considers the convertible preference shares as potential ordinary shares.
+Thus, it includes them in its diluted EPS calculations as shares outstanding. The company
+does not subtract preference dividends from net income in computing the numerator. Why
+not? Because for computing EPS, the company assumes conversion of the convertible
+preference shares to outstanding ordinary shares, and no preference dividends would have
+been paid. The company uses net income as the numerator—it computes no tax effect
+because preference dividends generally are not tax-deductible.
+Diluted EPS—Options and Warrants
+A company includes in diluted earnings per share all share options and warrants
+outstanding (whether or not presently exercisable), unless they are antidilutive. Companies
+use the treasury-share method to include options and warrants and their equivalents in
+EPS computations.
+The treasury-share method assumes that the options or warrants are exercised at the
+beginning of the year (or date of issue if later) and that the company uses those proceeds to
+purchase ordinary shares for the treasury. If the exercise price is lower than the market
+price of the shares, then the proceeds from exercise are insufficient to buy back all the
+shares. The company then adds the incremental shares remaining to the weighted-average
+ordinary shares outstanding for purposes of computing diluted earnings per share.
+For example, if the exercise price of a warrant is €5 and the fair value of the shares is €15,
+the treasury-share method increases the shares outstanding. Exercise of the warrant results
+in one additional share outstanding, but the €5 received for the one share issued is
+insufficient to purchase one share in the market at €15. The company needs to exercise
+three warrants (and issue three additional shares) to produce enough money (€15) to
+acquire one share in the market. Thus, a net increase of two shares outstanding results.
+
+To see this computation using larger numbers, assume 1,500 options outstanding at an
+exercise price of €30 for an ordinary share and a market price per ordinary share of €50.
+Through application of the treasury-share method, the company would have 600
+incremental shares outstanding, computed as shown in Illustration 16.27.17
+Proceeds from exercise of 1,500 options (1,500 × €30)
+Shares issued upon exercise of options
+Treasury shares purchasable with proceeds (€45,000 ÷ €50)
+Incremental shares outstanding (potential ordinary shares)
+ILLUSTRATION 16.27 Computation of Incremental Shares
+Thus, if the exercise price of the option or warrant is lower than the market price of the
+shares, dilution occurs. An exercise price of the option or warrant higher than the market
+price of the shares reduces ordinary shares. In this case, the options or warrants are
+antidilutive because their assumed exercise leads to an increase in earnings per share.
+For both options and warrants, exercise is assumed only if the average market price of the
+share exceeds the exercise price during the reported period.18 As a practical matter, a simple
+average of the weekly or monthly prices is adequate, so long as the prices do not fluctuate
+significantly.
+Comprehensive Example—Treasury-Share Method
+To illustrate application of the treasury-share method, assume that Kubitz Industries has
+net income for the period of ₴220,000. The average number of shares outstanding for the
+period was 100,000 shares. Hence, basic EPS—ignoring all dilutive securities—is ₴2.20. The
+average number of shares related to options outstanding (although not exercisable at this
+time), at an option price of ₴20 per share, is 5,000 shares. The average market price of the
+ordinary shares during the year was ₴28. Illustration 16.28 shows the computation of
+EPS using the treasury-share method.
+
+ 
+Basic
+Earnings per
+Share
+Diluted
+Earnings per
+Share
+Average number of shares related to options outstanding:
+ 
+Option price per share
+ 
+×
+ ₴20
+Proceeds upon exercise of options
+ 
+₴100,000
+Average market price of ordinary shares
+ 
+₴28
+Treasury shares that could be repurchased with proceeds
+(₴100,000 ÷ ₴28)
+ 
+Excess of shares under option over the treasury shares that
+could be repurchased (5,000 − 3,571)—potential ordinary
+incremental shares
+ 
+Average number of ordinary shares outstanding
+Total average number of ordinary shares outstanding and
+potential ordinary shares
+100,000 (A)
+101,429 (C)
+Net income for the year
+₴220,000
+(B)
+₴220,000
+(D)
+Earnings per share
+₴2.20 (B ÷
+A) ₴2.17 (D ÷ C)
+ILLUSTRATION 16.28 Computation of Earnings per Share—Treasury-Share
+Method
+Contingently Issuable Shares
+Contingently issuable ordinary shares are defined as ordinary shares issuable for little
+or no cash consideration upon satisfaction of specified conditions in a contingent share
+agreement. For example, in business combinations, the acquirer may agree to issue
+additional shares—contingently issuable shares—under certain circumstances. Companies
+generally issue these contingent shares based on a measure such as attainment of a certain
+earnings or market price level. The basic rule is that the number of contingent shares to be
+included in diluted earnings per share is based on the number of shares that would be
+issuable if the end of the period were the end of the contingency period.19 [11]
+For example, assume that Watts Corporation purchases Cardoza SA in 2021 and agrees to
+give Cardoza’s shareholders 20,000 additional shares in 2024 if Cardoza’s net income in
+2023 is R$90,000. Here is what happens in the next two years:
+1. In 2022, Cardoza’s net income is R$100,000. Cardoza therefore has met the net income
+test in 2022 and should include the 20,000 shares in diluted earnings per share for
+2. In 2023, Cardoza’s net income is R$80,000. Cardoza therefore does not meet the
+earnings test in 2023 and should not include the shares in diluted earnings per share
+in 2023.
+
+Because Cardoza’s earnings in 2022 may change in 2023, the calculation of basic EPS does
+not include contingent shares until the end of the contingency period because not all
+conditions have been satisfied.
+Antidilution Revisited
+In computing diluted EPS, a company must consider the aggregate of all dilutive securities.
+But first it must determine which potentially dilutive securities are in fact individually
+dilutive and which are antidilutive. A company should exclude any security that is
+antidilutive, nor can the company use such a security to offset dilutive securities.
+Recall that including antidilutive securities in earnings per share computations increases
+earnings per share (or reduces net loss per share). With options or warrants, whenever the
+exercise price exceeds the market price, the security is antidilutive. Convertible debt is
+antidilutive if the addition to income of the interest (net of tax) causes a greater percentage
+increase in income (numerator) than the conversion of the bonds causes a percentage
+increase in ordinary and potentially dilutive shares (denominator). In other words,
+convertible debt is antidilutive if conversion of the security causes ordinary share earnings
+to increase by an amount per additional ordinary share that is greater than the amount of
+earnings per share before the conversion.
+To illustrate, assume that Martin Corporation has a $1,000,000 debt issue that is
+convertible into 10,000 ordinary shares. Interest expense on the liability component of this
+convertible bond is $60,000. Net income for the year is $210,000, the weighted-average
+number of ordinary shares outstanding is 100,000 shares, and the tax rate is 40 percent. In
+this case, assumed conversion of the debt into ordinary shares at the beginning of the year
+requires the following adjustments of net income and the weighted-average number of
+shares outstanding, as shown in Illustration 16.29.
+Net income for the year
+Average number of shares
+outstanding
+Add: Adjustment for interest (net of tax)
+on bonds $60,000 × (1 − .40)
+Add: Shares issued upon
+assumed conversion of debt
+Adjusted net income
+Average number of ordinary
+and potential ordinary shares
+Basic EPS = $210,000 ÷ 100,000 = $2.10
+Diluted EPS = $246,000 ÷ 110,000 = $2.24 = Antidilutive
+ILLUSTRATION 16.29 Test for Antidilution
+As a shortcut, Martin can also identify the convertible debt as antidilutive by comparing the
+EPS resulting from conversion, $3.60 ($36,000 additional earnings ÷ 10,000 additional
+shares), with EPS before inclusion of the convertible debt, $2.10.
+Companies should ignore antidilutive securities in all calculations and in computing diluted
+earnings per share. This approach is reasonable. The accounting profession’s intent was to
+inform the investor of the possible dilution that might occur in reported earnings per share
+and not to be concerned with securities that, if converted or exercised, would result in an
+increase in earnings per share. Appendix 16B to this chapter provides an extended example
+of how companies consider antidilution in a complex situation with multiple securities.
+
+EPS Presentation and Disclosure
+A company should present both basic and diluted EPS information as shown in
+Illustration 16.30.
+Earnings per ordinary share  
+Basic earnings per share
+Diluted earnings per share $2.70
+ILLUSTRATION 16.30 EPS Presentation—Complex Capital Structure
+When the earnings of a period include discontinued operations, a company should show per
+share amounts for the following: income from continuing operations, discontinued
+operations, and net income. Companies that report a discontinued operation should present
+per share amounts for those line items either on the face of the income statement or in
+the notes to the financial statements. Illustration 16.31 shows a presentation reporting
+discontinued operations.
+Basic earnings per share
+ 
+Income from continuing operations $3.80
+Discontinued operations (loss)
+Net income
+Diluted earnings per share
+ 
+Income from continuing operations $3.35
+Discontinued operations (loss)
+Net income
+ILLUSTRATION 16.31 EPS Presentation, with Discontinued Operations
+The following information should also be disclosed.
+1. The amounts used as the numerators in calculating basic and diluted earnings per
+share, and a reconciliation of those amounts to net income or loss. The reconciliation
+should include the individual effect of each class of instruments that affects earnings
+per share.
+2. The weighted-average ordinary shares used as the denominator in calculating basic and
+diluted earnings per share, and a reconciliation of these denominators to each other.
+The reconciliation should include the individual effect of each class of instruments that
+affects earnings per share.
+3. Instruments (including contingently issuable shares) that could potentially dilute basic
+earnings per share in the future but were not included in the calculation of diluted
+earnings per share because they are antidilutive for the period(s) presented.
+4. A description of ordinary share transactions or potential ordinary share transactions
+that occur after the reporting period and that would have significantly changed the
+number of ordinary shares or potential ordinary shares outstanding at the end of the
+period if those transactions had occurred before the end of the reporting period.
+
+Note that if the number of ordinary or potential ordinary shares outstanding increases as a
+result of a share dividend or share split, or decreases as a result of diluted EPS calculations,
+such changes in the number of shares should be disclosed (see Underlying Concepts).
+Underlying Concepts
+Providing additional EPS information in addition to the presentation on the face of the
+income statement is an application of the full disclosure principle.
+Illustration 16.32 presents the reconciliation and the related disclosure to meet the
+requirements of this standard. [12]
+ILLUSTRATION 16.32 Reconciliation for Basic and Diluted EPS
+Summary of EPS Computation
+Computation of earnings per share is a complex issue. It is also a controversial area because
+many securities, although technically not ordinary shares, have many of their basic
+characteristics. Indeed, some companies have issued these other securities rather than
+ordinary shares in order to avoid an adverse dilutive effect on earnings per share.
+Illustrations 16.33 and 16.34 display the elementary points of calculating earnings per
+share in a simple capital structure and in a complex capital structure.
+
+ILLUSTRATION 16.33 Calculating EPS, Simple Capital Structure
+
+ILLUSTRATION 16.34 Calculating EPS, Complex Capital Structure
+APPENDIX 16A 
+Accounting for Share-Appreciation Rights
+LEARNING OBJECTIVE *6
+Explain the accounting for share-appreciation rights plans.
+A major disadvantage of many share-option plans is that an executive must pay income tax
+on the difference between the market price of the share and the option price at the date of
+exercise. This feature of share-option plans (those referred to as non-qualified) could be
+a financial hardship for an executive who wishes to keep the shares (rather than sell them
+immediately) because he or she would have to pay not only income tax but the option price
+as well. In another type of plan (an incentive plan), the executive pays no taxes at exercise
+but may need to borrow to finance the exercise price, which leads to related interest cost.
+
+One solution to this problem was the creation of share-appreciation rights (SARs). In
+this type of plan, the company gives an executive the right to receive compensation equal to
+the share appreciation. Share appreciation is the excess of the market price of the shares
+at the date of exercise over a pre-established price. The company may pay the share
+appreciation in cash, shares, or a combination of the two.
+The major advantage of SARs is that the executive often does not have to make a cash
+outlay at the date of exercise but receives a payment for the share appreciation. Unlike
+shares acquired under a share-option plan, the company does not issue the shares that
+constitute the basis for computing the appreciation in a SARs plan. Rather, the company
+simply awards the executive cash or shares having a fair value equivalent to the
+appreciation. The accounting for share-appreciation rights depends on whether the
+company classifies the rights as equity or as a liability.
+SARs—Share-Based Equity Awards
+Companies classify SARs as equity awards if at the date of exercise the holder receives
+shares from the company upon exercise.20 In essence, SARs are essentially equivalent to a
+share option. The major difference relates to the form of payment. With the share option,
+the holder pays the exercise price and then receives the shares. In an equity SAR, the holder
+receives shares in an amount equal to the share-price appreciation (the difference
+between the market price and the pre-established price). The accounting for SARs when
+they are equity awards follows the accounting used for share options. At the date of grant,
+the company determines a fair value for the SAR and then allocates this amount to
+compensation expense over the service period of the employees.
+SARs—Share-Based Liability Awards
+Companies classify SARs as liability awards if at the date of exercise the holder receives a
+cash payment. In this case, the holder is not receiving additional shares but a cash payment
+equal to the amount of share-price appreciation. The company’s compensation expense
+therefore changes as the value of the liability changes.
+A company uses the following approach to record share-based liability awards:
+1. Measure the fair value of the award at the grant date and accrue compensation over the
+service period.
+2. Remeasure the fair value each reporting period until the award is settled; adjust the
+compensation cost each period for changes in fair value prorated for the portion of the
+service period completed.
+3. Once the service period is completed, determine compensation expense each
+subsequent period by reporting the full change in market price as an adjustment to
+compensation expense.
+For liability awards, the company estimates the fair value of the SARs using an option-
+pricing model. The company then allocates this total estimated compensation cost over the
+service period, recording expense (or a decrease in expense if fair value declines) in each
+period. At the end of each period, total compensation expense reported to date should equal
+the percentage of the total service period that has elapsed, multiplied by the total estimated
+compensation cost.
+
+For example, assume that the service period is 40 percent complete, and total estimated
+compensation is $100,000. The company reports cumulative compensation expense to date
+of $40,000 ($100,000 × .40).
+The method of allocating compensation expense is called the percentage approach. In
+this method, in the first year of, say, a four-year plan, the company charges one-fourth of
+the estimated cost to date. In the second year, it charges off two-fourths, or 50 percent, of
+the estimated cost to date, less the amount already recognized in the first year. In the third
+year, it charges off three-fourths of the estimated cost to date, less the amount recognized
+previously. In the fourth year, it charges off the remaining compensation expense.
+A special problem arises when the exercise date is past the service period. In the previous
+example, if the share-appreciation rights were not exercised at the end of four years, in the
+fifth year the company would have to account for the difference in the market price and the
+pre-established price. In this case, the company adjusts compensation expense whenever a
+change in the market price of the shares occurs in subsequent reporting periods until
+the rights expire or are exercised, whichever comes first.
+Increases or decreases in the fair value of the SAR between the date of grant and the
+exercise date, therefore, result in a change in the measure of compensation. Some periods
+will have credits to compensation expense if the fair value decreases from one period to the
+next. The credit to compensation expense, however, cannot exceed previously recognized
+compensation expense. In other words, cumulative compensation expense cannot be
+negative.
+Share-Appreciation Rights Example
+Assume that Brazil Hotels, SA establishes a share-appreciation rights plan on January 1,
+2022. The plan entitles executives to receive cash at the date of exercise for the difference
+between the share’s market price and the pre-established price of R$10 on 10,000 SARs.
+The fair value of the SARs on December 31, 2022, is R$3, and the service period runs for
+two years (2022–2023). Illustration 16A.1 indicates the amount of compensation
+expense to be recorded each period, assuming that the executives hold the SARs for three
+years, at which time they exercise the rights.
+
+Share-Appreciation Rights 
+Schedule of Compensation Expense
+ 
+ 
+ 
+Date
+Fair
+Value
+Cumulative
+Compensation
+Recognizablea
+Percentage
+Accruedb
+Cumulative
+Compensation
+Accrued to
+Date
+Expense
+Expense
+Expense
+12/31/22
+ 
+ 
+ 
+ 
+ 
+12/31/23
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+12/31/24
+ 
+ 
+aCumulative compensation for unexercised SARs to be allocated to periods of service.
+bThe percentage accrued is based upon a 2-year service period (2022–2023).
+ILLUSTRATION 16A.1 Compensation Expense, Share-Appreciation Rights
+In 2022, Brazil Hotels records compensation expense of R$15,000 because 50 percent of
+the R$30,000 total compensation cost estimated at December 31, 2022, is allocable to 2022.
+In 2023, the fair value increased to R$7 per right (R$70,000 total). The company recorded
+additional compensation expense of R$55,000 (R$70,000 minus R$15,000).
+The executives held the SARs through 2024, during which time the fair value declined to
+R$5 (and the obligation to the executives equals R$50,000). Brazil Hotels recognizes the
+decrease by recording a R$20,000 credit to compensation expense and a debit to Liability
+under Share-Appreciation Plan. Note that after the service period ends, since the rights are
+still outstanding, the company adjusts the rights to market at December 31, 2024. Any such
+credit to compensation expense cannot exceed previous charges to expense attributable to
+that plan.
+As the company records the compensation expense each period, the corresponding credit is
+to a liability account, because the company will pay the share appreciation in cash. Brazil
+Hotels records compensation expense in the first year as follows.
+Compensation Expense
+Liability under Share-Appreciation Plan  
+The company would credit the liability account for R$55,000 again in 2023. In 2024, when
+it records negative compensation expense, Brazil would debit the account for R$20,000.
+The entry to record the negative compensation expense is as follows.
+Liability under Share-Appreciation Plan 20,000  
+Compensation Expense
+ 
+At December 31, 2024, the executives receive R$50,000 (which equals the market price of
+the shares less the pre-established price). Brazil would remove the liability with the
+following entry.
+
+Liability under Share-Appreciation Plan 50,000  
+Cash
+ 
+Compensation expense can increase or decrease substantially from one period to the next.
+The reason is that compensation expense is remeasured each year, which can lead to large
+swings in compensation expense.
+APPENDIX 16B 
+Comprehensive Earnings per Share Example
+LEARNING OBJECTIVE *7
+Compute earnings per share in a complex situation.
+This appendix illustrates the method of computing dilution when many securities are
+involved. In Illustration 16B.1, we present a section of the statement of financial position
+of Webster Corporation for analysis. Assumptions related to the capital structure follow the
+statement of financial position.
+
+Webster Corporation 
+Statement of Financial Position (partial) 
+At December 31, 2022
+Equity
+ 
+10% cumulative, convertible preference shares, par value $100; 100,000
+shares authorized, 25,000 shares issued and outstanding
+Share capital—ordinary, par value $1,500,000 shares authorized, 500,000
+shares issued and outstanding
+Share premium
+Retained earnings
+Total equity
+Long-term debt
+ 
+Notes payable, 14%
+Convertible bonds payable (Issue A)
+Convertible bonds payable (Issue B)
+Total long-term debt
+ 
+Notes and Assumptions 
+December 31, 2022
+1. Options were granted in July 2020 to purchase 50,000 ordinary shares at $20 per
+share. The average market price of Webster’s ordinary shares during 2022 was $30 per
+share. All options are still outstanding at the end of 2022.
+2. Both convertible bonds were issued in 2021. Each convertible bond is convertible into
+40 shares of ordinary shares. (Each bond has a face value of $1,000.) In 2022, interest
+expense of $200,000 on the liability component of convertible bonds (Issue A) is
+recorded, and interest expense of $250,000 is recorded on the liability component of
+convertible bonds (Issue B).
+3. The 10 percent cumulative, convertible preference shares were issued at the beginning
+of 2022 at par. Each preference share is convertible into four ordinary shares.
+4. The average income tax rate is 40 percent.
+5. The 500,000 ordinary shares were outstanding during the entire year.
+6. Preference dividends were not declared in 2022.
+7. Net income was $1,750,000 in 2022.
+8. No bonds or preference shares were converted during 2022.
+ILLUSTRATION 16B.1 Statement of Financial Position for Comprehensive
+Illustration
+
+The computation of basic earnings per share for 2022 starts with the amount based upon
+the weighted-average ordinary shares outstanding, as shown in Illustration 16B.2.
+Net income
+Less: 10% cumulative, convertible preference share dividend requirements
+Income applicable to ordinary shareholders
+Weighted-average ordinary shares outstanding
+Earnings per ordinary share
+ILLUSTRATION 16B.2 Computation of Earnings per Share—Simple Capital
+Structure
+Note the following points concerning this calculation.
+1. When preference shares are cumulative, the company subtracts the preference
+dividend to arrive at income applicable to ordinary shares, whether the dividend is
+declared or not.
+2. The company must compute earnings per share of $3 as a starting point because it is
+the per share amount that is subject to reduction due to the existence of convertible
+securities and options.
+Diluted Earnings Per Share
+The steps for computing diluted earnings per share are:
+1. Determine, for each dilutive security, the per share effect assuming
+exercise/conversion.
+2. Rank the results from Step 1 from smallest to largest earnings effect per share. That is,
+rank the results from most dilutive to least dilutive.
+3. Beginning with the earnings per share based upon the weighted-average of ordinary
+shares outstanding ($3), recalculate earnings per share by adding the smallest per
+share effects from Step 2. If the results from this recalculation are less than $3,
+proceed to the next smallest per share effect and recalculate earnings per share.
+Continue this process so long as each recalculated earnings per share is smaller than
+the previous amount. The process will end either because there are no more securities
+to test or a particular security maintains or increases earnings per share (is
+antidilutive).
+We’ll now apply the three steps to Webster Corporation. (Note that net income and income
+available to ordinary shareholders are not the same if preference dividends are declared or
+cumulative.) Webster Corporation has four securities that could reduce EPS: options,
+convertible bonds (Issue A), convertible bonds (Issue B), and the convertible preference
+shares.
+The first step in the computation of diluted earnings per share is to determine a per share
+effect for each potentially dilutive security. Illustrations 16B.3 through 16B.6 illustrate
+these computations.
+
+Number of shares under option
+Option price per share
+× $20
+Proceeds upon assumed exercise of options
+Average 2022 market price of ordinary shares
+Treasury shares that could be acquired with proceeds ($1,000,000 ÷ $30)
+Excess of shares under option over treasury shares that could be repurchased
+(50,000 − 33,333)
+Per share effect:
+ 
+=
+=
+$0
+ILLUSTRATION 16B.3 Per Share Effect of Options (Treasury-Share Method),
+Diluted Earnings per Share
+Interest expense on bonds (Issue A) for year
+Income tax reduction due to interest (.40 × $200,000)
+Interest expense avoided (net of tax)
+Number of ordinary shares issued assuming conversion of bonds (2,500 bonds
+× 40 shares)
+Per share effect:
+ 
+=
+=
+ILLUSTRATION 16B.4 Per Share Effect of Issue A Bonds (If-Converted
+Method), Diluted Earnings per Share
+Interest expense on bonds (Issue B) for year
+Income tax reduction due to interest (.40 × $250,000)
+Interest expense avoided (net of tax)
+Number of ordinary shares issued assuming conversion of bonds (2,500 bonds
+× 40 shares)
+Per share effect:
+ 
+=
+=
+ILLUSTRATION 16B.5 Per Share Effect of Issue B Bonds (If-Converted
+Method), Diluted Earnings per Share
+Incremental Numerator Effect
+Incremental Denominator Effect
+None
+16, 667 shares
+Incremental Numerator Effect
+Incremental Denominator Effect
+100, 000 shares
+Incremental Numerator Effect
+Incremental Denominator Effect
+100, 000 shares
+
+Dividend requirement on cumulative preference share (25,000 shares × $10)
+Income tax effect (dividends not a tax deduction)
+none
+Dividend requirement avoided
+Number of ordinary shares issued assuming conversion of preference shares (4
+× 25,000 shares)
+Per share effect:
+ 
+=
+=
+ILLUSTRATION 16B.6 Per Share Effect of 10% Convertible Preference Shares
+(If-Converted Method), Diluted Earnings per Share
+Illustration 16B.7 shows the ranking of all four potentially dilutive securities.
+ 
+Effect per Share
+1. Options
+2. Convertible bonds (Issue A)
+3. Convertible bonds (Issue B)
+4. 10% convertible preference
+ILLUSTRATION 16B.7 Ranking of Per Share Effects (Smallest to Largest),
+Diluted Earnings per Share
+The next step is to determine earnings per share giving effect to the ranking in Illustration
+16B.7. Starting with the earnings per share of $3 computed previously, add the incremental
+effects of the options to the original calculation, as shown in Illustration 16B.8.
+Options
+Income applicable to ordinary shareholders
+Add: Incremental numerator effect of options
+none
+Total
+Weighted-average ordinary shares outstanding
+Add: Incremental denominator effect of options (Illustration 16B.3)
+Total
+Recomputed earnings per share ($1,500,000 ÷ 516,667 shares)
+ILLUSTRATION 16B.8 Recomputation of EPS Using Incremental Effect of
+Options
+Since the recomputed earnings per share is reduced (from $3 to $2.90), the effect of the
+options is dilutive. Again, we could have anticipated this effect because the average market
+price ($30) exceeded the option price ($20).
+Assuming that Webster converts the bonds (Issue A), recomputed earnings per share is as
+shown in Illustration 16B.9.
+Incremental Numerator Effect
+Incremental Denominator Effect
+100, 000 shares
+
+Convertible Bonds (Issue A)
+Numerator from previous calculation
+Add: Interest expense avoided (net of tax)
+Total
+Denominator from previous calculation (shares)
+Add: Number of ordinary shares assumed issued upon conversion of bonds
+Total
+Recomputed earnings per share ($1,620,000 ÷ 616,667 shares)
+ILLUSTRATION 16B.9 Recomputation of EPS Using Incremental Effect of
+Convertible Bonds (Issue A)
+Since the recomputed earnings per share is reduced (from $2.90 to $2.63), the effect of the
+bonds (Issue A) is dilutive.
+Next, assuming Webster converts the bonds (Issue B), the company recomputes earnings
+per share as shown in Illustration 16B.10.
+Convertible Bonds (Issue B)
+Numerator from previous calculation
+Add: Interest expense avoided (net of tax)
+Total
+Denominator from previous calculation (shares)
+Add: Number of ordinary shares assumed issued upon conversion of bonds
+Total
+Recomputed earnings per share ($1,770,000 ÷ 716,667 shares)
+ILLUSTRATION 16B.10 Recomputation of EPS Using Incremental Effect of
+Convertible Bonds (Issue B)
+Since the recomputed earnings per share is reduced (from $2.63 to $2.47), the effect of the
+convertible bonds (Issue B) is dilutive.
+The final step is the recomputation that includes the 10 percent preference shares. This is
+shown in Illustration 16B.11.
+
+10% Convertible Preference
+Numerator from previous calculation
+Add: Dividend requirement avoided
+Total
+Denominator from previous calculation (shares)
+Add: Number of ordinary shares assumed issued upon conversion of
+preference shares
+Total
+Recomputed earnings per share ($2,020,000 ÷ 816,667 shares)
+ILLUSTRATION 16B.11 Recomputation of EPS Using Incremental Effect of
+10% Convertible Preference Shares
+Since the recomputed earnings per share is not reduced, the effect of the 10 percent
+convertible preference shares are not dilutive. Diluted earnings per share is $2.47. The per
+share effects of the preference shares are not used in the computation.
+Finally, Illustration 16B.12 shows Webster Corporation’s disclosure of earnings per share
+on its income statement.
+Net income
+Basic earnings per ordinary share (Note X)
+Diluted earnings per ordinary share
+ILLUSTRATION 16B.12 Income Statement Presentation, EPS
+A company uses income from continuing operations (adjusted for preference dividends) to
+determine whether potential ordinary shares are dilutive or antidilutive. Some refer to this
+measure as the control number. To illustrate, assume that Barton Company provides the
+information as shown in Illustration 16B.13.
+Income from continuing operations
+Loss from discontinued operations
+Net loss
+Weighted-average ordinary shares outstanding
+Potential ordinary shares
+ILLUSTRATION 16B.13 Barton Company Data
+Barton reports basic and dilutive earnings per share as shown in Illustration 16B.14.
+
+Basic earnings per share
+ 
+Income from continuing operations $2.40
+Loss from discontinued operations
+Net loss
+Diluted earnings per share
+ 
+Income from continuing operations $2.00
+Loss from discontinued operations
+Net loss
+ILLUSTRATION 16B.14 Basic and Diluted EPS
+As this shows, basic earnings per share from continuing operations is higher than the
+diluted earnings per share from continuing operations. The reason: The diluted earnings
+per share from continuing operations includes an additional 200,000 shares of potential
+ordinary shares in its denominator.21
+Companies use income from continuing operations as the control number because many of
+them show income from continuing operations (or a similar line item above net income if it
+appears on the income statement), but report a final net loss due to a loss on discontinued
+operations. If a company uses final net loss as the control number, basic and diluted
+earnings per share would be the same because the potential ordinary shares are
+antidilutive.22
+Review and Practice
+Key Terms Review
+antidilutive securities
+basic earnings per share (EPS)
+complex capital structure
+compound instrument
+contingently issuable ordinary shares
+*control number
+convertible bonds
+convertible preference shares
+diluted earnings per share (EPS)
+dilutive securities
+earnings per share
+fair value method
+grant date
+if-converted method
+
+income available to ordinary shareholders
+induce conversion
+intrinsic-value method
+market condition
+*percentage approach
+restricted-share plans
+service condition
+service period
+*share appreciation
+*share-appreciation rights (SARs)
+share-based compensation plans
+share option
+share right
+share warrant
+simple capital structure
+treasury-share method
+warrants
+weighted-average ordinary shares outstanding
+“with-and-without” method
+Learning Objectives Review
+1 Describe the accounting for the issuance, conversion, and retirement of
+convertible securities.
+Convertible debt is accounted for as a compound instrument because it contains both a
+liability and an equity component. IFRS requires that compound instruments be separated
+into their liability and equity components for purposes of accounting. Companies use the
+with-and-without method to value compound instruments. If companies convert bonds into
+other securities, the principal accounting problem is to determine the amount at which to
+record the securities exchanged for the bonds; the book value method is considered IFRS.
+The retirement of convertible debt is considered a debt extinguishment, and the difference
+between the carrying amount of the retired convertible debt and the cash paid should result
+in a gain or loss.
+When convertible preference shares are converted, a company uses the book value
+approach. It debits Share Capital—Preference, along with the related Share Premium—
+Conversion Equity, and credits Share Capital—Ordinary and Share Premium—Ordinary (if
+any excess exists).
+
+2 Describe the accounting for share warrants and for share warrants issued
+with other securities.
+Share warrants: Companies should allocate the proceeds from the sale of debt with
+warrants between the two securities using the with-and-without method. Share rights: No
+entry is required when a company issues rights to existing shareholders. The company
+needs only to make a memorandum entry to indicate the number of rights issued to
+existing shareholders and to ensure that the company has additional unissued shares
+registered for issuance in case the shareholders exercise the rights.
+3 Describe the accounting and reporting for share compensation plans.
+Companies must use the fair value approach to account for share-based compensation.
+Under this approach, a company computes total compensation expense based on the fair
+value of the options that it expects to vest on the grant date. Companies recognize
+compensation expense in the periods in which the employee performs the services.
+Restricted-share plans follow the same general accounting principles as those for share
+options. Companies estimate total compensation cost at the grant date based on the fair
+value of the restricted shares; they expense that cost over the service period.
+When first proposed, there was considerable opposition to the recognition provisions
+contained in the fair value approach. The reason: That approach could result in substantial,
+previously unrecognized compensation expense. Many small companies believed that the
+standard would place them at a competitive disadvantage with larger companies that can
+withstand higher compensation charges. Offsetting such opposition is the need for greater
+transparency in financial reporting, on which our capital markets depend.
+4 Compute basic earnings per share.
+When a company has both ordinary and preference shares outstanding, it subtracts the
+current-year preference shares dividend from net income to arrive at income available to
+ordinary shareholders. The formula for computing earnings per share is net income less
+preference share dividends, divided by the weighted-average ordinary shares outstanding.
+5 Compute diluted earnings per share.
+A complex capital structure requires a dual presentation of earnings per share, each with
+equal prominence on the face of the income statement. These two presentations are
+referred to as basic earnings per share and diluted earnings per share. Basic earnings per
+share relies on the number of weighted-average ordinary shares outstanding (i.e.,
+equivalent to EPS for a simple capital structure). Diluted earnings per share indicates the
+dilution of earnings per share that will occur if all potential issuances of ordinary shares
+that would reduce earnings per share takes place. Companies with complex capital
+structures should exclude antidilutive securities when computing earnings per share.
+*6 Explain the accounting for share-appreciation rights plans.
+
+The accounting for share-appreciation rights depends on whether the rights are classified as
+equity- or liability-based. If equity-based, the accounting is similar to that used for share
+options. If liability-based, companies remeasure compensation expense each period and
+allocate it over the service period using the percentage approach.
+*7 Compute earnings per share in a complex situation.
+For diluted EPS, make the following computations. (1) For each potentially dilutive
+security, determine the per share effect assuming exercise/conversion. (2) Rank the results
+from most dilutive to least dilutive. (3) Recalculate EPS starting with the most dilutive and
+continue adding securities until EPS does not change or becomes larger.
+Enhanced Review and Practice
+Go online for multiple-choice questions with solutions, review exercises with
+solutions, and a full glossary of all key terms.
+Practice Problem
+On January 1, 2023, Scutaro Company issued 10-year, $200,000 face value, 6% bonds at
+par (payable annually on January 1). Each $1,000 bond is convertible into 30 shares of
+Scutaro $2 par value ordinary shares. The company has had 10,000 ordinary shares (and
+no preference shares) outstanding throughout its life. None of the bonds have been
+converted as of the end of 2024.
+Scutaro also adopted a share-option plan that granted options to key executives to
+purchase 4,000 shares of the company’s ordinary shares. The options were granted on
+January 2, 2023, and were exercisable 2 years after the date of grant if the grantee was
+still an employee of the company (the service period is 2 years). The options expire 6
+years from the date of grant. The option price was set at $4, and the fair value option-
+pricing model determines the total compensation expense to be $18,000. All of the
+options were exercised during the year 2025: 3,000 on January 3 when the market price
+was $6, and 1,000 on May 1 when the market price was $7 a share. (Ignore all tax effects.)
+Instructions
+a. Prepare the journal entry Scutaro would have made on January 1, 2023, to record the
+issuance of the bonds. The fair value of the debt without a conversion option (with
+an 8% effective rate) is $173,159.
+b. Prepare the journal entry to record interest expense and compensation expense in
+c. Scutaro’s net income was $30,000 in 2024, and $27,000 in 2023. Compute basic and
+diluted earnings per share for Scutaro for 2024 and 2023. Scutaro’s average share
+price was $4.40 in 2023 and $5 in 2024.
+d. Assume that 75 percent of the holders of Scutaro’s convertible bonds convert their
+bonds to shares on January 1, 2025, when Scutaro’s shares are trading at $8 per
+
+share. Scutaro pays $2 per bond to induce bondholders to convert. Prepare the
+journal entry to record the conversion.
+Solution
+a. Under IFRS, proceeds from the issuance of convertible debt are recorded partly as debt
+and partly as equity.
+Cash
+Bonds Payable
+ 
+Share Premium—Conversion Equity  
+b. 
+December 31, 2024
+Interest Expense
+Interest Payable
+ 
+Bonds Payable
+ 
+2,001*
+Compensation Expense
+Share premium—Share Options
+ 
+[To record compensation expense for 2024 (½ × $18,000)]  
+ 
+*Partial Amortization Schedule
+Date Cash Paid Interest Expense (8%) Amortization Carrying Value
+1/1/23
+—
+—
+ 
+1/1/24
+1/1/25
+c. 
+Basic EPS
+Net income (a)
+Outstanding shares (b)
+Basic EPS (a ÷ b)
+Diluted EPS
+Net income
+Add: Interest savings (see Partial Amortization Schedule above)
+Adjusted net income (a)
+Outstanding shares
+Shares upon conversion (200 × 30)
+Options (treasury-share method)
+800*
+364*
+Total shares for diluted EPS (b)
+Diluted EPS (a ÷ b)
+*Treasury-share method:
+ 
+
+Cash proceeds
+($4 × 4,000) $16,000  
+Shares repurchased ($16,000 ÷ $5)
+3,200 ($16,000 ÷ $4.40)
+Net shares issued
+(4,000 − 3,200)
+(4,000 − 3,636)
+d. 
+Bond Conversion Expense*
+Bonds Payable (.75 × $177,013)
+Share Premium—Conversion Equity ($26,841 × .75)
+Share Capital—Ordinary**
+ 
+Share Premium—Ordinary**
+ 
+Cash
+ 
+*150 bonds × $2 per bond = $300 bond conversion expense
+**$200,000 × .75 = $150,000 of bonds converted
+$150,000 ÷ $1,000 per bond = 150 bonds
+150 bonds × 30 shares per bond = 4,500 new shares issued
+4,500 shares × $2 par value = $9,000 increase in share account
+[($132,760 + $20,131) − $9,000] = $143,891 increase in share premium account
+Exercises, Problems, Problem Solution Walkthrough Videos, Data Analytics Activities,
+and many more assessment tools and resources are available for practice in Wiley’s
+online courseware.
+Note: All asterisked Questions, Exercises, and Problems relate to material in the appendices
+to the chapter.
+Questions
+1. What is meant by a dilutive security?
+2. Briefly explain why companies issue convertible securities.
+3. Discuss the similarities between convertible debt and debt issued with share warrants.
+4. Bridgewater SA offered holders of its 1,000 convertible bonds a premium of €160 per
+bond to induce conversion into ordinary shares. Upon conversion of all the bonds,
+Bridgewater SA recorded the €160,000 premium as a reduction of Share Premium—
+Ordinary. Comment on Bridgewater’s treatment of the €160,000 “sweetener.”
+5. Explain how the conversion feature of convertible debt has a value (a) to the issuer and
+6. What are the arguments for giving separate accounting recognition to the conversion
+feature of a convertible bond?
+7. Four years after issue, debentures with a face value of £1,000,000 and book value of
+£960,000 are tendered for conversion into 80,000 ordinary shares immediately after an
+interest payment date. At that time, the market price of the debentures is 104, and the
+ordinary shares are selling at £14 per share (par value £10). The company records the
+conversion as follows.
+
+Bonds Payable
+Share Premium—Conversion Equity  
+Share Capital—Ordinary
+ 
+Share Premium—Ordinary
+ 
+Discuss the propriety of this accounting treatment.
+8. On July 1, 2022, Roberts AG issued €3,000,000 of 9% bonds payable in 20 years. The
+bonds include warrants giving the bondholder the right to purchase for €30 one ordinary
+share of €1 par value at any time during the next 10 years. The bonds were sold for
+€3,000,000. The net present value of the debt at the time of issuance was €2,900,000.
+Prepare the journal entry to record this transaction.
+9. What are share rights? How does the issuing company account for them?
+10. Briefly explain the accounting requirements for share compensation plans under IFRS.
+11. Cordero Corporation has an employee share-purchase plan which permits all full-time
+employees to purchase 10 ordinary shares on the third anniversary of their employment
+and an additional 15 shares on each subsequent anniversary date. The purchase price is set
+at the market price on the date purchased less a 10% discount. How is this discount
+accounted for by Cordero?
+12. What date or event does the profession believe should be used in determining the value
+of a share compensation plan? What arguments support this position?
+13. Over what period of time should compensation cost for a share-option plan be
+allocated?
+14. How is compensation expense for a share-option plan computed using the fair value
+approach?
+15. What are the advantages of using restricted shares to compensate employees?
+16. At December 31, 2022, Ruiz SA had 600,000 ordinary shares issued and outstanding,
+400,000 of which had been issued and outstanding throughout the year and 200,000 of
+which were issued on October 1, 2022. Net income for 2022 was R$1,750,000, and
+dividends declared on preference shares were R$400,000. Compute Ruiz’s earnings per
+ordinary share.
+17. What effect do share dividends or share splits have on the computation of the weighted-
+average ordinary shares outstanding?
+18. Define the following terms.
+a. Basic earnings per share.
+b. Potentially dilutive security.
+c. Diluted earnings per share.
+d. Complex capital structure.
+e. Potential ordinary shares.
+
+19. What are the computational guidelines for determining whether a convertible security
+is to be reported as part of diluted earnings per share?
+20. Discuss why options and warrants may be considered potentially dilutive ordinary
+shares for the computation of diluted earnings per share.
+21. Explain how convertible securities are determined to be potentially dilutive ordinary
+shares and how those convertible securities that are not considered to be potentially
+dilutive ordinary shares enter into the determination of earnings per share data.
+22. Explain the treasury-share method as it applies to options and warrants in computing
+dilutive earnings per share data.
+23. Earnings per share can affect market prices of ordinary shares. Can market prices affect
+earnings per share? Explain.
+24. What is meant by the term antidilution? Give an example.
+25. What type of earnings per share presentation is required in a complex capital structure?
+*26. How is antidilution determined when multiple securities are involved?
+Brief Exercises
+LEARNING OBJECTIVE 8
+Compare the accounting for dilutive securities and earnings per share under IFRS and
+U.S. GAAP.
+Both the FASB and the IASB are working on a standard related to the distinction between
+liabilities and equity. The U.S. GAAP approach to account for certain dilutive securities,
+such as convertible debt and debt issued with share warrants, is different from that of IFRS.
+The accounting and disclosure requirements for accounting for share options and EPS
+computations are similar between U.S. GAAP and IFRS.
+Relevant Facts
+Similarities
+U.S. GAAP and IFRS follow the same model for recognizing share-based compensation:
+The fair value of shares and options awarded to employees is recognized over the
+period to which the employees’ services relate.
+Although the calculation of basic and diluted earnings per share is similar between U.S.
+GAAP and IFRS, the Boards are working to resolve the few minor differences in EPS
+reporting. One proposal in the FASB project concerns contracts that can be settled in
+either cash or shares. IFRS requires that share settlement must be used, while U.S.
+GAAP gives companies a choice. The FASB project proposes adopting the IFRS
+approach, thus converging U.S. GAAP and IFRS in this regard.
+Differences
+A significant difference between U.S. GAAP and IFRS is the accounting for securities
+with characteristics of debt and equity, such as convertible debt. Under U.S. GAAP, all
+of the proceeds of convertible debt are recorded as long-term debt. Under IFRS,
+convertible bonds are “bifurcated”—separated into the equity component (the value of
+the conversion option) of the bond issue and the debt component.
+Related to employee share-purchase plans, these plans under U.S. GAAP are often
+considered non-compensatory, and therefore no compensation is recorded. However,
+certain conditions must exist before a plan can be considered non-compensatory (see
+the discussion below in the About the Numbers section for U.S. GAAP treatment).
+Under IFRS, all employee share-purchase plans are deemed to be compensatory; that
+is, compensation expense is recorded for the amount of the discount.
+Modification of a share option results in the recognition of any incremental fair value
+under both U.S. GAAP and IFRS. However, if the modification leads to a reduction, U.S.
+GAAP permits the reduction. IFRS does not.
+
+Other EPS differences relate to (1) the treasury-share method and how the proceeds
+from extinguishment of a liability should be accounted for, and (2) how to compute the
+weighted average of contingently issuable shares.
+About the Numbers
+Accounting for Convertible Bonds
+As indicated, a significant difference in U.S. GAAP and IFRS is the accounting for
+convertible debt. To illustrate, assume PepsiCo (USA) issued, at par, $10 million of 10-year
+convertible bonds with a coupon rate of 4.75%. Assuming the conversion is settled in
+shares, PepsiCo makes the following entry to record the issuance under U.S. GAAP.
+Cash
+Bonds Payable  
+Under IFRS, PepsiCo must split out the liability and equity component—the value of the
+conversion option—of the bond issue.
+Thus, IFRS records separately the bond issue’s debt and equity components. Many believe
+this provides a more faithful representation of the impact of the bond issue. However, there
+are concerns about reliability of the method used to estimate the liability component of the
+bond.
+Employee Stock-Purchase Plans Under U.S. GAAP
+Employee stock-purchase plans (ESPPs) generally permit all employees to purchase shares
+at a discounted price for a short period of time. The company often uses such plans to
+secure equity capital or to induce widespread ownership of its common stock (ordinary
+shares) among employees. Under U.S. GAAP, these plans are considered compensatory
+unless they satisfy all three conditions presented below.
+1. Substantially all full-time employees may participate on an equitable basis.
+2. The discount relative to the market price is small. That is, the discount does not exceed
+the per share amount of costs avoided by not having to raise cash in a public offering. If
+the amount of the discount is 5% or less, no compensation needs to be recorded.
+3. The plan offers no substantive option feature.
+For example, Masthead Company’s stock-purchase plan allowed employees who met
+minimal employment qualifications to purchase its shares at a 5% reduction from market
+price for a short period of time. The reduction from market price is not considered
+compensatory. Why? Because the per share amount of the costs avoided by not having to
+raise the cash in a public offering equals 5%. Companies that offer their employees a
+compensatory ESPP should record the compensation expense over the service life of the
+employees.
+It is difficult for some companies to claim that their ESPPs are non-compensatory (and
+therefore not record compensation expense) unless they change their discount policy,
+which in the past often was 15%. If they change their discount policy to 5%, participation in
+these plans will undoubtedly be lower. As a result, it is likely that some U.S. companies will
+end up dropping these plans.
+
+On the Horizon
+The FASB has been working on a standard that will likely converge with IFRS standards in
+the accounting for convertible debt. Similar to the IASB, the FASB is examining the
+classification of hybrid securities; the IASB is seeking comment on a discussion document
+similar to the FASB Preliminary Views document, “Financial Instruments with
+Characteristics of Equity.” It is hoped that the Boards will develop a converged standard in
+this area. While U.S. GAAP and IFRS are similar as to the presentation of EPS, the Boards
+have been considering a project to resolve remaining differences related to earnings per
+share computations.
+GAAP Self-Test Questions
+1. All of the following are key similarities between U.S. GAAP and IFRS with respect to
+accounting for dilutive securities and EPS except:
+a. the model for recognizing share-based compensation.
+b. the calculation of basic and diluted EPS.
+c. the accounting for convertible debt.
+d. the accounting for modifications of share option, when the value increases.
+2. Which of the following statements is correct?
+a. IFRS separates the proceeds of a convertible bond between debt and equity by
+determining the fair value of the debt component before the equity component.
+b. When there is a choice of settlement of an option for cash or shares, share settlement
+is assumed by both IFRS and U.S. GAAP.
+c. IFRS separates the proceeds of a convertible bond between debt and equity, based on
+relative fair values.
+d. Both U.S. GAAP and IFRS separate the proceeds of convertible bonds between debt and
+equity.
+3. Under IFRS, convertible bonds:
+a. are separated into the bond component and the expense component.
+b. are separated into debt and equity components.
+c. are separated into their components based on relative fair values.
+d. All of the above.
+4. Mae Jong Corp. issues $1,000,000 of 10% bonds payable, which may be converted into
+10,000 shares of $2 par value ordinary shares. The market rate of interest on similar bonds
+is 12%. Interest is payable annually on December 31, and the bonds were issued for total
+proceeds of $1,000,000. Under U.S. GAAP, in accounting for these bonds, Mae Jong Corp.
+will:
+a. first assign a value to the equity component, then determine the liability component.
+
+b. assign no value to the equity component since the conversion privilege is not separable
+from the bond.
+c. first assign a value to the liability component based on the face amount of the bond.
+d. use the “with-and-without” method to value the compound instrument.
+5. Anazazi Co. offers all its 10,000 employees the opportunity to participate in an employee
+share-purchase plan. Under the terms of the plan, the employees are entitled to purchase
+100 ordinary shares (par value $1 per share) at a 3% discount. The purchase price must be
+paid immediately upon acceptance of the offer. There is no option feature in the plan. In
+total, 8,500 employees accept the offer, and each employee purchases on average 80 shares
+at $26.68 per share (market price $27.50). Under U.S. GAAP, Anazazi Co. will record:
+a. no compensation since the plan is used to raise capital, not compensate employees.
+b. compensation expense of $850,000.
+c. compensation expense of $22,678,000.
+d. compensation expense of $697,000.
+GAAP Concepts and Application
+GAAP16.1 Briefly describe some of the similarities and differences between U.S. GAAP and
+IFRS with respect to the accounting for share-based compensation.
+GAAP16.2 Norman SA., a fast-growing golf equipment company, uses IFRS. It is
+considering the issuance of convertible bonds. The bonds mature in 10 years, have a face
+value of €400,000, and pay interest annually at a rate of 4%. The net present value of the
+liability component is €365,000. Greg Shark is curious as to the difference in accounting for
+these bonds if the company were to use U.S. GAAP. (a) Prepare the entry to record the
+issuance of the bonds at par under IFRS. (b) Repeat the requirement for part (a), assuming
+application of U.S. GAAP to the bond issuance. (c) Which approach provides the better
+accounting? Explain.
+GAAP16.3 Drug company Sepracor, Inc., (USA) reported the following information in a
+recent annual report (amounts in thousands). The company prepares its financial
+statements in accordance with U.S. GAAP.
+Current liabilities
+Convertible subordinated debt
+Total liabilities
+Stockholders’ equity
+Net income
+Analysts attempting to compare Sepracor to international drug companies may face a
+challenge due to differences in accounting for convertible debt under IFRS. Under IAS 32,
+“Financial Instruments,” convertible bonds, at issuance, must be classified separately into
+their debt and equity components based on estimated fair value.
+Instructions
+
+a. Compute the following ratios for Sepracor, Inc. (Assume that year-end balances
+approximate annual averages.)
+1. Return on assets.
+2. Return on shareholders’ equity.
+3. Debt to assets ratio.
+b. Briefly discuss the operating performance and financial position of Sepracor. Industry
+averages for these ratios were ROA 3.5%, return on equity 16%, and debt to assets 75%.
+Based on this analysis, would you make an investment in the company’s 5% convertible
+bonds? Explain.
+c. Assume you want to compare Sepracor to a company like Bayer (DEU), which
+prepares its financial statements in accordance with IFRS. Assuming that the fair value
+of the liability component of Sepracor’s convertible bonds is $398,020, how would you
+adjust the analysis above to make valid comparisons between Sepracor and Bayer?
+Answers to GAAP Self-Test Questions
+1. c 2. a 3. b 4. b 5. a
+Notes
+1 Presently, the IASB is working to develop a standard that will improve the financial
+reporting requirements for financial instruments with characteristics of debt and equity.
+It recognizes that the line between debt and equity is sometimes blurred and therefore
+classification of these instruments is inconsistent. At this point, the Board has focused
+on identification of a presentation that would help address challenges in practice in
+classifying financial instruments that will or may be settled in the issuer’s own equity
+instruments. In particular, the Board explored potential clarifications to the underlying
+principle for classifying derivatives in the issuer’s own equity. See the IFRS website for
+more information.
+2 As with any investment, a buyer has to be careful. For example, Wherehouse
+Entertainment Inc. (USA), which had 6¼ percent convertibles outstanding, was taken
+private in a leveraged buyout. As a result, the convertible was suddenly as risky as a junk
+bond of a highly leveraged company with a coupon of only 6¼ percent. As one holder of
+the convertibles noted, “What’s even worse is that the company will be so loaded down
+with debt that it probably won’t have enough cash flow to make its interest payments.
+And the convertible debt we hold is subordinated to the rest of Wherehouse’s debt.”
+These types of situations have made convertibles less attractive and have led to the
+introduction of takeover protection covenants in some convertible bond offerings.
+Further, sometimes convertibles are permitted to be called at par, and therefore the
+conversion premium may be lost.
+3 Transaction costs related to the liability and equity components are allocated in
+proportion to the proceeds received from the two components. For purposes of
+homework, use the Share Premium—Conversion Equity account to record the equity
+component. In practice, there may be considerable variance in the accounts used to
+record this component.
+
+4 From the illustration, it is apparent that buying warrants can be an “all or nothing”
+proposition.
+5 These factors include the volatility of the underlying shares, the expected life of the
+options, the risk-free rate during the option life, and the expected dividends during the
+option life.
+6 “To vest” means “to earn the rights to.” An employee’s award becomes vested at the date
+that the employee’s right to receive or retain shares or cash under the award is no longer
+contingent on remaining in the service of the employer.
+7 Companies sometimes modify the terms and conditions on which the share options were
+granted, to reward outstanding performance or provide a morale boost for some or all
+employees. Modifications may reduce the exercise period, extend the term of the options,
+or increase the number of shares issuable upon exercise. Modifications to share-based
+arrangements that decrease the fair value of the grant are basically ignored. However, if
+the fair value of the grant increases due to a modification, then the incremental fair
+value of the modified grant should be accounted for as additional compensation expense
+over the remaining vesting period.
+8 Most companies base vesting on future service for a period of generally three to five
+years. Vesting may also be conditioned on some performance target such as revenue, net
+income, cash flows, or some combination of these three factors. The employee also
+collects dividends on the restricted shares. These dividends generally must be repaid if
+forfeiture occurs.
+9 There are numerous variations on restricted-share plans, including restricted-share units
+(for which the shares are issued at the end of the vesting period) and restricted-share
+plans with performance targets, such as EPS or share price growth.
+10 As indicated, employee share-purchase plans offer company shares to workers through
+payroll deduction, often at significant discounts. Unfortunately, many employees do not
+avail themselves of this benefit. Hopefully, if you have the opportunity to purchase your
+company’s shares at a significant discount, you will take advantage of the plan. By not
+participating, you are “leaving money on the table.”
+11 In general, a non-public enterprise is an enterprise whose debt or equity securities are
+not traded in a public market on a foreign or domestic securities exchange or in the over-
+the-counter market (including securities quoted locally or regionally). An enterprise is
+not considered a non-public enterprise when its financial statements are issued in
+preparation for the sale of any class of securities in a public market.
+12 A potential ordinary share is a financial instrument or other contract that may entitle its
+holder to ordinary shares. Examples of potential ordinary shares are (1) convertible debt
+and convertible preference shares that are convertible into ordinary shares, (2) options
+and warrants, and (3) shares that would be issued upon the satisfaction of conditions
+resulting from contractual arrangements, such as the purchase of a business or other
+assets. These concepts are discussed later in this chapter.
+13 Recall that an ordinary share is an equity instrument that is subordinate to all other
+classes of equity instruments. In addition, we assume that ordinary shares relate only to
+
+the controlling interest. As a result, the earnings per share computation does not include
+earnings related to the non-controlling interest.
+14 Issuance of these types of securities is typical in mergers and compensation plans.
+15 As indicated earlier, a convertible bond is a compound instrument that has both a
+liability and an equity component. As a result, the interest expense reported on the
+income statement will not equal the interest paid in cash during the period. The interest
+adjustment in the numerator is based on interest expense reported on the income
+statement. That is, interest expense, net of tax, is added back to net income.
+16 Conversion of bonds is dilutive because EPS with conversion (£1.97) is less than basic
+EPS (£2.10). See Appendix 16B for a comprehensive evaluation of antidilution with
+multiple securities.
+17 The incremental number of shares may be more simply computed:
+× Number of options = Number of shares
+× 1,500 options = 600 shares
+18 Options and warrants have essentially the same assumptions and computational
+problems, although warrants may allow or require the tendering of some other security,
+such as debt, in lieu of cash upon exercise. This subject is beyond the scope of this text.
+19 In addition to contingent issuances of shares, other situations that might lead to dilution
+are the issuance of both participating securities and two-class ordinary shares. The
+reporting of these types of securities in EPS computations is beyond the scope of this
+text.
+20 Some SARs can be settled in shares or cash. When a SAR can be settled in shares or cash
+at the issuer’s option, the SAR is always considered to be settled in shares. [13]
+21 A company that does not report a discontinued operation uses net income as the control
+number.
+22 If a company reports a loss from continuing operations, basic and diluted earnings per
+share will be the same because potential ordinary shares will be antidilutive even if the
+company reports final net income. The IASB believes that comparability of EPS
+information will be improved by using income from continuing operations as the control
+number.
+Sources: Louis Lavelle, “Kicking the Stock-Options Habit,” Businessweek Online (February 16, 2005); “Stock
+Compensation: 2018 Assumptions and Disclosure Study,” PricewaterhouseCoopers (August 2018); and A. Ludwig, “CEO
+Pay Trends Around the Globe,” corpgov.law.harvard.edu/contributor/andrew-ludwig/ (February 3, 2019).
+Market price  − Option price
+Market price
+€50 −€30

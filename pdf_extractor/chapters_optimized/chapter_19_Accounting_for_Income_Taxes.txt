@@ -1,0 +1,2571 @@
+CHAPTER 19
+Accounting for Income Taxes
+LEARNING OBJECTIVES
+After studying this chapter, you should be able to:
+1. Describe the fundamentals of accounting for income taxes.
+2. Identify additional issues in accounting for income taxes.
+3. Explain the accounting for loss carryforwards.
+4. Describe the presentation of deferred income taxes in financial
+statements.
+
+This chapter also includes numerous conceptual discussions
+that are integral to the topics presented here.
+PREVIEW OF CHAPTER 19
+As the following opening story indicates, companies spend a
+considerable amount of time and effort to minimize their income tax
+payments. And with good reason, as income taxes are a major cost of
+doing business for most companies. Yet, at the same time, companies
+must present financial information to the investment community that
+provides a clear picture of present and potential tax obligations and tax
+benefits. In this chapter, we discuss the basic guidelines that
+companies must follow in reporting income taxes. The content and
+organization of the chapter are as follows.
+Safe (Tax) Haven?
+One set of costs that companies manage are those related to taxes. In
+today’s competitive markets, managers are expected to look for loopholes
+in the tax law that a company can exploit to pay less tax to various tax
+authorities. By paying less in taxes, companies have more cash available to
+fund operations, finance expansion, and create new jobs. What happens,
+though, when companies push the tax-saving envelope? Well, they may
+face a tax audit, the results of which could hurt their financial statements.
+Amazon.com (USA) is a notable example of a company that maneuvered
+to reduce its taxable income. It managed its tax costs down by locating part
+of its business in Ireland in a legal structure that paid zero taxes, while
+operating its retail business in another structure. Amazon Europe
+Holding Technologies SCS (AEHT), a Luxembourg legal entity, held
+the legal right to use Amazon’s intellectual property outside of the United
+
+States. The bulk of Amazon’s European business was conducted by
+Amazon EU Sarl. While these businesses were profitable, Amazon EU
+Sarl paid a royalty to AEHT that resulted in Amazon EU Sarl paying very
+little in income taxes. The net result of this structure was that Amazon paid
+only €3.06 billion in taxes over the past decade despite having earned
+€815.22 billion in revenue and €24.10 billion in profits.
+Regulators have been increasing their scrutiny of tax-evasion transactions
+that do not serve a legitimate business purpose. In the case of Amazon, in
+2017 the European Commission ordered Luxembourg to recoup €250
+million in taxes that it says the country should have charged Amazon. The
+finding against Amazon follows a similar finding against Apple Inc.
+(USA), in which the European Commission ordered Apple to paid €13
+billion in back taxes related to its structure in Ireland. A recent report from
+Fair Tax Mark, a tax fairness group, indicates that a group of firms referred
+to as the “Silicon Six” (Facebook, Apple, Amazon, Netflix, Google, and
+Microsoft) avoided paying over €90 billion in taxes through various
+aggressive tax structures over the last decade.
+The G20, a group of finance ministers and central bank governors from 20
+major economies (19 countries plus the European Union), has been at the
+forefront of efforts to establish a more effective, efficient, and fair
+international tax system. Here are some key elements identified by this
+group for implementation.
+1. In an increasingly borderless world, strengthening international
+cooperation in tax matters is essential to ensuring the integrity of
+national tax systems and maintaining trust in governments.
+2. The development of a new global tax standard with automatic
+exchange of information. Recent developments involving
+undisclosed foreign bank accounts have highlighted the urgent need to
+move to this new standard. The Global Forum (an international body
+for ensuring the implementation of the internationally agreed-upon
+standards of transparency and exchange of information on request in
+the tax area) will establish a mechanism to monitor and review the
+effective implementation of the new tax standard.
+3. International collective efforts to address the tax base erosion
+resulting from international tax planning. Base erosion and
+profit shifting (BEPS) relate chiefly to instances where the interaction
+of different tax rules result in tax planning that may be used by
+
+multinational enterprises to artificially shift profits out of the
+countries where they are earned, resulting in very low taxes or even no
+taxes. If left unchecked, these practices undermine the fairness and
+integrity of our tax systems. They fundamentally distort competition
+because businesses that engage in cross-border BEPS strategies gain a
+competitive advantage over enterprises that operate mostly at the
+domestic level. Fair, transparent, and efficient tax systems are not only
+key pillars for sound public finances but also provide a sustainable
+framework for dynamic economies.
+4. Encouraging countries to examine how their domestic tax
+laws contribute to BEPS. Such efforts help ensure that
+international and domestic tax rules do not allow or encourage
+multinational enterprises to reduce overall taxes paid by artificially
+shifting profits to low-tax jurisdictions. International tax rules, which
+date back to the 1920s, have not kept pace with the changing business
+environment, including the growing importance of intangibles and the
+digital economy.
+Hopefully, through the efforts of these organizations and others, a more
+balanced and fair international tax system will emerge.
+Review and Practice
+Go to the Review and Practice section at the end of the chapter for a
+targeted summary review and practice problem with solution. Multiple-
+choice questions with annotated solutions, as well as additional
+exercises and practice problem with solutions, are also available online.
+Fundamentals of Accounting for Income Taxes
+LEARNING OBJECTIVE 1
+Describe the fundamentals of accounting for income taxes.
+Up to this point, you have learned the basic guidelines that companies use
+to report information to investors and creditors. Companies also must file
+income tax returns following the guidelines developed by the appropriate
+tax authority. Because IFRS and tax regulations differ in a number of ways,
+
+so frequently do pretax financial income and taxable income.
+Consequently, the amount that a company reports as tax expense will differ
+from the amount of taxes payable to the tax authority. Illustration 19.1
+highlights these differences.
+ILLUSTRATION 
+Fundamental 
+Differences 
+Between
+Financial and Tax Reporting
+Pretax financial income is a financial reporting term. It also is often
+referred to as income before taxes, income for financial reporting
+purposes, or income for book purposes. Companies determine pretax
+financial income according to IFRS. They measure it with the objective of
+providing useful information to investors and creditors.
+Taxable income (income for tax purposes) is a tax accounting term. It
+indicates the amount used to compute income taxes payable. Companies
+determine taxable income according to the tax regulations. Income taxes
+provide money to support government operations.
+To illustrate how differences in IFRS and tax rules affect financial
+reporting and taxable income, assume that Chelsea Inc. reported revenues
+of $130,000 and expenses of $60,000 in each of its first three years of
+
+operations. Illustration 19.2 shows the (partial) income statement over
+these three years.
+Chelsea Inc.
+IFRS Reporting
+Total
+Revenues
+Expenses
+Pretax financial income
+Income tax expense (40%) $ 28,000 $ 28,000 $ 28,000 $ 84,000
+ILLUSTRATION 19.2 Financial Reporting Income
+For tax purposes (following the tax rules), Chelsea reported the same
+expenses to the tax authority in each of the years. But, as Illustration
+19.3 shows, Chelsea reported taxable revenues of $100,000 in 2022,
+$150,000 in 2023, and $140,000 in 2024.
+Chelsea Inc.
+Tax Reporting
+Total
+Revenues
+Expenses
+Taxable income
+Income taxes payable (40%) $ 16,000 $ 36,000 $ 32,000 $ 84,000
+ILLUSTRATION 19.3 Tax Reporting Income
+Income tax expense and income taxes payable differed over the three years
+but were equal in total, as Illustration 19.4 shows.
+
+Chelsea Inc.
+Income Tax Expense and
+Income Taxes Payable
+Total
+Income tax expense
+Income taxes payable
+Difference
+ILLUSTRATION 19.4 Comparison of Income Tax Expense to
+Income Taxes Payable
+The differences between income tax expense and income taxes payable in
+this example arise for a simple reason. For financial reporting, companies
+use the full accrual method to report revenues. For tax purposes, they
+generally use a modified cash basis. As a result, Chelsea reports pretax
+financial income of $70,000 and income tax expense of $28,000 for each
+of the three years. However, taxable income fluctuates. For example, in
+2022 taxable income is only $40,000, so Chelsea owes just $16,000 to the
+tax authority that year. Chelsea classifies the income taxes payable as a
+current liability on the statement of financial position.
+As Illustration 19.4 indicates, for Chelsea the $12,000 ($28,000 − $16,000)
+difference between income tax expense and income taxes payable in 2022
+reflects taxes that it will pay in future periods. This $12,000 difference is
+often referred to as a deferred tax amount. In this case, it is a deferred
+tax liability. In cases where taxes will be lower in the future, Chelsea
+records a deferred tax asset. We explain the measurement and
+accounting for deferred tax liabilities and assets in the following two
+sections.1
+Future Taxable Amounts and Deferred Taxes
+The example summarized in Illustration 19.4 shows how income taxes
+payable can differ from income tax expense. This can happen when there
+are temporary differences between the amounts reported for tax purposes
+and those reported for book purposes. A temporary difference is the
+difference between the tax basis of an asset or liability and its reported
+(carrying or book) amount in the financial statements, which will result in
+taxable amounts or deductible amounts in future years. Taxable
+
+amounts increase taxable income in future years. Deductible amounts
+decrease taxable income in future years.
+In Chelsea’s situation, the only difference between the book basis and tax
+basis of the assets and liabilities relates to accounts receivable that arose
+from revenue recognized for book purposes. Illustration 19.5 indicates
+that Chelsea reports accounts receivable at $30,000 in the December 31,
+2022, IFRS-basis statement of financial position. However, the receivables
+have a zero tax basis.
+Per Books
+12/31/22 Per Tax Return
+12/31/22
+Accounts receivable $30,000 Accounts receivable
+$–0–
+ILLUSTRATION 
+Temporary 
+Difference, 
+Accounts
+Receivable
+What will happen to the $30,000 temporary difference that originated in
+2022 for Chelsea? Assuming that Chelsea expects to collect $20,000 of the
+receivables in 2023 and $10,000 in 2024, this collection results in future
+taxable amounts of $20,000 in 2023 and $10,000 in 2024. These future
+taxable amounts will cause taxable income to exceed pretax financial
+income in both 2023 and 2024.
+An assumption inherent in a company’s IFRS statement of financial
+position is that companies recover and settle the assets and liabilities at
+their reported amounts (carrying amounts). This assumption creates a
+requirement under accrual accounting to recognize currently the deferred
+tax consequences of temporary differences. That is, companies recognize
+the amount of income taxes that are payable (or refundable) when they
+recover and settle the reported amounts of the assets and liabilities,
+respectively. Illustration 19.6 shows the reversal of the temporary
+difference described in Illustration 19.5 and the resulting taxable amounts
+in future periods.
+
+ILLUSTRATION 19.6 Reversal of Temporary Difference,
+Chelsea Inc.
+Chelsea assumes that it will collect the accounts receivable and report the
+$30,000 collection as taxable revenues in future tax returns. A payment of
+income tax in both 2023 and 2024 will occur. Chelsea should therefore
+record in its books in 2022 the deferred tax consequences of the revenue
+and related receivables reflected in the 2022 financial statements. Chelsea
+does this by recording a deferred tax liability.
+Deferred Tax Liability
+A deferred tax liability is the deferred tax consequences attributable to
+taxable temporary differences. In other words, a deferred tax liability
+represents the increase in taxes payable in future years as a result
+of taxable temporary differences existing at the end of the current
+year.
+Recall from the Chelsea example that income taxes payable is $16,000
+($40,000 × .40) in 2022 (see Illustration 19.4). In addition, a temporary
+difference exists at year-end because Chelsea reports the revenue and
+related accounts receivable differently for book and tax purposes. The book
+basis of accounts receivable is $30,000, and the tax basis is zero. Thus, the
+total deferred tax liability at the end of 2022 is $12,000, computed as
+shown in Illustration 19.7.
+
+Book basis of accounts receivable
+Tax basis of accounts receivable
+–0–
+Cumulative temporary difference at the end of 2022
+Tax rate
+× .40
+Deferred tax liability at the end of 2022
+ILLUSTRATION 19.7 Computation of Deferred Tax Liability,
+End of 2022
+Companies may also compute the deferred tax liability by preparing a
+schedule that indicates the future taxable amounts due to existing
+temporary differences. Such a schedule, as shown in Illustration 19.8, is
+particularly useful when the computations become more complex.
+Future Years
+Total
+Future taxable amounts
+Tax rate
+× .40
+× .40
+       
+Deferred tax liability at the end of 2022 $ 8,000 $ 4,000 $12,000
+ILLUSTRATION 19.8 Schedule of Future Taxable Amounts
+Because it is the first year of operations for Chelsea, there is no deferred
+tax liability at the beginning of the year. Chelsea computes the income tax
+expense for 2022 as shown in Illustration 19.9.
+Deferred tax liability at end of 2022
+Deferred tax liability at beginning of 2022
+–0–
+Deferred tax expense for 2022
+Current tax expense for 2022 (income taxes payable)
+Income tax expense (total) for 2022
+ILLUSTRATION 19.9 Computation of Income Tax Expense,
+This computation indicates that income tax expense has two components—
+current tax expense (the amount of income taxes payable for the period)
+and deferred tax expense. Deferred tax expense is the increase in the
+
+deferred tax liability balance from the beginning to the end of the
+accounting period.
+Companies credit taxes due and payable to Income Taxes Payable and
+credit the increase in deferred taxes to Deferred Tax Liability. They then
+debit the sum of those two items to Income Tax Expense. For Chelsea, it
+makes the following entry at the end of 2022.
+Income Tax Expense
+Income Taxes Payable
+Deferred Tax Liability
+At the end of 2023 (the second year), the difference between the book basis
+and the tax basis of the accounts receivable is $10,000. Chelsea multiplies
+this difference by the applicable tax rate to arrive at the deferred tax
+liability of $4,000 ($10,000 × .40), which it reports at the end of 2023.
+Income taxes payable for 2023 is $36,000 (see Illustration 19.3) and the
+income tax expense for 2023 is as shown in Illustration 19.10.
+Deferred tax liability at end of 2023
+Deferred tax liability at beginning of 2023
+Deferred tax expense (benefit) for 2023
+Current tax expense for 2023 (income taxes payable)
+Income tax expense (total) for 2023
+ILLUSTRATION 19.10 Computation of Income Tax Expense,
+At the end of 2024 (the third and final year), the difference between the
+book basis and the tax basis of the receivable is zero. Income taxes payable
+for 2024 is $32,000 (Illustration 19.3), and the income tax expense for
+2024 is $28,000 as shown in Illustration 19.11.
+
+Deferred tax liability at end of 2024
+$
+–0–
+Deferred tax liability at beginning of 2024
+Deferred tax expense (benefit) for 2024
+Current tax expense for 2024 (income taxes payable)
+Income tax expense (total) for 2024
+ILLUSTRATION 19.11 Computation of Income Tax Expense,
+Chelsea records the income tax expense, the change in deferred tax
+liability, and income taxes payable for 2024 as follows.
+Income Tax Expense
+ 
+Deferred Tax Liability
+Income Taxes Payable
+The Deferred Tax Liability account at the end of 2024 is shown in
+Illustration 19.12.
+Deferred Tax Liability
+ILLUSTRATION 19.12 Deferred Tax Liability Account after
+Reversals
+As indicated, the Deferred Tax Liability account has a zero balance at the
+end of 2024.
+Financial Statement Effects
+Chelsea reports the information on its statements of financial position for
+2022–2024 as shown in Illustration 19.13.
+
+Year-End Income Taxes Payable Deferred Tax Liability
+–0–
+ILLUSTRATION 
+Statement 
+of 
+Financial 
+Position
+Presentation, Deferred Tax Liabilities
+Income taxes payable is reported as a current liability, and the deferred tax
+liability is reported as a non-current liability.
+On its income statement, Chelsea reports the information as shown in
+Illustration 19.14, from information taken from Illustration 19.2.
+For the Year Ended
+Income before income taxes $70,000 $70,000 $70,000
+Income tax expense
+Net income
+ILLUSTRATION 19.14 Income Statement Presentation, Income
+Tax Expense
+Companies also are required to show the components of income tax
+expense either in the income statement or in the notes to the financial
+statements. For example, if Chelsea reported this information in the
+income statement for 2022, the presentation is as shown in Illustration
+Income Statement (partial)
+Income before income taxes
+Income tax expense
+Current
+Deferred
+Net income
+ILLUSTRATION 19.15 Components of Income Tax Expense
+
+What Do the Numbers Mean?
+“Real Liabilities”
+Some analysts dismiss deferred tax liabilities when assessing the
+financial strength of a company. But the IASB indicates that the
+deferred tax liability meets the definition of a liability because:
+1. It results from past events. In the Chelsea example, the
+company performed services for customers and recognized
+revenue in 2022 for financial reporting purposes but deferred it for
+tax purposes.
+2. It is a present obligation. Taxable income in future periods will
+exceed pretax financial income as a result of this temporary
+difference. Thus, a present obligation exists.
+3. It will require a transfer of economic resources. Taxable
+income and taxes due in future periods will result from past
+events. The payment of these taxes when they come due in the
+future periods requires transfer of resources.
+A set of studies indicates that deferred taxes do provide incremental
+information about future tax payments and that the market views
+deferred tax assets and liabilities similarly to other assets and
+liabilities.
+Sources: B. Ayers, “Deferred Tax Accounting Under SFAS No. 109: An Empirical
+Investigation of Its Incremental Value-Relevance Relative to APB No. 11,” The Accounting
+Review (April 1998); and R. Laux, “The Association Between Deferred Tax Assets and
+Liabilities and Future Tax Payments,” The Accounting Review (February 2013).
+Future Deductible Amounts and Deferred Taxes
+Assume that during 2022, Cunningham Inc. estimated its warranty costs
+related to the sale of microwave ovens to be $500,000, to be paid evenly
+over the next two years. For book purposes, Cunningham reported
+warranty expense and a related estimated liability for warranties of
+$500,000 in its 2022 financial statements. For tax purposes, the
+warranty tax deduction is not allowed until paid. Therefore,
+Cunningham recognizes no warranty liability on a tax-basis statement of
+
+financial position. Illustration 19.16 shows the statement of financial
+position difference at the end of 2022.
+Per Books
+12/31/22
+Per Tax Return
+12/31/22
+Estimated liability for
+warranties
+Estimated liability for
+warranties
+$–0–
+ILLUSTRATION 
+Temporary 
+Difference, 
+Warranty
+Liability
+When Cunningham provides goods and services, thereby reducing the
+warranty liability, it reports an expense (deductible amount) for tax
+purposes. Because of this temporary difference, Cunningham should
+recognize in 2022 the tax benefits (positive tax consequences) for the tax
+deductions that will result from the future settlement of the liability.
+Cunningham reports this future tax benefit in the December 31, 2022,
+statement of financial position as a deferred tax asset.
+We can think about this situation another way. Deductible amounts occur
+in future tax returns. These future deductible amounts cause taxable
+income to be less than pretax financial income in the future as a result of
+an existing temporary difference. Cunningham’s temporary difference
+originates (arises) in one period (2022) and reverses over two periods
+(2023 and 2024). Illustration 19.17 diagrams this situation.
+ILLUSTRATION 19.17 Reversal of Temporary Difference,
+Cunningham Inc.
+Deferred Tax Asset
+A deferred tax asset is the deferred tax consequence attributable to
+deductible temporary differences. In other words, a deferred tax asset
+represents the increase in taxes refundable (or saved) in future
+
+years as a result of deductible temporary differences existing at
+the end of the current year.
+To illustrate, assume that Hunt Company has revenues of $900,000 for
+both 2022 and 2023. It also has operating expenses of $400,000 for each of
+these years. In addition, Hunt accrues a loss and related liability of
+$50,000 for financial reporting purposes in 2022 because of pending
+litigation. Hunt cannot deduct this amount for tax purposes until it pays
+the liability, expected in 2023. As a result, a deductible amount will occur
+in 2023 when Hunt settles the liability, causing taxable income to be lower
+than pretax financial information. Illustration 19.18 shows both the
+IFRS and tax reporting over the two years.
+ILLUSTRATION 19.18 IFRS and Tax Reporting, Hunt Company
+In this case, Hunt records a deferred tax asset of $20,000 at the end of
+2022 because it represents taxes that will be saved in future periods as a
+result of a deductible temporary difference existing at the end of 2022.
+Illustration 19.19 shows the computation of the deferred tax asset at the
+end of 2022 (assuming a 40 percent tax rate).
+
+Book basis of litigation liability
+Tax basis of litigation liability
+–0–
+Cumulative temporary difference at the end of 2022
+Tax rate
+× .40
+Deferred tax asset at the end of 2022
+ILLUSTRATION 19.19 Computation of Deferred Tax Asset, End
+of 2022
+Hunt can also compute the deferred tax asset by preparing a schedule that
+indicates the future deductible amounts due to deductible temporary
+differences. Illustration 19.20 shows this schedule.
+Future Years
+Future deductible amounts
+Tax rate
+× .40
+Deferred tax asset at the end of 2022
+ILLUSTRATION 19.20 Schedule of Future Deductible Amounts
+Assuming that 2022 is Hunt’s first year of operations and that income
+taxes payable is $200,000, Hunt computes its income tax expense as
+shown in Illustration 19.21.
+Deferred tax asset at end of 2022
+Deferred tax asset at beginning of 2022
+–0–
+Deferred tax expense (benefit) for 2022
+Current tax expense for 2022 (income taxes payable)
+Income tax expense (total) for 2022
+ILLUSTRATION 19.21 Computation of Income Tax Expense,
+The deferred tax benefit results from the increase in the deferred tax
+asset from the beginning to the end of the accounting period (similar to the
+Chelsea example earlier). The deferred tax benefit is a negative component
+of income tax expense. The total income tax expense of $180,000 on the
+income statement for 2022 thus consists of two elements—current tax
+expense of $200,000 and a deferred tax benefit of $20,000. Hunt makes
+
+the following journal entry at the end of 2022 to record income tax
+expense, deferred income taxes, and income taxes payable.
+Income Tax Expense
+Deferred Tax Asset
+Income Taxes Payable
+At the end of 2023 (the second year), the difference between the book
+value and the tax basis of the litigation liability is zero. Therefore, there is
+no deferred tax asset at this date. Assuming that income taxes payable for
+2023 is $180,000, Hunt computes income tax expense for 2023 as shown
+in Illustration 19.22.
+Deferred tax asset at the end of 2023
+$
+–0–
+Deferred tax asset at the beginning of 2023
+Deferred tax expense (benefit) for 2023
+Current tax expense for 2023 (income taxes payable)
+Income tax expense (total) for 2023
+ILLUSTRATION 19.22 Computation of Income Tax Expense,
+The company records income taxes for 2023 as follows.
+Income Tax Expense
+Deferred Tax Asset
+Income Taxes Payable
+The total income tax expense of $200,000 on the income statement for
+2023 thus consists of two elements—current tax expense of $180,000 and
+deferred tax expense of $20,000.
+Financial Statement Effects
+Hunt Company reports the following information on its statements of
+financial position for 2022 and 2023 as shown in Illustration 19.23.
+
+Year-End Income Taxes Payable Deferred Tax Asset
+−0−
+ILLUSTRATION 
+Statement 
+of 
+Financial 
+Position
+Presentation, Deferred Tax Asset
+Income taxes payable is reported as a current liability, and the deferred tax
+asset is reported as a non-current asset. On its income statement, Hunt
+Company reports the information as shown in Illustration 19.24.
+Hunt Company
+Income Statement
+For the Year Ending December 31, 2022
+Revenues
+Expenses (operating)
+Litigation loss
+Income before income taxes
+Income tax expense (benefit)
+Current
+Deferred
+Net income
+ILLUSTRATION 
+Income 
+Statement 
+Presentation,
+Deferred Tax Asset
+As illustrated, Hunt reports both the current portion (the amount of
+income taxes payable for the period) and the deferred portion of the
+income tax expense. In this case, the deferred amount is subtracted from
+the current portion to arrive at the proper income tax expense.
+Illustration 19.25 shows the Deferred Tax Asset account at the end of
+Deferred Tax Asset
+ILLUSTRATION 
+Deferred 
+Tax 
+Asset 
+Account
+after Reversals
+
+What Do the Numbers Mean?
+“Real Assets”
+A key issue in accounting for income taxes is whether a company
+should recognize a deferred tax asset in the financial records. Based on
+the conceptual definition of an asset, a deferred tax asset meets the
+three main conditions for an item to be recognized as an asset:
+1. It results from past events. In the Hunt example, the accrual of
+the loss contingency is the past event that gives rise to a future
+deductible temporary difference.
+2. It is a present economic resource. Taxable income exceeds
+pretax financial income in the current year (2022). However, in the
+next year the exact opposite occurs. That is, taxable income is
+lower than pretax financial income. Because this deductible
+temporary difference reduces taxes payable in the future, a
+probable future benefit exists at the end of the current period.
+3. The entity controls access to the benefits. Hunt can obtain
+the benefit of existing deductible temporary differences by
+reducing its taxes payable in the future. Hunt has the exclusive
+right to that benefit and can control others’ access to it.
+Market analysts’ reactions to the write-off of deferred tax assets also
+supports their treatment as assets. When Twitter (USA) reported that
+it was writing off its net U.S. deferred tax assets, analysts believed that
+Twitter was signaling that it would not realize the future benefits of
+these tax deductions. Thus, Twitter should write down these assets like
+other assets.
+Sources: J. Weil and S. Liesman, “Stock Gurus Disregard Most Big Write-Offs but They
+Often Hold Vital Clues to Outlook,” Wall Street Journal Online (December 31, 2001); and V.
+Fleischer, “Why Twitter May Have to Pay Income Taxes One Day,” The New York Times
+(November 6, 2013).
+Deferred Tax Asset (Non-Recognition)
+Companies recognize a deferred tax asset for all deductible temporary
+differences. However, based on available evidence, a company should
+
+reduce a deferred tax asset if it is probable that it will not realize some
+portion or all of the deferred tax asset. “Probable” means a level of
+likelihood of at least slightly more than 50 percent.
+Assume that Jensen SA has a deductible temporary difference of
+€1,000,000 at the end of its first year of operations. Its tax rate is 40
+percent, which means it records a deferred tax asset of €400,000
+(€1,000,000 × .40). Assuming €900,000 of income taxes payable, Jensen
+records income tax expense, the deferred tax asset, and income taxes
+payable as follows.
+Income Tax Expense
+Deferred Tax Asset
+Income Taxes Payable
+After careful review of all available evidence, Jensen determines that it is
+probable that it will not realize €100,000 of this deferred tax asset. Jensen
+records this reduction in asset value as follows.
+Income Tax Expense 100,000
+Deferred Tax Asset
+This journal entry increases income tax expense in the current period
+because Jensen does not expect to realize a favorable tax benefit for a
+portion of the deductible temporary difference. Jensen simultaneously
+recognizes a reduction in the carrying amount of the deferred tax
+asset. Jensen then reports a deferred tax asset of €300,000 in its
+statement of financial position.
+Jensen evaluates the deferred tax asset account at the end of each
+accounting period. If, at the end of the next period, it expects to realize
+€350,000 of this deferred tax asset, Jensen makes the following entry to
+adjust this account.
+Deferred Tax Asset (€350,000 − €300,000) 50,000
+Income Tax Expense
+Jensen should consider all available evidence, both positive and negative,
+to determine whether, based on the weight of available evidence, it needs
+to adjust the deferred tax asset. For example, if Jensen has been
+experiencing a series of loss years, it reasonably assumes that these losses
+
+will continue. Therefore, Jensen will lose the benefit of the future
+deductible amounts.
+Generally, sufficient taxable income arises from temporary taxable
+differences that will reverse in the future or from a tax-planning strategy
+that will generate taxable income in the future. Illustration 19.26 shows
+how Ahold Delhaize (NLD/BEL) describes its reporting of deferred tax
+assets.
+Ahold Delhaize
+Note 10 (partial)
+Significant judgment is required in determining whether deferred tax
+assets are realizable. Ahold Delhaize determines this on the basis of
+expected taxable profits arising from the reversal of recognized deferred
+tax liabilities and on the basis of budgets, cash flow forecasts, and
+impairment models. Where utilization is not considered probable,
+deferred tax assets are not recognized.
+ILLUSTRATION 19.26 Deferred Tax Asset Disclosure
+Additional Issues
+LEARNING OBJECTIVE 2
+Identify additional issues in accounting for income taxes.
+Income Statement Presentation
+Circumstances dictate whether a company should add or subtract the
+change in deferred income taxes to or from income taxes payable in
+computing income tax expense. For example, a company adds an increase
+in a deferred tax liability to income taxes payable. On the other hand, it
+subtracts an increase in a deferred tax asset from income taxes payable.
+
+The formula in Illustration 19.27 is used to compute income tax expense
+(benefit).
+Income Taxes
+Change in
+Total
+Payable or
+±
+Deferred Income
+=
+Income Tax
+Refundable
+Taxes
+Expense or
+Benefit
+ILLUSTRATION 19.27 Formula to Compute Income Tax
+Expense
+In the income statement or in the notes to the financial statements, a
+company should disclose the significant components of income tax
+expense attributable to continuing operations. Given the previous
+information related to Chelsea, the company reports its income statement
+as shown in Illustration 19.28.
+Chelsea Inc.
+Income Statement
+For the Year Ending December 31, 2022
+Revenues
+Expenses
+Income before income taxes
+Income tax expense
+Current
+Deferred
+Net income
+ILLUSTRATION 
+Income 
+Statement 
+Presentation
+of Income Tax Expense
+As illustrated, Chelsea reports both the current portion (amount of income
+taxes payable for the period) and the deferred portion of income tax
+expense. Another option is to simply report the total income tax expense
+on the income statement and then indicate in the notes to the financial
+statements the current and deferred portions. Income tax expense is often
+referred to as “Provision for income taxes.” Using this terminology, the
+
+current provision is $16,000, and the provision for deferred taxes is
+Specific Differences
+Numerous items create differences between pretax financial income and
+taxable income. For purposes of accounting recognition, these differences
+are of two types: (1) temporary and (2) permanent.
+Temporary Differences
+Taxable temporary differences are temporary differences that will
+result in taxable amounts in future years when the related assets are
+recovered. Deductible temporary differences are temporary
+differences that will result in deductible amounts in future years, when the
+related book liabilities are settled. Taxable temporary differences give rise
+to recording deferred tax liabilities. Deductible temporary differences give
+rise to recording deferred tax assets. Illustration 19.29 provides
+examples of temporary differences.
+Determining a company’s temporary differences may prove difficult. A
+company should prepare a statement of financial position for tax purposes
+that it can compare with its IFRS statement of financial position. Many of
+the differences between the two statements of financial position are
+temporary differences.
+Originating and Reversing Aspects of Temporary Differences
+An originating temporary difference is the initial difference between
+the book basis and the tax basis of an asset or liability, regardless of
+whether the tax basis of the asset or liability exceeds or is exceeded by the
+book basis of the asset or liability. A reversing difference, on the other
+hand, occurs when eliminating a temporary difference that originated in
+prior periods and then removing the related tax effect from the deferred tax
+account.
+
+ILLUSTRATION 19.29 Examples of Temporary Differences
+For example, assume that Sharp plc has tax depreciation in excess of book
+depreciation of £2,000 in 2020, 2021, and 2022. Further, it has an excess of
+book depreciation over tax depreciation of £3,000 in 2023 and 2024 for the
+same asset. Assuming a tax rate of 30 percent for all years involved, the
+Deferred Tax Liability account shown in Illustration 19.30 reflects the
+following.
+ILLUSTRATION 19.30 Tax Effects of Originating and Reversing
+Differences
+The originating differences for Sharp in each of the first three years are
+£2,000. The related tax effect of each originating difference is £600. The
+
+reversing differences in 2023 and 2024 are each £3,000. The related tax
+effect of each is £900.
+Permanent Differences
+Some differences between taxable income and pretax financial income are
+permanent. Permanent differences result from items that (1) enter into
+pretax financial income but never into taxable income, or (2) enter into
+taxable income but never into pretax financial income.
+Governments enact a variety of tax law provisions to attain certain
+political, economic, and social objectives. Some of these provisions exclude
+certain revenues from taxation, limit the deductibility of certain expenses,
+and permit the deduction of certain other expenses in excess of costs
+incurred. A company that has tax-free income, non-deductible expenses, or
+allowable deductions in excess of cost has an effective tax rate that differs
+from its statutory (regular) tax rate.
+Since permanent differences affect only the period in which they occur,
+they do not give rise to future taxable or deductible amounts. As a result,
+companies recognize no deferred tax consequences for
+permanent differences. Illustration 19.31 shows examples of
+permanent differences, given typical country laws.
+ILLUSTRATION 19.31 Examples of Permanent Differences
+Examples of Temporary and Permanent Differences
+To illustrate the computations used when both temporary and permanent
+differences exist, assume that Bio-Tech AG reports pretax financial income
+of €200,000 in each of the years 2020, 2021, and 2022. The company is
+
+subject to a 30 percent tax rate and has the following differences between
+pretax financial income and taxable income.
+1. Bio-Tech reports an installment sale of €18,000 in 2020 for tax
+purposes it recognizes the sales over an 18-month period at a constant
+amount per month beginning January 1, 2021. It recognizes the entire
+sale for book purposes in 2020.
+2. It pays life insurance premiums for its key officers of €5,000 in 2021
+and 2022. Although not tax-deductible, Bio-Tech expenses the
+premiums for book purposes.
+The installment sale is a temporary difference, whereas the life insurance
+premium is a permanent difference. Illustration 19.32 shows the
+reconciliation of Bio-Tech’s pretax financial income to taxable income and
+the computation of income taxes payable.
+Pretax financial income
+Permanent difference
+Non-deductible expense
+Temporary difference
+Installment sale
+Taxable income
+Tax rate
+× .30
+× .30
+× .30
+Income taxes payable
+ILLUSTRATION 19.32 Reconciliation and Computation of
+Income Taxes Payable
+Note that Bio-Tech deducts the installment sales revenue from pretax
+financial income to arrive at taxable income. The reason: Pretax financial
+income includes the installment sales revenue; taxable income does not.
+Conversely, it adds the €5,000 insurance premium to pretax financial
+income to arrive at taxable income. The reason: Pretax financial income
+records an expense for this premium, but for tax purposes the premium is
+not deductible. As a result, pretax financial income is lower than taxable
+income. Therefore, the life insurance premium must be added back to
+pretax financial income to reconcile to taxable income.
+
+Bio-Tech records income taxes for 2020, 2021, and 2022 as follows.
+Bio-Tech has one temporary difference, which originates in 2020 and
+reverses in 2021 and 2022. It recognizes a deferred tax liability at the end
+of 2020 because the temporary difference causes future taxable amounts.
+As the temporary difference reverses, Bio-Tech reduces the deferred tax
+liability. There is no deferred tax amount associated with the difference
+caused by the non-deductible insurance expense because it is a permanent
+difference.
+Although an enacted tax rate of 30 percent applies for all three years, the
+effective rate differs from the enacted rate in 2021 and 2022. Bio-Tech
+computes the effective tax rate by dividing total income tax expense for
+the period by pretax financial income. The effective rate is 30 percent for
+2020 (€60,000 ÷ €200,000 = 30%) and 30.75 percent for 2021 and 2022
+(€61,500 ÷ €200,000 = 30.75%).
+Tax Rate Considerations
+In our previous illustrations, the enacted tax rate did not change from one
+year to the next. Thus, to compute the deferred income tax amount to
+report on the statement of financial position, a company simply multiplies
+the cumulative temporary difference by the current tax rate. Using Bio-
+Tech as an example, it multiplies the cumulative temporary difference of
+€18,000 by the enacted tax rate, 30 percent in this case, to arrive at a
+deferred tax liability of €5,400 (€18,000 × .30) at the end of 2020.
+Future Tax Rates
+
+What happens if tax rates change in the future? In this case, a company
+should use the substantially enacted tax rate expected to apply.2 A
+company must consider presently enacted changes in the tax rate that will
+become effective in the future when determining the tax rate that should
+apply to existing temporary differences. For example, assume that Wang
+Group at the end of 2019 has the following cumulative temporary
+difference of ¥300,000, computed as shown in Illustration 19.33.
+Book basis of depreciable assets
+¥1,000,000
+Tax basis of depreciable assets
+Cumulative temporary difference
+¥ 300,000
+ILLUSTRATION 19.33 Computation of Cumulative Temporary
+Difference
+Furthermore, assume that the ¥300,000 will reverse and result in taxable
+amounts in the future, with the enacted tax rates as shown in Illustration
+Total
+Future taxable
+amounts
+¥80,000 ¥70,000 ¥60,000 ¥50,000 ¥40,000 ¥300,000
+Tax rate
+× .40
+× .40
+× .35
+× .30
+× .30
+Deferred tax
+liability
+¥32,000 ¥28,000 ¥21,000 ¥15,000 ¥12,000 ¥108,000
+ILLUSTRATION 19.34 Deferred Tax Liability Based on Future
+Rates
+The total deferred tax liability at the end of 2019 is ¥108,000. Wang may
+only use tax rates other than the current rate when the future tax rates
+have been enacted, as is the case in this example. If new rates are not
+yet enacted for future years, Wang should use the current rate.
+In some countries, the applicable tax rate depends on how the carrying
+amount of an asset or liability is recovered or settled. For example, a
+company could be operating a plant that it intends to hold for continued
+use. The tax rate on normal operations is 35 percent. On the other hand, if
+the company wishes to sell the plant and the related capital gain or loss is
+
+subject to a tax rate of 15 percent, then the applicable tax rate may change.
+[2]
+Revision of Future Tax Rates
+When a change in the tax rate is enacted, companies should record its
+effect on the existing deferred income tax accounts immediately. A
+company reports the effect as an adjustment to income tax
+expense in the period of the change.
+Assume that on December 10, 2021, a new income tax act is signed into law
+that lowers the company tax rate from 40 percent to 35 percent, effective
+January 1, 2023. If Hostel Co. has one temporary difference at the
+beginning of 2021 related to $3 million of excess tax depreciation, then it
+has a Deferred Tax Liability account with a balance of $1,200,000
+($3,000,000 × .40) at January 1, 2021. If taxable amounts related to this
+difference are scheduled to occur equally in 2022, 2023, and 2024, the
+deferred tax liability at the end of 2021 is $1,100,000, computed as shown
+in Illustration 19.35.
+Total
+Future taxable amounts $1,000,000 $1,000,000 $1,000,000 $3,000,000
+Tax rate
+× .40
+× .35
+× .35
+Deferred tax liability
+ILLUSTRATION 19.35 Schedule of Future Taxable Amounts
+and Related Tax Rates
+Hostel recognizes the decrease of $100,000 ($1,200,000 − $1,100,000) at
+the end of 2021 in the deferred tax liability as follows.
+Deferred Tax Liability 100,000
+Income Tax Expense
+Company tax rates do not change often. Therefore, companies usually
+employ the current rate. However, tax rates in some jurisdictions change
+more frequently, and they require adjustments in deferred income taxes
+accordingly.3
+
+What Do the Numbers Mean?
+Global Tax Rates
+If you are concerned about your tax rate and the taxes you pay, you
+might want to consider moving to the Cayman Islands or the Bahamas,
+which have a tax rate of zero percent. However, you would not want to
+move to Brazil. Yes, the people of Brazil are known for delicious food,
+great fun, and wonderful music, but the party might stop when it comes
+time to pay taxes because the tax rate is one of the highest on Earth—
+36 percent!
+Taxes are also a big deal to companies. For example, the Organisation
+for Economic Cooperation and Development (OECD) is an
+international organization of 36 countries that accepts the principles of
+a free-market economy. Most OECD members are high-income
+economies and are regarded as developed countries. However,
+companies in the OECD can be subject to significant tax levies, as
+indicated in the following table.
+Highest Corporate Income Tax Rates for OECD Countries
+1. France
+6. Greece
+2. Australia
+7. New Zealand
+3. Mexico
+8. Austria
+4. Portugal
+9. Chile
+5. Belgium
+10. South Korea
+On the low end of the tax rate spectrum are Hungary and Switzerland,
+with tax rates of 9.0 and 8.5 percent, respectively. Indeed, corporate tax
+rates have been dropping around the world as countries attempt to spur
+
+capital investment, which in turn encourages international tax
+competition. As discussed in the opening story, companies adjust their
+structures to move their income from high-tax-rate countries to lower-
+tax-rate countries. The OECD and the G20 have specifically launched
+an initiative called BEPS (Base Erosion and Profit Shifting) to address
+this issue.
+If these initiatives result in changes in the tax rates applied to future
+deductible and taxable amounts, be prepared for significant
+remeasurement of deferred tax assets and liabilities.
+Source: The rates reported in the above list reflect the base company rate in effect in 2019
+as reported by the OECD (oecd.org/tax/tax-policy/tax-database/ and
+www.oecd.org/tax/beps/). Effective rates paid may vary depending on country-specific
+additional levies for such items as unemployment, local taxes, and, in the case of Japan,
+earthquake damage assessments. Effective rates may be lower due to credits for investments
+and capital gains. Current corporate tax rates are available at the KPMG (USA) website.
+Accounting for Net Operating Losses
+LEARNING OBJECTIVE 3
+Explain the accounting for loss carryforwards.
+Every management hopes its company will be profitable. But hopes and
+profits may not materialize. For a start-up company, it is common to
+accumulate operating losses while it expands its customer base but before
+it realizes economies of scale. For an established company, major events
+such as a labor strike, rapidly changing regulatory and competitive forces, a
+tsunami, or a general economic recession such as that experienced in the
+wake of the COVID-19 pandemic can cause expenses to exceed revenues—a
+net operating loss.
+A net operating loss (NOL) occurs for tax purposes in a year when tax-
+deductible expenses exceed taxable revenues. An inequitable tax burden
+would result if companies were taxed during profitable periods without
+receiving any tax relief during periods of net operating losses. Under
+certain circumstances, therefore, tax laws permit taxpayers to use the
+losses of one year to offset the profits of other years.
+Companies accomplish this income-averaging provision through the
+carryforward of net operating losses. Under this provision, a company
+
+pays no income taxes for a year in which it incurs a net operating loss. In
+addition, it can reduce future taxes payable as discussed on the following
+pages.
+Loss Carryforward
+Through the use of a loss carryforward, a company may carry the net
+operating loss forward to offset future taxable income and reduce taxes
+payable in future years.4 Illustration 19.36 shows this approach.
+ILLUSTRATION 19.36 Loss Carryforward Procedure
+Operating losses can be substantial. For example, VW Group (DEU) had
+€2.5 billion in tax loss carryforwards at the end of 2018. At VW’s effective
+tax rate, that would imply over €500 million in reduced taxes if it is able to
+generate taxable income.
+Loss Carryforward Example
+Because companies use carryforwards to offset future taxable income, the
+tax effect of a loss carryforward represents future tax savings.
+However, realization of the future tax benefit depends on future earnings,
+an uncertain prospect.
+The key accounting issue is whether there should be different
+requirements for recognition of a deferred tax asset for (a) deductible
+temporary differences, and (b) operating loss carryforwards. The IASB’s
+position is that in substance these items are the same—both are tax-
+deductible amounts in future years. As a result, the Board concluded that
+there should not be different requirements for recognition of a
+deferred tax asset from deductible temporary differences and operating
+loss carryforwards.5
+
+Carryforward (Recognition)
+To illustrate the accounting procedures for a net operating loss
+carryforward, assume that Groh Inc. has no temporary or permanent
+differences. Groh experiences a net operating loss of $200,000 in 2022 and
+takes advantage of the carryforward provision. In 2022, the company
+records the tax effect of the $200,000 loss carryforward as a deferred tax
+asset of $40,000 ($200,000 × .20), assuming that the enacted future tax
+rate is 20 percent. Groh records the benefit of the carryforward in 2022 as
+follows.
+Deferred Tax Asset
+Income Tax Expense (Loss Carryforward)
+Groh establishes a Deferred Tax Asset account for the benefits of future tax
+savings. The account credited [Income Tax Expense (Loss Carryforward)]
+is a contra income tax expense item, which Groh presents on the 2022
+income statement shown in Illustration 19.37. The $40,000 is the
+deferred tax benefit for 2022, which results from an increase in the
+deferred tax asset.
+Groh Inc. 
+Income Statement (partial) for 2022
+Operating loss before income taxes $(200,000)
+Income tax benefit
+Deferred
+40,000*
+Net loss
+*Carryforward ($200,000 × .20)
+ILLUSTRATION 19.37 Recognition of the Benefit of the Loss
+Carryforward in the Loss Year
+For 2023, assume that Groh returns to profitable operations and has
+taxable income of $250,000 (prior to adjustment for the NOL
+carryforward), subject to a 20 percent tax rate. Groh then realizes the
+benefits of the carryforward for tax purposes in 2023, which it recognized
+for accounting purposes in 2022. Groh computes the income taxes payable
+for 2023 as shown in Illustration 19.38.
+
+Taxable income prior to loss carryforward
+Loss carryforward deduction
+Taxable income for 2023
+Tax rate
+× .20
+Income taxes payable for 2023
+ILLUSTRATION 19.38 Computation of Income Taxes Payable
+with Realized Loss Carryforward
+Groh records income taxes in 2023 as follows.
+Income Tax Expense
+Deferred Tax Asset
+Income Taxes Payable
+The benefits of the NOL carryforward, realized in 2023, reduce the
+Deferred Tax Asset account to zero.
+The 2023 income statement appears in Illustration 19.39.
+Groh Inc. 
+Income Statement (partial) for 2023
+Income before income taxes
+Income tax expense
+Current
+Deferred
+Net income
+ILLUSTRATION 19.39 Presentation of the Benefit of Loss
+Carryforward Realized in 2023, Recognized in 2022
+Carryforward (Non-Recognition)
+Let us return to the Groh example. Assume that it is more likely than not
+that Groh will not realize the entire NOL carryforward in future years. In
+this situation, Groh does not recognize a deferred tax asset for the loss
+carryforward because it is probable that it will not realize the carryforward.
+As a result, there is no journal entry in 2022 for income taxes by Groh.
+Illustration 19.40 shows Groh’s 2022 income statement presentation.
+
+Groh Inc.
+Income Statement (partial) for 2022
+Operating loss before income taxes $(200,000)
+Income tax expense
+Deferred
+–0–
+Net loss
+ILLUSTRATION 
+Recognition 
+of 
+Benefit 
+of 
+Loss
+Carryforward Only
+In 2023, assuming that Groh has taxable income of $250,000 (before
+considering the carryforward) subject to a tax rate of 20 percent, it realizes
+the deferred tax asset. Groh records the following entries.
+Groh reports the $40,000 Income Tax Expense (Loss Carryforward) on the
+2023 income statement. The company did not recognize it in 2022 because
+it was probable that it would not be realized. Assuming that Groh derives
+the income for 2023 from continuing operations, it prepares the income
+statement as shown in Illustration 19.41.
+Groh Inc.
+Income Statement (partial) for 2023
+Income before income taxes
+Income tax expense
+Current
+Deferred
+Net income
+ILLUSTRATION 
+Recognition 
+of 
+Benefit 
+of 
+Loss
+Carryforward When Realized
+
+Another method is to report only one line for total income tax expense of
+$10,000 on the face of the income statement and disclose the components
+of income tax expense in the notes to the financial statements.
+Non-Recognition Revisited
+Whether the company will realize a deferred tax asset depends on whether
+sufficient taxable income exists or will exist within the carryforward period
+available under tax law. Illustration 19.42 shows possible sources of
+taxable income and related factors that companies can consider in
+assessing the probability that taxable income will be available against
+which the unused tax losses or unused tax credits can be utilized.6
+ILLUSTRATION 19.42 Possible Sources of Taxable Income
+To the extent that it is not probable that taxable profit will be available
+against which the unused tax losses or unused tax credits can be utilized,
+the deferred tax asset is not recognized.
+Forming a conclusion that recognition of a loss carryforward is probable is
+difficult when there is negative evidence (such as cumulative losses in
+recent years). However, companies often cite positive evidence indicating
+that recognition of the carryforward is warranted.7
+Unfortunately, the subjective nature of determining an impairment for a
+deferred tax asset provides a company with an opportunity to manage its
+earnings. As one accounting expert notes, “The ‘probable’ provision is
+perhaps the most judgmental clause in accounting.” Some companies may
+recognize the loss carryforward immediately and then use it to increase
+income as needed. Others may take the income immediately to increase
+capital or to offset large negative charges to income.
+
+Evolving Issue
+Uncertain Tax Positions
+Uncertain tax positions are tax positions for which the tax
+authorities may disallow a deduction in whole or in part. Uncertain tax
+positions often arise when a company takes an aggressive approach in
+its tax planning. Examples are instances in which the tax law is unclear
+or the company may believe that the risk of audit is low. Uncertain tax
+positions give rise to tax benefits either by reducing income tax expense
+or related payables, or by increasing an income tax refund receivable or
+deferred tax asset.
+Unfortunately, companies have not recorded these effects consistently
+in the accounting and reporting of uncertain tax positions. Some
+companies have not recognized a tax benefit unless it is probable that
+the benefit will be realized and can be reasonably estimated. Other
+companies have used a lower threshold, such as that found elsewhere
+in the existing authoritative literature (e.g., “more likely than not”).
+Thus, there has been diversity in practice concerning the accounting
+and reporting of uncertain tax positions.
+In response, the IASB recently issued rules for companies to follow
+when there is uncertainty about whether a tax position will be
+sustained upon review by a tax authority. [4] If the company concludes
+it is probable that a particular tax treatment will be accepted, the
+company then determines taxable profit (tax loss), tax bases, unused
+tax losses, unused tax credits, or tax rates consistent with the tax
+treatment included in its income tax filings. If it is not probable that a
+tax position will be accepted, companies estimate the effect of the tax
+treatment using either the most likely amount or the expected
+value of the tax treatment (on taxable profit (tax loss), tax bases,
+unused tax losses, unused tax credits, or tax rates). The decision should
+be based on which method provides better predictions of the resolution
+of the uncertainty. These rules should reduce diversity in practice on
+the reporting of uncertain tax positions and bring IFRS closer to U.S.
+GAAP, which has similar guidelines.
+
+Financial Statement Presentation
+LEARNING OBJECTIVE 4
+Describe the presentation of deferred income taxes in financial
+statements.
+Statement of Financial Position
+Companies classify taxes receivable or payable as current assets or current
+liabilities. Although current tax assets and liabilities are separately
+recognized and measured, they are often offset in the statement of
+financial position. The offset occurs because companies normally have a
+legally enforceable right to set off a current tax asset (Income Taxes
+Receivable) against a current tax liability (Income Taxes Payable) when
+they relate to income taxes levied by the same taxation authority. [5]
+Deferred tax assets and deferred tax liabilities are also separately
+recognized and measured but may be offset in the statement of financial
+position.8 The net deferred tax asset or net deferred tax liability is reported
+in the non-current section of the statement of financial position.9
+To illustrate, assume that K. Scott Company has four deferred tax items at
+December 31, 2022, as shown in Illustration 19.43.
+
+Temporary Difference
+Resulting Deferred
+Tax
+(Asset)
+Liability
+1. Rent collected in advance: recognized when
+performance obligation satisfied for accounting
+purposes and when received for tax purposes.
+2. Use of straight-line depreciation for accounting
+purposes and accelerated depreciation for tax
+purposes.
+3. Recognition of profits on installment sales
+during period of sale for accounting purposes
+and during period of collection for tax purposes.
+4. Warranty liabilities: recognized for accounting
+purposes at time of sale; for tax purposes at
+time paid.
+Totals
+ILLUSTRATION 19.43 Classification of Temporary Differences
+As indicated, K. Scott has a total deferred tax asset of $54,000 and a total
+deferred tax liability of $259,000. Assuming these two items can be offset,
+K. Scott reports a deferred tax liability of $205,000 ($259,000 − $54,000)
+in the non-current liability section of its statement of financial position.
+To provide another illustration, Wm Morrison Supermarkets plc
+(GBR) reports its information related to income taxes on its consolidated
+balance sheet (statement of financial position) and related note on defined
+income taxes as shown in Illustration 19.44.
+
+Wm Morrison Supermarkets plc
+Consolidated Balance Sheet
+3 February 2019 
+(£ in millions)
+Current
+liabilities
+Current tax
+liabilities
+Non-current
+liabilities
+Deferred tax
+liabilities
+(Note
+2.3 Deferred tax
+Deferred tax liability
+Deferred tax asset
+Net deferred tax liability
+IAS 12 ‘Income taxes’ permits the offsetting of balances within the same
+tax jurisdiction. All of the deferred tax assets are available for offset
+against deferred tax liabilities.
+The movements in deferred tax (liabilities)/assets during the period are
+shown below:
+Property,
+plant and
+equipment
+Pensions
+Other 
+short-term
+temporary
+differences Total
+Current period
+At 5 February 2018
+Credits to profit for the
+
+period
+Charged to other compensive
+income and equity
+—
+At 3 February 2019
+Prior period
+At 30 January 2017
+Credits to profit for the
+period
+—
+Charged to other compensive
+income and equity
+—
+At 4 February 2018
+ILLUSTRATION 19.44 Income Tax Reporting
+In Note 2.3, Morrison Supermarkets explains how the net deferred tax
+liability is computed as well as the composition of the liability. A user of
+the financial statements and related notes therefore understands what
+comprises the net deferred tax liability of £483 million, which provides
+insight into the likelihood of future cash outflows related to the net
+deferred tax liability.
+Income Statement
+Companies allocate income tax expense (or benefit) to continuing
+operations, discontinued operations, other comprehensive income, and
+prior period adjustments. This approach is referred to as intraperiod tax
+allocation. In addition, the components of income tax expense (benefit)
+may include:
+1. Current tax expense (benefit).
+2. Any adjustments recognized in the period for current tax of prior
+periods.
+3. The amount of deferred tax expense (benefit) relating to the
+origination and reversal of temporary differences.
+4. The amount of deferred tax expense (benefit) relating to changes in
+tax rates or the imposition of new taxes.
+
+5. The amount of the benefit arising from a previously unrecognized tax
+loss, tax credit, or temporary difference of a prior period that is used to
+reduce current and deferred tax expense.10
+To illustrate, the relevant portion of the consolidated statement of
+comprehensive income of Morrison Supermarkets is presented in
+Illustration 19.45.
+
+Wm Morrison Supermarkets plc 
+Consolidated Statement of Comprehensive Income (Partial) 
+52 Weeks Ended 3 February 2019 
+(£ in millions)
+Note 2019 2018
+Profit/(loss) before taxation
+Taxation
+Profit/(loss) for the period attributable to the
+owners of the Company
+Other comprehensive income/(expense) Items
+that will not be reclassified to profit or loss:
+Remeasurement of defined benefit pension schemes
+Tax on defined benefit pension schemes
+Items that may be reclassified subsequently to
+profit or loss
+Cash flow hedging movement
+Items reclassified to hedging reserve in relation to
+repayment of borrowings
+−
+Tax on items that may be reclassified subsequently to
+profit or loss
+Exchange rate differences on translation of foreign
+operations
+−
+Other comprehensive income/(expense) for the
+period, net of  tax
+Total comprehensive income/(expense) for the
+period attributable
+to the owners of the Company
+ILLUSTRATION 19.45 Taxes on Income Statement
+
+Illustration 19.46 presents Note 2.2, which is the explanation of the
+composition of the taxes charged to Morrison Supermarkets.
+Wm Morrison Supermarkets plc 
+(£ in millions)
+2.2 Taxation
+2.2.1 Analysis of charge in the period
+Current tax
+– UK corporation tax
+– overseas tax
+– adjustments in respect of prior periods
+Deferred tax
+– origination and reversal of timing differences
+– adjustments in respect of prior periods
+Tax credit for the period
+2.2.2 Tax on items charged in other comprehensive
+expense and equity
+Remeasurement of defined benefit pension schemes
+Cash flow hedges
+Share-based payment
+−
+Total tax on items included in other comprehensive
+income and equity
+ILLUSTRATION 19.46 Components of Income Tax
+
+As shown in Illustration 19.46, income taxes decreased profit by £76
+million. In addition, taxes related to other comprehensive expense and
+equity are shown net of tax. Illustration 19.46 also provides information
+that identifies the components of the tax charge of £76 million. In addition,
+the individual tax effects related to other comprehensive expense and
+equity of £18 million are explained.
+Tax Reconciliation
+Another important disclosure is the reconciliation of actual tax expense
+and the applicable tax rate. Companies either provide:
+A numerical reconciliation between tax expense (benefit) and the
+product of accounting profit multiplied by the applicable tax rate(s),
+disclosing also the basis on which the applicable tax rate(s) is (are)
+computed; or
+A numerical reconciliation between the average effective tax rate and
+the applicable tax rate, disclosing also the basis on which the
+applicable tax rate is computed.
+Morrison Supermarkets provides the first type of reconciliation but also
+notes that the effective tax rate is higher than the applicable (standard)
+rate, as shown in a continuation of its tax note in Illustration 19.47.
+
+Wm Morrison Supermarkets plc 
+(£ in millions)
+2.2.3 Tax reconciliation
+The reconciliation below shows how the tax charge of ₤76m (2018: ₤69m)
+has arisen on profit before taxation of ₤320m (2018: ₤380m).
+The tax for the period is higher (2018: lower) than the standard rate of
+corporation tax in the UK of 19% (2018: 19.16%).
+The differences are explained below:
+Profit before taxation
+Profit before taxation at 19% (2018: 19.16%)
+Effects of:
+Recurring items:
+Expenses not deductible for tax purposes
+Disallowed depreciation on UK properties
+Deferred tax on Safeway acquisition assets
+Adjustments in respect to prior periods
+Non-recurring items:
+Profit on property transactions
+Tax impact of impairment and related items
+Tax charge for the period
+Factors affecting current and future tax charges
+The effective tax rate for the year was 23.7% (2018: 18.2%). The
+normalized tax rate for the year (excluding the impact of property
+transactions, business disposals, tax rate changes, and other adjustments)
+was 23.5% (2018: 23.8%).
+
+The normalized tax rate was 4.5% above the UK statutory rate of 19%. The
+main factor increasing the normalized tax rate is disallowed depreciation
+on UK properties which reflects the Group’s strategy to maintain a
+majority freehold estate.
+Legislation to reduce the standard rate of corporation tax to 17% from 1
+April 2020 was included in Finance Act 2016 and was enacted in the prior
+periods. Accordingly, deferred tax has been provided at 19% or 17%
+depending on when the temporary difference is expected to reverse (2018:
+19% or 17%).
+There have been no indications of any further changes to the rate of
+corporation tax after 1 April 2020.
+ILLUSTRATION 19.47 Tax Reconciliation Disclosure
+In explaining the relationship between tax expense (benefit) and
+accounting income, companies use an applicable tax rate that provides the
+most meaningful information to the users of its financial statements.11
+These income tax disclosures are required for several reasons:
+1. Assessing quality of earnings. Many investors seeking to assess
+the quality of a company’s earnings are interested in the relation
+between pretax financial income and taxable income. Analysts
+carefully examine earnings that are enhanced by a favorable tax effect,
+particularly if the tax effect is non-recurring. For Morrison
+Supermarkets, it is interesting to note that its standard tax rate is
+greater than the effective tax rate (taxes paid divided by income before
+income taxes). A change in the tax rate, non-taxable profits on
+property transactions, and a prior period adjustment are the primary
+reasons for this situation.
+2. Making better predictions of future cash flows. Examination of
+the deferred portion of income tax expense provides information as to
+whether taxes payable are likely to be higher or lower in the future. In
+Morrison Supermarkets’ case, analysts expect future taxable amounts
+and higher tax payments, due to lower depreciation in the future. It
+also appears that Morrison Supermarkets is generating other
+deductible amounts related to pensions, share-based payments, and
+other short-term temporary differences. These deferred tax items
+indicate that actual tax payments for Morrison Supermarkets will be
+
+lower than the tax expense reported on the income statement in the
+future. Conversely, the tax rate is expected to drop to as low as 18
+percent, which will lead to lower current and deferred taxes.
+3. Predicting future cash flows for operating loss
+carryforwards. Companies should disclose the amounts and
+expiration dates of any operating loss carryforwards for tax purposes.
+From this disclosure, analysts determine the amount of income that
+the company may recognize in the future on which it will pay no
+income tax. Morrison Supermarkets has no loss carryforwards.12
+
+What Do the Numbers Mean?
+The Tax Twist
+As indicated in the information related to the tax reconciliation at Wm
+Morrison Supermarkets plc (GBR), a favorable development for the
+company is that tax rates decreased from 21.3 percent in 2015 to 20.2
+percent in 2016. In addition, it is likely that rates will drop to 17 percent
+in the near future. As indicated in Illustration 19.47, this may lead to an
+additional reduction of deferred income taxes of £44 million, which will
+result in income tax expense also being decreased.
+However, the reduction in rates can be a double-edged sword for
+companies that have large deferred tax asset balances. A tax rate
+decrease means that deferred tax assets are worth less, since lower tax
+bills mean fewer opportunities to use deferred tax assets before they
+expire. Citigroup (USA), for example, indicated that a reduction in its
+tax rate could lead to a deferred tax write-off of $4 billion to $5 billion.
+The following graphic illustrates how that might happen if U.S. rates
+dropped from 35 percent to 20 percent, which was proposed by some
+politicians.
+So there is a tax twist in a tax rate reduction, which may not be positive
+for some companies that have large deferred tax asset balances.
+Source: Adapted from “Double-Edged Deferral: How Lower Taxes Could Hurt America’s
+Big Banks,” The Economist (December 10, 2011).
+Review of the Asset-Liability Method
+
+The IASB believes that the asset-liability method (sometimes referred
+to as the liability approach) is the most consistent method for
+accounting for income taxes. One objective of this approach is to recognize
+the amount of taxes payable or refundable for the current year. A second
+objective is to recognize deferred tax liabilities and assets for the
+future tax consequences of events that have been recognized in the
+financial statements or tax returns.
+To implement the objectives, companies apply some basic principles in
+accounting for income taxes at the date of the financial statements, as
+listed in Illustration 19.48.
+ILLUSTRATION 19.48 Basic Principles of the Asset-Liability
+Method
+Illustration 19.49 diagrams the procedures for implementing the asset-
+liability method.
+
+ILLUSTRATION 
+Procedures 
+for 
+Computing 
+and
+Reporting Deferred Income Taxes
+As an aid to understanding deferred income taxes, we provide the following
+glossary.
+
+Key Deferred Income Tax Terms
+Carryforwards. Deductions or credits that cannot be utilized on the
+tax return during a year and that may be carried forward to reduce
+taxable income or taxes payable in a future year. An operating loss
+carryforward is an excess of tax deductions over gross income in a
+year. A tax carryforward is the amount by which tax credits available
+for utilization exceed statutory limitations.
+Current Tax Expense. The amount of income taxes paid or payable
+for a year as determined by applying the provisions of the enacted tax
+law to the taxable income or excess of deductions over revenues for
+that year.
+Deductible Temporary Difference. Temporary differences that
+result in deductible amounts in future years when recovering or
+settling the related asset or liability, respectively.
+Deferred Tax Asset. The deferred tax consequences attributable to
+deductible temporary differences and carryforwards.
+Deferred Tax Consequences. The future effects on income taxes as
+measured by the enacted tax rate and provisions of the enacted tax law
+resulting from temporary differences and carry-forwards at the end of
+the current year.
+Deferred Tax Expense (Benefit). The change during the year in a
+company’s deferred tax liabilities and assets.
+Deferred Tax Liability. The deferred tax consequences attributable
+to taxable temporary differences.
+Income Taxes. Domestic and foreign federal (national), state, and
+local (including franchise) taxes based on income.
+Income Taxes Currently Payable. Refer to current tax expense.
+Income Tax Expense (Benefit). The sum of current tax expense
+(benefit) and deferred tax expense (benefit).
+Taxable Income. The excess of taxable revenues over tax-deductible
+expenses and exemptions for the year as defined by the governmental
+tax authority.
+
+Taxable Temporary Difference. Temporary differences that result
+in taxable amounts in future years when recovering or settling the
+related asset or liability, respectively.
+Tax-Planning Strategy. An action that meets certain criteria and
+that a company implements to realize a tax benefit for an operating loss
+or tax carryforward before it expires. Companies consider tax-planning
+strategies when assessing whether to recognize a deferred tax asset.
+Temporary Difference. A difference between the tax basis of an
+asset or liability and its reported amount in the financial statements,
+which will result in taxable or deductible amounts in future years when
+recovering or settling the reported amount of the asset or liability,
+respectively.
+APPENDIX 19A Comprehensive Example of
+Interperiod Tax Allocation
+LEARNING OBJECTIVE *5
+Apply the concepts and procedures of interperiod tax allocation.
+This appendix presents a comprehensive illustration of a deferred income
+tax problem with several temporary and permanent differences. The
+example follows one company through two complete years (2021 and
+2022). Study it carefully. It should help you understand the concepts
+and procedures presented in the chapter.
+First Year—2021
+Akai Ltd., which began operations at the beginning of 2021, produces
+various products on a contract basis. Each contract generates an income of
+¥80,000 (amounts in thousands). Some of Akai’s contracts provide for the
+customer to pay on an installment basis. Under these contracts, Akai
+collects one-fifth of the contract revenue in each of the following four
+years. For financial reporting purposes, the company recognizes income in
+the year of completion (accrual basis); for tax purposes, Akai recognizes
+income in the year cash is collected (installment basis).
+
+Presented below is information related to Akai’s operations for 2021.
+1. In 2021, the company completed seven contracts that allow for the
+customer to pay on an installment basis. Akai recognized the related
+income of ¥560,000 for financial reporting purposes. It reported only
+¥112,000 of income on installment sales on the 2021 tax return. The
+company expects future collections on the related receivables to result
+in taxable amounts of ¥112,000 in each of the next four years.
+2. At the beginning of 2021, Akai purchased depreciable assets with a cost
+of ¥540,000. For financial reporting purposes, Akai depreciates these
+assets using the straight-line method over a six-year service life. The
+depreciation schedules for both financial reporting and tax purposes
+are shown as follows.
+Year
+Depreciation for
+Financial Reporting Purposes
+Depreciation for
+Tax Purposes
+Difference
+¥ 90,000
+¥108,000 ¥(18,000)
+¥540,000
+¥540,000 ¥
+–0–
+3. The company warrants its product for two years from the date of
+completion of a contract. During 2021, the product warranty liability
+accrued for financial reporting purposes was ¥200,000, and the
+amount paid for the satisfaction of warranty liability was ¥44,000.
+Akai expects to settle the remaining ¥156,000 by expenditures of
+¥56,000 in 2022 and ¥100,000 in 2023.
+4. In 2021, non-taxable governmental bond interest revenue was
+¥28,000.
+5. During 2021, non-deductible fines and penalties of ¥26,000 were paid.
+6. Pretax financial income for 2021 amounts to ¥412,000.
+7. Tax rates enacted before the end of 2021 were:
+
+2022 and later years 40%
+8. The accounting period is the calendar year.
+9. The company is expected to have taxable income in all future years.
+Taxable Income and Income Taxes Payable—2021
+The first step is to determine Akai’s income taxes payable for 2021 by
+calculating its taxable income. Illustration 19A.1 shows this
+computation.
+Pretax financial income for 2021
+¥412,000
+Permanent differences:
+Non-taxable revenue—governmental bond interest
+Non-deductible expenses—fines and penalties
+Temporary differences:
+Excess contract income per books (¥560,000 − ¥112,000) (448,000)
+Excess depreciation per tax (¥108,000 − ¥90,000)
+Excess warranty expense per books (¥200,000 − ¥44,000)
+Taxable income for 2021
+¥100,000
+ILLUSTRATION 19A.1 Computation of Taxable Income, 2021
+Akai computes income taxes payable on taxable income for ¥100,000 as
+shown in Illustration 19A.2.
+Taxable income for 2021
+¥100,000
+Tax rate
+× .50
+Income taxes payable (current tax expense) for 2021 ¥ 50,000
+ILLUSTRATION 19A.2 Computation of Income Taxes Payable,
+End of 2021
+Computing Deferred Income Taxes—End of 2021
+The schedule in Illustration 19A.3 summarizes the temporary
+differences and the resulting future taxable and deductible amounts.
+
+Future Years
+Total
+Future taxable
+(deductible)
+amounts:
+Installment
+sales
+¥112,000 ¥112,000 ¥112,000 ¥112,000
+¥448,000
+Depreciation (82,800)
+27,792 ¥58,896
+Warranty
+costs
+ILLUSTRATION 19A.3 Schedule of Future Taxable and
+Deductible Amounts, End of 2021
+Akai computes the amounts of deferred income taxes to be reported at the
+end of 2021 as shown in Illustration 19A.4.
+Temporary Difference
+Future
+Taxable 
+(Deductible) 
+Amounts
+Tax 
+Rate
+Deferred Tax
+(Asset)
+Liability
+Installment sales
+¥448,000 40%
+¥179,200
+Depreciation
+Warranty costs
+¥(62,400)
+Totals
+¥310,000
+¥(62,400)
+¥186,400*
+*Because only a single tax rate is involved in all relevant years, these totals
+can be reconciled: ¥310,000 × .40 = (¥62,400) + ¥186,400
+ILLUSTRATION 19A.4 Computation of Deferred Income Taxes,
+End of 2021
+A temporary difference is caused by the use of the accrual basis for
+financial reporting purposes and the installment method for tax purposes.
+This temporary difference will result in future taxable amounts and hence
+a deferred tax liability. Because of the installment contracts completed in
+2021, a temporary difference of ¥448,000 originates that will reverse in
+equal amounts over the next four years. The company expects to have
+
+taxable income in all future years, and there is only one enacted tax rate
+applicable to all future years. Akai uses that rate (40 percent) to compute
+the entire deferred tax liability resulting from this temporary difference.
+The temporary difference caused by different depreciation policies for
+books and for tax purposes originates over three years and then reverses
+over three years. This difference will cause deductible amounts in 2022 and
+2023 and taxable amounts in 2024, 2025, and 2026. These amounts sum to
+a net future taxable amount of ¥18,000 (which is the cumulative
+temporary difference at the end of 2021). Because the company expects to
+have taxable income in all future years and because there is only one tax
+rate enacted for all of the relevant future years, Akai applies that rate to the
+net future taxable amount to determine the related net deferred tax
+liability.
+The third temporary difference is caused by different methods of
+accounting for warranties. This difference will result in deductible amounts
+in each of the two future years it takes to reverse. Because the company
+expects to report a positive income on all future tax returns and because
+there is only one tax rate enacted for each of the relevant future years, Akai
+uses that 40 percent rate to calculate the resulting deferred tax asset.
+Deferred Tax Expense (Benefit) and the Journal Entry to
+Record Income Taxes—2021
+To determine the deferred tax expense (benefit), Akai needs to compare the
+beginning and ending balances of the deferred income tax accounts.
+Illustration 19A.5 shows that computation.
+Deferred tax asset at the end of 2021
+¥ 62,400
+Deferred tax asset at the beginning of 2021
+–0–
+Deferred tax expense (benefit)
+¥ (62,400)
+Deferred tax liability at the end of 2021
+¥186,400
+Deferred tax liability at the beginning of 2021
+–0–
+Deferred tax expense (benefit)
+¥186,400
+ILLUSTRATION 19A.5 Computation of Deferred Tax Expense
+(Benefit), 2021
+
+The ¥62,400 increase in the deferred tax asset causes a deferred tax benefit
+to be reported in the income statement. The ¥186,400 increase in the
+deferred tax liability during 2021 results in a deferred tax expense.
+Illustration 19A.6 shows these two amounts net to a deferred tax
+expense of ¥124,000 for 2021.
+Deferred tax expense (benefit)
+¥ (62,400)
+Deferred tax expense (benefit)
+Net deferred tax expense for 2021
+¥124,000
+ILLUSTRATION 
+19A.6 
+Computation 
+of 
+Net 
+Deferred
+Tax Expense, 2021
+Akai then computes the total income tax expense as shown in Illustration
+19A.7.
+Current tax expense for 2021
+¥ 50,000
+Deferred tax expense for 2021
+Income tax expense (total) for 2021 ¥174,000
+ILLUSTRATION 
+19A.7 
+Computation 
+of 
+Total 
+Income
+Tax Expense, 2021
+Akai records income taxes payable, deferred income taxes, and income tax
+expense as follows.
+Income Tax Expense
+Deferred Tax Asset
+Income Taxes Payable
+Deferred Tax Liability
+Financial Statement Presentation—2021
+Companies should classify deferred tax assets and liabilities as non-current
+on the statement of financial position. Deferred tax assets are therefore
+netted against deferred tax liabilities to compute a net deferred asset
+(liability). Illustration 19A.8 shows the classification of Akai’s deferred
+tax accounts at the end of 2021.
+
+Resulting Deferred Tax
+Temporary Difference
+(Asset)
+Liability
+Installment sales
+¥179,200
+Depreciation
+Warranty costs
+¥(62,400)
+Totals
+¥(62,400)
+¥186,400
+ILLUSTRATION 19A.8 Classification of Deferred Tax Accounts,
+End of 2021
+As seen in Illustration 19A.9, the statement of financial position at the
+end of 2021 reports the following.
+Non-current liabilities
+Deferred tax liability (¥186,400 − ¥62,400) ¥124,000
+Current liabilities
+Income taxes payable
+¥ 50,000
+ILLUSTRATION 
+19A.9 
+Statement 
+of 
+Financial 
+Position
+Presentation of Deferred Taxes, 2021
+Akai’s income statement for 2021 reports the following, as shown in
+Illustration 19A.10.
+Income before income taxes
+¥412,000
+Income tax expense
+Current
+¥ 50,000
+Deferred
+Net income
+¥238,000
+ILLUSTRATION 
+19A.10 
+Income 
+Statement 
+Presentation
+of Income Tax Expense, 2021
+Second Year—2022
+1. During 2022, Akai collected ¥112,000 from customers for the
+receivables arising from contracts completed in 2021. The company
+
+expects recovery of the remaining receivables to result in taxable
+amounts of ¥112,000 in each of the following three years.
+2. In 2022, the company completed four new contracts that allow for the
+customer to pay on an installment basis. These installment sales
+created new installment receivables. Future collections of these
+receivables will result in reporting income of ¥64,000 for tax purposes
+in each of the next four years.
+3. During 2022, Akai continued to depreciate the assets acquired in 2021
+according to the depreciation schedules presented earlier. Thus,
+depreciation amounted to ¥90,000 for financial reporting purposes
+and ¥172,800 for tax purposes.
+4. An analysis at the end of 2022 of the product warranty liability account
+shows the following details.
+Balance of liability at beginning of 2022
+¥156,000
+Expense for 2022 income statement purposes
+Amount paid for contracts completed in 2021
+Amount paid for contracts completed in 2022
+Balance of liability at end of 2022
+¥230,000
+The balance of the liability is expected to require expenditures in the
+future as follows.
+¥100,000 in 2023 due to 2021 contracts
+50,000 in 2023 due to 2022 contracts
+80,000 in 2024 due to 2022 contracts
+¥230,000
+5. During 2022, non-taxable governmental bond interest revenue was
+¥24,000.
+6. Akai accrued a loss of ¥172,000 for financial reporting purposes
+because of pending litigation. This amount is not tax-deductible until
+the period the loss is realized, which the company estimates to be
+7. Pretax financial income for 2022 amounts to ¥504,800.
+8. The enacted tax rates still in effect are:
+
+2022 and later years 40%
+Taxable Income and Income Taxes Payable—2022
+Akai computes taxable income for 2022 as shown in Illustration 19A.11.
+Pretax financial income for 2022
+¥504,800
+Permanent difference:
+Non-taxable revenue—governmental bond interest
+Reversing temporary differences:
+Collection on 2021 installment sales
+Payments on warranties from 2021 contracts
+Originating temporary differences:
+Excess contract income per books—2022 contracts
+Excess depreciation per tax
+Excess warranty expense per books—2022 contracts
+Loss accrual per books
+Taxable income for 2022
+¥500,000
+ILLUSTRATION 19A.11 Computation of Taxable Income, 2022
+Illustration 19A.12 shows income taxes payable for 2022.
+Taxable income for 2022
+¥500,000
+Tax rate
+× .40
+Income taxes payable (current tax expense) for 2022 ¥200,000
+ILLUSTRATION 19A.12 Computation of Income Taxes Payable,
+End of 2022
+Computing Deferred Income Taxes—End of 2022
+The schedule in Illustration 19A.13 summarizes the temporary
+differences existing at the end of 2022 and the resulting future taxable and
+deductible amounts.
+
+ILLUSTRATION 19A.13 Schedule of Future Taxable and
+Deductible Amounts, End of 2022
+Akai computes the amounts of deferred income taxes to be reported at the
+end of 2022 as shown in Illustration 19A.14.
+Temporary Difference
+Future
+Taxable 
+(Deductible) 
+Amounts
+Tax 
+Rate
+Deferred Tax
+(Asset)
+Liability
+Installment sales
+¥592,000* 40%
+¥236,800
+Depreciation
+Warranty costs
+¥ (92,000)
+Loss accrual
+Totals
+¥290,800
+¥(160,800)
+¥277,120**
+*Cumulative temporary difference = ¥336,000 + ¥256,000
+**Because of a flat tax rate, these totals can be reconciled: ¥290,800 × .40
+= ¥(160,800) + ¥277,120
+ILLUSTRATION 19A.14 Computation of Deferred Income
+Taxes, End of 2022
+Deferred Tax Expense (Benefit) and the Journal Entry to
+Record Income Taxes—2022
+To determine the deferred tax expense (benefit), Akai must compare the
+beginning and ending balances of the deferred income tax accounts, as
+shown in Illustration 19A.15.
+
+Deferred tax asset at the end of 2022
+¥160,800
+Deferred tax asset at the beginning of 2022
+Deferred tax expense (benefit)
+¥ (98,400)
+Deferred tax liability at the end of 2022
+¥277,120
+Deferred tax liability at the beginning of 2022
+Deferred tax expense (benefit)
+¥ 90,720
+ILLUSTRATION 19A.15 Computation of Deferred Tax Expense
+(Benefit), 2022
+The deferred tax expense (benefit) and the total income tax expense for
+2022 are therefore as shown in Illustration 19A.16.
+Deferred tax expense (benefit)
+¥ (98,400)
+Deferred tax expense (benefit)
+Deferred tax benefit for 2022
+Current tax expense for 2022
+Income tax expense (total) for 2022
+¥192,320
+ILLUSTRATION 
+19A.16 
+Computation 
+of 
+Total 
+Income
+Tax Expense, 2022
+The deferred tax expense of ¥90,720 and the deferred tax benefit of
+¥98,400 net to a deferred tax benefit of ¥7,680 for 2022.
+Akai records income taxes for 2022 with the following journal entry.
+Income Tax Expense
+Deferred Tax Asset
+Income Taxes Payable
+Deferred Tax Liability
+Financial Statement Presentation—2022
+Illustration 19A.17 shows the classification of Akai’s deferred tax
+accounts at the end of 2022.
+
+Resulting Deferred Tax
+Temporary Difference
+(Asset)
+Liability
+Installment sales
+¥236,800
+Depreciation
+Warranty costs
+¥ (92,000)
+Loss accrual
+Totals
+¥(160,800)
+¥277,120
+ILLUSTRATION 
+19A.17 
+Classification 
+of 
+Deferred 
+Tax
+Accounts, End of 2022
+As shown in Illustration 19A.18, Akai’s statement of financial position at
+the end of 2022 reports the following amounts.
+Non-current liabilities
+Deferred tax liability (¥277,120 − ¥160,800) ¥116,320
+Current liabilities
+Income taxes payable
+¥200,000
+ILLUSTRATION 19A.18 Statement 
+of 
+Financial 
+Position
+Presentation of Deferred Taxes, End of 2022
+The income statement for 2022 reports the following amounts as shown in
+Illustration 19A.19.
+Income before income taxes
+¥504,800
+Income tax expense
+Current
+¥200,000
+Deferred
+Net income
+¥312,480
+ILLUSTRATION 19A.19 Income Statement Presentation of
+Income Tax Expense, 2022
+APPENDIX 19B Accounting for Net Operating
+Loss Carrybacks
+
+LEARNING OBJECTIVE *6
+Explain the accounting for loss carrybacks.
+As discussed in the chapter, many countries permit the carryforward of
+current net operating losses to offset future taxable income. Some
+countries also permit net operating losses to be carried back as well. In
+most cases, the carryback period is limited. For example, carrybacks are
+permitted in Canada for three years, and in both France and Japan for one
+year. In many other countries, including Austria, Colombia, and Hong
+Kong, no carrybacks are permitted, only carryforwards.13 In this appendix,
+we present the accounting for loss carrybacks when they are available to a
+company.
+Loss Carryback
+Through use of a loss carryback, a company may carry the net operating
+loss back two years and receive refunds for income taxes paid in those
+years. The company must apply the loss to the earlier year first and then to
+the second year. It may carry forward any loss remaining after the two-
+year carryback to offset future taxable income. Illustration 19B.1
+diagrams the loss carryback procedure, assuming a loss in 2022.
+ILLUSTRATION 19B.1 Loss Carryback Procedure
+Loss Carryback Example
+To illustrate the accounting procedures for a net operating loss carryback,
+assume that Groh Inc. has no temporary or permanent differences. Groh
+experiences the following.
+
+Year Taxable Income 
+or Loss
+Tax Rate Tax Paid
+—
+–0–
+In 2022, Groh incurs a net operating loss that it decides to carry back.
+Assuming a two-year carryback, Groh generally must apply the carryback
+first to the second year preceding the loss year. Therefore, it carries
+the loss back first to 2020. Then, Groh carries back any unused loss to
+2021. Accordingly, Groh files amended tax returns for 2020 and 2021,
+receiving refunds for the $65,000 ($15,000 + $50,000) of taxes paid in
+those years.
+For accounting as well as tax purposes, the $65,000 represents the tax
+effect (tax benefit) of the loss carryback. Groh should recognize this tax
+effect in 2022, the loss year. Since the tax loss gives rise to a refund that is
+both measurable and currently realizable, Groh should recognize the
+associated tax benefit in this loss period.
+Groh makes the following journal entry for 2022.
+Income Tax Refund Receivable
+Income Tax Expense (Loss Carryback)
+Groh reports the account debited, Income Tax Refund Receivable, on
+the statement of financial position as a current asset at December 31, 2022.
+It reports the account credited on the income statement for 2022 as shown
+in Illustration 19B.2.
+
+Groh Inc.
+Income Statement (partial) for 2022
+Operating loss before income taxes
+Income tax benefit
+Income tax expense (loss carryback)
+Net loss
+ILLUSTRATION 19B.2 Recognition of the Benefit of the Loss
+Carryback in the Loss Year
+Since the $500,000 net operating loss for 2022 exceeds the $300,000 total
+taxable income from the two preceding years, Groh carries forward the
+remaining $200,000 loss.
+Loss Carryback with Carryforward
+If a carryback fails to fully absorb a net operating loss (as in the Groh
+example) or if the company decides not to carry the loss back, then it can
+carry forward the loss. To illustrate, return to the Groh example from the
+preceding section. In 2022, the company records the tax effect of the
+$200,000 loss carryforward as a deferred tax asset of $50,000 ($200,000 ×
+.25), assuming that the enacted future tax rate is 25 percent. Groh records
+the benefits of the carryback and the carryforward in 2022 as follows.
+Groh realizes the income tax refund receivable of $65,000 immediately as
+a refund of taxes paid in the past. It establishes a Deferred Tax Asset
+account for the benefits of future tax savings. The two accounts credited
+are contra income tax expense items, which Groh presents on the 2022
+income statement shown in Illustration 19B.3.
+
+Groh Inc.
+Income Statement (partial) for 2022
+Operating loss before income taxes
+Income tax benefit
+Income tax expense (loss carryback)
+Income tax expense (loss carryforward)
+Net loss
+ILLUSTRATION 19B.3 Recognition of the Benefit of the Loss
+Carryback and Carryforward in the Loss Year
+The current tax benefit of $65,000 is the income tax refundable for the
+year. As shown earlier, Groh determines this amount by applying the
+carryback provisions of the tax law to the taxable loss for 2022. The
+$50,000 is the deferred tax benefit for the year, which results from an
+increase in the deferred tax asset, as discussed in the chapter.
+Review and Practice
+Key Terms Review
+asset-liability method
+*current tax benefit
+current tax expense
+deductible amounts
+deductible temporary difference
+deferred tax asset
+deferred tax benefit
+deferred tax expense
+deferred tax liability
+effective tax rate
+*Income Tax Refund Receivable
+intraperiod tax allocation
+
+*loss carryback
+loss carryforward
+net operating loss (NOL)
+originating temporary difference
+permanent difference
+pretax financial income
+probable
+reversing difference
+substantially enacted tax rate
+taxable amounts
+taxable income
+taxable temporary difference
+*tax effect (tax benefit)
+temporary difference
+Learning Objectives Review
+1 Describe the fundamentals of accounting for income taxes.
+Differences between pretax financial income and taxable income.
+Companies compute pretax financial income (or income for book
+purposes) in accordance with IFRS. They compute taxable income (or
+income for tax purposes) in accordance with prescribed tax regulations.
+Because tax regulations and IFRS differ in many ways, so frequently do
+pretax financial income and taxable income. Differences may exist, for
+example, in the timing of revenue recognition and the timing of expense
+recognition.
+Temporary differences and future taxable amounts. Revenue
+recognized for book purposes in the period when the performance
+obligation is satisfied but deferred and reported as revenue for tax
+purposes when collected results in future taxable amounts. The future
+taxable amounts will occur in the periods the company recovers the
+
+receivables and reports the collections as revenue for tax purposes. This
+results in a deferred tax liability.
+Temporary differences and future deductible amounts. An accrued
+warranty expense that a company pays for and deducts for tax purposes, in
+a period later than the period in which it incurs and recognizes it for book
+purposes, results in future deductible amounts. The future deductible
+amounts will occur in the periods during which the company settles the
+related liabilities for book purposes. This results in a deferred tax asset.
+Non-recognition of a deferred tax asset. A deferred tax asset should
+be reduced if it is probable that the company will not realize some portion
+or all of the deferred tax asset. The company should carefully consider
+possible sources of taxable income and related factors to assess the
+probability that taxable income will be available, against which the unused
+tax losses or unused tax credits can be utilized. To the extent that it is not
+probable that taxable profit will be available, against which the unused tax
+losses or unused tax credits can be utilized, the deferred tax asset is not
+recognized.
+2 Identify additional issues in accounting for income taxes.
+Presentation of income tax expense. Significant components of
+income tax expense should be disclosed in the income statement or in the
+notes to the financial statements. The most commonly encountered
+components are the current expense (or benefit) and the deferred expense
+(or benefit).
+Temporary and permanent differences. Examples of temporary
+differences are (1) revenue or gains that are taxable after recognition in
+financial income, (2) expenses or losses that are deductible after
+recognition in financial income, (3) revenues or gains that are taxable
+before recognition in financial income, and (4) expenses or losses that are
+deductible before recognition in financial income. Examples of permanent
+differences are (1) items recognized for financial reporting purposes but
+not for tax purposes, and (2) items recognized for tax purposes but not for
+financial reporting purposes.
+Tax rates and tax rate changes. Companies may use tax rates other
+than the current rate only after enactment or substantial enactment of the
+future tax rates. When a change in the tax rate is enacted, a company
+
+should immediately recognize its effect on the deferred income tax
+accounts. The company reports the effects as an adjustment to income tax
+expense in the period of the change.
+3 Explain the accounting for loss carryforwards.
+A company may carry a net operating loss forward to offset future taxable
+income and reduce taxes payable in future years. A valuation allowance
+may be established for the deferred tax asset that arises from the
+carryforward, depending on uncertainty about future taxable income.
+4 Describe the presentation of deferred income taxes in
+financial statements.
+Presentation. Companies report deferred tax accounts on the statement
+of financial position as assets and liabilities. Companies classify taxes
+receivable or payable as current assets or current liabilities, and these
+items may be offset in the statement of financial position. Deferred tax
+assets and deferred tax liabilities are also separately recognized and
+measured, and may be offset in the statement of financial position. The net
+deferred tax asset or net deferred tax liability is reported in the non-current
+section of the statement of financial position. In the income statement,
+companies allocate income tax expense (or benefit) to continuing
+operations, discontinued operations, other comprehensive income, and
+prior period adjustments (intraperiod tax allocation), and indicate current
+tax expense (benefit) and deferred tax expense (benefit). An important
+disclosure is the reconciliation between actual tax expense and the
+applicable tax rate.
+Basic principles. Companies apply the following basic principles in
+accounting for income taxes at the date of the financial statements. (1)
+Recognize a current tax liability or asset for the estimated taxes payable or
+refundable on the tax return for the current year. (2) Recognize a deferred
+tax liability or asset for the estimated future tax effects attributable to
+temporary differences and carryforwards using the enacted tax rate. (3)
+Base the measurement of current and deferred tax liabilities and assets on
+provisions of the enacted (or substantially enacted) tax law. (4) Reduce the
+measurement of deferred tax assets, if necessary, by the amount of any tax
+
+benefits that, based on available evidence, companies do not expect to
+realize.
+*5 Apply the concepts and procedures of interperiod tax
+allocation.
+Accounting for deferred taxes involves the following steps. (1) Calculate
+taxable income and income taxes payable for the year. (2) Compute
+deferred income taxes at the end of the year. (3) Determine deferred tax
+expense (benefit) and make the journal entry to record income taxes. (4)
+Classify deferred tax assets and liabilities and report a net deferred tax
+asset or liability.
+*6 Explain the accounting for loss carrybacks.
+When permitted by law, a company may carry back a net operating loss; the
+length of the period varies by country. Any loss remaining after the
+carryback may be carried forward to offset future taxable income.
+Enhanced Review and Practice
+Go online for multiple-choice questions with solutions, review
+exercises with solutions, and a full glossary of all key terms.
+Practice Problem
+Johnny Bravo Ltd. began operations in 2022 and has provided the
+following information.
+1. Pretax financial income for 2022 is £100,000.
+2. The tax rate enacted for 2022 and future years is 40%.
+3. Differences between the 2022 income statement and tax return are
+listed below.
+a. Warranty expense accrued for financial reporting purposes
+amounts to £5,000. Warranty deductions per the tax return
+amount to £2,000.
+
+b. Gross profit on construction contracts using the percentage-of-
+completion method for books amounts to £92,000. Gross profit
+on construction contracts for tax purposes amounts to £62,000.
+c. Depreciation of property, plant, and equipment for financial
+reporting purposes amounts to £60,000. Depreciation of these
+assets amounts to £80,000 for the tax return.
+d. A £3,500 fine paid for violation of pollution laws was deducted
+in computing pretax financial income.
+e. Interest revenue earned on an investment in tax-exempt
+government bonds amounts to £1,400.
+4. Taxable income is expected for the next few years.
+Instructions
+a. Compute taxable income for 2022.
+b. Compute the deferred taxes at December 31, 2022, that relate to the
+temporary differences described above.
+c. Prepare the journal entry to record income tax expense, deferred
+taxes, and income taxes payable for 2022.
+d. Draft the income tax expense section of the income statement,
+beginning with “Income before income taxes.”
+e. Assume that in 2023 Johnny Bravo reported a pretax operating loss
+of £100,000. There were no other temporary or permanent
+differences in tax and book income for 2023. Prepare the journal
+entry to record income tax expense for 2023. It is probable that
+Johnny Bravo will return to profitability in 2024.
+Solution
+a. Pretax financial income
+Permanent differences
+Fine for pollution
+Tax-exempt interest
+Originating temporary differences
+
+Excess warranty expense per books (£5,000 – £2,000)
+Excess construction profits per books (£92,000 –
+Excess depreciation per tax (£80,000 – £60,000)
+Taxable income
+b. 
+Temporary
+Difference
+Future Taxable
+(Deductible) 
+Amounts
+Tax
+Rate
+Deferred Tax
+(Asset) Liability
+Warranty costs
+Construction
+contracts
+Depreciation
+Totals
+c. Income Tax Expense
+Deferred Tax Asset
+1,200***
+Deferred Tax Liability
+20,000**
+Income Taxes Payable
+22,040*
+*Taxable income for 2022 [from part (a)]
+Tax rate
+× .40
+Income taxes payable for 2022
+**Deferred tax liability at the end of 2022
+[from part (b)]
+Deferred tax liability at the beginning of 2022
+–0–
+Deferred tax expense for 2022
+***Deferred tax asset at the end of 2022 [from
+part (b)]
+Deferred tax asset at the beginning of 2022
+–0–
+Deferred tax benefit for 2022
+d. 
+Income before income taxes
+Income tax expense
+Current
+
+Deferred
+Net income
+e. 
+Deferred Tax Asset*
+Income Tax Expense (Loss Carryforward)
+*Carryforward (£100,000 × .40 = £40,000 deferred tax asset)
+The full amount of the deferred tax asset is recognized in 2023, since it
+is probable that Johnny Bravo will return to profitability in 2024.
+Exercises, Problems, Problem Solution Walkthrough Videos, Data
+Analytics Activities, and many more assessment tools and resources are
+available for practice in Wiley’s online courseware.
+Questions
+1. Explain the difference between pretax financial income and taxable
+income.
+2. What are the two objectives of accounting for income taxes?
+3. Explain the meaning of a temporary difference as it relates to deferred
+tax computations, and give three examples.
+4. Differentiate between an originating temporary difference and a
+reversing difference.
+5. The book basis of depreciable assets for Erwin SA is €900,000 and the
+tax basis is €700,000 at the end of 2022. The enacted tax rate is 34% for all
+periods. Determine the amount of deferred taxes to be reported on the
+statement of financial position at the end of 2022.
+6. Roth AG has a deferred tax liability of €68,000 at the beginning of 2022.
+At the end of 2022, it reports accounts receivable on the books at €90,000
+and the tax basis at zero (its only temporary difference). If the enacted tax
+rate is 34% for all periods and income taxes payable for the period is
+€230,000, determine the amount of total income tax expense to report for
+
+7. What is the difference between a future taxable amount and a future
+deductible amount? When is it not appropriate to recognize a portion or all
+of a deferred tax asset?
+8. Pretax financial income for Lake plc is £300,000, and its taxable income
+is £100,000 for 2022. Its only temporary difference at the end of the period
+relates to a £70,000 difference due to excess depreciation for tax purposes.
+If the tax rate is 40% for all periods, compute the amount of income tax
+expense to report in 2022. No deferred income taxes existed at the
+beginning of the year.
+9. Feagler plc’s current income taxes payable related to its taxable income
+for 2022 is €460,000. In addition, Feagler’s deferred tax asset decreased
+€20,000 during 2022. What is Feagler’s income tax expense for 2022?
+10. Lee Ltd.’s current income taxes payable related to its taxable income
+for 2022 is £320,000. In addition, Lee’s deferred tax liability increased
+£40,000, and its deferred tax asset increased £10,000 during 2022. What is
+Lee’s income tax expense for 2022?
+11. How are deferred tax assets and deferred tax liabilities reported on the
+statement of financial position?
+12. Interest on governmental bonds is often referred to as a permanent
+difference when determining the proper amount to report for deferred
+taxes. Explain the meaning of permanent differences, and give two other
+examples.
+13. At the end of the year, Falabella Co. has pretax financial income of
+$550,000. Included in the $550,000 is $70,000 interest income on
+governmental bonds, a $25,000 fine for dumping hazardous waste, and
+depreciation of $60,000. Depreciation for tax purposes is $45,000.
+Compute income taxes payable, assuming the tax rate is 30% for all
+periods.
+14. Addison Ltd. has one temporary difference at the beginning of 2021 of
+£500,000. The deferred tax liability established for this amount is
+£150,000, based on a tax rate of 30%. The temporary difference will
+provide the following taxable amounts: £100,000 in 2022, £200,000 in
+2023, and £200,000 in 2024. If a new tax rate for 2021 of 20% is enacted
+into law at the end of 2021, what is the journal entry necessary in 2021 (if
+any) to adjust deferred taxes?
+
+15. What are some of the reasons that the components of income tax
+expense should be disclosed and a reconciliation between the statutory tax
+rate and the effective rate be provided?
+16. Describe a “loss carryforward.” Discuss the uncertainty when it arises.
+17. What are the possible treatments for tax purposes of a net operating
+loss? What are the circumstances that determine the option to be applied?
+What is the proper treatment of a net operating loss for financial reporting
+purposes?
+18. What controversy relates to the accounting for net operating loss
+carryforwards?
+19. What is an uncertain tax position, and what are the general guidelines
+for accounting for uncertain positions?
+Brief Exercises
+LEARNING OBJECTIVE 7
+Compare the accounting for income taxes under IFRS and U.S. GAAP.
+Similar to IFRS, U.S. GAAP uses the asset and liability approach for
+recording deferred taxes. The differences between IFRS and U.S. GAAP
+involve a few exceptions to the asset-liability approach; some minor
+differences in the recognition, measurement, and disclosure criteria; and
+differences in implementation guidance.
+
+Relevant Facts
+Following are the key similarities and differences between U.S. GAAP and
+IFRS related to accounting for taxes.
+Similarities
+As indicated above, U.S. GAAP and IFRS both use the asset and
+liability approach for recording deferred taxes.
+After a recent FASB standard, the classification of deferred taxes under
+U.S. GAAP is always non-current, and not based on the classification of
+the asset or liability to which it relates. This accounting has now
+converged with IFRS.
+Differences
+U.S. GAAP uses an impairment approach to assess the need for a
+valuation allowance. In this approach, the deferred tax asset is
+recognized in full. It is then reduced by a valuation account if it is
+likely that all or a portion of the deferred tax asset will not be realized.
+Under IFRS, an affirmative judgment approach is used, by which a
+deferred tax asset is recognized up to the amount that is probable to be
+realized.
+Under U.S. GAAP, the enacted tax rate must be used in measuring
+deferred tax assets and liabilities. IFRS uses the enacted tax rate or
+substantially enacted tax rate (“substantially enacted” means virtually
+certain).
+Under U.S. GAAP, charges or credits for all tax items are recorded in
+income. That is not the case under IFRS, in which the charges or
+credits related to certain items are reported in equity.
+U.S. GAAP requires companies to assess the likelihood of uncertain tax
+positions being sustainable upon audit. Potential liabilities must be
+accrued and disclosed if the position is more likely than not to be
+disallowed. Under IFRS, all potential liabilities must be recognized.
+With respect to measurement, IFRS uses an expected-value approach
+to measure the tax liability, which differs from U.S. GAAP.
+About the Numbers
+U.S. GAAP/IFRS Differences
+
+The following schedule taken from an annual report of GlaxoSmithKline
+plc (GBR) indicates the impact of differences in IFRS and U.S. GAAP for
+deferred taxes.
+Reconciliation to U.S. accounting principles
+(e) Deferred taxation (in part):
+Total tax expense (in millions of British pounds)
+IFRS:
+Current tax expense
+Deferred tax (credit)/expense
+Total tax expense
+U.S. GAAP:
+Current tax expense
+Deferred tax credit
+Total tax expense
+Total tax expense difference
+Due to the differences highlighted above, Glaxo’s income tax expense
+under IFRS is £251 million higher than that reported under U.S. GAAP.
+GAAP Self-Test Questions
+1. Which of the following is false?
+a. Under U.S. GAAP, deferred taxes are reported based on the
+classification of the related asset or liability.
+b. Under IFRS, all potential liabilities must be recognized.
+c. Under U.S. GAAP, the enacted tax rate is used to measure deferred tax
+assets and liabilities.
+d. Under IFRS, all deferred tax assets and liabilities are classified as non-
+current.
+2. Which of the following statements is correct with regard to IFRS and
+GAAP?
+
+a. Under U.S. GAAP, all potential liabilities related to uncertain tax
+positions must be recognized.
+b. The tax effects related to certain items are reported in equity under
+U.S. GAAP; under IFRS, the tax effects are charged or credited to
+income.
+c. IFRS uses an affirmative judgment approach for deferred tax assets,
+whereas U.S. GAAP uses an impairment approach for deferred tax
+assets.
+d. IFRS classifies deferred taxes based on the classification of the related
+asset or liability.
+3. Under GAAP:
+a. “probable” is defined as a level of likelihood of at least slightly more
+than 60%.
+b. a company should reduce a deferred tax asset when it is likely that
+some or all of it will not be realized by using a valuation allowance.
+c. a company considers only positive evidence when determining
+whether to recognize a deferred tax asset.
+d. deferred tax assets must be evaluated every 5 years.
+4. Stephens Company has a deductible temporary difference of $2,000,000
+at the end of its first year of operations. Its tax rate is 40 percent. Stephens
+has $1,800,000 of income taxes payable. After a careful review of all
+available evidence, Stephens determines that it is probable that it will not
+realize $200,000 of this deferred tax asset. On Stephens Company’s
+balance sheet (statement of financial position) at the end of its first year of
+operations, what is the amount of deferred tax asset recorded under U. S.
+GAAP?
+a. $2,000,000.
+b. $1,800,000.
+c. $800,000.
+d. $600,000.
+
+5. Lincoln Company has the following four deferred tax items at December
+31, 2022. The deferred tax assets and the deferred tax liabilities relate to
+income taxes levied by the same tax authority.
+Temporary Difference
+Deferred
+Tax Asset
+Deferred
+Tax
+Liability
+Rent collected in advance: recognized when a
+performance obligation is satisfied for accounting
+purposes and when received for tax purposes.
+Use of straight-line depreciation for accounting
+purposes and accelerated depreciation for tax
+purposes.
+Recognition of income on installment sales at the
+time of sale for accounting purposes and during
+period of collection for tax purposes.
+Warranty liabilities: recognized for accounting
+purposes at time of sale and for tax purposes at time
+paid.
+On Lincoln’s December 31, 2022, balance sheet, it will report:
+a. $394,000 non-current deferred tax liability and $689,000 non-current
+deferred tax asset.
+b. $330,000 non-current liability and $625,000 current deferred tax
+asset.
+c. $295,000 non-current deferred tax asset.
+d. $295,000 current tax receivable.
+GAAP Concepts and Application
+GAAP19.1 Briefly describe some of the similarities and differences
+between IFRS and U.S. GAAP with respect to income tax accounting.
+Answers to GAAP Self-Test Questions
+1. a 2. c 3. b 4. c 5. c
+Notes
+
+1 Determining the amount of tax to pay the tax authority is a costly
+exercise for both individuals and companies in most countries.
+Individuals and businesses must pay not only the taxes owed but also
+incur the costs of their own time spent filing and complying with tax
+laws, including the tax compliance outlays that individuals and
+businesses pay to help them file their taxes. One study estimated this
+cost to be 30 cents on every dollar sent to the government. Another
+study noted how big the tax-compliance industry has become. See A.
+Laffer, “The 30-Cent Tax Premium,” Wall Street Journal (April 18, 2011)
+and Michael Tasselmyer, “A Complex Problem: The Compliance
+Burdens of the Tax Code,” National Taxpayers Union Foundation (April
+2 Substantially enacted generally means “virtually certain.” The IASB
+provides guidelines as to how to interpret substantially enacted. [1] (See
+the Authoritative Literature References section near the end of the
+chapter.) For purposes of discussion and homework, assume that the
+term “enacted” is interchangeable with “substantially enacted.”
+3 Tax rate changes nearly always will substantially impact income numbers
+and the reporting of deferred income taxes on the statement of financial
+position. As a result, you can expect to hear an economic consequences
+argument every time a government decides to change the tax rates. For
+example, when one country raised the corporate rate from 34 percent to
+35 percent, companies took an additional “hit” to earnings if they were
+in a deferred tax liability position.
+4 The length of carryforward periods varies by country. For example, tax
+losses can be carried forward indefinitely in some countries but only 10
+years in others. The same is true for loss carrybacks (discussed in
+Appendix 19B).
+5 This requirement is controversial because many believe it is
+inappropriate to recognize deferred tax assets except when assured
+beyond a reasonable doubt. Others argue that companies should never
+recognize deferred tax assets for loss carryforwards until realizing the
+income in the future.
+6 Companies implement a tax-planning strategy to realize a tax benefit for
+an operating loss or tax carryforward before it expires. Companies
+
+consider tax-planning strategies when assessing the need for a deferred
+tax asset to recognize.
+7 Sony Corp. (JPN) announced a $3.2 billion net loss, blaming a $4.4
+billion write-off on a certain portion of deferred tax assets in Japan, in
+what would be the company’s third straight year of red ink. The write-off
+is an admission that the March 2011 earthquake and tsunami had
+shattered its expectations for a robust current fiscal year. In the wake of
+the disaster, Sony temporarily shut 10 plants in and around the quake-
+hit region. Like other Japanese auto and electronics makers, Sony faced
+uncertainties because its recovery prospects are partially dependent on
+parts and materials suppliers, many of which have also been affected by
+the quake. Thus, the post-quake outlook put Sony in a position where it
+had to set aside reserves of approximately $3 billion on certain deferred
+tax assets in its fiscal fourth quarter. See J. Osawa, “Sony Expects Hefty
+Loss: Electronics Giant Reverses Prediction for Full-Year Profit,
+Blaming Earthquake,” Wall Street Journal (May 24, 2011).
+8 Companies are permitted to offset deferred tax assets and deferred tax
+liabilities if, and only if: (1) the company has a legally enforceable right
+to set off current tax assets against current tax liabilities, and (2) the
+deferred tax assets and the deferred tax liabilities relate to income taxes
+levied by the same tax authority and for the same company. [6]
+9 Deferred tax amounts should not be discounted. The IASB apparently
+considers discounting to be an unnecessary complication even if the
+effects are material. [7]
+10 Other components that should be reported are the deferred tax expense
+arising from the write-down, or reversal of a previous write-down, of a
+deferred tax asset, as well as the amount of tax expense (benefit)
+relating to those changes in accounting policies and errors that are
+included in profit or loss in accordance with IAS 8. [8]
+11 Often, the most meaningful rate is the domestic rate of tax in the
+country in which the company is located, aggregating the tax rate
+applied for national taxes, with the rates applied for any local taxes,
+which are computed on a substantially similar level of taxable profit (tax
+loss). However, for a company operating in several jurisdictions, it may
+be more meaningful to aggregate separate reconciliations prepared
+using the domestic rate in each individual jurisdiction.
+
+12 P. McConnell, J. Pegg, C. Senyak, and D. Mott, “The ABCs of NOLs,”
+Accounting Issues, Bear Stearns Equity Research. Regulators frown on
+acquisitions done solely to obtain operating loss carryforwards. If they
+determine that the merger is solely tax-motivated, the regulators
+generally disallow the deductions. But, because it is very difficult to
+determine whether a merger is tax-motivated, the “purchase of
+operating loss carryforwards” continues.
+13 Countries differ as to the years that operating losses can be carried back
+and forward. In our discussion, and when carrybacks are allowed, we
+assume that companies can carry back their operating losses two years
+and can carry them forward 20 years. For homework purposes, use these
+periods as the basis for carrybacks and carryforwards.
+Sources: See Tax Annex to the St. Petersburg G20 Leaders’ Declaration (September 2013) and
+OECD Secretary-General Report to G20 Finance Ministers (Istanbul, Turkey: February 2015);
+Natalia Drozdiak and Sam Schechner, “Amazon Must Pay $300 Million in Back Taxes, EU Says,”
+Wall Street Journal (October 4, 2017); David Pegg, “From Seattle to Luxembourg: How Tax
+Schemes Shaped Amazon,” The Guardian (April 25, 2018); and Fair Tax Mark, The Silicon Six
+and Their $100 Billion Global Tax Gap (December 2019).

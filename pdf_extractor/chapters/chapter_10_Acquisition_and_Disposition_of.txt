@@ -1,0 +1,3668 @@
+CHAPTER 10
+Acquisition and Disposition of Property, Plant, and
+Equipment
+LEARNING OBJECTIVES
+After studying this chapter, you should be able to:
+1. Identify property, plant, and equipment and its related costs.
+2. Discuss the accounting problems associated with the capitalization of
+borrowing costs.
+3. Explain accounting issues related to acquiring and valuing plant assets.
+4. Describe the accounting treatment for costs subsequent to acquisition.
+5. Describe the accounting treatment for the disposal of property, plant, and
+equipment.
+This chapter also includes numerous conceptual discussions that are
+integral to the topics presented here.
+PREVIEW OF CHAPTER 10
+As we indicate in the following opening story, market watchers monitor
+carefully capital expenditures on property, plant, and equipment. In this
+chapter, we discuss the proper accounting for the acquisition, use, and
+disposition of property, plant, and equipment. The content and organization of
+the chapter are as follows. (Note that Global Accounting Insights related to
+property, plant, and equipment is presented in Chapter 11.)
+
+--- Page 768 ---
+Watch Your Spending
+Investments in long-lived assets, such as property, plant, and equipment, are
+important elements in many companies’ statements of financial position. Along
+with research and development, these investments are the driving force for many
+companies in generating cash flows. Property, plant, and equipment information
+reported on a company’s statement of financial position directly affects such items
+as total assets, depreciation expense, cash flows, and net income. As a result,
+companies are careful regarding their spending level for capital expenditures
+(capex).
+Determining the proper level of capital expenditures in many companies is
+challenging. Expenditures that are too much or too little run the risk of decreasing
+cash flows, losing competitive position, and diminishing pricing power. The
+recession in Europe, the financial crisis in 2008 and its lingering effects, and
+China’s reduced level of spending are now slowing down the growth in capital
+expenditures. Western Europe, Latin America, and the Asian-Pacific countries are
+all showing signs of capital expenditure fatigue. The adjacent graph shows that
+global capital expenditures are highly variable and tend to follow the trends in
+revenue and EBITDA growth.
+Even in good times, the issues related to capital expenditures are complex. The
+following areas and subsequent questions have led to many sleepless nights for
+company managers:
+1. Spending volume—how much should be spent?
+2. Capital allocation—what should it be spent on?
+3. Project execution—how does spending transform into real returns?
+
+--- Page 769 ---
+Answers to these questions are not easy, and failure to answer them correctly can
+lead to loss of profitability. It also follows that these issues are of extreme interest
+to users of financial statements. As mentioned previously, too much or too little
+capital spending by companies can lead to decreased cash flows, loss of competitive
+position, and diminished pricing power. Relationships between capital-
+expenditures-to-sales and capital-expenditures-to-depreciation, as well as free cash
+flow, provide insight into the underlying financial flexibility of a company.
+Review and Practice
+Go to the Review and Practice section at the end of the chapter for a
+targeted summary review and practice problem with solution. Multiple-choice
+questions with annotated solutions, as well as additional exercises and practice
+problem with solutions, are also available online.
+Property, Plant, and Equipment
+LEARNING OBJECTIVE 1
+Identify property, plant, and equipment and its related costs.
+Companies like Hon Hai Precision (TWN), Tata Steel (IND), and Royal Dutch
+Shell (GBR and NLD) use assets of a durable nature. Such assets are called
+property, plant, and equipment. Other terms commonly used are plant assets
+and fixed assets. We use these terms interchangeably. Property, plant, and
+equipment is defined as tangible assets that are held for use in production or
+supply of goods and services, for rentals to others, or for administrative purposes;
+they are expected to be used during more than one period. [1] (See the
+Authoritative Literature References section near the end of the chapter.) Property,
+plant, and equipment therefore includes land, building structures (offices,
+factories, warehouses), and equipment (machinery, furniture, tools). The major
+characteristics of property, plant, and equipment are as follows.
+1. They are acquired for use in operations and not for resale. Only assets
+used in normal business operations are classified as property, plant, and
+equipment. For example, an idle building is more appropriately classified
+separately as an investment. Property, plant, and equipment held for possible
+price appreciation are classified as investments. In addition, property, plant,
+and equipment held for sale or disposal are separately classified and reported
+on the statement of financial position. Land developers or subdividers classify
+land as inventory.
+
+--- Page 770 ---
+2. They are long-term in nature and usually depreciated. Property, plant,
+and equipment yield services over a number of years. Companies allocate the
+cost of the investment in these assets to future periods through periodic
+depreciation charges. The exception is land, which is depreciated only if a
+material decrease in value occurs, such as a loss in fertility of agricultural land
+because of poor crop rotation, drought, or soil erosion.
+3. They possess physical substance. Property, plant, and equipment are
+tangible assets characterized by physical existence or substance. This
+differentiates them from intangible assets, such as patents or copyrights.
+Unlike raw material, however, property, plant, and equipment do not
+physically become part of a product held for resale.
+Acquisition of Property, Plant, and Equipment
+Most companies use historical cost as the basis for valuing property, plant, and
+equipment (see Underlying Concepts). Historical cost measures the cash or
+cash equivalent price of obtaining the asset and bringing it to the location and
+condition necessary for its intended use.
+Underlying Concepts
+Fair value is relevant to inventory but less so for property, plant, and
+equipment which, consistent with the going concern assumption, are held for
+use in the business, not for sale like inventory.
+Companies recognize property, plant, and equipment when the cost of the asset can
+be measured reliably and it is probable that the company will obtain future
+economic benefits. [2] For example, when Starbucks (USA) purchases coffee
+makers for its operations, these costs are reported as assets because they can be
+reliably measured and benefit future periods. However, when Starbucks makes
+ordinary repairs to its coffee machines, it expenses these costs because the primary
+period benefited is only the current period.
+In general, companies report the following costs as part of property, plant, and
+equipment. [3]1
+1. Purchase price, including import duties and non-refundable purchase taxes,
+less trade discounts and rebates. For example, British Airways (GBR)
+indicates that aircraft are stated at the fair value of the consideration given
+after offsetting manufacturing credits.
+2. Costs attributable to bringing the asset to the location and condition necessary
+for it to be used in a manner intended by the company. For example, when
+Skanska AB (SWE) purchases heavy machinery from Caterpillar (USA), it
+capitalizes the costs of purchase, including delivery costs.2
+
+--- Page 771 ---
+Companies value property, plant, and equipment in subsequent periods using
+either the cost method or fair value (revaluation) method. Companies can apply the
+cost or fair value method to all the items of property, plant, and equipment or to a
+single class or classes of property, plant, and equipment. For example, a company
+may value land (one class of asset) after acquisition using the revaluation
+accounting method and, at the same time, value buildings and equipment (other
+classes of assets) at cost.
+Most companies use the cost method—it is less expensive to use because the cost
+of an appraiser is not needed. In addition, the revaluation (fair value) method
+generally leads to higher asset values, which means that companies report higher
+depreciation expense and lower net income. This chapter discusses the cost
+method; we illustrate the (fair value) revaluation method in Chapter 11.
+Cost of Land
+All expenditures made to acquire land and ready it for use are considered part of
+the land cost. Thus, when Auchan (FRA) or ÆON (JPN) purchases land on which
+to build a new store, land costs typically include (1) the purchase price; (2) closing
+costs, such as title to the land, attorney’s fees, and recording fees; (3) costs incurred
+in getting the land in condition for its intended use, such as grading, filling,
+draining, and clearing; (4) assumption of any liens, mortgages, or encumbrances on
+the property; and (5) any additional land improvements that have an indefinite life.
+For example, when ÆON purchases land for the purpose of constructing a building,
+it considers all costs incurred up to the excavation for the new building as land
+costs. Removal of old buildings—clearing, grading, and filling—is a land
+cost because these activities are necessary to get the land in condition for
+its intended purpose. ÆON treats any proceeds from getting the land ready for
+its intended use, such as salvage receipts on the demolition of an old building or
+the sale of cleared timber, as reductions in the price of the land.
+In some cases, when ÆON purchases land, it may assume certain obligations on
+the land, such as back taxes or liens. In such situations, the cost of the land is the
+cash paid for it, plus the encumbrances. In other words, if the purchase price of the
+land is ¥50,000,000 cash but ÆON assumes accrued property taxes of ¥5,000,000
+and liens of ¥10,000,000, its land cost is ¥65,000,000.
+ÆON also might incur special assessments for local improvements, such as
+pavements, street lights, sewers, and drainage systems. It should charge these costs
+to the Land account because they are relatively permanent in nature. That is, after
+installation, they are maintained by the local government. In addition, ÆON should
+charge any permanent improvements it makes, such as landscaping, to the Land
+account. It records separately any improvements with limited lives, such as
+private driveways, walks, fences, and parking lots, to the Land Improvements
+account. These costs are depreciated over their estimated lives.
+
+--- Page 772 ---
+Generally, land is part of property, plant, and equipment. However, if the
+major purpose of acquiring and holding land is speculative, a company more
+appropriately classifies the land as an investment. If a real estate concern holds
+the land for resale, it should classify the land as inventory.
+In cases where land is held as an investment, what accounting treatment should be
+given for taxes, insurance, and other direct costs incurred while holding the land?
+Many believe these costs should be capitalized. The reason: They are not generating
+revenue from the investment at this time. Companies generally use this approach
+except when the asset is currently producing revenue (such as rental property).
+Cost of Buildings
+The cost of buildings should include all expenditures related directly to their
+acquisition or construction. These costs include (1) materials, labor, and overhead
+costs incurred during construction, and (2) professional fees and building permits.
+Generally, companies contract others to construct their buildings. Companies
+consider all costs incurred, from excavation to completion, as part of the building
+costs.
+But how should companies account for an old building that is on the site of a newly
+proposed building? Is the cost of removal of the old building a cost of the land or a
+cost of the new building? Recall that if a company purchases land with an old
+building on it, then the cost of demolition less its residual value is a cost
+of getting the land ready for its intended use and relates to the land
+rather than to the new building. In other words, all costs of getting an asset
+ready for its intended use are costs of that asset.
+It follows that any costs that are not directly attributable to getting the building
+ready for its intended use should not be capitalized. For example, start-up costs,
+such as promotional costs related to the building’s opening or operating losses
+incurred initially due to low sales, should not be capitalized. Also, general
+administrative expenses (such as the cost of the finance department) should not be
+allocated to the cost of the building.
+Cost of Equipment
+The term “equipment” in accounting includes delivery equipment, office
+equipment, machinery, furniture and fixtures, furnishings, factory equipment, and
+similar fixed assets. The cost of such assets includes the purchase price, freight and
+handling charges incurred, insurance on the equipment while in transit, cost of
+special foundations if required, assembling and installation costs, and costs of
+conducting trial runs. Costs thus include all expenditures incurred in acquiring the
+equipment and preparing it for use.
+Self-Constructed Assets
+
+--- Page 773 ---
+Occasionally, companies construct their own assets. Determining the cost of such
+machinery and other fixed assets can be a problem. Without a purchase price or
+contract price, the company must allocate costs and expenses to arrive at the cost of
+the self-constructed asset. Materials and direct labor used in construction pose
+no problem. A company can trace these costs directly to work and material orders
+related to the fixed assets constructed.
+However, the assignment of indirect costs of manufacturing creates special
+problems. These indirect costs, called overhead or burden, include power, heat,
+light, insurance, property taxes on factory buildings and equipment, factory
+supervisory labor, depreciation of fixed assets, and supplies.
+Companies can handle overhead in one of two ways:
+1. Assign no fixed overhead to the cost of the constructed asset. The
+major argument for this treatment is that overhead is generally fixed in nature.
+As a result, this approach assumes that the company will have the same costs
+regardless of whether or not it constructs the asset. Therefore, to charge a
+portion of the overhead costs to the equipment will normally reduce current
+expenses and consequently overstate income of the current period. However,
+the company would assign to the cost of the constructed asset variable
+overhead costs that increase as a result of the construction.
+2. Assign a portion of all overhead to the construction process. This
+approach, called a full-costing approach, assumes that costs attach to all
+products and assets manufactured or constructed. Under this approach, a
+company assigns a portion of all overhead to the construction process, as it
+would to normal production. Advocates say that failure to allocate overhead
+costs understates the initial cost of the asset and results in an inaccurate
+future allocation.
+Companies should assign to the asset a pro rata portion of the fixed overhead to
+determine its cost. Companies use this treatment extensively because many believe
+that it results in a better matching of costs with revenues. Abnormal amounts of
+wasted material, labor, or other resources should not be added to the cost of the
+asset. [4]
+If the allocated overhead results in recording construction costs in excess of the
+costs that an outside independent producer would charge, the company should
+record the excess overhead as a period loss rather than capitalize it. This avoids
+capitalizing the asset at more than its fair value. Under no circumstances should a
+company record a “profit on self-construction.”
+Borrowing Costs During Construction
+
+--- Page 774 ---
+LEARNING OBJECTIVE 2
+Discuss the accounting problems associated with the capitalization of
+borrowing costs.
+The proper accounting for borrowing costs3 has been a long-standing
+controversy. Three approaches have been suggested to account for the interest
+incurred in financing the construction of property, plant, and equipment:
+1. Capitalize no borrowing costs during construction. Under this
+approach, interest is considered a cost of financing and not a cost of
+construction. Some contend that if a company had used equity financing rather
+than debt, it would not incur this cost. The major argument against this
+approach is that the use of cash, whatever its source, has an associated implicit
+interest cost, which should not be ignored.
+2. Charge construction with all borrowing costs of funds employed,
+whether identifiable or not. This method maintains that the cost of
+construction should include the cost of financing, whether by cash, debt, or
+equity. Its advocates say that all costs necessary to get an asset ready for its
+intended use, including borrowing costs, are part of the asset’s cost. Interest,
+whether actual or imputed, is a cost, just as are labor and materials. A major
+criticism of this approach is that imputing the cost of equity capital is
+subjective and outside the framework of an historical cost system.
+3. Capitalize only the actual borrowing costs incurred during
+construction. This approach agrees in part with the logic of the second
+approach—that interest is just as much a cost as are labor and materials. But,
+this approach capitalizes only borrowing costs incurred through debt financing.
+(That is, it does not try to determine the cost of equity financing.) Under this
+approach, a company that uses debt financing will have an asset of higher cost
+than a company that uses equity financing. Some consider this approach
+unsatisfactory because they believe the cost of an asset should be the same
+whether it is financed with cash, debt, or equity.
+Illustration 10.1 shows how a company might add borrowing costs (if any) to the
+cost of the asset under the three capitalization approaches.
+
+--- Page 775 ---
+ILLUSTRATION 10.1 Capitalization of Borrowing Costs
+IFRS requires the third approach—capitalizing actual interest (with modifications)
+(see Underlying Concepts). This method follows the concept that the historical
+cost of acquiring an asset includes all costs (including borrowing costs) incurred to
+bring the asset to the condition and location necessary for its intended use. The
+rationale for this approach is that during construction, the asset is not generating
+revenues. Therefore, a company should defer (capitalize) borrowing costs. Once
+construction is complete, a company can utilize the asset in its operations. At this
+point, the company should report borrowing as an expense in the determination of
+net income. It follows that the company should expense any borrowing cost
+incurred in purchasing an asset that is ready for its intended use. [6]
+Underlying Concepts
+The objective of capitalizing borrowing costs is to obtain a measure of
+acquisition cost that reflects a company’s total investment in the asset and to
+charge that cost to future periods benefitted.
+To implement the capitalization approach for borrowing costs, companies consider
+three items:
+1. Qualifying assets.
+2. Capitalization period.
+3. Amount to capitalize.
+Qualifying Assets
+To qualify for the capitalization of borrowing costs, assets must require
+a substantial period of time to get them ready for their intended use or
+sale. A company capitalizes borrowing costs starting at the beginning of the
+capitalization period (described in the next section). Capitalization continues until
+the company substantially readies the asset for its intended use.
+
+--- Page 776 ---
+Assets that qualify for borrowing cost capitalization include assets under
+construction for a company’s own use (including buildings, plants, and large
+machinery) and assets intended for sale or lease that require a substantial period of
+time to produce (e.g., ships or real estate developments).4
+Examples of assets that do not qualify for interest capitalization are (1) assets that
+are in use or ready for their intended use, and (2) inventories that are produced
+over a short period of time.
+Capitalization Period
+The capitalization period is the period of time during which a company
+capitalizes borrowing costs. It begins with the presence of three conditions:
+1. Expenditures for the asset are being incurred.
+2. Activities that are necessary to get the asset ready for its intended use or sale
+are in progress.
+3. Borrowing cost is being incurred.
+Capitalization continues as long as these three conditions are present. The
+capitalization period ends when the asset is substantially complete and ready for its
+intended use.
+Amount to Capitalize
+The amount of borrowing cost to be capitalized varies depending on whether there
+is specific debt that has been incurred to fund the project or whether the project
+is being funded from the general debt obligations of the company.
+When the project is funded by specific debt, the amount capitalized is the actual
+borrowing costs incurred during the capitalization period offset by any investment
+income on temporary investments of funds made available from the borrowings. To
+illustrate the issues related to the capitalization of borrowing costs funded by
+specific debt, assume that on November 1, 2021, Shalla Company contracted Pfeifer
+Construction Co. to construct a building for $1,400,000 on land costing $100,000
+(purchased from the contractor and included in the first payment). Shalla made the
+following payments to the construction company during 2022.
+January 1 March 1
+May 1
+December 31
+Total
+$210,000 $300,000 $540,000
+$450,000
+$1,500,000
+Pfeifer Construction completed the building, ready for occupancy, on December 31,
+2022. Shalla had a 15 percent, three-year, $1,500,000, note to finance purchase of
+land and construction of the building, dated December 31, 2021, with interest
+payable annually on December 31. During 2021, a portion of the proceeds from the
+
+--- Page 777 ---
+borrowing that had not yet been expended in the project were invested and earned
+$60,000 in interest income.
+The project began on January 1 and was completed on December 31, so the
+capitalization period was the full year of 2022. The amount of borrowing costs to be
+capitalized for 2022 would be computed as shown in Illustration 10.2.
+Borrowing costs ($1,500,000 × .15) $225,000
+Investment income
+60,000
+Borrowing costs to be capitalized
+$165,000
+ILLUSTRATION 10.2 Total Borrowing Costs
+Shalla would make the following entries during the year.
+January 1
+Land
+100,000  
+Buildings (or Construction in Process)
+110,000  
+Cash
+ 
+210,000
+March 1
+Buildings
+300,000  
+Cash
+ 
+300,000
+May 1
+Buildings
+540,000  
+Cash
+ 
+540,000
+December 31
+Buildings
+450,000  
+Cash
+ 
+450,000
+Buildings (Capitalized Borrowing Cost)
+225,000  
+Cash
+ 
+225,000
+Cash
+60,000  
+Buildings (Capitalized Borrowing Cost)  
+60,000
+When the project is funded by general debt, some additional calculations and steps
+are included in the process. To illustrate, assume the same facts as the previous
+illustration, but, instead of any specific debt, the project is funded by the general
+debt of the company. Assume that Shalla had the following two debt obligations
+outstanding during 2022:
+1. 10 percent, $1,000,000, 5-year note payable, dated December 31, 2018, with
+interest payable annually on December 31.
+
+--- Page 778 ---
+2. 12 percent, $1,500,000, 10-year bonds issued December 31, 2017, with interest
+payable annually on December 31.
+When a project is funded by general debt, the company will need to determine the
+average carrying amount of the project during the period. This can be computed
+as shown in Illustration 10.3.
+Expenditures
+ 
+ 
+Date
+Amount
+Capitalization Period*
+Average Carrying Amount
+January 1
+$ 210,000
+12/12
+$210,000
+March 1
+300,000
+10/12
+250,000
+May 1
+540,000
+8/12
+360,000
+December 31
+450,000
+0/12
+0
+Totals
+$1,500,000  
+$820,000
+* The capitalization period is the number of months between when the expenditure is made and the end of the
+year or the end of the project, whichever occurs first.
+ILLUSTRATION 10.3 Average Carrying Amount Calculations
+The second amount that is needed when borrowing costs from general debt are
+being used, and there is more than one general debt obligation, is the weighted-
+average borrowing cost. This amount is called the capitalization rate and is
+computed as follows.
+[.10 × ($1,000,000 ÷ $2,500,000)] + [.12 × ($1,500,000 ÷ $2,500,000)] = 11.2%
+By combining these two amounts, the amount of borrowing cost available for
+capitalization is now computed.
+$820,000 × .112 = $91,840
+The final step when the borrowing cost of general debt is used is to apply the
+constraint that the amount capitalized cannot exceed the actual
+borrowing costs incurred during the period. In 2022, total borrowing costs
+were $280,000 [($1,000,000 × .10) + ($1,500,000 × .12)]. The amount capitalized
+will be lower of actual, or the amount computed by multiplying the average
+carrying amount by the capitalization rate. In this case, Shalla will capitalize
+$91,840.
+All of the other entries presented above would be the same except for the interest
+entries on December 31, which would be as follows.
+December 31
+Buildings (Capitalized Borrowing Cost)
+91,840  
+Interest Expense ($280,000 − $91,840) 188,160  
+
+--- Page 779 ---
+Cash
+ 
+280,000
+The final possibility is that the project is funded by a blend of specific debt and
+general debt. To illustrate this case, assume that Shalla has the following debt
+outstanding during 2022.
+Specific Construction Debt
+1. 15 percent, $750,000, 3-year note to finance purchase of land and construction
+of the building, dated December 31, 2021, with interest payable annually on
+December 31. Idle funds from this borrowing were invested during early 2022
+and earned $40,000 in investment income.
+Other Debt
+2. 10 percent, $500,000, 5-year note payable, dated December 31, 2018, with
+interest payable annually on December 31.
+3. 12 percent, $1,500,000, 10-year bonds issued December 31, 2017, with interest
+payable annually on December 31.
+In this case, the expenditures are first allocated to the specific debt to the extent
+possible. Then, the remainder of the expenditures are allocated to the general debt,
+as shown in Illustration 10.4.
+Date
+Expenditure
+Amount
+Allocated to
+Specific
+Borrowings
+Amount
+Allocated to
+General
+Borrowings
+Capitalization
+Period
+Average
+Carrying
+Amount
+January 1
+$ 210,000
+$210,000
+$
+0  
+ 
+March 1
+300,000
+300,000
+0  
+ 
+May 1
+540,000
+240,000
+300,000
+8/12
+$200,000
+December
+31
+450,000
+0
+450,000
+0/12
+0
+Totals
+$1,500,000
+$750,000
+$750,000  
+$200,000
+ILLUSTRATION 10.4 Allocation of Expenditures
+The borrowing costs of the specific debt for this project is $72,500 based on the
+borrowing costs of $112,500 ($1,500,000 × .15) less the investment income of
+$40,000.
+The capitalization rate on the general debt is 11.5 percent {[(.10 × $500,000 ÷
+$2,000,000)] + [.12 × ($1,500,000 ÷ $2,000,000)]}. This results in a potential
+amount of borrowing costs to be capitalized of $23,000 ($200,000 × .115). Since
+this amount is lower than the actual borrowing costs of the general debt of
+$230,000 [($500,000 × .10) + ($1,500,000 × .12)], $23,000 will be capitalized
+
+--- Page 780 ---
+from the general borrowings. The total amount to be capitalized is shown in
+Illustration 10.5.
+Interest costs from specific debt
+$112,500
+Investment income from specific debt funds (40,000)
+Interest costs from general debt
+23,000
+Total borrowing costs capitalized for 2022
+$ 95,500
+ILLUSTRATION 10.5 Summary of Borrowing Costs
+At December 31, the following entry would be made:
+December 31
+Buildings (Capitalized Borrowing Cost) ($112,500 + $23,000) 135,500  
+Interest Expense ($230,000 − $23,000)
+207,000  
+Cash ($112,500 + $230,000)
+ 
+342,500
+Cash
+40,000  
+Buildings (Capitalized Borrowing Cost)
+ 
+40,000
+Disclosures
+For each period, an entity will disclose both the amount of borrowing costs
+capitalized during the period and the capitalization rate used to determine the
+amount of borrowing costs eligible for capitalization. Illustration 10.6 provides
+an example from the financial statements of Royal Dutch Shell (GBR and NLD).
+
+--- Page 781 ---
+Royal Dutch Shell
+6 INTEREST EXPENSE
+($ million)
+2018
+2017
+2016
+Interest incurred and similar charges
+$3,550
+$3,448
+$2,732
+Less: interest capitalized
+(876)
+(622)
+(725)
+Other net losses on fair value hedges of debt
+169
+114
+4
+Accretion expense
+902
+1,102
+1,192
+Total
+$3,745
+$4,042
+$3,303
+The rate applied in determining the amount of interest capitalized in 2018 was 4%
+(2017: 3%; 2016: 3%).
+ILLUSTRATION 10.6 Borrowing Costs Disclosure
+Valuation of Property, Plant, and Equipment
+LEARNING OBJECTIVE 3
+Explain accounting issues related to acquiring and valuing plant assets.
+As with other assets, companies should record property, plant, and
+equipment at the fair value of what they give up or at the fair value of the
+asset received, whichever is more clearly evident. However, the process of
+asset acquisition sometimes obscures fair value. For example, if a company buys
+land and buildings together for one price, how does it determine separate values for
+the land and buildings? We examine these types of accounting problems in the
+following sections.
+Cash Discounts
+When a company purchases plant assets subject to cash discounts for prompt
+payment, how should it report the discount? If it takes the discount, the company
+should consider the discount as a reduction in the purchase price of the asset. But
+should the company reduce the asset cost even if it does not take the discount?
+Two points of view exist on this question. One approach considers the discount—
+whether taken or not—as a reduction in the cost of the asset. The rationale for this
+approach is that the real cost of the asset is the cash or cash equivalent price of the
+
+--- Page 782 ---
+asset. In addition, some argue that the terms of cash discounts are so attractive that
+failure to take them indicates management error or inefficiency.
+With respect to the second approach, its proponents argue that failure to take the
+discount should not always be considered a loss. The terms may be unfavorable, or
+it might not be prudent for the company to take the discount. At present,
+companies use both methods, though most prefer the former method. (For
+homework purposes, treat the discount, whether taken or not, as a reduction in the
+cost of the asset.)
+Deferred-Payment Contracts
+Companies frequently purchase plant assets on long-term credit contracts, using
+notes, mortgages, bonds, or equipment obligations. To properly reflect cost,
+companies account for assets purchased on long-term credit contracts at
+the present value of the consideration exchanged between the
+contracting parties at the date of the transaction.
+For example, Greathouse Company purchases an asset today in exchange for a
+$10,000 zero-interest-bearing note payable four years from now. The company
+would not record the asset at $10,000. Instead, the present value of the $10,000
+note establishes the exchange price of the transaction (the purchase price of the
+asset). Assuming an appropriate interest rate of 9 percent at which to discount this
+single payment of $10,000 due four years from now, Greathouse records this asset
+at $7,084.30 ($10,000 × .70843). [See Table 6.2 for the present value of a single
+sum, PV = $10,000 (PVF4,9%).]
+When no interest rate is stated or if the specified rate is unreasonable, the company
+imputes an appropriate interest rate. The objective is to approximate the interest
+rate that the buyer and seller would negotiate at arm’s length in a similar
+borrowing transaction. In imputing an interest rate, companies consider such
+factors as the borrower’s credit rating, the amount and maturity date of the note,
+and prevailing interest rates. The company uses the cash exchange price of
+the asset acquired (if determinable) as the basis for recording the asset
+and measuring the interest element.
+To illustrate, Sutter AG purchases a specially built robot spray painter for its
+production line. The company issues a €100,000, five-year, zero-interest-bearing
+note to Wrigley Robotics for the new equipment. The prevailing market rate of
+interest for obligations of this nature is 10 percent. Sutter is to pay off the note in
+five €20,000 installments, made at the end of each year. Sutter cannot readily
+determine the fair value of this specially built robot. Therefore, Sutter
+approximates the robot’s value by establishing the fair value (present value) of the
+note. Entries for the date of purchase and dates of payments, plus computation of
+the present value of the note, are as follows.
+
+--- Page 783 ---
+Date of Purchase
+Equipment
+75,816*  
+Notes Payable  
+75,816
+*Present value of note = €20,000 (PVF-OA5,10%)
+ 
+= €20,000 (3.79079); Table 6.4
+ 
+= €75,816
+End of First Year
+Interest Expense 7,582  
+Notes Payable
+12,418  
+Cash
+ 
+20,000
+Interest expense in the first year under the effective-interest approach is €7,582
+(€75,816 × .10). The entry at the end of the second year to record interest and
+principal payment is as follows.
+End of Second Year
+Interest Expense
+6,340  
+Notes Payable
+13,660  
+Cash
+ 
+20,000
+Interest expense in the second year under the effective-interest approach is €6,340
+[(€75,816 − €12,418) × .10].
+If Sutter did not impute an interest rate for the deferred-payment contract, it would
+record the asset at an amount greater than its fair value. In addition, Sutter would
+understate interest expense in the income statement for all periods involved.
+Lump-Sum Purchases
+A common challenge in valuing fixed assets arises when a company purchases a
+group of assets at a single lump-sum price. When this occurs, the company
+allocates the total cost among the various assets on the basis of their relative fair
+values. The assumption is that costs will vary in direct proportion to fair value. This
+is the same principle that companies apply to allocate a lump-sum cost among
+different inventory items.
+To determine fair value, a company should use valuation techniques that are
+appropriate in the circumstances. In some cases, a single valuation technique will
+be appropriate. In other cases, multiple valuation approaches might have to be
+used.5
+
+--- Page 784 ---
+To illustrate, Norduct Homes, Inc. decides to purchase several assets of a small
+heating concern, Comfort Heating, for $80,000. Comfort Heating is in the process
+of liquidation. Its assets sold are as follows.
+ 
+Book Value Fair Value
+Inventory
+$30,000 $ 25,000
+Land
+20,000
+25,000
+Building
+35,000
+50,000
+ 
+$85,000 $100,000
+Norduct Homes allocates the $80,000 purchase price on the basis of the relative
+fair values (assuming specific identification of costs is impracticable), shown in
+Illustration 10.7.
+Inventory
+× $80,000 = $20,000
+Land
+× $80,000 = $20,000
+Building
+× $80,000 = $40,000
+ILLUSTRATION 10.7 Allocation of Purchase Price—Relative Fair Value
+Basis
+Issuance of Shares
+When companies acquire property by issuing securities, such as ordinary shares,
+the par or stated value of such shares fails to properly measure the property cost. If
+trading of the shares is active, the market price of the shares issued is a fair
+indication of the cost of the property acquired. The shares are a good
+measure of the current cash equivalent price.
+For example, Upgrade Living Co. decides to purchase some adjacent land for
+expansion of its carpeting and cabinet operation. In lieu of paying cash for the land,
+the company issues to Deedland Company 5,000 ordinary shares (par value $10)
+that have a market price of $12 per share. Upgrade Living Co. records the following
+entry.
+Land (5,000 × $12)
+60,000  
+Share Capital—Ordinary
+ 
+50,000
+Share Premium—Ordinary  
+10,000
+$25,000
+$100,000
+$25,000
+$100,000
+$50,000
+$100,000
+
+--- Page 785 ---
+If the company cannot determine the fair value of the ordinary shares exchanged
+(based on a market price), it may estimate the fair value of the property. It then
+uses the value of the property as the basis for recording the asset and issuance of
+the ordinary shares.
+Exchanges of Non-Monetary Assets
+The proper accounting for exchanges of non-monetary assets, such as property,
+plant, and equipment, is controversial.6 Some argue that companies should account
+for these types of exchanges based on the fair value of the asset given up or the fair
+value of the asset received, with a gain or loss recognized. Others believe that they
+should account for exchanges based on the recorded amount (book value) of the
+asset given up, with no gain or loss recognized. Still others favor an approach that
+recognizes losses in all cases but defers gains in special situations.
+Ordinarily, companies account for the exchange of non-monetary assets on the
+basis of the fair value of the asset given up or the fair value of the asset
+received, whichever is clearly more evident. [7] Thus, companies should
+recognize immediately any gains or losses on the exchange. The rationale for
+immediate recognition is that most transactions have commercial substance,
+and therefore gains and losses should be recognized.
+Meaning of Commercial Substance
+As indicated above, fair value is the basis for measuring an asset acquired in a non-
+monetary exchange if the transaction has commercial substance. An exchange has
+commercial substance if the future cash flows change as a result of the
+transaction. That is, if the two parties’ economic positions change, the transaction
+has commercial substance.
+For example, Andrew Co. exchanges some of its equipment for land held by
+Roddick Inc. It is likely that the timing and amount of the cash flows arising for the
+land will differ significantly from the cash flows arising from the equipment. As a
+result, both Andrew Co. and Roddick Inc. are in different economic positions.
+Therefore, the exchange has commercial substance, and the companies recognize a
+gain or loss on the exchange.
+What if companies exchange similar assets, such as one truck for another truck?
+Even in an exchange of similar assets, a change in the economic position of the
+company can result. For example, let’s say the useful life of the truck received is
+significantly longer than that of the truck given up. The cash flows for the trucks
+can differ significantly. As a result, the transaction has commercial substance, and
+the company should use fair value as a basis for measuring the asset received in the
+exchange.
+However, it is possible to exchange similar assets but not have a significant
+difference in cash flows. That is, the company is in the same economic position as
+
+--- Page 786 ---
+before the exchange. In that case, the company generally defers gains and losses on
+the exchange.
+As we will see in the following examples, use of fair value generally results in
+recognizing a gain or loss at the time of the exchange. Consequently, companies
+must determine if the transaction has commercial substance. To make this
+determination, they must carefully evaluate the cash flow characteristics of the
+assets exchanged.7
+Illustration 10.8 summarizes asset exchange situations and the related
+accounting.
+ILLUSTRATION 10.8 Accounting for Exchanges
+As Illustration 10.8 indicates, the accounting for gains and losses depends on
+whether the exchange has commercial substance. If the exchange has commercial
+substance, the company recognizes the gains and losses immediately. However, if
+the exchange lacks commercial substance, it defers recognition of gains and losses.
+To illustrate the accounting for these different types of transactions, we examine
+various loss and gain exchange situations.
+Exchanges—Loss Situation (Has Commercial Substance)
+When a company exchanges non-monetary assets and a loss results, the company
+recognizes the loss if the exchange has commercial substance. The rationale:
+Companies should not value assets at more than their cash equivalent price. If the
+loss were deferred, assets would be overstated.
+For example, Information Processing SA trades its used machine for a new model
+at Jerrod Business Solutions NV. The exchange has commercial substance. The
+used machine has a book value of €8,000 (original cost €12,000 less €4,000
+accumulated depreciation) and a fair value of €6,000. The new model lists for
+€16,000. Jerrod gives Information Processing a trade-in allowance of €9,000 for
+the used machine. Information Processing computes the cost of the new asset as
+shown in Illustration 10.9.
+
+--- Page 787 ---
+List price of new machine
+€16,000
+Less: Trade-in allowance for used machine
+9,000
+Cash payment due
+7,000
+Fair value of used machine
+6,000
+Cost of new machine
+€13,000
+ILLUSTRATION 10.9 Computation of Cost of New Machine
+Information Processing records this transaction as follows.
+Equipment
+13,000  
+Accumulated Depreciation—Equipment
+4,000  
+Loss on Disposal of Equipment
+2,000  
+Equipment
+ 
+12,000
+Cash
+ 
+7,000
+Illustration 10.10 shows the verification of the loss on the disposal of the used
+machine.
+Fair value of used machine
+€6,000
+Less: Book value of used machine
+8,000
+Loss on disposal of used machine €2,000
+ILLUSTRATION 10.10 Computation of Loss on Disposal of Used
+Machine
+Why did Information Processing not use the trade-in allowance or the book value
+of the old asset as a basis for the new equipment? The company did not use the
+trade-in allowance because it included a price concession (similar to a price
+discount). Few individuals pay list price for a new car or other new equipment.
+Dealers such as Jerrod often inflate trade-in allowances on the used car or
+equipment so that actual selling prices fall below list prices. To record the asset at
+list price would state it at an amount in excess of its cash equivalent price because
+of the new asset’s inflated list price. Similarly, use of book value in this situation
+would overstate the value of the new machine by €2,000.8
+Exchanges—Gain Situation (Has Commercial Substance)
+Now let’s consider the situation in which a non-monetary exchange has
+commercial substance and a gain is realized. In such a case, a company usually
+records the cost of a non-monetary asset acquired in exchange for another non-
+monetary asset at the fair value of the asset given up, and immediately
+
+--- Page 788 ---
+recognizes a gain. The company should use the fair value of the asset received
+only if it is more clearly evident than the fair value of the asset given up.
+To illustrate, Interstate Transportation Company exchanged a number of used
+trucks plus cash for a semi-truck. The used trucks have a combined book value of
+$42,000 (cost $64,000 less $22,000 accumulated depreciation). Interstate’s
+purchasing agent, experienced in the secondhand market, indicates that the used
+trucks have a fair value of $49,000. In addition to the trucks, Interstate must pay
+$11,000 cash for the semi-truck. Interstate computes the cost of the semi-truck as
+shown in Illustration 10.11.
+Fair value of trucks exchanged €49,000
+Cash paid
+11,000
+Cost of semi-truck
+€60,000
+ILLUSTRATION 10.11 Computation of Semi-Truck Cost
+Interstate records the exchange transaction as follows.
+Trucks (semi)
+60,000  
+Accumulated Depreciation—Trucks 22,000  
+Trucks (used)
+ 
+64,000
+Gain on Disposal of Trucks
+ 
+7,000
+Cash
+ 
+11,000
+The gain is the difference between the fair value of the used trucks and their book
+value. Illustration 10.12 presents the verification of the computation.
+Fair value of used trucks
+ 
+$49,000
+Cost of used trucks
+$64,000  
+Less: Accumulated depreciation
+22,000  
+Less: Book value of used trucks  
+42,000
+Gain on disposal of used trucks  
+$ 7,000
+ILLUSTRATION 10.12 Computation of Gain on Disposal of Used
+Trucks
+In this case, Interstate is in a different economic position, and therefore the
+transaction has commercial substance. Thus, it recognizes a gain.
+Lacks Commercial Substance
+We now assume that the Interstate Transportation Company exchange lacks
+commercial substance. That is, the economic position of Interstate did not change
+significantly as a result of this exchange. In this case, Interstate defers the gain of
+
+--- Page 789 ---
+$7,000 and reduces the basis of the semi-truck. Illustration 10.13 shows two
+different but acceptable computations to illustrate this reduction.
+Fair value of semi-truck $60,000  
+Book value of used trucks $42,000
+Less: Gain deferred
+7,000 OR Plus: Cash paid
+11,000
+Basis of semi-truck
+$53,000  
+Basis of semi-truck
+$53,000
+ILLUSTRATION 10.13 Basis of Semi-Truck—Fair Value vs. Book Value
+Interstate records this transaction as follows.
+Trucks (semi)
+53,000  
+Accumulated Depreciation—Trucks 22,000  
+Trucks (used)
+ 
+64,000
+Cash
+ 
+11,000
+If the exchange lacks commercial substance, the company recognizes the gain
+(reflected in the basis of the semi-truck) when it later sells the semi-truck, not at
+the time of the exchange.
+Illustration 10.14 presents in summary form the accounting requirements for
+recognizing gains and losses on exchanges of non-monetary assets.
+Compute the total gain or loss on the transaction. This amount is equal to the
+difference between the fair value of the asset given up and the book value of the
+asset given up.
+(a) If the exchange has commercial substance, recognize the entire gain or loss.
+(b) If the exchange lacks commercial substance, no gain or loss is recognized.
+ILLUSTRATION 10.14 Summary of Gain and Loss Recognition on
+Exchanges of Non-Monetary Assets
+Companies disclose in their financial statements non-monetary exchanges during a
+period. Such disclosure indicates the nature of the transaction(s), the method of
+accounting for the assets exchanged, and gains or losses recognized on the
+exchanges.
+Government Grants
+Many companies receive government grants. Government grants are assistance
+received from a government in the form of transfers of resources to a company in
+return for past or future compliance with certain conditions relating to the
+operating activities of the company.9 For example, AB InBev NV (BEL) received
+government grants related to fiscal incentives given by certain Brazilian states,
+
+--- Page 790 ---
+based on the company’s operations and investments in these states. Danisco A/S
+(DEN) notes that it receives government grants for such items as research,
+development, and carbon-dioxide (CO2) allowances and investments.
+In other words, a government grant is often some type of asset (such as cash;
+securities; property, plant, and equipment; or use of facilities) provided as a
+subsidy to a company. A government grant also occurs when debt is forgiven or
+borrowings are provided to the company at a below-market interest rate. The major
+accounting issues with government grants are to determine the proper method of
+accounting for these transfers on the company’s books and how they should be
+presented in the financial statements.
+Accounting Approaches
+When companies acquire an asset such as property, plant, and equipment through
+a government grant, a strict cost concept dictates that the valuation of the asset
+should be zero. However, a departure from the historical cost principle seems
+justified because the only costs incurred (legal fees and other relatively minor
+expenditures) are not a reasonable basis of accounting for the assets acquired. To
+record nothing is to ignore the economic realities of an increase in wealth and
+assets. Therefore, most companies use the fair value of the asset to establish its
+value on the books.
+What, then, is the proper accounting for the credit related to the government grant
+when the fair value of the asset is used?10 Two approaches are suggested—the
+capital (equity) approach and the income approach. Supporters of the equity
+approach believe the credit should go directly to equity because often no repayment
+of the grant is expected. In addition, these grants are an incentive by the
+government—they are not earned as part of normal operations and should not
+offset expenses of operations on the income statement.
+Supporters of the income approach disagree—they believe that the credit should
+be reported as revenue in the income statement. Government grants should not go
+directly to equity because the government is not a shareholder. In addition, most
+government grants have conditions attached to them which likely affect future
+expenses. They should, therefore, be reported as grant revenue (or deferred grant
+revenue) and matched with the associated expenses that will occur in the future as
+a result of the grant.
+IFRS requires the income approach. The general rule is that grants should be
+recognized in income on a systematic basis that matches them with the related
+costs that they are intended to compensate. [8] This is accomplished in one of two
+ways for an asset such as property, plant, and equipment:
+1. Recording the grant as deferred grant revenue, which is recognized as income
+on a systematic basis over the useful life of the asset, or
+
+--- Page 791 ---
+2. Deducting the grant from the carrying amount of the assets received from the
+grant, in which case the grant is recognized in income as a reduction of
+depreciation expense.
+To illustrate application of the income approach, consider the following three
+examples.
+Example 1: Grant for Lab Equipment
+Spectrum AG received a €500,000 subsidy from the government to purchase lab
+equipment on January 2, 2022. The lab equipment costs €2,000,000, has a useful
+life of five years, and is depreciated on the straight-line basis. As indicated,
+Spectrum can record this grant in one of two ways. (1) Credit Deferred Grant
+Revenue for the subsidy and amortize the deferred grant revenue over the five-year
+period. (2) Credit the lab equipment for the subsidy and depreciate this amount
+over the five-year period.
+If Spectrum chooses to record deferred revenue of €500,000, it amortizes this
+amount over the five-year period to income (€100,000 per year). The effects on the
+financial statements at December 31, 2022, are shown in Illustration 10.15.
+Statement of Financial Position
+Non-current assets
+Equipment
+€2,000,000  
+Less: Accumulated depreciation
+400,000 €1,600,000
+Non-current liabilities
+Deferred grant revenue
+€
+300,000  
+Current liabilities
+Deferred grant revenue
+100,000  
+Income Statement
+Grant revenue for the year
+€
+100,000  
+Depreciation expense for the year
+400,000  
+Net income (loss) effect
+€ (300,000)  
+ILLUSTRATION 10.15 Government Grant Recorded as Deferred
+Revenue
+If Spectrum chooses to reduce the cost of the lab equipment, Spectrum reports the
+equipment at €1,500,000 (€2,000,000 − €500,000) and depreciates this amount
+over the five-year period. The effects on the financial statements at December 31,
+2022, are shown in Illustration 10.16.
+
+--- Page 792 ---
+Statement of Financial Position
+Non-current assets
+Equipment
+€1,500,000  
+Less: Accumulated depreciation
+300,000 €1,200,000
+Income Statement
+Depreciation expense for the year  
+€ 300,000
+ILLUSTRATION 10.16 Government Grant Adjusted to Asset
+The amount of net expense is the same for both situations (€300,000), but the
+presentation on the financial statements is different.11
+Example 2: Grant for Past Losses
+Flyaway Airlines has incurred substantial operating losses over the last five years.
+The company now has little liquidity remaining and is considering bankruptcy. The
+City of Plentiville does not want to lose airline service and feels it has some
+responsibility related to the airlines losses. It therefore agrees to provide a cash
+grant of $1,000,000 to the airline to pay off its creditors so that it may continue
+service. Because the grant is given to pay amounts owed to creditors for past losses,
+Flyaway Airlines should record the income in the period it is received. The entry to
+record this grant is as follows.
+Cash
+1,000,000  
+Grant Revenue  
+1,000,000
+If the conditions of the grant indicate that Flyaway must satisfy some future
+obligations related to this grant, then it is appropriate to credit Deferred Grant
+Revenue and amortize it over the appropriate periods in the future.
+Example 3: Grant for Borrowing Costs
+The City of Puerto Aloa is encouraging the high-tech firm TechSmart to move its
+plant to Puerto Aloa. The city has agreed to provide an interest-free loan of
+$10,000,000, with the loan payable at the end of 10 years, provided that TechSmart
+will employ at least 50 percent of its workforce from the community of Puerto Aloa
+over the next 10 years. TechSmart’s incremental borrowing rate is 9 percent.
+Therefore, the present value of the future loan payable ($10,000,000) is
+$6,499,300 ($10,000,000 × .64993i=9%, n=5). The entry to record the borrowing is as
+follows.
+Cash
+6,499,300  
+Notes Payable  
+6,499,300
+
+--- Page 793 ---
+In addition, using the deferred revenue approach, the company records the grant as
+follows.
+Cash
+3,500,700  
+Deferred Grant Revenue  
+3,500,700
+TechSmart then uses the effective-interest rate to determine interest expense of
+$584,937 (0.09 × $6,499,300) in the first year. The company also decreases
+Deferred Grant Revenue and increases Grant Revenue for $584,937. As a result,
+the net expense related to the borrowing is zero in each year.
+Unfortunately, the accounting for government grants is still somewhat unsettled.
+Companies are permitted to record grants at nominal values or at fair value. In
+addition, they may record grants to property, plant, and equipment either as a
+reduction of the asset or to deferred grant revenue. The key to these situations is to
+provide disclosures that highlight the accounting approaches. Presented below are
+examples of how grants are disclosed in the notes to the financial statements.
+A company that adopted the deferred income approach is PetroChina Company
+Limited (CHN), as shown in Illustration 10.17.
+
+--- Page 794 ---
+ PetroChina Company Limited
+Note 4: Government grants
+Government grants are non-reciprocal transfers of monetary or non-monetary
+assets from the government to the Group except for capital contributions from the
+government in the capacity as an investor in the Group.
+A government grant is recognised when there is reasonable assurance that the
+grant will be received and that the Group will comply with the conditions
+attaching to the grant.
+If a government grant is in the form of a transfer of a monetary asset, it is
+measured at the amount received or receivable. If a government grant is in the
+form of a transfer of a non-monetary asset, it is measured at fair value.
+Government grants related to assets are grants whose primary condition is that
+the Group qualifying for them should purchase, construct or otherwise acquire
+long-term assets. Government grants related to income are grants other than
+those related to assets. A government grant related to an asset is recognised
+initially as deferred income and amortised to profit or loss in a reasonable and
+systematic manner within the useful life of the relevant assets. A grant that
+compensates the Group for expenses or losses to be incurred in the future is
+recognised initially as deferred income, and recognised in profit or loss or released
+to relevant cost in the period in which the expenses or losses are recognised. A
+grant that compensates the Group for expenses or losses already incurred is
+recognised to profit or loss or released to related cost immediately.
+ILLUSTRATION 10.17 Deferred Income Disclosure
+Daimler AG (DEU) is an example of a company adopting a policy of deducting
+grants related to assets from the cost of the assets, as shown in Illustration
+10.18.
+
+--- Page 795 ---
+Daimler AG
+Note 1: Government grants
+Government grants related to assets are deducted from the carrying amount of the
+asset and are recognized in earnings over the life of a depreciable asset as a
+reduced depreciation expense. Government grants which compensate the Group
+for expenses are recognized as other operating income in the same period as the
+expenses themselves.
+ILLUSTRATION 10.18 Reduction of Asset Disclosure
+When a company contributes a non-monetary asset, it should record the amount
+of the donation as an expense at the fair value of the donated asset. If a difference
+exists between the fair value of the asset and its book value, the company should
+recognize a gain or loss. To illustrate, Kline Industries donates land to the City of
+São Paulo, Brazil for a city park. The land cost R$80,000 and has a fair value of
+R$110,000. Kline Industries records this donation as follows.
+Contribution Expense
+110,000  
+Land
+ 
+80,000
+Gain on Disposal of Land  
+30,000
+The gain on disposal should be reported in the “Other income and expense” section
+of the income statement, not as revenue.
+Costs Subsequent to Acquisition
+LEARNING OBJECTIVE 4
+Describe the accounting treatment for costs subsequent to acquisition.
+After installing plant assets and readying them for use, a company incurs additional
+costs that range from ordinary repairs to significant additions. The major problem
+is allocating these costs to the proper time periods.
+In determining how costs should be allocated subsequent to acquisition, companies
+follow the same criteria used to determine the initial cost of property, plant, and
+equipment. That is, they recognize costs subsequent to acquisition as an asset
+when the costs can be measured reliably and it is probable that the company will
+obtain future economic benefits (see Underlying Concepts). Evidence of future
+
+--- Page 796 ---
+economic benefit would include increases in (1) useful life, (2) quantity of product
+produced, and (3) quality of product produced.
+Underlying Concepts
+Expensing long-lived wastebaskets is an application of the materiality concept.
+Generally, companies incur four types of major expenditures relative to existing
+assets.
+Major Types of Expenditures
+Additions. Increase or extension of existing assets.
+Improvements and Replacements. Substitution of a better or similar asset
+for an existing one.
+Rearrangement and Reorganization. Movement of assets from one
+location to another.
+Repairs. Expenditures that maintain assets in condition for operation.
+Additions
+Additions should present no major accounting problems. By definition,
+companies capitalize any addition to plant assets because a new asset is
+created. For example, the addition of a wing to a hospital, or of an air conditioning
+system to an office, increases the service potential of that facility. Companies
+should capitalize such expenditures and record them in future periods when
+revenues are recognized.
+One problem that arises in this area is the accounting for any changes related to the
+existing structure as a result of the addition. Is the cost incurred to tear down an
+old wall, to make room for the addition, a cost of the addition or an expense or loss
+of the period? The answer is that it depends on the original intent. If the company
+had anticipated building an addition later, then this cost of removal is a proper cost
+of the addition. But if the company had not anticipated this development, it should
+properly report the removal as a loss in the current period on the basis of
+inefficient planning. Conceptually, the company should remove the cost of the old
+wall and related depreciation and record a loss. It should then add the cost of the
+new wall to the cost of the building. In these situations, it is sometimes
+impracticable to determine a reasonable carrying amount for the old wall.
+Companies therefore assume the old asset to have a zero carrying amount and
+simply add the cost of the replacement to the overall cost.
+Improvements and Replacements
+
+--- Page 797 ---
+Companies substitute one asset for another through improvements and
+replacements. What is the difference between an improvement and a
+replacement? An improvement (betterment) is the substitution of a better
+asset for the one currently used (say, a concrete floor for a wooden floor). A
+replacement, on the other hand, is the substitution of a similar asset (a wooden
+floor for a wooden floor).
+Many times, improvements and replacements result from a general policy to
+modernize or rehabilitate an older building or piece of equipment. The problem is
+differentiating these types of expenditures from normal repairs. Does the
+expenditure increase the future service potential of the asset? Or does it merely
+maintain the existing level of service? Frequently, the answer is not clear-cut.
+Good judgment is required to correctly classify these expenditures.
+If the expenditure increases the future service potential of the asset, a company
+should capitalize it. The company should simply remove the cost of the old asset
+and related depreciation and recognize a loss, if any. It should then add the cost of
+the new substituted asset.
+To illustrate, Instinct Enterprises decides to replace the pipes in its plumbing
+system. A plumber suggests that the company use plastic tubing in place of the cast
+iron pipes and copper tubing. The old pipe and tubing have a book value of £15,000
+(cost of £150,000 less accumulated depreciation of £135,000), and a residual value
+of £1,000. The plastic tubing system costs £125,000. If Instinct pays £124,000 for
+the new tubing after exchanging the old tubing, it makes the following entry.
+Equipment (plumbing system)
+125,000  
+Accumulated Depreciation—Equipment 135,000  
+Loss on Disposal of Equipment
+14,000  
+Equipment (plumbing system)
+ 
+150,000
+Cash (£125,000 − £1,000)
+ 
+124,000
+One issue in any substitution is computing the cost and accumulated depreciation
+of the old asset. Fortunately, IFRS requires each significant component of an asset
+to be identified and its depreciation base to be determined and depreciated
+separately. This approach is referred to as component depreciation accounting. To
+illustrate, Hanoi Ltd. has a tractor that it purchased at a cost of £50,000. The
+following chart lists the tractor’s individual components, and each component’s
+useful life (all residual values are zero).
+Cost
+Useful Life Depreciation per Year
+Tires
+£ 6,000
+2 years
+£3,000
+Transmission
+10,000
+5 years
+2,000
+Truck
+34,000
+10 years
+3,400
+
+--- Page 798 ---
+Companies should keep accounting records based on the components of the asset.
+If the company does not have this information, estimation methods generally can
+provide a reasonable answer.
+Rearrangement and Reorganization
+As indicated earlier, a company may incur rearrangement or reorganization
+costs for some of its assets. The question is whether the costs incurred in this
+rearrangement or reorganization are capitalized or expensed. IFRS indicates that
+the recognition of costs ceases once the asset is in the location and condition
+necessary to begin operations as management intended. As a result, the costs of
+reorganizing or rearranging existing property, plant, and equipment are not
+capitalized but are expensed as incurred.
+Repairs
+Ordinary Repairs
+A company makes ordinary repairs to maintain plant assets in operating
+condition. It charges ordinary repairs to an expense account in the period incurred
+on the basis that it is the primary period benefited. Maintenance charges that
+occur regularly include replacing minor parts, lubricating and adjusting equipment,
+repainting, and cleaning. A company treats these as ordinary operating expenses.
+It is often difficult to distinguish a repair from an improvement or replacement.
+The major consideration is whether the expenditure benefits more than one year or
+one operating cycle, whichever is longer. If a major repair (such as an overhaul)
+occurs, several periods will benefit. A company should generally handle this cost as
+an improvement or replacement.
+Major Repairs
+Some companies, such as airlines Ryanair (IRL) and Lufthansa (DEU), or
+shipping companies, such as A.P. Møller—Maersk (DEN) and CMA CGM
+Group (FRA), have substantial overhaul costs related to their airplanes or ships.
+For example, assume the Shipaway Company has just purchased a new ship for
+$200 million. The useful life of the ship is 20 years, but every four years it must be
+dry-docked and a major overhaul done. It is estimated that the overhaul will cost
+$4 million. The $4 million should be accounted for as a separate component of the
+cost of the ship (using component depreciation) and depreciated over four years. At
+the time of the major overhaul, the cost and related depreciation to date should be
+eliminated and replaced with the new cost incurred for the overhaul.
+
+--- Page 799 ---
+What Do the Numbers Mean?
+Disconnected
+It all started with a check of the books by an internal auditor for WorldCom
+Inc. (USA). The telecom giant’s newly installed chief executive had asked for a
+financial review, and the auditor was spot-checking records of capital
+expenditures. She found the company was using an unorthodox technique to
+account for one of its biggest expenses: charges paid to local telephone
+networks to complete long-distance calls.
+Instead of recording these charges as operating expenses, WorldCom recorded
+a significant portion as capital expenditures. The maneuver was worth
+hundreds of millions of dollars to WorldCom’s bottom line. It effectively
+turned a loss for all of one year and the first quarter of the next year into a
+profit. The following illustration compares WorldCom’s accounting to that
+under proper accounting principles. Soon after this discovery, WorldCom filed
+for bankruptcy.
+Source: Adapted from Jared Sandberg, Deborah Solomon, and Rebecca Blumenstein, “Inside
+WorldCom’s Unearthing of a Vast Accounting Scandal,” Wall Street Journal (June 27, 2002), p. A1;
+and C. Cooper, Extraordinary Circumstances: The Journey of a Corporate Whistle Blower (New
+York: John Wiley & Sons, 2008).
+Summary of Costs Subsequent to Acquisition
+Illustration 10.19 summarizes the accounting treatment for various costs
+incurred subsequent to the acquisition of capitalized assets.
+
+--- Page 800 ---
+Type of
+Expenditure
+Normal Accounting Treatment
+Additions
+Capitalize cost of addition to asset account.
+Improvements
+and
+replacements
+Remove cost of and accumulated depreciation on old asset,
+recognizing any gain or loss. Capitalize cost of
+improvement/replacement.
+Rearrangement
+and
+reorganization
+Expense costs of rearrangement and reorganization costs as
+expense.
+Repairs
+(a) Ordinary: Expense cost of repairs when incurred.
+(b) Major: Remove cost and accumulated depreciation of old
+asset, recognizing any gain or loss. Capitalize cost of major
+repair.
+ILLUSTRATION 10.19 Summary of Costs Subsequent to Acquisition of
+Property, Plant, and Equipment
+Disposition of Property, Plant, and Equipment
+LEARNING OBJECTIVE 5
+Describe the accounting treatment for the disposal of property, plant, and
+equipment.
+A company, like Nokia (FIN), may retire plant assets voluntarily or dispose of
+them by sale, exchange, involuntary conversion, or abandonment. Regardless of the
+type of disposal, depreciation must be taken up to the date of disposition. Then,
+Nokia should remove all accounts related to the retired asset. Generally, the book
+value of the specific plant asset does not equal its disposal value. As a result, a gain
+or loss develops. The reason: Depreciation is an estimate of cost allocation and not
+a process of valuation. The gain or loss is really a correction of net income
+for the years during which Nokia used the fixed asset.
+Nokia should report gains or losses on the disposal of plant assets in the income
+statement along with other items from customary business activities. However, if
+Nokia sold, abandoned, spun off, or otherwise disposed of the “operations of a
+component of a business,” then it should report the results separately in the
+discontinued operations section of the income statement. As discussed in Chapter
+4, Nokia should report any gain or loss from disposal of a business component with
+the related results of discontinued operations.
+
+--- Page 801 ---
+Sale of Plant Assets
+Companies record depreciation for the period of time between the date of the last
+depreciation entry and the date of sale. To illustrate, assume that Barret Group
+recorded depreciation on a machine costing €18,000 for nine years at the rate of
+€1,200 per year. If it sells the machine in the middle of the tenth year for €7,000,
+Barret records depreciation to the date of sale as:
+Depreciation Expense (€1,200 × ½)
+600  
+Accumulated Depreciation—Machinery  
+600
+The entry for the sale of the asset then is:
+Cash
+7,000  
+Accumulated Depreciation—Machinery [(€1,200 × 9) + €600] 11,400  
+Machinery
+ 
+18,000
+Gain on Disposal of Machinery
+ 
+400
+The book value of the machinery at the time of the sale is €6,600 (€18,000 −
+€11,400). Because the machinery sold for €7,000, the amount of the gain on the
+sale is €400 (€7,000 − €6,600).
+Involuntary Conversion
+Sometimes, an asset’s service is terminated through some type of involuntary
+conversion, such as fire, flood, theft, or condemnation. In some cases, companies
+may recover all or some of the amount lost through insurance contracts or
+payments from government agencies. The proper accounting for these events is
+accomplished in two stages. First, the loss associated with the involuntary
+conversion is recorded. Then, usually at a later date once the amount of the
+recovery has been established, the company will record a gain or revenue from the
+insurance proceeds or other recovery. The rationale for separating the two events is
+that, in most cases, both the potential and the amount of the recovery are not
+known at the time of the loss.12 To record this amount at that time would result in
+a contingent asset, which is prohibited by IFRS. [9]
+To illustrate, Camel Transport had a manufacturing plant located on company
+property that stood directly in the path of a tornado. As a result of the tornado,
+which occurred on May 16, 2022, the plant was completely destroyed. Camel was
+eventually able to reach a settlement with its insurance company for the full fair
+value of the plant. The settlement was reached on March 18, 2023. At the time of
+the tornado, the building had a carrying value of $3,500,000 (original cost of
+$6,000,000 less accumulated depreciation of $2,500,000). The amount of the
+settlement with this insurance company was $5,000,000. Camel made the
+following entries.
+
+--- Page 802 ---
+May 16, 2022
+Loss from Tornado
+$3,500,000  
+Accumulated Depreciation—Buildings
+2,500,000  
+Buildings
+ 
+6,000,000
+March 18, 2023
+Cash
+5,000,000  
+Gain from Insurance Settlement
+ 
+5,000,000
+Review and Practice
+Key Terms Review
+additions
+average carrying amount
+borrowing costs
+capitalization period
+capitalization rate
+commercial substance
+fixed assets
+government grants
+historical cost
+improvements (betterments)
+income approach
+involuntary conversion
+Land Improvements
+lump-sum price
+major repairs
+non-monetary assets
+ordinary repairs
+plant assets
+property, plant, and equipment
+rearrangement costs
+reorganization costs
+
+--- Page 803 ---
+replacements
+self-constructed asset
+Learning Objectives Review
+1 Identify property, plant, and equipment and its related costs.
+Property, plant, and equipment (1) are acquired for use in operations and not for
+resale, (2) are long-term in nature and usually subject to depreciation, and (3)
+possess physical substance. The costs included in initial valuation of property,
+plant, and equipment are as follows.
+Cost of land: Includes all expenditures made to acquire land and to ready it for use.
+Land costs typically include (1) the purchase price; (2) closing costs, such as title to
+the land, attorney’s fees, and recording fees; (3) costs incurred in getting the land
+in condition for its intended use, such as grading, filling, draining, and clearing; (4)
+assumption of any liens, mortgages, or encumbrances on the property; and (5) any
+additional land improvements that have an indefinite life.
+Cost of buildings: Includes all expenditures related directly to their acquisition or
+construction. These costs include (1) materials, labor, and overhead costs incurred
+during construction, and (2) professional fees and building permits.
+Cost of equipment: Includes the purchase price, freight and handling charges
+incurred, insurance on the equipment while in transit, cost of special foundations if
+required, assembling and installation costs, and costs of conducting trial runs.
+Self-constructed assets: Indirect costs of manufacturing create special problems
+because companies cannot easily trace these costs directly to work and material
+orders related to the constructed assets. Companies might handle these costs in
+one of two ways: (1) assign no fixed overhead to the cost of the constructed asset,
+or (2) assign a portion of all overhead to the construction process. Companies
+should use the second method.
+2 Discuss the accounting problems associated with the capitalization
+of borrowing costs.
+Only actual borrowing costs (with modifications) should be capitalized. The
+rationale for this approach is that during construction, the asset is not generating
+revenue and therefore companies should defer (capitalize) borrowing cost. Once
+construction is completed, the asset is ready for its intended use and revenues can
+be earned. Any borrowing cost incurred in purchasing an asset that is ready for its
+intended use should be expensed.
+
+--- Page 804 ---
+3 Explain accounting issues related to acquiring and valuing plant
+assets.
+The following issues relate to acquiring and valuing plant assets. (1) Cash
+discounts: Whether taken or not, they are generally considered a reduction in the
+cost of the asset; the real cost of the asset is the cash or cash equivalent price of the
+asset. (2) Deferred-payment contracts: Companies account for assets purchased on
+long-term credit contracts at the present value of the consideration exchanged
+between the contracting parties. (3) Lump-sum purchase: Allocate the total cost
+among the various assets on the basis of their relative fair values. (4) Issuance of
+shares: If the shares are actively traded, the market price of the shares issued is a
+fair indication of the cost of the property acquired. If the market price of the
+ordinary shares exchanged is not determinable, establish the fair value of the
+property and use it as the basis for recording the asset and issuance of the ordinary
+shares. (5) Exchanges of non-monetary assets. The accounting for exchanges of
+non-monetary assets depends on whether the exchange has commercial substance.
+See Illustrations 10.8 and 10.14 for summaries of how to account for exchanges. (6)
+Grants: Record at the fair value of the asset received, and credit deferred revenue
+or the appropriate asset in most cases.
+4 Describe the accounting treatment for costs subsequent to
+acquisition.
+Illustration 10.19 summarizes how to account for costs subsequent to acquisition.
+5 Describe the accounting treatment for the disposal of property,
+plant, and equipment.
+Regardless of the time of disposal, companies take depreciation up to the date of
+disposition and then remove all accounts related to the retired asset. Gains or
+losses on the retirement of plant assets are shown in the income statement along
+with other items that arise from customary business activities. Gains or losses on
+involuntary conversions are reported in “Other income and expense.”
+Enhanced Review and Practice
+Go online for multiple-choice questions with solutions, review exercises with
+solutions, and a full glossary of all key terms.
+Practice Problem
+
+--- Page 805 ---
+Columbia SA, which manufactures machine tools, had the following transactions
+related to plant assets in 2022.
+Asset A: On June 2, 2022, Columbia purchased a stamping machine at a retail
+price of €12,000. Columbia paid 6% sales tax on this purchase. Columbia paid a
+contractor €2,800 for a specially wired platform for the machine, to ensure non-
+interrupted power to the machine. Columbia estimates the machine will have a
+4-year useful life, with a residual value of €2,000 at the end of 4 years. The
+machine was put into use on July 1, 2022.
+Asset B: On January 1, 2022, Columbia signed a fixed-price contract for
+construction of a warehouse facility at a cost of €1,000,000. It was estimated
+that the project will be completed by December 31, 2022. On March 1, 2022, to
+finance the construction cost, Columbia borrowed €1,000,000 payable April 1,
+2023, plus interest at the rate of 10%. During 2022, Columbia made deposit and
+progress payments totaling €750,000 under the contract. The excess borrowed
+funds were invested in short-term securities, from which Columbia realized
+investment revenue of €13,000. The warehouse was completed on December 31,
+2022, at which time Columbia made the final payment to the contractor.
+Columbia estimates the warehouse will have a 25-year useful life, with a residual
+value of €20,000.
+Columbia uses straight-line depreciation and employs the “half-year” convention
+in accounting for partial-year depreciation. (Under this straight-line approach, a
+half-year of depreciation is recorded in the first and last year of the asset’s useful
+life.) Columbia’s fiscal year ends on December 31.
+Instructions
+a. At what amount should Columbia record the acquisition cost of the
+machine?
+b. What amount of borrowing cost should Columbia include in the cost of the
+warehouse?
+c. On July 1, 2024, Columbia decides to outsource its stamping operation to
+Medek Group. As part of this plan, Columbia sells the machine (and the
+platform) to Medek for €7,000. What is the impact of this disposal on
+Columbia’s 2024 income before taxes?
+Solution
+a. Historical cost is measured by the cash or cash equivalent price of obtaining
+the asset and bringing it to the location and condition for its intended use. For
+Columbia, this is:
+
+--- Page 806 ---
+Price
+€12,000
+Tax (€12,000 × .06)
+720
+Platform
+2,800
+Total
+€15,520
+b. 
+Interest expense on specific borrowings (€1,000,000 × .10 × 9/12) €75,000
+Interest revenue from excess funds
+(13,000)
+Borrowing cost capitalized
+€62,000
+c. The income effect is a gain or loss, determined by comparing the book value of
+the asset to the disposal value:
+Cost
+€15,520
+Less: Accumulated depreciation (€1,690 + €3,380 + €1,690)
+6,760*
+Book value of machine and platform
+8,760
+Less: Cash received for machine and platform
+7,000
+Loss before income taxes
+€ 1,760
+*Depreciable base: €15,520 − €2,000 = €13,520. Depreciation expense: €13,520 ÷ 4 = €3,380 per year.
+2022: ½ year (€3,380 × .50) €1,690
+2023: full year
+3,380
+2024: ½ year
+1,690
+Total
+€6,760
+Exercises, Problems, Problem Solution Walkthrough Videos, Data Analytics
+Activities, and many more assessment tools and resources are available for
+practice in Wiley’s online courseware.
+Questions
+1. What are the major characteristics of plant assets?
+2. Name the items, in addition to the amount paid to the former owner or
+contractor, that may properly be included as part of the acquisition cost of the
+following plant assets.
+a. Land.
+b. Machinery and equipment.
+c. Buildings.
+
+--- Page 807 ---
+3. Indicate where the following items would be shown on a statement of financial
+position.
+a. A lien that was attached to the land when purchased.
+b. Landscaping costs to ready land for use.
+c. Attorney’s fees and recording fees related to purchasing land.
+d. Variable overhead related to construction of machinery.
+e. A parking lot servicing employees in the building.
+f. Cost of temporary building for workers during construction of building.
+g. Interest expense on bonds payable incurred during construction of a building.
+h. Assessments for sidewalks that are maintained by the city.
+i. The cost of demolishing an old building that was on the land when purchased.
+4. Two positions have normally been taken with respect to the recording of fixed
+manufacturing overhead as an element of the cost of plant assets constructed by a
+company for its own use:
+a. It should be excluded completely.
+b. It should be included at the same rate as is charged to normal operations.
+What are the circumstances or rationale that support or deny the application of
+these methods?
+5. The Buildings account of Postera SpA includes the following items that were
+used in determining the basis for depreciating the cost of a building.
+a. Promotion expenses.
+b. Architect’s fees.
+c. Interest during construction.
+d. Interest revenue on investments held to fund construction of a building.
+e. First-year operating losses related to the building.
+Do you agree with these charges? If not, how would you deal with each of these
+items in the company’s books and in its annual financial statements?
+6. Cruz Company has purchased two tracts of land. One tract will be the site of its
+new manufacturing plant, while the other is being purchased with the hope that it
+will be sold in the next year at a profit. How should these two tracts of land be
+reported in the statement of financial position?
+
+--- Page 808 ---
+7. One financial accounting issue encountered when a company constructs its own
+plant is whether the borrowing cost to finance construction should be capitalized
+and then amortized over the life of the assets constructed. What is the justification
+for capitalizing such interest?
+8. Provide examples of assets that do not qualify for capitalization of borrowing
+costs.
+9. What interest rates should be used in determining the amount of borrowing cost
+to be capitalized? How should the amount of borrowing cost to be capitalized be
+determined?
+10. How should the amount of borrowing cost capitalized be disclosed in the notes
+to the financial statements? How should interest revenue from temporarily
+invested excess funds borrowed to finance the construction of assets be accounted
+for?
+11. Discuss the basic accounting problem that arises in handling each of the
+following situations.
+a. Assets purchased by issuance of ordinary shares.
+b. Acquisition of plant assets by grant.
+c. Purchase of a plant asset subject to a cash discount.
+d. Assets purchased on a long-term credit basis.
+e. A group of assets acquired for a lump sum.
+f. An asset traded in or exchanged for another asset.
+12. Magilke Industries acquired equipment this year to be used in its operations.
+The equipment was delivered by the suppliers, installed by Magilke, and placed into
+operation. Some of it was purchased for cash with discounts available for prompt
+payment. Some of it was purchased under long-term payment plans for which the
+interest charges approximated prevailing rates. What costs should Magilke
+capitalize for the new equipment purchased this year? Explain.
+13. Ocampo SA purchased for €2,200,000 property that included both land and a
+building to be used in operations. The seller’s book value was €300,000 for the
+land and €900,000 for the building. By appraisal, the fair value was estimated to be
+€500,000 for the land and €2,000,000 for the building. At what amount should
+Ocampo record the land and the building?
+14. Pueblo Co. acquires machinery by paying $10,000 cash and signing a $5,000, 2-
+year, zero-interest-bearing note payable. The note has a present value of $4,208,
+and Pueblo purchased a similar machine last month for $13,500. At what cost
+should the new equipment be recorded?
+
+--- Page 809 ---
+15. Stan Ott is evaluating two recent transactions involving exchanges of
+equipment. In one case, the exchange has commercial substance. In the second
+situation, the exchange lacks commercial substance. Explain to Stan the differences
+in accounting for these two situations.
+16. Crowe AG purchased a heavy-duty truck on July 1, 2019, for €30,000. It was
+estimated that it would have a useful life of 10 years and then would have a
+residual value of €6,000. The company uses the straight-line method of
+depreciation. It was traded on August 1, 2023, for a similar truck costing €42,000;
+€16,000 was allowed as trade-in value (also fair value) on the old truck and
+€26,000 was paid in cash. A comparison of expected cash flows for the trucks
+indicates the exchange has commercial substance. What is the entry to record the
+exchange?
+17. Ito Ltd. receives a local government grant to help defray the cost of its plant
+facilities. The grant is provided to encourage Ito to move its operations to a certain
+area. Explain how the grant might be reported.
+18. Once equipment has been installed and placed in operation, subsequent
+expenditures relating to this equipment are frequently thought of as repairs or
+general maintenance and, hence, chargeable to operations in the period in which
+the expenditure is made. Actually, determination of whether such an expenditure
+should be charged to operations or capitalized involves a much more careful
+analysis of the character of the expenditure. What are the factors that should be
+considered in making such a decision?
+19. What accounting treatment is normally given to the following items in
+accounting for plant assets?
+a. Additions.
+b. Major repairs.
+c. Improvements.
+d. Replacements.
+20. New machinery, which replaced a number of employees, was installed and put
+in operation in the last month of the fiscal year. The employees had been dismissed
+after payment of an extra month’s wages, and this amount was added to the cost of
+the machinery. Discuss the propriety of the charge. If it was improper, describe the
+proper treatment.
+21. To what extent do you consider the following items to be proper costs of
+property, plant, and equipment? Give reasons for your opinions.
+a. Overhead of a business that builds its own equipment.
+b. Cash discounts on purchases of equipment.
+
+--- Page 810 ---
+c. Borrowing costs during construction of a building.
+d. Profit on self-construction.
+e. Freight on equipment returned before installation, for replacement by other
+equipment of greater capacity.
+f. Cost of moving machinery to a new location.
+g. Cost of plywood partitions erected as part of the remodeling of the office.
+h. Replastering of a section of the building.
+i. Cost of a new motor for one of the trucks.
+22. Neville Enterprises has a number of fully depreciated assets that are still being
+used in the main operations of the business. Because the assets are fully
+depreciated, the president of the company decides not to show them on the
+statement of financial position or disclose this information in the notes. Evaluate
+this procedure.
+23. What are the general rules for how gains or losses on disposal of plant assets
+should be reported in income?
+Brief Exercises
+BE10.1 (LO 1) Previn Brothers Inc. purchased land at a price of $27,000. Closing
+costs were $1,400. An old building was removed at a cost of $10,200. What amount
+should be recorded as the cost of the land?
+BE10.2 (LO 2) Zhang Ltd. is constructing a building. Construction began on
+February 1 and was completed on December 31. Expenditures were HK$1,800,000
+on March 1, HK$1,200,000 on June 1, and HK$3,000,000 on December 31.
+Compute Zhang’s average carrying amount for borrowing cost capitalization
+purposes.
+BE10.3 (LO 2) Zhang Ltd. (see BE10.2) had outstanding all year a 10%, 5-year
+HK$4,000,000 note payable and an 11%, 4-year HK$3,500,000 note payable.
+Compute the capitalization rate used for borrowing cost capitalization purposes.
+BE10.4 (LO 2) Using the information from BE10.2 and BE10.3, determine the
+amount of borrowing cost that Zhang Ltd. would capitalize.
+BE10.5 (LO 3) Chopra plc purchased a truck by issuing an £80,000, 4-year, zero-
+interest-bearing note to Equinox Inc. The market rate of interest for obligations of
+this nature is 10%. Prepare the journal entry to record the purchase of this truck.
+BE10.6 (LO 3) Mohave Inc. purchased land, building, and equipment from
+Laguna Corporation for a cash payment of $315,000. The estimated fair values of
+the assets are land $60,000, building $220,000, and equipment $80,000. At what
+amounts should each of the three assets be recorded?
+
+--- Page 811 ---
+BE10.7 (LO 3) Fielder Company obtained land by issuing 2,000 shares of its $10
+par value ordinary shares. The land was recently appraised at $85,000. The
+ordinary shares are actively traded at $40 per share. Prepare the journal entry to
+record the acquisition of the land.
+BE10.8 (LO 3) Navajo ASA traded a used truck (cost €20,000, accumulated
+depreciation €18,000) for a small computer worth €3,300. Navajo also paid €500
+in the transaction. Prepare the journal entry to record the exchange. (The exchange
+has commercial substance.)
+BE10.9 (LO 3) Use the information for Navajo ASA from BE10.8. Prepare the
+journal entry to record the exchange, assuming the exchange lacks commercial
+substance.
+BE10.10 (LO 3) Mehta SE traded a used welding machine (cost €9,000,
+accumulated depreciation €3,000) for office equipment with an estimated fair
+value of €5,000. Mehta also paid €3,000 cash in the transaction. Prepare the
+journal entry to record the exchange. (The exchange has commercial substance.)
+BE10.11 (LO 3) Cheng SE traded a used truck for a new truck. The used truck cost
+$30,000 and has accumulated depreciation of $27,000. The new truck is worth
+$37,000. Cheng also made a cash payment of $36,000. Prepare Cheng’s entry to
+record the exchange. (The exchange lacks commercial substance.)
+BE10.12 (LO 3) Slaton Ltd. traded a used truck for a new truck. The used truck
+cost £20,000 and has accumulated depreciation of £17,000. The new truck is worth
+£35,000. Slaton also made a cash payment of £33,000. Prepare Slaton’s entry to
+record the exchange. (The exchange has commercial substance.)
+BE10.13 (LO 4) Indicate which of the following costs should be expensed when
+incurred.
+a. €13,000 paid to rearrange and reorganize machinery.
+b. €200,000 paid for addition to building.
+c. €200 paid for tune-up and oil change on a delivery truck.
+d. €7,000 paid to replace a wooden floor with a concrete floor.
+e. €2,000 paid for a major overhaul on a truck.
+BE10.14 (LO 3) In 2022, Sato Ltd. received a grant for ¥2 million to defray the
+cost of purchasing research equipment for its manufacturing facility. The total cost
+of the equipment is ¥10 million. Prepare the journal entry to record this
+transaction if Sato uses (a) the deferred revenue approach, and (b) the reduction of
+asset approach.
+BE10.15 (LO 5) Ottawa Corporation owns machinery that cost $20,000 when
+purchased on July 1, 2019. Depreciation has been recorded at a rate of $2,400 per
+
+--- Page 812 ---
+year, resulting in a balance in accumulated depreciation of $8,400 at December 31,
+2022. The machinery is sold on September 1, 2023, for $10,500. Prepare journal
+entries to (a) update depreciation for 2023 and (b) record the sale.
+BE10.16 (LO 5) Use the information presented for Ottawa Corporation in
+BE10.15, but assume the machinery is sold for $5,200 instead of $10,500. Prepare
+journal entries to (a) update depreciation for 2023 and (b) record the sale.
+Exercises
+E10.1 (LO 1, 2) (Acquisition Costs of Realty) The expenditures and receipts
+below are related to land, land improvements, and buildings acquired for use in a
+business. The receipts are enclosed in parentheses.
+a. Money borrowed to pay building contractor (signed a note)
+€(275,000)
+b. Payment for construction from note proceeds
+275,000
+c. Cost of land fill and clearing
+10,000
+d. Delinquent real estate taxes on property assumed by purchaser
+7,000
+e. Premium on 6-month insurance policy during construction
+6,000
+f. Refund of 1-month insurance premium because construction
+completed early
+(1,000)
+g. Architect’s fee on building
+25,000
+h. Cost of real estate purchased as a plant site (land €200,000 and
+building €50,000)
+250,000
+i. Commission fee paid to real estate agency
+9,000
+j. Installation of fences around property
+4,000
+k. Cost of razing and removing building
+11,000
+l. Proceeds from residual value of demolished building
+(5,000)
+m. Borrowing costs incurred during construction on money borrowed
+for construction
+13,000
+n. Cost of parking lots and driveways
+19,000
+o. Cost of trees and shrubbery planted (permanent in nature)
+14,000
+p. Excavation costs for new building
+3,000
+Instructions
+Identify each item by letter and list the items in columnar form, using the headings
+shown below. All receipt amounts should be reported in parentheses. For any
+amounts entered in the Other Accounts column, also indicate the account title.
+Item Land Land Improvements Buildings Other Accounts
+
+--- Page 813 ---
+E10.2 (LO 1, 2) (Acquisition Costs of Realty) Pollachek Co. purchased land as
+a factory site for $450,000. The process of tearing down two old buildings on the
+site and constructing the factory required 6 months. The company paid $42,000 to
+raze the old buildings and sold salvaged lumber and brick for $6,300. Legal fees of
+$1,850 were paid for title investigation and drawing the purchase contract.
+Pollachek paid $2,200 to an engineering firm for a land survey, and $65,000 for
+drawing the factory plans. The land survey had to be made before definitive plans
+could be drawn. Title insurance on the property cost $1,500, and a liability
+insurance premium paid during construction was $900. The contractor’s charge for
+construction was $2,740,000. The company paid the contractor in two
+installments: $1,200,000 at the end of 3 months and $1,540,000 upon completion.
+Borrowing costs of $170,000 were incurred to finance the construction.
+Instructions
+Determine the cost of the land and the cost of the building as they should be
+recorded on the books of Pollachek Co. Assume that the land survey was for the
+building.
+E10.3 (LO 1) (Acquisition Costs of Trucks) Haddad Corporation operates a
+retail computer store. To improve delivery services to customers, the company
+purchases four new trucks on April 1, 2022. The terms of acquisition for each truck
+are described below.
+1. Truck #1 has a list price of $15,000 and is acquired for a cash payment of
+$13,900.
+2. Truck #2 has a list price of $20,000 and is acquired for a down payment of
+$2,000 cash and a zero-interest-bearing note with a face amount of $18,000.
+The note is due April 1, 2023. Haddad would normally have to pay interest at a
+rate of 10% for such a borrowing, and the dealership has an incremental
+borrowing rate of 8%.
+3. Truck #3 has a list price of $16,000. It is acquired in exchange for a computer
+system that Haddad carries in inventory. The computer system cost $12,000
+and is normally sold by Haddad for $15,200. Haddad uses a perpetual
+inventory system.
+4. Truck #4 has a list price of $14,000. It is acquired in exchange for 1,000
+ordinary shares in Haddad Corporation. The shares have a par value per share
+of $10 and a market price of $13 per share.
+Instructions
+Prepare the appropriate journal entries for the foregoing transactions for Haddad
+Corporation. (Round computations to the nearest dollar.)
+
+--- Page 814 ---
+E10.4 (LO 1, 2) (Purchase and Self-Constructed Cost of Assets) Dane ASA
+both purchases and constructs various equipment it uses in its operations. The
+following items for two different types of equipment were recorded in random
+order during the calendar year 2022.
+Purchase
+Cash paid for equipment, including sales tax of €5,000
+€105,000
+Freight and insurance cost while in transit
+2,000
+Cost of moving equipment into place at factory
+3,100
+Wage cost for technicians to test equipment
+6,000
+Insurance premium paid during first year of operation on this
+equipment
+1,500
+Special plumbing fixtures required for new equipment
+8,000
+Repair cost incurred in first year of operations related to this
+equipment
+1,300
+ 
+Construction
+Material and purchased parts (gross cost €200,000; failed to take 1%
+cash discount)
+€200,000
+Imputed interest on funds used during construction (share financing)
+14,000
+Labor costs
+190,000
+Allocated overhead costs (fixed—€20,000; variable—€30,000)
+50,000
+Profit on self-construction
+30,000
+Cost of installing equipment
+4,400
+Instructions
+Compute the total cost for each of these two types of equipment. If an item is not
+capitalized as a cost of the equipment, indicate how it should be reported.
+E10.5 (LO 1, 2) (Treatment of Various Costs) Allegro Supply plc, a newly
+formed company, incurred the following expenditures related to Land, Buildings,
+and Equipment.
+Abstract company’s fee for title search
+ 
+£
+520
+Architect’s fees
+ 
+3,170
+Cash paid for land and dilapidated building thereon
+ 
+92,000
+Removal of old building
+£20,000  
+Less: Residual value
+5,500
+14,500
+Interest on short-term loans during construction
+ 
+7,400
+
+--- Page 815 ---
+Excavation before construction for basement
+ 
+19,000
+Equipment purchased (subject to 2% cash discount, which was
+not taken)
+ 
+65,000
+Freight on equipment purchased
+ 
+1,340
+Storage charges on equipment, necessitated by non-completion
+of building when equipment was delivered
+ 
+2,180
+New building constructed (building construction took 6 months
+from date of purchase of land and old building)
+ 
+485,000
+Assessment by city for drainage project
+ 
+1,600
+Hauling charges for delivery of equipment from storage to new
+building
+ 
+620
+Installation of equipment
+ 
+2,000
+Trees, shrubs, and other landscaping after completion of
+building (permanent in nature)
+ 
+5,400
+Instructions
+Determine the amounts that should be debited to Land, Buildings, and Equipment.
+Indicate how any costs not debited to these accounts should be recorded.
+E10.6 (LO 1, 2, 3) (Correction of Improper Cost Entries) Plant acquisitions
+for selected companies are presented as follows.
+1. Natchez Industries Inc. acquired land, buildings, and equipment from a
+bankrupt company, Vivace Co., for a lump-sum price of $680,000. At the time
+of purchase, Vivace’s assets had the following book and appraisal values.
+ 
+Book Values Appraisal Values
+Land
+$200,000
+$150,000
+Buildings
+230,000
+350,000
+Equipment
+300,000
+300,000
+To be conservative, the company decided to take the lower of the two values
+for each asset acquired. The following entry was made.
+Land
+150,000  
+Buildings
+230,000  
+Equipment 300,000  
+Cash
+ 
+680,000
+2. Arawak Enterprises purchased store equipment by making a $2,000 cash down
+payment and signing a 1-year, $23,000, 10% note payable. The purchase was
+
+--- Page 816 ---
+recorded as follows.
+Equipment
+27,300  
+Cash
+ 
+2,000
+Notes Payable
+ 
+23,000
+Interest Payable  
+2,300
+3. Ace Company purchased office equipment for $20,000, terms 2/10, n/30.
+Because the company intended to take the discount, it made no entry until it
+paid for the acquisition. The entry was:
+Equipment
+20,000  
+Cash
+ 
+19,600
+Purchase Discounts  
+400
+4. Paunee Inc. recently received at zero cost a building from the Village of
+Cardassia as an inducement to locate its business in the village. The appraised
+value of the building is $270,000. The company made no entry to record the
+building because it had no cost basis.
+5. Mohegan Company built a warehouse for $600,000. It could have purchased
+the building for $740,000. The controller made the following entry.
+Buildings
+740,000  
+Cash
+ 
+600,000
+Profit on Construction  
+140,000
+Instructions
+Prepare the entry that should have been made at the date of each acquisition.
+E10.7 (LO 2) (Capitalization of Borrowing Costs) McPherson Furniture
+started construction of a combination office and warehouse building for its own
+use at an estimated cost of €5,000,000 on January 1, 2022. McPherson expected to
+complete the building by December 31, 2022. McPherson has the following debt
+obligations outstanding during the construction period.
+Construction loan—12% interest, payable semiannually, issued
+December 31, 2021
+€2,000,000
+Short-term loan—10% interest, payable monthly, and principal
+payable at maturity on May 30, 2023
+1,600,000
+Long-term loan—11% interest, payable on January 1 of each year.
+Principal payable on January 1, 2026
+1,000,000
+Instructions
+(Carry all computations to two decimal places.)
+
+--- Page 817 ---
+a. Assume that McPherson completed the office and warehouse building on
+December 31, 2022, as planned at a total cost of €5,200,000. The following
+expenditures were made during the period for this project: January 1,
+€1,000,000; April 1, €1,500,000; July 1, €2,000,000; and October 1, €700,000.
+Excess funds from the construction loans were invested during the period and
+earned €20,000 of investment income. Compute the amount of borrowing
+costs to be capitalized for this project.
+b. Compute the depreciation expense for the year ended December 31, 2023.
+McPherson elected to depreciate the building on a straight-line basis and
+determined that the asset has a useful life of 30 years and a residual value of
+€300,000.
+E10.8 (LO 2) (Capitalization of Borrowing Costs) On December 31, 2021,
+Tsang Group borrowed HK$3,000,000 at 12% payable annually to finance the
+construction of a new building. In 2022, the company made the following
+expenditures related to this building: March 1, HK$360,000; June 1, HK$600,000;
+July 1, HK$1,500,000; and December 1, HK$1,200,000. Additional information is
+provided as follows.
+1. Other debt outstanding
+10-year, 11% bond, December 31, 2015, interest payable
+annually
+HK$4,000,000
+6-year, 10% note, dated December 31, 2019, interest payable
+annually
+HK$1,600,000
+2. March 1, 2022, expenditure included land costs of HK$150,000
+3. Interest revenue earned in 2022 on funds related to specific borrowing
+HK$49,000
+Instructions
+a. Determine the amount of borrowing cost to be capitalized in 2022 in relation
+to the construction of the building.
+b. Prepare the journal entry to record the capitalization of borrowing costs and
+the recognition of interest expense, if any, at December 31, 2022.
+E10.9 (LO 2) (Capitalization of Borrowing Costs) On July 31, 2022,
+Bismarck Company engaged Duval Tooling Company to construct a special-purpose
+piece of factory machinery. Construction began immediately and was completed on
+November 1, 2022. To help finance construction, on July 31 Bismarck issued a
+$400,000, 3-year, 12% note payable at Wellington National Bank, on which interest
+is payable each July 31. On July 31, $300,000 of the proceeds of the note was paid
+to Duval. The remainder of the proceeds was temporarily invested in short-term
+
+--- Page 818 ---
+marketable securities (trading securities) at 10% until November 1. On November 1,
+Bismarck made a final $100,000 payment to Duval.
+Instructions
+a. Calculate the interest expense, interest revenue, and total borrowing cost to be
+capitalized during 2022. (Round all computations to the nearest dollar.)
+b. Prepare the journal entries needed on the books of Bismarck Company at each
+of the following dates.
+1. July 31, 2022.
+2. November 1, 2022.
+3. December 31, 2022.
+E10.10 (LO 2) (Capitalization of Borrowing Costs) The following two
+situations involve the capitalization of borrowing costs.
+Situation I: On January 1, 2022, Columbia Outfitters signed a fixed-price contract
+to have Builder Associates construct a major plant facility at a cost of R$4,000,000.
+It was estimated that it would take 3 years to complete the project. Also on January
+1, 2022, to finance the construction cost, Columbia borrowed R$4,000,000 payable
+in 10 annual installments of R$400,000, plus interest at the rate of 10%. During
+2022, Columbia made deposit and progress payments totaling R$1,500,000 under
+the contract. The excess borrowed funds were invested in short-term securities,
+from which Columbia realized investment income of R$50,000.
+Instructions
+What amount should Columbia report as capitalized borrowing cost at December
+31, 2022?
+Situation II: During 2022, Evander SA constructed and manufactured certain
+assets and incurred the following borrowing costs in connection with those
+activities.
+ 
+Borrowing
+Costs Incurred
+Warehouse constructed for Evander’s own use
+R$30,000
+Special-order machine for sale to unrelated customer, produced
+according to customer’s specifications
+9,000
+Inventories routinely manufactured, produced on a repetitive
+basis
+8,000
+All of these assets required an extended period of time for completion.
+Instructions
+
+--- Page 819 ---
+Assuming the effect of borrowing cost capitalization is material, what is the total
+amount of borrowing cost to be capitalized?
+E10.11 (LO 3) (Entries for Equipment Acquisitions) Song Engineering
+purchased conveyor equipment with a list price of ₩15,000. Presented below are
+three independent cases related to the equipment (amounts in thousands).
+a. Song paid cash for the equipment 8 days after the purchase. The vendor’s
+credit terms are 2/10, n/30. Assume that equipment purchases are initially
+recorded gross.
+b. Song traded in equipment with a book value of ₩2,000 (initial cost ₩8,000),
+and paid ₩14,200 in cash one month after the purchase. The old equipment
+could have been sold for ₩400 at the date of trade. (The exchange has
+commercial substance.)
+c. Song gave the vendor a ₩16,200, zero-interest-bearing note for the equipment
+on the date of purchase. The note was due in 1 year and was paid on time.
+Assume that the effective-interest rate in the market was 9%.
+Instructions
+Prepare the general journal entries required to record the acquisition and payment
+in each of the independent cases above. (Round to the nearest won.)
+E10.12 (LO 1, 3) (Entries for Asset Acquisition, Including Self-
+Construction) Below are transactions related to Impala Company.
+a. The City of Pebble Beach gives the company 5 acres of land as a plant site. The
+fair value of this land is determined to be $81,000.
+b. 14,000 ordinary shares with a par value of $50 per share are issued in
+exchange for land and buildings. The property has been appraised at a fair
+value of $810,000, of which $180,000 has been allocated to land and $630,000
+to buildings. The shares of Impala Company are not listed on any exchange,
+but a block of 100 shares was sold by a shareholder 12 months ago at $65 per
+share, and a block of 200 shares was sold by another shareholder 18 months
+ago at $58 per share.
+c. No entry has been made to remove from the accounts for Materials, Direct
+Labor, and Overhead the amounts properly chargeable to plant asset accounts
+for machinery constructed during the year. The following information is given
+relative to costs of the machinery constructed.
+Materials used
+$12,500
+Factory supplies used
+900
+Direct labor incurred
+16,000
+
+--- Page 820 ---
+Additional overhead (over regular) caused by construction of
+machinery, excluding factory supplies used
+2,700
+Fixed overhead rate applied to regular manufacturing
+operations
+60% of direct
+labor cost
+Cost of similar machinery if it had been purchased from
+outside suppliers
+44,000
+Instructions
+Prepare journal entries on the books of Impala Company to record these
+transactions.
+E10.13 (LO 1, 3) (Entries for Acquisition of Assets) The following
+information is related to Rommel Group.
+1. On July 6, Rommel acquired the plant assets of Studebaker SE, which had
+discontinued operations. The appraised value of the property is:
+Land
+€ 400,000
+Building
+1,200,000
+Machinery
+800,000
+Total
+€2,400,000
+Rommel gave 12,500 shares of its €100 par value ordinary shares in exchange.
+The shares had a market price of €180 per share on the date of the purchase of
+the property.
+2. Rommel expended the following amounts in cash between July 6 and
+December 15, the date when it first occupied the building.
+Repairs to building
+€105,000
+Construction of bases for machinery to be installed later
+135,000
+Driveways and parking lots
+122,000
+Remodeling of office space in building, including new partitions
+and walls
+161,000
+Special assessment by city on land
+18,000
+3. On December 20, the company paid cash for machinery, €280,000, subject to a
+2% cash discount, and freight on machinery of €10,500.
+Instructions
+Prepare entries on the books of Rommel for these transactions.
+E10.14 (LO 3) (Purchase of Equipment with Zero-Interest-Bearing Debt)
+Sterling Inc. has decided to purchase equipment from Central Industries on
+
+--- Page 821 ---
+January 2, 2022, to expand its production capacity to meet customers’ demand for
+its product. Sterling issues a $900,000, 5-year, zero-interest-bearing note to
+Central for the new equipment when the prevailing market rate of interest for
+obligations of this nature is 12%. The company will pay off the note in five
+$180,000 installments due at the end of each year over the life of the note.
+Instructions
+a. Prepare the journal entry or entries at the date of purchase. (Round to nearest
+dollar in all computations.)
+b. Prepare the journal entry or entries at the end of the first year to record the
+payment and interest, assuming that the company employs the effective-
+interest method.
+c. Prepare the journal entry or entries at the end of the second year to record the
+payment and interest.
+d. Assuming that the equipment had a 10-year life and no residual value, prepare
+the journal entry necessary to record depreciation in the first year. (Straight-
+line depreciation is employed.)
+E10.15 (LO 3) (Purchase of Computer with Zero-Interest-Bearing Debt)
+Windsor plc purchased a computer on December 31, 2021, for £130,000, paying
+£30,000 down and agreeing to pay the balance in five equal installments of
+£20,000 payable each December 31 beginning in 2022. An assumed interest rate of
+10% is implicit in the purchase price.
+Instructions
+a. Prepare the journal entry or entries at the date of purchase. (Round to two
+decimal places.)
+b. Prepare the journal entry or entries at December 31, 2022, to record the
+payment and interest (effective-interest method employed).
+c. Prepare the journal entry or entries at December 31, 2023, to record the
+payment and interest (effective-interest method employed).
+E10.16 (LO 2, 3) 
+ (Asset Acquisition) Logan Industries purchased
+the following assets and constructed a building as well. All this was done during the
+current year.
+Assets 1 and 2: These assets were purchased at a lump sum for €104,000 cash.
+The following information was gathered.
+Description
+Initial Cost on
+Seller’s Books
+Depreciation to Date
+on Seller’s Books
+Book Value on
+Seller’s Books
+Appraised
+Value
+Machinery
+€100,000
+€50,000
+€50,000
+€90,000
+
+--- Page 822 ---
+Equipment
+60,000
+10,000
+50,000
+30,000
+Asset 3: This machine was acquired by making a €10,000 down payment and
+issuing a €30,000, 2-year, zero-interest-bearing note. The note is to be paid off in
+two €15,000 installments made at the end of the first and second years. It was
+estimated that the asset could have been purchased outright for €35,900.
+Asset 4: This machinery was acquired by trading in used machinery. (The
+exchange lacks commercial substance.) Facts concerning the trade-in are as
+follows.
+Cost of machinery traded
+€100,000
+Accumulated depreciation to date of sale
+36,000
+Fair value of machinery traded
+80,000
+Cash received
+10,000
+Fair value of machinery acquired
+70,000
+Asset 5: Equipment was acquired by issuing 100 shares of €8 par value ordinary
+shares. The shares have a market price of €11 per share.
+Construction of Building: A building was constructed on land with a cost of
+€180,000. Construction began on February 1 and was completed on November 1.
+The payments to the contractor were as follows.
+Date Payment
+2/1 €120,000
+6/1
+360,000
+9/1
+480,000
+11/1
+100,000
+To finance construction of the building, a €600,000, 12% construction loan was
+taken out on February 1. The loan was repaid on November 1. The firm had
+€200,000 of other outstanding debt during the year at a borrowing rate of 8%.
+Instructions
+Record the acquisition of each of these assets. Interest expense for the year has
+been recorded.
+E10.17 (LO 3) (Non-Monetary Exchange) Alatorre SpA, which manufactures
+shoes, hired a recent college graduate to work in its accounting department. On the
+first day of work, the accountant was assigned to total a batch of invoices with the
+use of an adding machine. Before long, the accountant, who had never before seen
+such a machine, broke it. Alatorre gave the machine plus €320 to Mills Business
+Machine AG (dealer) in exchange for a new machine. Assume the following
+information about the machines.
+
+--- Page 823 ---
+ 
+Alatorre SpA (Old Machine) Mills AG (New Machine)
+Machine cost
+€290
+€270
+Accumulated depreciation
+140
+–0–
+Fair value
+85
+405
+Instructions
+For each company, prepare the necessary journal entry to record the exchange.
+(The exchange has commercial substance.)
+E10.18 (LO 3) (Non-Monetary Exchange) Montgomery Ltd. purchased an
+electric wax melter on April 30, 2023, by trading in its old gas model and paying the
+balance in cash. The following data relate to the purchase.
+List price of new melter
+£15,800
+Cash paid
+10,000
+Cost of old melter (5-year life, £700 residual value)
+12,700
+Accumulated depreciation (old melter—straight-line)
+7,200
+Fair value of old melter
+5,200
+Instructions
+Prepare the journal entry or entries necessary to record this exchange, assuming
+that the exchange (a) has commercial substance, and (b) lacks commercial
+substance. Montgomery’s year ends on December 31, and depreciation has been
+recorded through December 31, 2022.
+E10.19 (LO 3) (Non-Monetary Exchange) Santana SA exchanged equipment
+used in its manufacturing operations plus R$2,000 in cash for similar equipment
+used in the operations of Delaware Co. The following information pertains to the
+exchange.
+ 
+Santana SA Delaware Co.
+Equipment (cost)
+R$28,000
+R$28,000
+Accumulated depreciation
+19,000
+10,000
+Fair value of equipment
+13,500
+15,500
+Cash given up
+2,000  
+Instructions
+a. Prepare the journal entries to record the exchange on the books of both
+companies. Assume that the exchange lacks commercial substance.
+
+--- Page 824 ---
+b. Prepare the journal entries to record the exchange on the books of both
+companies. Assume that the exchange has commercial substance.
+E10.20 (LO 3) (Non-Monetary Exchange) Yintang Group has negotiated the
+purchase of a new piece of automatic equipment at a price of HK$7,000 plus trade-
+in, f.o.b. factory. Yintang paid HK$7,000 cash and traded in used equipment. The
+used equipment had originally cost HK$62,000; it had a book value of HK$42,000
+and a secondhand fair value of HK$45,800, as indicated by recent transactions
+involving similar equipment. Freight and installation charges for the new
+equipment required a cash payment of HK$1,100.
+Instructions
+a. Prepare the general journal entry to record this transaction, assuming that the
+exchange has commercial substance.
+b. Assuming the same facts as in (a) except that fair value information for the
+assets exchanged is not determinable, prepare the general journal entry to
+record this transaction.
+E10.21 (LO 3) (Government Grants) Rialto Group received a £100,000 grant
+from the government to acquire £500,000 of delivery equipment on January 2,
+2022. The delivery equipment has a useful life of 5 years. Rialto uses the straight-
+line method of depreciation. The delivery equipment has a zero residual value.
+Instructions
+a. If Rialto Group reports the grant as a reduction of the asset, answer the
+following questions.
+1. What is the carrying amount of the delivery equipment on the statement
+of financial position at December 31, 2022?
+2. What is the amount of depreciation expense related to the delivery
+equipment in 2023?
+3. What is the amount of grant revenue reported in 2022 on the income
+statement?
+b. If Rialto Group reports the grant as deferred grant revenue, answer the
+following questions.
+1. What is the balance in the deferred grant revenue account at December 31,
+2022?
+2. What is the amount of depreciation expense related to the delivery
+equipment in 2023?
+3. What is the amount of grant revenue reported in 2022 on the income
+statement?
+
+--- Page 825 ---
+E10.22 (LO 3) (Government Grants) Yilmaz SA is provided a grant by the local
+government to purchase land for a building site. The grant is a zero-interest-
+bearing note for 5 years. The note is issued on January 2, 2022, for €5 million
+payable on January 2, 2027. Yilmaz’s incremental borrowing rate is 6%. The land is
+not purchased until July 15, 2022.
+Instructions
+a. Prepare the journal entry or entries to record the grant and note payable on
+January 2, 2022.
+b. Determine the amount of interest expense and grant revenue to be reported on
+December 31, 2022.
+E10.23 (LO 4) 
+ (Analysis of Subsequent Expenditures) Accardo
+Resources Group has been in its plant facility for 15 years. Although the plant is
+quite functional, numerous repair costs are incurred to maintain it in sound
+working order. The company’s plant asset book value is currently R$800,000, as
+indicated below.
+Original cost
+R$1,200,000
+Less: Accumulated depreciation
+400,000
+Book value
+R$ 800,000
+During the current year, the following improvements were made to the plant
+facility.
+a. Because of increased demands for its product, the company increased its plant
+capacity by building a new addition at a cost of R$270,000.
+b. The entire plant was repainted at a cost of R$23,000.
+c. The original roof was an asbestos cement slate. For safety purposes, it was
+removed and replaced with a wood shingle roof at a cost of R$61,000. Book
+value of the old roof was R$41,000.
+d. The electrical system was updated at a cost of R$12,000. The cost of the old
+electrical system was not known. It is estimated that the useful life of the
+building will not change as a result of this updating.
+e. A series of major repairs were made at a cost of R$75,000 because parts of the
+wood structure were rotting. The cost of the old wood structure was not
+known. These extensive repairs are estimated to increase the useful life of the
+building. The company believes the R$75,000 is representative of the cost of
+parts for the wood structure at the date of purchase.
+Instructions
+
+--- Page 826 ---
+Indicate how each of these transactions would be recorded in the accounting
+records.
+E10.24 (LO 4) (Analysis of Subsequent Expenditures) The following
+transactions occurred during 2023. Assume that depreciation of 10% per year is
+charged on all machinery and 5% per year on buildings, on a straight-line basis,
+with no estimated residual value. Depreciation is charged for a full year on all fixed
+assets acquired during the year, and no depreciation is charged on fixed assets
+disposed of during the year.
+Jan.
+30
+A building that cost $112,000 in 2006 is torn down to make room for a new
+building. The wrecking contractor was paid $5,100 and was permitted to
+keep all materials salvaged.
+Mar.
+10
+Machinery that was purchased in 2016 for $16,000 is sold for $2,900 cash,
+f.o.b. purchaser’s plant. Freight of $300 is paid on the sale of this machinery.
+Mar.
+20
+A gear breaks on a machine that cost $9,000 in 2018. The gear is replaced at
+a cost of $3,000. The replacement does not extend the useful life of the
+machine.
+May
+18
+A special base installed for a machine in 2017 when the machine was
+purchased has to be replaced at a cost of $5,500 because of defective
+workmanship on the original base. The cost of the machinery was $14,200 in
+2017. The cost of the base was $4,000, and this amount was charged to the
+Machinery account in 2017.
+June
+23
+One of the buildings is repainted at a cost of $6,900. It had not been painted
+since it was constructed in 2019.
+Instructions
+Prepare general journal entries for the transactions. (Round to the nearest dollar.)
+E10.25 (LO 4) (Analysis of Subsequent Expenditures) Plant assets often
+require expenditures subsequent to acquisition. It is important that they be
+accounted for properly. Any errors will affect both the statements of financial
+position and income statements for a number of years.
+Instructions
+For each of the following items, indicate whether the expenditure should be
+capitalized (C) or expensed (E) in the period incurred.
+a.
+__________ Improvement.
+b.
+__________ Replacement of a minor broken part on a machine.
+c.
+Expenditure that increases the useful life of an existing asset.
+
+--- Page 827 ---
+__________
+d.
+__________
+Expenditure that increases the efficiency and effectiveness of a
+productive asset but does not increase its residual value.
+e.
+__________
+Expenditure that increases the efficiency and effectiveness of a
+productive asset and increases the asset’s residual value.
+f.
+__________ Ordinary repairs.
+g.
+__________
+Improvement to a machine that increased its fair value and its
+production capacity by 30% without extending the machine’s
+useful life.
+i.
+__________
+Expenditure that increases the quality of the output of the
+productive asset.
+E10.26 (LO 5) (Entries for Disposition of Assets) On December 31, 2022,
+Mitsui Ltd. has a machine with a book value of ¥940,000. The original cost and
+related accumulated depreciation at this date are as follows (all amounts in
+thousands).
+Machine
+¥1,300,000
+Less: Accumulated depreciation
+360,000
+Book value
+¥ 940,000
+Depreciation is computed at ¥72,000 per year on a straight-line basis.
+Instructions
+Presented below is a set of independent situations. For each independent situation,
+indicate the journal entry to be made to record the transaction. Make sure that
+depreciation entries are made to update the book value of the machine prior to its
+disposal.
+a. A fire completely destroys the machine on August 31, 2020. An insurance
+settlement of ¥630,000 was received for this casualty. The insurance company
+confirmed on September 30 that the claim would be covered and that the
+amount of the settlement (¥630,000) would be paid on October 15.
+b. On April 1, 2020, Mitsui sold the machine for ¥1,040,000 to Avanti Company.
+c. On July 31, 2020, the company donated this machine to the Mountain King
+City Council. The fair value of the machine at the time of the donation was
+estimated to be ¥1,100,000.
+E10.27 (LO 5) (Disposition of Assets) On January 1, 2022, Pavlova Company
+received a notice from the government that a new highway was being built and that
+land and a building owned by the company were going to be claimed in the process.
+
+--- Page 828 ---
+The company employed an appraiser and estimated that the land had a fair value of
+$114,000 and the building had a fair value of $385,000. On April 30, 2022, after
+some negotiations, Pavlova received a condemnation award of $520,000 cash as
+compensation for the forced sale of the company’s land and building. The land and
+building cost $120,000 and $600,000, respectively, when they were acquired. On
+January 1, 2022, the accumulated depreciation relating to the building amounted to
+$208,000. On April 30, the accumulated depreciation relating to the building was
+$210,000. On August 1, 2022, Pavlova purchased a piece of replacement property
+for cash. The new land cost $90,000, and the new building cost $380,000.
+Instructions
+Prepare the journal entries to record the transactions on January 1, April 30, and
+August 1, 2022.
+Problems
+P10.1 (LO 1, 2) (Classification of Acquisition and Other Asset Costs) At
+December 31, 2021, certain accounts included in the property, plant, and equipment
+section of Reagan Ltd.’s statement of financial position had the following balances.
+Land
+£230,000
+Buildings
+890,000
+Leasehold improvements
+660,000
+Machinery and equipment
+875,000
+During 2022, the following transactions occurred.
+1. Land site number 621 was acquired for £850,000. In addition, to acquire the
+land Reagan paid a £51,000 commission to a real estate agent. Costs of
+£35,000 were incurred to clear the land. During the course of clearing the land,
+timber and gravel were recovered and sold for £13,000.
+2. A second tract of land (site number 622) with a building was acquired for
+£420,000. The closing statement indicated that the land value was £300,000
+and the building value was £120,000. Shortly after acquisition, the building
+was demolished at a cost of £41,000. A new building was constructed for
+£330,000 plus the following costs.
+Excavation fees
+£38,000
+Architectural design fees
+11,000
+Building permit fee
+2,500
+Imputed interest on funds used during construction (share
+financing)
+8,500
+The building was completed and occupied on September 30, 2022.
+
+--- Page 829 ---
+3. A third tract of land (site number 623) was acquired for £650,000 and was put
+on the market for resale.
+4. During December 2022, costs of £89,000 were incurred to improve leased
+office space. The related lease will terminate on December 31, 2024, and is not
+expected to be renewed. (Hint: Leasehold improvements should be handled in
+the same manner as land improvements.)
+5. A group of new machines was purchased under a royalty agreement that
+provides for payment of royalties based on units of production for the
+machines. The invoice price of the machines was £87,000, freight costs were
+£3,300, installation costs were £2,400, and royalty payments for 2022 were
+£17,500.
+Instructions
+a. Prepare a detailed analysis of the changes in each of the following statement of
+financial position accounts for 2022.
+Land
+Leasehold improvements
+Buildings Machinery and equipment
+Disregard the related accumulated depreciation accounts.
+b. List the items that were not used to determine the answer to (a) above, and
+indicate where, or if, these items should be included in Reagan’s financial
+statements.
+P10.2 (LO 1, 5) (Classification of Acquisition Costs) Selected accounts
+included in the property, plant, and equipment section of Lobo Corporation’s
+statement of financial position at December 31, 2021, had the following balances.
+Land
+$ 300,000
+Land improvements
+140,000
+Buildings
+1,100,000
+Equipment
+960,000
+During 2022, the following transactions occurred.
+1. A tract of land was acquired for $150,000 as a potential future building site.
+2. A plant facility consisting of land and building was acquired from Mendota
+Company in exchange for 20,000 shares of Lobo’s ordinary shares. On the
+acquisition date, Lobo’s shares had a closing market price of $37 per share on a
+national exchange. The plant facility was carried on Mendota’s books at
+$110,000 for land and $320,000 for the building at the exchange date. Current
+
+--- Page 830 ---
+appraised values for the land and building, respectively, are $230,000 and
+$690,000.
+3. Items of equipment were purchased at a total cost of $400,000. Additional
+costs were incurred as follows.
+Freight and unloading $13,000
+Sales taxes
+20,000
+Installation
+26,000
+4. Expenditures totaling $95,000 were made for new parking lots, streets, and
+sidewalks at the company’s various plant locations. These expenditures had an
+estimated useful life of 15 years.
+5. Equipment costing $80,000 on January 1, 2014, was scrapped on June 30,
+2022. Straight-line depreciation has been recorded on the basis of a 10-year life
+with no residual values.
+6. Equipment was sold for $20,000 on July 1, 2022. Original cost of the
+equipment was $44,000 on January 1, 2019, and it was depreciated on the
+straight-line basis over an estimated useful life of 7 years and a residual value
+of $2,000.
+Instructions
+a. Prepare a detailed analysis of the changes in each of the following statement of
+financial position accounts for 2022.
+Land
+Buildings
+Land improvements Equipment
+(Hint: Disregard the related accumulated depreciation accounts.)
+b. List the items that were not used to determine the answer to (a), showing the
+pertinent amounts and supporting computations in good form for each item.
+In addition, indicate where, or if, these items should be included in Lobo’s
+financial statements.
+P10.3 (LO 1, 3) (Classification of Land and Building Costs) Spitfire SE
+started as a company on January 2, 2023, but was unable to begin manufacturing
+activities until July 1, 2023, because new factory facilities were not completed until
+that date.
+The Land and Buildings account reported the following items during 2023.
+Jan. 31
+Land and building
+€160,000
+Feb. 28
+Cost of removal of building
+9,800
+May 1
+Partial payment of new construction
+60,000
+
+--- Page 831 ---
+May 1
+Legal fees paid
+3,770
+June 1
+Second payment on new construction
+40,000
+June 1
+Insurance premium
+2,280
+June 1
+Special tax assessment
+4,000
+June 30
+General expenses
+36,300
+July 1
+Final payment on new construction
+30,000
+Dec. 31
+Asset write-up
+53,800
+ 
+ 
+399,950
+Dec. 31
+Depreciation—2023 at 1%
+4,000
+Dec. 31, 2023 Account balance
+€395,950
+The following additional information is to be considered.
+1. To acquire land and building, the company paid €80,000 cash and 800 shares
+of its 8% preference shares, par value €100 per share. The shares trade in an
+active market at €117 per share.
+2. Cost of removal of old buildings amounted to €9,800, and the demolition
+company retained all materials of the building.
+3. Legal fees covered the following.
+Cost of organization
+€
+610
+Examination of title covering purchase of land
+1,300
+Legal work in connection with construction contract
+1,860
+ 
+€3,770
+4. Insurance premium covered the building for a 2-year term beginning May 1,
+2023.
+5. The special tax assessment covered street improvements that are permanent in
+nature.
+6. General expenses covered the following for the period from January 2, 2023, to
+June 30, 2023.
+President’s salary
+€32,100
+Plant superintendent’s salary—supervision of new building
+4,200
+ 
+€36,300
+7. Because of a general increase in construction costs after entering into the
+building contract, the board of directors increased the value of the building
+€53,800, believing that such an increase was justified to reflect the current
+market at the time the building was completed. Retained earnings was credited
+for this amount.
+
+--- Page 832 ---
+8. Depreciation for 2023—1% of asset value (1% of €400,000, or €4,000).
+Instructions
+a. Prepare entries to reflect correct land, buildings, and depreciation accounts at
+December 31, 2023.
+b. Show the proper presentation of land, buildings, and depreciation on the
+statement of financial position at December 31, 2023.
+P10.4 (LO 1, 3, 5) 
+ (Dispositions, Including Condemnation,
+Demolition, and Trade-In) Presented below is a schedule of property
+dispositions for Hollerith Co.
+Schedule of Property Dispositions
+ 
+Cost
+Accumulated
+Depreciation
+Cash
+Proceeds
+Fair
+Value
+Nature of
+Disposition
+Land
+$40,000
+—
+$31,000 $31,000 Condemnation
+Building
+15,000
+—
+3,600
+— Demolition
+Warehouse
+70,000
+$16,000
+74,000
+74,000
+Destruction by
+fire
+Machine
+8,000
+2,800
+900
+7,200 Trade-in
+Furniture
+10,000
+7,850
+—
+3,100 Contribution
+Automobile
+9,000
+3,460
+2,960
+2,960 Sale
+The following additional information is available.
+
+--- Page 833 ---
+Land: On February 15, a condemnation award was received as consideration
+for unimproved land held primarily as an investment. On March 31, another
+parcel of unimproved land to be held as an investment was purchased at a cost
+of $35,000. The company had been made aware that the government was
+going to exercise its right of eminent domain in the previous year and had
+written down the land to its estimated fair value of $25,000 on December 31.
+Building: On April 2, land and building were purchased at a total cost of
+$75,000, of which 20% was allocated to the building on the company books.
+The real estate was acquired with the intention of demolishing the building,
+and this was accomplished during the month of November. Cash proceeds
+received in November represent the net proceeds from demolition of the
+building.
+Warehouse: On June 30, the warehouse was destroyed by fire. The insurance
+company agreed to cover the claim and disbursed the $74,000 on July 31. The
+warehouse was purchased January 2, 2016, and had depreciated $16,000. On
+December 27, the insurance proceeds and other funds were used to purchase a
+replacement warehouse at a cost of $90,000.
+Machine: On December 26, the machine was exchanged for another machine
+having a fair value of $6,300 and cash of $900 was received. (The exchange
+lacks commercial substance.)
+Furniture: On August 15, furniture was contributed to a qualified charitable
+organization. No other contributions were made or pledged during the year.
+Automobile: On November 3, the automobile was sold to Jared Winger, a
+shareholder.
+Instructions
+Indicate how these items would be reported on the income statement of Hollerith
+Co.
+P10.5 (LO 1, 2) (Classification of Costs and Capitalization of Borrowing
+Costs) On January 1, 2022, Blair Corporation purchased for $500,000 a tract of
+land (site number 101) with a building. Blair paid a real estate broker’s commission
+of $36,000, legal fees of $6,000, and title guarantee insurance of $18,000. The
+closing statement indicated that the land value was $500,000 and the building
+value was $100,000. Shortly after acquisition, the building was razed at a cost of
+$54,000.
+Blair entered into a $3,000,000 fixed-price contract with Slatkin Builders, Inc. on
+March 1, 2022, for the construction of an office building on land site number 101.
+The building was completed and occupied on September 30, 2023. Additional
+construction costs were incurred as follows.
+Plans, specifications, and blueprints
+$21,000
+
+--- Page 834 ---
+Architects’ fees for design and supervision
+82,000
+The building is estimated to have a 40-year life from date of completion and will be
+depreciated using the 150% declining-balance method.
+To finance construction costs, Blair borrowed $3,000,000 at a 10% annual interest
+rate on March 1, 2022. Blair will pay interest only over the life of the loan, with the
+principal payable at the end of 10 years when the loan matures. Excess funds from
+the construction loan were invested to earn a return. During 2022, these funds
+earned interest revenue of $135,000. During 2023, the funds earned interest
+revenue of $45,000.
+Instructions
+a. Prepare a schedule that discloses the individual costs making up the balance in
+the Land account in respect of land site number 101 as of September 30, 2023.
+b. Prepare a schedule that discloses the individual costs that should be capitalized
+in the Buildings account as of September 30, 2023. Show supporting
+computations in good form.
+P10.6 (LO 2) (Borrowing Costs) Cho Landscaping began construction of a new
+plant on December 1, 2022 (all amounts in thousands). On this date, the company
+purchased a parcel of land for ¥139,000 in cash. In addition, it paid ¥2,000 in
+surveying costs and ¥4,000 for a title insurance policy. An old dwelling on the
+premises was demolished at a cost of ¥3,000, with ¥1,000 being received from the
+sale of materials.
+Architectural plans were also formalized on December 1, 2022, when the architect
+was paid ¥30,000. The necessary building permits costing ¥3,000 were obtained
+from the city and paid for on December 1 as well. The excavation work began
+during the first week in December with payments made to the contractor in 2023
+as follows.
+Date of Payment Amount of Payment
+March 1
+¥240,000
+May 1
+330,000
+July 1
+60,000
+The building was completed on July 1, 2023.
+To finance construction of this plant, Cho borrowed ¥600,000 from the bank on
+December 1, 2022. Cho had no other borrowings. The ¥600,000 was a 10-year loan
+bearing interest at 8%. Excess funds from the loan were invested during 2022 and
+earned ¥2,000. During 2023, the excess funds from the loan earned ¥1,000.
+Instructions
+
+--- Page 835 ---
+Compute the balance in each of the following accounts at December 31, 2022, and
+December 31, 2023. (Round amounts to the nearest 1,000 yen.)
+a. Land.
+b. Buildings.
+c. Interest Expense.
+P10.7 (LO 2) 
+ (Capitalization of Borrowing Costs) Laserwords A.Ş.
+is a book distributor that had been operating in its original facility since 1985. The
+increase in certification programs and continuing education requirements in
+several professions has contributed to an annual growth rate of 15% for Laserwords
+since 2017. Laserwords’ original facility became obsolete by early 2022 because of
+the increased sales volume and the fact that Laserwords now carries CDs in
+addition to books.
+On June 1, 2022, Laserwords contracted with Black Construction to have a new
+building constructed for 4,000,000 on land owned by Laserwords. The payments
+made by Laserwords to Black Construction are shown in the schedule below.
+Date
+Amount
+July 30, 2022
+900,000
+January 30, 2023
+1,500,000
+May 30, 2023
+1,600,000
+Total payments
+4,000,000
+Construction was completed, and the building was ready for occupancy on May 27,
+2023. Laserwords had no new borrowings directly associated with the new building
+but had the following debt outstanding at May 31, 2023, the end of its fiscal year.
+10%, 5-year note payable of 2,000,000, dated April 1, 2019, with interest
+payable annually on April 1.
+12%, 10-year bond issue of 3,000,000 sold at par on June 30, 2015, with
+interest payable annually on June 30.
+The new building qualifies for capitalization of borrowing costs. The effect of
+capitalizing the interest on the new building, compared with the effect of expensing
+the interest, is material.
+Instructions
+a. Compute the average carrying amount on Laserwords’ new building during the
+capitalization period.
+b. Compute the borrowing cost to be capitalized on Laserwords’ new building.
+
+--- Page 836 ---
+c. Some borrowing costs of Laserwords Inc. are capitalized for the year ended
+May 31, 2023.
+1. Identify the items relating to borrowing costs that must be disclosed in
+Laserwords’ financial statements.
+2. Compute the amount of each of the items that must be disclosed.
+P10.8 (LO 3) (Non-Monetary Exchanges) Holyfield SA wishes to exchange a
+machine used in its operations. Holyfield has received the following offers from
+other companies in the industry.
+1. Dorsett Company offered to exchange a similar machine plus €23,000. (The
+exchange has commercial substance for both parties.)
+2. Winston Company offered to exchange a similar machine. (The exchange lacks
+commercial substance for both parties.)
+3. Liston Company offered to exchange a similar machine but wanted €3,000 in
+addition to Holyfield’s machine. (The exchange has commercial substance for
+both parties.)
+4. In addition, Holyfield contacted Greeley Group, a dealer in machines. To
+obtain a new machine, Holyfield must pay €93,000 in addition to trading in its
+old machine. (The exchange has commercial substance.)
+ 
+Holyfield
+Dorsett
+Winston
+Liston
+Greeley
+Machine cost
+€160,000 €120,000 €152,000 €160,000 €130,000
+Accumulated depreciation
+60,000
+45,000
+71,000
+75,000
+–0–
+Fair value
+92,000
+69,000
+92,000
+95,000
+185,000
+Instructions
+For each of the four independent situations, prepare the journal entries to record
+the exchange on the books of each company.
+P10.9 (LO 3) (Non-Monetary Exchanges) On August 1, Hyde Ltd. exchanged
+productive assets with Wiggins Ltd. Hyde’s asset is referred to below as Asset A,
+and Wiggins’ is referred to as Asset B. The following facts pertain to these assets.
+ 
+Asset A
+Asset B
+Original cost
+£96,000 £110,000
+Accumulated depreciation (to date of exchange)
+40,000
+47,000
+Fair value at date of exchange
+60,000
+75,000
+Cash paid by Hyde Ltd.
+15,000  
+Cash received by Wiggins Ltd.
+ 
+15,000
+
+--- Page 837 ---
+Instructions
+a. Assuming that the exchange of Assets A and B has commercial substance,
+record the exchange for both Hyde Ltd. and Wiggins Ltd.
+b. Assuming that the exchange of Assets A and B lacks commercial substance,
+record the exchange for both Hyde Ltd. and Wiggins Ltd.
+P10.10 (LO 3) (Non-Monetary Exchanges) During the current year, Marshall
+Construction trades an old crane that has a book value of €90,000 (original cost
+€140,000 less accumulated depreciation €50,000) for a new crane from Brigham
+Manufacturing. The new crane cost Brigham €165,000 to manufacture and is
+classified as inventory. The following information is also available.
+ 
+Marshall Const. Brigham Mfg.
+Fair value of old crane
+€ 82,000  
+Fair value of new crane  
+€200,000
+Cash paid
+118,000  
+Cash received
+ 
+118,000
+Instructions
+a. Assuming that this exchange is considered to have commercial substance,
+prepare the journal entries on the books of (1) Marshall Construction and (2)
+Brigham Manufacturing.
+b. Assuming that this exchange lacks commercial substance for Marshall, prepare
+the journal entries on the books of Marshall Construction.
+c. Assuming the same facts as those in (a) except that the fair value of the old
+crane is €98,000 and the cash paid is €102,000, prepare the journal entries on
+the books of (1) Marshall Construction and (2) Brigham Manufacturing.
+d. Assuming the same facts as those in (b) except that the fair value of the old
+crane is €97,000 and the cash paid €103,000, prepare the journal entries on
+the books of (1) Marshall Construction and (2) Brigham Manufacturing.
+P10.11 (LO 1, 3, 5) (Purchases by Deferred Payment, Lump-Sum, and
+Non-Monetary Exchanges) Kang Ltd., a manufacturer of ballet shoes, is
+experiencing a period of sustained growth. In an effort to expand its production
+capacity to meet the increased demand for its product, the company recently made
+several acquisitions of plant and equipment. Rob Joffrey, newly hired in the
+position of fixed-asset accountant, requested that Danny Nolte, Kang’s controller,
+review the following transactions.
+Transaction 1: On June 1, 2022, Kang Ltd. purchased equipment from Wyandot
+Group. Kang issued a HK$28,000, 4-year, zero-interest-bearing note to Wyandot
+
+--- Page 838 ---
+for the new equipment. Kang will pay off the note in four equal installments due at
+the end of each of the next 4 years. At the date of the transaction, the prevailing
+market rate of interest for obligations of this nature was 10%. Freight costs of
+HK$425 and installation costs of HK$500 were incurred in completing this
+transaction. The appropriate factors for the time value of money at a 10% rate of
+interest are given below.
+Future value of HK$1 for 4 periods
+1.46
+Future value of an ordinary annuity for 4 periods 4.64
+Present value of HK$1 for 4 periods
+0.68
+Present value of an ordinary annuity for 4 periods 3.17
+Transaction 2: On December 1, 2022, Kang Ltd. purchased several assets of
+Yakima Shoes, a small shoe manufacturer whose owner was retiring. The purchase
+amounted to HK$220,000 and included the assets listed below. Kang engaged the
+services of Tennyson Appraisal, an independent appraiser, to determine the fair
+values of the assets which are also presented below.
+ 
+Yakima Book Value
+Fair Value
+Inventory
+HK$ 60,000 HK$ 50,000
+Land
+40,000
+80,000
+Buildings
+70,000
+120,000
+ 
+HK$170,000 HK$250,000
+During its fiscal year ended May 31, 2023, Kang incurred HK$8,000 for interest
+expense in connection with the financing of these assets.
+Transaction 3: On March 1, 2023, Kang Ltd. exchanged a number of used trucks
+plus cash for vacant land adjacent to its plant site. (The exchange has commercial
+substance.) Kang intends to use the land for a parking lot. The trucks had a
+combined book value of HK$35,000, as Kang had recorded HK$20,000 of
+accumulated depreciation against these assets. Kang’s purchasing agent, who has
+had previous dealings in the secondhand market, indicated that the trucks had a
+fair value of HK$46,000 at the time of the transaction. In addition to the trucks,
+Kang paid HK$19,000 cash for the land.
+Instructions
+a. Plant assets such as land, buildings, and equipment receive special accounting
+treatment. Describe the major characteristics of these assets that differentiate
+them from other types of assets.
+b. For each of the three transactions described above, determine the value at
+which Kang Ltd. should record the acquired assets. Support your calculations
+with an explanation of the underlying rationale.
+
+--- Page 839 ---
+c. The books of Kang Ltd. show the following additional transactions for the
+fiscal year ended May 31, 2023.
+1. Acquisition of a building for speculative purposes.
+2. Purchase of a 2-year insurance policy covering plant equipment.
+3. Purchase of the rights for the exclusive use of a process used in the
+manufacture of ballet shoes.
+For each of these transactions, indicate whether the asset should be classified as a
+plant asset. If it is a plant asset, explain why it is. If it is not a plant asset, explain
+why not, and identify the proper classification.
+Concepts for Analysis
+CA10.1 (LO 1, 4, 5) 
+ (Acquisition, Improvements, and Sale of
+Realty) Tonkawa Group purchased land for use as its company headquarters. A
+small factory that was on the land when it was purchased was torn down before
+construction of the office building began. Furthermore, a substantial amount of
+rock blasting and removal had to be done before construction of the building
+foundation began. Because the office building was set back on the land far from the
+public road, Tonkawa Group had the contractor construct a paved road that led
+from the public road to the parking lot of the office building.
+Three years after the office building was occupied, Tonkawa Group added four
+stories to the office building. The four stories had an estimated useful life of 5
+years more than the remaining estimated useful life of the original office building.
+Ten years later, the land and building were sold at an amount more than their net
+book value, and Tonkawa had a new office building constructed at another site for
+use as its new company headquarters.
+Instructions
+a. Which of the expenditures above should be capitalized? How should each be
+depreciated or amortized? Discuss the rationale for your answers.
+b. How would the sale of the land and building be accounted for? Include in your
+answer an explanation of how to determine the net book value at the date of
+sale. Discuss the rationale for your answer.
+CA10.2 (LO 1) (Accounting for Self-Constructed Assets) Troopers Medical
+Labs began operations 5 years ago producing stetrics, a new type of instrument it
+hoped to sell to doctors, dentists, and hospitals. The demand for stetrics far
+exceeded initial expectations, and the company was unable to produce enough to
+meet demand.
+
+--- Page 840 ---
+The company was manufacturing its product on equipment that it built at the start
+of its operations. To meet demand, more efficient equipment was needed. The
+company decided to design and build the equipment because the equipment
+currently available on the market was unsuitable for producing stetrics.
+In 2022, a section of the plant was devoted to development of the new equipment
+and a special staff was hired. Within 6 months, a machine developed at a cost of
+€714,000 increased production dramatically and reduced labor costs substantially.
+Elated by the success of the new machine, the company built three more machines
+of the same type at a cost of €441,000 each.
+Instructions
+a. In general, what costs should be capitalized for self-constructed equipment?
+b. Discuss the propriety of including in the capitalized cost of self-constructed
+assets:
+1. The increase in overhead caused by the self-construction of fixed assets.
+2. A proportionate share of overhead on the same basis as that applied to
+goods manufactured for sale.
+c. Discuss the proper accounting treatment of the €273,000 (€714,000 −
+€441,000) by which the cost of the first machine exceeded the cost of the
+subsequent machines. This additional cost should not be considered a research
+and development cost.
+CA10.3 (LO 2) (Capitalization of Borrowing Costs) Langer Airline is
+converting from piston-type planes to jets. Delivery time for the jets is 3 years,
+during which time substantial progress payments must be made. The multimillion-
+dollar cost of the planes cannot be financed from working capital; Langer must
+borrow funds for the payments.
+Because of high interest rates and the large sum to be borrowed, management
+estimates that borrowing costs in the second year of the period will be equal to one-
+third of income before interest and taxes, and one-half of such income in the third
+year.
+After conversion, Langer’s passenger-carrying capacity will be doubled with no
+increase in the number of planes, although the investment in planes will be
+substantially increased. The jet planes have a 7-year service life.
+Instructions
+Give your recommendation concerning the proper accounting for interest during
+the conversion period. Support your recommendation with reasons and suggested
+accounting treatment. (Disregard income tax implications.)
+
+--- Page 841 ---
+CA10.4 (LO 2) 
+ (Capitalization of Borrowing Costs) Vang Magazine
+Group started construction of a warehouse building for its own use at an estimated
+cost of ¥5,000,000 on January 1, 2021, and completed the building on December
+31, 2021 (all amounts in thousands). During the construction period, Vang has the
+following debt obligations outstanding.
+Construction loan—12% interest, payable semiannually, issued
+December 31, 2020
+¥2,000,000
+Short-term loan—10% interest, payable monthly, and principal
+payable at maturity, on May 30, 2022
+1,400,000
+Long-term loan—11% interest, payable on January 1 of each year.
+Principal payable on January 1, 2024
+1,000,000
+Total cost amounted to ¥5,200,000. Payments were made during the year as
+follows.
+Date
+Amount
+January 1, 2022
+¥1,500,000
+March 1, 2022
+1,250,000
+September 1, 2022
+1,250,000
+December 1, 2022
+1,200,000
+Total
+¥5,200,000
+Jane Edo, the president of the company, has been shown the costs associated with
+this construction project and capitalized on the statement of financial position. She
+is bothered by the “borrowing cost.” She argues that, first, all the interest is
+unavoidable—no one lends money without expecting to be compensated for it.
+Second, why can’t the company use all the interest on all the loans when
+computing the capitalized borrowing cost? Finally, why can’t her company
+capitalize all the annual interest that accrued over the period of construction?
+Instructions
+You are the manager of accounting for the company. In a memo dated January 15,
+2023, explain what borrowing cost is, how you computed it (being especially careful
+to explain why you used the interest rates that you did), and why the company
+cannot capitalize all its interest for the year. Attach a schedule supporting any
+computations that you use.
+CA10.5 (LO 3) 
+ (Non-Monetary Exchanges) You have two clients who
+are considering trading machinery with each other. Although the machines are
+different from each other, you believe that an assessment of expected cash flows on
+the exchanged assets will indicate the exchange lacks commercial substance. Your
+
+--- Page 842 ---
+clients would prefer that the exchange be deemed to have commercial substance, to
+allow them to record gains. Here are the facts:
+ 
+Client A
+Client B
+Original cost
+£100,000 £150,000
+Accumulated depreciation
+40,000
+80,000
+Fair value
+80,000
+100,000
+Cash received (paid)
+(20,000)
+20,000
+Instructions
+a. Record the trade-in on Client A’s books assuming the exchange has
+commercial substance.
+b. Record the trade-in on Client A’s books assuming the exchange lacks
+commercial substance.
+c. Write a memo to the controller of Company A indicating and explaining the
+specific financial impact on current and future statements of treating the
+exchange as having versus lacking commercial substance.
+d. Record the entry on Client B’s books assuming the exchange has commercial
+substance.
+e. Record the entry on Client B’s books assuming the exchange lacks commercial
+substance.
+f. Write a memo to the controller of Company B indicating and explaining the
+specific financial impact on current and future statements of treating the
+exchange as having versus lacking commercial substance.
+CA10.6 (LO 1) (Costs of Acquisition) The invoice price of a machine is
+€50,000. Various other costs relating to the acquisition and installation of the
+machine, including transportation, electrical wiring, special base, and so on,
+amount to €7,500. The machine has an estimated life of 10 years, with no residual
+value at the end of that period.
+The owner of the business suggests that the incidental costs of €7,500 be charged
+to expense immediately for the following reasons.
+1. If the machine should be sold, these costs cannot be recovered in the sales
+price.
+2. The inclusion of the €7,500 in the machinery account on the books will not
+necessarily result in a closer approximation of the market price of this asset
+over the years because of the possibility of changing demand and supply levels.
+3. Charging the €7,500 to expense immediately will reduce income taxes.
+
+--- Page 843 ---
+Instructions
+Discuss each of the points raised by the owner of the business.
+CA10.7 (LO 1) 
+ (Cost of Land vs. Building—Ethics) Tones Company
+purchased a warehouse in a downtown district where land values are rapidly
+increasing. Gerald Carter, controller, and Wilma Ankara, financial vice president,
+are trying to allocate the cost of the purchase between the land and the building.
+Noting that depreciation can be taken only on the building, Carter favors placing a
+very high proportion of the cost on the warehouse itself, thus reducing taxable
+income and income taxes. Ankara, his supervisor, argues that the allocation should
+recognize the increasing value of the land, regardless of the depreciation potential
+of the warehouse. Besides, she says, net income is negatively impacted by
+additional depreciation and will cause the company’s share price to go down.
+Instructions
+Answer the following questions.
+a. What stakeholder interests are in conflict?
+b. What ethical issues does Carter face?
+c. How should these costs be allocated?
+Using Your Judgment
+Financial Statement Analysis Case
+Unilever Group
+Unilever Group (GBR and NLD) is a leading international company in the
+nutrition, hygiene, and personal-care product lines. Information related to
+Unilever’s property, plant, and equipment in its 2018 annual report is shown in the
+notes to the financial statements as follows.
+10. Property, Plant and Equipment
+Property, plant and equipment is measured at cost including eligible borrowing
+costs less depreciation and accumulated impairment losses. Depreciation is
+provided on a straight-line basis over the expected average useful lives of the
+assets. Residual values are reviewed at least annually. Estimated useful lives
+by major class of assets are as follows:
+Freehold buildings [no depreciation on freehold
+land]
+40 years
+
+--- Page 844 ---
+Leasehold land and buildings
+40 years [or life of lease if
+less]
+Plant and equipment
+2–20 years
+Property, plant and equipment is subject to review for impairment if triggering
+events or circumstances indicate that this is necessary. If an indication of
+impairment exists, the asset or cash generating unit recoverable amount is
+estimated and any impairment loss is charged to the income statement as it arises.
+Movements during 2018
+€ million Land
+and buildings
+€ million Plant
+and equipment
+€ million
+Total
+Cost
+1 January 2018
+4,462
+14,936
+19,398
+Hyperinflation restatement to 1
+January 2018
+37
+182
+219
+Acquisitions of group
+companies
+11
+31
+42
+Additions
+249
+1,091
+1,340
+Disposals
+(97)
+(607)
+(704)
+Hyperinflationary adjustment
+49
+93
+142
+Currency retranslation
+(91)
+(351)
+(442)
+Reclassification as held for sale
+(17)
+(54)
+(71)
+31 December 2018
+4,603
+15,321
+19,924
+Accumulated depreciation
+1 January 2018
+(1,429)
+(7,558)
+(8,987)
+Hyperinflation restatement to 1
+January 2018
+(10)
+(106)
+(116)
+Depreciation charge for the
+year
+(125)
+(1,066)
+(1,191)
+Disposals
+62
+529
+591
+Hyperinflationary adjustment
+(7)
+(53)
+(60)
+Currency retranslation
+15
+128
+143
+Reclassification as held for sale
+10
+33
+43
+31 December 2018
+(1,484)
+(8,093)
+(9,577)
+Net book value 31 December
+2018
+3,119
+7,228
+10,347
+
+--- Page 845 ---
+Includes capital expenditure for
+assets under construction
+130
+956
+1,086
+The Group has committed capital expenditure of €324 million (2017: €323 mllion).
+Unilever provided the following selected information in its 2018 cash flow
+statement.
+Unilever
+(€ million)
+ 
+€ million
+2018
+Net profit
+9,808
+Taxation
+2,575
+Share of net profit of joint ventures/associates and other income/(loss)
+from non-current investments and associates
+(207)
+Net monetary gain arising from hyperinflationary economies
+(122)
+Net finance costs
+481
+Operating profit
+12,535
+Depreciation, amortisation and impairment
+1,747
+Changes in working capital:
+(793)
+Inventories
+(471)
+Trade and other receivables
+(1,298)
+Trade payables and other liabilities
+976
+Pensions and similar obligations less payments
+(128)
+Provisions less payments
+55
+Elimination of (profits)/losses on disposals
+(4,299)
+Non-cash charge for share-based compensation
+196
+Other adjustments
+(266)
+Cash flow from operating activities
+9,047
+Income tax paid
+(2,294)
+Net cash flow from operating activities
+6,753
+Interest received
+110
+Purchase of intangible assets
+(203)
+Purchase of property, plant and equipment
+(1,329)
+Disposal of property, plant and equipment
+108
+
+--- Page 846 ---
+Acquisition of group companies, joint ventures and associates
+(1,336)
+Disposal of group companies, joint ventures and associates
+7,093
+Acquisition of other non-current investments
+(94)
+Disposal of other non-current investments
+151
+Dividends from joint ventures, associates and other non-current
+investments
+154
+(Purchase)/sale of financial assets
+(10)
+Net cash flow (used in)/from investing activities
+4,644
+Dividends paid on ordinary share capital
+(4,066)
+Interest and preference dividends paid
+(477)
+Net change in short-term borrowings
+(4,026)
+Additional financial liabilities
+10,595
+Repayment of financial liabilities
+(6,594)
+Capital element of finance lease rental payments
+(10)
+Buyback of preference shares
+–
+Repurchase of shares
+(6,020)
+Other movements on treasury shares
+(257)
+Other financing activities
+(693)
+Net cash flow (used in)/from financing activities
+(11,548)
+Net increase/(decrease) in cash and cash equivalents
+(151)
+Cash and cash equivalents at the beginning of the year
+3,169
+Instructions
+a. What was the carrying value of land, buildings, and equipment at the end of
+2018?
+b. Does Unilever use a conservative or liberal method to depreciate its property,
+plant, and equipment?
+c. What were the actual interest expense and preference dividends paid by the
+company in 2018?
+d. What is Unilever’s free cash flow? From the information provided, comment
+on Unilever’s financial flexibility.
+Accounting, Analysis, and Principles
+Durler Company purchased equipment on January 2, 2018, for $112,000. The
+equipment had an estimated useful life of 5 years, with an estimated residual value
+
+--- Page 847 ---
+of $12,000. Durler uses straight-line depreciation on all assets. On January 2, 2022,
+Durler exchanged this equipment, plus $12,000 in cash, for newer equipment. The
+old equipment has a fair value of $50,000.
+Accounting
+Prepare the journal entry to record the exchange on the books of Durler Company.
+Assume that the exchange has commercial substance.
+Analysis
+How will this exchange affect comparisons of the return on assets ratio for Durler
+in the year of the exchange compared to prior years?
+Principles
+How does the concept of commercial substance affect the accounting and analysis
+of this exchange?
+Bridge to the Profession
+Authoritative Literature References
+[1] International Accounting Standard 16, Property, Plant and Equipment
+(London, U.K.: International Accounting Standards Committee Foundation, 2003),
+par. 6.
+[2] International Accounting Standard 16, Property, Plant and Equipment
+(London, U.K.: International Accounting Standards Committee Foundation, 2003),
+par. 7.
+[3] International Accounting Standard 16, Property, Plant and Equipment
+(London, U.K.: International Accounting Standards Committee Foundation, 2003),
+par. 16.
+[4] International Accounting Standard 16, Property, Plant and Equipment
+(London, U.K.: International Accounting Standards Committee Foundation, 2003),
+par. 22.
+[5] International Accounting Standard 23, Borrowing Costs (London, U.K.:
+International Accounting Standards Committee Foundation, 2007), paras. 5–6.
+[6] International Accounting Standard 23, Borrowing Costs (London, U.K.:
+International Accounting Standards Committee Foundation, 2007), paras. 20–25.
+[7] International Accounting Standard 16, Property, Plant and Equipment
+(London, U.K.: International Accounting Standards Committee Foundation, 2003),
+
+--- Page 848 ---
+paras. 24–26.
+[8] International Accounting Standard 20, Accounting for Government Grants and
+Disclosure of Government Assistance (London, U.K.: International Accounting
+Standards Committee Foundation, 2001).
+[9] International Accounting Standard 37, Provisions, Contingent Liabilities and
+Contingent Assets (London, U.K.: International Accounting Standards Committee
+Foundation, 2001), paras. 53–58.
+Research Case
+Your client is in the planning phase for a major plant expansion, which will involve
+the construction of a new warehouse. The assistant controller does not believe that
+interest cost can be included in the cost of the warehouse because it is a financing
+expense. Others on the planning team believe that some interest cost can be
+included in the cost of the warehouse, but no one could identify the specific
+authoritative guidance for this issue. Your supervisor asks you to research this
+issue.
+Instructions
+Access the IFRS authoritative literature at the IFRS website (you may register for
+free IFRS access at this site). When you have accessed the documents, you can use
+the search tool in your Internet browser to respond to the following questions.
+(Provide paragraph citations.)
+a. Is it permissible to capitalize interest (borrowing costs) into the cost of assets?
+Provide authoritative support for your answer.
+b. What are the objectives for capitalizing borrowing costs?
+c. Discuss which assets qualify for capitalization.
+d. Is there a limit to the amount of interest that may be capitalized in a period?
+e. If capitalization of borrowing costs is allowed, what disclosures are required?
+Notes
+1 Materiality considerations are important in considering items to capitalize.
+Assume, for example, that Broom Ltd. has spare parts on hand to service any
+breakdowns in its equipment. Unless the spare parts either separately or in
+combination are material in amount, expenditures related to spare parts are
+expensed as incurred even though they provide future benefit.
+2 Companies also recognize estimates of dismantling, removing, and site
+restoration if the company has an obligation that it incurs on acquisition of the
+asset. For example, BP (GBR) indicates that liabilities for decommissioning
+costs are recognized when the group has an obligation to dismantle or remove a
+
+--- Page 849 ---
+facility or an item of plant and restore the site on which it is located. A
+corresponding item of property, plant, and equipment of an amount equivalent
+to the provision is also created. We discuss the recognition and measurement of
+these assets and related obligations in Chapter 13.
+3 Borrowing costs include interest and other costs incurred in connection with
+borrowing funds. It also includes foreign currency exchange gains and losses
+related to borrowing in other currencies. [5]
+4 Also included for borrowing cost capitalization are intangible assets and bearer
+plants.
+5 The valuation approaches that should be used are the market, income, or cost
+approach, or a combination of these approaches. The market approach uses
+observable prices and other relevant information generated by market
+transactions involving comparable assets. The income approach uses valuation
+techniques to convert future amounts (for example, cash flows or earnings) to a
+single present value amount (discounted). The cost approach is based on the
+amount that currently would be required to replace the service capacity of an
+asset (often referred to as current replacement cost).
+6 Non-monetary assets are items whose price in terms of the monetary unit may
+change over time. Monetary assets—cash and short- or long-term accounts and
+notes receivable—are fixed in terms of units of currency by contract or
+otherwise.
+7 The determination of the commercial substance of a transaction requires
+significant judgment. In determining whether future cash flows change, it is
+necessary to do one of two things: (1) Determine whether the risk, timing, and
+amount of cash flows arising for the asset received differ from the cash flows
+associated with the outbound asset; or (2) evaluate whether cash flows are
+affected with the exchange versus without the exchange. Also, note that if
+companies cannot determine fair values of the assets exchanged, they should
+use the carrying value of the asset given up in accounting for the exchange.
+8 Recognize that for Jerrod (the dealer), the asset given up in the exchange is
+considered inventory. As a result, Jerrod records a sale and related cost of goods
+sold. The used machine received by Jerrod is recorded at fair value.
+9 Recognize that there is a distinction between government grants and government
+assistance. Government assistance can take many forms, such as providing
+advice related to technical legal or product issues or being a supplier for the
+company’s goods or services. Government grants are a special part of
+government assistance where financial resources are provided to the company.
+In rare situations, a company may receive a donation (gift). The accounting for
+grants and donations is essentially the same. IFRS does provide an option of
+
+--- Page 850 ---
+recording property, plant, and equipment at zero cost although this practice is
+rarely followed.
+10 Using either approach, a question arises about when the amount should be
+recognized. IAS 20 says the amount should be recognized when you have
+“reasonable assurance” that the condition will be satisfied.
+11 Both approaches have deficiencies. Reducing the cost of the asset for the grant
+means that the lab equipment’s cost on the statement of financial position may
+be considered understated. Recording the deferred grant revenue on the credit
+side of the statement of financial position is problematic as many believe it is
+not a liability nor is it equity.
+12 IAS 37 permits the recognition of the gain at the point in time when the amount
+is “virtually certain.” If there is a signed agreement between the insurance
+company and the company before the cash is received, a receivable could be
+recognized.
+Sources: Pulling the Capex Lever, AT Kearney (2013); S. Gordon, “Global Capital Expenditure by
+Companies Still Stalling,” Financial Times (June 30, 2014); and G. Williams, “Global Corporate Capex
+Survey, 2019,” S&P Global Ratings (June 19, 2019).
+
+--- Page 851 ---

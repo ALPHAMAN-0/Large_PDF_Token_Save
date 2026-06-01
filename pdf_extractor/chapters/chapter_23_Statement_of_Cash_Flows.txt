@@ -1,0 +1,4943 @@
+CHAPTER 23
+Statement of Cash Flows
+LEARNING OBJECTIVES
+After studying this chapter, you should be able to:
+1. Describe the usefulness and format of the statement of cash flows.
+2. Prepare a statement of cash flows.
+3. Contrast the direct and indirect methods of calculating net cash flow from operating
+activities.
+4. Discuss special problems in preparing a statement of cash flows.
+5. Explain the use of a worksheet in preparing a statement of cash flows.
+This chapter also includes numerous conceptual discussions that are integral to the
+topics presented here.
+PREVIEW OF CHAPTER 23
+As the following opening story indicates, information on cash flows from operations could show
+financial inflexibility that sometimes leads to a company’s bankruptcy. This chapter explains the
+main components of a statement of cash flows and the types of information it provides. The
+content and organization of the chapter are as follows.
+Show Me the Money!
+Investors usually look to net income as a key indicator of a company’s financial health and future
+prospects. The following graph shows the net income of one company over a seven-year period.
+The company showed a pattern of consistent profitability and even some periods of income growth.
+Between years 1 and 4, net income for this company grew by 32 percent, from $31 million to $41
+million. Would you expect its profitability to continue? The company had consistently paid dividends
+and interest. Would you expect it to continue to do so? Investors answered these questions by buying
+the company’s shares. Eighteen months later, this company—W. T. Grant (USA)—filed for
+bankruptcy, in what was then the largest bankruptcy filing in the United States.
+
+--- Page 2103 ---
+How did this happen? As indicated by the bottom line in the graph, the company had experienced
+several years of declining cash flows from its operations even though it reported profits. How can a
+company have negative cash flows while reporting profits? The answer lies partly in the fact that W. T.
+Grant was having trouble collecting the receivables from its credit sales, causing cash flow to be less
+than net income. Investors who analyzed the cash flows would have likely found an early warning
+signal of W. T. Grant’s operating problems.
+Investors can also look to cash flow information to sniff out companies that can be good buys. As one
+analyst stated when it comes to valuing shares: “Show me the money!” Here’s the thinking behind that
+statement. Start with the “cash flows from operations” reported in the statement of cash flows, which
+(as you will learn in this chapter) consists of net income with non-cash charges (like depreciation and
+deferred taxes) added back and cash-draining events (like an inventory pile-up) taken out. Now
+subtract capital expenditures and dividends. What you’re left with is free cash flow (as discussed in
+Chapter 5).
+Many analysts like companies trading at low multiples of their free cash flow—low, that is, in relation
+to rivals today or the same company in past years. Why? They know that reported earnings can be
+misleading. Case in point: Computer-game maker Activision Blizzard (USA) reported net income of
+$113 million in a recent year. But it did better than that. It took in an additional $300 million, mostly
+for subscriptions to online multiplayer games. It gets the cash now but records the revenue only over
+time, as the subscriptions run out. A couple of investment houses put these shares on their buy list on
+the strength of its cash flows. In contrast, Moody’s Investors Service downgraded the debt issued by
+Tesla (USA), citing persistently negative cash flow and continued production issues with the Model 3
+mass-market sedan. Moody’s continues to view the company’s credit skeptically, due to “the likelihood
+that Tesla will have to undertake a large, near-term capital raise in order to refund maturing
+obligations and avoid a liquidity shortfall.” So watch cash flow—to get an indicator of companies
+headed for trouble, as well as companies that may be undervalued.
+Review and Practice
+Go to the Review and Practice section at the end of the chapter for a targeted summary review
+and practice problem with solution. Multiple-choice questions with annotated solutions, as well
+as additional exercises and practice problem with solutions, are also available online.
+The Statement of Cash Flows
+
+--- Page 2104 ---
+LEARNING OBJECTIVE 1
+Describe the usefulness and format of the statement of cash flows.
+The primary purpose of the statement of cash flows is to provide information about a company’s
+cash receipts and cash payments during a period. A secondary objective is to provide cash-basis
+information about the company’s operating, investing, and financing activities. [1] (See the
+Authoritative Literature References section near the end of the chapter.) The statement of cash flows
+therefore reports cash receipts, cash payments, and net change in cash resulting from a company’s
+operating, investing, and financing activities during a period. Its format reconciles the beginning and
+ending cash balances for the period.
+Usefulness of the Statement of Cash Flows
+The statement of cash flows provides information to help investors, creditors, and others assess the
+following (see Underlying Concepts):
+1. The entity’s ability to generate future cash flows. A primary objective of financial reporting
+is to provide information which helps to predict the amounts, timing, and uncertainty of future
+cash flows. By examining relationships between items such as sales and net cash flow from
+operating activities, or net cash flow from operating activities and increases or decreases in cash, it
+is possible to better predict the future cash flows than is possible using accrual-basis data alone.
+2. The entity’s ability to pay dividends and meet obligations. Simply put, cash is essential.
+Without adequate cash, a company cannot pay employees, settle debts, pay out dividends, or
+acquire equipment. A statement of cash flows indicates where the company’s cash comes from and
+how the company uses its cash. Employees, creditors, shareholders, and customers should be
+particularly interested in this statement because it alone shows the flows of cash in a business.
+3. The reasons for the difference between net income and net cash flow from operating
+activities. The net income number is important: It provides information on the performance of a
+company from one period to another. But some people are critical of accrual-basis net income
+because companies must make estimates to arrive at it. Such is not the case with cash. Thus, as the
+opening story showed, financial statement readers can benefit from knowing why a company’s net
+income and net cash flow from operating activities differ and can assess for themselves the
+reliability of the income number.
+4. The cash and non-cash investing and financing transactions during the period. Besides
+operating activities, companies undertake investing and financing transactions. Investing activities
+include the purchase and sale of assets other than a company’s products or services. Financing
+activities include borrowings and repayments of borrowings, investments by owners, and
+distributions to owners. By examining a company’s investing and financing activities, a financial
+statement reader can better understand why assets and liabilities increased or decreased during
+the period. For example, by reading the statement of cash flows, the reader might find answers to
+following questions:
+Why did cash decrease for Aixtron Aktiengesellschaft (DEU) when it reported net income
+for the year?
+How much did Telefónica, S.A. (ESP) spend on property, plant, and equipment, and
+intangible assets last year?
+Did dividends paid by BP plc (GBR) increase last year?
+How much money did Coca-Cola (USA) borrow last year?
+How much cash did Ahold Delhaize Group (NLD/BEL) use to repurchase ordinary shares?
+
+--- Page 2105 ---
+Underlying Concepts
+Reporting information in the statement of cash flows contributes to meeting the objective of
+financial reporting.
+Classification of Cash Flows
+The statement of cash flows classifies cash receipts and cash payments by operating, investing, and
+financing activities. Transactions and other events characteristic of each kind of activity are as follows.
+[2]
+1. Operating activities involve the cash effects of transactions that enter into the determination of
+net income, such as cash receipts from sales of goods and services, and cash payments to suppliers
+and employees for acquisitions of inventory and expenses. The amount of cash flows arising from
+operating activities is a key indicator of the extent to which the operations of the entity have
+generated sufficient cash flows to repay loans, maintain the operating capability of the entity, pay
+dividends, and make new investments without recourse to external sources of financing.
+2. Investing activities generally involve non-current assets and include (a) making and collecting
+loans, and (b) acquiring and disposing of investments and productive long-lived assets. The
+separate disclosure of cash flows arising from investing activities is important because the cash
+flows represent the extent to which expenditures have been made for resources intended to
+generate future income and cash flows.
+3. Financing activities involve liability and equity items and include (a) obtaining cash from
+creditors and repaying the amounts borrowed, and (b) obtaining capital from owners and
+providing them with a return on, and a return of, their investment. The separate disclosure of cash
+flows arising from financing activities is important because it is useful in predicting claims on
+future cash flows by providers of capital to a company.
+Illustration 23.1 classifies the typical cash receipts and payments of a company according to
+operating, investing, and financing activities.
+
+--- Page 2106 ---
+ILLUSTRATION 23.1 Classification of Typical Cash Inflows and Outflows
+The operating activities category is the most important. It shows the cash provided by company
+operations. This source of cash is generally considered to be the best measure of a company’s ability to
+generate enough cash to continue as a going concern.
+Note the following general guidelines about the classification of cash flows.
+1. Operating activities involve income statement items.
+2. Investing activities involve cash flows resulting from changes in investments and other non-
+current asset items.
+3. Financing activities involve cash flows resulting from changes in equity and non-current liability
+items.
+IFRS allows some flexibility regarding the classification of certain items. Interest and dividends paid
+can be classified as either operating or financing, depending on what treatment the company thinks is
+most appropriate. Similarly, interest and dividends received can be classified as either operating or
+investing. Taxes paid are classified as operating except in circumstances where they can be identified
+with specific investing or financing activities. In order to limit the complexity of our presentation and
+to avoid ambiguity in assignment material, in Illustration 23.1 we have identified specific treatment for
+each of these items rather than allowing choices. All assignment material is based on this treatment.1
+Also, companies classify some cash flows relating to operating activities as investing or financing
+activities. For example, a company classifies the total cash received from the sale of property, plant,
+and equipment as an investing activity. Therefore, sales of those assets are not considered operating
+activities. Because of this (as is discussed more fully later in the chapter), companies must eliminate
+any gains or losses arising from the disposal of these assets to arrive at net cash flow from operating
+activities. Likewise, the payment to extinguish debt is a financing cash flow and should be classified as
+
+--- Page 2107 ---
+such. Any gain or loss related to the extinguishment is eliminated from net cash provided by operating
+activities.
+What Do the Numbers Mean?
+How’s My Cash Flow?
+To evaluate overall cash flows, it is useful to understand where in the product life cycle a company
+is. Generally, companies move through several stages of development, which have implications
+for cash flows. As the graph shows, the pattern of cash flows from operating, financing, and
+investing activities will vary depending on the stage of the product life cycle.
+In the introductory phase, the product is likely not generating much revenue (net operating cash
+flow is negative). Because the company is making heavy investments to get a product off the
+ground, cash flow from investing is negative, and financing cash flows are positive.
+As the product moves to the growth and maturity phases, these cash flow relationships reverse.
+The product generates more cash flows from operations, which can be used to cover investments
+needed to support the product, and less cash is needed from financing. So are negative operating
+cash flows bad? Not always. It depends on the product life cycle.
+Source: Adapted from Paul D. Kimmel, Jerry J. Weygandt, and Donald E. Kieso, Financial Accounting: Tools for Business
+Decision Making, 9th ed. (New York: John Wiley & Sons, 2019), p. 12-18.
+Cash and Cash Equivalents
+The basis recommended by the IASB for the statement of cash flows is actually “cash and cash
+equivalents.” IFRS requires that the components of cash and cash equivalents are reported each period.
+[3] Cash equivalents are short-term, highly liquid investments that are both:
+Readily convertible to known amounts of cash, and
+So near their maturity that they present insignificant risk of changes in value (e.g., due to changes
+in interest rates).
+Generally, only investments with original maturities of three months or less qualify under this
+definition. Examples of cash equivalents are Treasury bills, commercial paper, and money market
+funds purchased with cash that is in excess of immediate needs. Equity investments are excluded from
+cash equivalents unless they are, in substance, cash equivalents. Although we use the term “cash”
+
+--- Page 2108 ---
+throughout our discussion and illustrations, we mean cash and cash equivalents when reporting the
+cash flows and the net increase or decrease in cash. [4]
+Format of the Statement of Cash Flows
+The three activities we discussed above constitute the general format of the statement of cash flows.
+The operating activities section always appears first. It is followed by the investing activities section
+and then the financing activities section.
+A company reports the individual inflows and outflows from investing and financing activities
+separately. That is, a company reports them gross, not netted against one another. Thus, a cash outflow
+from the purchase of property is reported separately from the cash inflow from the sale of property.
+Similarly, a cash inflow from the issuance of debt is reported separately from the cash outflow from its
+retirement.
+The net increase or decrease in cash reported during the period should reconcile the beginning and
+ending cash balances as reported in the comparative statements of financial position.2 The general
+format of the statement of cash flows presents the results of the three activities discussed previously—
+operating, investing, and financing. Illustration 23.2 shows a widely used form of the statement of
+cash flows.
+Company Name
+Statement of Cash Flows
+Period Covered
+Cash flows from operating activities
+Net income
+XXX
+Adjustments to reconcile net income to net cash provided (used) by operating activities:
+(List of individual items)
+XX XX
+Net cash provided (used) by operating activities
+XXX
+Cash flows from investing activities (List of individual inflows and outflows)
+XX
+Net cash provided (used) by investing activities
+XXX
+Cash flows from financing activities (List of individual inflows and outflows)
+XX
+Net cash provided (used) by financing activities
+XXX
+Net increase (decrease) in cash
+XXX
+Cash at beginning of period
+XXX
+Cash at end of period
+XXX
+ILLUSTRATION 23.2 Format of the Statement of Cash Flows
+Preparing the Statement of Cash Flows
+LEARNING OBJECTIVE 2
+Prepare a statement of cash flows.
+Companies prepare the statement of cash flows differently from the three other basic financial
+statements. For one thing, it is not prepared from an adjusted trial balance. The cash flow statement
+requires detailed information concerning the changes in account balances that occurred between two
+points in time. An adjusted trial balance will not provide the necessary data. Second, the statement of
+cash flows deals with cash receipts and payments. As a result, the company must adjust the effects of
+the use of accrual accounting to determine cash flows. The information to prepare this statement
+usually comes from three sources:
+
+--- Page 2109 ---
+1. Comparative statements of financial position provide the amount of the changes in assets,
+liabilities, and equities from the beginning to the end of the period.
+2. Current income statement data help determine the amount of net cash provided by or used by
+operations during the period.
+3. Selected transaction data from the general ledger provide additional detailed information
+needed to determine how the company provided or used cash during the period.
+Preparing the statement of cash flows from the data sources above involves three major steps:
+Step 1. Determine the change in cash. This procedure is straightforward. A company can
+easily compute the difference between the beginning and the ending cash balance from examining
+its comparative statements of financial position.
+Step 2. Determine the net cash flow from operating activities. This procedure is complex.
+It involves analyzing not only the current year’s income statement but also comparative
+statements of financial position as well as selected transaction data.
+Step 3. Determine net cash flows from investing and financing activities. A company
+must analyze all other changes in the statement of financial position accounts to determine their
+effects on cash.
+On the following pages, we work through these three steps in the process of preparing the statement of
+cash flows for Tax Consultants Inc. over several years.
+Illustrations—Tax Consultants Inc.
+We show the steps in preparing the statement of cash flows using data for Tax Consultants Inc. To
+begin, we use the first year of operations for Tax Consultants Inc. The company started on January
+1, 2022, when it issued 60,000 ordinary shares of $1 par value for $60,000 cash. The company rented
+its office space, furniture, and equipment, and performed tax consulting services throughout the first
+year. The comparative statements of financial position at the beginning and end of the year 2022
+appear in Illustration 23.3.
+Tax Consultants Inc.
+Comparative Statements of Financial Position
+Assets
+Dec. 31, 2022 Jan. 1, 2022
+Change
+Increase/Decrease
+Accounts receivable
+$36,000
+$–0–
+$36,000 Increase
+Cash
+49,000
+–0–
+49,000 Increase
+Total
+$85,000
+$–0–
+Equity and Liabilities
+Ordinary shares ($1 par)
+$60,000
+$–0–
+$60,000 Increase
+Retained earnings
+20,000
+–0–
+20,000 Increase
+Accounts payable
+5,000
+–0–
+5,000 Increase
+Total
+$85,000
+$–0–
+ILLUSTRATION 23.3 Comparative Statements of Financial Position, Tax Consultants
+Inc., Year 1
+Illustration 23.4 shows the income statement and additional information for Tax Consultants.
+
+--- Page 2110 ---
+Tax Consultants Inc.
+Income Statement
+For the Year Ended December 31, 2022
+Revenues
+$125,000
+Operating expenses
+85,000
+Income before income taxes
+40,000
+Income tax expense
+6,000
+Net income
+$ 34,000
+Additional Information:
+Examination of selected data indicates that a dividend of $14,000 was declared and paid during the
+year.
+ILLUSTRATION 23.4 Income Statement, Tax Consultants Inc., Year 1
+Step 1: Determine the Change in Cash
+To prepare a statement of cash flows, the first step is to determine the change in cash. This is a
+simple computation. Tax Consultants had no cash on hand at the beginning of the year 2022. It had
+$49,000 on hand at the end of 2022. Thus, cash changed (increased) in 2022 by $49,000.
+Step 2: Determine Net Cash Flow from Operating Activities
+To determine net cash flow from operating activities,3 companies adjust net income in numerous ways.
+A useful starting point is to understand why net income must be converted to net cash provided by
+operating activities.
+Under IFRS, companies use the accrual basis of accounting. As you have learned, this basis requires
+that companies record revenue when they satisfy performance obligations and record expenses when
+incurred. Revenues may include credit sales for which the company has not yet collected cash.
+Expenses incurred may include some items that the company has not yet paid in cash. Thus, under the
+accrual basis of accounting, net income is not the same as net cash flow from operating activities.
+To arrive at net cash flow from operating activities, a company must determine revenues and expenses
+on a cash basis. It does this by eliminating the effects of income statement transactions
+that do not result in an increase or decrease in cash. Illustration 23.5 shows the relationship
+between net income and net cash flow from operating activities.
+ILLUSTRATION 23.5 Net Income versus Net Cash Flow from Operating Activities
+
+--- Page 2111 ---
+In this chapter, we use the term net income to refer to accrual-based net income. A
+company may convert net income to net cash flow from operating activities through either a direct
+method or an indirect method. Due to its widespread use in practice, in the following sections we
+illustrate use of the indirect method. Later in the chapter, we describe the direct method and discuss
+the advantages and disadvantages of the two methods.
+The indirect method (or reconciliation method) starts with net income and converts it to net cash
+flow from operating activities. In other words, the indirect method adjusts net income for items
+that affected reported net income but did not affect cash. To compute net cash flow from
+operating activities, a company adds back non-cash charges in the income statement to net income and
+deducts non-cash credits. We explain the two adjustments to net income for Tax Consultants, namely,
+the increases in accounts receivable and accounts payable, as follows.
+Increase in Accounts Receivable—Indirect Method
+Tax Consultants’ accounts receivable increased by $36,000 (from $0 to $36,000) during the year. For
+Tax Consultants, this means that cash receipts were $36,000 lower than revenues. The Accounts
+Receivable account in Illustration 23.6 shows that Tax Consultants had $125,000 in revenues (as
+reported on the income statement), but it collected only $89,000 in cash.
+Accounts Receivable
+1/1/22
+Balance
+–0–
+Receipts from customers 89,000
+Revenues 125,000
+12/31/22 Balance
+36,000
+ILLUSTRATION 23.6 Analysis of Accounts Receivable
+As shown in Illustration 23.7, to adjust net income to net cash provided by operating activities, Tax
+Consultants must deduct the increase of $36,000 in accounts receivable from net income. When the
+Accounts Receivable balance decreases, cash receipts are higher than revenue recognized under the
+accrual basis. Therefore, the company adds to net income the amount of the decrease in accounts
+receivable to arrive at net cash provided by operating activities.
+Increase in Accounts Payable—Indirect Method
+When accounts payable increase during the year, expenses on an accrual basis exceed those on a cash
+basis. Why? Because Tax Consultants incurred expenses, but some of the expenses are not yet paid. To
+convert net income to net cash flow from operating activities, Tax Consultants must add back the
+increase of $5,000 in accounts payable to net income.
+As a result of the accounts receivable and accounts payable adjustments, Tax Consultants determines
+that the net cash provided by operating activities is $3,000 for the year 2022. Illustration 23.7 shows
+this computation.
+Net income
+$ 34,000
+Adjustments to reconcile net income to net cash provided by operating activities:
+Increase in accounts receivable
+$(36,000)
+Increase in accounts payable
+5,000 (31,000)
+Net cash provided by operating activities
+$ 3,000
+ILLUSTRATION 23.7 Computation of Net Cash Flow from Operating Activities, Year 1—
+Indirect Method
+Step 3: Determine Net Cash Flows from Investing and Financing Activities
+
+--- Page 2112 ---
+After Tax Consultants has computed the net cash provided by operating activities, the next step is to
+determine whether any other changes in the statement of financial position accounts caused an
+increase or decrease in cash.
+For example, an examination of the remaining statement of financial position accounts for Tax
+Consultants shows increases in both ordinary shares and retained earnings. The Share Capital—
+Ordinary increase of $60,000 resulted from the issuance of ordinary shares for cash. The issuance of
+ordinary shares is reported in the statement of cash flows as a receipt of cash from a financing activity.
+Two items caused the retained earnings increase of $20,000:
+1. Net income of $34,000 increased retained earnings.
+2. Declaration of $14,000 of dividends decreased retained earnings.
+Tax Consultants has converted net income into net cash flow from operating activities, as explained
+earlier. The additional data indicate that it paid the dividend. Thus, the company reports the dividend
+payment as a cash outflow, classified as a financing activity.
+Statement of Cash Flows—2022
+We are now ready to prepare the statement of cash flows. The statement starts with the operating
+activities section. Tax Consultants may use either the direct or indirect method to report net cash flow
+from operating activities.
+The IASB encourages the use of the direct method over the indirect method. [6] If a company uses
+the indirect method, it can either report the reconciliation within the statement of cash flows or can
+provide it in a separate schedule, with the statement of cash flows reporting only the net cash flow
+from operating activities. Throughout this chapter, we use the indirect method, which is also used
+more extensively in practice.4
+Illustration 23.8 shows the statement of cash flows for Tax Consultants Inc., for year 1 (2022).
+Tax Consultants Inc.
+Statement of Cash Flows
+For the Year Ended December 31, 2022
+Increase (Decrease) in Cash
+Cash flows from operating activities
+Net income
+$ 34,000
+Adjustments to reconcile net income to net cash provided by operating
+activities:
+Increase in accounts receivable
+$(36,000)
+Increase in accounts payable
+5,000
+(31,000)
+Net cash provided by operating activities
+3,000
+Cash flows from financing activities
+Issuance of ordinary shares
+60,000
+Payment of cash dividends
+(14,000)
+Net cash provided by financing activities
+46,000
+Net increase in cash
+49,000
+Cash, January 1, 2022
+–0–
+Cash, December 31, 2022
+$ 49,000
+ILLUSTRATION 23.8 Statement of Cash Flows, Tax Consultants Inc., Year 1
+
+--- Page 2113 ---
+As indicated, the $60,000 increase in ordinary shares results in a financing-activity cash inflow. The
+payment of $14,000 in cash dividends is a financing-activity outflow of cash. The $49,000 increase in
+cash reported in the statement of cash flows agrees with the increase of $49,000 shown in the
+comparative statements of financial position (in Illustration 23.3) as the change in the Cash account.
+Illustration—2023
+Tax Consultants Inc. continued to grow and prosper in its second year of operations. The company
+purchased land, building, and equipment, and revenues and net income increased substantially from
+the first year. Illustrations 23.9 and 23.10 present information related to the second year of
+operations for Tax Consultants Inc.
+Tax Consultants Inc.
+Comparative Statements of Financial Position as of December 31
+Assets
+2023
+2022
+Change
+Increase/Decrease
+Land
+$ 70,000 $ –0–
+$ 70,000 Increase
+Buildings
+200,000
+–0–
+200,000 Increase
+Accumulated depreciation—buildings
+(11,000)
+–0–
+11,000 Increase
+Equipment
+68,000
+–0–
+68,000 Increase
+Accumulated depreciation—equipment
+(10,000)
+–0–
+10,000 Increase
+Accounts receivable
+26,000
+36,000
+10,000 Decrease
+Prepaid expenses
+6,000
+–0–
+6,000 Increase
+Cash
+37,000
+49,000
+12,000 Decrease
+Total
+$386,000 $ 85,000
+Equity and Liabilities
+Share capital—ordinary ($1 par)
+$ 60,000 $ 60,000 $
+–0–
+Retained earnings
+136,000
+20,000
+116,000 Increase
+Bonds payable
+150,000
+–0–
+150,000 Increase
+Accounts payable
+40,000
+5,000
+35,000 Increase
+Total
+$386,000 $ 85,000
+ILLUSTRATION 23.9 Comparative Statements of Financial Position, Tax Consultants
+Inc., Year 2
+
+--- Page 2114 ---
+Tax Consultants Inc.
+Income Statement
+For the Year Ended December 31, 2023
+Revenues
+$492,000
+Operating expenses (excluding depreciation)
+$269,000
+Depreciation expense
+21,000
+290,000
+Income from operations
+202,000
+Income tax expense
+68,000
+Net income
+$134,000
+Additional Information
+a. The company declared and paid an $18,000 cash dividend.
+b. The company obtained $150,000 cash through the issuance of long-term bonds.
+c. Land, building, and equipment were acquired for cash.
+ILLUSTRATION 23.10 Income Statement, Tax Consultants Inc., Year 2
+Step 1: Determine the Change in Cash
+To prepare a statement of cash flows from the available information, the first step is to determine the
+change in cash. As indicated from the information presented, cash decreased $12,000 ($49,000 −
+$37,000).
+Step 2: Determine Net Cash Flow from Operating Activities—Indirect Method
+Using the indirect method, we adjust net income of $134,000 on an accrual basis to arrive at net cash
+flow from operating activities. Explanations for the adjustments to net income follow.
+Decrease in Accounts Receivable. Accounts receivable decreased during the period because
+cash receipts (cash-basis revenues) are higher than revenues reported on an accrual basis. To
+convert net income to net cash flow from operating activities, the decrease of $10,000 in accounts
+receivable must be added to net income.
+Increase in Prepaid Expenses. When prepaid expenses (assets) increase during a period,
+expenses on an accrual-basis income statement are lower than they are on a cash-basis income
+statement. The reason: Tax Consultants has made cash payments in the current period, but
+expenses (as charges to the income statement) have been deferred to future periods. To convert
+net income to net cash flow from operating activities, the company must deduct from net income
+the increase of $6,000 in prepaid expenses. An increase in prepaid expenses results in a decrease
+in cash during the period.
+Increase in Accounts Payable. Like the increase in 2022, Tax Consultants must add the 2023
+increase of $35,000 in accounts payable to net income, to convert to net cash flow from operating
+activities. The company incurred a greater amount of expense than the amount of cash it
+disbursed.
+Depreciation Expense (Increase in Accumulated Depreciation). The purchase of
+depreciable assets is a use of cash, shown in the investing section in the year of acquisition. Tax
+Consultants’ depreciation expense of $21,000 (also represented by the increase in accumulated
+depreciation) is a non-cash charge; the company adds it back to net income, to arrive at net cash
+
+--- Page 2115 ---
+flow from operating activities. The $21,000 is the sum of the $11,000 depreciation on the building
+plus the $10,000 depreciation on the equipment.
+Certain other periodic charges to expense do not require the use of cash. Examples are the
+amortization of intangible assets and depletion expense. Such charges are treated in the same manner
+as depreciation. Companies frequently list depreciation and similar non-cash charges as the first
+adjustments to net income in the statement of cash flows.
+As a result of the foregoing items, net cash provided by operating activities is $194,000, as shown in
+Illustration 23.11.
+Step 3: Determine Net Cash Flows from Investing and Financing Activities
+After you have determined the items affecting net cash provided by operating activities, the next step
+involves analyzing the remaining changes in the statement of financial position accounts. Tax
+Consultants Inc. analyzed the following accounts.
+Increase in Land. As indicated from the change in the Land account, the company purchased
+land of $70,000 during the period. This transaction is an investing activity, reported as a use of
+cash.
+Increase in Buildings and Related Accumulated Depreciation. As indicated in the
+additional data, and from the change in the Buildings account, Tax Consultants acquired an office
+building using $200,000 cash. This transaction is a cash outflow, reported in the investing section.
+The $11,000 increase in accumulated depreciation results from recording depreciation expense on
+the building. As indicated earlier, the reported depreciation expense has no effect on the amount of
+cash.
+Increase in Equipment and Related Accumulated Depreciation. An increase in equipment
+of $68,000 resulted because the company used cash to purchase equipment. This transaction is an
+outflow of cash from an investing activity. The depreciation expense entry for the period explains
+the increase in Accumulated Depreciation—Equipment.
+Increase in Bonds Payable. The Bonds Payable account increased $150,000. Cash received
+from the issuance of these bonds represents an inflow of cash from a financing activity.
+Increase in Retained Earnings. Retained earnings increased $116,000 during the year. Two
+factors explain this increase: (1) net income of $134,000 increased retained earnings, and (2)
+dividends of $18,000 decreased retained earnings. As indicated earlier, the company adjusts net
+income to net cash provided by operating activities in the operating activities section. Payment of
+the dividends is a financing activity that involves a cash outflow.
+Net income
+$134,000
+Adjustments to reconcile net income to net cash provided by operating activities:
+Depreciation expense
+$21,000
+Decrease in accounts receivable
+10,000
+Increase in prepaid expenses
+(6,000)
+Increase in accounts payable
+35,000
+60,000
+Net cash provided by operating activities
+$194,000
+ILLUSTRATION 23.11 Computation of Net Cash Flow from Operating Activities, Year 2
+—Indirect Method
+Statement of Cash Flows—2023
+
+--- Page 2116 ---
+Combining the previous items, we get a statement of cash flows for Year 2 (2023) for Tax Consultants
+Inc., as shown in Illustration 23.12, using the indirect method to compute net cash flow from
+operating activities.
+Tax Consultants Inc.
+Statement of Cash Flows
+For the Year Ended December 31, 2023
+Increase (Decrease) in Cash
+Cash flows from operating activities
+Net income
+$ 134,000
+Adjustments to reconcile net income to net cash provided by operating
+activities:
+Depreciation expense
+$ 21,000
+Decrease in accounts receivable
+10,000
+Increase in prepaid expenses
+(6,000)
+Increase in accounts payable
+35,000
+60,000
+Net cash provided by operating activities
+194,000
+Cash flows from investing activities
+Purchase of land
+(70,000)
+Purchase of building
+(200,000)
+Purchase of equipment
+(68,000)
+Net cash used by investing activities
+(338,000)
+Cash flows from financing activities
+Issuance of bonds
+150,000
+Payment of cash dividends
+(18,000)
+Net cash provided by financing activities
+132,000
+Net decrease in cash
+(12,000)
+Cash, January 1, 2023
+49,000
+Cash, December 31, 2023
+$ 37,000
+ILLUSTRATION 23.12 Statement of Cash Flows, Tax Consultants Inc., Year 2
+Illustration—2024
+Our third example, covering the 2024 operations of Tax Consultants Inc., is more complex. It again
+uses the indirect method to compute and present net cash flow from operating activities.
+Tax Consultants Inc. experienced continued success in 2024 (its third year) and expanded its
+operations to include the sale of computer software used in tax-return preparation and tax planning.
+Thus, inventory is a new asset appearing in the company’s December 31, 2024, statement of financial
+position. Illustrations 23.13 and 23.14 show the comparative statements of financial position,
+income statements, and selected data for 2024.
+
+--- Page 2117 ---
+Tax Consultants Inc.
+Comparative Statements of Financial Position
+as of December 31
+Assets
+2024
+2023
+Change
+Increase/Decrease
+Land
+$ 45,000 $ 70,000 $ 25,000 Decrease
+Buildings
+200,000
+200,000
+–0–
+Accumulated depreciation—buildings
+(21,000)
+(11,000)
+10,000 Increase
+Equipment
+193,000
+68,000
+125,000 Increase
+Accumulated depreciation—equipment (28,000)
+(10,000)
+18,000 Increase
+Inventory
+54,000
+–0–
+54,000 Increase
+Accounts receivable
+68,000
+26,000
+42,000 Increase
+Prepaid expenses
+4,000
+6,000
+2,000 Decrease
+Cash
+54,000
+37,000
+17,000 Increase
+Totals
+$569,000 $386,000
+Equity and Liabilities
+Share capital—ordinary ($1 par)
+$220,000 $ 60,000 $160,000 Increase
+Retained earnings
+206,000
+136,000
+70,000 Increase
+Bonds payable
+110,000
+150,000
+40,000 Decrease
+Accounts payable
+33,000
+40,000
+7,000 Decrease
+Totals
+$569,000 $386,000
+ILLUSTRATION 23.13 Comparative Statements of Financial Position, Tax Consultants
+Inc., Year 3
+
+--- Page 2118 ---
+Tax Consultants Inc.
+Income Statement
+For the Year Ended December 31, 2024
+Revenues
+$890,000
+Cost of goods sold
+$465,000
+Operating expenses
+221,000
+Interest expense
+12,000
+Loss on sale of equipment
+2,000
+700,000
+Income from operations
+190,000
+Income tax expense
+65,000
+Net income
+$125,000
+Additional Information
+a. Operating expenses include depreciation expense of $33,000 and expiration of prepaid expenses
+of $2,000.
+b. Land was sold at its book value for cash.
+c. Cash dividends of $55,000 were declared and paid.
+d. Interest expense of $12,000 was paid in cash.
+e. Equipment with a cost of $166,000 was purchased for cash. Equipment with a cost of $41,000
+and a book value of $36,000 was sold for $34,000 cash.
+f. Bonds were redeemed at their book value for cash.
+g. Ordinary shares ($1 par) were issued for cash.
+ILLUSTRATION 23.14 Income Statement, Tax Consultants Inc., Year 3
+Step 1: Determine the Change in Cash
+The first step in the preparation of the statement of cash flows is to determine the change in cash. As
+the comparative statements of financial position show, cash increased $17,000 in 2024.
+Step 2: Determine Net Cash Flow from Operating Activities—Indirect Method
+We explain the adjustments to net income of $125,000 as follows.
+Increase in Accounts Receivable. The increase in accounts receivable of $42,000 represents
+recorded accrual-basis revenues in excess of cash collections in 2024. The company deducts this
+increase from net income to convert from the accrual basis to the cash basis.
+Increase in Inventories. The $54,000 increase in inventories represents an operating use of
+cash, not an expense. Tax Consultants therefore deducts this amount from net income, to arrive at
+net cash flow from operations. In other words, when inventory purchased exceeds inventory sold
+during a period, cost of goods sold on an accrual basis is lower than on a cash basis.
+Decrease in Prepaid Expenses. The $2,000 decrease in prepaid expenses represents a charge
+to the income statement for which Tax Consultants made no cash payment in the current period.
+The company adds back the decrease to net income, to arrive at net cash flow from operating
+activities.
+
+--- Page 2119 ---
+Decrease in Accounts Payable. When accounts payable decrease during the year, cost of goods
+sold and expenses on a cash basis are higher than they are on an accrual basis. To convert net
+income to net cash flow from operating activities, the company must deduct the $7,000 in
+accounts payable from net income.
+Depreciation Expense (Increase in Accumulated Depreciation). Accumulated
+Depreciation—Buildings increased $10,000 ($21,000 − $11,000). The Buildings account did not
+change during the period, which means that Tax Consultants recorded depreciation expense of
+$10,000 in 2024.
+Accumulated Depreciation—Equipment increased by $18,000 ($28,000 − $10,000) during the
+year. But Accumulated Depreciation—Equipment decreased by $5,000 as a result of the sale
+during the year. Thus, depreciation for the year was $23,000. The company reconciled
+Accumulated Depreciation—Equipment as follows.
+Beginning balance
+$10,000
+Add: Depreciation for 2024
+23,000
+33,000
+Deduct: Sale of equipment
+5,000
+Ending balance
+$28,000
+The company must add back to net income the total depreciation expense (buildings and
+equipment) of $33,000 ($10,000 + $23,000) charged to the income statement, to determine net
+cash flow from operating activities.
+Loss on Sale of Equipment. Tax Consultants sold for $34,000 equipment that cost $41,000 and
+had a book value of $36,000. As a result, the company reported a loss of $2,000 on its sale. To
+arrive at net cash flow from operating activities, it must add back to net income the loss on the sale
+of the equipment. The reason is that the loss is a non-cash charge to the income statement. The
+loss did not reduce cash, but it did reduce net income.
+From the foregoing items, the company prepares the operating activities section of the statement of
+cash flows, as shown in Illustration 23.15.
+Cash flows from operating activities
+Net income
+$125,000
+Adjustments to reconcile net income to net cash provided by operating
+activities:
+Depreciation expense
+$ 33,000
+Loss on sale of equipment
+2,000
+Increase in accounts receivable
+(42,000)
+Increase in inventory
+(54,000)
+Decrease in prepaid expenses
+2,000
+Decrease in accounts payable
+(7,000)
+(66,000)
+Net cash provided by operating activities
+59,000
+ILLUSTRATION 23.15 Operating Activities Section of Cash Flow Statement
+Step 3: Determine Net Cash Flows from Investing and Financing Activities
+By analyzing the remaining changes in the statement of financial position accounts, Tax Consultants
+identifies cash flows from investing and financing activities.
+
+--- Page 2120 ---
+Land. Land decreased $25,000 during the period. As indicated from the information presented,
+the company sold land for cash at its book value. This transaction is an investing activity, reported
+as a $25,000 source of cash.
+Equipment. An analysis of the Equipment account indicates the following.
+Beginning balance
+$ 68,000
+Purchase of equipment
+166,000
+234,000
+Sale of equipment
+41,000
+Ending balance
+$193,000
+The company used cash to purchase equipment with a fair value of $166,000—an investing
+transaction reported as a cash outflow. The sale of the equipment for $34,000 is also an investing
+activity, but one that generates a cash inflow.
+Bonds Payable. Bonds payable decreased $40,000 during the year. As indicated from the
+additional information, the company redeemed the bonds at their book value. This financing
+transaction used $40,000 of cash.
+Share Capital—Ordinary. The Share Capital—Ordinary account increased $160,000 during the
+year. As indicated from the additional information, Tax Consultants issued ordinary shares of
+$160,000 at par. This financing transaction provided cash of $160,000.
+Retained Earnings. Retained earnings changed $70,000 ($206,000 − $136,000) during the
+year. The $70,000 change in retained earnings results from net income of $125,000 from
+operations and the financing activity of paying cash dividends of $55,000.
+Statement of Cash Flows—2024
+Tax Consultants Inc. combines the previous items to prepare the statement of cash flows shown in
+Illustration 23.16.
+
+--- Page 2121 ---
+Tax Consultants Inc.
+Statement of Cash Flows
+For the Year Ended December 31, 2024
+Increase (Decrease) in Cash
+Cash flows from operating activities
+Net income
+$ 125,000
+Adjustments to reconcile net income to net cash provided by operating
+activities:
+Depreciation expense
+$ 33,000
+Loss on sale of equipment
+2,000
+Increase in accounts receivable
+(42,000)
+Increase in inventory
+(54,000)
+Decrease in prepaid expenses
+2,000
+Decrease in accounts payable
+(7,000)
+(66,000)
+Net cash provided by operating activities
+59,000
+Cash flows from investing activities
+Sale of land
+25,000
+Sale of equipment
+34,000
+Purchase of equipment
+(166,000)
+Net cash used by investing activities
+(107,000)
+Cash flows from financing activities
+Redemption of bonds
+(40,000)
+Sale of ordinary shares
+160,000
+Payment of dividends
+(55,000)
+Net cash provided by financing activities
+65,000
+Net increase in cash
+17,000
+Cash, January 1, 2024
+37,000
+Cash, December 31, 2024
+$ 54,000
+ILLUSTRATION 23.16 Statement of Cash Flows, Tax Consultants Inc., Year 3
+Sources of Information for the Statement of Cash Flows
+Important points to remember in the preparation of the statement of cash flows are these:
+1. Comparative statements of financial position provide the basic information from which to prepare
+the report. Additional information obtained from analyses of specific accounts is also included.
+2. An analysis of the Retained Earnings account is necessary. Including the net increase or decrease
+in Retained Earnings without any explanation is meaningless. Without explanation, it might
+represent the effect of net income, dividends declared, or prior period adjustments.
+3. The statement includes all changes that have passed through cash or have resulted in an increase
+or decrease in cash.
+4. Write-downs, amortization charges, and similar “book” entries, such as depreciation of plant
+assets, represent neither inflows nor outflows of cash because they have no effect on cash. To the
+extent that they have entered into the determination of net income, however, the company must
+
+--- Page 2122 ---
+add them back to or subtract them from net income, to arrive at net cash provided (used) by
+operating activities.
+Indirect Method—Additional Adjustments
+For consistency and comparability and because it is the most widely used method in practice, we used
+the indirect method in the Tax Consultants’ illustrations. We determined net cash flow from operating
+activities by adding back to or deducting from net income those items that had no effect on cash.
+Illustration 23.17 presents a more complete set of common types of adjustments that companies
+make to net income to arrive at net cash flow from operating activities.
+ILLUSTRATION 23.17 Adjustments Needed to Determine Net Cash Flow from Operating
+Activities—Indirect Method
+The additions and deductions in Illustration 23.17 reconcile net income to net cash flow from operating
+activities, illustrating why the indirect method is also called the reconciliation method.
+Net Cash Flow from Operating Activities—Direct Method
+LEARNING OBJECTIVE 3
+Contrast the direct and indirect methods of calculating net cash flow from operating activities.
+As discussed, two different methods are available to adjust income from operations on an accrual basis
+to net cash flow from operating activities. We showed the indirect method in the Tax Consultants’
+illustrations in the prior sections.
+The direct method reports cash receipts and cash disbursements from operating activities. The
+difference between these two amounts is the net cash flow from operating activities. In other words,
+the direct method deducts operating cash disbursements from operating cash receipts. The direct
+method results in the presentation of a condensed cash receipts and cash disbursements statement.
+As indicated from the accrual-based income statement (see Illustration 23.4), Tax Consultants reported
+revenues of $125,000. However, because the company’s accounts receivable increased by $36,000
+during 2022, the company collected only $89,000 ($125,000 − $36,000) in cash from these revenues.
+Similarly, Tax Consultants reported operating expenses of $85,000. However, accounts payable
+increased during the period by $5,000. Assuming that these payables relate to operating expenses, cash
+operating expenses were $80,000 ($85,000 − $5,000). Because no taxes payable exist at the end of the
+year, the company must have paid $6,000 income tax expense for 2022 in cash during the year. Tax
+Consultants computes net cash flow from operating activities as shown in Illustration 23.18.
+
+--- Page 2123 ---
+Cash collected from revenues
+$89,000
+Cash payments for expenses
+80,000
+Income before income taxes
+9,000
+Cash payments for income taxes
+6,000
+Net cash provided by operating activities $ 3,000
+ILLUSTRATION 23.18 Computation of Net Cash Flow from Operating Activities, Year 1
+—Direct Method
+“Net cash provided by operating activities” is the equivalent of cash basis net income. (“Net cash used
+by operating activities” is equivalent to cash basis net loss.)
+The IASB encourages use of the direct method and permits use of the indirect method. Yet, if the direct
+method is used, the Board requires that companies provide in a separate schedule a reconciliation of
+net income to net cash flow from operating activities. Therefore, under either method, companies must
+prepare and report information from the indirect (reconciliation) method.
+Direct Method—An Example
+Under the direct method, the statement of cash flows reports net cash flow from operating activities as
+major classes of operating cash receipts (e.g., cash collected from customers and cash received from
+interest and dividends) and cash disbursements (e.g., cash paid to suppliers for goods, to employees for
+services, to creditors for interest, and to government authorities for taxes).
+We illustrate the direct method here in more detail to help you understand the difference between
+accrual-based income and net cash flow from operating activities. This example also illustrates the data
+needed to apply the direct method. Drogba SA, which began business on January 1, 2022, has the
+selected statement of financial position information as shown in Illustration 23.19.
+December 31,
+2022
+January 1,
+2022
+Property, plant, and equipment (net)
+€ 90,000
+€–0–
+Inventory
+160,000
+–0–
+Accounts payable
+60,000
+–0–
+Accrued expenses payable
+20,000
+–0–
+Accounts receivable
+15,000
+–0–
+Prepaid expenses
+8,000
+–0–
+Cash
+159,000
+–0–
+ILLUSTRATION 23.19 Statement of Financial Position Accounts, Drogba SA
+Illustration 23.20 shows Drogba’s December 31, 2022, income statement and additional
+information.
+
+--- Page 2124 ---
+Sales revenue
+€780,000
+Cost of goods sold
+450,000
+Gross profit
+330,000
+Operating expenses
+€160,000
+Depreciation
+10,000
+170,000
+Income before income taxes
+160,000
+Income tax expense
+48,000
+Net income
+€112,000
+Additional Information
+a. Dividends of €70,000 were declared and paid in cash.
+b. The accounts payable increase resulted from the purchase of merchandise.
+c. Prepaid expenses and accrued expenses payable relate to operating expenses.
+ILLUSTRATION 23.20 Income Statement, Drogba SA
+Under the direct method, companies compute net cash provided by operating activities by adjusting
+each item in the income statement from the accrual basis to the cash basis. To simplify and
+condense the operating activities section, only major classes of operating cash receipts and cash
+payments are reported. As Illustration 23.21 shows, the difference between these major classes of
+cash receipts and cash payments is the net cash provided by operating activities.
+ILLUSTRATION 23.21 Major Classes of Cash Receipts and Payments
+An efficient way to apply the direct method is to analyze the revenues and expenses reported in the
+income statement in the order in which they are listed. The company then determines cash receipts
+and cash payments related to these revenues and expenses. In the following sections, we present the
+direct method adjustments for Drogba SA in 2022, to determine net cash provided by operating
+activities.
+Cash Receipts from Customers
+
+--- Page 2125 ---
+The income statement for Drogba SA reported revenues from customers of €780,000. To determine
+cash receipts from customers, the company considers the change in accounts receivable during the
+year.
+When accounts receivable increase during the year, revenues on an accrual basis are higher than cash
+receipts from customers. In other words, operations led to increased revenues, but not all of these
+revenues resulted in cash receipts. To determine the amount of cash receipts, deduct the amount of the
+increase in accounts receivable from the total sales revenues. Conversely, a decrease in accounts
+receivable is added to sales revenues because cash receipts from customers then exceed sales revenues.
+For Drogba, accounts receivable increased €15,000. Thus, cash receipts from customers were
+€765,000, computed as follows.
+Sales revenue
+€780,000
+Deduct: Increase in accounts receivable
+15,000
+Cash receipts from customers
+€765,000
+Drogba could also determine cash receipts from customers by analyzing the Accounts Receivable
+account, as shown below.
+Accounts Receivable
+1/1/22
+Balance
+–0–
+Receipts from customers 765,000
+Sales revenue 780,000
+12/31/22 Balance
+15,000
+Illustration 23.22 shows the relationships between cash receipts from customers, revenues from
+sales, and changes in accounts receivable.
+Cash Receipts
+from
+Customers
+=
+Sales
+Revenue
+⎧
+⎪
+⎨
+⎪
+⎩
++
+Decrease in Accounts Receivable
+or
+−
+Increase in Accounts Receivable
+ILLUSTRATION 23.22 Formula to Compute Cash Receipts from Customers
+Cash Payments to Suppliers
+Drogba reported cost of goods sold on its income statement of €450,000. To determine cash payments
+to suppliers, the company first finds purchases for the year, by adjusting cost of goods sold for the
+change in inventory. When inventory increases during the year, purchases this year exceed cost of
+goods sold. As a result, the company adds the increase in inventory to cost of goods sold, to arrive at
+purchases.
+In 2022, Drogba’s inventory increased €160,000. The company computes purchases as follows.
+Cost of goods sold
+€450,000
+Add: Increase in inventory
+160,000
+Purchases
+€610,000
+After computing purchases, Drogba determines cash payments to suppliers by adjusting purchases for
+the change in accounts payable. When accounts payable increase during the year, purchases on an
+accrual basis are higher than they are on a cash basis. As a result, it deducts from purchases the
+increase in accounts payable to arrive at cash payments to suppliers. Conversely, if cash payments to
+suppliers exceed purchases, Drogba adds to purchases the decrease in accounts payable. Cash
+payments to suppliers were €550,000, computed as follows.
+
+--- Page 2126 ---
+Purchases
+€610,000
+Deduct: Increase in accounts payable
+60,000
+Cash payments to suppliers
+€550,000
+Drogba also can determine cash payments to suppliers by analyzing Accounts Payable, as shown below.
+Accounts Payable
+Payments to suppliers 550,000
+1/1/22 Balance
+–0–
+Purchases 610,000
+12/31/22 Balance
+60,000
+Illustration 23.23 shows the relationships between cash payments to suppliers, cost of goods sold,
+changes in inventory, and changes in accounts payable.
+Cash Payments
+to Suppliers
+=
+Cost of 
+Goods Sold
+⎧
+⎪
+⎨
+⎪
+⎩
++
+Increase in Inventory
+or
+−
+Decrease in Inventory
+⎧
+⎪ 
+⎪ 
+⎪ 
+⎪ 
+⎪ 
+⎪ 
+⎪
+⎨
+⎪ 
+⎪ 
+⎪ 
+⎪ 
+⎪ 
+⎪ 
+⎪
+⎩
++
+Decrease in
+Accounts P
+or
+−
+Increase in
+Accounts P
+ILLUSTRATION 23.23 Formula to Compute Cash Payments to Suppliers
+Cash Payments for Operating Expenses
+Drogba reported operating expenses of €160,000 on its income statement. To determine the cash paid
+for operating expenses, it must adjust this amount for any changes in prepaid expenses and accrued
+expenses payable.
+For example, when prepaid expenses increased €8,000 during the year, cash paid for operating
+expenses was €8,000 higher than operating expenses reported on the income statement. To convert
+operating expenses to cash payments for operating expenses, the company adds to operating expenses
+the increase of €8,000. Conversely, if prepaid expenses decrease during the year, Drogba deducts from
+operating expenses the amount of the decrease.
+Drogba also must adjust operating expenses for changes in accrued expenses payable. When accrued
+expenses payable increase during the year, operating expenses on an accrual basis are higher than they
+are on a cash basis. As a result, the company deducts from operating expenses an increase in accrued
+expenses payable, to arrive at cash payments for operating expenses. Conversely, it adds to operating
+expenses a decrease in accrued expenses payable because cash payments exceed operating expenses.
+Drogba’s cash payments for operating expenses were €148,000, computed as follows.
+Operating expenses
+€160,000
+Add: Increase in prepaid expenses
+8,000
+Deduct: Increase in accrued expenses payable
+20,000
+Cash payments for operating expenses
+€148,000
+The relationships among cash payments for operating expenses, changes in prepaid expenses, and
+changes in accrued expenses payable are shown in Illustration 23.24.
+
+--- Page 2127 ---
+Cash Payments
+for Operating
+Expenses
+=
+Operating
+Expenses
+⎧
+⎪ 
+⎪ 
+⎪ 
+⎪ 
+⎪ 
+⎪ 
+⎪
+⎨
+⎪ 
+⎪ 
+⎪ 
+⎪ 
+⎪ 
+⎪ 
+⎪
+⎩
++
+Increase in
+Prepaid Expenses
+or
+−
+Decrease in
+Prepaid Expenses
+⎧
+⎪ 
+⎪ 
+⎪ 
+⎪ 
+⎪ 
+⎪ 
+⎪
+⎨
+⎪ 
+⎪ 
+⎪ 
+⎪ 
+⎪ 
+⎪ 
+⎪
+⎩
++
+Decrease in Acc
+Expenses Payab
+or
+−
+Increase in Accr
+Expenses Payab
+ILLUSTRATION 23.24 Formula to Compute Cash Payments for Operating Expenses
+Note that the company did not consider depreciation expense because it is a non-cash charge.
+Cash Payments for Income Taxes
+The income statement for Drogba shows income tax expense of €48,000. This amount equals the cash
+paid. How do we know that? Because the comparative statement of financial position indicated no
+income taxes payable at either the beginning or end of the year.
+Summary of Net Cash Flow from Operating Activities—Direct Method
+The schedule shown in Illustration 23.25 summarizes the computations illustrated above.
+Accrual Basis
+Adjustment
+Add 
+(Subtract) Cash Basis
+Sales revenue
+€780,000 −Increase in accounts receivable
+€ (15,000)
+€765,000
+Cost of goods sold
+450,000 + Increase in inventory
+160,000
+−Increase in accounts payable
+(60,000)
+550,000
+Operating expenses
+160,000 + Increase in prepaid expenses
+8,000
+−Increase in accrued expenses payable
+(20,000)
+148,000
+Depreciation expense
+10,000 −Depreciation expense
+(10,000)
+–0–
+Income tax expense
+48,000
+48,000
+Total expense
+668,000
+746,000
+Net income
+€112,000
+Net cash provided by operating activities
+€ 19,000
+ILLUSTRATION 23.25 Accrual Basis to Cash Basis
+Illustration 23.26 shows the presentation of the direct method for reporting net cash flow from
+operating activities for the Drogba example.
+Drogba SA
+Statement of Cash Flows (partial)
+Cash flows from operating activities
+Cash received from customers
+€765,000
+Cash payments:
+To suppliers
+€550,000
+For operating expenses
+148,000
+For income taxes
+48,000
+746,000
+Net cash provided by operating activities
+€ 19,000
+ILLUSTRATION 23.26 Operating Activities Section—Direct Method, 2022
+
+--- Page 2128 ---
+If Drogba uses the direct method to present the net cash flow from operating activities, it is required to
+provide in a separate schedule the reconciliation of net income to net cash provided by operating
+activities. The reconciliation assumes the identical form and content of the indirect method of
+presentation, as shown in Illustration 23.27.
+Drogba SA
+Reconciliation
+Net income
+€112,000
+Adjustments to reconcile net income to net cash provided by operating activities:
+Depreciation expense
+€ 10,000
+Increase in accounts receivable
+(15,000)
+Increase in inventory
+(160,000)
+Increase in prepaid expenses
+(8,000)
+Increase in accounts payable
+60,000
+Increase in accrued expense payable
+20,000 (93,000)
+Net cash provided by operating activities
+€ 19,000
+ILLUSTRATION 23.27 Reconciliation of Net Income to Net Cash Provided by Operating
+Activities, 2022
+
+--- Page 2129 ---
+Evolving Issue
+Direct versus Indirect
+The IASB faced a contentious decision related to cash flow reporting when it had to choose
+between the direct method and the indirect method of determining net cash flow from operating
+activities. Companies lobbied against the direct method, urging adoption of the indirect method.
+However, commercial lending officers expressed to the IASB a strong preference in favor of the
+direct method. What are the arguments in favor of each of the methods?
+In Favor of the Direct Method
+The principal advantage of the direct method is that it shows operating cash receipts and
+payments. Thus, it is more consistent with the objective of a statement of cash flows—to provide
+information about cash receipts and cash payments—than the indirect method, which does not
+report operating cash receipts and payments.
+Supporters of the direct method contend that knowledge of the specific sources of operating cash
+receipts and the purposes for which operating cash payments were made in past periods is useful
+in estimating future operating cash flows. Furthermore, information about amounts of major
+classes of operating cash receipts and payments is more useful than information only about their
+arithmetic sum (the net cash flow from operating activities). Such information is more revealing
+of a company’s ability (1) to generate sufficient cash from operating activities to pay its debts, (2)
+to reinvest in its operations, and (3) to make distributions to its owners. Indeed a comprehensive
+review of academic research related to direct method cash flow presentation indicates that
+financial statement users prefer the direct method and that the direct method generally provides
+decision-useful information. That is, the direct method information is reflected in share prices
+indicating that users appear to utilize this information when available.
+Many companies indicate that they do not currently collect information in a manner that allows
+them to determine amounts such as cash received from customers or cash paid to suppliers
+directly from their accounting systems. But supporters of the direct method contend that the
+incremental cost of determining operating cash receipts and payments is not significant.
+In Favor of the Indirect Method
+The principal advantage of the indirect method is that it focuses on the differences between net
+income and net cash flow from operating activities. That is, it provides a useful link between the
+statement of cash flows and the income statement and statement of financial position.
+Many companies contend that it is less costly to adjust net income to net cash flow from
+operating activities (indirect) than it is to report gross operating cash receipts and payments
+(direct). Supporters of the indirect method also state that the direct method, which effectively
+reports income statement information on a cash rather than an accrual basis, may erroneously
+suggest that net cash flow from operating activities is as good as, or better than, net income as a
+measure of performance.
+In their joint financial statement presentation project, the IASB and the FASB proposed to allow
+only the direct method. However, there has been significant pushback on this proposal, which
+suggests that the choice of either the direct or indirect method will continue to be available.
+Sources: J. Hales and S. Orpurt, “A Review of Academic Research on the Reporting of Cash Flows from Operations,”
+Accounting Horizons (September 2013), pp. 539–578. See www.fasb.org/project/research_projects.shtml for the Inactive Joint
+FASB/IASB Projects. See also T. Whitehouse, “FASB Proposal May Foreshadow Changes to Cash Flow Rules,”
+www.complianceweek.com (April 24, 2015).
+Special Problems in Statement Preparation
+
+--- Page 2130 ---
+LEARNING OBJECTIVE 4
+Discuss special problems in preparing a statement of cash flows.
+We discussed some of the special problems related to preparing the statement of cash flows in
+connection with the preceding illustrations. Other problems that arise with some frequency in the
+preparation of this statement include the following.
+1. Adjustments to net income.
+2. Accounts receivable (net).
+3. Other working capital changes.
+4. Net loss.
+5. Disclosures.
+Adjustments to Net Income
+Depreciation and Amortization
+Depreciation expense is the most common adjustment to net income that companies make to arrive at
+net cash flow from operating activities. But there are numerous other non-cash expense or revenue
+items. Examples of expense items that companies must add back to net income are the amortization
+of limited-life intangible assets, such as patents, and depletion of mineral resources. These
+charges to expense involve expenditures made in prior periods that a company amortizes currently.
+These charges reduce net income without affecting cash in the current period.
+Also, amortization of bond discount or premium on long-term bonds payable affects the amount
+of interest expense. However, neither changes cash. As a result, a company should add back discount
+amortization and subtract premium amortization from net income to arrive at net cash flow from
+operating activities.
+Postretirement Benefit Costs
+If a company has postretirement costs such as an employee pension plan, chances are that the pension
+expense recorded during a period will either be higher or lower than the cash funded. It will be higher
+when there is an unfunded liability and will be lower when there is a prepaid pension cost. When the
+expense is higher or lower than the cash paid, the company must adjust net income by the
+difference between cash paid and the expense reported in computing net cash flow from
+operating activities.
+Change in Deferred Income Taxes
+Changes in deferred income taxes affect net income but have no effect on cash. For example,
+Baytex Energy Corp. (CAN) reported an increase in its liability for deferred taxes of approximately
+$107,598,000. This change in the liability increased tax expense and decreased net income, but did not
+affect cash. Therefore, Baytex added back $107,598,000 to net income on its statement of cash flows.
+Equity Method of Accounting
+Another common adjustment to net income is a change related to an equity investment when
+recording income or loss under the equity method. Recall that under the equity method, the investor
+(1) debits the investment account and credits revenue for its share of the investee’s net income, and (2)
+credits dividends received to the investment account. Therefore, the net increase in the investment
+account does not affect cash flows. A company must deduct the net increase from net income to arrive
+at net cash flow from operating activities.
+
+--- Page 2131 ---
+Assume that Victor Co. owns 40 percent of Milo Inc. During the year, Milo reports net income of
+$100,000 and pays a cash dividend of $30,000. Victor reports this in its statement of cash flows as a
+deduction from net income in the following manner—Equity in earnings of Milo, net of dividends,
+$28,000 [($100,000 − $30,000) × .40].
+Losses and Gains
+Realized Losses and Gains
+In the illustration for Tax Consultants, the company experienced a loss of $2,000 from the sale of
+equipment. The company added this loss to net income to compute net cash flow from operating
+activities because the loss is a non-cash charge in the income statement.
+If Tax Consultants experiences a gain from a sale of equipment, it too requires an adjustment to net
+income. Because a company reports the gain in the statement of cash flows as part of the cash proceeds
+from the sale of equipment under investing activities, it deducts the gain from net income to
+avoid double-counting—once as part of net income and again as part of the cash proceeds from the
+sale.
+To illustrate, assume that Tax Consultants had land with a carrying value of $200,000, which was
+condemned by the provincial government for a highway project. The condemnation proceeds received
+were $205,000, resulting in a gain of $5,000. In the statement of cash flows (indirect method), the
+company would deduct the $5,000 gain from net income in the operating activities section. It would
+report the $205,000 cash inflow from the condemnation as an investing activity, as follows.
+Cash flows from investing activities
+Condemnation of land
+$ 205,000
+Unrealized Losses and Gains
+Unrealized losses and gains generally occur for debt investments accounted for at fair value (trading
+and held-for-collection and selling) and for equity investments. For example, assume that AB InBev
+(BEL) purchases the following two security investments on January 10, 2022.
+1. Debt investment for €1 million that is classified as trading. During 2022, the debt investment has
+an unrealized holding gain of €110,000 (recorded in net income).
+2. Equity investment for €600,000 that is non-trading in nature. During 2022, the non-trading
+equity investment has an unrealized holding loss of €50,000 (recorded in other comprehensive
+income).
+For AB InBev, the unrealized holding gain of €110,000 on the debt investment increases net income
+but does not increase net cash flow from operating activities. As a result, the unrealized holding gain of
+€110,000 is deducted from net income to compute net cash flow from operating activities.
+On the other hand, the unrealized holding loss of €50,000 that AB InBev incurs on the non-trading
+equity investment does not affect net income or cash flows—this loss is reported in the other
+comprehensive income section. As a result, no adjustment to net income is necessary in computing net
+cash flow from operating activities.
+Thus, the general rule is that unrealized holding gains or losses that affect net income must be
+adjusted to determine net cash flow from operating activities. Conversely, unrealized holding gains or
+losses that do not affect net income are not adjusted to determine net cash flow from operating
+activities.5
+Share-Based Compensation
+
+--- Page 2132 ---
+Recall that, for share-based compensation plans, companies are required to use the fair value method
+to determine total compensation cost. The compensation cost is then recognized as an expense in the
+periods in which the employee provides services. When Compensation Expense is debited, Share
+Premium—Options is often credited. Cash is not affected by recording the expense. Therefore, the
+company must increase net income by the amount of compensation expense from share
+options in computing net cash flow from operating activities.
+To illustrate how this information should be reported on a statement of cash flows, assume that First
+Wave plc grants 5,000 options to its CEO, Ann Johnson. Each option entitles Johnson to purchase one
+share of First Wave’s £1 par value ordinary shares at £50 per share at any time in the next two years
+(the service period). The fair value of the options is £200,000. First Wave records compensation
+expense in the first year as follows.
+Compensation Expense (£200,000 ÷ 2) 100,000
+Share Premium—Options
+100,000
+In addition, if we assume that First Wave has a 35 percent tax rate, it would recognize a deferred tax
+asset of £35,000 (£100,000 × .35) in the first year, as follows.
+Deferred Tax Asset
+35,000
+Income Tax Expense
+35,000
+Therefore, on the statement of cash flows for the first year, First Wave reports the following (assuming
+a net income of £600,000).
+Net income
+£600,000
+Adjustments to reconcile net income to net cash provided by operating activities:
+Share-based compensation expense
+100,000
+Increase in deferred tax asset
+(35,000)
+As shown in First Wave’s statement of cash flows, it adds the share-based compensation expense to net
+income because it is a non-cash expense. The increase in the deferred tax asset and the related
+reduction in income tax expense increase net income. Although the negative income tax expense
+increases net income, it does not increase cash. Therefore, it should be deducted. Subsequently, if Ann
+Johnson exercises her options, First Wave reports “Cash provided by exercise of share options” in the
+financing section of the statement of cash flows.6
+Accounts Receivable (Net)
+Up to this point, we assumed no allowance for doubtful accounts—a contra account—to offset accounts
+receivable. However, if a company needs an allowance for doubtful accounts, how does that allowance
+affect the company’s determination of net cash flow from operating activities? For example, assume
+that Redmark AG reports net income of €40,000. It has the accounts receivable balances, as shown in
+Illustration 23.28.
+2022
+2021
+Change
+Increase/Decrease
+Accounts receivable
+€105,000 €90,000
+€15,000 Increase
+Allowance for doubtful accounts (10,000)
+(4,000)
+6,000 Increase
+Accounts receivable (net)
+€ 95,000 €86,000
+9,000 Increase
+ILLUSTRATION 23.28 Accounts Receivable Balances, Redmark AG
+Indirect Method
+
+--- Page 2133 ---
+Because an increase in Allowance for Doubtful Accounts results from a charge to bad debt expense, a
+company should add back an increase in Allowance for Doubtful Accounts to net income to arrive at
+net cash flow from operating activities. Illustration 23.29 shows one method for presenting this
+information in a statement of cash flows.
+Redmark AG
+Statement of Cash Flows (partial)
+For the Year 2022
+Cash flows from operating activities
+Net income
+€40,000
+Adjustments to reconcile net income to net cash provided by operating
+activities:
+Increase in accounts receivable
+€(15,000)
+Increase in allowance for doubtful accounts
+6,000 (9,000)
+€31,000
+ILLUSTRATION 23.29 Presentation of Allowance for Doubtful Accounts—Indirect
+Method
+As we indicated, the increase in the Allowance for Doubtful Accounts balance results from a charge to
+bad debt expense for the year. Because bad debt expense is a non-cash charge, a company must add it
+back to net income in arriving at net cash flow from operating activities.
+Instead of separately analyzing the allowance account, a short-cut approach is to net the allowance
+balance against the receivable balance and compare the change in accounts receivable on a net basis.
+Illustration 23.30 shows this presentation.
+Redmark AG
+Statement of Cash Flows (partial)
+For the Year 2022
+Cash flows from operating activities
+Net income
+€40,000
+Adjustments to reconcile net income to net cash provided by operating activities:
+Increase in accounts receivable (net)
+(9,000)
+€31,000
+ILLUSTRATION 23.30 Net Approach to Allowance for Doubtful Accounts—Indirect
+Method
+This short-cut procedure works also if the change in the allowance account results from a write-off of
+accounts receivable. This reduces both Accounts Receivable and Allowance for Doubtful Accounts. No
+effect on cash flows occurs. Because of its simplicity, use the net approach for your homework
+assignments.
+Direct Method
+If using the direct method, a company should not net Allowance for Doubtful Accounts against
+Accounts Receivable. To illustrate, assume that Redmark AG’s net income of €40,000 consisted of the
+items shown in Illustration 23.31.
+
+--- Page 2134 ---
+Redmark AG
+Income Statement
+For the Year 2022
+Sales revenue
+€100,000
+Expenses
+Salaries
+€46,000
+Utilities
+8,000
+Bad debts
+6,000
+60,000
+Net income
+€ 40,000
+ILLUSTRATION 23.31 Income Statement, Redmark AG
+If Redmark deducts the €9,000 increase in accounts receivable (net) from sales for the year, it would
+report cash sales at €91,000 (€100,000 − €9,000) and cash payments for operating expenses at
+€60,000. Both items would be misstated: Cash sales should be reported at €85,000 (€100,000 −
+€15,000), and total cash payments for operating expenses should be reported at €54,000 (€60,000 −
+€6,000). Illustration 23.32 shows the proper presentation.
+Redmark AG
+Statement of Cash Flows (partial)
+For the Year 2022
+Cash flows from operating activities
+Cash received from customers
+€85,000
+Salaries paid
+€46,000
+Utilities paid
+8,000
+54,000
+Net cash provided by operating activities
+€31,000
+ILLUSTRATION 23.32 Bad Debts—Direct Method
+An added complication develops when a company writes off accounts receivable. Simply adjusting sales
+for the change in accounts receivable will not provide the proper amount of cash sales. The reason is
+that the write-off of the accounts receivable is not a cash collection. Thus, an additional adjustment is
+necessary.
+Other Working Capital Changes
+Up to this point, we showed how companies handled all of the changes in working capital items
+(current asset and current liability items) as adjustments to net income in determining net cash flow
+from operating activities. You must be careful, however, because some changes in working capital,
+although they affect cash, do not affect net income. Generally, these are investing or financing
+activities of a current nature.
+One activity is the purchase of short-term non-trading equity investments. For example, the
+purchase of short-term non-trading equity investments for ¥5,000,000 cash has no effect on net
+income, but it does cause a ¥5,000,000 decrease in cash. A company reports this transaction as a cash
+flow from investing activities as follows.
+Cash flows from investing activities
+Purchase of short-term non-trading equity investments ¥5,000,000
+Another example is the issuance of a short-term non-trade note payable for cash. This change in a
+working capital item has no effect on income from operations, but it increases cash by the amount of
+
+--- Page 2135 ---
+the note payable. For example, a company reports the issuance of a ¥10,000,000 short-term, non-trade
+note payable for cash in the statement of cash flows as follows.
+Cash flows from financing activities
+Issuance of short-term note
+¥10,000,000
+Another change in a working capital item that has no effect on income from operations or on cash is a
+cash dividend payable. Although a company will report the cash dividends when paid as a financing
+activity, it does not report the declared but unpaid dividend on the statement of cash flows.
+Net Losses
+If a company reports a net loss instead of a net income, it must adjust the net loss for those items that
+do not result in a cash inflow or outflow. The net loss, after adjusting for the charges or credits not
+affecting cash, may result in a negative or a positive cash flow from operating activities.
+For example, if the net loss is £50,000 and the total amount of charges to add back is £60,000, then
+net cash provided by operating activities is £10,000. Illustration 23.33 shows this computation.
+Net income (loss)
+£(50,000)
+Adjustments to reconcile net income to net cash provided by operating activities:
+Depreciation of plant assets
+£55,000
+Amortization of patents
+5,000
+60,000
+Net cash provided by operating activities
+£ 10,000
+ILLUSTRATION 23.33 Computation of Net Cash Flow from Operating Activities—Cash
+Inflow
+If the company experiences a net loss of £80,000 and the total amount of the charges to add back is
+£25,000, the presentation appears as shown in Illustration 23.34.
+Net income (loss)
+£(80,000)
+Adjustments to reconcile net income to net cash used by operating activities:
+Depreciation of plant assets
+25,000
+Net cash used by operating activities
+£(55,000)
+ILLUSTRATION 23.34 Computation of Net Cash Flow from Operating Activities—Cash
+Outflow
+Although not illustrated in this chapter, a negative cash flow may result even if the company reports a
+net income.
+Disclosures
+Significant Non-Cash Transactions
+Because the statement of cash flows reports only the effects of operating, investing, and financing
+activities in terms of cash flows, it omits some significant non-cash transactions and other events
+that are investing or financing activities. Among the more common of these non-cash transactions that
+a company should report or disclose in some manner are the following.
+1. Acquisition of assets by assuming liabilities (including lease obligations) or by issuing equity
+securities.
+2. Exchanges of non-monetary assets.
+3. Refinancing of long-term debt.
+
+--- Page 2136 ---
+4. Conversion of debt or preference shares to ordinary shares.
+5. Issuance of equity securities to retire debt.
+Investing and financing transactions that do not require the use of cash are excluded from the
+statement of cash flows. [8] If material in amount, these disclosures may be either narrative or
+summarized in a separate schedule. This schedule may appear in a separate note or supplementary
+schedule to the financial statements.7 Illustration 23.35 shows the presentation of these significant
+non-cash transactions or other events in a separate schedule in the notes to the financial statements.
+Note G: Significant non-cash transactions. During the year, the company engaged in the
+following significant non-cash investing and financing transactions:
+Issued 250,000 ordinary shares to purchase land and building
+€1,750,000
+Exchanged land in New York, New York, for land in Berlin, Germany
+€2,000,000
+Converted 12% bonds to 50,000 ordinary shares
+€
+500,000
+ILLUSTRATION 23.35 Note Presentation of Non-Cash Investing and Financing
+Activities
+Companies do not generally report certain other significant non-cash transactions or other events in
+conjunction with the statement of cash flows. Examples of these types of transactions are share
+dividends, share splits, and restrictions on retained earnings. Companies generally report
+these items, neither financing nor investing activities, in conjunction with the statement of changes in
+equity or schedules and notes pertaining to changes in equity accounts.
+Special Disclosures
+IAS 7 indicates that cash flows related to interest received and paid, and dividends received and paid,
+should be separately disclosed in the statement of cash flows. [9] Each item should be classified in a
+consistent manner from period to period as operating, investing, or financing cash flows. As indicated
+earlier, for homework purposes classify interest received and paid and dividends received as part of
+cash flows from operating activities and dividends paid as cash flows from financing activities. The
+justification for reporting the first three items in cash flows from operating activities is that each item
+affects net income. Dividends paid, however, do not affect net income and are often considered a cost
+of financing.8
+Companies should also disclose income taxes paid separately in the cash flows from operating
+activities unless they can be separately identified as part of investing or financing activities. While tax
+expense may be readily identifiable with investing or financing activities, the related tax cash flows are
+often impracticable to identify and may arise in a different period from the cash flows of the underlying
+transaction. Therefore, taxes paid are usually classified as cash flows from operating activities. IFRS
+requires that the cash paid for taxes, as well as cash flows from interest and dividends received and
+paid, be disclosed. The category (operating, investing, or financing) in which each item was included
+must be disclosed as well (see Underlying Concepts).
+Underlying Concepts
+Additional requirements for disclosures of interest, dividends, and taxes reflect application of the
+full disclosure principle.
+An example of such a disclosure from the notes to Daimler’s (DEU) financial statement is provided in
+Illustration 23.36.
+
+--- Page 2137 ---
+Daimler
+Cash provided by operating activities includes the following cash flows:
+(in millions of €)
+2018
+2017
+Interest paid
+(678)
+(304)
+Interest received
+257
+187
+Dividends received
+1,429
+895
+ILLUSTRATION 23.36 Note Disclosure of Interest, Taxes, and Dividends
+Other companies choose to report these items directly in the statement of cash flows. In many cases,
+companies start with income before income taxes and then show income taxes paid as a separate item.
+In addition, they often add back interest expense on an accrual basis and then subtract interest paid.
+Reporting these items in the operating activites section is shown for Wáng Ltd. in Illustration 23.37.
+Wáng Ltd.
+Statement of Cash Flows (in millions)
+(Operating Activities Section Only)
+Income before income tax
+¥4,000
+Adjustments to reconcile income before income tax to net cash provided by operating
+activities
+Depreciation expense
+¥1,000
+Interest expense
+500
+Investment revenue
+(650)
+Decrease in inventory
+1,050
+Increase in trade receivables
+(310)
+1,590
+Cash generated from operations
+5,590
+Interest paid
+(300)
+Income taxes paid
+(760) (1,060)
+Net cash provided by operating activities
+¥4,530
+ILLUSTRATION 23.37 Reporting of Interest, Taxes, and Dividends in the Operating
+Section
+Companies often provide a separate section to identify interest and income taxes paid.
+
+--- Page 2138 ---
+What Do the Numbers Mean?
+Better than ROA?
+As you have learned in your study of accounting, both accounting income (measured under
+accrual-accounting principles) and cash flow from operations can provide useful information.
+However, both measures are sometimes criticized. Accounting income is sometimes faulted for
+the multitude of judgments required to determine revenues and expenses. In addition, many
+companies can boost return on equity, an earnings-based metric, by piling on debt, which also
+makes the company a riskier, not a better, investment. On the other hand, cash flow performance
+metrics are criticized because they do not follow the revenue and expense recognition principles.
+So what’s a better way to measure how profitable companies really are? Or, to adopt master
+investor Warren Buffett’s view of investing: How do you find companies that consistently
+generate big returns on invested capital? Recently, a new measure of profitability, “COROA” (cash
+operating return on assets) has been introduced as a better performance metric. The idea is to
+measure management’s ability to generate pure cash returns, not cash expected in the future, on
+every dollar invested in property, plant, and equipment; R&D centers; inventories; and all other
+assets.
+Specifically, COROA is computed by starting with the cash flow from operations amount and then
+adding back cash taxes and cash interest to calculate pure operating cash flows. That’s the dollar
+amount that the company actually puts in its coffers during the year—and which could be used to
+pay dividends, make “investments” by purchasing companies or divisions, and fund capital
+expenditures, especially those that propel growth. That’s the numerator. Adjustments for taxes
+and interest are fundamental to this COROA measure. This is because falling taxes can create the
+illusion of ongoing progress. Interest is added back because it primarily reflects the level of
+leverage but has nothing to do with how well management is managing their assets.
+The denominator consists of every dollar spent on the assets that produce those operating cash
+flows. To calculate that figure, take “total assets” from the statement of financial position and add
+“accumulated depreciation” to account for operating assets that are still being used to make cars,
+semiconductors, or other products that, for accounting purposes, are fully expensed.
+Two recent examples make the point. First, consider Apple (USA): from late 2015 to late 2017, its
+stock price was in a funk. Why? From the start of fiscal 2016 through September 30, 2017, Apple’s
+total assets, measured as a yearly average, jumped by $104 billion to $392 billion. Yet despite
+reinvesting that $100-billion-plus, primarily by plowing retained earnings into low-yielding
+securities, Apple generated $17 billion less in operating cash flows in 2017 than it posted in 2015.
+Its COROA dropped over that two-year span from 33.1 percent to 19.9 percent.
+Looking next at GE (USA), its COROA chronicled a steep and ongoing decline. In 2013, it posted
+operating cash flow of $35 billion; it has fallen in every one of the five succeeding years, hitting
+$10.5 billion in 2018, a drop of 70 percent. This resulted mainly from a slide in the cash it
+reported from running its basic businesses. Its reported cash from operations (before adding back
+cash interest and taxes) dropped from $30 billion in 2016 to $4.2 billion in 2018. As a result, GE’s
+COROA dropped from an already weak 4.8 percent to just 2.7 percent.
+Thus, COROA—adjusted cash flow from operations as a percentage of total assets—is the ratio to
+keep an eye on. It’s the best measure of pure profitability. If the number has been high for a while
+and is either staying high or improving, evidence is strong that the company is generating strong
+returns from its new investments. That’s the quality that Buffett looks for. And according to
+accounting guru Jack Ciesielski, it’s all about cash. “What’s more important in the world than
+cash?” he asks. “Why, it’s more cash, of course.”
+Sources: S. Tully, “A Top Accounting Guru’s Compelling New Measure for Profitability,” Fortune (March 10, 2014); S. Tully,
+“Apple’s Big Stock Selloff Is a Sign of Things to Come,” Fortune (January 29, 2019); and S. Tully, “GE’s Basic Businesses Are
+Badly Underperforming, by This Accounting Metric,” Fortune (August 27, 2019).
+
+--- Page 2139 ---
+Use of a Worksheet
+LEARNING OBJECTIVE 5
+Explain the use of a worksheet in preparing a statement of cash flows.
+When numerous adjustments are necessary or other complicating factors are present, companies often
+use a worksheet to assemble and classify the data that will appear on the statement of cash
+flows. The worksheet is merely a device that aids in the preparation of the statement. Its use is
+optional. Illustration 23.38 shows the skeleton format of the worksheet for preparation of the
+statement of cash flows using the indirect method.
+The following guidelines are important in using a worksheet.
+1. In the statement of financial position accounts section, list accounts with debit balances
+separately from those with credit balances. This means, for example, that Accumulated
+Depreciation is listed under credit balances and not as a contra account under debit balances.
+Enter the beginning and ending balances of each account in the appropriate columns. Then, enter
+the transactions that caused the change in the account balance during the year as reconciling items
+in the two middle columns.
+After all reconciling items have been entered, each line pertaining to a statement of financial
+position account should foot across. That is, the beginning balance plus or minus the reconciling
+item(s) must equal the ending balance. When this agreement exists for all statement of financial
+position accounts, all changes in account balances have been reconciled.
+2. The bottom portion of the worksheet consists of the operating, investing, and financing activities
+sections. Accordingly, it provides the information necessary to prepare the formal statement of
+cash flows. Enter inflows of cash as debits in the reconciling columns, and outflows of
+cash as credits in the reconciling columns. Thus, in this section, a company would enter the
+sale of equipment for cash at book value as a debit under inflows of cash from investing activities.
+Similarly, it would enter the purchase of land for cash as a credit under outflows of cash from
+investing activities.
+3. Do not enter in any journal, or post to any account, the reconciling items shown in
+the worksheet. These items do not represent either adjustments or corrections to the statement
+of financial position accounts. They are used only to facilitate the preparation of the statement of
+cash flows.
+
+--- Page 2140 ---
+ILLUSTRATION 23.38 Format of Worksheet for Preparation of Statement of Cash
+Flows
+Preparation of the Worksheet
+The preparation of a worksheet involves the following steps.
+Step 1. Enter the statement of financial position accounts and their beginning and ending
+balances in the statement of financial position accounts section.
+Step 2. Enter the data that explain the changes in the statement of financial position accounts
+(other than cash) and their effects on the statement of cash flows in the reconciling columns of
+the worksheet.
+Step 3. Enter the increase or decrease in cash on the cash line and at the bottom of the worksheet.
+This entry should enable the totals of the reconciling columns to be in agreement.
+To illustrate the preparation and use of a worksheet and to illustrate the reporting of some of the
+special problems discussed in the prior section, we present a comprehensive example for Satellite Ltd.
+Again, the indirect method serves as the basis for the computation of net cash provided by operating
+activities. Illustrations 23.39 and 23.40 present the statement of financial position, combined
+statement of income and retained earnings, and additional information for Satellite Ltd. The discussion
+that follows these financial statements provides additional explanations related to the preparation of
+the worksheet.
+Analysis of Transactions
+
+--- Page 2141 ---
+The following discussion explains the individual adjustments that appear on the worksheet in
+Illustration 23.41. Because cash is the basis for the analysis, Satellite reconciles the cash account last.
+Because income is the first item that appears on the statement of cash flows, it is handled first.
+ILLUSTRATION 23.39 Comparative Statement of Financial Position, Satellite Ltd.
+Change in Retained Earnings
+Net income for the period is HK$117,000. The entry for it on the worksheet is as follows.
+(1)
+Operating—Net Income 117,000
+Retained Earnings
+117,000
+Satellite reports net income on the bottom section of the worksheet. This is the starting point for
+preparation of the statement of cash flows (under the indirect method).
+A share dividend and a cash dividend also affected retained earnings. The retained earnings statement
+reports a share dividend of HK$15,000. The worksheet entry for this transaction is as follows.
+
+--- Page 2142 ---
+(2)
+(2)
+Retained Earnings
+15,000
+Share Capital—Ordinary
+15,000
+
+--- Page 2143 ---
+Satellite Ltd.
+Combined Statement of Income and Retained Earnings
+For the Year Ended December 31, 2023
+(in thousands)
+Net sales
+HK$526,500
+Other revenue
+3,500
+Total revenues
+530,000
+Expense
+Cost of goods sold
+310,000
+Selling and administrative expenses
+47,000
+Other income and expense
+4,000
+Total expenses
+361,000
+Income before income tax
+169,000
+Income tax
+Current
+HK$49,000
+Deferred
+3,000
+52,000
+Net income
+117,000
+Retained earnings, January 1
+496,000
+Less:
+Cash dividends
+6,000
+Share dividend
+15,000
+21,000
+Retained earnings, December 31
+HK$592,000
+Per share:
+Net income
+HK$2.13
+Additional Information
+a. Other income of HK$3,500 represents Satellite’s equity share in the net income of Porter Co., an
+equity investee. Satellite owns 22% of Porter Co.
+b. An analysis of the Equipment account and related Accumulated Depreciation—Equipment
+account indicates the following.
+Equipment
+Dr./(Cr.)
+Accum. Dep.
+Dr./(Cr.)
+Gain or
+(Loss)
+Balance at end of 2022
+HK$142,000
+HK$(31,000)
+Purchases of equipment
+53,000
+Sale of equipment
+(8,000)
+2,500
+HK$(1,500)
+Depreciation for the period
+(11,500)
+Major repair charged to equipment
+11,000
+Balance at end of 2023
+HK$198,000
+HK$(40,000)
+
+--- Page 2144 ---
+Satellite Ltd.
+Combined Statement of Income and Retained Earnings
+For the Year Ended December 31, 2023
+(in thousands)
+c. Land in the amount of HK$60,000 was purchased through the issuance of a long-term note; in
+addition, certain parcels of land costing HK$10,500 were condemned. The government paid
+Satellite HK$18,500, resulting in an HK$8,000 gain.
+d. The change in the Accumulated Depreciation—Buildings, Trademarks, and Bonds Payable
+accounts resulted from depreciation and amortization entries.
+e. An analysis of the share capital and premium accounts in equity discloses the following:
+Share Capital—
+Ordinary
+Share Premium—
+Ordinary
+Balance at end of 2022
+HK$50,000
+HK$ 38,000
+Issuance of HK$15,000 share dividend
+15,000
+Sale of shares for cash
+9,000
+135,000
+Balance at end of 2023
+HK$74,000
+HK$173,000
+f. Interest paid is HK$9,000; income taxes paid is HK$62,000.
+ILLUSTRATION 23.40 Income and Retained Earnings Statements, Satellite Ltd.
+The issuance of share dividends is not a cash operating, investing, or financing item. Therefore,
+although the company enters this transaction on the worksheet for reconciling purposes,
+it does not report it in the statement of cash flows.
+Retained Earnings
+(2) 15,000 Bal. 496,000
+(3)
+6,000 (1)
+117,000
+Bal. 592,000
+The HK$6,000 cash dividend paid represents a financing activity cash outflow. Satellite makes the
+following worksheet entry:
+(3)
+Retained Earnings
+6,000
+Financing—Cash Dividends
+6,000
+The company reconciles the beginning and ending balances of retained earnings by entry of the three
+items above.
+Accounts Receivable (Net)
+The increase in accounts receivable (net) of HK$53,000 represents adjustments that did not result in
+cash inflows during 2023. As a result, the company would deduct from net income the increase of
+HK$53,000. Satellite makes the following worksheet entry.
+(4)
+Accounts Receivable (net)
+53,000
+Operating—Increase in Accounts Receivable (net)
+53,000
+
+--- Page 2145 ---
+Inventory
+The increase in inventory of HK$152,000 represents an operating use of cash. The incremental
+investment in inventory during the year reduces cash without increasing the cost of goods sold.
+Satellite makes the following worksheet entry.
+(5)
+Inventory
+152,000
+Operating—Increase in Inventory
+152,000
+Prepaid Expenses
+The decrease in prepaid expenses of HK$500 represents a charge in the income statement for which
+there was no cash outflow in the current period. Satellite should add that amount back to net income
+through the following entry.
+(6)
+Operating—Decrease in Prepaid Expenses 500
+Prepaid Expenses
+500
+Equity Investment in Porter Co. (Equity Method)
+Satellite’s investment in the shares of Porter Co. increased HK$3,500. This amount reflects Satellite’s
+share of net income earned by Porter (its equity investee) during the current year. Although Satellite’s
+revenue, and therefore its net income, increased HK$3,500 by recording Satellite’s share of Porter Co.’s
+net income, no cash (dividend) was provided. Satellite makes the following worksheet entry.
+(7)
+Equity Investment in Porter Co.
+3,500
+Operating—Equity in Earnings of Porter Co.
+3,500
+Land
+Satellite purchased land in the amount of HK$60,000 through the issuance of a long-term note
+payable. This transaction did not affect cash. It is a significant non-cash investing/financing
+transaction that the company would disclose in the accompanying notes. Satellite makes the following
+entry to reconcile the worksheet.
+(8)
+Land
+60,000
+Notes Payable
+60,000
+In addition to the non-cash transaction involving the issuance of a note to purchase land, the Land
+account was decreased by the condemnation proceedings. The following worksheet entry records the
+receipt of HK$18,500 for land having a book value of HK$10,500.
+(9)
+Investing—Proceeds from Condemnation of Land 18,500
+Land
+10,500
+Operating—Gain on Condemnation of Land
+8,000
+Land
+Bal. 82,000 (9) 10,500
+(8)
+60,000
+
+--- Page 2146 ---
+Bal. 131,500
+In reconciling net income to net cash flow from operating activities, Satellite deducts from net income
+the gain of HK$8,000. The reason is that the transaction that gave rise to the gain is an item whose
+cash effect is already classified as an investing cash inflow. The Land account is now reconciled.
+Equipment and Accumulated Depreciation—Equipment
+An analysis of Equipment and Accumulated Depreciation—Equipment shows that a number of
+transactions have affected these accounts. The company purchased equipment in the amount of
+HK$53,000 during the year. Satellite records this transaction on the worksheet as follows.
+(10)
+Equipment
+53,000
+Investing—Purchase of Equipment
+53,000
+In addition, Satellite sold, at a loss of HK$1,500, equipment with a book value of HK$5,500. It records
+this transaction as follows.
+(11)
+Investing—Sale of Equipment
+4,000
+Operating—Loss on Sale of Equipment
+1,500
+Accumulated Depreciation—Equipment 2,500
+Equipment
+8,000
+Equipment
+Bal. 142,000 (11) 8,000
+(10)
+53,000
+(13)
+11,000
+Bal. 198,000
+The proceeds from the sale of the equipment provided cash of HK$4,000. In addition, the loss on the
+sale of the equipment has reduced net income but did not affect cash. Therefore, the company adds
+back to net income the amount of the loss, in order to accurately report cash provided by operating
+activities.
+Satellite reported depreciation on the equipment at HK$11,500 and recorded it on the worksheet as
+follows.
+(12)
+Operating—Depreciation Expense—Equipment 11,500
+Accumulated Depreciation—Equipment
+11,500
+Accumulated Depreciation—
+Equipment
+(11)
+2,500 Bal.
+31,000
+(12)
+11,500
+Bal.
+40,000
+The company adds depreciation expense back to net income because that expense reduced income but
+did not affect cash.
+Finally, the company made a major repair to the equipment. It charged this expenditure, in the amount
+of HK$11,000, to the Equipment account. This expenditure required cash, and so Satellite makes the
+
+--- Page 2147 ---
+following worksheet entry.
+(13)
+Equipment
+11,000
+Investing—Major Repairs of Equipment
+11,000
+After adjusting for the foregoing items, Satellite has reconciled the balances in the Equipment and
+related Accumulated Depreciation—Equipment accounts.
+Building Depreciation and Amortization of Trademarks
+Depreciation expense on the buildings of HK$3,100 and amortization of trademarks of HK$2,400 are
+both expenses in the income statement that reduced net income but did not require cash outflows in
+the current period. Satellite makes the following worksheet entry.
+(14)
+Operating—Depreciation Expense—Buildings 3,100
+Operating—Amortization of Trademarks
+2,400
+Accumulated Depreciation—Buildings
+3,100
+Trademarks
+2,400
+Other Non-Cash Charges or Credits
+Analysis of the remaining accounts indicates that changes in the Accounts Payable, Accrued Liabilities,
+Income Taxes Payable, Bonds Payable, and Deferred Tax Liability balances resulted from charges or
+credits to net income that did not affect cash. The company should individually analyze each of these
+items and enter them in the worksheet. The following compound entry summarizes these non-cash,
+income-related items.
+(15)
+Income Taxes Payable
+13,000
+Bonds Payable
+1,000
+Operating—Increase in Accounts Payable
+1,000
+Operating—Increase in Accrued Liabilities
+4,000
+Operating—Increase in Deferred Tax Liability
+3,000
+Operating—Decrease in Income Taxes Payable
+13,000
+Operating—Amortization of Bond Premium
+1,000
+Accounts Payable
+1,000
+Accrued Liabilities
+4,000
+Deferred Tax Liability
+3,000
+Share Capital—Ordinary and Related Accounts
+Comparison of the Share Capital—Ordinary balance and the Share Premium—Ordinary balance shows
+that transactions during the year affected these accounts. First, Satellite issues a share dividend of two
+percent to shareholders. As the discussion of worksheet entry (2) indicated, no cash was provided or
+used by the share dividend transaction. In addition to the shares issued via the share dividend, Satellite
+sold ordinary shares at HK$16 per share. The company records this transaction as follows.
+Share Capital—Ordinary
+     
+Bal.
+50,000
+(2)
+15,000
+
+--- Page 2148 ---
+(16)
+9,000
+Bal.
+74,000
+(16)
+Financing—Sale of Ordinary Shares 144,000
+Share Capital—Ordinary
+9,000
+Share Premium—Ordinary
+135,000
+Share Premium—Ordinary
+   
+Bal.
+38,000
+(16)
+135,000
+Bal.
+173,000
+Also, the company purchased its ordinary shares in the amount of HK$17,000. It records this
+transaction on the worksheet as follows.
+(17)
+Treasury Shares
+17,000
+Financing—Purchase of Treasury Shares
+17,000
+Final Reconciling Entry
+The final entry to reconcile the change in cash and to balance the worksheet is shown below. The
+HK$7,000 amount is the difference between the beginning and ending cash balance.
+(18)
+Decrease in Cash 7,000
+Cash
+7,000
+Once the company has determined that the differences between the beginning and ending balances per
+the worksheet columns have been accounted for, it can total the reconciling transactions columns, and
+they should balance. Satellite can prepare the statement of cash flows entirely from the items and
+amounts that appear at the bottom of the worksheet under “Statement of Cash Flows Effects,” as
+shown in Illustration 23.41.
+
+--- Page 2149 ---
+ILLUSTRATION 23.41 Completed Worksheet for Preparation of Statement of Cash
+Flows, Satellite Ltd.
+Preparation of Final Statement
+Illustration 23.42 presents a formal statement of cash flows prepared from the data compiled in the
+lower portion of the worksheet.
+
+--- Page 2150 ---
+Satellite Ltd.
+Statement of Cash Flows
+For the Year Ended December 31, 2023
+Increase (Decrease) in Cash
+(in thousands)
+Cash flows from operating activities
+Net income
+HK$117,000
+Adjustments to reconcile net income to net cash used by operating
+activities:
+Depreciation expense
+HK$ 14,600
+Amortization of trademarks
+2,400
+Amortization of bond premium
+(1,000)
+Equity in earnings of Porter Co.
+(3,500)
+Gain on condemnation of land
+(8,000)
+Loss on sale of equipment
+1,500
+Increase in deferred tax liability
+3,000
+Increase in accounts receivable (net)
+(53,000)
+Increase in inventory
+(152,000)
+Decrease in prepaid expenses
+500
+Increase in accounts payable
+1,000
+Increase in accrued liabilities
+4,000
+Decrease in income taxes payable
+(13,000)
+(203,500)
+Net cash used by operating activities
+(86,500)
+Cash flows from investing activities
+Proceeds from condemnation of land
+18,500
+Purchase of equipment
+(53,000)
+Sale of equipment
+4,000
+Major repairs of equipment
+(11,000)
+Net cash used by investing activities
+(41,500)
+Cash flows from financing activities
+Payment of cash dividend
+(6,000)
+Issuance of ordinary shares
+144,000
+Purchase of treasury shares
+(17,000)
+Net cash provided by financing activities
+121,000
+Net decrease in cash
+(7,000)
+Cash, January 1, 2023
+66,000
+Cash, December 31, 2023
+HK$ 59,000
+In addition, a supplemental note of Non-Cash Investing and Financing Activities is as follows.
+Supplemental Note of Non-Cash Investing and Financing Activities
+Purchase of land for HK$60,000 in exchange for a HK$60,000 long-term note.
+ILLUSTRATION 23.42 Statement of Cash Flows, Satellite Ltd.
+
+--- Page 2151 ---
+Review and Practice
+Key Terms Review
+cash equivalents
+direct method
+financing activities
+indirect method
+investing activities
+operating activities
+significant non-cash transactions
+statement of cash flows
+Learning Objectives Review
+1 Describe the usefulness and format of the statement of cash flows.
+The primary purpose of the statement of cash flows is to provide information about an entity’s cash
+receipts and cash payments during a given period. A secondary objective is to report the entity’s
+operating, investing, and financing activities during the period.
+Companies classify cash flows as follows. (1) Operating activities—transactions that result in the
+revenues, expenses, gains, and losses that determine net income. (2) Investing activities—lending
+money and collecting on those loans, and acquiring and disposing of investments, plant assets, and
+intangible assets. (3) Financing activities—obtaining cash from creditors and repaying loans, issuing
+and reacquiring share capital, and paying cash dividends.
+2 Prepare a statement of cash flows.
+Preparing the statement involves three major steps. (1) Determine the change in cash. This is the
+difference between the beginning and the ending cash balance shown on the comparative statements of
+financial position. (2) Determine the net cash flow from operating activities. This procedure is
+complex; it involves analyzing not only the current year’s income statement but also the comparative
+statements of financial position and the selected transaction data. (3) Determine cash flows from
+investing and financing activities. Analyze all other changes in the statement of financial position
+accounts to determine the effects on cash.
+Companies must adjust net income on an accrual basis to determine net cash flow from
+operating activities because some expenses and losses do not cause cash outflows, and some
+revenues and gains do not provide cash inflows. Once a company has computed the net cash flow from
+operating activities, the next step is to determine whether any other changes in statement of financial
+position accounts caused an increase or decrease in cash. Net cash flows from investing and financing
+activities can be determined by examining the changes in non-current statement of financial position
+accounts.
+The information to prepare the statement usually comes from three sources. (1)
+Comparative statements of financial position. Information in these statements indicates the amount
+of the changes in assets, liabilities, and equities during the period. (2) Current income statement.
+Information in this statement is used in determining the cash provided by operations during the
+period. (3) Selected transaction data. These data from the general ledger provide additional detailed
+information needed to determine how cash was provided or used during the period.
+
+--- Page 2152 ---
+3 Contrast the direct and indirect methods of calculating net cash flow from
+operating activities.
+Under the direct approach, companies calculate the major classes of operating cash receipts and cash
+disbursements. Presentation of the direct approach of reporting net cash flow from operating activities
+takes the form of a condensed cash-basis income statement. The indirect method adds back to net
+income the non-cash expenses and losses and subtracts the non-cash revenues and gains.
+4 Discuss special problems in preparing a statement of cash flows.
+These special problems are (1) adjustments to net income, (2) accounts receivable (net), (3) other
+working capital changes, (4) net loss, and (5) disclosures.
+5 Explain the use of a worksheet in preparing a statement of cash flows.
+When numerous adjustments are necessary or other complicating factors are present, companies often
+use a worksheet to assemble and classify the data that will appear on the statement of cash flows. The
+worksheet is merely a device that aids in the preparation of the statement. Its use is optional.
+Enhanced Review and Practice
+Go online for multiple-choice questions with solutions, review exercises with solutions, and a full
+glossary of all key terms.
+Practice Problem
+Data presented below are from the records of Antonio Brasileiro SA.
+December 31, 2022 December 31, 2021
+Plant assets
+R$335,000
+R$215,000
+Long-term investments
+10,000
+53,000
+Current assets other than cash
+85,000
+60,000
+Cash
+15,000
+8,000
+R$445,000
+R$336,000
+Retained earnings
+R$ 56,000
+R$ 20,000
+Ordinary shares
+254,000
+254,000
+Bonds payable
+75,000
+–0–
+Current liabilities
+40,000
+22,000
+Accumulated depreciation
+20,000
+40,000
+R$445,000
+R$336,000
+Additional information:
+1. In 2022, the company sold for R$34,000 held-for-collection and selling debt investments carried
+at a cost of R$43,000 on December 31, 2022. No unrealized gains or losses were recorded on this
+investment in 2022.
+2. In 2022, the company sold for R$8,000 plant assets that cost R$50,000 and were 80%
+depreciated. The loss was incorrectly charged directly to Retained Earnings.
+
+--- Page 2153 ---
+3. Net income as reported on the income statement for the year was R$48,000.
+4. The company paid dividends totaling R$10,000.
+5. Depreciation charged for the year was R$20,000.
+Instructions
+Prepare a statement of cash flows for the year 2022 using the indirect method.
+Solution
+Antonio Brasileiro SA
+Statement of Cash Flows
+For the Year Ended December 31, 2022
+Indirect Method
+Cash flows from operating activities
+Net income (R$48,000 − R$2,000)
+R$ 46,000
+Adjustments to reconcile net income to net cash provided by operating
+activities:
+Depreciation expense
+R$ 20,000
+Loss on sale of investments
+9,000
+Loss on sale of plant assets
+2,000
+Increase in current assets other than cash
+(25,000)
+Increase in current liabilities
+18,000
+24,000
+Net cash provided by operating activities
+70,000
+Cash flows from investing activities
+Sale of plant assets
+8,000
+Sale of investments
+34,000
+Purchase of plant assets*
+(170,000)
+Net cash used by investing activities
+(128,000)
+Cash flows from financing activities
+Issuance of bonds payable
+75,000
+Payment of dividends
+(10,000)
+Net cash provided by financing activities
+65,000
+Net increase in cash
+7,000
+Cash balance, January 1, 2022
+8,000
+Cash balance, December 31, 2022
+R$ 15,000
+*Supporting computation (purchase of plant assets):
+Plant assets, December 31, 2022
+R$335,000
+Less: Plant assets, December 31, 2021
+215,000
+Net change
+120,000
+Plant assets sold
+50,000
+Plant assets purchased
+R$170,000
+
+--- Page 2154 ---
+Exercises, Problems, Problem Solution Walkthrough Videos, Data Analytics Activities, and many
+more assessment tools and resources are available for practice in Wiley’s online courseware.
+Questions
+1. What is the purpose of the statement of cash flows? What information does it provide?
+2. Of what use is the statement of cash flows?
+3. Differentiate between investing activities, financing activities, and operating activities.
+4. What are the major sources of cash (inflows) in a statement of cash flows? What are the major uses
+(outflows) of cash?
+5. Identify and explain the major steps involved in preparing the statement of cash flows.
+6. Identify the following items as (1) operating, (2) investing, or (3) financing activities: purchase of
+land, payment of dividends, cash sales, and purchase of treasury shares.
+7. Unlike the other major financial statements, the statement of cash flows is not prepared from the
+adjusted trial balance. From what sources does the information to prepare this statement come, and
+what information does each source provide?
+8. Why is it necessary to convert accrual-based net income to a cash basis when preparing a statement
+of cash flows?
+9. Differentiate between the direct method and the indirect method by discussing each method.
+10. Broussard Company reported net income of $3.5 million in 2022. Depreciation for the year was
+$520,000, accounts receivable increased $500,000, and accounts payable increased $300,000.
+Compute net cash flow from operating activities using the indirect method.
+11. Collinsworth plc reported sales on an accrual basis of £100,000. If accounts receivable increased
+£30,000 and the allowance for doubtful accounts increased £9,000 after a write-off of £2,000,
+compute cash sales.
+12. Your roommate is puzzled. During the last year, the company in which she is a shareholder
+reported a net loss of $675,000, yet its cash increased $321,000 during the same period of time.
+Explain to your roommate how this situation could occur.
+13. The board of directors of Gifford plc declared cash dividends of £260,000 during the current year.
+If dividends payable was £85,000 at the beginning of the year and £90,000 at the end of the year, how
+much cash was paid in dividends during the year?
+14. Explain how the amount of cash payments to suppliers is computed under the direct method.
+15. The net income for Letterman AG for 2022 was €320,000. During 2022, depreciation on plant
+assets was €124,000, amortization of patent was €40,000, and the company incurred a loss on sale of
+plant assets of €21,000. Compute net cash flow from operating activities.
+16. Each of the following items must be considered in preparing a statement of cash flows for
+Blackwell Inc. for the year ended December 31, 2022. Indicate how each item is to be shown in the
+statement, if at all.
+a. Plant assets that had cost $18,000 61⁄2 years before and were being depreciated on a straight-line
+basis over 10 years with no estimated residual value were sold for $4,000.
+b. During the year, 10,000 ordinary shares with a stated value of $20 a share were issued for $41 a
+share.
+c. Uncollectible accounts receivable in the amount of $22,000 were written off against Allowance for
+Doubtful Accounts.
+
+--- Page 2155 ---
+d. The company sustained a net loss for the year of $50,000. Depreciation amounted to $22,000, and
+a gain of $9,000 was realized on the sale of non-trading equity investments for $38,000 cash.
+17. Classify the following items as (1) operating, (2) investing, (3) financing, or (4) significant non-cash
+investing and financing activities, using the direct method.
+a. Cash payments to employees.
+b. Redemption of bonds payable.
+c. Sale of building at book value.
+d. Cash payments to suppliers.
+e. Exchange of equipment for furniture.
+f. Issuance of preference shares.
+g. Cash received from customers.
+h. Purchase of treasury shares.
+i. Issuance of bonds for land.
+j. Payment of dividends.
+k. Purchase of equipment.
+l. Cash payments for operating expenses.
+18. Silva Rojas and Hans Jensen were discussing the statement of cash flows of Liu Ltd. In the notes to
+the statement of cash flows was a schedule entitled “Non-cash investing and financing activities.” Give
+three examples of significant non-cash transactions that would be reported in this schedule.
+19. During 2022, Simms Group redeemed ¥2,000,000 of bonds payable for ¥1,880,000 cash. Indicate
+how this transaction would be reported on a statement of cash flows, if at all.
+20. What are some of the arguments in favor of using the indirect (reconciliation) method as opposed
+to the direct method for reporting a statement of cash flows?
+21. Why is it desirable to use a worksheet when preparing a statement of cash flows? Is a worksheet
+required to prepare a statement of cash flows?
+Brief Exercises
+BE23.1 (LO 2) Wainwright Corporation had the following activities in 2022.
+1. Sale of land $180,000.
+2. Purchase of inventory $845,000.
+3. Purchase of treasury shares $72,000.
+4. Purchase of equipment $415,000.
+5. Issuance of ordinary shares $320,000.
+6. Purchase of investments—equity $59,000.
+Compute the amount Wainwright should report as net cash provided (used) by investing activities in
+its statement of cash flows.
+BE23.2 (LO 2) Stansfield AG had the following activities in 2022.
+1. Payment of accounts payable €770,000.
+2. Issuance of ordinary shares €250,000.
+
+--- Page 2156 ---
+3. Payment of dividends €350,000.
+4. Collection of note receivable €100,000.
+5. Issuance of bonds payable €510,000.
+6. Purchase of treasury shares €46,000.
+Compute the amount Stansfield should report as net cash provided (used) by financing activities in its
+2022 statement of cash flows.
+BE23.3 (LO 1) Novak SpA is preparing its 2022 statement of cash flows, using the indirect method.
+The following is a list of items that may affect the statement. Using the code letters provided, indicate
+how each item will affect Novak’s 2022 statement of cash flows.
+Code Letter
+Effect
+A
+Added to net income in the operating section
+D
+Deducted from net income in the operating section
+R-I
+Cash receipt in investing section
+P-I
+Cash payment in investing section
+R-F
+Cash receipt in financing section
+P-F
+Cash payment in financing section
+N
+Non-cash investing and/or financing activity in notes
+Items
+____
+a. Purchase of land and building.
+____
+b. Decrease in accounts receivable.
+____
+c. Issuance of shares.
+____
+d. Depreciation expense.
+____
+e. Sale of land at book value.
+____
+f. Sale of land at a gain.
+____
+g. Payment of dividends.
+____
+h. Increase in accounts receivable.
+____
+i. Purchase of an equity investment.
+____
+j. Increase in accounts payable.
+
+--- Page 2157 ---
+____
+k. Decrease in accounts payable.
+____
+l. Loan from bank by signing note.
+____
+m. Purchase of equipment using a note.
+____
+n. Increase in inventory.
+____
+o. Issuance of bonds.
+____
+p. Retirement of bonds payable.
+____
+q. Sale of equipment at a loss.
+____
+r. Purchase of treasury shares.
+BE23.4 (LO 2, 3) Bloom SA had the following 2022 income statement.
+Sales revenue
+€200,000
+Cost of goods sold
+120,000
+Gross profit
+80,000
+Operating expenses (includes depreciation of €21,000)
+50,000
+Net income
+€ 30,000
+The following accounts increased during 2022: accounts receivable €12,000, inventory €11,000, and
+accounts payable €13,000. Prepare the cash flows from operating activities section of Bloom’s 2022
+statement of cash flows using the direct method.
+BE23.5 (LO 2, 3) Use the information from BE23.4 for Bloom SA. Prepare the cash flows from
+operating activities section of Bloom’s 2022 statement of cash flows using the indirect method.
+BE23.6 (LO 3) At January 1, 2022, Eikenberry Inc. had accounts receivable of $72,000. At December
+31, 2022, accounts receivable is $54,000. Sales for 2022 total $420,000. Compute Eikenberry’s 2022
+cash receipts from customers.
+BE23.7 (LO 3) Moxley AG had January 1 and December 31 balances as follows.
+1/1/22
+12/31/22
+Inventory
+€95,000 €113,000
+Accounts payable
+61,000
+69,000
+For 2022, cost of goods sold was €500,000. Compute Moxley’s 2022 cash payments to suppliers.
+BE23.8 (LO 2) In 2022, Elbert plc had net cash provided by operating activities of £531,000, net cash
+used by investing activities of £963,000, and net cash provided by financing activities of £585,000. At
+January 1, 2022, the cash balance was £333,000. Compute December 31, 2022, cash.
+BE23.9 (LO 2, 3) Loveless Corporation had the following 2022 income statement.
+Revenues $100,000
+
+--- Page 2158 ---
+Expenses
+60,000
+$ 40,000
+In 2022, Loveless had the following activity in selected accounts.
+Accounts Receivable
+1/1/22
+20,000
+Revenues 100,000
+1,000 Write-offs
+90,000 Collections
+12/31/22
+29,000
+Allowance for
+Doubtful Accounts
+1,200 1/1/22
+Write-offs 1,000 1,840 Bad debt expense
+ 
+2,040 12/31/22
+Prepare Loveless’s cash flows from operating activities section of the statement of cash flows using (a)
+the direct method and (b) the indirect method.
+BE23.10 (LO 2) Hendrickson Corporation reported net income of $50,000 in 2022. Depreciation
+expense was $17,000. The following working capital accounts changed.
+Accounts receivable
+$11,000 increase
+Non-trading equity investment
+16,000 increase
+Inventory
+7,400 increase
+Non-trade notes payable
+15,000 decrease
+Accounts payable
+12,300 increase
+Compute net cash provided by operating activities.
+BE23.11 (LO 2) In 2022, Shaw AG reported a net loss of €70,000. Shaw’s only net income
+adjustments were depreciation expense €81,000, and increase in accounts receivable €8,100. Compute
+Shaw’s net cash provided (used) by operating activities.
+BE23.12 (LO 4) In 2022, Leppard Inc. issued 1,000 ordinary shares of $10 par value for land worth
+$40,000.
+a. Prepare Leppard’s journal entry to record the transaction.
+b. Indicate the effect the transaction has on cash.
+c. Indicate how the transaction is reported on the statement of cash flows.
+BE23.13 (LO 5) Indicate in general journal form how the items below would be entered in a
+worksheet for the preparation of the statement of cash flows.
+a. Net income is ¥317,000,000.
+b. Cash dividends declared and paid totaled ¥120,000,000.
+c. Equipment was purchased for ¥114,000,000.
+d. Equipment that originally cost ¥40,000,000 and had accumulated depreciation of ¥32,000,000
+was sold for ¥10,000,000.
+
+--- Page 2159 ---
+Exercises
+E23.1 (LO 1) (Classification of Transactions) Springsteen Co. had the following activity in its
+most recent year of operations.
+a. Pension expense exceeds amount funded.
+b. Redemption of bonds payable.
+c. Sale of building at book value.
+d. Depreciation.
+e. Exchange of equipment for furniture.
+f. Issuance of ordinary shares.
+g. Amortization of intangible assets.
+h. Purchase of treasury shares.
+i. Issuance of bonds for land.
+j. Payment of dividends.
+k. Increase in interest receivable on notes receivable.
+l. Purchase of equipment.
+Instructions
+Classify the items as (1) operating—add to net income, (2) operating—deduct from net income, (3)
+investing, (4) financing, or (5) significant non-cash investing and financing activities. Use the indirect
+method.
+E23.2 (LO 1, 2) (Statement Presentation of Transactions—Indirect Method) Each of the
+following items must be considered in preparing a statement of cash flows (indirect method) for
+Granderson SA for the year ended December 31, 2022.
+a. Plant assets that had cost €25,000 6 years before and were being depreciated on a straight-line
+basis over 10 years with no estimated residual value were sold at the beginning of the year for
+€5,300.
+b. During the year, 10,000 ordinary shares with a stated value of €10 a share were issued for €33 a
+share.
+c. Uncollectible accounts receivable in the amount of €27,000 were written off against Allowance for
+Doubtful Accounts.
+d. The company sustained a net loss for the year of €50,000. Depreciation amounted to €22,000, and
+a gain of €9,000 was realized on the sale of land for €39,000 cash.
+e. A 3-month certificate of deposit was purchased for €100,000. The company uses a cash and cash-
+equivalent basis for its cash flow statement.
+f. Patent amortization for the year was €20,000.
+g. The company exchanged ordinary shares for a 70% interest in Plumlee Co. for €900,000.
+h. During the year, treasury shares costing €47,000 were purchased.
+i. The company recognized an unrealized holding gain on a debt investment not held for collection.
+Instructions
+State where each item is to be shown in the statement of cash flows, if at all.
+
+--- Page 2160 ---
+E23.3 (LO 2) (Preparation of Operating Activities Section—Indirect Method, Periodic
+Inventory) The income statement of Rodriquez SA is shown below.
+Rodriquez SA
+Income Statement
+For the Year Ended December 31, 2022
+Sales revenue
+R$6,900,000
+Cost of goods sold
+Beginning inventory
+R$1,900,000
+Purchases
+4,400,000
+Goods available for sale
+6,300,000
+Ending inventory
+1,600,000
+Cost of goods sold
+4,700,000
+Gross profit
+2,200,000
+Operating expenses
+Selling expenses
+450,000
+Administrative expenses
+700,000
+1,150,000
+Net income
+R$1,050,000
+Additional information:
+1. Accounts receivable decreased R$310,000 during the year.
+2. Prepaid expenses increased R$170,000 during the year.
+3. Accounts payable to suppliers of merchandise decreased R$275,000 during the year.
+4. Accrued expenses payable decreased R$120,000 during the year.
+5. Administrative expenses include depreciation expense of R$60,000.
+Instructions
+Prepare the operating activities section of the statement of cash flows for the year ended December 31,
+2022, for Rodriquez SA, using the indirect method.
+E23.4 (LO 3) (Preparation of Operating Activities Section—Direct Method) Data for the
+Rodriquez SA are presented in E23.3.
+Instructions
+Prepare the operating activities section of the statement of cash flows using the direct method.
+E23.5 (LO 3) (Preparation of Operating Activities Section—Direct Method) Norman NV’s
+income statement for the year ended December 31, 2022, contained the following condensed
+information.
+Service revenue
+€840,000
+Operating expenses (excluding depreciation) €624,000
+Depreciation expense
+60,000
+Loss on sale of equipment
+26,000
+710,000
+Income before income taxes
+130,000
+Income tax expense
+40,000
+Net income
+€ 90,000
+
+--- Page 2161 ---
+Norman’s statement of financial position contained the following comparative data at December 31.
+2022
+2021
+Accounts receivable
+€37,000 €59,000
+Accounts payable
+46,000
+31,000
+Income taxes payable
+4,000
+8,500
+(Accounts payable pertains to operating expenses.)
+Instructions
+Prepare the operating activities section of the statement of cash flows using the direct method.
+E23.6 (LO 2) (Preparation of Operating Activities Section—Indirect Method) Data for
+Norman NV are presented in E23.5.
+Instructions
+Prepare the operating activities section of the statement of cash flows using the indirect method.
+E23.7 (LO 3) (Computation of Operating Activities—Direct Method) Presented below are two
+independent situations.
+Situation A: Chenowith AG reports revenues of €200,000 and operating expenses of €110,000 in its
+first year of operations, 2022. Accounts receivable and accounts payable at year-end were €71,000 and
+€39,000, respectively. Assume that the accounts payable related to operating expenses. (Ignore income
+taxes.)
+Instructions
+Using the direct method, compute net cash provided (used) by operating activities.
+Situation B: The income statement for Edgebrook SA shows cost of goods sold €310,000 and
+operating expenses (exclusive of depreciation) €230,000. The comparative statements of financial
+position for the year show that inventory increased €21,000, prepaid expenses decreased €8,000,
+accounts payable (related to merchandise) decreased €17,000, and accrued expenses payable increased
+€11,000.
+Instructions
+Compute (a) cash payments to suppliers and (b) cash payments for operating expenses.
+E23.8 (LO 2) (Schedule of Net Cash Flow from Operating Activities—Indirect Method)
+Messner AG reported €145,000 of net income for 2022. The accountant, in preparing the statement of
+cash flows, noted several items occurring during 2022 that might affect cash flows from operating
+activities. These items are listed below.
+1. Messner purchased 100 treasury shares at a cost of €20 per share. These shares were then resold
+at €25 per share.
+2. Messner sold 100 ordinary shares of Nokia at €200 per share. The acquisition cost of these shares
+was €165 per share. This investment was shown on Messner’s December 31, 2021, statement of
+financial position as a non-trading equity investment.
+3. Messner revised its estimate for bad debts. Before 2022, Messner’s bad debt expense was 1% of its
+receivables. In 2022, this percentage was increased, resulting in bad debt expense of $3,500. Net
+accounts receivable decreased by €12,000 during 2022.
+4. Messner issued 500 ordinary shares with a €10 par value for a patent. The fair value of the shares
+on the date of the transaction was €23 per share.
+5. Depreciation expense is €39,000.
+
+--- Page 2162 ---
+6. Messner holds 30% of the Sanchez Company’s ordinary shares as a long-term investment. Sanchez
+Company reported €27,000 of net income for 2022.
+7. Sanchez Company paid a total of €2,000 of cash dividends to all investees in 2022.
+8. Messner declared a 10% share dividend. One thousand ordinary shares with a €10 par value were
+distributed. The market price at date of issuance was €20 per share.
+Instructions
+Prepare a schedule that shows the net cash flow from operating activities using the indirect method.
+Assume no items other than those listed above affected the computation of 2022 net cash flow from
+operating activities.
+E23.9 (LO 3, 4) (SCF—Direct Method) Costa SA uses the direct method to prepare its statement of
+cash flows. Costa’s trial balances at December 31, 2022 and 2021, are as follows.
+December 31
+2022
+2021
+Debits
+Cash
+R$ 35,000 R$ 32,000
+Accounts receivable
+33,000
+30,000
+Inventory
+31,000
+47,000
+Property, plant, and equipment
+100,000
+95,000
+Cost of goods sold
+250,000
+380,000
+Selling expenses
+141,500
+172,000
+General and administrative expenses
+137,000
+151,300
+Interest expense
+4,300
+2,600
+Income tax expense
+20,400
+61,200
+R$752,200 R$971,100
+Credits
+Allowance for doubtful accounts
+R$ 1,300
+R$ 1,100
+Accumulated depreciation
+16,500
+13,500
+Accounts payable
+25,000
+17,000
+Income taxes payable
+21,000
+29,100
+Deferred income taxes
+5,300
+4,600
+8% callable bonds payable
+40,500
+15,000
+Share capital—ordinary
+50,000
+40,000
+Share premium—ordinary
+9,100
+7,500
+Retained earnings
+44,700
+64,600
+Sales revenue
+538,800
+778,700
+R$752,200 R$971,100
+Additional information:
+1. Costa purchased R$5,000 in equipment during 2022.
+2. Costa allocated one-third of its depreciation expense to selling expenses and the remainder to
+general and administrative expenses.
+3. Bad debt expense for 2022 was R$5,000, and write-offs of uncollectible accounts totaled R$4,800.
+
+--- Page 2163 ---
+4. Interest expense includes R$500 of discount amortization.
+Instructions
+Determine what amounts Costa should report in its statement of cash flows for the year ended
+December 31, 2022, for the following items.
+a. Cash collected from customers.
+b. Cash paid to suppliers.
+c. Cash paid for interest.
+d. Cash paid for income taxes.
+e. Cash paid for selling expenses.
+E23.10 (LO 1, 4) (Classification of Transactions) Following are selected statement of financial
+position accounts of Sander Bros. Corp. at December 31, 2022 and 2021, and the increases or decreases
+in each account from 2021 to 2022. Also presented is selected income statement information for the
+year ended December 31, 2022, and additional information.
+Selected statement of financial position accounts
+2022
+2021
+Increase
+(Decrease)
+Assets
+Property, plant, and equipment
+$ 277,000 $247,000
+$ 30,000
+Accumulated depreciation
+(178,000) (167,000)
+(11,000)
+Accounts receivable
+34,000
+24,000
+10,000
+Equity and liabilities
+Share capital—ordinary, $1 par
+$ 22,000 $ 19,000
+$ 3,000
+Share premium—ordinary
+9,000
+3,000
+6,000
+Retained earnings
+104,000
+91,000
+13,000
+Bonds payable
+49,000
+46,000
+3,000
+Dividends payable
+8,000
+5,000
+3,000
+Selected income statement information for the year ended December 31, 2022
+Sales revenue
+$ 155,000
+Depreciation
+38,000
+Gain on sale of equipment
+14,500
+Net income
+31,000
+Additional information:
+1. During 2022, equipment costing $45,000 was sold for cash.
+2. Accounts receivable relate to sales of merchandise.
+3. During 2022, $25,000 of bonds payable were issued in exchange for property, plant, and
+equipment. There was no amortization of bond discount or premium.
+Instructions
+Determine the category (operating, investing, or financing) and the amount that should be reported in
+the statement of cash flows for the following items.
+a. Payments for purchase of property, plant, and equipment.
+
+--- Page 2164 ---
+b. Proceeds from the sale of equipment.
+c. Cash dividends paid.
+d. Redemption of bonds payable.
+E23.11 (LO 2) (SCF—Indirect Method) Condensed financial data of Fairchild SA for 2022 and 2021
+are presented below.
+Fairchild SA
+Comparative Statements of Financial Position
+As of December 31, 2022 and 2021
+2022
+2021
+Debt investments (held-for-collection) €1,300 €1,470
+Plant assets
+1,900
+1,700
+Accumulated depreciation
+(1,200) (1,170)
+Inventory
+1,600
+1,900
+Accounts receivable
+1,750
+1,300
+Cash
+1,800
+1,100
+€7,150 €6,300
+Share capital—ordinary
+€1,900 €1,700
+Retained earnings
+2,450
+1,900
+Bonds payable
+1,400
+1,650
+Accounts payable
+1,200
+800
+Accrued liabilities
+200
+250
+€7,150 €6,300
+Fairchild SA
+Income Statement
+For the Year Ended December 31, 2022
+Sales revenue
+€6,900
+Cost of goods sold
+4,700
+Gross margin
+2,200
+Selling and administrative expense
+930
+Income from operations
+1,270
+Other income and expense Gain on sale of investments
+80
+Income before tax
+1,350
+Income tax expense
+540
+Net income
+€ 810
+Additional information:
+During the year, €70 of ordinary shares were issued in exchange for plant assets. No plant assets were
+sold in 2022. Cash dividends were €260.
+Instructions
+Prepare a statement of cash flows using the indirect method.
+E23.12 (LO 3) (SCF—Direct Method) Data for Fairchild SA are presented in E23.11.
+Instructions
+
+--- Page 2165 ---
+Prepare a statement of cash flows using the direct method.
+E23.13 (LO 3) (SCF—Direct Method) Andrews AG, a greeting card company, had the following
+statements prepared as of December 31, 2022.
+Andrews AG
+Comparative Statement of Financial Position
+As of December 31, 2022 and 2021
+12/31/22 12/31/21
+Equipment
+€154,000 €130,000
+Accum. depreciation—equipment
+(35,000) (25,000)
+Copyrights
+46,000
+50,000
+Inventory
+40,000
+60,000
+Prepaid rent
+5,000
+4,000
+Accounts receivable
+62,000
+49,000
+Short-term investments (trading)
+35,000
+18,000
+Cash
+6,000
+9,000
+Total assets
+€313,000 €295,000
+Share capital—ordinary, €10 par
+€100,000 €100,000
+Share premium—ordinary
+30,000
+30,000
+Retained earnings
+57,000
+36,000
+Long-term loans payable
+60,000
+67,000
+Accounts payable
+46,000
+42,000
+Income taxes payable
+4,000
+6,000
+Salaries and wages payable
+8,000
+4,000
+Short-term loans payable
+8,000
+10,000
+Total equity and liabilities
+€313,000 €295,000
+Andrews AG
+Income Statement
+For the Year Ending December 31, 2022
+Sales revenue
+€338,150
+Cost of goods sold
+175,000
+Gross margin
+163,150
+Operating expenses
+120,000
+Operating income
+43,150
+Interest expense
+€11,400
+Gain on sale of equipment
+2,000
+9,400
+Income before tax
+33,750
+Income tax expense
+6,750
+Net income
+€ 27,000
+Additional information:
+1. Dividends in the amount of €6,000 were declared and paid during 2022.
+2. Depreciation expense and amortization expense are included in operating expenses.
+
+--- Page 2166 ---
+3. No unrealized gains or losses have occurred on the investments during the year.
+4. Equipment that had a cost of €30,000 and was 70% depreciated was sold during 2022.
+Instructions
+Prepare a statement of cash flows using the direct method.
+E23.14 (LO 2) (SCF—Indirect Method) Data for Andrews AG are presented in E23.13.
+Instructions
+Prepare a statement of cash flows using the indirect method.
+E23.15 (LO 2) (SCF—Indirect Method) The following are data taken from the records of Durand
+SpA.
+Debit Balances
+December 31,
+2022
+December 31,
+2021
+Cash
+€ 15,000
+€ 10,000
+Current assets other than cash
+85,000
+58,000
+Long-term investments
+10,000
+53,000
+Plant assets
+335,000
+215,000
+€445,000
+€336,000
+Credit Balances
+Accumulated depreciation
+€ 20,000
+€ 40,000
+Current liabilities
+40,000
+22,000
+Bonds payable
+75,000
+–0–
+Share capital—ordinary
+254,000
+254,000
+Retained earnings
+56,000
+20,000
+€445,000
+€336,000
+Additional information:
+1. Held-for-collection investments carried at a cost of €43,000 on December 31, 2021, were sold in
+2022 for €34,000. The loss was incorrectly charged directly to Retained Earnings.
+2. Plant assets that cost €60,000 and were 80% depreciated were sold during 2022 for €8,000. The
+loss was incorrectly charged directly to Retained Earnings.
+3. Net income as reported on the income statement for the year was €59,000.
+4. Dividends paid amounted to €10,000.
+5. Depreciation recorded for the year was €28,000.
+Instructions
+Prepare a statement of cash flows for the year 2022 using the indirect method.
+E23.16 (LO 1, 2) (Cash Provided by Operating, Investing, and Financing Activities) The
+statement of financial position data of Yang Ltd. at the end of 2022 and 2021 follow (amounts in
+thousands).
+2022
+2021
+Equipment
+¥ 90,000 ¥ 75,000
+Accumulated depreciation—equipment (18,000)
+(8,000)
+
+--- Page 2167 ---
+Land
+70,000
+40,000
+Inventory
+65,000
+45,000
+Accounts receivable (net)
+55,000
+45,000
+Prepaid expenses
+15,000
+25,000
+Cash
+30,000
+35,000
+¥307,000 ¥257,000
+Share capital—ordinary, $10 par
+¥189,000 ¥159,000
+Retained earnings
+8,000
+5,000
+Notes payable—bank, long-term
+–0–
+23,000
+Bonds payable
+30,000
+–0–
+Accounts payable
+65,000
+52,000
+Accrued expenses
+15,000
+18,000
+¥307,000 ¥257,000
+Land was acquired for ¥30,000 in exchange for ordinary shares, par ¥30,000, during the year; all
+equipment purchased was for cash. Equipment costing ¥13,000 was sold for ¥3,000; book value of the
+equipment was ¥6,000. Cash dividends of ¥9,000 were declared and paid during the year.
+Instructions
+Compute net cash provided (used) by:
+a. Operating activities (indirect).
+b. Investing activities.
+c. Financing activities.
+E23.17 (LO 2) (SCF—Indirect Method and Statement of Financial Position) Ochoa Group,
+had the following condensed statement of financial position at the end of operations for 2021 (¥ in
+thousands).
+Ochoa Group
+Statement of Financial Position
+December 31, 2021
+Investments
+¥ 20,000 Share capital—ordinary
+¥ 75,000
+Land
+40,000 Retained earnings
+24,500
+Plant assets (net)
+67,500 Long-term notes payable
+25,500
+Current assets other than cash
+29,000 Bonds payable
+25,000
+Cash
+8,500 Current liabilities
+15,000
+¥165,000
+¥165,000
+During 2022, the following occurred.
+1. A tract of land was purchased for ¥11,000.
+2. Bonds payable in the amount of ¥20,000 were retired at par.
+3. An additional ¥10,000 in ordinary shares were issued at par.
+4. Dividends totaling ¥9,375 were paid to shareholders.
+5. Net income was ¥30,250 after deducting depreciation of ¥13,500.
+6. Land was purchased through the issuance of ¥22,500 in bonds.
+
+--- Page 2168 ---
+7. Ochoa Group sold part of its investment portfolio for ¥12,875. This transaction resulted in a gain
+of ¥2,000 for the company. The company classifies them as non-trading equity investments.
+8. Both current assets (other than cash) and current liabilities remained at the same amount.
+Instructions
+a. Prepare a statement of cash flows for 2022 using the indirect method.
+b. Prepare the condensed statement of financial position for Ochoa Group as it would appear at
+December 31, 2022.
+E23.18 (LO 2, 4) (Partial SCF—Indirect Method) The accounts below appear in the ledger of
+Popovich SA.
+Retained Earnings
+Dr.
+Cr.
+Bal.
+Jan. 1, 2022 Credit Balance
+€ 42,000
+Aug. 15
+Dividends (cash)
+€15,000
+27,000
+Dec. 31
+Net Income for 2022
+€50,000
+77,000
+Equipment
+Dr.
+Cr.
+Bal.
+Jan. 1, 2022 Debit Balance
+€140,000
+Apr. 8
+Major Repairs
+€21,000
+161,000
+Aug. 3
+Purchase of Equipment
+62,000
+223,000
+Sept. 10
+Cost of Equipment Constructed
+48,000
+271,000
+Nov. 15
+Equipment Sold
+€66,000
+205,000
+Accumulated Depreciation—
+Equipment
+Dr.
+Cr.
+Bal.
+Jan. 1, 2022 Credit Balance
+€ 84,000
+Nov. 15
+Accum. Depreciation on Equipment Sold €25,200
+58,800
+Dec. 31
+Depreciation for 2022
+€16,800
+75,600
+Instructions
+From the postings in the accounts above, indicate how the information is reported on a statement of
+cash flows by preparing a partial statement of cash flows using the indirect method. The loss on sale of
+equipment (November 15) was €5,800.
+E23.19 (LO 5) (Worksheet Analysis of Selected Accounts) Data for Popovich SA are presented
+in E23.18.
+Instructions
+Prepare entries in journal form for all adjustments that should be made on a worksheet for a statement
+of cash flows.
+E23.20 (LO 5) (Worksheet Analysis of Selected Transactions) The transactions below took
+place during the year 2022.
+1. Convertible bonds payable with a par value of $300,000 were exchanged for unissued ordinary
+shares with a par value of $300,000. The market price of both types of securities was par.
+2. The net income for the year was $360,000.
+3. Depreciation expense for the building was $90,000.
+
+--- Page 2169 ---
+4. Some old equipment was traded in on the purchase of some newer equipment and the following
+entry was made. (The exchange has commercial substance.)
+Equipment
+45,000
+Accum. Depreciation—Equipment 30,000
+Equipment
+40,000
+Cash
+34,000
+Gain on Disposal of Plant Assets
+1,000
+The Gain on Disposal of Plant Assets was credited to current operations as ordinary income.
+5. Dividends in the amount of $123,000 were declared. They are payable in January of next year.
+Instructions
+Show by journal entries the adjustments that would be made on a worksheet for a statement of cash
+flows.
+E23.21 (LO 5) (Worksheet Preparation) Below are the comparative statements of financial
+position for Lowenstein Corporation.
+Dec. 31,
+2022
+Dec. 31,
+2021
+Land
+$ 50,000 $ 50,000
+Buildings
+125,000
+78,500
+Accumulated depreciation—buildings
+(30,000)
+(23,000)
+Equipment
+53,000
+46,000
+Accumulated depreciation—equipment
+(19,000)
+(15,500)
+Delivery equipment
+39,000
+39,000
+Accumulated depreciation—delivery equipment (22,000)
+(20,500)
+Patents
+15,000
+–0–
+Inventory
+81,500
+57,000
+Prepaid expenses
+4,200
+2,500
+Accounts receivable
+43,000
+45,000
+Allowance for doubtful accounts
+(1,800)
+(2,000)
+Equity investments
+25,000
+19,000
+Cash
+16,500
+24,000
+$379,400 $300,000
+Share capital—ordinary
+$140,000 $102,000
+Share premium—ordinary
+10,000
+4,000
+Retained earnings
+73,400
+51,500
+Mortgage payable
+73,000
+53,400
+Bonds payable
+50,000
+62,500
+Accounts payable
+26,000
+16,000
+Short-term notes payable (trade)
+4,000
+6,000
+Accrued payables
+3,000
+4,600
+$379,400 $300,000
+Dividends in the amount of $10,000 were declared and paid in 2022.
+
+--- Page 2170 ---
+Instructions
+From this information, prepare a worksheet for a statement of cash flows. Make reasonable
+assumptions as appropriate. The equity investments are considered trading, and no unrealized gains or
+losses have occurred on these securities.
+Problems
+P23.1 (LO 2, 4) (SCF—Indirect Method) The following is Sullivan Corp.’s comparative statement
+of financial position accounts at December 31, 2022 and 2021, with a column showing the increase
+(decrease) from 2021 to 2022.
+Comparative Statements of Financial Position
+2022
+2021
+Increase
+(Decrease)
+Property, plant and equipment $3,307,000 $2,967,000
+$340,000
+Accumulated depreciation
+(1,165,000) (1,040,000)
+(125,000)
+Equity investment (Myers Co.)
+310,000
+275,000
+35,000
+Inventory
+1,850,000
+1,715,000
+135,000
+Accounts receivable
+1,128,000
+1,168,000
+(40,000)
+Debt investment
+250,000
+—
+250,000
+Cash
+815,000
+700,000
+115,000
+Total assets
+$6,495,000 $5,785,000
+$710,000
+Share capital—ordinary, $1 par
+$ 500,000
+$ 500,000
+—
+Share premium—ordinary
+1,500,000
+1,500,000
+—
+Retained earnings
+2,970,000
+2,680,000
+$290,000
+Finance lease obligation
+400,000
+—
+400,000
+Accounts payable
+1,015,000
+955,000
+60,000
+Income taxes payable
+30,000
+50,000
+(20,000)
+Dividends payable
+80,000
+100,000
+(20,000)
+Total equity and liabilities
+$6,495,000 $5,785,000
+$710,000
+Additional information:
+1. On December 31, 2020, Sullivan acquired 25% of Myers Co.’s ordinary shares for $275,000. On
+that date, the carrying value of Myers’ assets and liabilities, which approximated their fair values,
+was $1,100,000. Myers reported income of $140,000 for the year ended December 31, 2022. No
+dividend was paid on Myers’ ordinary shares during the year.
+2. During 2022, Sullivan loaned $300,000 to TLC Co., an unrelated company. TLC made the first
+semi-annual principal repayment of $50,000, plus interest at 10%, on December 31, 2022.
+3. On January 2, 2022, Sullivan sold equipment costing $60,000, with a carrying amount of $38,000,
+for $40,000 cash.
+4. On December 31, 2022, Sullivan entered into a finance lease for an office building. The present
+value of the annual rental payments is $400,000, which equals the fair value of the building.
+Sullivan made the first rental payment of $60,000 when due on January 2, 2023.
+5. Net income for 2022 was $370,000.
+6. Sullivan declared and paid cash dividends for 2022 and 2021 as shown below.
+
+--- Page 2171 ---
+2022
+2021
+Declared December 15, 2022 December 15, 2021
+Paid
+February 28, 2023 February 28, 2022
+Amount $80,000
+$100,000
+Instructions
+Prepare a statement of cash flows for Sullivan Corp. for the year ended December 31, 2022, using the
+indirect method.
+P23.2 (LO 2, 4) 
+ (SCF—Indirect Method) The comparative statements of financial
+position for Hinckley SA include the following information.
+Debt Balances
+December 31
+2022
+2021
+Investments
+€ –0–
+€ 3,000
+Buildings
+–0–
+29,750
+Equipment
+45,000
+20,000
+Patents
+5,000
+6,250
+Inventory
+12,000
+9,000
+Accounts receivable
+12,250
+10,000
+Cash
+33,500
+13,000
+€107,750 €91,000
+Credit Balances
+Share capital—ordinary
+€ 43,000 €33,000
+Retained earnings
+20,750
+6,000
+Allowance for doubtful accounts
+3,000
+4,500
+Accumulated depreciation—equipment
+2,000
+4,500
+Accumulated depreciation—buildings
+–0–
+6,000
+Accounts payable
+5,000
+3,000
+Dividends payable
+–0–
+5,000
+Long-term notes payable
+31,000
+25,000
+Notes payable, short-term (non-trade)
+3,000
+4,000
+€107,750 €91,000
+Additional data related to 2022 are as follows.
+1. Equipment that had cost €11,000 and was 40% depreciated at time of disposal was sold for €2,500.
+2. €10,000 of the long-term note payable was paid by issuing ordinary shares.
+3. Cash dividends paid were €5,000.
+4. On January 1, 2022, the building was completely destroyed by a flood. Insurance proceeds on the
+building were €32,000.
+5. Equity investments were sold at €1,700 above their cost.
+6. Cash was paid for the acquisition of equipment.
+7. A long-term note for €16,000 was issued for the acquisition of equipment.
+8. Interest of €2,000 and income taxes of €6,500 were paid in cash.
+
+--- Page 2172 ---
+Instructions
+Prepare a statement of cash flows using the indirect method.
+P23.3 (LO 2, 3) (SCF—Direct Method) Mortonson plc has not yet prepared a formal statement of
+cash flows for the 2022 fiscal year. Comparative statements of financial position as of December 31,
+2021 and 2022, and a statement of income and retained earnings for the year ended December 31,
+2022, are presented as follows.
+Mortonson plc
+Statement of Income and Retained Earnings
+For the Year Ended December 31, 2022
+(in thousands)
+Sales revenue
+£3,800
+Expenses
+Cost of goods sold
+£1,200
+Salaries and benefits
+725
+Heat, light, and power
+75
+Depreciation
+80
+Property taxes
+19
+Patent amortization
+25
+Miscellaneous expenses
+10
+Interest
+30
+2,164
+Income before income taxes
+1,636
+Income taxes
+818
+Net income
+818
+Retained earnings—Jan. 1, 2022
+310
+1,128
+Share dividend declared and issued
+600
+Retained earnings—Dec. 31, 2022
+£
+528
+Mortonson plc
+Comparative Statements of Financial Position
+As of December 31
+(in thousands)
+Assets
+2022
+2021
+Equity investments (non-trading)
+£ 10
+£ 50
+Land
+150
+70
+Buildings and equipment
+910
+600
+Accumulated depreciation
+(200)
+(120)
+Patents (less amortization)
+105
+130
+Inventory
+720
+560
+Accounts receivable
+780
+500
+Cash
+333
+100
+Total assets
+£2,808 £1,890
+Equity and Liabilities
+
+--- Page 2173 ---
+Mortonson plc
+Comparative Statements of Financial Position
+As of December 31
+(in thousands)
+Share capital—ordinary
+£1,300
+£ 700
+Retained earnings
+528
+310
+Total equity
+1,828
+1,010
+Long-term notes payable—due 2024
+200
+200
+Accounts payable
+420
+330
+Income taxes payable
+40
+30
+Notes payable
+320
+320
+Total liabilities
+980
+880
+Total equity and liabilities
+£2,808 £1,890
+Instructions
+Prepare a statement of cash flows using the direct method. Changes in accounts receivable and
+accounts payable relate to sales and cost of goods sold.
+P23.4 (LO 2, 3, 4) (SCF—Direct Method) Michaels Ltd. had available at the end of 2022 the
+following information.
+Michaels Ltd.
+Comparative Statements of Financial Position
+As of December 31, 2022 and 2021
+2022
+2021
+Land
+£125,000 £175,000
+Buildings
+350,000
+350,000
+Accumulated depreciation—buildings
+(105,000)
+(87,500)
+Equipment
+525,000
+400,000
+Accumulated depreciation—equipment (130,000) (112,000)
+Patents
+45,000
+50,000
+Inventory
+42,000
+35,000
+Prepaid rent
+3,000
+12,000
+Prepaid insurance
+2,100
+900
+Supplies
+1,000
+750
+Accounts receivable
+20,500
+12,950
+Short-term equity investments
+22,000
+30,000
+Cash
+10,000
+4,000
+Total assets
+£910,600 £871,100
+Share capital—ordinary
+£240,000 £220,000
+Share premium—ordinary
+25,000
+17,500
+Retained earnings
+123,297
+88,747
+Long-term notes payable
+60,000
+70,000
+Bonds payable
+420,303
+425,853
+Accounts payable
+22,000
+32,000
+
+--- Page 2174 ---
+Michaels Ltd.
+Comparative Statements of Financial Position
+As of December 31, 2022 and 2021
+Income taxes payable
+5,000
+4,000
+Salaries and wages payable
+5,000
+3,000
+Short-term notes payable
+10,000
+10,000
+Total equity and liabilities
+£910,600 £871,100
+Michaels Ltd.
+Income Statement
+For the Year Ended December 31, 2022
+Sales revenue
+£1,160,000
+Cost of goods sold
+(748,000)
+Gross margin
+412,000
+Operating expenses
+Selling expenses
+£ 79,200
+Administrative expenses
+156,700
+Depreciation/Amortization expense
+40,500
+Total operating expenses
+(276,400)
+Income from operations
+135,600
+Other income and expense
+Gain on sale of land
+8,000
+Gain on sale of short-term investment
+4,000
+Dividend revenue
+2,400
+Interest expense
+(51,750)
+(37,350)
+Income before taxes
+98,250
+Income tax expense
+(39,400)
+Net income
+58,850
+Dividends to ordinary shareholders
+(24,300)
+To retained earnings
+£ 34,550
+Instructions
+Prepare a statement of cash flows for Michaels Ltd. using the direct method. Assume the short-term
+investments are non-trading. Bond premium amortized was £5,550.
+P23.5 (LO 2, 3, 4) (SCF—Indirect Method, and Net Cash Flow from Operating Activities,
+Direct Method) Comparative statement of financial position accounts of Marcus AG are presented
+below.
+Marcus AG
+Comparative Statement of Financial Position Accounts
+As of December 31, 2022 and 2021
+December 31
+Debit Accounts
+2022
+2021
+Cash
+€ 42,000
+€ 33,750
+Accounts Receivable
+70,500
+60,000
+
+--- Page 2175 ---
+Marcus AG
+Comparative Statement of Financial Position Accounts
+As of December 31, 2022 and 2021
+Inventory
+30,000
+24,000
+Equity Investments (non-trading)
+22,250
+38,500
+Machinery
+30,000
+18,750
+Buildings
+67,500
+56,250
+Land
+7,500
+7,500
+€269,750 €238,750
+Credit Accounts
+Allowance for Doubtful Accounts
+€
+2,250 €
+1,500
+Accumulated Depreciation—Machinery
+5,625
+2,250
+Accumulated Depreciation—Buildings
+13,500
+9,000
+Accounts Payable
+35,000
+24,750
+Accrued Payables
+3,375
+2,625
+Long-Term Notes Payable
+21,000
+31,000
+Share Capital—Ordinary, no par
+150,000
+125,000
+Retained Earnings
+39,000
+42,625
+€269,750 €238,750
+Additional data (ignoring taxes):
+1. Net income for the year was €42,500.
+2. Cash dividends declared and paid during the year were €21,125.
+3. A 20% share dividend was declared during the year. €25,000 of retained earnings was capitalized.
+4. Equity investments that cost €25,000 were sold during the year for €28,750.
+5. Machinery that cost €3,750, on which €750 of depreciation had accumulated, was sold for €2,200.
+Marcus’s 2022 income statement follows (ignoring taxes).
+Sales revenue
+€540,000
+Less: Cost of goods sold
+380,000
+Gross margin
+160,000
+Less: Operating expenses (includes €8,625 depreciation and €5,400 bad debts)
+120,450
+Income from operations
+39,550
+Other: Gain on sale of equity investments (non-trading)
+€3,750
+Loss on sale of machinery
+(800)
+2,950
+Net income
+€ 42,500
+Instructions
+a. Compute net cash flow from operating activities using the direct method.
+b. Prepare a statement of cash flows using the indirect method.
+P23.6 (LO 2, 3, 4) 
+ (SCF—Direct and Indirect Methods from Comparative
+Financial Statements) Chapman Company, a major retailer of bicycles and accessories, operates
+
+--- Page 2176 ---
+several stores and is a publicly traded company. The comparative statement of financial position and
+the income statement for Chapman as of May 31, 2022, are as follows. The company is preparing its
+statement of cash flows.
+Chapman Company
+Comparative Statements of Financial Position
+As of May 31
+2022
+2021
+Plant assets
+Plant assets
+$600,000 $502,000
+Less: Accumulated depreciation—plant assets
+150,000
+125,000
+450,000
+377,000
+Current assets
+Inventory
+220,000
+250,000
+Prepaid expenses
+9,000
+7,000
+Accounts receivable
+75,000
+58,000
+Cash
+28,250
+20,000
+Total current assets
+332,250
+335,000
+Total assets
+$782,250 $712,000
+Equity
+Share capital—ordinary, $10 par
+$370,000 $280,000
+Retained earnings
+145,000
+120,000
+Total equity
+515,000
+400,000
+Non-current liabilities
+Bonds payable
+70,000
+100,000
+Current liabilities
+Accounts payable
+123,000
+115,000
+Salaries and wages payable
+47,250
+72,000
+Interest payable
+27,000
+25,000
+Total current liabilities
+197,250
+212,000
+Total liabilities
+267,250
+312,000
+Total equity and liabilities
+$782,250 $712,000
+Chapman Company
+Income Statement
+For the Year Ended May 31, 2022
+Sales revenue
+$1,255,250
+Cost of merchandise sold
+722,000
+Gross profit
+533,250
+Expenses
+Salaries and wages expense
+252,100
+Interest expense
+75,000
+Other expenses
+8,150
+Depreciation expense
+25,000
+
+--- Page 2177 ---
+Chapman Company
+Income Statement
+For the Year Ended May 31, 2022
+Total expenses
+360,250
+Operating income
+173,000
+Income tax expense
+43,000
+Net income
+$ 130,000
+The following is additional information concerning Chapman’s transactions during the year ended May
+31, 2022.
+1. All sales during the year were made on account.
+2. All merchandise was purchased on account, comprising the total accounts payable account.
+3. Plant assets costing $98,000 were purchased by paying $28,000 in cash and issuing 7,000
+ordinary shares.
+4. The “other expenses” are related to prepaid items.
+5. All income taxes incurred during the year were paid during the year.
+6. In order to supplement its cash, Chapman issued 2,000 ordinary shares at par value.
+7. There were no penalties assessed for the retirement of bonds.
+8. Cash dividends of $105,000 were declared and paid at the end of the fiscal year.
+Instructions
+a. Compare and contrast the direct method and the indirect method for reporting cash flows from
+operating activities.
+b. Prepare a statement of cash flows for Chapman Company for the year ended May 31, 2022, using
+the direct method. Be sure to support the statement with appropriate calculations.
+c. Using the indirect method, calculate only the net cash flow from operating activities for Chapman
+Company for the year ended May 31, 2022.
+P23.7 (LO 2, 3, 4) (SCF—Direct and Indirect Methods) Comparative statement of financial
+position accounts of Shi Group are presented below.
+Shi Group
+Comparative Statement of Financial Position Accounts
+As of December 31
+(in thousands)
+Debit Balances
+2022
+2021
+Cash
+HK$ 70,000 HK$ 51,000
+Accounts Receivable
+155,000
+130,000
+Inventory
+75,000
+61,000
+Equity Investments (non-trading)
+55,000
+85,000
+Equipment
+70,000
+48,000
+Buildings
+145,000
+145,000
+Land
+40,000
+25,000
+Totals
+HK$610,000 HK$545,000
+Credit Balances
+
+--- Page 2178 ---
+Shi Group
+Comparative Statement of Financial Position Accounts
+As of December 31
+(in thousands)
+Allowance for Doubtful Accounts
+HK$ 10,000
+HK$ 8,000
+Accumulated Depreciation—Equipment
+21,000
+14,000
+Accumulated Depreciation—Buildings
+37,000
+28,000
+Accounts Payable
+66,000
+60,000
+Income Taxes Payable
+12,000
+10,000
+Long-Term Notes Payable
+62,000
+70,000
+Share Capital—Ordinary
+310,000
+260,000
+Retained Earnings
+92,000
+95,000
+Totals
+HK$610,000 HK$545,000
+Additional data:
+1. Equipment that cost HK$10,000 and was 60% depreciated was sold in 2022.
+2. Cash dividends were declared and paid during the year.
+3. Ordinary shares were issued in exchange for land.
+4. Equity investments that cost HK$35,000 were sold during the year.
+5. There were no write-offs of uncollectible accounts during the year.
+Shi’s 2022 income statement is as follows.
+Sales revenue
+HK$950,000
+Less: Cost of goods sold
+600,000
+Gross profit
+350,000
+Less: Operating expenses (includes depreciation expense and bad debt
+expense)
+250,000
+Income from operations
+100,000
+Other income and expense
+Gain on sale of investments
+HK$15,000
+Loss on sale of equipment
+(3,000)
+12,000
+Income before taxes
+112,000
+Income taxes
+45,000
+Net income
+HK$ 67,000
+Instructions
+a. Compute net cash provided by operating activities under the direct method.
+b. Prepare a statement of cash flows using the indirect method.
+P23.8 (LO 2, 4) 
+ (Indirect SCF) Greco Corporation has contracted with you to prepare a
+statement of cash flows. The controller has provided the following trial balance information.
+December 31
+2022
+2021
+
+--- Page 2179 ---
+Cash
+$ 38,500 $13,000
+Accounts receivable
+12,250
+10,000
+Inventory
+12,000
+10,000
+Equity investments (non-trading)
+–0–
+3,000
+Buildings
+–0–
+29,750
+Equipment
+40,000
+20,000
+Copyright
+5,000
+5,250
+Totals
+$107,750 $91,000
+Allowance for doubtful accounts
+$ 3,000 $ 4,500
+Accumulated depreciation—equipment
+2,000
+4,500
+Accumulated depreciation—buildings
+–0–
+6,000
+Accounts payable
+5,000
+4,000
+Dividends payable
+–0–
+5,000
+Notes payable, short-term (non-trade)
+3,000
+4,000
+Long-term notes payable
+36,000
+25,000
+Share capital—ordinary
+38,000
+33,000
+Retained earnings
+20,750
+5,000
+$107,750 $ 91,000
+Additional data related to 2022 are as follows.
+1. Equipment that had cost $11,000 and was 30% depreciated at time of disposal was sold for $2,500.
+2. $5,000 of the long-term note payable was paid by issuing ordinary shares.
+3. Cash dividends paid were $5,000.
+4. On January 1, 2022, the building was completely destroyed by a flood. Insurance proceeds on the
+building were $33,000 (net of $4,000 taxes).
+5. Equity investments (non-trading) were sold at $1,500 above their cost. The company has made
+similar sales and investments in the past.
+6. Cash and a long-term note for $16,000 were given for the acquisition of equipment.
+7. Interest of $2,000 and income taxes of $5,000 were paid in cash.
+Instructions
+a. Use the indirect method to analyze the above information and prepare a statement of cash flows
+for Greco.
+b. What would you expect to observe in the operating, investing, and financing sections of a
+statement of cash flows of:
+1. A severely financially troubled firm?
+2. A recently formed firm that is experiencing rapid growth?
+Concepts for Analysis
+CA23.1 (LO 1, 2, 4) 
+ (Analysis of Improper SCF) The following statement was prepared by
+Maloney Corporation’s accountant.
+
+--- Page 2180 ---
+Maloney Corporation
+Statement of Sources and Uses of Cash
+For the Year Ended September 30, 2022
+Maloney Corporation
+Statement of Sources and Uses of Cash
+For the Year Ended September 30, 2022
+Sources of cash
+Net income
+$111,000
+Depreciation and depletion
+70,000
+Increase in long-term debt
+179,000
+Changes in current receivables and inventories, less current liabilities (excluding current
+maturities of long-term debt)
+14,000
+$374,000
+Application of cash
+Cash dividends
+$ 60,000
+Expenditure for property, plant, and equipment
+214,000
+Investments and other uses
+20,000
+Change in cash
+80,000
+$374,000
+The following additional information relating to Maloney Corporation is available for the year ended
+September 30, 2022.
+1. Salaries and wages expense attributable to share-option plans was $25,000 for the year.
+2. 
+Expenditures for property, plant, and equipment
+$250,000
+Proceeds from retirements of property, plant, and equipment
+36,000
+Net expenditures
+$214,000
+3. A share dividend of 10,000 Maloney Corporation ordinary shares was distributed to ordinary
+shareholders on April 1, 2022, when the per share market price was $7 and par value was $1.
+4. On July 1, 2022, when its market price was $6 per share, 16,000 of Maloney Corporation ordinary
+shares were issued in exchange for 4,000 preference shares.
+5. 
+Depreciation expense $ 65,000
+Depletion expense
+5,000
+$ 70,000
+6. 
+Increase in long-term debt $620,000
+Retirement of debt
+441,000
+Net increase
+$179,000
+Instructions
+a. In general, what are the objectives of a statement of the type shown above for Maloney
+Corporation? Explain.
+b. Identify the weaknesses in the form and format of Maloney Corporation’s statement of cash flows
+without reference to the additional information. (Assume adoption of the indirect method.)
+c. For each of the six items of additional information for the statement of cash flows, indicate the
+preferable treatment and explain why the suggested treatment is preferable.
+
+--- Page 2181 ---
+CA23.2 (LO 1, 2, 4) 
+ (SCF Theory and Analysis of Improper SCF) Teresa Ramirez
+and Lenny Traylor are examining the following statement of cash flows for Panaka Clothing Store’s
+first year of operations.
+Panaka Clothing Store
+Statement of Cash Flows
+For the Year Ended January 31, 2022
+Sources of cash
+From sales of merchandise
+€ 382,000
+From sale of ordinary shares
+380,000
+From sale of debt investment
+120,000
+From depreciation
+80,000
+From issuance of note for truck
+30,000
+From interest on investments
+8,000
+Total sources of cash
+1,000,000
+Uses of cash
+For purchase of fixtures and equipment
+330,000
+For merchandise purchased for resale
+253,000
+For operating expenses (including depreciation)
+170,000
+For purchase of debt investment
+95,000
+For purchase of truck by issuance of note
+30,000
+For purchase of treasury shares
+10,000
+For interest on note
+3,000
+Total uses of cash
+891,000
+Net increase in cash
+€ 109,000
+Teresa claims that Panaka’s statement of cash flows shows a superb first year, with cash increasing
+€109,000. Lenny replies that it was not a superb first year: the year was an operating failure, the
+statement was incorrectly presented, and €109,000 is not the actual increase in cash.
+Instructions
+a. With whom do you agree, Teresa or Lenny? Explain your position.
+b. Using the data provided, prepare a statement of cash flows in proper indirect method form. The
+only non-cash items in income are depreciation and the gain from the sale of the investment
+(purchase and sale are related).
+CA23.3 (LO 2, 4) (SCF Theory and Analysis of Transactions) Ashley Company is a young and
+growing manufacturer of electronic measuring instruments and technical equipment. The company
+has retained you to advise it in the preparation of a statement of cash flows using the indirect method.
+For the fiscal year ended October 31, 2022, you have obtained the following information concerning
+certain events and transactions of Ashley.
+1. The amount of reported earnings for the fiscal year was $700,000, which included a deduction for
+a loss of $110,000 (see item 5 below).
+2. Depreciation expense of $315,000 was included in the income statement.
+3. Uncollectible accounts receivable of $40,000 were written off against the allowance for doubtful
+accounts. Also, $51,000 of bad debt expense was included in determining income for the fiscal
+year, and the same amount was added to the allowance for doubtful accounts.
+
+--- Page 2182 ---
+4. A gain of $6,000 was realized on the sale of a machine. It originally cost $75,000, of which
+$30,000 was undepreciated on the date of sale.
+5. On April 1, 2022, lightning caused an uninsured building loss of $110,000 ($180,000 loss, less
+reduction in income taxes of $70,000). This loss was included in determining income as indicated
+in item 1 above.
+6. On July 3, 2022, building and land were purchased for $700,000. Ashley gave in payment $75,000
+cash, $200,000 fair value of its unissued ordinary shares, and signed a $425,000 mortgage note
+payable.
+7. On August 3, 2022, $800,000 face value of Ashley’s 10% convertible preference shares was
+converted into $150,000 par value of its ordinary shares.
+Instructions
+Explain whether each of the 7 numbered items above is a source or use of cash, and explain how each
+should be disclosed in Ashley’s statement of cash flows for the fiscal year ended October 31, 2022. If
+any item is neither a source nor a use of cash, explain why it is not, and indicate the disclosure, if any,
+that should be made of the item for the fiscal year ended October 31, 2022.
+CA23.4 (LO 2, 4) 
+ (Analysis of Transactions’ Effect on SCF) Each of the following
+items must be considered in preparing a statement of cash flows for Boer Fashions for the year ended
+December 31, 2022.
+1. Fixed assets that had cost R20,000 6½ years before and were being depreciated on a 10-year basis,
+with no estimated residual value, were sold for R4,750.
+2. During the year, goodwill of R15,000 was considered impaired and was completely written off to
+expense.
+3. During the year, 500 ordinary shares with a stated value of R25 a share were issued for R32 a
+share.
+4. The company sustained a net loss for the year of R2,100. Depreciation amounted to R2,000 and
+patent amortization was R400.
+5. Uncollectible accounts receivable in the amount of R2,000 were written off against Allowance for
+Doubtful Accounts.
+6. Equity investments (non-trading) that cost R12,000 when purchased 4 years earlier were sold for
+R10,600.
+7. Bonds payable with a par value of R24,000 on which there was an unamortized bond premium of
+R2,000 were redeemed at 101.
+Instructions
+For each item, state where it is to be shown in the statement and then how you would present the
+necessary information, including the amount. Consider each item to be independent of the others.
+Assume that correct entries were made for all transactions as they took place.
+CA23.5 (LO 1, 2, 4) (Purpose and Elements of SCF) IFRS requires the statement of cash flows be
+presented when financial statements are prepared.
+Instructions
+a. Explain the purposes of the statement of cash flows.
+b. List and describe the three categories of activities that must be reported in the statement of cash
+flows.
+c. Identify and describe the two methods that are allowed for reporting cash flows from operations.
+
+--- Page 2183 ---
+d. Describe the presentation of non-cash investing and financing transactions. Include in your
+description an example of a non-cash investing and financing transaction.
+CA23.6 (LO 1, 2, 3) 
+ (Cash Flow Reporting) Brockman Guitar Company is in the business
+of manufacturing top-quality, steel-string folk guitars. In recent years, the company has experienced
+working capital problems resulting from the procurement of factory equipment, the unanticipated
+buildup of receivables and inventories, and the payoff of a balloon mortgage on a new manufacturing
+facility. The founder and president of the company, Barbara Brockman, has attempted to raise cash
+from various financial institutions, but to no avail because of the company’s poor performance in
+recent years. In particular, the company’s lead bank, First Financial, is especially concerned about
+Brockman’s inability to maintain a positive cash position. The commercial loan officer from First
+Financial told Barbara, “I can’t even consider your request for capital financing unless I see that your
+company is able to generate positive cash flows from operations.”
+Thinking about the banker’s comment, Barbara came up with what she believes is a good plan: With a
+more attractive statement of cash flows, the bank might be willing to provide long-term financing. To
+“window dress” cash flows, the company can sell its accounts receivables to factors and liquidate its
+raw materials inventories. These rather costly transactions would generate lots of cash. As the chief
+accountant for Brockman Guitar, it is your job to tell Barbara what you think of her plan.
+Instructions
+Answer the following questions.
+a. What are the ethical issues related to Barbara Brockman’s idea?
+b. What would you tell Barbara Brockman?
+Using Your Judgment
+Financial Reporting Problem
+Marks and Spencer plc (M&S)
+The financial statements of M&S (GBR) are presented in Appendix A. The complete annual report,
+including the notes to the financial statements, is available online.
+Instructions
+Refer to M&S’s financial statements and the accompanying notes to answer the following questions.
+a. Which method of computing net cash provided by operating activities does M&S use? What were
+the amounts of net cash provided by operating activities for the years 2018 and 2019? What were
+the two most significant items in the cash generated from operations in 2019?
+b. What was the most significant item in the cash flows used for investing activities section in 2019?
+What was the most significant item in the cash flows used for financing activities section in 2019?
+c. Where is “deferred income taxes” reported in M&S’s statement of cash flows? Why does it appear
+in that section of the statement of cash flows?
+d. Where is depreciation reported in M&S’s statement of cash flows? Why is depreciation added to
+net income in the statement of cash flows?
+Comparative Analysis Case
+adidas and Puma
+The financial statements of adidas (DEU) and Puma (DEU) are presented in Appendices B and C,
+respectively. The complete annual reports, including the notes to the financial statements, are available
+online.
+
+--- Page 2184 ---
+Instructions
+Use the companies’ financial information to answer the following questions.
+a. What method of computing net cash provided by operating activities does adidas use? What
+method does Puma use? What were the amounts of cash provided by operating activities reported
+by adidas and Puma in 2018?
+b. What was the most significant item reported by adidas and Puma in 2018 in their investing
+activities sections? What is the most significant item reported by adidas and Puma in 2018 in their
+financing activities sections?
+c. What were these two companies’ trends in net cash provided by operating activities over the period
+2017 to 2018?
+d. Where is “depreciation and amortization” reported by adidas and Puma in their statements of cash
+flows? What is the amount and why does it appear in that section of the statement of cash flows?
+e. Based on the information contained in adidas’s and Puma’s financial statements, compute the
+following 2018 ratios for each company. These ratios require the use of statement of cash flows
+data. (These ratios were covered in Chapter 5.)
+1. Current cash debt coverage.
+2. Cash debt coverage.
+f. What conclusions concerning the management of cash can be drawn from the ratios computed in
+(e)?
+Financial Statement Analysis Case
+The consolidated statement of cash flows for Telefónica, S.A. (ESP) is presented as follows.
+(millions of euros)
+Current
+Year
+Prior
+Year
+Cash flows from operating activities
+Cash received from customers
+75,962
+77,222
+Cash paid to suppliers and employees
+(55,858)
+(55,769)
+Dividends received
+85
+82
+Net interest and other financial expenses paid
+(2,952)
+(2,093)
+Taxes paid
+(2,024)
+(1,959)
+Net cash from operating activities
+15,213
+17,483
+Cash flows from investing activities
+Proceeds on disposals of property, plant and equipment and intangible assets
+939
+811
+Payments on investments in property, plant and equipment and intangible
+assets
+(9,481)
+(9,085)
+Proceeds on disposals of companies, net of cash and cash equivalents
+disposed
+1,823
+4
+Payments on investments in companies, net of cash and cash equivalents
+acquired
+(37)
+(2,948)
+Proceeds on financial investments not included under cash equivalents
+30
+23
+Payments made on financial investments not included under cash
+equivalents
+(834)
+(669)
+Payments from cash surpluses not included under cash equivalents
+(318)
+(646)
+Government grants received
+1
+13
+
+--- Page 2185 ---
+Net cash used in investing activities
+(7,877)
+(12,497)
+Cash flows from financing activities
+Dividends paid
+(3,273)
+(7,567)
+Transactions with equity holders
+656
+(399)
+Proceeds on issue of debentures and bonds
+8,090
+4,582
+Proceeds on loans, borrowings and promissory notes
+6,002
+4,387
+Cancellation of debentures and bonds
+(4,317)
+(3,235)
+Repayments of loans, borrowings and promissory notes
+(8,401)
+(2,680)
+Net cash used in financing activities
+(1,243)
+(4,912)
+Effect of foreign exchange rate changes on collections and payments
+(382)
+(169)
+Effect of changes in consolidation methods
+1
+10
+Net increase (decrease) in cash and cash equivalents during the year
+5,712
+(85)
+Cash and cash equivalents at January 1
+4,135
+4,220
+Cash and cash equivalents at December 31
+9,847
+4,135
+Instructions
+a. What method does Telefónica use to prepare the operating cash flows section of its statement of
+cash flows? Briefly discuss how you can determine this.
+b. Telefónica reported net income of €4,403 in the current year (in millions). Briefly discuss some of
+the adjustments that would explain such a difference in its income and operating cash flows.
+c. IFRS requires disclosure of interest, taxes, and dividends. Briefly describe how Telefónica has
+complied with these requirements. What other approach could a company take to comply with the
+reporting requirement?
+Accounting, Analysis, and Principles
+The income statement for the year ended December 31, 2022, for Laskowski AG contains the following
+condensed information.
+Laskowski AG
+Income Statement
+Revenues
+€6,583,000
+Operating expenses (excluding depreciation) €4,920,000
+Depreciation expense
+880,000
+5,800,000
+Income before income tax
+783,000
+Income tax expense
+353,000
+Net income
+€ 430,000
+Included in operating expenses is a €24,000 loss resulting from the sale of machinery for €270,000
+cash. The company purchased machinery at a cost of €750,000.
+Laskowski reports the following balances on its comparative statements of financial position at
+December 31.
+Laskowski AG
+Comparative Statements of Financial Position (partial)
+2022
+2021
+Inventories
+€834,000
+€867,000
+
+--- Page 2186 ---
+Laskowski AG
+Comparative Statements of Financial Position (partial)
+Accounts receivable
+775,000
+610,000
+Cash
+672,000
+130,000
+Accounts payable
+521,000
+501,000
+Income tax expense of €353,000 represents the amount paid in 2022. Dividends declared and paid in
+2022 totaled €200,000.
+Accounting
+Prepare the statement of cash flows using the indirect method.
+Analysis
+Laskowski has an aggressive growth plan, which will require significant investments in plant and
+equipment over the next several years. Preliminary plans call for an investment of over €500,000 in
+the next year. Compute Laskowski’s free cash flow and use it to evaluate the investment plans with the
+use of only internally generated funds.
+Principles
+How does the statement of cash flows contribute to achieving the objective of financial reporting?
+Bridge to the Profession
+Authoritative Literature References
+[1] International Accounting Standard 7, Statement of Cash Flows (London, U.K.: International
+Accounting Standards Committee Foundation, 2001).
+[2] International Accounting Standard 7, Statement of Cash Flows (London, U.K.: International
+Accounting Standards Committee Foundation, 2001), paras. 13–17.
+[3] International Accounting Standard 7, Statement of Cash Flows (London, U.K.: International
+Accounting Standards Committee Foundation, 2001), par. 45.
+[4] International Accounting Standard 7, Statement of Cash Flows (London, U.K.: International
+Accounting Standards Committee Foundation, 2001), par. 7.
+[5] International Accounting Standard 7, Statement of Cash Flows (London, U.K.: International
+Accounting Standards Committee Foundation, 2001), par. 45.
+[6] International Accounting Standard 7, Statement of Cash Flows (London, U.K.: International
+Accounting Standards Committee Foundation, 2001), par. 19.
+[7] International Accounting Standard 7, Statement of Cash Flows (London, U.K.: International
+Accounting Standards Committee Foundation, 2001), par. 36.
+[8] International Accounting Standard 7, Statement of Cash Flows (London, U.K.: International
+Accounting Standards Committee Foundation, 2001), par. 43.
+[9] International Accounting Standard 7, Statement of Cash Flows (London, U.K.: International
+Accounting Standards Committee Foundation, 2001), par. 31.
+Research Case
+As part of the year-end accounting process for your company, you are preparing the statement of cash
+flows according to IFRS. One of your team, a finance major, believes the statement should be prepared
+to report the change in working capital because analysts many times use working capital in ratio
+
+--- Page 2187 ---
+analysis. Your supervisor would like research conducted to verify the basis for preparing the statement
+of cash flows.
+Instructions
+Access the IFRS authoritative literature at the IFRS website (you may register for free IFRS access at
+this site). When you have accessed the documents, you can use the search tool in your Internet
+browser to respond to the following questions. (Provide paragraph citations.)
+a. What is the primary objective for the statement of cash flows? Is working capital the basis for
+meeting this objective?
+b. What information is provided in a statement of cash flows?
+c. List some of the typical cash inflows and outflows from operations.
+Global Accounting Insights
+LEARNING OBJECTIVE 6
+Compare the statement of cash flows under IFRS and U.S. GAAP.
+As in IFRS, the statement of cash flows is a required statement for U.S. GAAP. In addition, the content
+and presentation of a U.S. GAAP statement of cash flows is similar to one used for IFRS. However, the
+disclosure requirements related to the statement of cash flows are more extensive under U.S. GAAP.
+Relevant Facts
+Following are the key similarities and differences between U.S. GAAP and IFRS related to the
+statement of cash flows.
+Similarities
+Both U.S. GAAP and IFRS require that companies prepare a statement of cash flows.
+Both U.S. GAAP and IFRS require that the statement of cash flows should have three major
+sections—operating, investing, and financing—along with changes in cash and cash equivalents.
+Similar to U.S. GAAP, the cash flow statement can be prepared using either the indirect or direct
+method under IFRS. For both U.S. GAAP and IFRS, most companies use the indirect method for
+reporting net cash flow from operating activities.
+The definition of cash equivalents used in U.S. GAAP is similar to that used in IFRS.
+Differences
+Under U.S. GAAP, bank overdrafts are classified as financing activities. A major difference in the
+definition of cash and cash equivalents is that in certain situations, bank overdrafts are considered
+part of cash and cash equivalents under IFRS.
+Under U.S. GAAP, companies may present non-cash investing and financing activities in the cash
+flow statement. IFRS requires that non-cash investing and financing activities be excluded from
+the statement of cash flows. As indicated in the chapter, these non-cash activities should be
+reported elsewhere. This requirement is interpreted to mean that non-cash investing and financing
+activities should be disclosed in the notes to the financial statements instead of in the financial
+statements.
+One area where there can be substantive differences between U.S. GAAP and IFRS relates to the
+classification of interest, dividends, and taxes. U.S. GAAP requires that except for dividends paid
+
+--- Page 2188 ---
+(which are classified as a financing activity), these items are all reported as operating activities.
+IFRS provides more alternatives for disclosing these items.
+About the Numbers
+One area where there can be substantive differences between U.S. GAAP and IFRS relates to the
+classification of interest, dividends, and taxes. The following table indicates the differences between
+the two approaches.
+Item
+IFRS
+U.S. GAAP
+Interest paid
+Operating or financing
+Operating
+Interest received
+Operating or investing
+Operating
+Dividends paid
+Operating or financing
+Financing
+Dividends received Operating or investing
+Operating
+Taxes paid
+Operating—unless specific identification with financing or investing Operating1, 2
+1U.S. GAAP has additional disclosure rules.
+2U.S. GAAP has specific rules regarding the classification of the benefit associated with share-based
+compensation arrangements and the classification of derivatives that contain a financing element.
+Source: PricewaterhouseCoopers, Similarities and Difference–A Comparison of IFRS and U.S. GAAP
+(October 2013).
+As indicated, the major difference is that IFRS provides more alternatives for disclosing certain items.
+On the Horizon
+The IASB and the FASB have collaborated on a joint project on the presentation and organization of
+information in the financial statements. With respect to the cash flow statement specifically, the
+notion of cash equivalents has been debated. In addition, the IASB is considering some changes in cash
+flow reporting that will better align with U.S. GAAP.
+GAAP Self-Test Questions
+1. Which of the following is true regarding the statement of cash flows under U.S. GAAP?
+a. The statement of cash flows has two major sections—operating and non-operating.
+b. The statement of cash flows has two major sections—financing and investing.
+c. The statement of cash flows has three major sections—operating, investing, and financing.
+d. The statement of cash flows has three major sections—operating, non-operating, and financing.
+2. In the case of a bank overdraft:
+a. U.S. GAAP typically includes the amount in cash and cash equivalents.
+b. IFRS typically includes the amount in cash equivalents but not in cash.
+c. U.S. GAAP typically treats the overdraft as a liability and reports the amount in the financing
+section of the statement of cash flows.
+d. IFRS typically treats the overdraft as a liability, and reports the amount in the investing section of
+the statement of cash flows.
+3. Under U.S. GAAP, significant non-cash transactions:
+
+--- Page 2189 ---
+a. are classified as operating, if they are related to income items.
+b. may be presented in the statement of cash flows as a separate schedule.
+c. are classified as an investing or financing activity.
+d. are classified as an operating activity, unless they can be specifically identified with financing or
+investing activities.
+4. For purposes of the statement of cash flows, under U.S. GAAP interest paid is treated as:
+a. an operating activity in all cases.
+b. an investing or operating activity, depending on use of the borrowed funds.
+c. either a financing or investing activity.
+d. either an operating or financing activity, but treated consistently from period to period.
+5. For purposes of the statement of cash flows, under U.S. GAAP income taxes paid are treated as:
+a. cash flows from operating activities unless they can be separately identified as part of investing or
+financing activities.
+b. an operating activity in all cases.
+c. an investing or operating activity, depending on whether a refund is received.
+d. either operating, financing, or investing activity, but treated consistently to other companies in the
+same industry.
+GAAP Concepts and Application
+GAAP23.1 Briefly describe some of the similarities and differences between IFRS and U.S. GAAP with
+respect to cash flow reporting.
+GAAP23.2 Explain how the accounting for interest received and paid in a statement of cash flows
+differ between IFRS and U.S. GAAP.
+GAAP23.3 What are some of the key obstacles for the IASB and FASB in their convergence project for
+the statement of cash flows?
+GAAP23.4 Founded in the early 1980s, the Vermont Teddy Bear Co. (USA) designs and
+manufactures American-made teddy bears and markets them primarily as gifts called Bear-Grams or
+Teddy Bear-Grams. Bear-Grams are personalized teddy bears delivered directly to the recipient for
+special occasions such as birthdays and anniversaries. The Shelburne, Vermont, company’s primary
+markets are New York, Boston, and Chicago. Sales have jumped dramatically in recent years. Such
+dramatic growth has significant implications for cash flows. The following are the cash flow statements
+for two recent years for the company.
+Current Year Prior Year
+Cash flows from operating activities:
+Net income
+$ 17,523
+$ 838,955
+Adjustments to reconcile net income to net cash provided by operating
+activities
+Deferred income taxes
+(69,524)
+(146,590)
+Depreciation and amortization
+316,416
+181,348
+Changes in assets and liabilities:
+Accounts receivable, trade
+(38,267)
+(25,947)
+Inventories
+(1,599,014) (1,289,293)
+
+--- Page 2190 ---
+Prepaid and other current assets
+(444,794)
+(113,205)
+Deposits and other assets
+(24,240)
+(83,044)
+Accounts payable
+2,017,059
+(284,567)
+Accrued expenses
+61,321
+170,755
+Accrued interest payable, debentures
+—
+(58,219)
+Other
+—
+(8,960)
+Income taxes payable
+—
+117,810
+Net cash provided by (used for) operating activities
+236,480
+(700,957)
+Net cash used for investing activities
+(2,102,892) (4,422,953)
+Net cash (used for) provided by financing activities
+(315,353)
+9,685,435
+Net change in cash and cash equivalents
+$ (2,181,765) $ 4,561,525
+Other information:
+Current liabilities
+$ 4,055,465 $ 1,995,600
+Total liabilities
+4,620,085
+2,184,386
+Net sales
+20,560,566 17,025,856
+Instructions
+a. Briefly describe any similarities or differences in Vermont’s U.S. GAAP-based statement of cash
+flows compared to the requirements of IFRS.
+b. Note that net income in the current year was only $17,523 compared to prior-year income of
+$838,955, but cash flows from operations was $236,480 in the current year and a negative
+$700,957 in the prior year. Explain the causes of this apparent paradox.
+c. Evaluate Vermont Teddy Bear’s liquidity, solvency, and profitability for the current year using cash
+flow-based ratios (as covered in Chapter 5).
+Answers to GAAP Self-Test Questions
+1. c 2. c 3. b 4. a 5. b
+Notes
+1 IFRS Accounting Trends and Techniques indicates that most companies surveyed report income
+taxes paid or received, interest received and paid, and dividends received as operating activities.
+However, most companies show dividends paid as a financing activity. These results are consistent
+with how this information is reported in Illustration 23.1.
+2 In certain circumstances, it is possible that the net increase and decrease in cash reported on the
+statement of cash flows will not reconcile beginning and ending cash from the statement of financial
+position. The most common reason will be bank overdrafts. In this case, the company should
+disclose a reconciliation of the amounts from the statement of cash flows to the statement of
+financial position. [5]
+3 “Net cash flow from operating activities” is a generic phrase, replaced in the statement of cash flows
+with either “Net cash provided by operating activities” if operations increase cash, or “Net cash used
+by operating activities” if operations decrease cash.
+4 IFRS Accounting Trends and Techniques reports that out of its 175 surveyed companies, 151 used the
+indirect method and 23 used the direct method. One company did not provide a statement of cash
+flows. In doing homework assignments, you should follow instructions for use of either the direct
+or indirect method.
+
+--- Page 2191 ---
+5 Other unrealized holding gains or losses, such as revaluations on property, plant, and equipment, or
+intangible assets, are also reported as part of other comprehensive income. As a result, net income is
+not adjusted in computing cash flows from operating activities for any type of unrealized holding
+gains or losses that are reported in other comprehensive income.
+6 In some countries, companies receive a tax deduction related to share-based compensation plans at
+the time employees exercise their options. The amount of the deduction is equal to the difference
+between the market price of the share and the exercise price at the date the employee purchases the
+shares, which in most cases is much larger than the total compensation expense recorded. When the
+tax deduction exceeds the total compensation recorded, this provides an additional cash inflow to
+the company. Under IFRS, this tax-related cash inflow should be reported in the financing section of
+the statement of cash flows. [7]
+7 Some non-cash investing and financing activities are part cash and part non-cash. Companies should
+report only the cash portion on the statement of cash flows. The non-cash component should be
+reported in a separate note. A study of significant non-cash investing and financing activities found
+that the effects of these transactions—debt issued for capital assets and capital lease financing of
+capital assets—can have a significant effect on analysts’ assessments of capital expenditures and free
+cash flow. Given the importance of non-cash capital expenditures to calculations of free cash flow,
+the authors encourage the IASB to revise its stance regarding the exclusion of all non-cash activities
+from the statement of cash flows. See C. Mulford and H. Nicholson, “Measuring the Effects of Non-
+Cash Investing and Financing Activities,” Journal of Applied Research in Accounting and Finance
+(Vol. 9, No. 1, 2014), pp. 27–43.
+8 As part of its Primary Financial Statements project, the IASB is considering elimination of options for
+the reporting of interest and dividends paid or received. See the IFRS website for more information
+on the Primary Financial Statements project.
+Source: Adapted from James A. Largay III and Clyde P. Stickney, “Cash Flows, Ratio Analysis, and the W. T. Grant Company
+Bankruptcy,” Financial Analysts Journal (July–August 1980), p. 51; D. Fisher, “Cash Doesn’t Lie,” Forbes (April 12, 2010), pp. 52–55;
+and C. Grant, “The Clock Is Ticking Faster at Tesla,” Wall Street Journal (March 28, 2018).
+
+--- Page 2192 ---

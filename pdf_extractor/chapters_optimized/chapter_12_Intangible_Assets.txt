@@ -1,0 +1,2128 @@
+CHAPTER 12
+Intangible Assets
+LEARNING OBJECTIVES
+After studying this chapter, you should be able to:
+1. Discuss the characteristics, valuation, and amortization of
+intangible assets.
+2. Describe the accounting for various types of intangible assets.
+3. Explain the accounting issues for recording goodwill.
+4. Identify impairment procedures and presentation
+requirements for intangible assets.
+5. Describe the accounting and presentation for research and
+development and similar costs.
+
+This chapter also includes numerous conceptual
+discussions that are integral to the topics presented here.
+PREVIEW OF CHAPTER 12
+As the following opening story indicates, sustainability strategies
+are taking on increased importance for companies like SAP (DEU)
+and Alcatel Lucent Enterprise (FRA). Reporting challenges for
+effective sustainability investments are similar to those for
+intangible assets. In this chapter, we explain the basic conceptual
+and reporting issues related to intangible assets. The content and
+organization of the chapter are as follows.
+Is This Sustainable?
+Companies are increasing their focus on sustainability issues.
+Companies like Alcatel Lucent Enterprise (FRA), China
+Southern Power Grid Co. (CHN), and Clorox (USA) are
+implementing strategic initiatives such as fuel-spill control, use of
+recycled materials, and water conservation in efforts to support long-
+term objectives related to responsible management of resource use.
+Why the growing importance of sustainability? One important reason
+is that market participants are increasingly looking to invest in
+companies that are pursuing sustainability strategies.
+
+For example, as indicated in the adjacent graph, global sustainability
+investments have increased from below $10 trillion in 2006 to over
+$70 trillion in 2017.
+In response, companies are now providing more useful “non-
+financial” information about the future cash flow consequences of
+sustainability strategies. Many companies are exploring ways to
+combine this non-financial information with mandated disclosures in
+what is called an integrated report. In such a report, a company
+discloses data on numerous metrics beyond conventional financial
+statements, whether the data are “integrated” or released in a separate
+format. Practitioners collectively refer to sustainability reporting as
+ESG, for the three major categories of data: environmental, social, and
+company governance.
+While a growing number of companies are issuing sustainability
+reports, there is significant variation in the content and format. Only a
+handful, like those prepared by Clorox (USA), SAP (DEU), and
+Polymer Group Inc. (USA), integrate a sustainability report with
+the financial statements. Standards to ensure useful information on
+ESG issues are being developed by the International Integrated
+Reporting Council and the Sustainability Accounting
+Standards Board. And with the emergence of sustainability and
+integrated reporting standards, companies are voluntarily seeking
+assurance that their sustainability reports are meeting these
+standards. For example, over half of the world’s largest companies
+
+recently reporting on sustainability also invested in external
+assurance for their reports. With standards and assurance, it is hoped
+that sustainability reports will gain the same credibility as the
+financial statements.
+Review and Practice
+Go to the Review and Practice section at the end of the chapter
+for a targeted summary review and practice problem with solution.
+Multiple-choice questions with annotated solutions, as well as
+additional exercises and practice problem with solutions, are also
+available online.
+Intangible Asset Issues
+LEARNING OBJECTIVE 1
+Discuss the characteristics, valuation, and amortization of
+intangible assets.
+Characteristics
+Christian Dior’s (FRA) most important asset is its brand image, not
+its store fixtures. The Coca-Cola Company’s (USA) success comes
+from its secret formula for making Coca-Cola, not its plant facilities.
+The world economy is dominated by information and service
+providers. For these companies, their major assets are often intangible
+in nature.
+What exactly are intangible assets? Intangible assets have three
+main characteristics. [1] (See the Authoritative Literature References
+section near the end of the chapter.)
+1. They are identifiable. To be identifiable, an intangible asset
+must either be separable from the company (can be sold or
+transferred), or it arises from a contractual or legal right from
+which economic benefits will flow to the company.
+
+2. They lack physical existence. Tangible assets such as
+property, plant, and equipment have physical form. Intangible
+assets, in contrast, derive their value from the rights and
+privileges granted to the company using them.
+3. They are not monetary assets. Assets such as bank deposits,
+accounts receivable, and long-term investments in bonds and
+shares also lack physical substance. However, monetary assets
+derive their value from the right (claim) to receive cash or cash
+equivalents in the future. Monetary assets are not classified as
+intangibles.
+In most cases, intangible assets provide benefits over a period of
+years. Therefore, companies normally classify them as non-current
+assets.
+Valuation
+Purchased Intangibles
+Companies record at cost intangibles purchased from another party.
+Cost includes all acquisition costs plus expenditures to make the
+intangible asset ready for its intended use. Typical costs include
+purchase price, legal fees, and other incidental expenses.
+Sometimes companies acquire intangibles in exchange for shares or
+other assets. In such cases, the cost of the intangible is the fair
+value of the consideration given or the fair value of the
+intangible received, whichever is more clearly evident. What if
+a company buys several intangibles, or a combination of intangibles
+and tangibles? In such a “basket purchase,” the company should
+allocate the cost on the basis of relative fair values. Essentially, the
+accounting treatment for purchased intangibles closely parallels that
+for purchased tangible assets.1
+Internally Created Intangibles
+Businesses frequently incur costs on a variety of intangible resources,
+such as scientific or technological knowledge, market research,
+
+intellectual property, and brand names. These costs are commonly
+referred to as research and development (R&D) costs. Intangible
+assets that might arise from these expenditures include patents,
+computer software, copyrights, and trademarks. For example, Nokia
+(FIN) incurred R&D costs to develop its communications equipment,
+resulting in patents related to its technology. In determining the
+accounting for these costs, Nokia must determine whether its R&D
+project is at a sufficiently advanced stage to be considered
+economically viable. To perform this assessment, Nokia evaluates
+costs incurred during the research phase and the development
+phase.
+Illustration 12.1 indicates the two stages of research and
+development activities, along with the accounting treatment for costs
+incurred during these phases.
+ILLUSTRATION 12.1 Research and Development Stages
+As indicated, all costs incurred in the research phase are expensed as
+incurred. Once a project moves to the development phase, certain
+development costs are capitalized. Specifically, development costs are
+capitalized when certain criteria are met, indicating that an
+economically viable intangible asset will result from the R&D project.
+In essence, economic viability indicates that the project is far
+enough along in the process such that the economic benefits of the
+R&D project will flow to the company. Therefore, development costs
+incurred from that point forward meet the recognition criteria and
+should be recorded as an intangible asset (see Underlying
+Concepts).
+
+Underlying Concepts
+The controversy surrounding the accounting for R&D expenditures
+reflects a debate about whether such expenditures meet the
+definition of an asset. If so, then an “expense all research and
+some development costs” policy results in overstated expenses and
+understated assets.
+In summary, companies expense all research phase costs and
+some development phase costs. Certain development costs
+are capitalized once economic viability criteria are met. IFRS
+identifies several specific criteria that must be met before
+development costs are capitalized (which we discuss in more detail
+later in the chapter).2
+Amortization of Intangibles
+The allocation of the cost of intangible assets in a systematic way is
+called amortization. Intangibles have either a limited (finite)
+useful life or an indefinite useful life. For example, a company
+like Disney (USA) has both types of intangibles. Disney amortizes
+its limited-life intangible assets (e.g., copyrights on its movies and
+licenses related to its branded products). It does not amortize
+indefinite-life intangible assets (e.g., the Disney trade name or its
+Internet domain name).
+Limited-Life Intangibles
+Companies amortize their limited-life intangibles by systematic
+charges to expense over their useful life. The useful life should reflect
+the periods over which these assets will contribute to cash flows.
+Disney, for example, considers these factors in determining useful
+lives:
+1. The expected use of the asset by the company.
+2. The effects of obsolescence, demand, competition, and other
+economic factors. Examples include the stability of the industry,
+
+known technological advances, legislative action that results in an
+uncertain or changing regulatory environment, and expected
+changes in distribution channels.
+3. Any provisions (legal, regulatory, or contractual) that enable
+renewal or extension of the asset’s legal or contractual life
+without substantial cost. This factor assumes that there is
+evidence to support renewal or extension. Disney also must be
+able to accomplish renewal or extension without material
+modifications of the existing terms and conditions.
+4. The level of maintenance expenditure required to obtain the
+expected future cash flows from the asset. For example, a
+material level of required maintenance in relation to the carrying
+amount of the asset may suggest a very limited useful life.
+5. Any legal, regulatory, or contractual provisions that may limit the
+useful life.
+6. The expected useful life of another asset or a group of assets to
+which the useful life of the intangible asset may relate (such as
+lease rights to a studio lot). [3]
+The amount of amortization expense for a limited-life intangible asset
+should reflect the pattern in which the company consumes or uses up
+the asset, if the company can reliably determine that pattern. For
+example, assume that Second Wave Ltd. purchases a license to
+provide a specified quantity of a gene product called Mega. Second
+Wave should amortize the cost of the license following the pattern of
+use of Mega. If Second Wave’s license calls for it to provide 30 percent
+of the total the first year, 20 percent the second year, and 10 percent
+per year until the license expires, it would amortize the license cost
+using that pattern. If it cannot determine the pattern of production or
+consumption, Second Wave should use the straight-line method of
+amortization. (For homework problems, assume the use of the
+straight-line method unless stated otherwise.) When Second Wave
+amortizes this license, it should show the charges as
+expenses. It should credit either the appropriate asset
+accounts or separate accumulated amortization accounts.
+
+The amount of an intangible asset to be amortized should be its cost
+less residual value. The residual value is assumed to be zero, unless at
+the end of its useful life the intangible asset has value to another
+company. For example, if Hardy Co. purchases an intangible asset
+from U2D Co., U2D Co. should reduce the cost of its intangible asset
+by the residual value (when computing amortization). Similarly, U2D
+Co. should consider fair values, if reliably determinable, for the
+residual.
+IFRS requires companies to assess the estimated residual values and
+useful lives of intangible assets at least annually. What happens if the
+life of a limited-life intangible asset changes? In that case, the
+remaining carrying amount should be amortized over the revised
+remaining useful life (see Underlying Concepts). Companies must
+also evaluate the limited-life intangibles annually to determine if
+there is an indication of impairment. If there is indication of
+impairment, an impairment test is performed.
+Underlying Concepts
+The terms “carrying amount,” “carrying value,” and “book value”
+are all used to refer to the cost less accumulated amortization of
+an intangible asset.
+An impairment loss should be recognized for the amount that the
+carrying amount of the intangible is greater than the recoverable
+amount. Recall that the recoverable amount is the greater of the fair
+value less costs to sell or value-in-use. (We will cover impairment of
+intangibles in more detail later in the chapter.)
+Indefinite-Life Intangibles
+If no factors (legal, regulatory, contractual, competitive, or other)
+limit the useful life of an intangible asset, a company considers its
+useful life indefinite. An indefinite life means that there is no
+foreseeable limit on the period of time over which the intangible asset
+is expected to provide cash flows. A company does not amortize an
+intangible asset with an indefinite life. To illustrate, assume that
+
+Double Clik Group acquired a trademark that it uses to distinguish a
+leading consumer product. It renews the trademark every 10 years. All
+evidence indicates that this trademark product will generate cash
+flows for an indefinite period of time. In this case, the trademark has
+an indefinite life; Double Clik does not record any amortization.
+Companies also must test indefinite-life intangibles for impairment
+at least annually. The impairment test for indefinite-life intangibles
+is similar to the one for limited-life intangibles. That is, an
+impairment loss should be recognized for the amount that the
+carrying amount of the indefinite-life intangible asset is greater than
+the recoverable amount.3
+Illustration 12.2 summarizes the accounting treatment for
+intangible assets.4
+Manner Acquired
+Type of
+Intangible Purchased
+Internally
+Created
+Amortization
+Impairment
+Test
+Limited-
+life
+intangibles
+Capitalize Expense*
+Over useful
+life
+Compare
+recoverable
+amount to
+carrying
+value.
+Indefinite-
+life
+intangibles
+Capitalize Expense*
+Do not
+amortize
+Compare
+recoverable
+amount to
+carrying
+value.
+*Except for certain limited
+costs that meet recognition
+criteria.
+ILLUSTRATION 
+Accounting 
+Treatment 
+for
+Intangibles
+
+Types of Intangible Assets
+LEARNING OBJECTIVE 2
+Describe the accounting for various types of intangible assets.
+There are many different types of intangibles, often classified into the
+following six major categories. [5]
+1. Marketing-related intangible assets.
+2. Customer-related intangible assets.
+3. Artistic-related intangible assets.
+4. Contract-related intangible assets.
+5. Technology-related intangible assets.
+6. Goodwill.
+Marketing-Related Intangible Assets
+Companies primarily use marketing-related intangible assets in
+the marketing or promotion of their products or services. Examples
+are trademarks or trade names, newspaper mastheads, Internet
+domain names, and non-competition agreements.
+A trademark or trade name is a word, phrase, or symbol that
+distinguishes or identifies a particular company or product. Trade
+names like Mercedes-Benz, Pepsi-Cola, Honda, Cadbury Eggs,
+Wheaties, and Ikea create immediate product identification in our
+minds, thereby enhancing marketability. A recent expansion of
+Internet domain names will allow industries to use terms like .cars or
+even Web slang like .lol. This expansion has led to a new wave of
+domain-name activity. For a substantial fee, companies can register
+their own domain names; applications received include company
+names such as Sony (JPN) (which would have the name .sony) and
+for city-based domains such as .NYC and .Berlin.
+
+Under common law, the right to use a trademark or trade name,
+whether registered or not, rests exclusively with the original user as
+long as the original user continues to use it. For example, in the
+United States, registration with the U.S. Patent and Trademark Office
+provides legal protection for an indefinite number of renewals for
+periods of 10 years each.5 Therefore, a company that uses an
+established trademark or trade name may properly consider it to have
+an indefinite life and does not amortize its cost.
+If a company buys a trademark or trade name, it capitalizes the cost at
+the purchase price. If a company develops a trademark or trade name,
+it capitalizes costs related to securing it, such as attorney fees,
+registration fees, design costs, and consulting fees. However, it
+excludes research costs and development costs that do not meet
+recognition criteria. When the total cost of a trademark or trade name
+is insignificant, a company simply expenses it.
+It is not uncommon for companies to incur legal fees and other costs
+to protect their valuable trade names and other intangible assets (e.g.,
+copyrights and patents, discussed in the next two sections) (see
+“Patent Battles” in the “What Do the Numbers Mean?” box). In
+general, IFRS does not allow capitalization of these subsequent
+expenditures. The reason? The IASB indicates that subsequent
+expenditures likely only maintain the expected future economic
+benefits of the existing intangible asset, rather than enhancing its
+value or creating a new intangible asset. [6]
+Customer-Related Intangible Assets
+Customer-related intangible assets result from interactions with
+outside parties. Examples include customer lists, order or production
+backlogs, and both contractual and non-contractual customer
+relationships.
+To illustrate, assume that Green Market AG acquires the customer list
+of a large newspaper for €6,000,000 on January 1, 2022. This
+customer database includes names, contact details, order history, and
+demographic information. Green Market expects to benefit from the
+information evenly over a three-year period. In this case, the customer
+
+list is a limited-life intangible that Green Market should amortize on a
+straight-line basis.
+Green Market records the purchase of the customer list and the
+amortization of the customer list at the end of each year as follows.
+The preceding example assumed no residual value for the customer
+list. But what if Green Market determines that it can sell the list for
+€60,000 to another company at the end of three years? In that case,
+Green Market should subtract this residual value from the cost in
+order to determine the amortization expense for each year.
+Amortization expense would be €1,980,000 per year, as shown in
+Illustration 12.3.
+Cost
+Residual value
+Amortization base
+Amortization expense per period: €1,980,000
+(€5,940,000 ÷ 3)
+ILLUSTRATION 12.3 Calculation of Amortization Expense
+with Residual Value
+Companies should assume a zero residual value unless the asset’s
+useful life is less than the economic life and reliable evidence is
+available concerning the residual value. [7]
+Artistic-Related Intangible Assets
+Artistic-related intangible assets involve ownership rights to
+plays, literary works, musical works, pictures, photographs, and video
+
+and audiovisual material. Copyrights protect these ownership rights.
+A copyright is a government-granted right that all authors, painters,
+musicians, sculptors, and other artists have in their creations and
+expressions. A copyright is granted for the life of the creator plus
+70 years.6 It gives the owner or heirs the exclusive right to reproduce
+and sell an artistic or published work. Copyrights are not renewable.
+Copyrights can be valuable. In the late 1990s, Disney (USA) faced the
+loss of its copyright on Mickey Mouse, which could have affected sales
+of billions of dollars of Mickey-related goods and services (including
+theme parks). This copyright was so important that Disney and many
+other big entertainment companies fought all the way to the U.S.
+Supreme Court—and won an extension of copyright lives from 50 to
+70 years.
+As another example, Really Useful Group (USA) owns copyrights
+on the musicals of Andrew Lloyd Webber—Cats, Phantom of the
+Opera, Jesus Christ Superstar, and others. Really Useful Group has
+little in the way of tangible assets, yet analysts value the company at
+over $300 million.
+Companies capitalize the costs of acquiring a copyright. They amortize
+any capitalized costs over the useful life of the copyright if less than
+its legal life (life of the creator plus 70 years). For example, Really
+Useful Group should allocate the costs of its copyrights to the years in
+which it expects to receive the benefits. The difficulty of determining
+the number of years over which it will receive benefits typically
+encourages a company like Really Useful Group to write off these
+costs over a fairly short period of time. Companies must expense all
+research costs and any development costs not meeting recognition
+criteria that lead to a copyright as those costs are incurred.
+Contract-Related Intangible Assets
+Contract-related intangible assets represent the value of rights
+that arise from contractual arrangements. Examples are franchise and
+licensing agreements, construction permits, broadcast rights, and
+service or supply contracts.
+
+A franchise is a contractual arrangement under which the franchisor
+grants the franchisee the right to sell certain products or services, to
+use certain trademarks or trade names, or to perform certain
+functions, usually within a designated geographical area. When you
+purchase a Prius from a Toyota (JPN) dealer, fill up your tank at the
+corner Shell (NLD) station, or eat lunch at a McDonald’s (USA)
+restaurant, you are most likely dealing with franchises.
+The franchisor, having developed a unique concept or product,
+protects its concept or product through a patent, copyright, or
+trademark or trade name. The franchisee acquires the right to exploit
+the franchisor’s idea or product by signing a franchise agreement.
+Another type of franchise arrangement, granted by a governmental
+body, permits a business to use public property in performing its
+services. Examples are the use of city streets for a bus line or taxi
+service; the use of public land for telephone, electric, or cable
+television lines; and the use of airwaves for radio or TV broadcasting.
+Such operating rights are referred to as licenses or permits.
+Franchises and licenses may be for a definite period of time, for an
+indefinite period of time, or perpetual. The company securing the
+franchise or license carries an intangible asset account (entitled
+Franchises or Licenses) on its books, only when it can identify costs
+with the acquisition of the operating right. (Such costs might be legal
+fees or an advance lump-sum payment, for example.) A company
+should amortize the cost of a franchise (or license) with a
+limited life as operating expense over the life of the franchise.
+It should not amortize a franchise with an indefinite life nor a
+perpetual franchise; the company should instead carry such franchises
+at cost.
+Annual payments made under a franchise agreement should be
+entered as operating expenses in the period in which they are
+incurred. These payments do not represent an asset since they do not
+relate to future rights to use the property.
+Technology-Related Intangible Assets
+
+Technology-related intangible assets relate to innovations or
+technological advances. Examples are patented technology and trade
+secrets granted by a governmental body.
+In many countries, a patent gives the holder exclusive right to use,
+manufacture, and sell a product or process for a period of 20 years
+without interference or infringement by others.7 Companies such as
+Merck (USA) and Canon (JPN) were founded on patents and built
+on the exclusive rights thus granted.8 The two principal kinds of
+patents are product patents, which cover actual physical products,
+and process patents, which govern the process of making products.
+If a company like Samsung (KOR) purchases a patent from an
+inventor, the purchase price represents its cost. Samsung can
+capitalize other costs incurred in connection with securing a patent,
+such as registration and attorneys’ fees. However, it must expense
+all research costs and any development costs incurred before
+achieving economic viability related to the development of the
+product, process, or idea that it subsequently patents.
+Companies should amortize the cost of a patent over its legal life or its
+useful life (the period in which benefits are received), whichever is
+shorter. If Samsung owns a patent from the date it is granted and
+expects the patent to be useful during its entire legal life, the company
+should amortize it over 20 years. If it appears that the patent will be
+useful for a shorter period of time, say, for five years, it should
+amortize its cost over five years.
+Changing demand, new inventions superseding old ones, inadequacy,
+and other factors often limit the useful life of a patent to less than the
+legal life. For example, the useful life of pharmaceutical patents is
+frequently less than the legal life because of the testing and approval
+period that follows their issuance. A typical drug patent has several
+years knocked off its 20-year legal life. Why? Because, in the United
+States, a drugmaker spends one to four years on animal tests, four to
+six years on human tests, and two to three years for the U.S. Food and
+Drug Administration to review the tests. All this time occurs after
+issuing the patent but before the product goes on pharmacists’
+shelves.
+
+What Do the Numbers Mean?
+Patent Battles
+The smartphone industry has been a patent battleground. For
+example, Nokia (FIN) filed patent lawsuits against Apple (USA),
+and Apple countersued, over such cell phone features as swiping
+gestures on touch screens and the “app store” for downloading
+software. Apple also targeted HTC (TWN) for infringing on
+Apple’s patented feature that allows screens to detect more than
+one finger touch at a time. This facilitates the popular zoom-in and
+zoom-out capability. HTC, in turn, sued Apple for infringing on
+patented technology that helps extend battery life.
+With respect to popular apps used on smartphones, BlackBerry
+(CAN) sued Facebook (USA), alleging that the Facebook apps
+WhatsApp and Instagram co-opted BlackBerry’s intellectual
+property. This property includes the very features that users
+demand in these apps, explaining why BlackBerry would go to
+these legal lengths to protect its patents.
+The activity-tracker product space is another patent battleground.
+Competition in that market heated up when Under Armour
+(USA) paid $150 million to acquire MapMyFitness (USA), which
+had 20 million people registered to use its websites and mobile
+applications to map, record, and share their workouts. To protect
+the value of the patent related to its miCoach (USA) fitness
+tracking system, adidas AG (DEU) sued Under Armour to protect
+its 10 patents, underscoring the growing importance of gadgetry
+and personal technology for sportswear makers that traditionally
+focused on shoes and apparel.
+Sources: J. Mintz, “Smart Phone Makers in Legal Fights over Patents,” Wisconsin
+State Journal (December 19, 2010), p. F4; S. Germano, “adidas Sues Under Armour
+Over Patents: Company Alleges Under Armour Infringes on 10 miCoach Patents,” Wall
+Street Journal (February 4, 2014); and D. George-Cosh, “BlackBerry Brings Patent
+Case Against Facebook, WhatsApp and Instagram,” Wall Street Journal (March 6,
+
+Amortization expense should reflect the pattern, if reliably
+determined, in which a company uses up the patent.9 A company may
+credit amortization of patents directly to the Patents account or to an
+Accumulated Patent Amortization account. To illustrate, assume that
+Harcott Co. incurs $180,000 in legal costs on January 1, 2022, to
+secure a patent. The patent’s useful life is 10 years, amortized on a
+straight-line basis. Harcott records the legal fees and the amortization
+at the end of 2022 as follows.
+We’ve indicated that a patent’s useful life should not extend beyond
+its legal life of 20 years. However, companies often make small
+modifications or additions that lead to a new patent. For example,
+AstraZeneca plc (GBR) filed for additional patents on minor
+modifications to its heartburn drug, Prilosec. The effect may be to
+extend the life of the old patent. If the new patent provides essentially
+the same benefits, AstraZeneca can apply the unamortized costs of the
+old patent to the new patent.
+Alternatively, if a patent becomes impaired because demand drops for
+the product, the asset should be written down or written off
+immediately to expense.
+
+What Do the Numbers Mean?
+Patents—Strategic Lifeblood
+Are patents valuable assets, even though they are intangible? Let’s
+take a look at BASF (DEU), a leading international chemical
+company. Here is the BASF strategy statement regarding
+innovation:
+“Innovations based on effective and efficient research and
+development are an important growth engine for BASF…. This is
+how we ensure our long-term business success with chemistry-
+based solutions for almost all sectors of industry.”
+And BASF acts on this strategy through expenditures on research
+and development, which many times lead to valuable patents. For
+example in a recent year, BASF spent €1,426 million on research
+and development (that’s 30 percent of net income), and product
+innovation alone (from products on the market since 2013)
+generated €9 billion in sales. In that year alone, BASF filed 900
+new patents worldwide.
+Because patented technology is so important to BASF’s success, it
+is not surprising that it provides expansive disclosure of patent-
+related information in its financial statements. Adjacent is an
+excerpt, from the note disclosure.
+This development schedule for know-how intangible assets
+(sometimes referred to as a “roll-forward”) provides reconciliation
+of the changes in the intangible asset account. This information is
+important for understanding the magnitude of this important
+intangible asset and how it changed during the period. Note that
+BASF’s total intangible assets decreased during the year and that
+there was a net decrease in its patent balance. This would be
+something to watch, given the importance of patented innovations
+in the BASF strategy.
+Assets
+Intangible assets
+
+11—INTANGIBLE ASSETS (in part)
+Acquisition costs
+Know-how, patents and production
+technology
+Balance as of January 1,
+Additions, net
+Disposals/Transfers
+Exchange differences,
+other
+Balance as of December
+Accumulated amortization
+Net carrying value
+Goodwill
+LEARNING OBJECTIVE 3
+Explain the accounting issues for recording goodwill.
+Although companies may capitalize certain costs incurred in
+developing specifically identifiable assets such as patents and
+copyrights, the amounts capitalized are generally insignificant. But
+companies do record material amounts of intangible assets when
+purchasing intangible assets, particularly in situations involving a
+business combination (the purchase of another business).
+To illustrate, assume that Portofino Company decides to purchase
+Aquinas Company. In this situation, Portofino measures the assets
+acquired and the liabilities assumed at fair value. In measuring these
+assets and liabilities, Portofino must identify all the assets and
+liabilities of Aquinas. As a result, Portofino may recognize some assets
+
+or liabilities not previously recognized by Aquinas. For example,
+Portofino may recognize intangible assets such as a brand name,
+patent, or customer list that were not recorded by Aquinas. In this
+case, Aquinas may not have recognized these assets because they were
+developed internally and charged to expense.10
+In many business combinations, the purchasing company records
+goodwill. Goodwill is measured as the excess of the cost of the
+purchase over the fair value of the identifiable net assets (assets less
+liabilities) purchased. For example, if Portofino paid $2,000,000 to
+purchase Aquinas’s identifiable net assets (with a fair value of
+$1,500,000), Portofino records goodwill of $500,000. Goodwill is
+therefore measured as a residual rather than measured directly. That
+is why goodwill is sometimes referred to as a plug, a gap filler, or a
+master valuation account.
+Conceptually, goodwill represents the future economic benefits
+arising from the other assets acquired in a business combination that
+are not individually identified and separately recognized. It is often
+called “the most intangible of the intangible assets” because it is
+identified only with the business as a whole. The only way to sell
+goodwill is to sell the business.
+Recording Goodwill
+Internally Created Goodwill
+Goodwill generated internally should not be capitalized in
+the accounts. The reason? Measuring the components of goodwill is
+simply too complex, and associating any costs with future benefits is
+too difficult. The future benefits of goodwill may have no relationship
+to the costs incurred in the development of that goodwill. To add to
+the mystery, goodwill may even exist in the absence of specific costs
+to develop it. Finally, because no objective transaction with outside
+parties takes place, a great deal of subjectivity—even
+misrepresentation—may occur (see Underlying Concepts).
+
+Underlying Concepts
+Capitalizing goodwill only when it is purchased in an arm’s-length
+transaction, and not capitalizing any goodwill generated internally,
+is another example of faithful representation (and verifiability)
+winning out over relevance.
+Purchased Goodwill
+As indicated earlier, goodwill is recorded only when an entire
+business is purchased. To record goodwill, a company compares
+the fair value of the net tangible and identifiable intangible assets
+with the purchase price (cost) of the acquired business. The difference
+is considered goodwill. Goodwill is the residual—the excess of
+cost over fair value of the identifiable net assets acquired.
+To illustrate, Feng, Inc. decides that it needs a parts division to
+supplement its existing tractor distributorship. The president of Feng
+is interested in buying Tractorling SA, a small concern in São Paulo,
+Brazil. Illustration 12.4 presents Tractorling’s statement of financial
+position.
+Tractorling SA
+Statement of Financial Position
+As of December 31, 2022
+Assets
+Equity and Liabilities
+Property, plant, and
+equipment, net
+$153,000 Share capital
+Inventory
+42,000 Retained earnings
+Accounts receivable
+35,000 Current liabilities
+Cash
+ 
+Total assets
+Total equity and
+liabilities
+ILLUSTRATION 12.4 Tractorling Statement of Financial
+Position
+
+After considerable negotiation, Tractorling decides to accept Feng’s
+offer of $400,000. What, then, is the value of the goodwill, if any?
+The answer is not obvious. Tractorling’s historical cost-based
+statement of financial position does not disclose the fair values of its
+identifiable assets. Suppose, though, that as the negotiations progress,
+Feng investigates Tractorling’s underlying assets to determine their
+fair values. Such an investigation may be accomplished either through
+a purchase audit undertaken by Feng or by an independent appraisal
+from some other source. The investigation determines the valuations
+shown in Illustration 12.5.
+Fair Values
+Property, plant, and equipment, net $205,000
+Patents
+Inventory
+Accounts receivable
+Cash
+Liabilities
+Fair value of net assets
+ILLUSTRATION 12.5 Fair Value of Tractorling’s Net Assets
+Normally, differences between fair value and book value are more
+common among non-current assets than among current assets. Cash
+obviously poses no problems as to value. Receivables normally are
+fairly close to current valuation although they may at times need
+certain adjustments due to inadequate bad debt provisions. Liabilities
+usually are stated at book value. However, if interest rates have
+changed since the company incurred the liabilities, a different
+valuation (such as present value based on expected cash flows) is
+appropriate. Careful analysis must be made to determine that no
+unrecorded liabilities are present.
+The $80,000 difference in Tractorling’s inventories ($122,000 –
+$42,000) could result from a number of factors. The most likely is
+that the company uses the average-cost method. Recall that during
+
+periods of inflation, average-cost will result in lower inventory
+valuations than FIFO.
+In many cases, the values of non-current assets such as property,
+plant, and equipment and intangibles may have increased
+substantially over the years. This difference could be due to inaccurate
+estimates of useful lives, continual expensing of small expenditures
+(say, less than $300), inaccurate estimates of residual values, and the
+discovery of some unrecorded assets. (For example, in Tractorling’s
+case, analysis determines Patents have a fair value of $18,000.) Or,
+fair values may have substantially increased.
+Since the investigation now determines the fair value of net assets to
+be $350,000, why would Feng pay $400,000? Undoubtedly,
+Tractorling points to its established reputation, good credit rating, top
+management team, and well-trained employees, as well as synergies
+and cost savings in the combined entity. These factors make the value
+of the business greater than $350,000. Feng places a premium on the
+future earning power of these attributes as well as on the basic asset
+structure of the company today.
+Feng labels the difference between the purchase price of
+$400,000 and the fair value of $350,000 as goodwill.
+Goodwill is viewed as one or a group of unidentifiable values
+(intangible assets), the cost of which “is measured by the difference
+between the cost of the group of assets or enterprise acquired and the
+sum of the assigned costs of individual tangible and identifiable
+intangible assets acquired less liabilities assumed.”11 This procedure
+for valuation is called a master valuation approach. It assumes
+goodwill covers all the values that cannot be specifically identified
+with any identifiable tangible or intangible asset. Illustration 12.6
+shows this approach.
+
+ILLUSTRATION 12.6 Determination of Goodwill—Master
+Valuation Approach
+Feng records this transaction as follows.
+Property, Plant, and Equipment 205,000
+Patents
+Inventory
+Accounts receivable
+Cash
+Goodwill
+Liabilities
+Cash
+Companies often identify goodwill on the statement of financial
+position as the excess of cost over the fair value of the net assets
+acquired.
+Goodwill Write-Off
+Companies that recognize goodwill in a business combination
+consider it to have an indefinite life and therefore should not
+amortize it. Although goodwill may decrease in value over time,
+predicting the actual life of goodwill and an appropriate pattern of
+amortization is extremely difficult. In addition, investors find the
+amortization charge of little use in evaluating financial performance.
+Furthermore, the investment community wants to know the amount
+invested in goodwill, which often is the largest intangible asset on a
+
+company’s statement of financial position. Therefore, companies
+adjust its carrying value only when goodwill is impaired. This
+approach significantly impacts the income statements of some
+companies.
+Some believe that goodwill’s value eventually disappears. Therefore,
+they argue, companies should charge goodwill to expense over the
+periods affected, to better match expense with revenues. Others note
+that the accounting treatment for purchased goodwill and goodwill
+created internally should be consistent. They point out that companies
+immediately expense goodwill created internally and should follow
+the same treatment for purchased goodwill. Though these arguments
+may have some merit, non-amortization of goodwill combined with an
+adequate impairment test should provide the most useful financial
+information to the investment community. We discuss the accounting
+for goodwill impairments later in the chapter.
+Bargain Purchase
+In a few cases, the purchaser in a business combination pays less than
+the fair value of the identifiable net assets. Such a situation is referred
+to as a bargain purchase. A bargain purchase results from a market
+imperfection, that is, the seller would have been better off to sell the
+assets individually than in total. However, situations do occur (e.g., a
+forced liquidation or distressed sale due to the death of a company
+founder) in which the purchase price is less than the value of the net
+identifiable assets. This excess amount is recorded as a gain by
+the purchaser. [11]
+The IASB notes that an economic gain is inherent in a bargain
+purchase. The purchaser is better off by the amount by which the fair
+value of what is acquired exceeds the amount paid. As an example, the
+recently proposed merger between Deutsche Bank (DEU) and
+Commerzbank (DEU) was asserted to depend on the ability of the
+merged bank to realize a “badwill” gain of over €16 billion.12 Some
+expressed concern that some companies may attempt inappropriate
+gain recognition by making an intentional error in measurement of
+the assets or liabilities. As a result, the IASB requires companies to
+
+disclose the nature of this gain transaction. Such disclosure will help
+users to better evaluate the quality of the earnings reported.
+Impairment and Presentation of Intangible
+Assets
+LEARNING OBJECTIVE 4
+Identify impairment procedures and presentation requirements
+for intangible assets.
+An intangible asset is impaired when a company is not able to
+recover the asset’s carrying amount either through using it or by
+selling it. As discussed in Chapter 11, to determine whether a long-
+lived asset (property, plant, and equipment or intangible assets) is
+impaired, a review is made of the asset’s cash-generating ability
+through use or sale. If the carrying amount is higher than the
+recoverable amount, the difference is an impairment loss. If the
+recoverable amount is greater than the carrying amount, no
+impairment is recorded. [12] The specific procedures for recording
+impairments depend on the type of intangible asset—limited-life or
+indefinite-life (including goodwill).
+Impairment of Limited-Life Intangibles
+The rules that apply to impairments of property, plant, and
+equipment also apply to limited-life intangibles. At each
+statement of financial position date, a company should review limited-
+life intangibles for impairment. Information indicating that an
+impairment test should be performed might be internal (e.g., adverse
+changes in performance) or external (e.g., adverse changes in the
+business or regulatory environment, or technological or competitive
+developments). If there is an indication that an intangible asset is
+impaired, the company performs an impairment test: compare the
+carrying value of the intangible asset to the recoverable amount.
+
+Recall that the recoverable amount is defined as the higher of fair
+value less costs to sell or value-in-use. Fair value less costs to sell
+means what the asset could be sold for after deducting costs of
+disposal. Value-in-use is the present value of cash flows expected from
+the future use and eventual sale of the asset at the end of its useful
+life. The impairment loss is the carrying amount of the asset less
+the recoverable amount of the impaired asset. As with other
+impairments, the loss is reported in profit or loss. Companies
+generally report the loss in the “Other income and expense” section.
+Illustration 12.7 presents an impairment loss situation.
+
+Impairment Loss on Patent
+Facts: Lerch SE has a patent on how to extract oil from shale rock,
+with a carrying value of €5,000,000 at the end of 2021.
+Unfortunately, several recent non-shale-oil discoveries adversely
+affected the demand for shale-oil technology, indicating that the
+patent is impaired. Lerch determines the recoverable amount for the
+patent, based on value-in-use (because there is no active market for
+the patent). Lerch estimates the patent’s value-in-use at €2,000,000,
+based on the discounted expected net future cash flows at its market
+rate of interest.
+Questions: (a) What is the amount of the impairment? (b)
+What is the journal entry to record the impairment?
+Solution:
+a. The impairment loss is computed as follows (based on value-in
+use).
+Carrying value of patent
+Recoverable amount (based on value-in-use) (2,000,000)
+Loss on impairment
+b. Lerch records this loss as follows.
+Loss on Impairment 3,000,000
+Patents
+After recognizing the impairment, the recoverable amount of
+€2,000,000 is the new carrying amount or book value of the
+patent. Lerch should amortize the patent’s recoverable amount
+(new carrying amount) over its remaining useful life or legal life,
+whichever is shorter.
+
+ILLUSTRATION 12.7 Computation of Loss on Impairment
+of Patent
+Reversal of Impairment Loss
+What happens if a review in a future year indicates that an intangible
+asset is no longer impaired because the recoverable amount of the
+asset is higher than the carrying amount? In that case, the
+impairment loss may be reversed. To illustrate, continuing the Lerch
+patent example, assume that the remaining life of the patent is five
+years with zero residual value. Recall the carrying value of the patent
+after impairment is €2,000,000 (€5,000,000 – €3,000,000). Thus,
+Lerch’s amortization is €400,000 (€2,000,000 ÷ 5) over the
+remaining five years of the patent’s life. The amortization expense and
+related carrying amount after the impairment are shown in
+Illustration 12.8.
+Year
+Amortization
+Expense
+Carrying
+Amount
+(€2,000,000 −
+(€1,600,000 −
+(€1,200,000 −
+400,000 (€800,000 − €400,000)
+0 (€400,000 − €400,000)
+ILLUSTRATION 12.8 Post-Impairment Carrying Value of
+Patent
+Early in 2023, based on improving conditions in the market for shale-
+oil technology, Lerch remeasures the recoverable amount of the
+patent to be €1,750,000. In this case, Lerch reverses a portion of the
+recognized impairment loss with the following entry.
+Patents (€1,750,000 – €1,600,000) 150,000
+
+Recovery of Impairment Loss
+The recovery of the impairment loss is reported in the “Other income
+and expense” section of the income statement. The carrying amount
+of the patent is now €1,750,000 (€1,600,000 + €150,000).13 Assuming
+the remaining life of the patent is four years, Lerch records €437,500
+(€1,750,000 ÷ 4) of amortization expense in 2023.
+Impairment of Indefinite-Life Intangibles Other Than
+Goodwill
+Companies test indefinite-life intangibles (including goodwill) for
+impairment annually.14 The impairment test for indefinite-life assets
+other than goodwill is the same as that for limited-life intangibles.
+That is, compare the recoverable amount of the intangible asset with
+the asset’s carrying value. If the recoverable amount is less than the
+carrying amount, the company recognizes an impairment.
+Illustration 12.9 presents an impairment situation for an indefinite-
+life intangible.
+
+Impairment Loss on License
+Facts: Arcon Radio purchased a broadcast license for €2,000,000.
+The license is renewable every 10 years if the company provides
+appropriate service and does not violate Government
+Communications Commission (GCC) rules. Arcon Radio has renewed
+the license with the GCC twice, at a minimal cost. Because it expects
+cash flows to last indefinitely, Arcon reports the license as an
+indefinite-life intangible asset. Recently, the GCC decided to auction
+these licenses to the highest bidder instead of renewing them. Based
+on recent auctions of similar licenses, Arcon Radio estimates the fair
+value less costs to sell (the recoverable amount) of its license to be
+Question: What is the impairment loss, if any, to be reported
+by Arcon?
+Solution: Arcon reports an impairment loss of €500,000,
+computed as follows.
+Carrying value of broadcast license
+Recoverable amount (based on fair value less costs to
+sell)
+Loss on impairment
+ILLUSTRATION 12.9 Computation of Loss on Impairment
+of Broadcast License
+Guidelines for reversal of impairments similar to those applied to
+limited-life intangible assets are applied to indefinite-life intangible
+assets other than goodwill.
+Impairment of Goodwill
+
+The timing of the impairment test for goodwill is the same as
+that for other indefinite-life intangibles. That is, companies
+must test goodwill at least annually. However, because goodwill
+generates cash flows only in combination with other assets, the
+impairment test is conducted based on the cash-generating unit to
+which the goodwill is assigned. Recall from our discussion in Chapter
+11 that companies identify a cash-generating unit based on the
+smallest identifiable group of assets that generate cash flows
+independently of the cash flows from other assets. Under IFRS, when
+a company records goodwill in a business combination, it must assign
+the goodwill to the cash-generating unit that is expected to benefit
+from the synergies and other benefits arising from the business
+combination.
+To illustrate, assume that Kohlbuy AG has three divisions. It
+purchased one division, Pritt Products, four years ago for €2 million.
+Unfortunately, Pritt experienced operating losses over the last three
+quarters. Kohlbuy management is now reviewing the division (the
+cash-generating unit) for purposes of its annual impairment testing.
+Illustration 12.10 lists the Pritt Division’s net assets, including the
+associated goodwill of €900,000 from the purchase.
+Property, plant, and equipment net
+Goodwill
+Inventory
+Receivables
+Cash
+Accounts and notes payable
+Net assets
+ILLUSTRATION 12.10 Net Assets of Pritt Division,
+Including Goodwill
+Kohlbuy determines the recoverable amount for the Pritt Division to
+be €2,800,000, based on a value-in-use estimate.15 Because the fair
+
+value of the division exceeds the carrying amount of the net
+assets, Kohlbuy does not recognize any impairment.
+However, if the recoverable amount for the Pritt Division were less
+than the carrying amount of the net assets, then Kohlbuy must record
+an impairment. Illustration 12.11 presents the goodwill impairment
+evalation for Kohlbuy.
+Evaluating Goodwill Impairment
+Facts: The carrying value of Kohlbuy’s Pritt Division is €2,400,000
+(including Goodwill of €900,000). The recoverable amount of the
+Pritt Division is €1,900,000.
+Questions: (a) What the impairment loss, if any, should be
+recorded? (b) What journal entry does Kohlbuy make to
+record the impairment loss, if any?
+Solution:
+a. The amount of the impairment loss to be recorded is as
+follows.
+Recoverable amount of Pritt Division € 1,900,000
+Net identifiable assets
+Loss on impairment
+b. Kohlbuy makes the following entry to record the impairment.
+Loss on Impairment 500,000
+Goodwill
+Following this entry, the carrying value of the goodwill is
+ILLUSTRATION 12.11 Evaluation of Goodwill Impairment
+
+If conditions change in subsequent periods, such that the recoverable
+amount of the Pritt Division’s assets other than goodwill exceeds their
+carrying value, Kohlbuy may reverse an impairment loss on the Pritt
+Division assets other than goodwill. Goodwill impairment loss
+reversals are not permitted. [14]16
+Presentation of Intangible Assets
+The reporting of intangible assets is similar to the reporting of
+property, plant, and equipment. However, contra accounts may not be
+shown for intangibles on the statement of financial position.
+As indicated, on the statement of financial position, companies should
+report as a separate item all intangible assets other than goodwill. If
+goodwill is present, companies should report it separately. The IASB
+concluded that since goodwill and other intangible assets differ
+significantly from other types of assets, such disclosure benefits users
+of the statement of financial position.
+On the income statement, companies should present amortization
+expense and impairment losses and reversals for intangible assets
+other than goodwill separately in net income (usually in the operating
+section), as a separate line item.
+The notes to the financial statements should include information
+about acquired intangible assets, including the amortization expense
+for each type of asset. The notes should include information about
+changes in the carrying amount of each type of intangible asset during
+the period.
+Illustration 12.12 shows an excerpt of the intangible asset reporting
+for Nestlé (CHE). Note that Nestlé uses the label “Balance Sheet” for
+its statement of financial position.
+
+ILLUSTRATION 12.12 Nestlé’s Intangible Asset Disclosures
+Research and Development Costs
+LEARNING OBJECTIVE 5
+Describe the accounting and presentation for research and
+development and similar costs.
+
+Research and development (R&D) costs are not in themselves
+intangible assets. However, we present the accounting for R&D costs
+here because R&D activities frequently result in the development of
+patents or copyrights (such as a new product, process, idea, formula,
+composition, or literary work) that may provide future value.
+As indicated in the opening story, many companies spend
+considerable sums on research and development. Illustration 12.13
+shows the outlays for R&D made by selected companies in a recent
+year.
+Company
+Sales
+(in millions) R&D/Sales
+Volkswagen (DEU)
+Samsung (KOR)
+Intel (USA)
+Microsoft (USA)
+Roche (CHE)
+Google (USA)
+Amazon (USA)
+Toyota (JPN)
+Novartis (CHE)
+Johnson & Johnson (USA)
+ILLUSTRATION 12.13 R&D Outlays, as a Percentage of
+Sales
+As discussed earlier, IFRS requires that all research costs be expensed
+as incurred. Development costs are generally expensed as incurred.
+However, once a project moves to the development phase, certain
+development costs are capitalized. Capitalization begins when the
+project is far enough along in the process such that the economic
+benefits of the R&D project will probably flow to the company (the
+project is economically viable).17 For purposes of homework, assume
+that all R&D costs are expensed as incurred unless stated otherwise.
+
+What Do the Numbers Mean?
+Global R&D Incentives
+Research and development investments are the lifeblood of
+product and process developments that lead to future cash flows
+and growth. Countries around the world understand this and as a
+result provide significant incentives in the form of tax credits,
+“super deductions” (deductions greater than 100 percent), and
+company tax rate reductions, including “patent box” rates for
+companies that own and use patents registered in that country.
+The following table provides a summary for seven major
+economies.
+Country
+Statutory
+Tax Rate
+R&D Incentives
+China
+Offers a 150% super deduction and favorable
+tax rates for qualifying companies.
+France
+Offers a variety of R&D incentives including
+refundable tax credits (30% of first €100
+million of R&D expenditure), grants, special
+innovation tax credits, and a patent box
+(income from licensing/sale of patent taxed
+at reduced rate of 17%).
+Ireland
+Offers a 25% incremental credit for all
+expenditure exceeding the “base amount”
+(total qualified expenditure incurred). A 25%
+volume-based credit is applied to all
+qualifying research expenses.
+Japan
+Offers volume-based credits, as well as
+incremental credits for companies that have
+increased their research spending. The tax
+credit ranges from 6–10% of total R&D
+expenditure for large companies.
+Singapore
+Offers super deductions under a complex
+
+multi-tiered system for R&D carried out both
+in Singapore and outside Singapore. Super
+deductions can be as high as 250%.
+United
+Kingdom
+Offers a 130% super deduction or a taxable
+credit of 11% thereafter. Also offers a full
+deduction for capital costs incurred for R&D
+that may be claimed in the year the
+expenditure is incurred rather than
+depreciated.
+United
+States
+Offers choice to report Alternative Simplified
+Credit (14% of excess of qualified research
+expenses) or Traditional Research Tax Credit
+(20% of amount of qualified research
+expenses exceeding a base amount).
+As indicated, there are wide variations in both statutory tax rates
+and R&D incentives. However, tax credits, government incentives,
+and company tax rates may constitute only a fraction of the
+relevant factors a company considers when evaluating
+development centers. In addition, depending on the politics of tax
+provisions, there can be year-to-year uncertainty in company tax
+planning, thereby weakening the effectiveness of such incentives.
+Sources: L. Cutler, D. Sayuk, and Camille Shoff, “Global R&D Incentives Compared,”
+Journal of Accountancy (June 2013); and
+www2.deloitte.com/content/dam/Deloitte/us/Documents/Tax/us-tax-surveyof-
+global-investment-and-innovation-incentives.pdf.
+Identifying R&D Activities
+Illustration 12.14 shows the definitions for research activities
+and development activities. These definitions differentiate research
+and development costs from other similar costs. [16]
+
+ILLUSTRATION 
+Research 
+Activities 
+versus
+Development Activities
+R&D activities do not include routine or periodic alterations to
+existing products, production lines, manufacturing processes, and
+other ongoing operations, even though these alterations may
+represent improvements. For example, routine ongoing efforts to
+refine, enrich, or improve the qualities of an existing product are not
+considered R&D activities.
+Accounting for R&D Activities
+The costs associated with R&D activities and the accounting
+treatments accorded them are as follows.
+1. Materials, equipment, and facilities. Expense the entire
+costs, unless the items have alternative future uses (in
+other projects or otherwise). If there are alternative future uses,
+carry the items as inventory and allocate as consumed, or
+capitalize and depreciate as used.
+2. Personnel. Expense as incurred salaries, wages, and other
+related costs of personnel engaged in R&D.
+
+3. Purchased intangibles. Recognize and measure at fair value.
+After initial recognition, account for in accordance with their
+nature (as either limited-life or indefinite-life intangibles).18
+4. Contract services. Expense the costs of services performed by
+others in connection with R&D as incurred.
+5. Indirect costs. Include a reasonable allocation of indirect costs
+in R&D costs, except for general and administrative costs, which
+must be clearly related in order to be included in R&D.
+Consistent with item 1 above, if a company owns a research facility
+that conducts R&D activities and that has alternative future uses (in
+other R&D projects or otherwise), it should capitalize the facility as an
+operational asset. The company accounts for depreciation and other
+costs related to such research facilities as R&D expenses.
+To illustrate, assume that Next Century Incorporated develops,
+produces, and markets laser machines for medical, industrial, and
+defense uses. Illustration 12.15 lists the types of expenditures
+related to its laser-machine activities, along with the recommended
+accounting treatment.
+
+Next Century Incorporated
+Type of Expenditure
+Accounting
+Treatment
+Rationale
+1. Construction of long-range
+research facility for use in
+current and future projects
+(three-story, 400,000-
+square-foot building).
+Capitalize and
+depreciate as R&D
+expense.
+Has
+alternative
+future use.
+2. Acquisition of R&D
+equipment for use on
+current project only.
+Expense
+immediately as
+R&D.
+Research cost.
+3. Acquisition of machinery
+for use on current and
+future R&D projects.
+Capitalize and
+depreciate as R&D
+expense.
+Has
+alternative
+future use.
+4. Purchase of materials for
+use on current and future
+R&D projects.
+Record as Inventory
+and allocate to R&D
+projects; expense as
+consumed.
+Has
+alternative
+future use.
+5. Salaries of research staff
+designing new laser bone
+scanner.
+Expense
+immediately as
+R&D.
+Research cost.
+6. Research costs incurred
+under contract with New
+Horizon, Inc., and billable
+monthly.
+Record as a
+receivable.
+Not R&D cost
+(reimbursable
+expense).
+
+Next Century Incorporated
+7. Material, labor, and
+overhead costs of prototype
+laser scanner (economic
+viability not achieved).
+Expense
+immediately as
+R&D.
+Does not meet
+recognition
+criteria.
+8. Costs of testing prototype
+and design modifications
+(economic viability not
+achieved).
+Expense
+immediately as
+R&D.
+Does not meet
+recognition
+criteria.
+9. Legal fees to obtain patent
+on new laser scanner.
+Capitalize as patent
+and amortize to
+overhead as part of
+cost of goods
+manufactured.
+Direct cost of
+patent.
+10. Executive salaries.
+Expense as
+operating expense.
+Not R&D cost
+(general and
+administrative
+expense).
+11. Cost of marketing research
+to promote new laser
+scanner.
+Expense as
+operating expense.
+Not R&D cost
+(selling
+expense).
+12. Engineering costs incurred
+to advance the laser
+scanner to full production
+stage (economic viability
+achieved).
+Capitalize as R&D.
+Meets
+recognition
+criteria.
+
+Next Century Incorporated
+13. Costs of successfully
+defending patent on laser
+scanner.
+Expense as legal
+fees.
+Such
+expenditures
+only maintain
+expected
+benefits.
+14. Commissions to sales staff
+marketing new laser
+scanner.
+Expense as
+operating expense.
+Not R&D cost
+(selling
+expense).
+ILLUSTRATION 12.15 Sample R&D Expenditures and Their
+Accounting Treatment
+
+Evolving Issue
+Recognition of R&D and Internally Generated Intangibles
+The requirement that companies expense immediately all research
+and most development costs (as well as start-up costs) incurred
+internally is a practical solution. It ensures consistency in practice
+and uniformity among companies. But the practice of immediately
+writing off expenditures made in the expectation of benefiting
+future periods is conceptually incorrect.
+Proponents of immediate expensing contend that from an income
+statement standpoint, long-run application of this standard
+frequently makes little difference. They argue that because of the
+ongoing nature of most companies’ R&D activities, the amount of
+R&D cost charged to expense each accounting period is about the
+same, whether there is immediate expensing or capitalization and
+subsequent amortization.
+Others criticize this practice. They believe that the statement of
+financial position should report an intangible asset related to
+expenditures that have future benefit. To preclude capitalization of
+most R&D expenditures removes from the statement of financial
+position what may be a company’s most valuable asset.
+Indeed, research findings indicate that capitalizing R&D costs may
+be helpful to investors. For example, one study showed a
+significant relationship between R&D outlays and subsequent
+benefits in the form of increased productivity, earnings, and
+shareholder value for R&D-intensive companies. Another study
+found that there was a significant decline in earnings usefulness
+for companies that were forced to switch from capitalizing to
+expensing R&D costs, and that the decline appears to persist over
+time.
+The current accounting for R&D and other internally generated
+intangible assets represents one of the many trade-offs made
+among relevance, faithful representation, and cost-benefit
+
+considerations. The FASB and IASB have completed some limited-
+scope projects on the accounting for intangible assets, and the
+Boards have contemplated a joint project on the accounting for
+identifiable intangible assets (i.e., excluding goodwill). Such a
+project would address concerns that the current accounting
+requirements lead to inconsistent treatments for some types of
+intangible assets depending on how they arise. At present, that
+project is on hold. The IASB has an active project on goodwill and
+impairment (see www.ifrs.org/projects/work-plan/goodwill-and-
+impairment).
+Sources for research studies: Baruch Lev and Theodore Sougiannis, “The
+Capitalization, Amortization, and Value-Relevance of R&D,” Journal of Accounting
+and Economics (February 1996); and Martha L. Loudder and Bruce K. Behn,
+“Alternative Income Determination Rules and Earnings Usefulness: The Case of R&D
+Costs,” Contemporary Accounting Research (Fall 1995). See also the recent critique of
+the accounting for intangible assets in Baruch Lev and Feng Gu, The End of
+Accounting (Hoboken, NJ: John Wiley & Sons, 2016).
+Costs Similar to R&D Costs
+Many costs have characteristics similar to research and development
+costs.19 Examples are:
+1. Start-up costs for a new operation.
+2. Initial operating losses.
+3. Advertising costs.
+For the most part, these costs are expensed as incurred, similar to the
+accounting for research costs. We briefly explain these costs in the
+following sections.
+Start-Up Costs
+Start-up costs are incurred for one-time activities to start a new
+operation. Examples include opening a new plant, introducing a new
+product or service, or conducting business in a new territory. Start-up
+costs include organizational costs, such as legal and governmental
+fees incurred to organize a new business entity.
+
+The accounting for start-up costs is straightforward: Expense start-
+up costs as incurred. The profession recognizes that companies
+incur start-up costs with the expectation of future revenues or
+increased efficiencies. However, determining the amount and timing
+of future benefits is so difficult that a conservative approach—
+expensing these costs as incurred—is required. [19]
+To illustrate examples of start-up costs, assume that U.S.-based Hilo
+Beverage Company decides to construct a new plant in Brazil. This
+represents Hilo’s first entry into the Brazilian market. Hilo plans to
+introduce the company’s major U.S. brands into Brazil on a locally
+produced basis. The following costs might be involved:
+1. Travel-related costs; costs related to employee salaries; and costs
+related to feasibility studies, accounting, tax, and government
+affairs.
+2. Training of local employees related to product, maintenance,
+computer systems, finance, and operations.
+3. Recruiting, organizing, and training related to establishing a
+distribution network.
+Hilo Beverage should expense all these start-up costs as incurred.
+Start-up activities commonly occur at the same time as activities
+involving the acquisition of assets. For example, as it is incurring
+start-up costs for the new plant, Hilo probably is also buying or
+building property, plant, equipment, and inventory. Hilo should not
+immediately expense the costs of these tangible assets. Instead, it
+should report them on the statement of financial position using
+appropriate IFRS reporting guidelines.
+Initial Operating Losses
+Some contend that companies should be allowed to capitalize initial
+operating losses incurred in the start-up of a business. They argue that
+such operating losses are an unavoidable cost of starting a business.
+For example, assume that Hilo lost money in its first year of
+operations and wishes to capitalize this loss. Hilo’s CEO argues that as
+
+the company becomes profitable, it will offset these losses in future
+periods. What do you think? We believe that this approach is
+unsound, since losses have no future service potential and therefore
+cannot be considered an asset.
+IFRS requires that operating losses during the early years should not
+be capitalized. In short, the accounting and reporting
+standards should be no different for an enterprise trying to
+establish a new business than they are for other enterprises.
+[20]20
+Advertising Costs
+Over the years, PepsiCo (USA) has hired various pop stars, such as
+Justin Timberlake and Beyoncé, to advertise its products. How should
+it report such advertising costs related to its star spokespeople?
+PepsiCo could expense the costs in various ways:
+1. When the pop stars have completed their singing assignments.
+2. The first time the advertising runs.
+3. Over the estimated useful life of the advertising.
+4. In an appropriate fashion to each of the three periods identified
+above.
+5. Over the period revenues are expected to result.
+PepsiCo must expense these advertising costs as incurred.
+The IASB acknowledges that advertising and promotional activities
+may enhance or create customer relationships, which in turn generate
+revenues. However, those expenditures are no different than other
+internally generated intangible assets (e.g., brands, mastheads, and
+customer lists), which primarily contribute to the development of the
+business as a whole. Therefore, they do not meet the separately
+identifiable criterion and should be expensed as incurred. [21]
+
+What Do the Numbers Mean?
+Branded
+For many companies, developing a strong brand image is as
+important as developing the products they sell. Now more than
+ever, companies see the power of a strong brand, enhanced by
+significant and effective advertising investments.
+As the following chart indicates, the value of brand investments is
+substantial. Apple (USA) heads the list with an estimated brand
+value of about $184.2 billion. Companies from around the globe
+are represented in the top 20 brands.
+Valuable Global Brands
+(in billions)
+1. Apple (USA)
+2. Google (USA)
+3. Microsoft (USA)
+4. Coca-Cola (USA)
+5. Amazon (USA)
+6. Samsung (KOR)
+7. Toyota (JPN)
+8. Facebook (USA)
+9. Mercedes-Benz (DEU)
+10. IBM (USA)
+Source: Interbrand Corp.
+Companies may include the value of a brand in the financial
+statements under goodwill. But, generally you will not find the
+estimated values of brands recorded in companies’ statements of
+financial position. The reason? The subjectivity that goes into
+estimating a brand’s value. In some cases, analysts base an
+estimate of brand value on opinion polls or on some multiple of
+advertising spending. For example, in estimating the brand values
+
+shown in the table, Interbrand Corp. (USA) estimates the
+percentage of the overall future revenues the brand will generate
+and then discounts the net cash flows to arrive at a present value.
+Some analysts believe that information on brand values is
+relevant. Others voice valid concerns about the reliability of brand
+value estimates due to subjectivity in the estimates for revenues,
+costs, and the risk component of the discount rate.
+Source: Interbrand Corp., Best Global Brands Report (2017).
+Presentation of Research and Development Costs
+Companies should disclose in the financial statements (generally in
+the notes) the total R&D costs charged to expense each period for
+which they present an income statement. GlaxoSmithKline (GBR),
+a global research pharmaceutical company, reported research and
+development in its recent income statement, with related accounting
+policy discussion in the notes as shown in Illustration 12.16.
+
+GlaxoSmithKline
+(in millions)
+31 December 2018
+Turnover
+Cost of Sales
+Gross Profit
+Selling, General, and Administrative
+Research and Development
+Royalty Income
+Other Operating Income
+Operating Profit
+Note 2 (in part) Research and development
+Research and development expenditure is charged to the income
+statement in the period in which it is incurred. Development
+expenditure is capitalised when the criteria for recognising an asset
+are met, usually when a regulatory filing has been made in a major
+market and approval is considered highly probable. Property, plant
+and equipment used for research and development is capitalised and
+depreciated in accordance with the Group’s policy.
+ILLUSTRATION 12.16 R&D Reporting
+Review and Practice
+Key Terms Review
+amortization
+bargain purchase
+
+business combination
+cash-generating unit
+copyright
+development activities
+development phase
+economic viability
+franchise
+goodwill
+impaired
+impairment loss
+indefinite useful life (intangibles)
+intangible assets
+license (permit)
+limited useful life (intangibles)
+master valuation approach
+organizational costs
+patent
+recoverable amount
+research activities
+research and development (R&D) costs
+research phase
+start-up costs
+trademark, trade name
+Learning Objectives Review
+
+1 Discuss the characteristics, valuation, and amortization
+of intangible assets.
+Intangible assets have three main characteristics: (1) they are
+identifiable, (2) they lack physical existence, and (3) they are not
+monetary assets. In most cases, intangible assets provide services over
+a period of years and so are normally classified as non-current assets.
+Intangibles are recorded at cost. Cost includes all acquisition
+costs and expenditures needed to make the intangible asset ready for
+its intended use. If intangibles are acquired in exchange for shares or
+other assets, the cost of the intangible is the fair value of the
+consideration given or the fair value of the intangible received,
+whichever is more clearly evident. When a company makes a “basket
+purchase” of several intangibles or a combination of intangibles and
+tangibles, it should allocate the cost on the basis of relative fair values.
+Intangibles have either a limited useful life or an indefinite
+useful life. Companies amortize limited-life intangibles. They do not
+amortize indefinite-life intangibles. Limited-life intangibles should be
+amortized by systematic charges to expense over their useful lives.
+The useful lives should reflect the period over which these assets will
+contribute to cash flows. The amount to report for amortization
+expense should reflect the pattern in which a company consumes or
+uses up the asset, if it can reliably determine that pattern. Otherwise,
+use a straight-line approach.
+2 Describe the accounting for various types of intangible
+assets.
+Major types of intangibles are (1) marketing-related intangibles, used
+in the marketing or promotion of products or services; (2) customer-
+related intangibles, resulting from interactions with outside parties;
+(3) artistic-related intangibles, giving ownership rights to such items
+as plays and literary works; (4) contract-related intangibles,
+representing the value of rights that arise from contractual
+arrangements; (5) technology-related intangibles, relating to
+
+innovations or technological advances; and (6) goodwill, arising from
+business combinations.
+3 Explain the accounting issues for recording goodwill.
+Unlike receivables, inventories, and patents that a company can sell or
+exchange individually in the marketplace, goodwill can be identified
+only with the company as a whole. Goodwill is a “going concern”
+valuation and is recorded only when an entire business is
+purchased. A company should not capitalize goodwill generated
+internally. The future benefits of goodwill may have no relationship to
+the costs incurred in the development of that goodwill. Goodwill may
+exist even in the absence of specific costs to develop it.
+To record goodwill, a company compares the fair value of the net
+tangible and identifiable intangible assets with the purchase price of
+the acquired business. The difference is considered goodwill. Goodwill
+is the residual. Goodwill is often identified on the statement of
+financial position as the excess of cost over the fair value of the net
+assets acquired.
+4 Identify impairment procedures and presentation
+requirements for intangible assets.
+An intangible asset is impaired when a company is not able to recover
+the asset’s carrying amount either through using it or by selling it.
+Limited-life intangibles are reviewed annually to determine if there
+are impairment indicators; if so, the impairment test is performed.
+Indefinite-life intangibles, including goodwill, must be tested for
+impairment every year. An impairment loss is recorded in net income
+if the recoverable amount (the greater of fair value less costs to sell
+and value-in-use) of an intangible asset is less than the carrying value.
+Impairment losses on intangible assets (other than goodwill) may be
+reversed but only up to the carrying amount that would have been
+recorded in the absence of the impairment.
+
+With respect to presentation, on the statement of financial position,
+companies should report all intangible assets other than goodwill as a
+separate item. Contra accounts are not normally shown. If goodwill is
+present, it too should be reported as a separate item. On the income
+statement, companies should report amortization expense and
+impairment losses in operating income. The notes to the financial
+statements have additional detailed information.
+5 Describe the accounting and presentation for research
+and development and similar costs.
+R&D costs are not in themselves intangible assets, but R&D activities
+frequently result in the development of something a company patents
+or copyrights. The difficulties in accounting for R&D expenditures are
+(1) identifying the costs associated with particular activities, projects,
+or achievements; and (2) determining the magnitude of the future
+benefits and length of time over which a company may realize such
+benefits. Because of these latter uncertainties, companies are required
+to expense all research costs when incurred. Certain costs incurred
+during the development phase of an R&D project are capitalized when
+an R&D project achieves economic viability.
+Illustration 12.15 shows the costs associated with R&D activities and
+the accounting treatment accorded them. Many costs have
+characteristics similar to R&D costs. Examples are start-up costs,
+initial operating losses, and advertising costs. For the most part, these
+costs are expensed as incurred, similar to the accounting for all
+research and many development costs. Financial statements must
+disclose the total R&D costs charged to expense each period for which
+an income statement is presented.
+Enhanced Review and Practice
+Go online for multiple-choice questions with solutions, review
+exercises with solutions, and a full glossary of all key terms.
+Practice Problem
+
+Sky ASA, organized in 2022, provided you with the following
+information.
+1. Purchased a license for €20,000 on July 1, 2022. The license
+gives Sky exclusive rights to sell its services in the provincial
+region and will expire on July 1, 2030.
+2. Purchased a patent on January 2, 2023, for €40,000. It is
+estimated to have a 5-year life.
+3. Costs incurred to develop an exclusive Internet connection
+process as of June 1, 2023, were €45,000. The process has an
+indefinite life.
+4. On April 1, 2023, Sky purchased a small circuit board
+manufacturer for €350,000. Goodwill recorded in the
+transaction was €90,000.
+5. On July 1, 2023, legal fees of €11,400 were incurred for
+application and filing of a new patent, which will expire at the
+same time as the patent purchased on January 2, 2023.
+6. Research and development costs incurred as of September 1,
+2023, were €75,000. None of the related projects involved had
+achieved economic viability.
+Instructions
+a. Prepare the journal entries to record all the entries related to
+the patent during 2023.
+b. At December 31, 2023, an impairment test is performed on the
+license purchased in 2022. It is estimated that the net cash
+flows to be received from the license will be €13,000, and its
+recoverable amount is €7,000. Compute the amount of
+impairment, if any, to be recorded on December 31, 2023.
+c. What is the amount to be reported for intangible assets on the
+statement of financial position at December 31, 2022? At
+December 31, 2023?
+
+Solution
+a. 
+January 2, 2023
+Patents
+Cash
+July 1, 2023
+Patents
+Cash
+December 31, 2023
+Patent Amortization Expense
+Patents
+Computation of Patent Amortization Expense:
+€40,000 × 12/60 = €8,000
+€11,400 × 6/54 =
+Total
+b. Computation of impairment loss:
+Cost
+Less: Accumulated amortization [€20,000 × (18 ÷ 96)]
+Book value
+Book value of €16,250 is greater than the recoverable amount.
+Therefore, the license is impaired. The impairment loss is
+computed as follows.
+Book value
+Recoverable amount
+Loss on impairment € 9,250
+c. Intangible assets as of December 31, 2022:
+
+Licenses
+€18,750*
+*Cost
+Less: Accumulated amortization [€20,000
+× (6 ÷ 96)]
+Total
+Intangible assets as of December 31, 2023:
+Licenses
+Patents (€40,000 + €11,400 − €9,267)
+Goodwill
+Total
+All the costs to develop the Internet connection process and the
+research and development costs are expensed as incurred.
+Exercises, Problems, Problem Solution Walkthrough Videos, Data
+Analytics Activities, and many more assessment tools and
+resources are available for practice in Wiley’s online courseware.
+Questions
+1. What are the three main characteristics of intangible assets?
+2. If intangibles are acquired for shares, how is the cost of the
+intangible determined?
+3. Intangibles have either a limited useful life or an indefinite useful
+life. How should these two different types of intangibles be
+amortized?
+4. Why does IFRS make a distinction between internally created
+intangibles and purchased intangibles?
+5. In 2022, Ghostbusters SA spent €420,000 for “goodwill” visits by
+sales personnel to key customers. The purpose of these visits was to
+build a solid, friendly relationship for the future and to gain insight
+
+into the problems and needs of the companies served. How should
+this expenditure be reported?
+6. What are factors to be considered in estimating the useful life of an
+intangible asset?
+7. What should be the pattern of amortization for a limited-life
+intangible?
+8. Novartis (CHE) acquired a trademark that is helpful in
+distinguishing one of its new products. The trademark is renewable
+every 10 years at minimal cost. All evidence indicates that this
+trademarked product will generate cash flows for an indefinite period
+of time. How should this trademark be amortized?
+9. McNabb Company spent $190,000 developing a new process prior
+to achieving economic viability, $45,000 in legal fees to obtain a
+patent, and $91,000 to market the process that was patented, all in the
+year 2022. How should these costs be accounted for in 2022?
+10. Izzy Ltd. purchased a patent for £350,000 which has an estimated
+useful life of 10 years. Its pattern of use or consumption cannot be
+reliably determined. Prepare the entry to record the amortization of
+the patent in its first year of use.
+11. Explain the difference between artistic-related intangible assets
+and contract-related intangible assets.
+12. What is goodwill? What is a bargain purchase?
+13. Under what circumstances is it appropriate to record goodwill in
+the accounts? How should goodwill, properly recorded on the books,
+be written off in order to conform with IFRS?
+14. In examining financial statements, financial analysts often write
+off goodwill immediately. Comment on this procedure.
+15. Braxton Inc. is considering the write-off of a limited-life intangible
+because of its lack of profitability. Explain to the management of
+Braxton how to determine whether a write-off is permitted.
+16. Last year, Zeno Company recorded an impairment on an
+intangible asset. Recent appraisals indicate that the asset has
+
+increased in value. Should Zeno record this recovery in value?
+17. Explain how losses on impaired intangible assets should be
+reported in income.
+18. Shi Ltd. determines that its goodwill is impaired. It finds that its
+recoverable amount is HK$3,600,000 and its recorded goodwill is
+HK$4,000,000. The fair value of its identifiable assets is
+HK$14,500,000. What is the amount of goodwill impaired?
+19. What is the nature of research and development costs? Can
+development costs be capitalized? Explain.
+20. Research and development activities may include (a) personnel
+costs, (b) materials and equipment costs, and (c) indirect costs. What
+is the recommended accounting treatment for these three types of
+R&D costs?
+21. Which of the following activities should be expensed currently as
+R&D costs?
+a. Testing in search for or evaluation of product or process
+alternatives.
+b. Engineering follow-through in an early phase of commercial
+production.
+c. Legal work in connection with patent applications or litigation,
+and the sale or licensing of patents.
+22. Indicate the proper accounting for the following items.
+a. Organization costs.
+b. Advertising costs.
+c. Operating losses.
+23. In 2021, Jackie Chan Ltd. developed a new product that will be
+marketed in 2023. In connection with the development of this
+product, the following costs were incurred in 2022: research and
+development costs ¥40,000,000, materials and supplies consumed
+¥6,000,000, and compensation paid to research consultants
+
+¥12,500,000. (¥23,000,000 of the development phase costs were
+incurred after the product became economically viable.) It is
+anticipated that these costs will be recovered in 2025. What is the
+amount of research and development costs that Chan should record in
+2022 as a charge to expense?
+24. Recently, a group of university students decided to form a
+company for the purposes of selling a process to recycle the waste
+product from manufacturing cheese. Some of the initial costs involved
+were legal fees and office expenses incurred in starting the business,
+governmental fees, and stamp taxes. One student wants to charge
+these costs against revenue in the current period. Another wishes to
+defer these costs and amortize them in the future. Which student is
+correct?
+25. An intangible asset with an estimated useful life of 30 years was
+acquired on January 1, 2012, for $540,000. On January 1, 2022, a
+review was made of intangible assets and their expected service lives,
+and it was determined that this asset had an estimated useful life of
+30 more years from the date of the review. What is the amount of
+amortization for this intangible in 2022?
+Brief Exercises
+LEARNING OBJECTIVE 6
+Compare the accounting for intangible assets under IFRS and U.S.
+GAAP.
+There are some significant differences between IFRS and U.S. GAAP
+in the accounting for both intangible assets and impairments. U.S.
+GAAP related to intangible assets is presented in FASB literature
+addressing goodwill and other intangible assets and business
+combinations. The accounting for research and development, start-up
+costs, and advertising costs is prescribed in separate parts of the FASB
+literature.
+
+Relevant Facts
+Following are the key similarities and differences between U.S. GAAP
+and IFRS related to intangible assets.
+Similarities
+Like IFRS, under U.S. GAAP intangible assets (1) lack physical
+substance and (2) are not financial instruments. In addition,
+under IFRS an intangible asset is identifiable. To be identifiable,
+an intangible asset must either be separable from the company
+(can be sold or transferred) or it arises from a contractual or legal
+right from which economic benefits will flow to the company.
+Fair value is used as the measurement basis for intangible assets
+under U.S. GAAP if it is more clearly evident.
+With the issuance of a converged statement on business
+combinations (IFRS 3 and SFAS No. 141—Revised), U.S. GAAP
+and IFRS are very similar for intangibles acquired in a business
+combination. That is, companies recognize an intangible asset
+separately from goodwill if the intangible represents contractual
+or legal rights or is capable of being separated or divided and sold,
+transferred, licensed, rented, or exchanged. In addition, under
+both IFRS and U.S. GAAP, companies recognize acquired in-
+process research and development (IPR&D) as a separate
+intangible asset if it meets the definition of an intangible asset
+and its fair value can be measured reliably.
+As in IFRS, U.S. GAAP assesses goodwill for impairment at least
+annually, based on the fair value of the reporting unit.
+As in IFRS, under U.S. GAAP the costs associated with research
+and development are segregated into the two components. Costs
+in the research phase are always expensed under both U.S. GAAP
+and IFRS.
+Differences
+U.S. GAAP does not permit the revaluation basis of accounting.
+While under IFRS revaluations are not permitted for goodwill,
+
+revaluation of other indefinite-life intangible assets are rare
+because revaluations are not allowed unless there is an active
+market for the intangible asset.
+U.S. GAAP requires expensing of all costs associated with
+internally generated intangibles. IFRS permits some
+capitalization of internally generated intangible assets (e.g., brand
+value) if it is probable there will be a future benefit and the
+amount can be reliably measured.
+Under IFRS, legal costs incurred to protect rights under a patent,
+copyright, or trademark are expensed as incurred. Under U.S.
+GAAP, a company may capitalize these costs if it is successful in
+the legal proceedings.
+Under U.S. GAAP, impairment loss is measured as the excess of
+the carrying amount over the asset’s fair value. IFRS requires an
+impairment test at each reporting date for long-lived assets and
+intangibles, and records an impairment if the asset’s carrying
+amount exceeds its recoverable amount. The recoverable amount
+is the higher of the asset’s fair value less costs to sell and its
+value-in-use. Value-in-use is the future cash flows to be derived
+from the particular asset, discounted to present value.
+U.S. GAAP gives companies the option to perform a qualitative
+assessment to determine whether it is more likely than not (i.e., a
+likelihood of more than 50 percent) that an indefinite-life
+intangible asset (including goodwill) is impaired. If the
+qualitative assessment indicates that the fair value of the
+reporting unit is more likely than not to be greater than the
+carrying value (i.e., the asset is not impaired), the company need
+not continue with the fair value test.
+Under U.S. GAAP, impairment losses cannot be reversed for
+assets to be held and used; the impairment loss results in a new
+cost basis for the asset. IFRS and U.S. GAAP are similar in the
+accounting for impairments of assets held for disposal. IFRS
+allows reversal of impairment losses when there has been a
+change in economic conditions or in the expected use of limited-
+life intangibles and indefinite-life intangibles other than goodwill.
+
+Under U.S. GAAP, all development costs are expensed as incurred.
+Under IFRS, costs in the development phase of a research and
+development project are capitalized once technological feasibility
+(referred to as economic viability) is achieved.
+About the Numbers
+To illustrate the effect of differences in the accounting for brands,
+consider the following disclosure by GlaxoSmithKline (GBR) in a
+recent annual report. Note that GlaxoSmithKline would report lower
+income by £1.3 billion if it accounted for its brands under U.S. GAAP.
+Notes to the Financial Statements
+Intangible assets (in part):
+The following table sets out the IFRS to U.S. GAAP adjustments
+required to the IFRS income statement for amortization of brands:
+Income Statement
+(£ million)
+Amortisation charge under IFRS
+Amortisation charge under U.S. GAAP
+IFRS to U.S. GAAP adjustment
+On the Horizon
+The FASB and IASB are pursuing different paths in their review of the
+accounting for intangible assets. The FASB recently issued an
+Invitation to Comment, in which there is the potential to (1) include
+the amortization of goodwill either as an option or as a requirement;
+(2) possibly change the impairment testing done for goodwill; (3)
+include, in the amount of goodwill, recognized customer-related
+intangibles; (4) include non-compete agreements, which are currently
+separately recognized; and (5) include additional disclosures related to
+goodwill.
+The IASB is preparing to issue a discussion paper also related to
+goodwill. The IASB has expressed preliminary views that the
+
+amortization of goodwill will not be permitted; some relief to the
+mandatory qualitative impairment test should be provided, but the
+test itself will not be changed. In addition, separate recognition of
+identifiable intangible assets should not be included in goodwill, and
+better disclosures should be required. The net result of the work of
+the two Boards is likely to create more differences between the two
+sets of standards.
+GAAP Self-Test Questions
+1. All of the following are key similarities between U.S. GAAP and
+IFRS with respect to accounting for intangible assets except:
+a. for accounting purposes, costs associated with research and
+development activities are segregated into the two components.
+b. the accounting for intangibles acquired in a business
+combination.
+c. recovery of impairments on intangibles other than goodwill.
+d. the accounting for impairments of assets held for disposal.
+2. Research and development costs are:
+a. expensed under U.S. GAAP.
+b. expensed under IFRS.
+c. expensed under both U.S. GAAP and IFRS.
+d. None of the answer choices is correct.
+3. Which of the following statements is correct?
+a. Both IFRS and U.S. GAAP permit revaluation of property, plant,
+and equipment and intangible assets (except for goodwill).
+b. U.S. GAAP permits capitalization of development costs.
+c. IFRS requires capitalization of research and development costs
+once economic viability is met.
+
+d. IFRS requires capitalization of development costs once economic
+viability is met.
+4. A loss on impairment of an intangible asset under U.S. GAAP is the
+asset’s:
+a. carrying amount less the expected future net cash flows.
+b. carrying amount less its recoverable amount.
+c. recoverable amount less the expected future net cash flows.
+d. carrying value less its fair value.
+5. Recovery of impairment is recognized under U.S. GAAP for all the
+following except:
+a. patent held for use.
+b. trademark.
+c. goodwill.
+d. None of the answer choices is correct; impairment reversals are
+not allowed under U.S. GAAP.
+GAAP Concepts and Application
+GAAP12.1 Briefly describe some of the similarities and differences
+between U.S. GAAP and IFRS with respect to the accounting for
+intangible assets.
+GAAP12.2 Sophia SpA, a cellular phone company based in Italy,
+prepares its financial statements in accordance with IFRS. In 2022, it
+reported average assets of €12,500 and net income €1,125. Included in
+net income is amortization expense of €120. Under U.S. GAAP,
+Sophia’s amortization expense would have been €325. Briefly discuss
+how analysis of Sophia’s 2022 return on assets (and comparisons to a
+company using U.S. GAAP) would be affected by differences in
+intangible asset amortization between IFRS and U.S. GAAP.
+
+GAAP12.3 Briefly discuss the convergence efforts that are underway
+in the area of intangible assets.
+GAAP12.4 Presented below are recent data and accounting policy
+notes for the goodwill of two international drug companies. Bayer
+(DEU) prepares its statements in accordance with International
+Financial Reporting Standards (IFRS). Merck (USA) prepares its
+financial statements in accordance with U.S. GAAP.
+Related Information
+Bayer
+(€ millions)
+Merck
+($ millions)
+Research and development expense
+Amortization expense
+Net income
+Accumulated goodwill amortization
+Shareholders’ equity
+Both U.S. GAAP and IFRS do not allow amortization of goodwill.
+Instructions
+a. Compute the return on equity for each of these companies, and
+use this analysis to briefly discuss the relative profitability of the
+two companies.
+b. IFRS requires that development costs must be capitalized if
+technical and commercial feasibility (economic viability) of the
+resulting product has been established. Assume that Bayer
+recorded €1 million of development costs in the year reported
+above. Discuss briefly how this accounting affects your ability to
+compare the financial results of Bayer and Merck.
+Answers to GAAP Self-Test Questions
+1. c 2. a 3. d 4. d 5. d
+Notes
+
+1 The accounting in this section relates to the acquisition of a single
+asset or group of assets. The accounting for intangible assets
+acquired in a business combination (transaction in which the
+purchaser obtains control of one or more businesses) is discussed
+later in this chapter.
+2 IFRS also prohibits recognition of intangible assets such as
+internally generated brands, mastheads, and customer lists. These
+expenditures are similar to other costs to develop the business as
+whole; therefore, they do not meet the identifiable criterion. [2]
+3 For limited-life intangibles, the impairment test is performed only if
+there is indication of impairment. However, the impairment test
+for indefinite-life intangibles must be conducted annually. This
+more stringent test is required because indefinite-life intangibles
+are not amortized, and the recognized amounts may be subject to
+significant judgment.
+4 Similar to long-lived tangible assets, companies may revalue certain
+types of intangible assets subsequent to acquisition. The
+revaluation model can only be used for intangible assets that trade
+in active markets (e.g., taxi licenses or similar contracts). [4] This
+constraint, as well as the cost to perform the annual revaluation
+process, explains the limited use of the revaluation option for
+intangible assets. See I. von Keitz and KPMG IFRG Limited, The
+Application of IFRS: Choices in Practice (December 2006), p. 11.
+5 The legal life of trade names or trademarks may vary across
+countries. However, over 70 countries, including members of the
+European Union (EU), Australia, and the United States, are party to
+the Madrid Protocol, which recognizes the trade names and
+trademarks registered in other member countries (see
+www.ipo.gov.uk/).
+6 As with trademarks and trade names, the legal life of a copyright
+may vary across countries. However, the United Kingdom, the
+countries of the European Union, and the United States all have the
+same copyright length.
+
+7 While patent lives may vary across countries, the term of protection
+under most modern patent laws is 20 years from the filing date of
+the application. Over 140 countries are party to the Patent
+Cooperation Treaty (PCT), which was ratified in 1970 and most
+recently amended in 2001. The PCT makes it possible to seek
+patent protection for an invention simultaneously in each of a large
+number of countries by filing an “international” patent application
+(see www.wipo.int/patentscope/en/patents/).
+8 Consider the opposite result: Sir Alexander Fleming, who discovered
+penicillin, decided not to use a patent to protect his discovery. He
+hoped that companies would produce it more quickly to help save
+sufferers. Companies, however, refused to develop it because they
+did not have the patent shield and, therefore, were afraid to make
+the investment.
+9 Companies may compute amortization using the activity method in
+a manner similar to that described for depreciation on property,
+plant, and equipment.
+10 IFRS provides detailed guidance regarding the recognition of
+identifiable intangible assets in a business combination. With this
+guidance, the IASB expected that companies would recognize more
+identifiable intangible assets, and less goodwill, in the financial
+statements as a result of business combinations. [8] Under IFRS,
+because goodwill does not meet the identifiability criterion, it is not
+an intangible asset. [9] Nonetheless we present the accounting for
+goodwill here because goodwill commonly arises in combination
+with other intangible assets.
+11 The IASB expressed concern about measuring goodwill as a residual
+but noted that there is no real measurement alternative since
+goodwill is not separable from the company as a whole. [10]
+12 P. Kowsmann and P. Davies, “Deutsche Bank-Commerzbank Deal
+Might Rest on Mountain of ‘Badwill’,” Wall Street Journal (April
+
+13 As with impairments of property, plant, and equipment, the
+amount of the recovery of the loss is limited to the carrying value
+amount that would result if the impairment had not occurred. [13]
+14 Note that the impairment test is performed every year (not only
+when there is an impairment indicator). This more stringent
+impairment model for indefinite-life intangibles (and goodwill) is
+used because these assets are not amortized and the recognized
+amounts may be subject to significant judgment.
+15 Because there is rarely a market for cash-generating units,
+estimation of the recoverable amount for goodwill impairments is
+usually based on value-in-use estimates.
+16 In the Kohlbuy case, the entire impairment loss is allocated to
+goodwill. If the impairment loss exceeds the carrying value of the
+goodwill, Kohlbuy allocates the impairment loss to the goodwill
+and other assets as follows: (1) reduce the goodwill to zero and (2)
+allocate any remaining impairment loss to the other assets on the
+basis of their relative carrying amounts. In this case, Kohlbuy
+follows the impairment guidelines for long-lived assets, as
+discussed in Chapter 11. If these assets are evaluated for
+impairment on an individual basis, impairment losses may have
+been recorded on these assets as part of that process. Alternatively,
+the Kohlbuy example could represent a situation in which the other
+assets are evaluated at the cash-generating-unit level. These
+procedures are complex and beyond the scope of this textbook.
+17 All of the following criteria must be met to begin capitalizing
+development costs into the carrying value of the related intangible:
+(1) the project achieves technical feasibility of completing the
+intangible asset so that it will be available for use or sale; (2) the
+company intends, and has the ability, to complete the intangible
+asset and use or sell it; (3) the intangible asset will generate
+probable future economic benefits (there is a market for the asset
+or the output of the asset); (4) the company has adequate technical,
+financial, and other resources to complete the development of the
+intangible asset; and (5) the company can measure reliably the
+
+development costs associated with the intangible asset to be
+developed. [15]
+18 If R&D-related intangibles (often referred to as in-process R&D)
+are acquired in a business combination, they are also recognized
+and measured at fair value. After initial recognition, these
+intangible assets are accounted for in accordance with their nature
+(as either limited-life or indefinite-life intangibles). [17]
+19 With the growth in online selling activities, internally developed
+websites represent a significant source of internally generated
+intangible assets. IFRS has specific criteria for determining
+whether the development costs associated with websites meet
+capitalization thresholds. In essence, these criteria assess whether
+the website is economically viable in generating sales for the
+company. [18]
+20 A company is considered to be in the developing stages when it is
+directing its efforts toward establishing a new business and either
+the company has not started the principal operations or it has
+earned no significant revenue.
+Sources: E. Roston, “Non-Financial Data Are Material: The Sustainability Paradox,”
+www.bloombergnews.com (April 13, 2012); R. Eccles, “What the World Needs Now:
+Sustainability Accounting Standards,” Forbes (May 4, 2016); Trends in External Assurance
+of Sustainability Reports: Update on the U.S. Global Reporting Initiative (July 2014); and
+J. Hales, “The Future of Accounting Is Now: Financial Performance Is Linked to
+Sustainable Growth,” CPA Journal (July 2018).

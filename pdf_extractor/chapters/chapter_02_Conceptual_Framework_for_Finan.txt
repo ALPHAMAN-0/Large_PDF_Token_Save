@@ -1,0 +1,2922 @@
+CHAPTER 2
+Conceptual Framework for Financial Reporting
+LEARNING OBJECTIVES
+After studying this chapter, you should be able to:
+1. Describe the usefulness of a conceptual framework and the
+objective of financial reporting.
+2. Identify the qualitative characteristics of accounting
+information and the basic elements of financial statements.
+3. Review the basic assumptions of accounting.
+4. Explain the application of the basic principles of accounting.
+
+--- Page 112 ---
+This chapter provides a foundation for numerous
+conceptual discussions that are integral to the topics in
+subsequent chapters.
+PREVIEW OF CHAPTER 2
+As the following opening story indicates, users of financial
+statements can face difficult questions about the recognition and
+measurement of financial items. To help develop the type of
+financial information that can be used to answer these questions,
+financial accounting and reporting relies on a conceptual
+framework. In this chapter, we discuss the basic concepts
+underlying the conceptual framework, as follows.
+What Is It?
+Everyone agrees that accounting needs a framework—a conceptual
+framework, so to speak—that will help guide the development of
+standards. To understand the importance of developing this
+framework, let’s see how you would respond in the following two
+situations.
+
+--- Page 113 ---
+Situation 1: “Taking a Long Shot … ”
+To supplement donations collected from its general community
+solicitation, Tri-Cities United Charities holds an Annual Lottery
+Sweepstakes. In this year’s sweepstakes, United Charities is
+offering a grand prize of $1,000,000 to a single winning ticket
+holder. A total of 10,000 tickets have been printed, and United
+Charities plans to sell all the tickets at a price of $150 each.
+Since its inception, the Sweepstakes has attracted area-wide
+interest, and United Charities has always been able to meet its
+sales target. However, in the unlikely event that it might fail to sell
+a sufficient number of tickets to cover the grand prize, United
+Charities has reserved the right to cancel the Sweepstakes and to
+refund the price of the tickets to holders.
+In recent years, a fairly active secondary market for tickets has
+developed. This year, buying–selling prices have varied between
+$75 and $95 before stabilizing at about $90.
+When the tickets first went on sale this year, multimillionaire Phil
+N. Tropic, well-known in Tri-Cities civic circles as a generous but
+sometimes eccentric donor, bought one of the tickets from United
+Charities, paying $150 cash.
+How would you answer the following questions?
+1. Should Phil N. Tropic recognize his lottery ticket as an asset in his
+financial statements?
+2. Assuming that Phil N. Tropic recognizes the lottery ticket as an
+asset, at what amount should it be reported? Some possible
+answers are $150, $100, and $90.
+
+--- Page 114 ---
+Situation 2: The $20 Million Question
+The Hard Rock Mining Company has just completed the first year
+of operations at its new strip mine, the Lonesome Doe. Hard Rock
+spent $10 million for the land and $20 million in preparing the
+site for mining operations. The mine is expected to operate for 20
+years. Hard Rock is subject to environmental statutes requiring it
+to restore the Lonesome Doe mine site on completion of mining
+operations.
+Based on its experience and industry data, as well as current
+technology, Hard Rock forecasts that restoration will cost about
+$10 million when it is undertaken. Of those costs, about $4 million
+is for restoring the topsoil that was removed in preparing the site
+for mining operations (prior to opening the mine); the rest is
+directly proportional to the depth of the mine, which in turn is
+directly proportional to the amount of ore extracted.
+How would you answer the following questions?
+1. Should Hard Rock recognize a liability for site restoration in
+conjunction with the opening of the Lonesome Doe Mine? If so,
+what is the amount of that liability?
+2. After Hard Rock has operated the Lonesome Doe Mine for five
+years, new technology is introduced that reduces Hard Rock’s
+estimated future restoration costs to $7 million, $3 million of
+which relates to restoring the topsoil. How should Hard Rock
+account for this change in its estimated future liability?
+The answers to these questions depend on how assets and liabilities
+are defined and how they should be valued. The International
+Accounting Standards Board (IASB) recently issued an update to its
+conceptual framework with what are hoped to be improved definitions
+for assets and liabilities. This chapter reflects those new definitions as
+well as measurement concepts, which provide the IASB and you with a
+framework to resolve questions like these.
+
+--- Page 115 ---
+Review and Practice
+Go to the Review and Practice section at the end of the chapter for
+a targeted summary review and practice problem with solution.
+Multiple-choice questions with annotated solutions, as well as
+additional exercises and practice problem with solutions, are also
+available online.
+Conceptual Framework
+LEARNING OBJECTIVE 1
+Describe the usefulness of a conceptual framework and the
+objective of financial reporting.
+A conceptual framework establishes the concepts that underlie
+financial reporting. A conceptual framework is a coherent system of
+concepts that flow from an objective. The objective identifies the
+purpose of financial reporting. The other concepts provide guidance
+on (1) identifying the boundaries of financial reporting; (2) selecting
+the transactions, other events, and circumstances to be represented;
+(3) how they should be recognized and measured; and (4) how they
+should be summarized and reported.1
+Need for a Conceptual Framework
+Why do we need a conceptual framework? First, to be useful, rule-
+making should build on and relate to an established body of concepts.
+A soundly developed conceptual framework thus enables the IASB to
+issue more useful and consistent pronouncements over time,
+and a coherent set of standards should result. Indeed, without the
+guidance provided by a soundly developed framework, standard-
+setting ends up being based on individual concepts developed by each
+member of the standard-setting body. The following observation by a
+former standard-setter highlights the problem.
+
+--- Page 116 ---
+“As our professional careers unfold, each of us develops a
+technical conceptual framework. Some individual frameworks are
+sharply defined and firmly held; others are vague and weakly
+held; still others are vague and firmly held…. At one time or
+another, most of us have felt the discomfort of listening to
+somebody buttress a preconceived conclusion by building a
+convoluted chain of shaky reasoning. Indeed, perhaps on occasion
+we have voiced such thinking ourselves…. My experience …
+taught me many lessons. A major one was that most of us have a
+natural tendency and an incredible talent for processing new facts
+in such a way that our prior conclusions remain intact.”2
+In other words, standard-setting that is based on personal conceptual
+frameworks will lead to different conclusions about identical or
+similar issues than it did previously. As a result, standards will not be
+consistent with one another, and past decisions may not be indicative
+of future ones. Furthermore, the framework should increase financial
+statement users’ understanding of and confidence in financial
+reporting. It should also enhance comparability among companies’
+financial statements.
+Second, as a result of a soundly developed conceptual framework, the
+profession should be able to more quickly solve new and emerging
+practical problems by referring to an existing framework of
+basic theory. For example, assume that Aphrodite Gold Ltd.
+(AUS) issued bonds with two payment options. It can redeem them
+either with $2,000 in cash or with 5 ounces of gold, whichever is
+worth more at maturity. The bonds have a stated interest rate of 8.5
+percent. At what amounts should Aphrodite or the buyers of the bonds
+record them? What is the amount of the premium or discount on the
+bonds? And how should Aphrodite amortize this amount, if the bond
+redemption payments are to be made in gold (the future value of
+which is unknown at the date of issuance)? Consider that Aphrodite
+cannot know, at the date of issuance, the value of future gold bond
+redemption payments.
+It is difficult, if not impossible, for the IASB to prescribe the proper
+accounting treatment quickly for situations like this or like those
+
+--- Page 117 ---
+represented in our opening story. Practicing accountants, however,
+must resolve such problems on a daily basis. How? Through good
+judgment and with the help of a universally accepted conceptual
+framework, practitioners can quickly focus on an acceptable
+treatment.
+What Do the Numbers Mean?
+What’s Your Principle?
+The need for a conceptual framework is highlighted by accounting
+scandals such as those at Royal Ahold (NLD), Enron (USA),
+Satyan Computer Services (IND), and, most recently,
+Carillion (GBR). To restore public confidence in the financial
+reporting process, many have argued that regulators should move
+toward principles-based rules. They believe that companies
+exploited the detailed provisions in rules-based pronouncements
+to manage accounting reports, rather than report the economic
+substance of transactions.
+For example, many of the off-balance-sheet arrangements of
+Enron avoided transparent reporting by barely achieving 3 percent
+outside equity ownership, a requirement in an obscure accounting
+rule interpretation. Enron’s financial engineers were able to
+structure transactions to achieve a desired accounting treatment,
+even if that accounting treatment did not reflect the transaction’s
+true nature. Under principles-based rules, hopefully top
+management’s financial reporting focus will shift from
+demonstrating compliance with rules to demonstrating that a
+company has attained financial reporting objectives.
+Development of a Conceptual Framework
+In 2018, the IASB published the Conceptual Framework for Financial
+Reporting (the Conceptual Framework). This fully revised document
+replaced the section of the 2010 version of the Conceptual Framework
+that had been carried forward from the 1989 version, as well as
+
+--- Page 118 ---
+addressed some changes introduced in 2010. The Conceptual
+Framework comprises eight chapters, as follows.
+Chapter 1, The Objective of General Purpose Financial
+Statements.
+Chapter 2, Qualitative Characteristics of Useful Financial
+Information.
+Chapter 3, Financial Statements and the Reporting Entity.
+Chapter 4, The Elements of Financial Statements.
+Chapter 5, Recognition and Derecognition.
+Chapter 6, Measurement.
+Chapter 7, Presentation and Disclosure.
+Chapter 8, Concepts of Capital and Capital Maintenance.
+The IASB worked diligently to complete the Conceptual Framework,
+as the Board recognized the need for such a document to serve its
+diverse users. It should be emphasized that while the Conceptual
+Framework is not an IFRS, it is part of the authoritative literature.
+Thus, the Conceptual Framework can provide guidance in many
+situations where an IFRS does not cover the issue under
+consideration.3 [2]
+Overview of the Conceptual Framework
+Illustration 2.1 provides an overview of the IASB’s Conceptual
+Framework for Financial Reporting, also referred to simply as the
+Conceptual Framework.
+
+--- Page 119 ---
+ILLUSTRATION 2.1 Conceptual Framework for Financial
+Reporting
+The first level identifies the objective of financial reporting—that
+is, the purpose of financial reporting. The second level provides the
+qualitative characteristics that make accounting information
+useful and the elements of financial statements (assets,
+liabilities, and so on). The third level identifies the recognition,
+measurement, and disclosure concepts used in establishing and
+applying accounting standards and the specific concepts to implement
+the objective. These concepts include assumptions, principles, and a
+
+--- Page 120 ---
+cost constraint that describe the present reporting environment. We
+examine these three levels of the Conceptual Framework next.
+Basic Objective
+The objective of financial reporting is the foundation of the
+Conceptual Framework. Other aspects of the Conceptual Framework—
+qualitative characteristics, elements of financial statements,
+recognition, measurement, and disclosure—flow logically from the
+objective. Those aspects of the Conceptual Framework help to ensure
+that financial reporting achieves its objective.
+The objective of general-purpose financial reporting is to provide
+financial information about the reporting entity that is useful to
+present and potential equity investors, lenders, and other
+creditors in making decisions about providing resources to the
+entity. Those decisions involve buying, selling, or holding equity and
+debt instruments, and providing or settling loans and other forms of
+credit. To make effective decisions, these parties need information to
+help them assess a company’s prospects for future net cash flows
+and/or provide a return to existing and potential investors, lenders,
+and other creditors. For example, a lender may need information in
+order to decide whether to loan money to a company. Similarly, an
+equity investor may need information about a company’s profitability
+in order to decide whether to purchase or sell shares.
+Management stewardship is how well management uses a
+company’s resources to create and sustain value. To evaluate
+stewardship, companies should provide information about their
+financial position, changes in financial position, and performance.
+They should also show how efficiently and effectively management
+and the board of directors have discharged their responsibilities to use
+the company’s resources wisely. Therefore, information that is useful
+in assessing stewardship can also be useful for assessing a company’s
+prospects for future net cash inflows. [3]
+Information that is decision-useful to capital providers may also be
+helpful to users of financial reporting who are not capital providers.
+As indicated in Chapter 1, to provide information to decision-makers,
+
+--- Page 121 ---
+companies prepare general-purpose financial statements. General-
+purpose financial reporting helps users who lack the ability to
+demand all the financial information they need from a company and
+who must therefore rely, at least partly, on the information provided
+in financial reports. However, an implicit assumption is that users
+need reasonable knowledge of business and financial accounting
+matters to understand the information contained in financial
+statements. This point is important. It means that financial statement
+preparers assume a level of competence on the part of users. This
+assumption impacts the way and the extent to which companies
+report information.
+Fundamental Concepts
+LEARNING OBJECTIVE 2
+Identify the qualitative characteristics of accounting information
+and the basic elements of financial statements.
+The objective (first level) focuses on the purpose of financial
+reporting. Later, we will discuss the ways in which this purpose is
+implemented (third level). What, then, is the purpose of the second
+level? The second level provides conceptual building blocks that
+explain the qualitative characteristics of accounting information and
+define the elements of financial statements. [4] That is, the second
+level forms a bridge between the why of accounting (the objective)
+and the how of accounting (recognition, measurement, and financial
+statement presentation).
+Qualitative Characteristics of Accounting Information
+Should a company like Marks and Spencer plc (GBR) provide
+information in its financial statements on how much it costs to
+acquire its assets (historical cost basis), or how much the assets are
+currently worth (fair value basis)? Should Samsung (KOR) combine
+and show as one company the main segments of its business, or
+should it report Consumer Electronics, Information Technology &
+
+--- Page 122 ---
+Mobile Communications, Device Solutions, and Harman as separate
+segments?
+How does a company choose an acceptable accounting method, the
+amount and types of information to disclose, and the format in which
+to present it? The answer: By determining which alternative
+provides the most useful information for decision-making
+purposes (decision-usefulness). The IASB identified the
+qualitative characteristics of accounting information that
+distinguish better (more useful) information from inferior (less
+useful) information for decision-making purposes. In addition, the
+IASB identified a cost constraint as part of the Conceptual Framework
+(discussed later in the chapter). As Illustration 2.2 shows, the
+characteristics may be viewed as a hierarchy.
+ILLUSTRATION 2.2 Hierarchy of Accounting Qualities
+As indicated by Illustration 2.2, qualitative characteristics are either
+fundamental or enhancing characteristics, depending on how they
+
+--- Page 123 ---
+affect the decision-usefulness of information. Regardless of
+classification, each qualitative characteristic contributes to the
+decision-usefulness of financial reporting information. However,
+providing useful financial information is limited by a pervasive
+constraint on financial reporting—cost should not exceed the benefits
+of a reporting practice.
+Fundamental Quality—Relevance
+Relevance is one of the two fundamental qualities that make
+accounting information useful for decision-making. Relevance and
+related ingredients of this fundamental quality are shown below.
+To be relevant, accounting information must be capable of making a
+difference in a decision. Information with no bearing on a decision is
+irrelevant. Financial information is capable of making a difference
+when it has predictive value, confirmatory value, or both.
+Financial information has predictive value if it has value as an input
+to predictive processes used by investors to form their own
+expectations about the future. For example, if potential investors are
+interested in purchasing ordinary shares in Nippon (JPN), they may
+analyze its current resources and claims to those resources, its
+dividend payments, and its past income performance to predict the
+amount, timing, and uncertainty of Nippon’s future cash flows.
+Relevant information also helps users confirm or correct prior
+expectations; it has confirmatory value. For example, when Nippon
+issues its year-end financial statements, it confirms or changes past
+(or present) expectations based on previous evaluations. It follows
+
+--- Page 124 ---
+that predictive value and confirmatory value are interrelated. For
+example, information about the current level and structure of
+Nippon’s assets and liabilities helps users predict its ability to take
+advantage of opportunities and to react to adverse situations. The
+same information helps to confirm or correct users’ past predictions
+about that ability.
+Materiality is a company-specific aspect of relevance. Information is
+material if omitting it or misstating it could influence decisions that
+users make on the basis of the reported financial information. An
+individual company determines whether information is material
+because both the nature and/or magnitude of the item(s) to which the
+information relates must be considered in the context of an individual
+company’s financial report. Information is immaterial, and therefore
+irrelevant, if it would have no impact on a decision-maker. In short, it
+must make a difference or a company need not disclose it.
+Assessing materiality is one of the more challenging aspects of
+accounting because it requires evaluating both the relative size and
+importance of an item. However, it is difficult to provide firm
+guidelines in judging when a given item is or is not material.
+Materiality varies both with relative amount and with relative
+importance. For example, the two sets of numbers in Illustration
+2.3 indicate relative size.
+Company A Company B
+Sales
+$10,000,000
+$100,000
+Costs and expenses
+9,000,000
+90,000
+Income from operations $ 1,000,000
+$ 10,000
+Unusual gain
+$ 20,000
+$ 5,000
+ILLUSTRATION 2.3 Materiality Comparison
+During the period in question, the revenues and expenses, and
+therefore the net incomes of Company A and Company B, are
+proportional. Each reported an unusual gain. In looking at the
+abbreviated income figures for Company A, it appears insignificant
+whether the amount of the unusual gain is set out separately or
+
+--- Page 125 ---
+merged with the regular operating income. The gain is only 2 percent
+of the operating income. If merged, it would not seriously distort the
+income figure. Company B has had an unusual gain of only $5,000.
+However, it is relatively much more significant than the larger gain
+realized by Company A. For Company B, an item of $5,000 amounts
+to 50 percent of its income from operations. Obviously, the inclusion
+of such an item in operating income would affect the amount of that
+income materially. Thus, we see the importance of the relative size
+of an item in determining its materiality.
+Companies and their auditors generally adopt the rule of thumb that
+anything under 5 percent of net income is considered immaterial.
+However, much can depend on specific rules. For example, one
+market regulator indicates that a company may use this percentage for
+an initial assessment of materiality, but it must also consider other
+factors. For example, companies can no longer fail to record items in
+order to meet consensus analysts’ earnings numbers, preserve a
+positive earnings trend, convert a loss to a profit or vice versa,
+increase management compensation, or hide an illegal transaction
+like a bribe. In other words, companies must consider both
+quantitative and qualitative factors in determining whether
+an item is material.
+Thus, it is generally not feasible to specify uniform quantitative
+thresholds at which an item becomes material. Rather, materiality
+judgments should be made in the context of the nature and the
+amount of an item. Materiality factors into a great many internal
+accounting decisions, too. Examples of such judgments that
+companies must make include the amount of classification required
+in a subsidiary expense ledger, the degree of accuracy required in
+allocating expenses among the departments of a company, and the
+extent to which adjustments should be made for accrued and deferred
+items. Only by the exercise of good judgment and professional
+expertise can reasonable and appropriate answers be found, which is
+the materiality concept sensibly applied.
+Fundamental Quality—Faithful Representation
+
+--- Page 126 ---
+Faithful representation is the second fundamental quality that makes
+accounting information useful for decision-making. Faithful
+representation and related ingredients of this fundamental quality are
+shown as follows.
+Faithful representation means that the numbers and descriptions
+match what really existed or happened. Faithful representation is a
+necessity because most users have neither the time nor the expertise
+to evaluate the factual content of the information. For example, if
+Siemens AG’s (DEU) income statement reports sales of €92,403
+million when it had sales of €79,644 million, then the statement fails
+to faithfully represent the proper sales amount. To be a faithful
+representation, information must be complete, neutral, and free of
+material error.
+Completeness
+Completeness means that all the information that is necessary for
+faithful representation is provided. An omission can cause
+information to be false or misleading and thus not be helpful to the
+users of financial reports. For example, when Société Générale
+(FRA) fails to provide information needed to assess the value of its
+subprime loan receivables (toxic assets), the information is not
+complete and therefore not a faithful representation of the value of
+the receivable.
+Neutrality
+
+--- Page 127 ---
+Neutrality means that a company cannot select information to favor
+one set of interested parties over another. Providing neutral or
+unbiased information must be the overriding consideration. For
+example, in the notes to financial statements, tobacco companies such
+as British American Tobacco (GBR) should not suppress
+information about the numerous lawsuits that have been filed
+because of tobacco-related health concerns—even though such
+disclosure is damaging to the company.
+Neutrality in rule-making has come under increasing attack. Some
+argue that the IASB should not issue pronouncements that cause
+undesirable economic effects on an industry or company. We disagree.
+Accounting rules (and the standard-setting process) must be free from
+bias, or we will no longer have credible financial statements. Without
+credible financial statements, individuals will no longer use this
+information. An analogy demonstrates the point: Many individuals bet
+on boxing matches because such contests are assumed not to be fixed.
+But nobody bets on wrestling matches. Why? Because the public
+assumes that wrestling matches are rigged. If financial information is
+biased or rigged, the public will lose confidence and no longer use it.
+The IASB indicates that neutrality is supported by prudence.
+Prudence is the exercise of caution when making judgments under
+conditions of uncertainty. That is, the exercise of prudence means that
+assets and income are not overstated, and liabilities and expenses are
+not understated. Furthermore, exercising prudence does not mean a
+decision maker should give primacy to the understatement of assets
+or income, or the overstatement of liabilities or expenses. Such
+misstatements can lead to the overstatement or understatement of
+income or expenses in future periods. Similarly, exercising prudence
+need not be biased against recognition of assets or income relative to
+recognition of liabilities or expenses. Such bias is inconsistent with
+neutrality—the attribute that supports faithful representation and
+useful information. [5]
+Free from Error
+
+--- Page 128 ---
+An information item that is free from error will be a more accurate
+(faithful) representation of a financial item. For example, if UBS
+(CHE) misstates its loan losses, its financial statements are
+misleading and not a faithful representation of its financial results.
+However, faithful representation does not imply total freedom from
+error. This is because most financial reporting measures involve
+estimates of various types that incorporate management’s judgment.
+For example, management must estimate the amount of uncollectible
+accounts to determine bad debt expense. And determination of
+depreciation expense requires estimation of useful lives of plant and
+equipment, as well as the residual value of the assets.
+
+--- Page 129 ---
+What Do the Numbers Mean?
+Unfaithful—For 20 Years
+The importance of faithful representation is illustrated by the
+fraud at Olympus Corporation (JPN). Here’s what happened, as
+revealed in the report on the fraud by an investigative committee.
+In transactions dating back nearly 20 years, Olympus was hiding
+losses related to export sales. The losses arose when the exchange
+rate between the dollar and yen moved in an unfavorable direction
+for Olympus, which negatively impacted investments related to the
+export sales. However, the losses were not reported; that is, the
+financial statements were not faithful representations.
+How could such a loss be hidden? At the time, accounting rules in
+Japan, as well as in other countries, allowed investments to be
+carried at cost. Theoretically, there should eventually have been a
+write-down, but there never was. Rather, management hoped that
+with additional risky investments, the losses could somehow be
+made up. They were not, and eventually the losses grew to more
+than $1 billion. Olympus seems to have been content to sit on the
+losses until 1997, when accounting rules changed and some
+investments had to be marked to market.
+Olympus then dug the hole deeper; it developed a plan to “sell” the
+losing investments, at original cost, to shell companies set up by
+Olympus for that purpose. Under lenient accounting rules, those
+shell companies would not have to be consolidated with Olympus,
+so the losses could remain hidden. That all ended when the
+investigation uncovered the sham adjustments and the losses were
+finally revealed.
+The scandal and the recent case of opaque accounting for goodwill
+and impairments at Carillion (GBR) highlight the importance of
+accounting rules that result in faithful representation of company
+performance and financial position. That is, until accounting rule-
+makers finally started to require fair value accounting for some
+financial instruments in 1997—seven years after the Olympus
+
+--- Page 130 ---
+fraud began—covering up the losses was easy. Furthermore,
+subsequent rule changes (in the wake of the Enron (USA)
+scandal) forced companies to stop hiding losses in off-balance-
+sheet entities. Indeed, the Olympus scandal might never have
+occurred if the accounting had kept a focus on faithful
+representation.
+Sources: F. Norris, “Deep Roots of Fraud at Olympus,” The New York Times
+(December 8, 2011); and J. Ford, “Carillion’s Troubles Were Shrouded in a Fog of
+Goodwill,” Financial Times (June 17, 2018).
+Enhancing Qualities
+Enhancing qualitative characteristics are complementary to the
+fundamental qualitative characteristics. These characteristics
+distinguish more useful information from less useful information.
+Enhancing characteristics, shown in the following diagram, are
+comparability, verifiability, timeliness, and understandability.
+Comparability
+Information that is measured and reported in a similar manner for
+different companies is considered comparable. Comparability
+enables users to identify the real similarities and differences in
+economic events between companies. For example, historically, the
+accounting for pensions in Japan differed from that in the United
+States. In Japan, companies generally recorded little or no charge to
+income for these costs. U.S. companies recorded pension cost as
+
+--- Page 131 ---
+incurred. As a result, it is difficult to compare the financial results of
+Toyota (JPN) or Honda (JPN) to General Motors (USA) or Ford
+(USA). Investors can only make valid evaluations if comparable
+information is available.
+Another type of comparability, consistency, is present when a
+company applies the same accounting treatment to similar events,
+from period to period. Through such application, the company shows
+consistent use of accounting standards. The idea of consistency does
+not mean, however, that companies cannot switch from one
+accounting method to another. A company can change methods, but it
+must first demonstrate that the newly adopted method is preferable to
+the old. If deemed appropriate by the auditor, the company must then
+disclose the nature and effect of the accounting change, as well as the
+justification for it, in the financial statements for the period in which
+it made the change.4 When a change in accounting principles occurs,
+the auditor generally refers to it in an explanatory paragraph of the
+audit report. This paragraph identifies the nature of the change and
+refers the reader to the note in the financial statements that discusses
+the change in detail.
+Verifiability
+Verifiability means that different knowledgeable and independent
+observers could reach consensus, although not necessarily complete
+agreement, that a particular depiction is a faithful representation. [6]
+Verifiability occurs in the following situations.
+1. Two independent auditors count Tata Motors’ (IND) inventory
+and arrive at the same physical quantity amount for inventory.
+Verification of an amount for an asset therefore can occur by
+simply counting the inventory (referred to as direct verification).
+2. Two independent auditors compute Tata Motors’ inventory value
+at the end of the year using the FIFO method of inventory
+valuation. Verification may occur by checking the inputs
+(quantity and costs) and recalculating the outputs (ending
+
+--- Page 132 ---
+inventory value) using the same accounting convention or
+methodology (referred to as indirect verification).
+Timeliness
+Timeliness means having information available to decision-makers
+before it loses its capacity to influence decisions. Having relevant
+information available sooner can enhance its capacity to influence
+decisions, and a lack of timeliness can rob information of its
+usefulness. For example, if Lenovo Group (CHN) waited to report
+its interim results until nine months after the period, the information
+would be much less useful for decision-making purposes.
+Understandability
+Decision-makers vary widely in the types of decisions they make, how
+they make decisions, the information they already possess or can
+obtain from other sources, and their ability to process the
+information. For information to be useful, there must be a connection
+(linkage) between these users and the decisions they make. This link,
+understandability, is the quality of information that lets reasonably
+informed users see its significance. Understandability is enhanced
+when information is classified, characterized, and presented clearly
+and concisely.
+For example, assume that Tomkins plc (GBR) issues a three-
+months’ report that shows interim earnings have declined
+significantly. This interim report provides relevant and faithfully
+represented information for decision-making purposes. Some users,
+upon reading the report, decide to sell their shares. Other users,
+however, do not understand the report’s content and significance.
+They are surprised when Tomkins declares a smaller year-end
+dividend and the share price declines. Thus, although Tomkins
+presented highly relevant information that was a faithful
+representation, it was useless to those who did not understand it.
+Users of financial reports are assumed to have a reasonable
+knowledge of business and economic activities. In making decisions,
+
+--- Page 133 ---
+users also should review and analyze the information with reasonable
+diligence. Information that is relevant and faithfully represented
+should not be excluded from financial reports solely because it is too
+complex or difficult for some users to understand without assistance.
+[7]
+
+--- Page 134 ---
+What Do the Numbers Mean?
+Show Me the Earnings!
+Some young technology companies, in an effort to attract investors
+who will help them strike it rich, are using unconventional
+financial terms in their financial reports. As an example, instead of
+revenue, these privately held companies use terms such as
+“bookings,” annual recurring revenues, or other numbers that
+often exceed actual revenue.
+Hortonworks Inc. (a U.S. software company) is a classic
+illustration. It forecast in March 2014 that it would have a strong
+$100 million in billings by year-end. It turns out the company was
+not talking about revenues but rather a non-U.S. GAAP number
+(referred to as an alternative performance measure, or APM) that
+it uses to gauge future business. This number looked a lot smaller
+after Hortonworks went public and reported financial results—just
+$46 million in revenues, as shown in the following chart.
+Another example is Uber Technologies (the sometimes
+controversial U.S. ride service). Uber noted that it was on target to
+reach $10 billion in bookings for 2014. Uber defines bookings as
+total fares paid by customers. But Uber keeps little of the money
+
+--- Page 135 ---
+from these bookings. As shown in the following chart, Uber gets
+only 25 cents on each $1 of bookings.
+Now that Uber is a public company, it would report the 25 cents as
+revenues, not the one dollar. Similar income reporting disconnects
+were apparent at Lululemon (CAN), which showed gains in its
+store openings and top line (sales) but not a corresponding
+increase in profit margin.
+Given these examples, it is understandable that standard-setters
+have increased their scrutiny of the reporting of APMs. The lesson
+for investors: Keep an eye on verifiable and comparable financial
+measures of performance and be sure to count expenses and net
+income according to IFRS. Using gross measures such as billings,
+recurring revenues, or some non-financial measures, and APMs to
+determine success may be hazardous to your financial health.
+Sources: Telis Demos, Shira Ovide, and Susan Pulliam, “Tech Startups Play Numbers
+Game,” Wall Street Journal (June 10, 2015), pp. A1 and A12; L. Beilfuss, “Lululemon
+Sales Rise, Gross Margin Declines,” Wall Street Journal (September 10, 2015); and
+PwC, “Alternative Performance Measures—Better Described as ‘Profits Before
+Unfortunate Debits’?” IFRS News (March 2016).
+Basic Elements
+An important aspect of developing any theoretical structure is the
+body of basic elements or definitions to be included in it.
+
+--- Page 136 ---
+Accounting uses many terms with distinctive and specific meanings.
+These terms constitute the language of business or the jargon of
+accounting.
+One such term is asset. Is it merely something we own? Or is an asset
+something we have the right to use, as in the case of leased
+equipment? Or is it anything of value used by a company to generate
+revenues—in which case, should we also consider the managers of a
+company as an asset?
+As this example and the lottery ticket example in the opening story
+illustrate, it is necessary, therefore, to develop basic definitions for the
+elements of financial statements. The Conceptual Framework defines
+the five interrelated elements that most directly relate to measuring
+the performance and financial status of a business enterprise. We list
+them below for review and information purposes; you need not
+memorize these definitions at this point. We will explain and examine
+each of these elements in more detail in subsequent chapters.
+
+--- Page 137 ---
+Elements of Financial Statements
+The elements directly related to the measurement of financial
+position are assets, liabilities, and equity. These are defined as
+follows.
+Asset. A present economic resource controlled by the entity as a
+result of past events. (An economic resource is a right that has the
+potential to produce economic benefits).
+Liability. A present obligation of the entity to transfer an
+economic resource as a result of past events.
+Equity. The residual interest in the assets of the entity after
+deducting all its liabilities.
+The elements of income and expenses are defined as follows.
+Income. Increases in assets, or decreases in liabilities, that result
+in increases in equity, other than those relating to contributions
+from holders of equity claims.
+Expenses. Decreases in assets, or increases in liabilities, that
+result in decreases in equity, other than those relating to
+distributions to holders of equity claims.
+As indicated, the IASB classifies the elements into two distinct groups.
+[8] The first group of three elements—assets, liabilities, and equity—
+describes amounts of resources and claims to resources at a moment
+in time. The second group of two elements describes transactions,
+events, and circumstances that affect a company during a period of
+time. The first group, affected by elements of the second group,
+provides at any time the cumulative result of all changes. This
+interaction is referred to as “articulation.” That is, key figures in one
+financial statement correspond to balances in another.
+Assumptions
+
+--- Page 138 ---
+LEARNING OBJECTIVE 3
+Review the basic assumptions of accounting.
+The third level of the Conceptual Framework consists of concepts that
+implement the basic objectives of level one. These concepts explain
+how companies should recognize, measure, and report financial
+elements and events. Here, we identify the concepts as basic
+assumptions, principles, and a cost constraint. Not everyone uses this
+classification system, so focus your attention more on
+understanding the concepts than on how we classify and organize
+them. These concepts serve as guidelines in responding to
+controversial financial reporting issues.
+As indicated earlier, the Conceptual Framework specifically identifies
+only one assumption—the going concern assumption. Yet, we believe
+there are a number of other assumptions that are present in the
+reporting environment. As a result, for completeness, we discuss each
+of these five basic assumptions in turn: (1) economic entity, (2)
+going concern, (3) monetary unit, (4) periodicity, and (5)
+accrual basis.
+Economic Entity Assumption
+The economic entity assumption means that economic
+activity can be identified with a particular unit of
+accountability. In other words, a company keeps its activity separate
+and distinct from its owners and any other business unit. At the most
+basic level, the economic entity assumption dictates that Sappi
+Limited (ZAF) record the company’s financial activities separately
+from those of its owners and managers. Equally important, financial
+statement users need to be able to distinguish the activities and
+elements of different companies, such as Volvo (SWE), Ford (USA),
+and Volkswagen AG (DEU). If users could not distinguish the
+activities of different companies, how would they know which
+company financially outperformed the other?
+
+--- Page 139 ---
+The entity concept does not apply solely to the segregation of activities
+among competing companies, such as Toyota (JPN) and Hyundai
+(KOR). An individual, department, division, or an entire industry
+could be considered a separate entity if we choose to define it in this
+manner. Thus, the entity concept does not necessarily refer to a
+legal entity. A parent company and its subsidiaries are separate legal
+entities, but merging their activities for accounting and reporting
+purposes does not violate the economic entity assumption.5 [9]
+Going Concern Assumption
+Most accounting methods rely on the going concern assumption
+—that the company will have a long life. Despite numerous
+business failures, most companies have a fairly high continuance rate.
+As a rule, we expect companies to last long enough to fulfill their
+objectives and commitments.
+This assumption has significant implications. The historical cost
+principle would be of limited usefulness if we assumed eventual
+liquidation. Under a liquidation approach, for example, a company
+would better state asset values at fair value than at acquisition cost.
+Depreciation and amortization policies are justifiable and
+appropriate only if we assume some permanence to the
+company. If a company adopts the liquidation approach, the
+current/non-current classification of assets and liabilities loses much
+of its significance. Labeling anything a long-lived or non-current asset
+would be difficult to justify. Indeed, listing liabilities on the basis of
+priority in liquidation would be more reasonable.
+The going concern assumption applies in most business situations.
+Only where liquidation appears imminent is the assumption
+inapplicable. In these cases, a total revaluation of assets and
+liabilities can provide information that closely approximates the
+company’s fair value. You will learn more about accounting problems
+related to a company in liquidation in advanced accounting courses.
+[10]
+Monetary Unit Assumption
+
+--- Page 140 ---
+The monetary unit assumption means that money is the common
+denominator of economic activity and provides an appropriate basis
+for accounting measurement and analysis. That is, the monetary unit
+is the most effective means of expressing to interested parties changes
+in capital and exchanges of goods and services. Application of this
+assumption depends on the even more basic assumption that
+quantitative data are useful in communicating economic information
+and in making rational economic decisions.
+Furthermore, accounting generally ignores price-level changes
+(inflation and deflation) and assumes that the unit of measure—
+euros, dollars, or yen—remains reasonably stable. We therefore use
+the monetary unit assumption to justify adding 1985 pounds to 2015
+pounds sterling without any adjustment. It is expected that the pound
+or other currency, unadjusted for inflation or deflation, will continue
+to be used to measure items recognized in financial statements. Only
+if circumstances change dramatically (such as high inflation rates
+similar to that in some South American countries) will “inflation
+accounting” be considered.6
+Periodicity Assumption
+To measure the results of a company’s activity accurately, we would
+need to wait until it liquidates. Decision-makers, however, cannot wait
+that long for such information. Users need to know a company’s
+performance and economic status on a timely basis so that they can
+evaluate and compare companies, and take appropriate actions.
+Therefore, companies must report information periodically. [13]
+The periodicity (or time period) assumption implies that a
+company can divide its economic activities into artificial time periods.
+These time periods vary, but the most common are monthly,
+quarterly, and yearly.
+The shorter the time period, the more difficult it is to determine the
+proper net income for the period. A month’s results usually prove less
+reliable than a quarter’s results, and a quarter’s results are likely to be
+less reliable than a year’s results. Investors desire and demand that a
+company quickly process and disseminate information. Yet the
+
+--- Page 141 ---
+quicker a company releases the information, the more likely the
+information will include errors. This phenomenon provides an
+interesting example of the trade-off between relevance and
+faithful representation in preparing financial data.
+The problem of defining the time period becomes more serious as
+product cycles shorten and products become obsolete more quickly.
+Many believe that, given technology advances, companies need to
+provide more online, real-time financial information to ensure the
+availability of relevant information.
+Accrual Basis of Accounting
+Companies prepare financial statements using the accrual basis of
+accounting. Accrual-basis accounting means that transactions
+that change a company’s financial statements are recorded in the
+periods in which the events occur. [14] For example, using the accrual
+basis means that companies recognize revenues when they satisfy a
+performance obligation (the revenue recognition principle). This is in
+contrast to recognition based on receipt of cash. Likewise, under the
+accrual basis, companies recognize expenses when incurred (the
+expense recognition principle) rather than when paid.
+An alternative to the accrual basis is the cash basis. Under cash-basis
+accounting, companies record revenue only when cash is received.
+They record expenses only when cash is paid. The cash basis of
+accounting is prohibited under IFRS. Why? Because it does not record
+revenue according to the revenue recognition principle (discussed in
+the next section). Similarly, under the cash basis companies do not
+record expenses when incurred, which violates the expense
+recognition principle (discussed in the next section).
+Financial statements prepared on the accrual basis inform users not
+only of past transactions involving the payment and receipt of cash
+but also of obligations to pay cash in the future and of resources that
+represent cash to be received in the future. Hence, they provide the
+type of information about past transactions and other events that is
+most useful in making economic decisions.
+
+--- Page 142 ---
+Measurement, Recognition, and Disclosure
+Concepts
+LEARNING OBJECTIVE 4
+Explain the application of the basic principles of accounting.
+Basic Principles of Accounting
+We generally use four basic principles of accounting to record and
+report transactions: (1) measurement, (2) revenue recognition, (3)
+expense recognition, and (4) full disclosure. We look at each in turn.
+Measurement Principles
+We presently have a “mixed-attribute” system in which one of two
+measurement principles is used. The most commonly used
+measurements are based on historical cost and current cost. Selection
+of which principle to follow generally reflects a trade-off between
+relevance and faithful representation. Here, we discuss each
+measurement principle.
+Historical Cost
+IFRS requires that companies account for and report many assets and
+liabilities on the basis of acquisition price. This is often referred to as
+the historical cost principle. Cost has an important advantage over
+other valuations: It is generally thought to be a faithful
+representation of the amount paid for a given item.
+To illustrate this advantage, consider the problems if companies select
+current selling price instead. Companies might have difficulty
+establishing a value for unsold items. Every member of the accounting
+department might value the assets differently. Further, how often
+would it be necessary to establish sales value? All companies close
+their accounts at least annually. But some compute their net income
+every month. Those companies would have to place a sales value on
+
+--- Page 143 ---
+every asset each time they wished to determine income. Critics raise
+similar objections against current cost (replacement cost, present
+value of future cash flows) and any other basis of valuation except
+historical cost.
+What about liabilities? Do companies account for them on a cost
+basis? Yes, they do. Companies issue liabilities, such as bonds, notes,
+and accounts payable, in exchange for assets (or services), for an
+agreed-upon price. This price, established by the exchange
+transaction, is the “cost” of the liability. A company uses this
+amount to record the liability in the accounts and report it in financial
+statements. Thus, many users prefer historical cost because it
+provides them with a verifiable benchmark for measuring
+historical trends. [15]
+Current Value
+Current value measures provide monetary information about assets,
+liabilities, and related income and expenses, using information
+updated to reflect conditions at the measurement date. Because of the
+updating, current values of assets and liabilities reflect changes in
+amounts since the previous measurement date. Current value bases
+include:
+1. Fair value.
+2. Value in use for assets and fulfillment value for liabilities.
+3. Current cost. [16]
+Fair Value
+Fair value is defined as “the price that would be received to sell an
+asset or paid to transfer a liability in an orderly transaction between
+market participants at the measurement date.” Fair value is therefore
+a market-based measure. [17] Recently, IFRS has increasingly called
+for use of fair value measurements in the financial statements. This is
+often referred to as the fair value principle. Fair value information
+
+--- Page 144 ---
+may be more useful than historical cost for certain types of assets and
+liabilities and in certain industries. For example, companies report
+many financial instruments, including derivatives, at fair value.
+Certain industries, such as brokerage houses and mutual funds,
+prepare their basic financial statements on a fair value basis. At initial
+acquisition, historical cost equals fair value. In subsequent periods, as
+market and economic conditions change, historical cost and fair value
+often diverge. Thus, fair value measures or estimates often provide
+more relevant information about the expected future cash flows
+related to the asset or liability. For example, when long-lived assets
+decline in value, a fair value measure determines any impairment
+loss.
+The IASB believes that fair value information in some circumstances
+is more relevant to users than historical cost. In these cases, fair value
+measurement provides better insight into the value of a company’s
+assets and liabilities (its financial position) and a better basis for
+assessing future cash flow prospects. The IASB provides an option to
+use fair value (referred to as the fair value option) as the basis for
+measurement of financial assets and financial liabilities. [18] The
+primary purpose of this option is to increase the relevance of the
+accounting information by eliminating cases where an accounting
+mismatch is created by using a different measurement method. As a
+result, companies now have the option to record fair value in their
+accounts for most financial instruments, including such items as
+receivables, investments, and debt securities.
+Use of fair value in financial reporting is increasing. However,
+measurement based on fair value introduces increased subjectivity
+into accounting reports when fair value information is not readily
+available. To increase consistency and comparability in fair value
+measures, the IASB established a fair value hierarchy that provides
+insight into the priority of valuation techniques to use to determine
+fair value. As shown in Illustration 2.4, the fair value hierarchy is
+divided into three broad levels.
+
+--- Page 145 ---
+ILLUSTRATION 2.4 Fair Value Hierarchy
+As Illustration 2.4 indicates, Level 1 is the least subjective because it is
+based on quoted prices, like a closing share price in the Financial
+Times. Level 2 is more subjective and would rely on evaluating similar
+assets or liabilities in active markets. At the most subjective level,
+Level 3, much judgment is needed, based on the best information
+available, to arrive at a relevant and representationally faithful fair
+value measurement.7
+It is easy to arrive at fair values when markets are liquid with many
+traders, but fair value answers are not readily available in other
+situations. For example, how do you value the mortgage assets of a
+subprime lender such as New Century (USA) given that the market
+for these securities has essentially disappeared? A great deal of
+expertise and sound judgment will be needed to arrive at appropriate
+answers. IFRS also provides guidance on estimating fair values when
+market-related data are not available. In general, these valuation
+issues relate to Level 3 fair value measurements. These
+measurements may be developed using expected cash flow and
+present value techniques, as described in Chapter 6.
+Value in Use / Fulfillment Value
+Value in use is the present value of the cash flows, or other
+economic benefits that a company expects to derive from the use of
+an asset and from its ultimate disposal. Fulfillment value is the
+present value of the cash, or other economic resources that a company
+expects to be obliged to transfer as it fulfills a liability. Value in
+use and fulfillment value cannot be observed directly and are
+
+--- Page 146 ---
+determined using cash-flow-based measurement techniques. Value in
+use and fulfillment value reflect the same factors described for fair
+value but from a company-specific perspective rather than from a
+market-participant perspective.
+Current Cost
+The current cost of an asset is the cost of an equivalent asset at the
+measurement date, comprising the consideration that would be paid
+at the measurement date plus the transaction costs that would be
+incurred at that date. The current cost of a liability is the
+consideration that would be received for an equivalent liability at the
+measurement date minus the transaction costs that would be incurred
+at that date. Similar to historical cost, current cost is an entry value: It
+reflects prices in the market in which the company would acquire the
+asset or would incur the liability. As a result, current cost is
+distinguished from fair value, value in use, and fulfillment value,
+which are exit values.
+However, unlike historical cost, current cost reflects conditions at the
+measurement date. Current cost frequently cannot be determined
+directly by observing prices in an active market and must be
+determined indirectly by other means. For example, if prices are
+available only for new assets, the current cost of a used asset might
+need to be estimated by adjusting the current price of a new asset to
+reflect the current age and condition of the asset held by the entity.8
+Summary
+As indicated above, we presently have a “mixed-attribute” system that
+permits the use of both historical cost and current value. Although the
+historical cost principle continues to be an important basis for
+valuation, recording and reporting of current (fair value) information
+is increasing. How do we determine which measurement basis should
+be used? In many cases, IFRSs specify which basis should be used.
+For instance, inventory is generally recorded at cost unless it is
+obsolete or the value is impaired. As a general principle, the choice
+
+--- Page 147 ---
+should result in the most useful information. That is, the
+measurement basis selected should provide relevant information that
+faithfully represents the event or transaction. The recent
+measurement and disclosure guidance should increase consistency
+and comparability when current (fair) value measurements are used
+in the financial statements and related notes.9
+Recognition
+Recognition is the process of capturing for inclusion in the
+statement of financial position or the statement(s) of financial
+performance an item that meets the definition of one of the elements
+of financial statements—an asset, a liability, equity, income, or
+expenses. [20] Recognition involves depicting the item in one of
+those statements—either alone or in aggregation with other items—in
+words and by a monetary amount, and including that amount in one
+or more totals in that statement. The amount at which an asset, a
+liability, or equity is recognized in the statement of financial position
+is referred to as its “carrying amount.” Two important recognition
+principles relate to revenue and expense recognition.10
+Revenue Recognition Principle
+When a company agrees to perform a service or sell a product to a
+customer, it has a performance obligation. When the company
+satisfies this performance obligation, it recognizes revenue. The
+revenue recognition principle therefore requires that companies
+recognize revenue in the accounting period in which the performance
+obligation is satisfied.
+To illustrate, assume that Klinke Cleaners cleans clothing on June 30
+but customers do not claim and pay for their clothes until the first
+week of July. Klinke should record revenue in June when it performed
+the service (satisfied the performance obligation) rather than in July
+when it received the cash. At June 30, Klinke would report a
+receivable on its statement of financial position and revenue in its
+income statement for the service performed. To illustrate the revenue
+recognition principle in more detail, assume that Airbus (DEU) signs
+
+--- Page 148 ---
+a contract to sell airplanes to British Airways (GBR) for €100
+million. To determine when to recognize revenue, Airbus uses the five
+steps shown in Illustration 2.5.11
+ILLUSTRATION 2.5 The Five Steps of Revenue Recognition
+Many revenue transactions pose few problems because the
+transaction is initiated and completed at the same time. However,
+
+--- Page 149 ---
+when to recognize revenue in other certain situations is often more
+difficult. The risk of errors and misstatements is significant. Chapter
+18 discusses revenue recognition issues in more detail.
+Expense Recognition Principle
+Expenses are defined as outflows or other “using up” of assets or
+incurring of liabilities (or a combination of both) during a period as a
+result of delivering or producing goods and/or rendering services. It
+follows, then, that recognition of expenses is related to net changes in
+assets and earning revenues. In practice, the approach for recognizing
+expenses is, “Let the expense follow the revenues.” This approach is
+the expense recognition principle.
+To illustrate, companies recognize expenses not when they pay wages
+or make a product, but when the work (service) or the product
+actually contributes to revenue. Thus, companies tie expense
+recognition to revenue recognition. That is, by matching efforts
+(expenses) with accomplishment (revenues), the expense
+recognition principle is implemented in accordance with the
+definition of expense (outflows or other using up of assets or
+incurring of liabilities).12
+Some costs, however, are difficult to associate with revenue. As a
+result, some other approach must be developed. Often, companies use
+a “rational and systematic” allocation policy to apply the expense
+recognition principle. This type of expense recognition involves
+assumptions about the benefits that a company receives as well as the
+cost associated with those benefits. For example, a company like
+Nokia (FIN) allocates the cost of equipment over all of the
+accounting periods during which it uses the asset because the asset
+contributes to the generation of revenue throughout its useful life.
+Companies charge some costs to the current period as expenses (or
+losses) simply because they cannot determine a connection with
+revenue. Examples of these types of costs are officers’ salaries and
+other administrative expenses.
+
+--- Page 150 ---
+Costs are generally classified into two groups: product costs and
+period costs. Product costs, such as material, labor, and overhead,
+attach to the product. Companies carry these costs into future periods
+if they recognize the revenue from the product in subsequent periods.
+Period costs, such as officers’ salaries and other administrative
+expenses, attach to the period. Companies charge off such costs in the
+immediate period, even though benefits associated with these costs
+may occur in the future. Why? Because companies cannot determine a
+direct relationship between period costs and revenue. Illustration
+2.6 summarizes these expense recognition procedures.
+Type of Cost
+Relationship
+Recognition
+Product costs:
+Material
+Labor
+Overhead
+Direct relationship
+between cost and
+revenue.
+Recognize in period of
+revenue (matching).
+Period costs:
+Salaries
+Administrative
+costs
+No direct relationship
+between cost and
+revenue.
+Expense as incurred.
+ILLUSTRATION 2.6 Expense Recognition Procedures for
+Product and Period Costs
+Full Disclosure Principle
+In deciding what information to report, companies follow the general
+practice of providing information that is of sufficient importance to
+influence the judgment and decisions of an informed user. Often
+referred to as the full disclosure principle, this practice recognizes
+that the nature and amount of information included in financial
+reports reflects a series of judgmental trade-offs. These trade-offs
+strive for (1) sufficient detail to disclose matters that make a
+
+--- Page 151 ---
+difference to users, yet (2) sufficient condensation to make the
+information understandable, keeping in mind costs of preparing
+and using it.
+Users find information about financial position, income, cash flows,
+and investments in one of three places: (1) within the main body of
+financial statements, (2) in the notes to those statements, or (3) as
+supplementary information.
+As discussed in Chapter 1, the financial statements are the
+statement of financial position, income statement (or statement of
+comprehensive income), statement of cash flows, and statement of
+changes in equity. They are a structured means of communicating
+financial information. As discussed earlier, an item that meets the
+definition of an element should be recognized in the financial
+statements. In situations in which an element is not recognized in the
+financial statements (for example, due to existence or measurement
+uncertainty), the company may provide information relevant to the
+item through disclosure in the notes. [22]
+Disclosure is not a substitute for proper accounting. As a noted
+accountant indicated, “Good disclosure does not cure bad accounting
+any more than an adjective or adverb can be used without, or in place
+of, a noun or verb.” Thus, for example, cash-basis accounting for cost
+of goods sold is misleading, even if a company discloses accrual-basis
+amounts in the notes to the financial statements.
+The notes to financial statements generally amplify or explain the
+items presented in the main body of the statements. If the main body
+of the financial statements gives an incomplete picture of the
+performance and position of the company, the notes should provide
+the additional information needed. Information in the notes does not
+have to be quantifiable, nor does it need to qualify as an element.
+Notes can be partially or totally narrative. Examples of notes include
+descriptions of the accounting policies and methods used in
+measuring the elements reported in the statements, explanations of
+uncertainties and contingencies, and statistics and details too
+voluminous for presentation in the financial statements. The notes
+
+--- Page 152 ---
+can be essential to understanding the company’s performance and
+position.
+Supplementary information may include details or amounts that
+present a different perspective from that adopted in the financial
+statements. It may be quantifiable information that is high in
+relevance but low in reliability. For example, oil and gas companies
+typically provide information on proven reserves as well as the related
+discounted cash flows.
+Supplementary information may also include management’s
+explanation of the financial information and its discussion of the
+significance of that information. For example, many business
+combinations have produced financing arrangements that demand
+new accounting and reporting practices and principles. In each of
+these situations, the same problem must be faced: making sure the
+company presents enough information to ensure that the reasonably
+prudent investor will not be misled.13
+We discuss the content, arrangement, and display of financial
+statements, along with other facets of full disclosure, in Chapters 4, 5,
+and 24.
+Cost Constraint
+In providing information with the qualitative characteristics that
+make it useful, companies must consider an overriding factor that
+limits (constrains) the reporting. This is referred to as the cost
+constraint. That is, companies must weigh the costs of providing the
+information against the benefits that can be derived from using it.
+Rule-making bodies and governmental agencies use cost-benefit
+analysis before making final their informational requirements. In
+order to justify requiring a particular measurement or disclosure, the
+benefits perceived to be derived from it must exceed the costs
+perceived to be associated with it. [23]
+A company executive made the following remark to a standard-setter
+about a proposed rule: “In all my years in the financial arena, I have
+never seen such an absolutely ridiculous proposal…. To dignify these
+
+--- Page 153 ---
+‘actuarial’ estimates by recording them as assets and liabilities would
+be virtually unthinkable except for the fact that the FASB has done
+equally stupid things in the past…. For God’s sake, use common sense
+just this once.”14 Although extreme, this remark indicates the
+frustration expressed by members of the business community about
+accounting standard-setting, and whether the benefits of a given
+pronouncement exceed the costs.
+The difficulty in cost-benefit analysis is that the costs and especially
+the benefits are not always evident or measurable. The costs are of
+several kinds: costs of collecting and processing, of disseminating, of
+auditing, of potential litigation, of disclosure to competitors, and of
+analysis and interpretation. Benefits to preparers may include greater
+management control and access to capital at a lower cost. Users may
+receive better information for allocation of resources, tax assessment,
+and rate regulation. As noted earlier, benefits are generally more
+difficult to quantify than are costs.
+The implementation of the provisions of the Sarbanes-Oxley Act in
+the United States illustrates the challenges in assessing costs and
+benefits of standards. One study estimated the increased costs of
+complying with the new internal-control standards related to the
+financial reporting process to be an average of $7.8 million per
+company. However, the study concluded that “… quantifying the
+benefits of improved more reliable financial reporting is not fully
+possible.”15
+Despite the difficulty in assessing the costs and benefits of its rules,
+the IASB attempts to determine that each proposed pronouncement
+will fill a significant need and that the costs imposed to meet the
+standard are justified in relation to overall benefits of the resulting
+information. In addition, they seek input on costs and benefits as part
+of their due process.
+
+--- Page 154 ---
+What Do the Numbers Mean?
+Let’s Be Prudent
+Historically, it has been acceptable practice to invoke the
+additional constraint of prudence or conservatism as a justification
+for an accounting treatment under conditions of uncertainty.
+Prudence or conservatism means the exercise of caution when
+making decisions under conditions of uncertainty. However, the
+Conceptual Framework, when updated in 2010, indicated that
+prudence or conservatism is generally in conflict with the quality
+of neutrality. This is because being prudent or conservative can
+lead to bias in the reported financial position and financial
+performance. In fact, introducing biased understatement of assets
+(or overstatement of liabilities) in one period frequently leads to
+overstating financial performance in later periods—a result that
+cannot be described as prudent. This is inconsistent with
+neutrality, which encompasses freedom from bias. Accordingly,
+the Conceptual Framework issued in 2010 did not include
+prudence or conservatism as desirable qualities of financial
+reporting information.
+The IASB heard many calls to bring prudence back into the
+Conceptual Framework, arguing that prudence is one of the most
+important tenets of accounting. The IASB was persuaded by
+arguments that prudence can actually help achieve neutrality
+when selecting and applying accounting policies. As a result, the
+IASB reintroduced the term “prudence,” describing it in the 2018
+Conceptual Framework as “cautious prudence,” which it says is
+“the exercise of caution when making judgments under conditions
+of uncertainty.” The Board hoped that would satisfy stakeholders.
+“The previous conceptual framework led a lot of people to believe
+that the Board did not think prudence to be important,” said Hans
+Hoogervorst, IASB Chair. “And I think in the new conceptual
+framework, that confusion will be gone.”
+
+--- Page 155 ---
+Sources: Peter Hogarth, “Dear Prudence,” PricewaterhouseCoopers blog,
+pwc.blogs.com/ifrs/2015/06/dear-prudence.html (June 3, 2015); and H. Hoogervorst,
+“IASB Completes Revisions to Its Conceptual Framework,” (IASB, March 29, 2018).
+Summary of the Structure
+Illustration 2.7 presents the Conceptual Framework for Financial
+Reporting discussed in this chapter. It is similar to Illustration 2.1
+except that it provides additional information for each level. We
+cannot overemphasize the usefulness of this conceptual framework in
+helping to understand many of the problem areas that we examine in
+later chapters.
+
+--- Page 156 ---
+ILLUSTRATION 2.7 Conceptual Framework for Financial
+Reporting
+Review and Practice
+Key Terms Review
+accrual-basis accounting
+assumptions
+
+--- Page 157 ---
+basic elements
+comparability
+completeness
+conceptual framework
+confirmatory value
+conservatism
+consistency
+cost constraint
+current cost
+current value
+decision-useful
+economic entity assumption
+expense recognition principle
+fair value
+fair value option
+fair value principle
+faithful representation
+free from error
+full disclosure principle
+fulfillment value
+going concern assumption
+historical cost principle
+management stewardship
+materiality
+monetary unit assumption
+neutrality
+
+--- Page 158 ---
+notes to financial statements
+objective of financial reporting
+period costs
+periodicity (or time period) assumption
+predictive value
+principles of accounting
+product costs
+prudence
+qualitative characteristics
+recognition
+relevant
+revenue recognition principle
+supplementary information
+timeliness
+understandability
+value in use
+verifiability
+Learning Objectives Review
+1 Describe the usefulness of a conceptual framework and
+the objective of financial reporting.
+The accounting profession needs a conceptual framework to: (1) build
+on and relate to an established body of concepts and objectives, (2)
+provide a framework for solving new and emerging practical problems,
+(3) increase financial statement users’ understanding of and
+confidence in financial reporting, and (4) enhance comparability
+among companies’ financial statements. The IASB’s conceptual
+
+--- Page 159 ---
+framework, The Conceptual Framework for Financial Reporting, is
+described in one document.
+The objective of general-purpose financial reporting is to provide
+financial information about the reporting entity that is useful to
+present and potential equity investors, lenders, and other
+creditors in making decisions about providing resources to the
+entity. Those decisions involve buying, selling, or holding equity and
+debt instruments, and providing or settling loans and other forms of
+credit. Information that is decision-useful to capital providers may
+also be helpful to other users of financial reporting who are not capital
+providers.
+2 Identify the qualitative characteristics of accounting
+information and the basic elements of financial
+statements.
+The overriding criterion by which accounting choices can be judged is
+decision-usefulness—that is, providing information that is most
+useful for decision-making. Relevance and faithful representation are
+the two fundamental qualities that make information decision-useful.
+Relevant information makes a difference in a decision by having
+predictive or confirmatory value and by being material. Faithful
+representation is characterized by completeness, neutrality, and being
+free from error. Enhancing qualities of useful information are: (1)
+comparability, (2) verifiability, (3) timeliness, and (4)
+understandability.
+The basic elements of financial statements are: (1) assets, (2)
+liabilities, (3) equity, (4) income, and (5) expenses. We define these
+elements in the “Elements of Financial Statements” box in the
+chapter.
+3 Review the basic assumptions of accounting.
+Five basic assumptions underlying financial accounting are as follows.
+(1) Economic entity: The activity of a company can be kept separate
+
+--- Page 160 ---
+and distinct from its owners and any other business unit. (2) Going
+concern: Without information to the contrary, the company will have
+a long life. (3) Monetary unit: Money is the common denominator by
+which economic activity is conducted, and the monetary unit provides
+an appropriate basis for measurement and analysis. (4) Periodicity:
+The economic activities of a company can be divided into artificial
+time periods. (5) Accrual basis: Transactions that change a company’s
+financial statements are recorded in the periods in which the events
+occur, rather than when cash is paid or received.
+4 Explain the application of the basic principles of
+accounting.
+(1) Measurement principle: IFRS requires the use of historical cost or
+fair value depending on the situation. Although the historical cost
+principle (measurement based on acquisition price) continues to be
+an important basis for valuation, recording and reporting of fair value
+information is increasing. (2) Revenue recognition principle: A
+company generally recognizes revenue when it satisfies a performance
+obligation. (3) Expense recognition principle: As a general rule,
+companies recognize expenses when the service or the product
+actually makes its contribution to revenue (commonly referred to as
+matching). (4) Full disclosure principle: Companies generally provide
+information that is of sufficient importance to influence the judgment
+and decisions of an informed user.
+The cost of providing the information must be weighed against the
+benefits that can be derived from using the information.
+Enhanced Review and Practice
+Go online for multiple-choice questions with solutions, review
+exercises with solutions, and a full glossary of all key terms.
+Practice Problem
+
+--- Page 161 ---
+Meadow plc has hired you to review its accounting records prior to
+the closing of the revenue and expense accounts as of December 31,
+the end of the current fiscal year. The following information comes
+to your attention.
+1. During the current year, Meadow plc changed its policy in
+regard to expensing purchases of small tools. In the past, it had
+expensed these purchases because they amounted to less than
+2% of net income. Now, the president has decided that the
+company should follow a policy of capitalization and
+subsequent depreciation. It is expected that purchases of small
+tools will not fluctuate greatly from year to year.
+2. The company constructed a warehouse at a cost of £1,000,000.
+It had been depreciating the asset on a straight-line basis over
+10 years. In the current year, the controller doubled
+depreciation expense because the replacement cost of the
+warehouse had increased significantly.
+3. When the statement of financial position was prepared, the
+preparer omitted detailed information as to the amount of cash
+on deposit in each of several banks. Only the total amount of
+cash under a caption “Cash in banks” was presented.
+4. On July 15 of the current year, Meadow plc purchased an
+undeveloped tract of land at a cost of £320,000. The company
+spent £80,000 in subdividing the land and getting it ready for
+sale. An appraisal of the property at the end of the year
+indicated that the land was now worth £500,000. Although
+none of the lots were sold, the company recognized revenue of
+£180,000, less related expenses of £80,000, for a net income
+on the project of £100,000.
+5. For a number of years, the company used the FIFO method for
+inventory valuation purposes. During the current year, the
+president noted that all the other companies in the industry
+had switched to the average-cost method. The company decided
+
+--- Page 162 ---
+not to switch to average-cost because net income would
+decrease £830,000.
+Instructions
+State whether or not you agree with the decisions made by Meadow
+plc. Support your answers with reference, whenever possible, to the
+generally accepted principles, assumptions, and cost constraint
+applicable in the circumstances.
+Solution
+1. From the facts, it is difficult to determine whether to agree or
+disagree. Consistency, of course, is violated in this situation
+although its violation may not be material. Furthermore, the
+change of accounting policies regarding the treatment of small
+tools cannot be judged good or bad but would depend on the
+circumstances. In this case, it seems that the result will be
+approximately the same whether the company capitalizes and
+expenses, or simply expenses each period, since the purchases are
+fairly uniform. Perhaps from a cost standpoint (expediency), it
+might be best to continue the present policy rather than become
+involved in detailed depreciation schedules, assuming that
+purchases remain fairly uniform. On the other hand, the
+president may believe there is a significant unrecorded asset that
+should be shown on the statement of financial position. If such is
+the case, capitalization and subsequent depreciation would be
+more appropriate.
+2. Disagree. At the present time, accountants do not recognize price
+level or current value adjustments in the accounts. Hence, unless
+the controller is proposing use of revaluation accounting for all
+warehouses, it is misleading to deviate from the historical cost
+principle because conjecture or opinion can take place. Also,
+depreciation is not so much a matter of valuation as it is a means
+of cost allocation. Assets are not depreciated on the basis of a
+
+--- Page 163 ---
+decline in their fair value. Rather, they are depreciated on the
+basis of a systematic charge of expired cost against revenues.
+3. Agree. The full disclosure principle recognizes that reasonable
+condensation and summarization of the details of a company’s
+operations and financial position are essential to readability and
+comprehension. Thus, in determining what is full disclosure, the
+accountant must decide whether omission will mislead readers of
+the financial statements. Generally, companies present only the
+total amount of cash on a statement of financial position unless
+some special circumstance is involved (such as a possible
+restriction on the use of the cash). In most cases, however, the
+company’s presentation would be considered appropriate and in
+accordance with the full disclosure principle.
+4. Disagree. The historical cost principle indicates that companies
+account for assets and liabilities on the basis of cost. If sales value
+were selected, for example, it would be extremely difficult to
+establish an appraisal value for the given item without selling it.
+Note, too, that the revenue recognition principle provides
+guidance on when revenue should be recognized. Revenue should
+be recognized when the performance obligation is satisfied. In
+this case, the revenue was not recognized because the critical
+event for satisfying the performance obligation, “sale of the land
+with transfer to the buyer,” had not occurred.
+5. From the facts, it is difficult to determine whether to agree or
+disagree with the president. The president’s approach is not a
+violation of any principle. Consistency requires that accounting
+entities give accountable events the same accounting treatment
+from period to period for a given business enterprise. It says
+nothing concerning consistency of accounting principles among
+business enterprises. From a comparability viewpoint, it might be
+useful to report the information on an average-cost basis. But, as
+indicated above, there is no requirement to do so.
+
+--- Page 164 ---
+Exercises, Problems, Problem Solution Walkthrough Videos, Data
+Analytics Activities, and many more assessment tools and
+resources are available for practice in Wiley’s online courseware.
+Questions
+1. What is a conceptual framework? Why is a conceptual framework
+necessary in financial accounting?
+2. What is the primary objective of financial reporting?
+3. Does management stewardship have a role in the objective of
+financial reporting? Explain.
+4. What is meant by the term “qualitative characteristics of
+accounting information”?
+5. Briefly describe the two fundamental qualities of useful accounting
+information.
+6. How are materiality (and immateriality) related to the proper
+presentation of financial statements? What factors and measures
+should be considered in assessing the materiality of a misstatement in
+the presentation of a financial statement?
+7. Your friend (not an accounting major) thinks that prudence in the
+Conceptual Framework means being conservative. Do you agree?
+Explain.
+8. What are the enhancing qualities of the qualitative characteristics?
+What is the role of enhancing qualities in the Conceptual Framework?
+9. According to the Conceptual Framework, the objective of financial
+reporting for business enterprises is based on the needs of the users
+of financial statements. Explain the level of sophistication that the
+IASB assumes about the users of financial statements.
+10. What is the distinction between comparability and consistency?
+11. Why is it necessary to develop a definitional framework for the
+basic elements of accounting?
+
+--- Page 165 ---
+12. What are the basic elements of the Conceptual Framework?
+Briefly describe the relationship between the “moment in time” and
+“period of time” elements.
+13. What are the five basic assumptions that underlie the financial
+accounting structure?
+14. The life of a business is divided into specific time periods, usually
+a year, to measure results of operations for each such time period and
+to portray financial conditions at the end of each period.
+a. This practice is based on the accounting assumption that the life
+of the business consists of a series of time periods and that it is
+possible to measure accurately the results of operations for each
+period. Comment on the validity and necessity of this
+assumption.
+b. What has been the effect of this practice on accounting? What is
+its relation to the accrual basis of accounting? What influence has
+it had on accounting entries and practices?
+15. What is the basic accounting problem created by the monetary
+unit assumption when there is significant inflation? What appears to
+be the IASB position on a stable monetary unit?
+16. The chairman of the board of directors of the company for which
+you are chief accountant has told you that he has little use for
+accounting figures based on historical cost. He believes that fair
+values are of far more significance to the board of directors than “out-
+of-date costs.” Present some arguments to convince him that
+accounting data should still be based on historical cost.
+17. Briefly describe the three bases for measuring current value.
+18. What is the definition of fair value?
+19. What is the fair value option? Explain how use of the fair value
+option reflects application of the fair value principle.
+20. Briefly describe the fair value hierarchy.
+21. Explain the revenue recognition principle.
+
+--- Page 166 ---
+22. What is a performance obligation, and how is it used to determine
+when revenue should be recognized?
+23. What are the five steps used to determine the proper time to
+recognize revenue?
+24. Selane Eatery operates a catering service specializing in business
+luncheons for large companies. Selane requires customers to place
+their orders 2 weeks in advance of the scheduled events. Selane bills
+its customers on the tenth day of the month following the date of
+service and requires that payment be made within 30 days of the
+billing date. Conceptually, when should Selane recognize revenue
+related to its catering service?
+25. Mogilny Company paid $135,000 for a machine. The Accumulated
+Depreciation account has a balance of $46,500 at the present time.
+The company could sell the machine today for $150,000. The
+company president believes that the company has a “right to this
+gain.” What does the president mean by this statement? Do you
+agree?
+26. Three expense recognition methods (associating cause and effect,
+systematic and rational allocation, and immediate recognition) were
+discussed in the chapter under the expense recognition principle.
+Indicate the basic nature of each of these expense recognition
+methods and give two examples of each.
+27. Under what conditions should an item be recognized in the
+financial statements?
+28. Briefly describe the types of information concerning financial
+position, income, and cash flows that might be provided (a) within the
+main body of the financial statements, (b) in the notes to the financial
+statements, or (c) as supplementary information.
+29. In January 2022, Janeway AG doubled the amount of its
+outstanding shares by selling an additional 10,000 shares to finance
+an expansion of the business. You propose that this information be
+shown by a footnote to the statement of financial position as of
+December 31, 2022. The president objects, claiming that this sale took
+
+--- Page 167 ---
+place after December 31, 2022, and, therefore, should not be shown.
+Explain your position.
+30. Describe the major constraint inherent in the presentation of
+accounting information.
+31. What are some of the costs of providing accounting information?
+What are some of the benefits of accounting information? Describe
+the cost-benefit factors that should be considered when new
+accounting standards are being proposed.
+Brief Exercises
+BE2.1 (LO 2) Match the qualitative characteristics below with the
+following statements.
+1. Relevance
+2. Faithful representation
+3. Predictive value
+4. Confirmatory value
+5. Comparability
+6. Completeness
+7. Neutrality
+8. Timeliness
+a. Quality of information that permits users to identify similarities
+in and differences between two sets of economic phenomena.
+b. Having information available to users before it loses its capacity
+to influence decisions.
+c. Information about an economic phenomenon that has value as an
+input to the processes used by capital providers to form their own
+expectations about the future.
+d. Information that is capable of making a difference in the
+decisions of users in their capacity as capital providers.
+
+--- Page 168 ---
+e. Absence of bias intended to attain a predetermined result or to
+induce a particular behavior.
+BE2.2 (LO 2) Match the qualitative characteristics below with the
+following statements.
+1. Timeliness
+2. Completeness
+3. Free from error
+4. Understandability
+5. Faithful representation
+6. Relevance
+7. Neutrality
+8. Confirmatory value
+a. Quality of information that assures users that information
+represents the economic phenomena that it purports to represent.
+b. Information about an economic phenomenon that changes past
+or present expectations based on previous evaluations.
+c. The extent to which information is accurate in representing the
+economic substance of a transaction.
+d. Includes all the information that is necessary for a faithful
+representation of the economic phenomena that it purports to
+represent.
+e. Quality of information that allows users to comprehend its
+meaning.
+BE2.3 (LO 2) Discuss whether the changes described in each of the
+situations below require recognition in the audit report as to
+consistency. (Assume that the amounts are material.)
+a. The company changed its inventory method to FIFO from
+weighted-average, which had been used in prior years.
+
+--- Page 169 ---
+b. The company disposed of one of the two subsidiaries that had
+been included in its consolidated statements for prior years.
+c. The estimated remaining useful life of plant property was reduced
+because of obsolescence.
+d. The company is using an inventory valuation method that is
+different from those used by all other companies in its industry.
+BE2.4 (LO 2) Identify which qualitative characteristic of accounting
+information is best described in each of the following items. (Do not
+use relevance and faithful representation.)
+a. The annual reports of Best Buy Co. (USA) are audited by
+certified public accountants.
+b. Motorola (USA) and Nokia (FIN) both use the FIFO cost flow
+assumption.
+c. Starbucks Corporation (USA) has used straight-line
+depreciation since it began operations.
+d. Heineken Holdings (NLD) issues its quarterly reports
+immediately after each quarter ends.
+BE2.5 (LO 2) Explain how you would decide whether to record each
+of the following expenditures as an asset or an expense. Assume all
+items are material.
+a. Legal fees paid in connection with the purchase of land are
+€1,500.
+b. Eduardo SA paves the driveway leading to the office building at a
+cost of €21,000.
+c. A meat market purchases a meat-grinding machine at a cost of
+€3,500.
+d. On June 30, Monroe and Meno, medical doctors, pay 6 months’
+office rent to cover the month of July and the next 5 months.
+e. Smith’s Hardware pays €9,000 in wages to laborers for
+construction on a building to be used in the business.
+
+--- Page 170 ---
+f. Alvarez’s Florists pays wages of €2,100 for November to an
+employee who serves as driver of their delivery truck.
+BE2.6 (LO 2) For each item below, indicate to which category of
+elements of financial statements it belongs.
+a. Retained earnings.
+b. Sales.
+c. Share Premium.
+d. Inventory.
+e. Depreciation.
+f. Loss on sale of equipment.
+g. Interest payable.
+h. Dividends.
+i. Gain on sale of investment.
+j. Issuance of ordinary shares.
+BE2.7 (LO 3) If the going concern assumption is not made in
+accounting, discuss the differences in the amounts shown in the
+financial statements for the following items.
+a. Land.
+b. Depreciation expense on equipment.
+c. Inventory.
+d. Prepaid insurance.
+BE2.8 (LO 3) Identify which basic assumption of accounting is best
+described in each of the following items.
+a. The economic activities of FedEx Corporation (USA) are
+divided into 12-month periods for the purpose of issuing annual
+reports.
+
+--- Page 171 ---
+b. Total S.A. (FRA) does not adjust amounts in its financial
+statements for the effects of inflation.
+c. Barclays (GBR) reports current and non-current classifications
+in its statement of financial position.
+d. The economic activities of Tokai Rubber Industries (JPN) and
+its subsidiaries are merged for accounting and reporting
+purposes.
+BE2.9 (LO 4) Identify which basic principle of accounting is best
+described in each of the following items.
+a. Parmalat (ITA) reports revenue in its income statement when it
+delivers goods instead of when the cash is collected.
+b. Google (USA) recognizes depreciation expense for a machine
+over the 2-year period during which that machine helps the
+company earn revenue.
+c. Oracle Corporation (USA) reports information about pending
+lawsuits in the notes to its financial statements.
+d. Fuji Film (JPN) reports land on its statement of financial
+position at the amount paid to acquire it, even though the
+estimated fair value is greater.
+BE2.10 (LO 4) Vande Velde Company made three investments
+during 2022. (1) It purchased 1,000 shares of Sastre Company, a start-
+up company. Vande Velde made the investment based on valuation
+estimates from an internally developed model. (2) It purchased 2,000
+shares of Fuji Film (JPN), which trades on the Nikkei. (3) It invested
+$10,000 in local development authority bonds. Although these bonds
+do not trade on an active market, their value closely tracks
+movements in U.S. Treasury bonds. Rank these three investments in
+terms of the verifiability of fair value.
+BE2.11 (LO 2) The following three different transactions relate to
+materiality. Explain whether you would classify these transactions as
+material.
+
+--- Page 172 ---
+a. Blair Co. has reported a positive trend in earnings over the last 3
+years. In the current year, it reduces its bad debt expense to
+ensure another positive earnings year. The impact of this
+adjustment is equal to 3% of net income.
+b. Hindi SE has a gain of €3.1 million on the sale of plant assets and
+a €3.3 million loss on the sale of investments. It decides to net
+the gain and loss because the net effect is considered immaterial.
+Hindi SE’s income for the current year was €10 million.
+c. Damon SpA expenses all capital equipment under €2,500 on the
+basis that it is immaterial. The company has followed this
+practice for a number of years.
+BE2.12 (LO 3, 4) What accounting assumption, principle, or
+constraint would Marks and Spencer plc (M&S) (GBR) use in each
+of the situations below?
+a. M&S records expenses when incurred, rather than when cash is
+paid.
+b. M&S was involved in litigation over the last year. This litigation is
+disclosed in the financial statements.
+c. M&S allocates the cost of its depreciable assets over the life it
+expects to receive revenue from these assets.
+d. M&S records the purchase of a new Lenovo (CHN) PC at its cash
+equivalent price.
+BE2.13 (LO 1, 2, 4) Fill in the blanks related to the following
+statements.
+1. Financial reporting imposes __________; the benefits of
+financial reporting should justify those __________.
+2. The information provided by __________ __________
+__________ __________ focuses on the needs of all capital
+providers, not just the needs of a particular group.
+
+--- Page 173 ---
+3. A depiction of economic phenomena is __________ if it
+includes all the information that is necessary for faithful
+representation of the economic phenomena that it purports to
+represent.
+4. __________ is the quality of information that allows users to
+comprehend its meaning.
+5. __________ is the quality of information that permits users to
+identify similarities in and differences between two sets of
+economic phenomena.
+6. Information about economic phenomena has __________
+__________ if it confirms or changes past or present
+expectations based on previous evaluations.
+Exercises
+E2.1 (LO 1) (Usefulness, Objective of Financial Reporting)
+Indicate whether the following statements about the Conceptual
+Framework are true or false. If false, provide a brief explanation
+supporting your position.
+a. Accounting rule-making that relies on a body of concepts will
+result in useful and consistent pronouncements.
+b. General-purpose financial reports are most useful to company
+insiders in making strategic business decisions.
+c. Accounting standards based on individual conceptual frameworks
+generally will result in consistent and comparable accounting
+reports.
+d. Capital providers are the only users who benefit from general-
+purpose financial reporting.
+e. Accounting reports should be developed so that users without
+knowledge of economics and business can become informed
+about the financial results of a company.
+f. The objective of financial reporting is the foundation from which
+the other aspects of the framework logically result.
+
+--- Page 174 ---
+E2.2 (LO 1, 2) (Usefulness, Objective of Financial Reporting,
+Qualitative Characteristics) Indicate whether the following
+statements about the Conceptual Framework are true or false. If false,
+provide a brief explanation supporting your position.
+a. The fundamental qualitative characteristics that make accounting
+information useful are relevance and verifiability.
+b. Relevant information has predictive value, confirmatory value, or
+both.
+c. Conservatism, a prudent reaction to uncertainty, is considered a
+constraint of financial reporting.
+d. Information that is a faithful representation is characterized as
+having predictive or confirmatory value.
+e. Comparability pertains only to the reporting of information in a
+similar manner for different companies.
+f. Verifiability is solely an enhancing characteristic for faithful
+representation.
+g. In preparing financial reports, it is assumed that users of the
+reports have reasonable knowledge of business and economic
+activities.
+E2.3 (LO 2, 4) 
+ (Qualitative Characteristics) The
+Conceptual Framework identifies the qualitative characteristics that
+make accounting information useful. Presented below are a number
+of questions related to these qualitative characteristics and underlying
+constraint.
+a. What is the quality of information that enables users to confirm
+or correct prior expectations?
+b. Identify the overall or pervasive constraint developed in the
+Conceptual Framework.
+c. A noted accountant once remarked, “If it becomes accepted or
+expected that accounting principles are determined or modified in
+order to secure purposes other than economic measurement, we
+
+--- Page 175 ---
+assume a grave risk that confidence in the credibility of our
+financial information system will be undermined.” Which
+qualitative characteristic of accounting information should
+ensure that such a situation will not occur? (Do not use faithful
+representation.)
+d. Muruyama Group switches from FIFO to average-cost and then
+back to FIFO over a 2-year period. Which qualitative
+characteristic of accounting information is not followed?
+e. Assume that the profession permits the savings and loan industry
+to defer losses on investments it sells, because immediate
+recognition of the loss may have adverse economic consequences
+on the industry. Which qualitative characteristic of accounting
+information is not followed? (Do not use relevance or faithful
+representation.)
+f. What are the two fundamental qualities that make accounting
+information useful for decision-making?
+g. Watteau Inc. does not issue its first-quarter report until after the
+second quarter’s results are reported. Which qualitative
+characteristic of accounting is not followed? (Do not use
+relevance.)
+h. Predictive value is an ingredient of which of the two fundamental
+qualities that make accounting information useful for decision-
+making purposes?
+i. Duggan, Inc. is the only company in its industry to depreciate its
+plant assets on a straight-line basis. Which qualitative
+characteristic of accounting information may not be present?
+j. Nadal Company has attempted to determine the replacement cost
+of its inventory. Three different appraisers arrive at substantially
+different amounts for this value. The president, nevertheless,
+decides to report the middle value for external reporting
+purposes. Which qualitative characteristic of information is
+lacking in these data? (Do not use reliability or representational
+faithfulness.)
+
+--- Page 176 ---
+E2.4 (LO 2) (Qualitative Characteristics) The qualitative
+characteristics that make accounting information useful for decision-
+making purposes are as follows.
+Relevance
+Neutrality
+Verifiability
+Faithful representation Completeness Understandability
+Predictive value
+Timeliness
+Comparability
+Confirmatory value
+Materiality
+Free from error
+Instructions
+Identify the appropriate qualitative characteristic(s) to be used given
+the information provided below.
+a. Qualitative characteristic being displayed when companies in the
+same industry are using the same accounting principles.
+b. Quality of information that confirms users’ earlier expectations.
+c. Imperative for providing comparisons of a company from period
+to period.
+d. Ignores the economic consequences of a standard or rule.
+e. Requires a high degree of consensus among individuals on a
+given measurement.
+f. Predictive value is an ingredient of this fundamental quality of
+information.
+g. Four qualitative characteristics that enhance both relevance and
+faithful representation.
+h. An item is not reported because its effect on income would not
+change a decision.
+i. Neutrality is a key ingredient of this fundamental quality of
+accounting information.
+j. Two fundamental qualities that make accounting information
+useful for decision-making purposes.
+
+--- Page 177 ---
+k. Issuance of interim reports is an example of what enhancing
+ingredient?
+E2.5 (LO 2) (Elements of Financial Statements) Five
+interrelated elements that are most directly related to measuring the
+performance and financial status of an enterprise are provided below.
+Assets
+Income
+Liabilities Expenses
+Equity
+Instructions
+Identify the element or elements associated with the following nine
+items.
+a. Obligation to transfer resources arising from a past transaction.
+b. Increases ownership interest by issuance of shares.
+c. Declares and pays cash dividends to owners.
+d. Increases in net assets in a period from non-owner sources.
+e. Items characterized by service potential or future economic
+benefit.
+f. Equals increase in assets less liabilities during the year, after
+adding distributions to owners and subtracting investments by
+owners.
+g. Residual interest in the assets of the enterprise after deducting its
+liabilities.
+h. Increases assets during a period through sale of product.
+i. Decreases assets during the period by purchasing the company’s
+own shares.
+E2.6 (LO 3, 4) (Assumptions, Principles, and Constraint)
+Presented below are the assumptions, principles, and constraint used
+in this chapter.
+
+--- Page 178 ---
+1. Economic entity assumption
+2. Going concern assumption
+3. Monetary unit assumption
+4. Periodicity assumption
+5. Accrual-basis assumption
+6. Historical cost principle
+7. Fair value principle
+8. Expense recognition principle
+9. Full disclosure principle
+10. Revenue recognition principle
+11. Cost constraint
+Instructions
+Identify by number the accounting assumption, principle, or
+constraint that describes each situation below. Do not use a number
+more than once.
+a. Allocates expenses to revenues in the proper period.
+b. Indicates that fair value changes subsequent to purchase are not
+recorded in the accounts. (Do not use revenue recognition
+principle.)
+c. Ensures that all relevant financial information is reported.
+d. Explains why plant assets are not reported at liquidation value.
+(Do not use historical cost principle.)
+e. Generally records revenue at the point of sale.
+f. Indicates that personal and business record keeping should be
+separately maintained.
+g. Separates financial information into time periods for reporting
+purposes.
+
+--- Page 179 ---
+h. Permits the use of fair value valuation in certain situations.
+i. Assumes that the yen is the “measuring stick” used to report on
+financial performance of a Japanese company.
+E2.7 (LO 3, 4) (Assumptions, Principles, and Constraint)
+Presented below are a number of operational guidelines and practices
+that have developed over time.
+Instructions
+Select the assumption, principle, or constraint that most appropriately
+justifies these procedures and practices. (Do not use qualitative
+characteristics.)
+a. Fair value changes are not recognized in the accounting records.
+b. Accounts receivable are recorded for sales on account rather than
+waiting until cash is received.
+c. Financial information is presented so that investors will not be
+misled.
+d. Intangible assets are capitalized and amortized over periods
+benefited.
+e. Brokerage companies use fair value for purposes of valuing
+financial securities.
+f. Each enterprise is kept as a unit distinct from its owner or
+owners.
+g. All significant post-statement of financial position events are
+reported.
+h. Revenue is recorded at point of sale.
+i. All important aspects of bond indentures are presented in
+financial statements.
+j. Rationale for accrual accounting.
+k. The use of consolidated statements is justified.
+l. Reporting must be done at defined time intervals.
+
+--- Page 180 ---
+m. An allowance for doubtful accounts is established.
+n. All payments out of petty cash are charged to Miscellaneous
+Expense.
+o. Goodwill is recorded only at time of purchase.
+p. Cash received and paid is not the basis used to recognize revenues
+and expenses.
+q. A company charges its sales commission costs to expense.
+E2.8 (LO 4) (Full Disclosure Principle) The following facts relate
+to Weller AG. Assume that no mention of these facts was made in the
+financial statements and the related notes.
+Instructions
+Assume that you are the auditor of Weller AG and that you have been
+asked to explain the appropriate accounting and related disclosure
+necessary for each of these items.
+a. The company decided that, for the sake of conciseness, only net
+income should be reported on the income statement. Details as to
+revenues, cost of goods sold, and expenses were omitted.
+b. Equipment purchases of €170,000 were partly financed during
+the year through the issuance of a €110,000 notes payable. The
+company offset the equipment against the notes payable and
+reported plant assets at €60,000.
+c. Weller has reported its ending inventory at €2,100,000 in the
+financial statements. No other information related to inventories
+is presented in the financial statements and related notes.
+d. The company changed its method of valuing inventories from
+weighted-average to FIFO. No mention of this change was made
+in the financial statements.
+E2.9 (LO 4) 
+ (Accounting Principles—
+Comprehensive) Presented below are a number of business
+transactions that occurred during the current year for Gonzales SpA.
+
+--- Page 181 ---
+Instructions
+In each of the situations, discuss the appropriateness of the journal
+entries.
+a. The president of Gonzales SpA used his expense account to
+purchase a new Suburban solely for personal use. The following
+journal entry was made.
+Miscellaneous Expense 29,000
+Cash
+29,000
+b. Merchandise inventory that cost €620,000 is reported on the
+statement of financial position at €690,000, the expected selling
+price less estimated selling costs. The following entry was made
+to record this increase in value.
+Inventory
+70,000
+Sales Revenue
+70,000
+c. The company is being sued for €500,000 by a customer who
+claims damages for personal injury apparently caused by a
+defective product. Company attorneys feel extremely confident
+that the company will have no liability for damages resulting
+from the situation. Nevertheless, the company decides to make
+the following entry.
+Loss from Lawsuit
+500,000
+Liability for Lawsuit
+500,000
+d. Because the general level of prices increased during the current
+year, Gonzales SpA determined that there was a €16,000
+understatement of depreciation expense on its equipment and
+decided to record it in its accounts. The following entry was made.
+Depreciation Expense
+16,000
+Accumulated Depreciation—Equipment
+16,000
+e. Gonzales SpA has been concerned about whether intangible
+assets could generate cash in case of liquidation. As a
+consequence, goodwill arising from a purchase transaction during
+
+--- Page 182 ---
+the current year and recorded at €800,000 was written off as
+follows.
+Retained Earnings 800,000
+Goodwill
+800,000
+f. Because of a “fire sale,” equipment obviously worth €200,000
+was acquired at a cost of €155,000. The following entry was
+made.
+Equipment
+200,000
+Cash
+155,000
+Sales Revenue
+45,000
+E2.10 (LO 4) 
+ (Accounting Principles—
+Comprehensive) The following information relates to Wang Group.
+Instructions
+Comment on the appropriateness of the accounting procedures
+followed by Wang Group.
+a. Depreciation expense on the building for the year was ¥60,000.
+Because the building was increasing in value during the year, the
+controller decided to charge the depreciation expense to retained
+earnings instead of to net income. The following entry is
+recorded.
+Retained Earnings
+60,000
+Accumulated Depreciation—Buildings
+60,000
+b. Materials were purchased on January 1, 2022, for ¥120,000 and
+this amount was entered in the Materials account. On December
+31, 2022, the materials would have cost ¥141,000, so the
+following entry is made.
+Inventory
+21,000
+Gain on Inventories
+21,000
+c. During the year, the company purchased equipment through the
+issuance of ordinary shares. The shares had a par value of ¥
+
+--- Page 183 ---
+135,000 and a fair value of ¥450,000. The fair value of the
+equipment was not easily determinable. The company recorded
+this transaction as follows.
+Equipment
+135,000
+Share Capital
+135,000
+d. During the year, the company sold certain equipment for ¥
+285,000, recognizing a gain of ¥69,000. Because the controller
+believed that new equipment would be needed in the near future,
+she decided to defer the gain and amortize it over the life of any
+new equipment purchased.
+e. An order for ¥61,500 has been received from a customer for
+products on hand. This order was shipped on January 9, 2022.
+The company made the following entry in 2021.
+Accounts Receivable 61,500
+Sales Revenue
+61,500
+Concepts for Analysis
+CA2.1 (LO 1) (Conceptual Framework—General) Wayne Cooper
+has some questions regarding the theoretical framework in which
+IFRS is established. He knows that the IASB has attempted to develop
+a conceptual framework for accounting theory formulation. Yet,
+Wayne’s supervisors have indicated that these theoretical frameworks
+have little value in the practical sense (i.e., in the real world). Wayne
+did notice that accounting rules seem to be established after the fact
+rather than before. He thought this indicated a lack of theory
+structure but never really questioned the process during his studies
+because he was too busy doing the homework.
+Wayne feels that some of his anxiety about accounting theory and
+accounting semantics could be alleviated by identifying the basic
+concepts and definitions accepted by the profession and considering
+them in light of his current work. By doing this, he hopes to develop
+an appropriate connection between theory and practice.
+Instructions
+
+--- Page 184 ---
+a. Help Wayne recognize the purpose of a conceptual framework.
+b. Identify the benefits that arise from a conceptual framework.
+CA2.2 (LO 1, 2) 
+ (Conceptual Framework—General)
+The IASB’s Conceptual Framework for Financial Reporting sets forth
+the objective and fundamentals that will be the basis for developing
+financial accounting and reporting standards. The objective identifies
+the purpose of financial reporting. The fundamentals are the
+underlying concepts of financial accounting that guide the selection of
+transactions, events, and circumstances to be accounted for; their
+recognition and measurement; and the means of summarizing and
+communicating them to interested parties.
+The characteristics or qualities of information discussed in the
+Conceptual Framework are the concepts that make information useful
+and the qualities to be sought when accounting choices are made.
+Instructions
+a. Identify and discuss the benefits that can be expected to be
+derived from the Conceptual Framework.
+b. What is the most important quality for accounting information as
+identified in the Conceptual Framework? Explain why it is the
+most important.
+c. Briefly discuss the importance of any three of the fundamental
+qualitative characteristics or enhancing qualities of accounting
+information.
+CA2.3 (LO 1) (Objective of Financial Reporting) Homer
+Winslow and Jane Alexander are discussing various aspects of the
+Conceptual Framework. Homer indicates that this pronouncement
+provides little, if any, guidance to the practicing professional in
+resolving accounting controversies. He believes that the Conceptual
+Framework provides such broad guidelines that it would be
+impossible to apply the objective(s) to present-day reporting
+problems. Jane concedes this point but indicates that objective(s) are
+
+--- Page 185 ---
+still needed to provide a starting point for the IASB in helping to
+improve financial reporting.
+Instructions
+a. Indicate the basic objective established in the Conceptual
+Framework.
+b. What do you think is the meaning of Jane’s statement that the
+IASB needs a starting point to resolve accounting controversies
+about how to improve financial reporting?
+CA2.4 (LO 2) 
+ (Qualitative Characteristics)
+Accounting information provides useful information about business
+transactions and events. Those who provide and use financial reports
+must often select and evaluate accounting alternatives. The
+Conceptual Framework examines the characteristics of accounting
+information that make it useful for decision-making. It also points out
+that various limitations inherent in the measurement and reporting
+process may necessitate trade-offs or sacrifices among the
+characteristics of useful information.
+Instructions
+a. Describe briefly the following characteristics of useful accounting
+information.
+1. Relevance.
+2. Faithful representation.
+3. Understandability.
+4. Comparability (consistency).
+5. Neutrality.
+b. For each of the following pairs of information characteristics, give
+an example of a situation in which one of the characteristics may
+be sacrificed in return for a gain in the other.
+1. Relevance and faithful representation.
+
+--- Page 186 ---
+2. Relevance and consistency.
+3. Comparability and consistency.
+4. Relevance and understandability.
+c. What criterion should be used to evaluate trade-offs between
+information characteristics?
+CA2.5 (LO 4) (Revenue Recognition Principle) After the
+presentation of your report on the examination of the financial
+statements to the board of directors of Piper Publishing, one of the
+new directors expresses surprise that the income statement assumes
+that an equal proportion of the revenue is earned with the publication
+of every issue of the company’s magazine. She feels that the “crucial
+event” in the process of recognizing revenue in the magazine business
+is the cash sale of the subscription. She says that she does not
+understand why most of the revenue cannot be recognized in the
+period of the sale.
+Instructions
+Discuss the propriety of timing the recognition of revenue in Piper
+Publishing’s accounts with respect to the following.
+a. The cash sale of the magazine subscription.
+b. The publication of the magazine every month.
+c. Both events, by recognizing a portion of the revenue with the cash
+sale of the magazine subscription and a portion of the revenue
+with the publication of the magazine every month.
+CA2.6 (LO 4) (Expense Recognition Principle) An accountant
+must be familiar with the concepts involved in determining earnings
+of a business entity. The amount of earnings reported for a business
+entity is dependent on the proper recognition, in general, of revenue
+and expense for a given time period. In some situations, costs are
+recognized as expenses at the time of product sale. In other situations,
+guidelines have been developed for recognizing costs as expenses or
+losses by other criteria.
+
+--- Page 187 ---
+Instructions
+a. Explain the rationale for recognizing costs as expenses at the time
+of product sale.
+b. What is the rationale underlying the appropriateness of treating
+costs as expenses of a period instead of assigning the costs to an
+asset? Explain.
+c. In what general circumstances would it be appropriate to treat a
+cost as an asset instead of as an expense? Explain.
+d. Some expenses are assigned to specific accounting periods on the
+basis of systematic and rational allocation of asset cost. Explain
+the underlying rationale for recognizing expenses on the basis of
+systematic and rational allocation of asset cost.
+e. Identify the conditions under which it would be appropriate to
+treat a cost as a loss.
+CA2.7 (LO 4) (Expense Recognition Principle) Daniel
+Barenboim sells and erects shell houses, that is, frame structures that
+are completely finished on the outside but are unfinished on the
+inside except for flooring, partition studding, and ceiling joists. Shell
+houses are sold chiefly to customers who are handy with tools and
+who have time to do the interior wiring, plumbing, wall completion
+and finishing, and other work necessary to make the shell houses
+livable dwellings.
+Barenboim buys shell houses from a manufacturer in unassembled
+packages consisting of all lumber, roofing, doors, windows, and
+similar materials necessary to complete a shell house. Upon
+commencing operations in a new area, Barenboim buys or leases land
+as a site for his local warehouse, field office, and display houses.
+Sample display houses are erected at a total cost of $30,000 to
+$44,000 including the cost of the unassembled packages. The chief
+element of cost of the display houses is the unassembled packages,
+inasmuch as erection is a short, low-cost operation. Old sample
+models are torn down or altered into new models every 3 to 7 years.
+Sample display houses have little residual value because dismantling
+
+--- Page 188 ---
+and moving costs amount to nearly as much as the cost of an
+unassembled package.
+Instructions
+a. A choice must be made between (1) expensing the costs of sample
+display houses in the periods in which the expenditure is made
+and (2) spreading the costs over more than one period. Discuss
+the advantages of each method.
+b. Would it be preferable to amortize the cost of display houses on
+the basis of (1) the passage of time or (2) the number of shell
+houses sold? Explain.
+CA2.8 (LO 2) 
+ (Qualitative Characteristics) Recently,
+your Uncle Carlos Beltran, who knows that you always have your eye
+out for a profitable investment, has discussed the possibility of your
+purchasing some company bonds. He suggests that you may wish to
+get in on the “ground floor” of this deal. The bonds being issued by
+Neville AG are 10-year debentures which promise a 40% rate of
+return. Neville manufactures novelty/party items.
+You have told Neville that, unless you can take a look at its financial
+statements, you would not feel comfortable about such an investment.
+Believing that this is the chance of a lifetime, Uncle Carlos has
+procured a copy of Neville’s most recent, unaudited financial
+statements, which are a year old. These statements were prepared by
+Mrs. Andy Neville. You peruse these statements, and they are quite
+impressive. The statement of financial position showed a debt to
+equity ratio of 0.10 and, for the year shown, the company reported net
+income of €2,424,240.
+The financial statements are not shown in comparison with amounts
+from other years. In addition, no significant note disclosures about
+inventory valuation, depreciation methods, loan agreements, etc. are
+available.
+Instructions
+
+--- Page 189 ---
+Write a letter to Uncle Carlos explaining why it would be unwise to
+base an investment decision on the financial statements that he has
+provided to you. Be sure to explain why these financial statements are
+neither relevant nor a faithful representation.
+CA2.9 (LO 4) 
+ (Expense Recognition Principle) Anderson
+Nuclear Power Plant will be “mothballed” at the end of its useful life
+(approximately 20 years) at great expense. Accountants Ana Alicia and
+Ed Bradley argue whether it is better to allocate the expense of
+mothballing over the next 20 years or ignore it until mothballing
+occurs.
+Instructions
+Answer the following questions.
+a. What stakeholders should be considered?
+b. What ethical issue, if any, underlies the dispute?
+c. What alternatives should be considered?
+d. Assess the consequences of the alternatives.
+e. What decision would you recommend?
+CA2.10 (LO 4) (Cost Constraint) A Special Committee on
+Financial Reporting proposed the following constraints related to
+financial reporting.
+1. Business reporting should exclude information outside of
+management’s expertise or for which management is not the best
+source, such as information about competitors.
+2. Management should not be required to report information that
+would significantly harm the company’s competitive position.
+3. Management should not be required to provide forecasted
+financial statements. Rather, management should provide
+information that helps users forecast for themselves the
+company’s financial future.
+
+--- Page 190 ---
+4. Other than for financial statements, management need report
+only the information it knows. That is, management should be
+under no obligation to gather information it does not have or
+does not need to manage the business.
+5. Companies should present certain elements of business reporting
+only if users and management agree they should be reported—a
+concept of flexible reporting.
+6. Companies should not have to report forward-looking
+information unless there are effective deterrents to unwarranted
+litigation that discourages companies from doing so.
+Instructions
+For each item, briefly discuss how the proposed constraint addresses
+concerns about the costs and benefits of financial reporting.
+Using Your Judgment
+Financial Reporting Problem
+Marks and Spencer plc (M&S)
+The financial statements of M&S (GBR) are presented in Appendix A.
+The company’s complete annual report, including the notes to the
+financial statements, is available online.
+Instructions
+Refer to M&S’s financial statements and the accompanying notes to
+answer the following questions.
+a. Using the notes to the consolidated financial statements,
+determine M&S’s revenue recognition policies.
+b. Give two examples of where historical cost information is
+reported in M&S’s financial statements and related notes. Give
+two examples of the use of fair value information reported in
+either the financial statements or related notes.
+
+--- Page 191 ---
+c. How can we determine that the accounting principles used by
+M&S are prepared on a basis consistent with those of last year?
+d. What is M&S’s accounting policy related to volume-based
+rebates? How is uncollected supplier income classified in the
+financial statements?
+Comparative Analysis Case
+adidas and Puma
+The financial statements of adidas (DEU) and Puma (DEU) are
+presented in Appendices B and C, respectively. The complete annual
+reports, including the notes to the financial statements, are available
+online.
+Instructions
+Use the companies’ financial information to answer the following
+questions.
+a. Briefly discuss the currency used by each company in its financial
+statements. Does the currency used affect the comparability of
+their reports? Briefly explain.
+b. What are the primary segments or product groups of these two
+companies as shown in their notes to the financial statements?
+c. How are inventories for these two companies valued? How does
+their accounting for inventories affect comparability between the
+two companies?
+d. Which company changed its accounting policies, which could
+affect the consistency of the financial results from the previous
+year? What were these changes?
+Financial Statement Analysis Case
+Nokia (FIN) provided the following disclosure in a recent annual
+report.
+
+--- Page 192 ---
+Use of Estimates (Partial)
+The preparation of financial statements in conformity with IFRS
+requires the application of judgment by management in selecting
+appropriate assumptions for calculating financial estimates,
+which inherently contain some degree of uncertainty … are areas
+requiring significant judgment and estimation that may have an
+impact on reported results and the financial position.
+Revenue Recognition
+Sales from the majority of the Group are recognized when the
+significant risks and rewards of ownership have transferred to the
+buyer, continuing managerial involvement usually associated
+with ownership and effective control have ceased, the amount of
+revenue can be measured reliably, it is probable that economic
+benefits associated with the transaction will flow to the Group
+and the costs incurred or to be incurred in respect of the
+transaction can be measured reliably. Sales may materially
+change if management’s assessment of such criteria was
+determined to be inaccurate. The Group makes price protection
+adjustments based on estimates of future price reductions and
+certain agreed customer inventories at the date of the price
+adjustment. Possible changes in these estimates could result in
+revisions to the sales in future periods.
+Revenue from contracts involving solutions achieved through
+modification of complex telecommunications equipment is
+recognized on the percentage of completion basis when the
+outcome of the contract can be estimated reliably. Recognized
+revenues and profits are subject to revisions during the project in
+the event that the assumptions regarding the overall project
+outcome are revised. Current sales and profit estimates for
+projects may materially change due to the early stage of a long-
+term project, new technology, changes in the project scope,
+changes in costs, changes in timing, changes in customers’ plans,
+realization of penalties, and other corresponding factors.
+Instructions
+
+--- Page 193 ---
+a. Briefly discuss how Nokia’s revenue recognition policies are
+consistent with the revenue recognition principle. Evaluate both:
+1. Sales.
+2. Revenue from contracts.
+b. Briefly discuss how estimates inherent in Nokia’s revenue
+recognition policies can result in reported revenue numbers that
+are not relevant and faithful representations.
+c. Assume that Nokia’s competitors use similar revenue recognition
+policies for their sales. What are some of the judgments inherent
+in applying those policies that could raise concerns with respect
+to the qualitative characteristic of comparability?
+Accounting, Analysis, and Principles
+William Murray achieved one of his life-long dreams by opening his
+own business, The Caddie Shack Driving Range, on May 1, 2022. He
+invested $20,000 of his own savings in the business. He paid $6,000
+cash to have a small building constructed to house the operations and
+spent $800 on golf clubs, golf balls, and yardage signs. Murray leased
+4 acres of land at a cost of $1,000 per month. (He paid the first
+month’s rent in cash.) During the first month, advertising costs
+totaled $750, of which $150 was unpaid at the end of the month.
+Murray paid his three nephews $400 for retrieving golf balls. He
+deposited in the company’s bank account all revenues from customers
+($4,700). On May 15, Murray withdrew $800 in cash for personal use.
+On May 31, the company received a utility bill for $100 but did not
+immediately pay it. On May 31, the balance in the company bank
+account was $15,100.
+Murray is feeling pretty good about results for the first month, but his
+estimate of profitability ranges from a loss of $4,900 to a profit of
+$2,450.
+Accounting
+Prepare a statement of financial position at May 31, 2022. (Murray
+appropriately records any depreciation expense on a quarterly basis.)
+
+--- Page 194 ---
+How could Murray have determined that the business operated at a
+profit of $2,450? How could Murray conclude that the business
+operated at a loss of $4,900?
+Analysis
+Assume Murray has asked you to become a partner in his business.
+Under the partnership agreement, after paying him $10,000, you
+would share equally in all future profits. Which of the two income
+measures above would be more useful in deciding whether to become
+a partner? Explain.
+Principles
+What is income according to IFRS? What concepts do the differences
+in income measures for The Caddie Shack Driving Range illustrate?
+Bridge to the Profession
+Authoritative Literature References
+[1] International Accounting Standard 8, Accounting Policies,
+Changes in Accounting Estimates, and Errors (London, U.K.:
+International Accounting Standards Committee Foundation, 2001).
+[2] Conceptual Framework for Financial Reporting (London, U.K.:
+IASB, 2018).
+[3] Conceptual Framework for Financial Reporting, “Chapter 1, The
+Objective of General Purpose Financial Reporting” (London, U.K.:
+IASB, 2018).
+[4] Conceptual Framework for Financial Reporting, “Chapter 2,
+Qualitative Characteristics of Useful Financial Information” (London,
+U.K.: IASB, 2018).
+[5] Conceptual Framework for Financial Reporting, “Chapter 2,
+Qualitative Characteristics of Useful Financial Information” (London,
+U.K.: IASB, 2018), paras. 2.16–2.17.
+[6] Conceptual Framework for Financial Reporting, “Chapter 2,
+Qualitative Characteristics of Useful Financial Information” (London,
+U.K.: IASB, 2018), par. 2.30.
+
+--- Page 195 ---
+[7] Conceptual Framework for Financial Reporting, “Chapter 2,
+Qualitative Characteristics of Useful Financial Information” (London,
+U.K.: IASB, 2018), par. 2.36.
+[8] Conceptual Framework for Financial Reporting, “Chapter 4, The
+Elements of Financial Statements” (London, U.K.: IASB, 2018).
+[9] Conceptual Framework for Financial Reporting, “Chapter 3,
+Financial Statements and the Reporting Entity” (London, U.K.: IASB,
+2018), paras. 3.10–3.14.
+[10] Conceptual Framework for Financial Reporting, “Chapter 3,
+Financial Statements and the Reporting Entity” (London, U.K.: IASB,
+2018), par. 3.9.
+[11] Conceptual Framework for Financial Reporting, “Chapter 8,
+Concepts of Capital and Capital Maintenance” (London, U.K.: IASB,
+2018), par. 8.3.
+[12] International Accounting Standard No. 29, Financial Reporting
+in Hyperinflationary Economies (London, U.K.: IASB, 2001).
+[13] Conceptual Framework for Financial Reporting, “Chapter 3,
+Financial Statements and the Reporting Entity” (London, U.K.: IASB,
+2018), paras. 3.4–3.7.
+[14] Conceptual Framework for Financial Reporting, “Chapter 1, The
+Objective of General Purpose Financial Reporting” (London, U.K.:
+IASB, 2018), par. 1.17.
+[15] Conceptual Framework for Financial Reporting, “Chapter 6,
+Measurement” (London, U.K.: IASB, 2018), paras. 6.4–6.8.
+[16] Conceptual Framework for Financial Reporting, “Chapter 6,
+Measurement” (London, U.K.: IASB, 2018), paras. 6.10–6.22.
+[17] Conceptual Framework for Financial Reporting, “Chapter 6,
+Measurement” (London, U.K.: IASB, 2018), par. 6.12.
+[18] International Financial Reporting Standard 9, “Financial
+Instruments, Chapter 4: Classification” (London, U.K.: IASB 2014),
+paras. 4.1.5 and 4.2.2.
+
+--- Page 196 ---
+[19] Conceptual Framework for Financial Reporting, “Chapter 6,
+Measurement” (London, U.K.: IASB, 2018), paras. 6.43–6.76.
+[20] Conceptual Framework for Financial Reporting, “Chapter 5,
+Recognition and Derecognition” (London, U.K.: IASB, 2018), par. 5.1.
+[21] Conceptual Framework for Financial Reporting, “Chapter 5,
+Recognition and Derecognition” (London, U.K.: IASB, 2018), par. 5.26.
+[22] Conceptual Framework for Financial Reporting, “Chapter 5,
+Recognition and Derecognition” (London, U.K.: IASB, 2018), paras.
+5.7–5.11.
+[23] Conceptual Framework for Financial Reporting, “Chapter 2,
+Qualitative Characteristics of Useful Financial Information” (London,
+U.K.: IASB, 2018), paras. 2.39–2.43.
+Research Case
+Your aunt recently received the annual report for a company in which
+she has invested. The report notes that the statements have been
+prepared in accordance with IFRS. She has also heard that certain
+terms have special meanings in accounting relative to everyday use.
+She would like you to explain the meaning of terms she has come
+across related to accounting.
+Instructions
+Access the Conceptual Framework at the IFRS website (you may
+register for free IFRS access at this site). When you have accessed the
+documents, you can use the search tool in your Internet browser to
+prepare responses to the following items. (Provide paragraph
+citations.)
+a. How is “materiality” defined in the Conceptual Framework?
+b. Briefly discuss the role of completeness as it relates to faithful
+representation.
+c. Your aunt observes that under IFRS, the financial statements are
+prepared on the accrual basis. According to the Conceptual
+Framework, what does the “accrual basis” mean?
+
+--- Page 197 ---
+Global Accounting Insights
+LEARNING OBJECTIVE 5
+Compare the conceptual frameworks underlying IFRS and U.S.
+GAAP.
+The IASB and the FASB originally planned to develop a common
+conceptual framework. The Boards converged on two subjects:
+Objectives of Financial Reporting and Qualitative Characteristics of
+Accounting Information. However, the IASB decided it was important
+to move forward and complete other parts of the conceptual
+framework. The IASB issued its updated conceptual framework in
+2018. The FASB did not join this effort although it now appears likely
+it will start soon on adding to and modifying its existing conceptual
+framework as well. Both Boards have that same objective, that is, to
+develop a conceptual framework consisting of standards that are
+principles-based and internally consistent, thereby leading to the most
+useful financial reporting. Hopefully, the two Boards will eventually
+agree on the key components of a common conceptual framework.
+Relevant Facts
+Following are the key similarities and differences between U.S. GAAP
+and IFRS related to the Conceptual Framework for Financial
+Reporting.
+Similarities
+In 2010, the IASB and FASB completed the first phase of a jointly
+created conceptual framework. In this first phase, they agreed on
+the objective of financial reporting and a common set of desired
+qualitative characteristics. These were presented in the Chapter 2
+discussion. Note that prior to this converged phase, the
+Conceptual Framework gave more emphasis to the objective of
+providing information on management’s performance
+(stewardship).
+
+--- Page 198 ---
+The existing conceptual frameworks underlying U.S. GAAP and
+IFRS are very similar. That is, they are organized in a similar
+manner (objective, elements, qualitative characteristics, etc.).
+There is no real need to change many aspects of the existing
+frameworks other than to converge different ways of discussing
+essentially the same concepts.
+Both the IASB and FASB have similar measurement principles,
+based on historical cost and fair value. In 2011, the Boards issued
+a converged standard on fair value measurement so that the
+definition of fair value, measurement techniques, and disclosures
+are the same between U.S. GAAP and IFRS when fair value is
+used in financial statements.
+Differences
+Under the 2018 update to the IASB Conceptual Framework, there
+are now some subtle differences between the frameworks related
+to definitions of assets and liabilities (see the following “About
+the Numbers” discussion), measurement, and presentation.
+The updated IASB Conceptual Framework makes explicit a role
+for management stewardship in the objective of financial
+reporting, and prudence (a form of conservatism) is a dimension
+of the qualitative characteristic of faithful representation
+(neutrality).
+Although both U.S. GAAP and IFRS are increasing the use of fair
+value to report assets, at this point IFRS has adopted it more
+broadly. As examples, under IFRS, companies can apply fair value
+to property, plant, and equipment; natural resources; and, in
+some cases, intangible assets.
+U.S. GAAP has a concept statement to guide estimation of fair
+values when market-related data are not available (Statement of
+Financial Accounting Concepts No. 7, “Using Cash Flow
+Information and Present Value in Accounting”). The IASB has not
+issued a similar concept statement; it has issued a fair value
+standard (IFRS 13) that is converged with U.S. GAAP.
+
+--- Page 199 ---
+The monetary unit assumption is part of each framework.
+However, the unit of measure will vary depending on the
+currency used in the country in which the company is based (e.g.,
+Chinese yuan, Japanese yen, and British pound).
+The economic entity assumption is also part of each framework,
+although some cultural differences result in differences in its
+application. For example, in Japan many companies have formed
+such strong alliances that they behave more like related divisions
+in the same company, although they are separate corporations.
+About the Numbers
+While the conceptual framework that underlies U.S. GAAP is very
+similar to that used to develop IFRS, the elements identified and their
+definitions under U.S. GAAP are different. The FASB elements and
+their definitions are as follows.
+
+--- Page 200 ---
+Elements of Financial Statements
+Asset. Probable future economic benefits obtained or controlled
+by a particular entity as a result of past transactions or events.
+Liabilities. Probable future sacrifices of economic benefits
+arising from present obligations of a particular entity to transfer
+assets or provide services to other entities in the future as a result
+of past transactions or events.
+Equity. Residual interest in the assets of an entity that remains
+after deducting its liabilities. In a business enterprise, the equity is
+the ownership interest.
+Investments by Owners. Increases in net assets of a particular
+enterprise resulting from transfers to it from other entities of
+something of value to obtain or increase ownership interests (or
+equity) in it. Assets are most commonly received as investments
+by owners, but that which is received may also include services or
+satisfaction or conversion of liabilities of the enterprise.
+Distributions to Owners. Decreases in net assets of a particular
+enterprise resulting from transferring assets, rendering services, or
+incurring liabilities by the enterprise to owners. Distributions to
+owners decrease ownership interests (or equity) in an enterprise.
+Comprehensive Income. Change in equity (net assets) of an
+entity during a period from transactions and other events and
+circumstances from non-owner sources. It includes all changes in
+equity during a period except those resulting from investments by
+owners and distributions to owners.
+Revenues. Inflows or other enhancements of assets of an entity
+or settlement of its liabilities (or a combination of both) during a
+period from delivering or producing goods, rendering services, or
+other activities that constitute the entity’s ongoing major or
+central operations.
+Expenses. Outflows or other using up of assets or incurrences of
+liabilities (or a combination of both) during a period from
+
+--- Page 201 ---
+delivering or producing goods, rendering services, or carrying out
+other activities that constitute the entity’s ongoing major or
+central operations.
+Gains. Increases in equity (net assets) from peripheral or
+incidental transactions of an entity and from all other transactions
+and other events and circumstances affecting the entity during a
+period except those that result from revenues or investments by
+owners.
+Losses. Decreases in equity (net assets) from peripheral or
+incidental transactions of an entity and from all other transactions
+and other events and circumstances affecting the entity during a
+period except those that result from expenses or distributions to
+owners.
+Source: “Elements of Financial Statements,” Statement of Financial Accounting
+Concepts No. 6 (Stamford, Conn.: FASB, December 1985), pp. ix and x.
+On the Horizon
+The Boards have made much progress in updating and converging
+their conceptual frameworks. The IASB issuance of its updated
+Conceptual Framework for Financial Reporting in 2018 represents an
+important milestone. The FASB continues to work on its framework to
+address remaining elements not converged (definitions of assets and
+liabilities, measurement, and presentation). Progress to date indicates
+that the FASB’s work has been informed by the IASB’s updated
+framework (go to the FASB website; click on Projects and then
+Technical Agenda). We are optimistic that these efforts will result in
+substantially converged conceptual frameworks, which will support
+the development of standards that help financial statement users to
+make better decisions.
+GAAP Self-Test Questions
+1. Which of the following statements about the IASB and FASB
+conceptual frameworks is not correct?
+
+--- Page 202 ---
+a. The IASB conceptual framework does not identify the element
+comprehensive income.
+b. The existing IASB and FASB conceptual frameworks are
+organized in similar ways.
+c. The FASB and IASB agree that the objective of financial reporting
+is to provide useful information to investors and creditors.
+d. IFRS does not allow use of fair value as a measurement basis.
+2. Which of the following statements is false?
+a. The monetary unit assumption is used under U.S. GAAP.
+b. Under IFRS, companies may use fair value for property, plant,
+and equipment.
+c. The FASB and IASB are no longer working on a joint conceptual
+framework project.
+d. Under IFRS, there are the same number of financial statement
+elements as in U.S. GAAP.
+3. Companies that use U.S. GAAP:
+a. must report all their assets on the balance sheet (statement of
+financial position) at fair value.
+b. may report property, plant, and equipment and natural resources
+at fair value.
+c. are guided by a concept statement on estimating fair values when
+market data are not available.
+d. may only use historical cost as the measurement basis in
+financial reporting.
+4. The issues that the FASB must still address in developing its
+updated conceptual framework include all of the following except:
+a. whether the characteristic of relevance should be traded off in
+favor of information that is verifiable.
+
+--- Page 203 ---
+b. the qualitative characteristics of useful information.
+c. the objective of financial reporting.
+d. the asset and liability definitions.
+5. With respect to the FASB/IASB conceptual framework projects:
+a. work is being conducted together on each part of the project.
+b. work is being conducted with other national standard-setters.
+c. there was never a plan to develop a common conceptual
+framework.
+d. the IASB has worked at a faster pace than the FASB.
+GAAP Concepts and Application
+GAAP2.1 Do the IASB and U.S. GAAP conceptual frameworks differ
+in terms of fair value measurement? Explain.
+GAAP2.2 How do the FASB and IASB conceptual frameworks differ
+in terms of the elements of financial statements?
+GAAP2.3 What is the status of the Boards’ efforts to develop a
+converged conceptual framework?
+Answers to GAAP Self-Test Questions
+1. d 2. d 3. c 4. d 5. d
+Notes
+1 Recall from our discussion in Chapter 1 that while the IASB’s
+Conceptual Framework and any changes to it pass through the
+same due process (discussion paper, preliminary views, public
+hearing, exposure draft, etc.) as do the IFRSs, the Conceptual
+Framework is not an IFRS. That is, the Conceptual Framework
+does not define standards for any particular measurement or
+disclosure issue, and nothing in the Conceptual Framework
+overrides any specific IFRS. [1] (See the Authoritative Literature
+References section near the end of the chapter.)
+
+--- Page 204 ---
+2 C. Horngren, “Uses and Limitations of a Conceptual Framework,”
+Journal of Accountancy (April 1981), p. 90.
+3 The IASB and the FASB had worked together to develop converged
+concepts statements on the objective of financial reporting and
+qualitative characteristics of accounting information, resulting in
+updated chapters on those elements in 2010. Since 2010, the
+Boards worked on their own schedules to address the remaining
+elements of the conceptual framework project. As discussed at the
+beginning of the chapter, the IASB issued its updated Conceptual
+Framework for Financial Reporting in 2018. The FASB continues
+to work on its framework to address concepts related to definitions
+of assets and liabilities, measurement, and presentation. For more
+information, go to the FASB website; click on Projects and then
+Technical Agenda.
+4 Surveys indicate that users highly value consistency. They note that
+a change tends to destroy the comparability of data before and after
+the change. Some companies assist users to understand the pre-
+and post-change data. Generally, however, users say they lose the
+ability to analyze over time. IFRS guidelines (discussed in Chapter
+22) on accounting changes are designed to improve the
+comparability of the data before and after the change.
+5 The concept of the entity is changing. For example, defining the
+“outer edges” of companies is now harder. Public companies often
+consist of multiple public subsidiaries, each with joint ventures,
+licensing arrangements, and other affiliations. Increasingly,
+companies form and dissolve joint ventures or customer-supplier
+relationships in a matter of months or weeks. These “virtual
+companies” raise accounting issues about how to account for the
+entity. See Steven H. Wallman, “The Future of Accounting and
+Disclosure in an Evolving World: The Need for Dramatic Change,”
+Accounting Horizons (September 1995).
+6 This approach reflects adoption of a financial capital approach to
+capital maintenance under which the change in capital or a
+company’s net assets is measured in nominal monetary units
+
+--- Page 205 ---
+without adjusting for changes in prices. [11] There is a separate
+IFRS (IFRS No. 29, “Financial Reporting in Hyperinflationary
+Economies”) that provides guidance on how to account for
+adjustments to the purchasing power of the monetary unit. [12]
+7 For major groups of assets and liabilities, companies must disclose
+(1) the fair value measurement and (2) the fair value hierarchy
+level of the measurements as a whole, classified by Level 1, 2, or 3.
+Given the judgment involved, it follows that the more a company
+depends on Level 3 to determine fair values, the more information
+about the valuation process the company will need to disclose.
+Thus, additional disclosures are required for Level 3
+measurements; we discuss these disclosures in more detail in
+subsequent chapters.
+8 Detailed discussion on measurement bases was not included in the
+pre-2018 Conceptual Framework. However, these current value
+measurement bases are reflected in certain IFRS. By including
+them in the Conceptual Framework, the IASB, when establishing
+new standards, can be guided by this Framework to ensure
+consistency. Indeed, while current cost is not often used in IFRS,
+value in use and fulfillment costs will be discussed in subsequent
+chapters in this text.
+9 The IFRS Conceptual Framework provides significant guidance on
+selecting a measurement basis that provides the most useful
+information. The optimal choice depends on the facts and
+circumstances of the company. [19]
+10 Derecognition is the removal of all or part of a recognized asset or
+liability from a company’s statement of financial position.
+Derecognition normally occurs when that item no longer meets the
+definition of an asset or of a liability. For assets, derecognition
+generally occurs when the company loses control of all or part of
+the recognized asset. For liabilities, derecognition generally occurs
+when the company no longer has a present obligation related to the
+liability. [21] We address derecognition as it relates to topics
+discussed throughout the text.
+
+--- Page 206 ---
+11 The framework shown in Illustration 2.5 is based on the recent
+standard on revenue recognition. The new guidance establishes the
+principles to report useful information about the nature, timing,
+and uncertainty of revenue from contracts with customers.
+12 This approach is commonly referred to as the matching
+principle. However, there is some debate about the conceptual
+validity of the matching principle. A major concern is that matching
+permits companies to defer certain costs and treat them as assets
+on the statement of financial position. In fact, these costs may not
+have future benefits. If abused, this principle permits the statement
+of financial position to become a “dumping ground” for unmatched
+costs.
+13 To provide guidance for management disclosures, the IASB issued
+an IFRS practice statement entitled “Management Commentary—A
+Framework for Presentation.” The IASB notes that this practice
+statement is neither an IFRS nor part of the Conceptual
+Framework. However, the guidance is issued on the basis that
+management commentary meets the definition of other financial
+reporting as referenced in the Conceptual Framework.
+14 “Decision-Usefulness: The Overriding Objective,” FASB Viewpoints
+(October 19, 1983), p. 4.
+15 Charles Rivers and Associates, “Sarbanes-Oxley Section 404: Costs
+and Remediation of Deficiencies,” letter from Deloitte and Touche,
+Ernst and Young, KPMG, and PricewaterhouseCoopers to the SEC
+(April 11, 2005).
+Sources: Adapted from Todd Johnson and Kim Petrone, The FASB Cases on Recognition
+and Measurement, Second Edition (New York: John Wiley and Sons, Inc., 1996); and
+Conceptual Framework for Financial Reporting (London, U.K.: IASB, 2018).
+
+--- Page 207 ---

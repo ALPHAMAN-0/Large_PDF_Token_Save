@@ -1,0 +1,1837 @@
+CHAPTER 1
+Financial Reporting and Accounting Standards
+LEARNING OBJECTIVES
+After studying this chapter, you should be able to:
+1. Describe the global financial markets and their relation to
+financial reporting.
+2. Explain the objective of financial reporting.
+3. Identify the major policy-setting bodies and their role in the
+standard-setting process.
+4. Discuss the challenges facing financial reporting.
+
+--- Page 54 ---
+This chapter also includes numerous conceptual
+discussions that are integral to the topics presented here.
+PREVIEW OF CHAPTER 1
+As the following opening story indicates, countries are moving
+quickly to adopt International Financial Reporting Standards (IFRS).
+It is estimated that over 300 of the 500 largest global companies are
+using IFRS. However, the accounting profession faces many
+challenges in establishing these standards, such as developing a
+sound conceptual framework, use of fair value measurements,
+proper consolidation of financial results, off-balance-sheet financing,
+and proper accounting for leases and pensions. This chapter
+discusses the international financial reporting environment and the
+many factors affecting it, as follows.
+Continuing Evolution of International Financial Reporting
+The age of international trade and the interdependence of national
+economies continue to evolve. Many of the largest companies in the
+world often do more of their business in foreign lands than in their
+home countries. Companies now access not only their home country
+capital markets for financing, but others as well. With this globalization,
+companies are recognizing the need to have one set of financial
+reporting standards. For globalization of capital markets to be efficient,
+what is reported for a transaction in Beijing should be reported the same
+way in Paris, New York, or London.
+In the past, many countries used their own sets of accounting standards
+or followed standards set by larger countries, such as those used in
+
+--- Page 55 ---
+Europe or in the United States. That protocol has changed through the
+adoption of a single set of rules, called International Financial Reporting
+Standards (IFRS). As indicated in the following chart, there is broad
+acceptance of IFRS around the world.
+As indicated, 126 jurisdictions require the use of IFRS by all or most
+public companies, with most of the remaining jurisdictions permitting
+their use. Indeed, 27,000 of the 49,000 companies listed on the 88
+largest securities exchanges in the world use IFRS. IFRS also has appeal
+for non-public companies; since its publication, the IFRS for SMEs
+(small and medium-sized entities) is required or permitted in 57
+percent, or 85 of 150, profiled jurisdictions, while a further 11
+jurisdictions are also considering adopting IFRS.
+Changing to IFRS does not come without cost and effort. However,
+academic research and studies by adopting jurisdictions provide
+overwhelming evidence that the use of IFRS has brought the following
+net benefits to capital markets:
+IFRS was successful in creating a common accounting language for
+capital markets (European Commission, 2015).
+
+--- Page 56 ---
+Evidence suggests that IFRS adoption was largely positive for listed
+companies in Australia (Australian Accounting Standards Board,
+2016).
+IFRS adoption helped to reduce investment risk in domestic firms,
+mitigate the “Korea discount,” and attract foreign capital via
+overseas shares listing, bond issuance, or mergers and acquisitions
+(Korean Accounting Standards Board, 2016).
+Some companies also report benefits from being able to use IFRS in
+their internal reporting. This improves their ability to compare operating
+units in different jurisdictions by reducing the number of different
+reporting systems. In Japan, where use of IFRS has been voluntary since
+2010, business efficiency, enhanced comparability, and better
+communications with international investors have been identified as the
+main reasons why many Japanese companies made the choice to adopt
+IFRS (Japanese Financial Services Agency). Thus, the international
+financial reporting environment has and is continuing to evolve. With
+these changes, it is hoped that a more effective system of reporting will
+develop, which will benefit all.
+Review and Practice
+Go to the Review and Practice section at the end of the chapter for
+a targeted summary review and practice problem with solution.
+Multiple-choice questions with annotated solutions, as well as
+additional exercises and practice problem with solutions, are also
+available online.
+Global Markets
+LEARNING OBJECTIVE 1
+Describe the global financial markets and their relation to financial
+reporting.
+World markets are increasingly intertwined. International consumers
+drive Japanese cars, wear Italian shoes and Scottish woolens, drink
+
+--- Page 57 ---
+Brazilian coffee and Indian tea, eat Swiss chocolate bars, sit on Danish
+furniture, watch U.S. movies, and use Arabian oil. The tremendous
+variety and volume of both exported and imported goods indicates the
+extensive involvement in international trade—for many companies, the
+world is their market.
+To provide some indication of the extent of globalization of economic
+activity, Illustration 1.1 provides a listing of the top 20 global
+companies in terms of sales.
+
+--- Page 58 ---
+Rank
+Company
+Country
+Revenues ($
+millions)
+1 Walmart
+U.S.
+5,00,343
+2 State Grid
+China
+3,48,903
+3 Sinopec Group
+China
+3,26,953
+4 China National
+Petroleum
+China
+3,26,008
+5 Royal Dutch Shell
+Netherlands
+3,11,870
+6 Toyota Motor
+Japan
+2,65,172
+7 Volkswagen
+Germany
+2,60,028
+8 BP
+Britain
+2,44,582
+9 ExxonMobil
+U.S.
+2,44,363
+10 Berkshire Hathaway
+U.S.
+2,42,137
+11 Apple
+U.S.
+2,29,234
+12 Samsung Electronics
+South
+Korea
+2,11,940
+13 McKesson
+U.S.
+2,08,357
+14 Glencore
+Switzerland
+2,05,476
+15 UnitedHealth Group
+U.S.
+2,01,159
+16 Daimler
+Germany
+1,85,235
+17 CVS Health
+U.S.
+1,84,765
+18 Amazon.com
+U.S.
+1,77,866
+19 EXOR Group
+Italy
+1,61,677
+20 AT&T
+U.S.
+1,60,546
+ILLUSTRATION 1.1 Top 20 Global Companies in Terms of
+Sales
+Source: Data from Global Fortune 500, 2018.
+www.fortune.com/global500/2018/search/?revenues=desc.
+In addition, due to technological advances and less onerous regulatory
+requirements, investors are able to engage in financial transactions
+across national borders and to make investment, capital allocation, and
+
+--- Page 59 ---
+financing decisions involving many foreign companies. Also, many
+investors, in attempts to diversify their portfolio risk, have invested
+more heavily in international markets. As a result, an increasing number
+of investors are holding securities of foreign companies. For example,
+over a recent seven-year period, estimated investments in foreign equity
+securities by U.S. investors doubled, from $3,422 billion to $7,844
+billion (OECD, 2018).
+An indication of the significance of these international investment
+opportunities can be found when examining the number of foreign
+registrations on various securities exchanges. As shown in Illustration
+1.2, a significant number of foreign companies are found on national
+exchanges.
+As indicated, capital markets are increasingly integrated and companies
+have greater flexibility in deciding where to raise capital. In the absence
+of market integration, there can be company-specific factors that make it
+cheaper to raise capital and list/trade securities in one location versus
+another. With the integration of capital markets, the automatic linkage
+between the location of the company and the location of the capital
+market is loosening. As a result, companies have expanded choices of
+where to raise capital, either equity or debt. The move toward adoption
+of global accounting standards has and will continue to facilitate this
+trend.
+
+--- Page 60 ---
+Exchange
+Market
+Capitalization
+($ millions)
+Total
+Listings
+Domestic
+Listings
+Foreign
+Listings
+Foreign
+%
+NYSE
+2,42,30,840
+2,335
+1,832
+503
+21.5
+Nasdaq
+1,16,58,201
+3,080
+2,637
+443
+14.4
+Japan
+Exchange
+Group
+56,14,217
+3,677
+3,672
+5
+0.1
+Euronext
+44,18,229
+1,239
+1,087
+152
+12.3
+Hong Kong
+Exchanges
+and Clearing
+41,89,279
+2,382
+2,218
+164
+6.9
+LSE Group
+39,34,491
+2,450
+2,049
+401
+16.4
+TMX Group
+22,86,818
+3,408
+3,354
+54
+1.6
+National
+Stock
+Exchange of
+India Limited
+21,83,847
+1,945
+1,944
+1
+0.1
+Deutsche
+Boerse AG
+19,49,134
+519
+469
+50
+9.6
+SIX Swiss
+Exchange
+17,11,019
+274
+240
+34
+12.4
+Nasdaq
+Nordic and
+Baltics
+14,84,297
+1,029
+986
+43
+4.2
+ASX
+Australian
+Securities
+Exchange
+14,54,171
+2,124
+1,983
+141
+6.6
+Korea
+Exchange
+14,32,601
+2,221
+2,200
+21
+0.9
+Taiwan Stock
+Exchange
+10,46,389
+948
+858
+90
+9.5
+
+--- Page 61 ---
+Exchange
+Market
+Capitalization
+($ millions)
+Total
+Listings
+Domestic
+Listings
+Foreign
+Listings
+Foreign
+%
+B3 (Brasil
+Bolsa Balcão)
+10,45,210
+330
+325
+5
+1.5
+Johannesburg
+Stock
+Exchange
+9,77,496
+349
+280
+69
+19.8
+BME Spanish
+Exchanges
+7,74,947
+2,937
+2,910
+27
+0.9
+Singapore
+Exchange
+7,25,887
+738
+478
+260
+35.2
+ILLUSTRATION 1.2 International Exchange Statistics
+Source: Data from Market Statistics-October 2019, The WFE Statistics Team.
+The World Federation of Exchanges.
+Financial Statements and Financial Reporting
+Accounting is the universal language of business. One noted economist
+and politician indicated that the single most important innovation
+shaping capital markets was the development of sound accounting
+principles. The essential characteristics of accounting are (1) the
+identification, measurement, and communication of financial
+information about (2) economic entities to (3) interested parties.
+Financial accounting is the process that culminates in the
+preparation of financial reports on the enterprise for use by both
+internal and external parties. Users of these financial reports include
+investors, creditors, managers, unions, and government agencies. In
+contrast, managerial accounting is the process of identifying,
+measuring, analyzing, and communicating financial information needed
+by management to plan, control, and evaluate a company’s operations.
+Financial statements are the principal means through which a company
+communicates its financial information to those outside the business.
+These statements provide a company’s history quantified in money
+terms. The financial statements most frequently provided are (1) the
+statement of financial position, (2) the income statement (or statement
+
+--- Page 62 ---
+of comprehensive income), (3) the statement of cash flows, and (4) the
+statement of changes in equity. Note disclosures are an integral part of
+each financial statement.
+Some financial information is better provided, or can be provided only,
+by means of financial reporting other than formal financial
+statements. Examples include the president’s letter or supplementary
+schedules in the company annual report, prospectuses, reports filed with
+government agencies, news releases, management’s forecasts, and social
+or environmental impact statements. Companies may need to provide
+such information because of authoritative pronouncements and
+regulatory rules, or custom. Or, they may supply it because management
+wishes to disclose it voluntarily.
+In this textbook, we focus on the development of two types of financial
+information: (1) the basic financial statements and (2) related
+disclosures.
+Accounting and Capital Allocation
+Resources are limited. As a result, people try to conserve them and
+ensure that they are used effectively. Efficient use of resources often
+determines whether a business thrives. This fact places a substantial
+burden on the accounting profession.
+Accountants must measure performance accurately and fairly on a
+timely basis, so that the right managers and companies are able to
+attract investment capital. For example, relevant financial information
+that faithfully represents financial results allows investors and creditors
+to compare the income and assets employed by such companies as
+Nokia (FIN), McDonald’s (USA), Air China Ltd. (CHN), and Toyota
+Motor Company (JPN). Because these users can assess the relative
+return and risks associated with investment opportunities, they channel
+resources more effectively. Illustration 1.3 shows how this process of
+capital allocation works.
+
+--- Page 63 ---
+ILLUSTRATION 1.3 Capital Allocation Process
+An effective process of capital allocation is critical to a healthy economy.
+It promotes productivity, encourages innovation, and provides an
+efficient and liquid market for buying and selling securities and
+obtaining and granting credit. Unreliable and irrelevant information
+leads to poor capital allocation, which adversely affects the securities
+markets.
+High-Quality Standards
+To facilitate efficient capital allocation, investors need relevant
+information and a faithful representation of that information to enable
+them to make comparisons across borders. For example, assume that
+you were interested in investing in the telecommunications industry.
+Four of the largest telecommunications companies in the world are
+Nippon Telegraph and Telephone (JPN), Deutsche Telekom
+(DEU), Telefonica (ESP and PRT), and AT&T (USA). How do you
+decide in which of these telecommunications companies to invest, if
+any? How do you compare, for example, a Japanese company like
+Nippon Telegraph and Telephone with a German company like Deutsche
+Telekom?
+A single, widely accepted set of high-quality accounting standards is a
+necessity to ensure adequate comparability. Investors are able to make
+better investment decisions if they receive financial information from
+Nippon Telegraph and Telephone that is comparable to information
+from Deutsche Telekom. Globalization demands a single set of high-
+quality international accounting standards. But how is this to be
+achieved? Here are some elements:
+
+--- Page 64 ---
+1. Single set of high-quality accounting standards established by a
+single standard-setting body.
+2. Consistency in application and interpretation.
+3. Common disclosures.
+4. Common high-quality auditing standards and practices.
+5. Common approach to regulatory review and enforcement.
+6. Education and training of market participants.
+7. Common delivery systems (e.g., eXtensible Business Reporting
+Language—XBRL).
+8. Common approach to company governance and legal frameworks
+around the world.1
+Fortunately, as indicated in the opening story, significant changes in the
+financial reporting environment are taking place, which hopefully will
+lead to a single, widely accepted set of high-quality accounting
+standards. The major standard-setters of the world, coupled with
+regulatory authorities, now recognize that capital formation and investor
+understanding are enhanced if a single set of high-quality accounting
+standards is developed.
+Objective of Financial Reporting
+LEARNING OBJECTIVE 2
+Explain the objective of financial reporting.
+What is the objective (or purpose) of financial reporting? The
+objective of general-purpose financial reporting is to provide financial
+information about the reporting entity that is useful to present
+and potential equity investors, lenders, and other creditors in
+making decisions about providing resources to the entity. Those
+decisions involve buying, selling, or holding equity and debt
+instruments, and providing or settling loans and other forms of credit.
+[1] (See the Authoritative Literature References section near the end of
+
+--- Page 65 ---
+the chapter.) Information that is decision-useful to capital providers
+(investors) may also be useful to other users of financial reporting who
+are not investors. Let’s examine each of the elements of this objective.
+General-Purpose Financial Statements
+General-purpose financial statements provide financial reporting
+information to a wide variety of users. For example, when Nestlé (CHE)
+issues its financial statements, these statements help shareholders,
+creditors, suppliers, employees, and regulators to better understand its
+financial position and related performance. Nestlé’s users need this type
+of information to make effective decisions. To be cost-effective in
+providing this information, general-purpose financial statements are
+most appropriate. In other words, general-purpose financial statements
+provide, at the least cost, the most useful information possible.
+Equity Investors and Creditors
+The objective of financial reporting identifies investors and creditors as
+the primary user group for general-purpose financial statements.
+Identifying investors and creditors as the primary user group provides
+an important focus of general-purpose financial reporting. For example,
+when Nestlé issues its financial statements, its primary focus is on
+investors and creditors because they have the most critical and
+immediate need for information in financial reports. Investors and
+creditors need this financial information to assess Nestlé’s ability to
+generate net cash inflows and to understand management’s ability to
+protect and enhance the assets of the company, which will be used to
+generate future net cash inflows. As a result, the primary user groups
+are not management, regulators, or some other non-investor group.
+
+--- Page 66 ---
+What Do the Numbers Mean?
+Don’t Forget Management Stewardship
+In addition to providing decision-useful information about future
+cash flows, management also is accountable to investors for the
+custody and safekeeping of the company’s economic resources and
+for their efficient and profitable use. For example, the management
+of Nestlé has the responsibility of protecting its economic resources
+from unfavorable effects of economic factors, such as price changes,
+and technological and social changes. Because Nestlé’s performance
+in discharging its responsibilities (referred to as its stewardship
+responsibilities) usually affects its ability to generate net cash
+inflows, financial reporting may also provide decision-useful
+information to assess management performance in this role. [2]
+Entity Perspective
+As part of the objective of general-purpose financial reporting, an entity
+perspective is adopted. Companies are viewed as separate and distinct
+from their owners (present shareholders) using this perspective. The
+assets of Nestlé are viewed as assets of the company and not of a specific
+creditor or shareholder. Rather, these investors have claims on Nestlé’s
+assets in the form of liability or equity claims. The entity perspective is
+consistent with the present business environment, where most
+companies engaged in financial reporting have substance distinct from
+their investors (both shareholders and creditors). Thus, the perspective
+that financial reporting should be focused only on the needs of
+shareholders—often referred to as the proprietary perspective—is not
+considered appropriate.
+Decision-Usefulness
+Investors are interested in financial reporting because it provides
+information that is useful for making decisions (referred to as the
+decision-usefulness approach). As indicated earlier, when making
+these decisions, investors are interested in assessing (1) the company’s
+
+--- Page 67 ---
+ability to generate net cash inflows and (2) management’s ability to
+protect and enhance the capital providers’ investments. Financial
+reporting should therefore help investors assess the amounts, timing,
+and uncertainty of prospective cash inflows from dividends or interest,
+and the proceeds from the sale, redemption, or maturity of securities or
+loans. In order for investors to make these assessments, the economic
+resources of an enterprise, the claims to those resources, and the
+changes in them must be understood. Financial statements and related
+explanations should be a primary source for determining this
+information.
+The emphasis on “assessing cash flow prospects” does not mean that the
+cash basis is preferred over the accrual basis of accounting. Information
+based on accrual accounting generally indicates more accurately a
+company’s present and continuing ability to generate favorable cash
+flows than does information limited to the financial effects of cash
+receipts and payments.
+Recall from your first accounting course the objective of accrual-basis
+accounting: it ensures that a company records events that change its
+financial statements in the periods in which the events occur, rather
+than only in the periods in which it receives or pays cash. Using the
+accrual basis to determine net income means that a company recognizes
+revenues when it provides the goods or performs the services (that is,
+satisfies its performance obligation) rather than when it receives cash.
+Similarly, it recognizes expenses when it incurs them rather than when
+it pays them. Under accrual accounting, a company generally recognizes
+revenues when it makes sales or performs services. The company can
+then relate the revenues to the economic environment of the period in
+which they occurred. Over the long run, trends in revenues and expenses
+are generally more meaningful than trends in cash receipts and
+disbursements.2
+Standard-Setting Organizations
+
+--- Page 68 ---
+LEARNING OBJECTIVE 3
+Identify the major policy-setting bodies and their role in the
+standard-setting process.
+For many years, many nations have relied on their own standard-setting
+organizations. For example, Canada has the Accounting Standards
+Board, Japan has the Accounting Standards Board of Japan, Germany
+has the German Accounting Standards Committee, and the United
+States has the Financial Accounting Standards Board (FASB). The
+standards issued by these organizations are sometimes principles-based,
+rules-based, tax-oriented, or business-based. In other words, they often
+differ in concept and objective.
+The main international standard-setting organization is based in
+London, England, and is called the International Accounting
+Standards Board (IASB). The IASB issues International Financial
+Reporting Standards (IFRS), which are used on most foreign
+exchanges. As indicated earlier, IFRS is presently used or permitted in
+over 149 jurisdictions (similar to countries) and is rapidly gaining
+acceptance in other jurisdictions as well.
+IFRS has the best potential to provide a common platform on which
+companies can report, resulting in financial statements investors can
+use to compare financial information. As a result, our discussion focuses
+on IFRS and the organization involved in developing these standards—
+the International Accounting Standards Board (IASB). The two
+organizations that have a role in international standard-setting are the
+International Organization of Securities Commissions (IOSCO)
+and the IASB.
+International Organization of Securities Commissions
+(IOSCO)
+The International Organization of Securities Commissions
+(IOSCO) is an association of organizations that regulate the world’s
+securities and futures markets. Members are generally the main
+financial regulator for a given country. IOSCO does not set accounting
+standards. Instead, this organization is dedicated to ensuring that the
+
+--- Page 69 ---
+global markets can operate in an efficient and effective basis. The
+member agencies (such as from France, Germany, New Zealand, and the
+United States) have resolved to:
+Cooperate to promote high standards of regulation in order to
+maintain just, efficient, and sound markets.
+Exchange information on their respective experiences in order to
+promote the development of domestic markets.
+Unite their efforts to establish standards and an effective
+surveillance of international securities transactions.
+Provide mutual assistance to promote the integrity of the markets
+by a rigorous application of the standards and by effective
+enforcement against offenses.
+IOSCO supports the development and use of IFRS as the single set of
+high-quality international standards in cross-border offerings and
+listings. It recommends that its members allow multinational issuers to
+use IFRS in cross-border offerings and listings, as supplemented by
+reconciliation, disclosure, and interpretation where necessary to address
+outstanding substantive issues at a national or regional level. (For more
+information, go to the IOSCO website.)
+
+--- Page 70 ---
+What Do the Numbers Mean?
+What About the Little Guy?
+As discussed in the opening story, IFRS has gained acceptance,
+especially for publicly traded companies that wish to access
+international capital markets. What about non-public companies?
+Well, IFRS has a financial reporting answer for these “SMEs” (small
+and medium-sized entities).
+The 250-page IFRS for SMEs focuses on the information needs of
+lenders, creditors, and other users of SME financial statements, who
+are primarily interested in information about cash flows, liquidity,
+and solvency. It also takes into account the costs to SMEs and the
+capabilities of SMEs to prepare financial information. While based
+on the full-IFRS principles, the IFRS for SMEs is considerably less
+complex. It reflects five types of simplifications from full IFRS:
+1. Some full-IFRS topics are omitted because they are not relevant
+to typical SMEs.
+2. Some full-IFRS accounting policy options are not allowed
+because a more simplified method is available to SMEs.
+3. Many of the full-IFRS recognition and measurement principles
+have been simplified.
+4. Substantially fewer disclosures are required.
+5. The full-IFRS text has been redrafted in “plain English” for
+increased understandability and translation.
+To date, 85 of the 150 jurisdictions whose profiles are followed by
+the IASB require or permit the IFRS for SMEs. It is also currently
+under consideration in a further 11 jurisdictions. So IFRS is gaining
+traction with both public and non-public companies.
+International Accounting Standards Board (IASB)
+
+--- Page 71 ---
+The standard-setting structure internationally is composed of the
+following four organizations:
+1. The IFRS Foundation provides oversight to the IASB, IFRS
+Advisory Council, and IFRS Interpretations Committee. In this role,
+it appoints members, reviews effectiveness, and helps in the
+fundraising efforts for these organizations.
+2. The International Accounting Standards Board (IASB)
+develops, in the public interest, a single set of high-quality,
+enforceable, and global international financial reporting standards
+for general-purpose financial statements.3
+3. The IFRS Advisory Council (the Advisory Council) provides
+advice and counsel to the IASB on major policies and technical
+issues.
+4. The IFRS Interpretations Committee assists the IASB through
+the timely identification, discussion, and resolution of financial
+reporting issues within the framework of IFRS.
+In addition, as part of the governance structure, a Monitoring Board
+was created. The purpose of this board is to establish a link between
+accounting standard-setters and those public authorities (e.g., IOSCO)
+that generally oversee them. The Monitoring Board also provides
+political legitimacy to the overall organization. Illustration 1.4 shows
+the organizational structure for the setting of international accounting
+standards.
+
+--- Page 72 ---
+ILLUSTRATION 
+1.4 
+International 
+Standard-Setting
+Structure
+Due Process
+In establishing financial accounting standards, the IASB has a thorough,
+open, and transparent due process. The IASB due process has the
+following elements: (1) an independent standard-setting board overseen
+by a geographically and professionally diverse body of trustees; (2) a
+thorough and systematic process for developing standards; (3)
+engagement with investors, regulators, business leaders, and the global
+accountancy profession at every stage of the process; and (4)
+collaborative efforts with the worldwide standard-setting community.
+To implement its due process, the IASB follows specific steps to develop
+a typical IFRS, as Illustration 1.5 shows.
+
+--- Page 73 ---
+ILLUSTRATION 1.5 IASB Due Process
+Furthermore, the characteristics of the IASB, as shown below, reinforce
+the importance of an open, transparent, and independent due process.
+Membership. The Board consists of 14 full-time members.
+Members are well-paid, appointed for five-year renewable terms,
+and come from different countries.4
+Autonomy. The IASB is not part of any other professional
+organization. It is appointed by and answerable only to the IFRS
+Foundation.
+Independence. Full-time IASB members must sever all ties from
+their past employer. The members are selected for their expertise in
+standard-setting rather than to represent a given country.
+Voting. A majority of votes are needed to issue a new IFRS. In the
+event of a tie, the chairperson is granted an additional vote.
+With these characteristics, the IASB and its members will be insulated
+as much as possible from the political process, favored industries, and
+national or cultural bias.
+
+--- Page 74 ---
+Types of Pronouncements
+The IASB issues three major types of pronouncements:
+1. International Financial Reporting Standards.
+2. Conceptual Framework for Financial Reporting.
+3. International Financial Reporting Standards Interpretations.
+International Financial Reporting Standards
+Financial accounting standards issued by the IASB are referred to as
+International Financial Reporting Standards (IFRS). The IASB has
+issued 17 of these standards to date, covering such subjects as business
+combinations, share-based payments, and leases.
+Prior to the IASB (formed in 2001), standard-setting on the
+international level was done by the International Accounting Standards
+Committee, which issued International Accounting Standards (IAS). The
+committee issued 41 IASs, many of which have been amended or
+superseded by the IASB. Those still remaining are considered under the
+umbrella of IFRS.
+Conceptual Framework for Financial Reporting
+
+--- Page 75 ---
+As part of a long-range effort to move away from the problem-by-
+problem approach, the IASB uses an IFRS conceptual framework. This
+Conceptual Framework for Financial Reporting sets forth the
+fundamental objective and concepts that the Board uses in developing
+future standards of financial reporting. The intent of the document is to
+form a cohesive set of interrelated concepts—a conceptual framework—
+that will serve as tools for solving existing and emerging problems in a
+consistent manner. For example, the objective of general-purpose
+financial reporting discussed earlier is part of this Conceptual
+Framework. The Conceptual Framework and any changes to it pass
+through the same due process (preliminary views, public hearing,
+exposure draft, etc.) as an IFRS. However, this Conceptual Framework is
+not an IFRS and hence does not define standards for any particular
+measurement or disclosure issue. Nothing in this Conceptual
+Framework overrides any specific international accounting standard.
+The Conceptual Framework is discussed more fully in Chapter 2.
+International Financial Reporting Standards Interpretations
+
+--- Page 76 ---
+Interpretations issued by the IFRS Interpretations Committee are
+also considered authoritative and must be followed. These
+interpretations cover (1) newly identified financial reporting issues not
+specifically dealt with in IFRS and (2) issues where unsatisfactory or
+conflicting interpretations have developed, or seem likely to develop, in
+the absence of authoritative guidance. The IFRS Interpretations
+Committee has issued over 20 of these interpretations to date.
+In keeping with the IASB’s own approach to setting standards, the IFRS
+Interpretations Committee applies a principles-based approach in
+providing interpretative guidance. To this end, the IFRS Interpretations
+Committee looks first to the Conceptual Framework as the foundation
+for formulating a consensus. It then looks to the principles articulated in
+the applicable standard, if any, to develop its interpretative guidance and
+to determine that the proposed guidance does not conflict with
+provisions in IFRS.
+The IFRS Interpretations Committee helps the IASB in many ways. For
+example, emerging issues often attract public attention. If not resolved
+quickly, these issues can lead to financial crises and scandals. They can
+also undercut public confidence in current reporting practices. The next
+step, possible governmental intervention, would threaten the
+continuance of standard-setting in the private sector. The IFRS
+Interpretations Committee can address controversial accounting
+problems as they arise. It determines whether it can resolve them or
+whether to involve the IASB in solving them. In essence, it becomes a
+“problem filter” for the IASB. Thus, the IASB will hopefully work on
+
+--- Page 77 ---
+more pervasive long-term problems, while the IFRS Interpretations
+Committee deals with short-term emerging issues.
+Hierarchy of IFRS
+Because it is a private organization, the IASB has no regulatory mandate
+and therefore no enforcement mechanism. As a result, the Board relies
+on other regulators to enforce the use of its standards. For example, the
+European Union requires publicly traded member country companies to
+use IFRS.
+Any company indicating that it is preparing its financial statements in
+conformity with IFRS must use all of the standards and interpretations.
+The following hierarchy is used to determine what recognition,
+valuation, and disclosure requirements should be used. Companies first
+look to:
+1. International Financial Reporting Standards, International
+Accounting Standards (issued by the predecessor to the IASB), and
+IFRS interpretations originated by the IFRS Interpretations
+Committee (and its predecessor, the IAS Interpretations
+Committee);
+2. The Conceptual Framework for Financial Reporting; and
+3. Pronouncements of other standard-setting bodies that use a similar
+conceptual framework (e.g., U.S. GAAP).
+In the absence of a standard or an interpretation in item 1 above,
+companies look to the Conceptual Framework for Financial Reporting
+and then to most recent pronouncements of other standard-setting
+bodies that use a similar conceptual framework to develop accounting
+standards (or other accounting literature and accepted industry practices
+to the extent they do not conflict with the above). The overriding
+requirement of IFRS is that the financial statements provide a fair
+presentation (often referred to as a “true and fair view”). Fair
+representation is assumed to occur if a company follows the guidelines
+established in IFRS.5 [3]
+Financial Reporting Challenges
+
+--- Page 78 ---
+LEARNING OBJECTIVE 4
+Discuss the challenges facing financial reporting.
+Much is right about international financial reporting. One reason for
+this success is that financial statements and related disclosures capture
+and organize financial information in a useful and reliable fashion.
+However, much still needs to be done. Here are some of the major
+challenges.
+IFRS in a Political Environment
+User groups are possibly the most powerful force influencing the
+development of IFRS. User groups consist of those most interested in or
+affected by accounting rules. Various participants in the financial
+reporting environment may want particular economic events accounted
+for or reported in a particular way, and they fight hard to get what they
+want. They know that the most effective way to influence IFRS is to
+participate in the formulation of these rules or to try to influence or
+persuade the formulators of them.6
+These user groups often target the IASB, to pressure it to change the
+existing rules and develop new ones. In fact, these pressures have been
+multiplying. Some influential groups demand that the accounting
+profession act more quickly and decisively to solve its problems. Other
+groups resist such action, preferring to implement change more slowly,
+if at all. Illustration 1.6 shows the various user groups that apply
+pressure.
+Should there be politics in establishing IFRS for financial accounting
+and reporting? Why not? Politics is everywhere: at the office, home,
+school, church, temple, and mosque. IFRS is part of the real world, and
+it cannot escape political pressures.
+That is not to say that politics in establishing IFRS is a negative force.
+Considering the economic consequences of many accounting rules,
+special interest groups are expected to vocalize their reactions to
+proposed rules.7 What the Board should not do is issue standards that
+are primarily politically motivated. While paying attention to its
+
+--- Page 79 ---
+constituencies, the Board should base IFRS on sound research and a
+conceptual framework that has its foundation in economic reality.
+ILLUSTRATION 
+1.6 
+User 
+Groups 
+that 
+Influence 
+the
+Formulation of Accounting Standards
+
+--- Page 80 ---
+What Do the Numbers Mean?
+Fair Consequences?
+No accounting issue better illustrates the economic consequences of
+accounting than the current debate over the use of fair value
+accounting for financial assets. The IASB has had long-standing
+standards requiring the use of fair value accounting for financial
+assets, such as investments and other financial instruments. Fair
+value provides the most relevant and reliable information for
+investors about these assets and liabilities. However, in the wake of
+the credit crisis of 2008, some countries, their central banks, and
+bank regulators wanted to suspend fair value accounting based on
+concerns that use of fair value accounting, which calls for recording
+significant losses on poorly performing loans and investments,
+would scare investors and depositors and lead to a “run on the bank.”
+Most notable was the lobbying of then French President Nicolas
+Sarkozy in urging his European Union counterparts to back changes
+to accounting rules and give banks and insurers some breathing
+space amid the market turmoil. Mr. Sarkozy sought agreement to the
+new regulations, including changes to the mark-to-market
+accounting rules that have been blamed for aggravating the crisis.
+International regulators also have conducted studies of fair value
+accounting and its role in the credit crisis. It is clear that political
+pressure affected the final standard on financial instruments. The
+standard (issued in 2016) permits companies to use amortized cost
+instead of fair value for held-for-collection financial assets. The
+amortized cost approach was favored by financial institutions with
+substantial portfolios of held-for-collection financial assets. These
+financial institutions applied much pressure on regulators, noting
+the dire economic consequences that might follow if they had to use
+fair value in reporting on these financial assets. In short, numbers
+have consequences.
+Sources: Adapted from Ben Hall and Nikki Tait, “Sarkozy Seeks EU Accounting
+Change,” The Financial Times Limited (September 30, 2008).
+
+--- Page 81 ---
+The Expectations Gap
+Accounting scandals at companies like Parmalat (ITA), Siemens
+(DEU), and Carillion (GBR) have attracted the attention of regulators,
+investors, and the general public. Due to the size and the number of
+fraudulent reporting cases, some question whether the accounting
+profession is doing enough. The expectations gap—what the public
+thinks accountants should do and what accountants think they can do—
+is difficult to close.
+Although the profession can argue rightfully that accounting cannot be
+responsible for every financial catastrophe, it must continue to strive to
+meet the needs of society. However, efforts to meet these needs will
+become more costly to society. The development of highly transparent,
+clear, and reliable systems to meet public expectations requires
+considerable resources.
+Significant Financial Reporting Issues
+While our reporting model has worked well in capturing and organizing
+financial information in a useful and reliable fashion, much still needs
+to be done. For example, if we move ahead to the year 2030 and look
+back at financial reporting today, we might read the following.
+Non-financial measurements. Financial reports failed to
+provide some key performance measures widely used by
+management, such as customer satisfaction indexes, backlog
+information, and reject rates on goods purchased.
+Forward-looking information. Financial reports failed to
+provide forward-looking information needed by present and
+potential investors and creditors. One individual noted that
+financial statements in 2022 should have started with the phrase,
+“Once upon a time,” to signify their use of historical cost and
+accumulation of past events.
+Soft assets. Financial reports focused on hard assets (inventory,
+plant assets) but failed to provide much information about a
+company’s soft assets (intangibles). The most valuable assets are
+often intangible. Consider Sony’s (JPN) expertise in electronics and
+Ikea’s (NLD) brand image.
+
+--- Page 82 ---
+Timeliness. Companies only prepared financial statements
+quarterly and provided audited financials annually. Little to no real-
+time financial statement information was available.
+We believe each of these challenges must be met for the accounting
+profession to provide the type of information needed for an efficient
+capital allocation process. We are confident that changes will occur,
+based on these positive signs:
+Already, some companies voluntarily disclose information deemed
+relevant to investors. Often such information is non-financial. For
+example, banking companies now disclose data on loan growth,
+credit quality, operating efficiency, capital management, and
+management strategy.
+Initially, companies used the Internet to provide limited financial
+data. Now, most companies publish their annual reports in several
+formats on the Web. The most innovative companies offer sections
+of their annual reports in a format that the user can readily
+manipulate, such as in an electronic spreadsheet format. Companies
+also format their financial reports using eXtensible Business
+Reporting Language (XBRL), which permits quicker and lower-cost
+access to companies’ financial information.
+More accounting standards now require the recording or disclosing
+of fair value information. For example, companies either record
+investments in shares and bonds, debt obligations, and derivatives
+at fair value, or companies show information related to fair values
+in the notes to the financial statements.
+Changes in these directions will enhance the relevance of financial
+reporting and provide useful information to financial statement readers.
+Ethics in the Environment of Financial Accounting
+A noted commentator on the subject of accounting ethics observed,
+“Based on my experience, new graduates tend to be idealistic … thank
+goodness for that! Still it is very dangerous to think that your armor is
+all in place and say to yourself, ‘I would have never given in to that.’ The
+pressures don’t explode on us; they build, and we often don’t recognize
+
+--- Page 83 ---
+them until they have us.” These observations are particularly
+appropriate for anyone entering the business world.
+In accounting, as in other areas of business, we frequently encounter
+ethical dilemmas. Some of these dilemmas are simple and easy to
+resolve. However, many are not, requiring difficult choices among
+allowable alternatives. Companies that concentrate on “maximizing the
+bottom line,” “facing the challenges of competition,” and “stressing
+short-term results” place accountants in an environment of conflict and
+pressure. Basic questions such as, “Is this way of communicating
+financial information good or bad?” “Is it right or wrong?” and “What
+should I do in the circumstance?” cannot always be answered by simply
+adhering to IFRS or following the rules of the profession. Technical
+competence is not enough when encountering ethical decisions.
+Doing the right thing is not always easy or obvious. The pressures “to
+bend the rules,” “to play the game,” or “to just ignore it” can be
+considerable. For example, “Will my decision affect my job performance
+negatively?” “Will my superiors be upset?” or “Will my colleagues be
+unhappy with me?” are often questions businesspeople face in making a
+tough ethical decision. The decision is more difficult because there is no
+comprehensive ethical system to provide guidelines. Time, job, client,
+personal, and peer pressures can complicate the process of ethical
+sensitivity and selection among alternatives. Throughout this textbook,
+we present ethical considerations to help sensitize you to the
+type of situations you may encounter in the performance of your
+professional responsibility.
+International Convergence
+As discussed in the opening story, convergence to a single set of high-
+quality financial reporting standards is desirable. Here are some
+examples of how convergence is occurring:
+1. China is reforming its financial reporting system through an
+approach called a continuous convergence process. The goal is to
+eliminate differences between its standards and IFRS.
+2. Japan now permits the use of IFRS for domestic companies. The
+number of companies electing to use IFRS is expected to increase
+
+--- Page 84 ---
+substantially in the near future.
+3. The IASB and the FASB (of the United States) have spent the last 19
+years working to converge their standards. The two Boards issued
+standards on revenue recognition, financial instruments, and lease
+accounting, which mark the end of the Boards’ formal convergence
+project. Although the IASB and FASB standards in these three areas
+are similar, there are significant differences as well.8
+4. Recently, Malaysia was instrumental in helping to amend the
+accounting for agricultural assets.
+5. Italy’s standard-setting group has provided advice and counsel on
+the accounting for business combinations under common control.
+In addition, U.S. and European regulators have agreed to recognize each
+other’s standards for listing on the various world securities exchanges.
+As a result, costly reconciliation requirements have been eliminated,
+which should lead to greater comparability and transparency. Because
+international accounting issues are so important, we provide in each
+chapter of this textbook Global Accounting Insights, which
+highlight non-IFRS standards, mostly those from the United States. This
+feature will help you to understand the changes that are taking place in
+the financial reporting area as we move toward converged global
+accounting standards.
+
+--- Page 85 ---
+What Do the Numbers Mean?
+Can You Do That?
+One of the more difficult issues related to convergence and
+international accounting standards is that countries have different
+cultures and customs. For example, the former chair of the IASB
+explained it this way regarding Europe:
+“In the U.K. everything is permitted unless it is prohibited. In
+Germany, it is the other way around; everything is prohibited
+unless it is permitted. In the Netherlands, everything is prohibited
+even if it is permitted. And in France, everything is permitted even
+if it is prohibited. Add in countries like Japan, the United States,
+and China, it becomes very difficult to meet the needs of each of
+these countries.”
+With this diversity of thinking around the world, it understandable
+why accounting convergence has been so elusive.
+Source: Sir D. Tweedie, “Remarks at the Robert P. Maxon Lectureship,” George
+Washington University (April 7, 2010).
+Conclusion
+International financial reporting continues to evolve. A number of
+convergence projects already are completed and differences eliminated.
+However, as one international regulator indicates, “the ultimate
+question remains whether IFRS will in fact function as the single set of
+high-quality, global accounting standards that the world has been
+seeking for so long. At least, when it comes to satisfying investors’
+concerns, there is no question of the attractiveness of the promise of a
+truly global accounting standard. The only real question is not whether
+this is good for investors, but how quickly both the accounting standards
+and the process by which they are established and developed can be
+globally recognized as world-class.”
+Review and Practice
+
+--- Page 86 ---
+Key Terms Review
+accrual-basis accounting
+Conceptual Framework for Financial Reporting
+decision-usefulness
+due process
+economic consequences
+entity perspective
+expectations gap
+financial accounting
+financial reporting
+financial statements
+general-purpose financial statements
+hierarchy (of IFRS)
+IFRS Advisory Council
+IFRS Foundation
+IFRS Interpretations Committee
+International Accounting Standards Board (IASB)
+International Financial Reporting Standards (IFRS)
+International Organization of Securities Commissions (IOSCO)
+interpretations
+managerial accounting
+Monitoring Board
+objective of financial reporting
+Learning Objectives Review
+1 Describe the global financial markets and their relation to
+financial reporting.
+
+--- Page 87 ---
+World markets are increasingly intertwined. With the integration of
+capital markets, the automatic linkage between the location of the
+company and the location of the capital market is loosening. As a result,
+companies have expanded choices of where to raise capital, either equity
+or debt. The move toward adoption of global accounting standards has
+facilitated and will continue to facilitate this trend.
+Financial statements and other means of financial reporting.
+Companies most frequently provide (1) the statement of financial
+position, (2) the income statement or statement of comprehensive
+income, (3) the statement of cash flows, and (4) the statement of
+changes in equity. Financial reporting other than financial statements
+may take various forms. Examples include the president’s letter and
+supplementary schedules in the company annual report, prospectuses,
+reports filed with government agencies, news releases, management’s
+forecasts, and descriptions of a company’s social or environmental
+impact.
+Efficient use of scarce resources. Accounting provides reliable,
+relevant, and timely information to managers, investors, and creditors to
+allow resource allocation to the most efficient enterprises. Accounting
+also provides measurements of efficiency (profitability) and financial
+soundness.
+High-quality standards. A single, widely accepted set of high-quality
+accounting standards is a necessity to ensure adequate comparability.
+Investors are increasingly making investing decisions across
+international jurisdictions. As a result, investors need financial
+information that is comparable across national boundaries. But what are
+high-quality accounting standards, how should they be developed, and
+how should they be enforced is still a much debated issue.
+2 Explain the objective of financial reporting.
+The objective of general-purpose financial reporting is to provide
+financial information about the reporting entity that is useful to present
+and potential equity investors, lenders, and other creditors in making
+decisions about providing resources to the entity. Information that is
+
+--- Page 88 ---
+decision-useful to investors may also be useful to other users of
+financial reporting who are not investors.
+3 Identify the major policy-setting bodies and their role in
+the standard-setting process.
+The International Organization of Securities Commissions (IOSCO)
+does not set accounting standards but is dedicated to ensuring that the
+global markets can operate in an efficient and effective manner. The
+International Accounting Standards Board (IASB) is the leading
+international accounting standard-setting organization. Its mission is to
+develop, in the public interest, a single set of high-quality and
+understandable International Financial Reporting Standards (IFRS) for
+general-purpose financial statements. Standards issued by the IASB
+have been adopted by over 149 jurisdictions (similar to countries)
+worldwide, and all publicly traded European companies must use IFRS.
+IFRS is comprised of (a) International Financial Reporting Standards,
+(b) International Accounting Standards, and (c) interpretations issued
+by the IFRS Interpretations Committee or the former Standing
+Interpretations Committee (SIC). In the absence of a standard or an
+interpretation, other accounting literature, including that contained in
+the Conceptual Framework for Financial Reporting and recent
+pronouncements of other standard-setting bodies that use a similar
+conceptual framework, can be applied.
+4 Discuss the challenges facing financial reporting.
+Challenges include (1) the development of IFRS in a political
+environment; (2) the expectations gap; (3) financial reporting issues
+related to key performance measures widely used by management,
+forward-looking information needed by investors and creditors,
+sufficient information on a company’s soft assets (intangibles), and real-
+time financial information, including fair values; (4) ethics in
+accounting; and (5) international convergence.
+
+--- Page 89 ---
+Enhanced Review and Practice
+Go online for multiple-choice questions with solutions, review
+exercises with solutions, and a full glossary of all key terms.
+Practice Problem
+At the completion of Bloom NV’s audit, the president, Judy Bloom,
+asks about the meaning of the phrase “in conformity with IFRS” that
+appears in your audit report on the management’s financial
+statements. Judy observes that the meaning of the phrase must
+include something more and different than what she thinks of as
+“standards.” Judy is curious about the pronouncements that are
+encompassed in IFRS and wonders, if there are different types of
+pronouncements, which are more authoritative than others?
+Instructions
+a. Describe the pronouncements that comprise IFRS.
+b. Explain to Judy how a company determines which type of
+pronouncement takes precedence when deciding the recognition,
+valuation, and disclosure related to a particular transaction.
+Solution
+a. The IASB issues three major types of pronouncements:
+1. International Financial Reporting Standards.
+2. Conceptual Framework for Financial Reporting.
+3. International Financial Reporting Standards Interpretations.
+IASB standards are financial accounting standards issued by the
+IASB and are referred to as International Financial Reporting
+Standards (IFRS). The Conceptual Framework for Financial
+Reporting sets forth the fundamental objective and concepts that
+the Board uses in developing accounting standards that will serve
+
+--- Page 90 ---
+as tools for solving existing and emerging problems in a consistent
+manner.
+b. The hierarchy of IFRS to determine what recognition, valuation,
+and disclosure requirements should be used is:
+1. International Financial Reporting Standards, including
+International Accounting Standards, and interpretations from
+the International Financial Reporting Standards
+Interpretations Committee.
+2. If not addressed in 1., refer to IFRS Concepts Statements.
+3. If not addressed in 1. and 2., refer to pronouncements of other
+standard-setting bodies that use a similar conceptual
+framework (e.g. U.S. GAAP).
+Any company indicating that it is preparing its financial statements
+in conformity with IFRS must comply with the standards and
+interpretations.
+Exercises, Problems, Problem Solution Walkthrough Videos, Data
+Analytics Activities, and many more assessment tools and resources
+are available for practice in Wiley’s online courseware.
+Questions
+1. What is happening to world markets, and what are the implications
+for financial reporting?
+2. Differentiate broadly between financial accounting and managerial
+accounting.
+3. What are the major financial statements, and what is the difference
+between financial statements and financial reporting?
+4. How does accounting help in the capital allocation process?
+5. What is the benefit of a single set of high-quality accounting
+standards?
+6. What is the objective of financial reporting?
+7. What is meant by general-purpose financial statements?
+
+--- Page 91 ---
+8. Who is the primary user group for general-purpose financial
+statements?
+9. Comment on the following statement: A perspective that financial
+reporting should be focused only on the needs of the shareholders—
+often referred to as the proprietary perspective—is considered
+appropriate.
+10. Comment on the following statement: The objective of financial
+reporting is primarily to provide decision-useful information for
+assessing the performance of management.
+11. What are the two key organizations in the development of
+international accounting standards? Explain their role.
+12. What is IOSCO?
+13. What is the mission of the IASB?
+14. What is the purpose of the Monitoring Board?
+15. How are IASB preliminary views and IASB exposure drafts related to
+IASB standards?
+16. Distinguish between IASB standards and the Conceptual Framework
+for Financial Reporting.
+17. Rank from most authoritative to least authoritative the following
+three items: Conceptual Framework for Financial Reporting,
+International Financial Reporting Standards, and International
+Financial Reporting Standards Interpretations.
+18. Explain the role of the IFRS Interpretations Committee.
+19. What are some of the major challenges facing the accounting
+profession?
+20. What are the sources of pressure that change and influence the
+development of IFRS?
+21. Some individuals have indicated that the IASB must be cognizant of
+the economic consequences of its pronouncements. What is meant by
+“economic consequences”? What dangers exist if politics play too much
+of a role in the development of IFRS?
+
+--- Page 92 ---
+22. If you were given complete authority in the matter, how would you
+propose that IFRS should be developed and enforced?
+23. One writer recently noted that a high percentage of all companies
+prepare statements that are in accordance with IFRS. Why then is there
+such concern about fraudulent financial reporting?
+24. What is the “expectations gap”? What is the profession doing to try
+to close this gap?
+25. How are financial accountants challenged in their work to make
+ethical decisions? Is technical mastery of IFRS not sufficient to the
+practice of financial accounting?
+Concepts for Analysis
+CA1.1 (LO 3) (IFRS and Standard-Setting) Presented below are five
+statements to identify as true or false. If false, explain why the
+statement is incorrect.
+1. IFRS is the term used to indicate the whole body of IASB
+authoritative literature.
+2. Any company claiming compliance with IFRS must follow most
+standards and interpretations but not the disclosure requirements.
+3. The primary governmental body that has influence over the IASB is
+the IFRS Advisory Council.
+4. The overriding requirement of IFRS is for the financial statements
+to give a fair presentation (or true and fair view).
+5. The IASB has a government mandate and therefore does not have to
+follow due process in issuing an IFRS.
+CA1.2 (LO 2, 3) (IFRS and Standard-Setting) Presented below are
+four statements to identify as true or false. If false, explain why the
+statement is incorrect.
+1. The objective of financial statements emphasizes a stewardship
+approach for reporting financial information.
+
+--- Page 93 ---
+2. The objective of financial reporting is to prepare a statement of
+financial position, a statement of comprehensive income, a
+statement of cash flows, and a statement of changes in equity.
+3. The difference between International Accounting Standards and
+IFRS is that International Accounting Standards are more
+authoritative.
+4. The objective of financial reporting uses an entity rather than a
+proprietary approach in determining what information to report.
+CA1.3 (LO 2, 3, 4) (Financial Reporting and Accounting
+Standards) Answer the following multiple-choice questions.
+1. IFRS stands for:
+a. International Federation of Reporting Services.
+b. Independent Financial Reporting Standards.
+c. International Financial Reporting Standards.
+d. Integrated Financial Reporting Services.
+2. The major key organizations on the international side are the:
+a. IASB and IFRS Advisory Council.
+b. IOSCO and the U.S. SEC.
+c. London Stock Exchange and International Securities Exchange.
+d. IASB and IOSCO.
+3. Which governmental body is most influential in enforcing IFRS?
+a. Monitoring Board.
+b. IFRS Advisory Council.
+c. IOSCO.
+d. IFRS Foundation.
+4. Accounting standard-setters use the following process in
+establishing international standards:
+a. Research, exposure draft, discussion paper, standard.
+
+--- Page 94 ---
+b. Discussion paper, research, exposure draft, standard.
+c. Research, preliminary views, discussion paper, standard.
+d. Research, preliminary views, exposure draft, standard.
+5. IFRS is comprised of:
+a. International Financial Reporting Standards and FASB
+financial reporting standards.
+b. International Financial Reporting Standards, International
+Accounting Standards, and International Accounting Standards
+Interpretations.
+c. International Accounting Standards and International
+Accounting Standards Interpretations.
+d. FASB financial reporting standards and International
+Accounting Standards.
+6. The authoritative status of the Conceptual Framework for Financial
+Reporting is as follows:
+a. It is used when there is no standard or interpretation related to
+the reporting issues under consideration.
+b. It is not as authoritative as a standard but takes precedence
+over any interpretation related to the reporting issue.
+c. It takes precedence over all other authoritative literature.
+d. It has no authoritative status.
+7. The objective of financial reporting places most emphasis on:
+a. reporting to capital providers.
+b. reporting on stewardship.
+c. providing specific guidance related to specific needs.
+d. providing information to individuals who are experts in the
+field.
+8. General-purpose financial statements are prepared primarily for:
+a. internal users.
+
+--- Page 95 ---
+b. external users.
+c. auditors.
+d. government regulators.
+9. Economic consequences of accounting standard-setting means:
+a. standard-setters must give first priority to ensuring that
+companies do not suffer any adverse effect as a result of a new
+standard.
+b. standard-setters must ensure that no new costs are incurred
+when a new standard is issued.
+c. the objective of financial reporting should be politically
+motivated to ensure acceptance by the general public.
+d. accounting standards can have detrimental impacts on the
+wealth levels of the providers of financial information.
+10. The expectations gap is the difference between:
+a. what financial information management provides and what
+users want.
+b. what the public thinks accountants should do and what
+accountants think they can do.
+c. what the governmental agencies want from standard-setting
+and what the standard-setters provide.
+d. what the users of financial statements want from the
+government and what is provided.
+CA1.4 (LO 1) (Financial Accounting) Omar Morena has recently
+completed his first year of studying accounting. His instructor for next
+semester has indicated that the primary focus will be the area of
+financial accounting.
+Instructions
+a. Differentiate between financial accounting and managerial
+accounting.
+
+--- Page 96 ---
+b. One part of financial accounting involves the preparation of
+financial statements. What are the financial statements most
+frequently provided?
+c. What is the difference between financial statements and financial
+reporting?
+CA1.5 (LO 3) 
+ (Need for IASB) Some argue that having
+various organizations establish accounting principles is wasteful and
+inefficient. Rather than mandating accounting rules, each company
+could voluntarily disclose the type of information it considered
+important. In addition, if an investor wants additional information, the
+investor could contact the company and pay to receive the additional
+information desired.
+Instructions
+Comment on the appropriateness of this viewpoint.
+CA1.6 (LO 3) (IASB Role in Standard-Setting) A press release
+announcing the appointment of the trustees of the new IFRS
+Foundation stated that the International Accounting Standards Board
+(to be appointed by the trustees) “… will become the established
+authority for setting accounting Standards.”
+Instructions
+a. Identify the sponsoring organization of the IASB and the process by
+which the IASB arrives at a decision and issues an accounting
+standard.
+b. Indicate the major types of pronouncements issued by the IASB and
+the purposes of each of these pronouncements.
+CA1.7 (LO 4) (Accounting Numbers and the Environment)
+Hardly a day goes by without an article appearing on the crises affecting
+many of our financial institutions. It is estimated that the financial crisis
+of 2007–2008, for example, caused a deep recession. Some argue that if
+financial institutions had been required to report their investments at
+fair value instead of cost, large losses would have been reported earlier,
+
+--- Page 97 ---
+which would have signaled regulators to close these financial
+institutions, therefore minimizing the losses to many investors.
+Instructions
+Explain how reported accounting numbers might affect an individual’s
+perceptions and actions. Cite two examples.
+CA1.8 (LO 3, 4) 
+ (Politicization of IFRS) Some accountants
+have said that politicization in the development and acceptance of
+International Financial Reporting Standards (IFRS) is taking place.
+Some use the term “politicization” in a narrow sense to mean the
+influence by governmental agencies, such as the European Union and
+the U.S. Securities and Exchange Commission, on the development of
+IFRS. Others use it more broadly to mean the compromise that results
+when the bodies responsible for developing IFRS are pressured by
+interest groups, businesses through their various organizations,
+financial analysts, bankers, lawyers, academics, auditors, and so on.
+Instructions
+a. What arguments can be raised to support the “politicization” of
+accounting rule-making?
+b. What arguments can be raised against the “politicization” of
+accounting rule-making?
+CA1.9 (LO 3) (Models for Setting IFRS) Presented below are three
+models for setting IFRS.
+1. The purely political approach, where national legislative action
+decrees IFRS.
+2. The private, professional approach, where IFRS is set and enforced
+by private professional actions only.
+3. The public/private mixed approach, where IFRS is basically set by
+private-sector bodies that behave as though they were public
+agencies and whose standards to a great extent are enforced
+through governmental agencies.
+Instructions
+
+--- Page 98 ---
+a. Which of these three models best describes international standard-
+setting? Comment on your answer.
+b. Why do companies, financial analysts, labor unions, industry trade
+associations, and others take such an active interest in standard-
+setting?
+CA1.10 (LO 4) (Economic Consequences) Several years ago, then
+French President Nicolas Sarkozy urged his European Union
+counterparts to put pressure on the IASB to change accounting rules to
+give banks and insurers some relief from fair value accounting rules
+amid market turmoil. Mr. Sarkozy sought changes to the mark-to-
+market accounting rules that have been blamed for aggravating the
+crisis.
+Instructions
+Explain how government intervention could possibly affect capital
+markets adversely.
+CA1.11 (LO 3, 4) 
+ (Rule-Making Issues) When the IASB
+issues new pronouncements, the implementation date is usually delayed
+for several months from date of issuance, with early implementation
+encouraged. Karen Weller, controller, discusses with her financial vice
+president the need for early implementation of a rule that would result
+in a fairer presentation of the company’s financial condition and
+earnings. When the financial vice president determines that early
+implementation of the rule will adversely affect the reported net income
+for the year, he discourages Weller from implementing the rule until it
+is required.
+Instructions
+Answer the following questions.
+a. What, if any, is the ethical issue involved in this case?
+b. Is the financial vice president acting improperly or immorally?
+c. What does Weller have to gain by advocacy of early
+implementation?
+
+--- Page 99 ---
+d. Which stakeholders might be affected by the early implementation
+decision?
+CA1.12 (LO 4) 
+ (Financial Reporting Pressures) The
+following is abbreviated testimony from Troy Normand in the
+WorldCom (USA) case. He was a manager in the company reporting
+department and was one of five individuals who pleaded guilty. He
+testified to avoid prison time.
+Q. Mr. Normand, if you could just describe for the jury how the meeting
+started and what was said during the meeting?
+A. I can’t recall exactly who initiated the discussion, but right away Scott
+Sullivan acknowledged that he was aware we had problems with the
+entries, David Myers had informed him, and we were considering
+resigning.
+He said that he respected our concerns but that we weren’t being asked
+to do anything that he believed was wrong. He mentioned that he
+acknowledged that the company had lost focus quite a bit due to the
+preparations for the Sprint merger, and that he was putting plans in
+place and projects in place to try to determine where the problems were,
+why the costs were so high.
+He did say he believed that the initial statements that we produced, that
+the line costs in those statements could not have been as high as they
+were, that he believes something was wrong and there was no way that
+the costs were that high.
+I informed him that I didn’t believe the entry we were being asked to do
+was right, that I was scared, and I didn’t want to put myself in a position
+of going to jail for him or the company. He responded that he didn’t
+believe anything was wrong, nobody was going to be going to jail, but
+that if it later was found to be wrong, that he would be the person going
+to jail, not me.
+He asked that I stay, don’t jump off the plane, let him land it softly,
+that’s basically how he put it. And he mentioned that he had a
+discussion with Bernie Ebbers asking Bernie to reduce projections going
+forward and that Bernie had refused.
+
+--- Page 100 ---
+Q. Mr. Normand, you said that Mr. Sullivan said something about don’t
+jump out of the plane. What did you understand him to mean when he
+said that?
+A. Not to quit.
+Q. During this meeting, did Mr. Sullivan say anything about whether
+you would be asked to make entries like this in the future?
+A. Yes, he made a comment that from that point going forward we
+wouldn’t be asked to record any entries, high-level late adjustments, that
+the numbers would be the numbers.
+Q. What did you understand that to be mean, the numbers would be the
+numbers?
+A. That after the preliminary statements were issued, with the exception
+of any normal transaction, valid transaction, we wouldn’t be asked to be
+recording any more late entries.
+Q. I believe you testified that Mr. Sullivan said something about the line
+cost numbers not being accurate. Did he ask you to conduct any analysis
+to determine whether the line cost numbers were accurate?
+A. No, he did not.
+Q. Did anyone ever ask you to do that?
+A. No.
+Q. Did you ever conduct any such analysis?
+A. No, I didn’t.
+Q. During this meeting, did Mr. Sullivan ever provide any accounting
+justification for the entry you were asked to make?
+A. No, he did not.
+Q. Did anything else happen during the meeting?
+A. I don’t recall anything else.
+Q. How did you feel after this meeting?
+A. Not much better actually. I left his office not convinced in any way
+that what we were asked to do was right. However, I did question myself
+
+--- Page 101 ---
+to some degree after talking with him wondering whether I was making
+something more out of what was really there.
+Instructions
+Answer the following questions.
+a. What appears to be the ethical issue involved in this case?
+b. Is Troy Normand acting improperly or immorally?
+c. What would you do if you were Troy Normand?
+d. Who are the major stakeholders in this case?
+Using Your Judgment
+Financial Reporting Problem
+Lola Otero, a new staff accountant, is confused because of the
+complexities involving accounting standard-setting. Specifically, she is
+confused by the number of bodies issuing financial reporting standards
+of one kind or another and the level of authoritative support that can be
+attached to these reporting standards. Lola decides that she must review
+the environment in which accounting standards are set, if she is to
+increase her understanding of the accounting profession.
+Lola recalls that during her accounting education there was a chapter or
+two regarding the environment of financial accounting and the
+development of IFRS. However, she remembers that her instructor
+placed little emphasis on these chapters.
+Instructions
+a. Help Lola by identifying key organizations involved in accounting
+rule-making at the international level.
+b. Lola asks for guidance regarding authoritative support. Please assist
+her by explaining what is meant by authoritative support.
+Financial Reporting Case
+
+--- Page 102 ---
+The following comments were made at an Annual Conference of the
+Financial Executives Institute (FEI).
+There is an irreversible movement toward a single set of rules for
+financial reporting throughout the world. The international capital
+markets require an end to:
+1. The confusion caused by international companies announcing
+different results depending on the set of accounting standards
+applied.
+2. Companies in some countries obtaining unfair commercial
+advantages from the use of particular national accounting
+standards.
+3. The complications in negotiating commercial arrangements for
+international joint ventures caused by different accounting
+requirements.
+4. The inefficiency of international companies having to understand
+and use myriad accounting standards depending on the countries in
+which they operate and the countries in which they raise capital and
+debt. Executive talent is wasted on keeping up to date with
+numerous sets of accounting standards and the never-ending
+changes to them.
+5. The inefficiency of investment managers, bankers, and financial
+analysts as they seek to compare financial reporting drawn up in
+accordance with different sets of accounting standards.
+Instructions
+a. What is the International Accounting Standards Board?
+b. What stakeholders might benefit from the use of international
+accounting standards?
+c. What do you believe are some of the major obstacles to
+convergence?
+Accounting, Analysis, and Principles
+
+--- Page 103 ---
+The founders of Oslo Group, Finn Elo and Venden Hakala, are about to
+realize their dream of taking their company public. They are trying to
+better understand the various legal and accounting issues they will face
+as a public company.
+Accounting
+a. What are some of the reporting requirements that their company
+will have to comply with when they offer securities to investors and
+creditors?
+b. Identify the two entities that are primarily responsible for
+establishing IFRS, which will be applied when preparing their
+financial statements. Explain the relationship of these two
+organizations to one another.
+Analysis
+a. What is decision-usefulness?
+b. Briefly describe how the financial statements that Oslo prepares for
+its investors and creditors will contribute to decision-usefulness.
+Principles
+Oslo will prepare its statements in conformity with IFRS. Finn and
+Venden have heard about an IFRS hierarchy. Briefly explain this
+hierarchy and advise them on how the hierarchy affects the application
+of IFRS.
+Bridge to the Profession
+Authoritative Literature References
+[1] The Conceptual Framework for Financial Reporting, “Chapter 1, The
+Objective of General Purpose Financial Reporting” (London, U.K.: IASB,
+2018), par. 2.
+[2] The Conceptual Framework for Financial Reporting, “Chapter 1,
+The Objective of General Purpose Financial Reporting” (London, U.K.:
+IASB, 2018), paras. 3–4.
+
+--- Page 104 ---
+[3] International Accounting Standard 8, Accounting Policies, Changes
+in Accounting Estimates and Errors (London, U.K.: IASB, 1993), par. 12.
+Research Case
+As a newly enrolled accounting major, you are anxious to better
+understand accounting institutions and sources of accounting literature.
+As a first step, you decide to explore the IASB’s Conceptual Framework
+for Financial Reporting.
+Instructions
+Access the Conceptual Framework at the IFRS website (you may register
+for free IFRS access at this site). When you have accessed the document,
+you can use the search tool in your Internet browser to respond to the
+following items. (Provide paragraph citations.)
+a. What is the objective of financial reporting?
+b. Explain the role of presentation and disclosure principles to
+facilitate communication in financial statements.
+c. Indicate some of the users and the information they are most
+directly concerned with in economic decision-making.
+Global Accounting Insights
+LEARNING OBJECTIVE 5
+Compare IFRS and U.S. GAAP and their standard-setting processes.
+Most agree that there is a need for one set of international accounting
+standards. Here is why:
+Multinational companies. Today’s companies view the entire
+world as their market. For example, many companies find their
+largest market is not in their home country.
+Mergers and acquisitions. The mergers that led to international
+giants Kraft/Cadbury (USA and GBR) and
+
+--- Page 105 ---
+Vodafone/Mannesmann (GBR and DEU) suggest that we will
+see even more such mergers in the future.
+A single set of high-quality accounting standards ensures adequate
+comparability. Investors are able to make better investment
+decisions if they receive financial information from a U.S. company
+that is comparable to an international competitor.
+Information technology. As communication barriers continue to
+topple through advances in technology, companies and individuals
+in different countries and markets are becoming comfortable
+buying and selling goods and services from one another.
+Financial markets. Financial markets are some of the most
+significant international markets today. Whether it is currency,
+equity securities (shares), bonds, or derivatives, there are active
+markets throughout the world trading these types of instruments.
+Relevant Facts
+Following are the key similarities and differences between U.S. GAAP
+(the standards issued by the Financial Accounting Standards Board) and
+IFRS related to the financial reporting environment.
+Similarities
+Generally accepted accounting principles (GAAP) for U.S.
+companies are developed by the Financial Accounting Standards
+Board (FASB). The FASB is a private organization. The U.S.
+Securities and Exchange Commission (SEC) exercises oversight
+over the actions of the FASB. The IASB is also a private
+organization. Oversight over the actions of the IASB is regulated by
+IOSCO.
+Both the IASB and the FASB have essentially the same governance
+structure, that is, a Foundation that provides oversight, a Board, an
+Advisory Council, and an Interpretations Committee. In addition, a
+general body that involves the public interest is part of the
+governance structure.
+The FASB relies on the U.S. SEC for regulation and enforcement of
+its standards. The IASB relies primarily on IOSCO for regulation
+
+--- Page 106 ---
+and enforcement of its standards.
+Both the IASB and the FASB are working together to find common
+ground wherever possible.
+Differences
+U.S. GAAP is more detailed or rules-based. IFRS tends to be simpler
+and more flexible in the accounting and disclosure requirements.
+The difference in approach has resulted in a debate about the merits
+of principles-based versus rules-based standards.
+Differences between U.S. GAAP and IFRS should not be surprising
+because standard-setters have developed standards in response to
+different user needs. In some countries, the primary users of
+financial statements are private investors. In others, the primary
+users are tax authorities or central government planners. In the
+United States, investors and creditors have driven accounting-
+standard formulation.
+About the Numbers
+The FASB and its predecessor organizations have been developing
+standards for nearly 80 years. The IASB is a relatively new organization
+(formed in 2001). As a result, it has looked to the United States to
+determine the structure it should follow in establishing IFRS. Thus, the
+international standard-setting structure (presented in Illustration 1.4) is
+very similar to the U.S. standard-setting structure. Presented below is a
+chart of the FASB’s standard-setting structure.
+
+--- Page 107 ---
+On the Horizon
+Both the IASB and the FASB are hard at work developing standards that
+will lead to the elimination of major differences in the way certain
+transactions are accounted for and reported. In fact, beginning in 2010,
+the IASB (and the FASB on its joint projects with the IASB) started its
+policy of phasing in adoption of new major standards over several years.
+The major reason for this policy is to provide companies time to
+translate and implement international standards into practice.
+GAAP Self-Test Questions
+1. GAAP (for U.S. companies) stands for:
+a. Government accepted accounting practices.
+b. Generally accepted auditing policies.
+c. Generally accepted accounting principles.
+d. Gevernment approved accounting principles.
+2. Oversight of accounting standard-setting is as follows:
+a. IASB oversees FASB.
+b. IOSCO oversees both the IASB and FASB.
+c. SEC oversees both the IASB and FASB.
+
+--- Page 108 ---
+d. SEC oversees FASB, IOSCO oversees IASB.
+3. Governance of the FASB involves:
+a. FASB, FAF, FASAC, and IOSCO.
+b. FASB, FAF, FASAC, and staff and task forces.
+c. FASB, FAF, IASB, and task forces.
+d. FASB, FAF, IASB, and the SEC.
+4. Which of the following statements is false?
+a. FASB is a government office within the SEC.
+b. The FASB and IASB have similar governance structures.
+c. U.S. GAAP is generally viewed as more detailed or rules-based; IFRS
+is viewed as more principles-based.
+d. The SEC oversees FASB standard-setting.
+5. Which of the following statements is true?
+a. The IASB does not include the public interest in its governance.
+b. The IASB structure has both advisory and interpretation functions,
+but no Foundation.
+c. The IASB has been in existence longer than the FASB.
+d. The IASB structure is quite similar to the FASB’s, with a
+Foundation, Board, Advisory Council, and Interpretations
+Committee.
+GAAP Concepts and Application
+GAAP1.1 What organizations are the two key players in the
+development of U.S. GAAP? Explain their role.
+GAAP1.2 What might explain the fact that different accounting
+standard-setters have developed accounting standards that are
+sometimes quite different in nature?
+
+--- Page 109 ---
+Answers to GAAP Self-Test Questions
+1. c 2. d 3. b 4. a 5. d
+Notes
+1 Robert H. Herz, “Towards a Global Reporting System: Where Are We
+and Where Are We Going?” AICPA National Conference on SEC and
+PCAOB Reporting Developments (December 10, 2007).
+2 As used here, cash flow means “cash generated and used in
+operations.” The term cash flows also frequently means cash
+obtained by borrowing and used to repay borrowing, cash used for
+investments in resources and obtained from the disposal of
+investments, and cash contributed by or distributed to owners.
+3 The IASB was preceded by the International Accounting Standards
+Committee (IASC), which came into existence on June 29, 1973, as a
+result of an agreement by professional accountancy bodies in
+Australia, Canada, France, Germany, Japan, Mexico, the Netherlands,
+the United Kingdom and Ireland, and the United States. A revised
+agreement and constitution was signed in November 1982 and was
+updated most recently in 2009. The constitution mandates that all
+standards and interpretations issued under previous constitutions
+continue to be applicable unless and until they are amended or
+withdrawn. When the term IFRS is used in this textbook, it includes
+standards and interpretations approved by the IASB, and
+International Accounting Standards (IAS) and Standards
+Interpretations Committee (SIC) interpretations issued under
+previous constitutions.
+4 IASB membership reflects geographical representation, generally with
+members from Europe, the Americas, Asia–Oceania, and Africa.
+5 In rare cases, compliance with a standard or interpretation is judged to
+be misleading when it conflicts with the objective of financial
+reporting. In this case, it is possible to have what is referred to as a
+“true and fair override.” If this occurs, extensive disclosure is required
+to explain the rationale for this unusual exception.
+
+--- Page 110 ---
+6 However, as IASB chairperson Hans Hoogervorst noted, “It is not
+always obvious what is lobbying by vested interests and what is public
+interest feedback whose purpose is to help us deliver a high quality
+standard. More often than not the vested interest is packaged in
+public interest arguments. Sometimes even users do not want change.
+Analysts are so much in love with their own models that they do not
+want our standards to shed light on complex issues.” See
+“Strengthening Institutional Relationships,”
+www.ifrs.org/-/media/feature/news/speeches/2013/hans-
+hoogervorst-wss-september-2013.pdf.
+7 Economic consequences means the impact of accounting reports on
+the wealth positions of issuers and users of financial information and
+the decision-making behavior resulting from that impact. The
+resulting behavior of these individuals and groups could have
+detrimental financial effects on the providers of the financial
+information. See Stephen A. Zeff, “The Rise of ‘Economic
+Consequences’,” Journal of Accountancy (December 1978), pp. 56–
+63.
+8 The chairperson of the IASB recently noted that the notion of the
+United States embracing IFRS is politically dead. The IASB is now
+taking the position that it will attempt both to avoid divergence and to
+favor convergence between IFRS and U.S. GAAP wherever possible.
+Staying converged can be challenging, as illustrated by the Boards’
+deliberations on sustainability reporting and the accounting for
+goodwill. In the case of goodwill, the FASB has floated the idea of
+allowing companies to amortize goodwill (and avoid the cost of
+annual impairment testing). The IASB has been opposed to such an
+approach. See M. Cohn, “Sustainability Standards Seen as Too
+Fragmented,” www.accountingtoday.com/news/sustainability-
+standards-seen-as-too-fragmented (October 17, 2019); and M. Mauer,
+“U.S., International Accounting Rule Makers Differ on Goodwill
+Amortization,” Wall Street Journal (October 17, 2019).
+Sources: Adapted from P. Pacter, Pocket Guide to IFRS® Standards—The Global Financial
+Reporting Language (2017); www.ifrs.org/use-around-the-world/why-global-accounting-
+standards; and www.fsa.go.jp/en/news/2015/20151113-1/01.pdf.
+
+--- Page 111 ---

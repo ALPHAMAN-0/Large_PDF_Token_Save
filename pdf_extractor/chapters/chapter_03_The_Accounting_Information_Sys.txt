@@ -1,0 +1,3742 @@
+CHAPTER 3
+The Accounting Information System
+LEARNING OBJECTIVES
+After studying this chapter, you should be able to:
+1. Describe the basic accounting information system.
+2. Record and summarize basic transactions.
+3. Identify and prepare adjusting entries.
+4. Prepare financial statements from the adjusted trial balance and prepare closing entries.
+5. Prepare financial statements for a merchandising company.
+This chapter also includes numerous conceptual discussions that are integral to
+the topics presented here.
+PREVIEW OF CHAPTER 3
+As the following opening story indicates, blockchain technologies hold promise as part of a
+reliable accounting information system for many companies. The purpose of this chapter is to
+explain and illustrate the features of an accounting information system. The content and
+organization of this chapter are as follows.
+Working on the Chain Gang
+Advanced information technology and accounting have always moved in tandem. For example,
+consider an emerging technology called blockchain, which has the potential to be deployed in
+accounting systems. What is blockchain? It is a digital ledger of economic transactions that is fully
+public, continually updated by countless users in the cloud, and considered by many to be
+impossible to corrupt. A blockchain database contains two types of records: transactions and
+blocks. Blocks hold batches of transactions. The blocks are time-stamped and link to a previous
+block.
+
+--- Page 208 ---
+Accounting information systems have been built on database technology for a long time. The
+reason for the recent interest in blockchain technologies for accounting systems has to do with
+some unique features:
+1. Blockchain technologies can be used to create a database of information that is immutable.
+Being immutable means that once information is stored in the blockchain, the original record
+cannot be altered without detection. This has useful potential for accounting systems, as it is
+important that accounting records are complete and not altered.
+2. Blockchain records are stored in a distributed system. In a distributed system, there are always
+multiple copies of the database, and all copies are the same at any point in time.
+3. Blockchain systems can be built using public or shared databases. While this feature is
+essential for cryptocurrency payment systems such as bitcoin, it is less clear that this would be
+the case for accounting systems, which typically contain private information. However, it is
+conceivable that by using a common, public shared ledger, a company might have accounting
+records that would allow for a much more efficient audit process.
+Many accounting firms have established special teams and groups that are focused on blockchain
+technologies and their applications to accounting. For example, one firm has established a group
+that can provide blockchain validation. Essentially, this would be an audit of the technologies and
+data in a blockchain so that others could rely on it. Another large accounting firm has begun to
+offer its own blockchain for use by large financial services companies, to keep records of stock and
+other financial product ownership. While the exact future uses of blockchain technologies are not
+yet clear, all involved are certain that blockchain systems will be a common part of the accounting
+information system of the future for many organizations.
+Review and Practice
+Go to the Review and Practice section at the end of the chapter for a targeted summary
+review and practice problem with solution. Multiple-choice questions with annotated
+solutions, as well as additional exercises and practice problem with solutions, are also
+available online.
+Accounting Information System
+LEARNING OBJECTIVE 1
+Describe the basic accounting information system.
+An accounting information system collects and processes transaction data and then
+disseminates the financial information to interested parties. Accounting information systems vary
+widely from one business to another. Various factors shape these systems: the nature of the
+business and the transactions in which it engages, the size of the firm, the volume of data to be
+handled, and the informational demands of management and others.
+As we discussed in the opening story, companies are placing a renewed focus on their accounting
+systems in light of blockchain innovations to ensure relevant and representationally faithful
+information is reported in financial statements. A good accounting information system helps
+management answer such questions as:
+How much and what kind of debt is outstanding?
+Were our sales higher this period than last?
+
+--- Page 209 ---
+What assets do we have?
+What were our cash inflows and outflows?
+Did we make a profit last period?
+Are any of our product lines or divisions operating at a loss?
+Can we safely increase our dividends to shareholders?
+Is our rate of return on net assets increasing?
+Management can answer many other questions with the data provided by an efficient accounting
+system. A well-devised accounting information system benefits every type of company.
+Basic Terminology
+Financial accounting rests on a set of concepts (discussed in Chapters 1 and 2) for identifying,
+recording, classifying, and interpreting transactions and other events relating to enterprises. You
+therefore need to understand the basic terminology employed in collecting accounting
+data.
+
+--- Page 210 ---
+Basic Terminology
+Event. A happening of consequence. An event generally is the source or cause of changes in
+assets, liabilities, and equity. Events may be external or internal.
+Transaction. An external event involving a transfer or exchange between two or more
+entities.
+Account. A systematic arrangement that shows the effect of transactions and other events on
+a specific element (asset, liability, and so on). Companies keep a separate account for each
+asset, liability, revenue, and expense, and for capital (owners’ equity). Because the format of
+an account often resembles the letter T, it is sometimes referred to as a T-account (see
+Illustration 3.3).
+Real and Nominal Accounts. Real (permanent) accounts are asset, liability, and equity
+accounts; they appear on the statement of financial position. Nominal (temporary)
+accounts are revenue, expense, and dividend accounts; except for dividends, they appear on
+the income statement. Companies periodically close nominal accounts; they do not close real
+accounts.
+Ledger. The book (or computer printouts) containing the accounts. A general ledger is a
+collection of all the asset, liability, equity, revenue, and expense accounts. A subsidiary
+ledger contains the details related to a given general ledger account.
+Journal. The “book of original entry” where the company initially records transactions and
+selected other events. Various amounts are transferred from the book of original entry, the
+journal, to the ledger. Entering transaction data in the journal is known as journalizing.
+Posting. The process of transferring the essential facts and figures from the book of original
+entry to the ledger accounts.
+Trial Balance. The list of all open accounts in the ledger and their balances. The trial balance
+taken immediately after all adjustments have been posted is called an adjusted trial
+balance. A trial balance taken immediately after closing entries have been posted is called a
+post-closing (or after-closing) trial balance. Companies may prepare a trial balance at
+any time.
+Adjusting Entries. Entries made at the end of an accounting period to bring all accounts up
+to date on an accrual basis, so that the company can prepare correct financial statements.
+Financial Statements. Statements that reflect the collection, tabulation, and final
+summarization of the accounting data. Four statements are involved: (1) The statement of
+financial position shows the financial condition of the enterprise at the end of a period. (2)
+The income statement (or statement of comprehensive income) measures the results of
+operations during the period. (3) The statement of cash flows reports the cash provided
+and used by operating, investing, and financing activities during the period. (4) The
+statement of retained earnings (or retained earnings statement) reconciles the balance of
+the Retained Earnings account from the beginning to the end of the period.
+Closing Entries. The formal process by which the enterprise reduces all nominal accounts to
+zero and determines and transfers the net income or net loss to an equity account. Also known
+as “closing the ledger,” “closing the books,” or merely “closing.”
+Debits and Credits
+
+--- Page 211 ---
+The terms debit (Dr.) and credit (Cr.) mean left and right, respectively. These terms do not mean
+increase or decrease, but instead describe where a company makes entries in the recording process.
+That is, when a company enters an amount on the left side of an account, it debits the account.
+When it makes an entry on the right side, it credits the account. When comparing the totals of the
+two sides, an account shows a debit balance if the total of the debit amounts exceeds the credits.
+An account shows a credit balance if the credit amounts exceed the debits.
+The positioning of debits on the left and credits on the right is simply an accounting custom. We
+could function just as well if we reversed the sides. However, countries adopted the custom, now
+the rule, of having debits on the left side of an account and credits on the right side, similar to the
+custom of driving on one side of the road or the other. This rule applies to all accounts.
+The equality of debits and credits provides the basis for the double-entry system of recording
+transactions (sometimes referred to as double-entry bookkeeping). Under the universally used
+double-entry accounting system, a company records the dual (two-sided) effect of each
+transaction in appropriate accounts. This system provides a logical method for recording
+transactions. It also offers a means of proving the accuracy of the recorded amounts. If a company
+records every transaction with equal debits and credits, then the sum of all the debits to the
+accounts must equal the sum of all the credits.
+Illustration 3.1 presents the basic guidelines for an accounting system. Increases to all asset and
+expense accounts occur on the left (or debit side) and decreases occur on the right (or credit side).
+Conversely, increases to all liability and revenue accounts occur on the right (or credit side) and
+decreases on the left (or debit side). A company increases equity accounts, such as Share Capital
+and Retained Earnings, on the credit side, but increases Dividends on the debit side.
+ILLUSTRATION 3.1 Double-Entry (Debit and Credit) Accounting System
+The Accounting Equation
+In a double-entry system, for every debit there must be a credit, and vice versa. This leads us, then,
+to the basic equation in accounting (Illustration 3.2).
+
+--- Page 212 ---
+ILLUSTRATION 3.2 The Basic Accounting Equation
+Illustration 3.3 expands this equation to show the accounts that make up equity. The figure also
+shows the debit/credit rules and effects on each type of account. Study this diagram carefully. It
+will help you understand the fundamentals of the double-entry system. Like the basic equation, the
+expanded equation must also balance (total debits equal total credits).
+ILLUSTRATION 3.3 Expanded Equation and Debit/Credit Rules and Effects
+Every time a transaction occurs, the elements of the accounting equation change. However, the
+basic equality remains. To illustrate, consider the following eight different transactions for Perez
+Inc.
+1. Owners invest $40,000 in exchange for ordinary shares.
+2. Disburse $600 cash for administrative wages.
+3. Purchase office equipment priced at $5,200, giving a 6 percent promissory note in exchange.
+4. Receive $4,000 cash for services performed.
+
+--- Page 213 ---
+5. Pay off a short-term liability of $7,000.
+6. Declare a cash dividend of $5,000.
+7. Convert a non-current liability of $80,000 into ordinary shares.
+8. Pay cash of $16,000 for a delivery van.
+Financial Statements and Ownership Structure
+The equity section of the statement of financial position reports share capital and retained
+earnings. The income statement reports revenues and expenses. The retained earnings statement
+reports dividends. Because a company transfers dividends, revenues, and expenses to retained
+earnings at the end of the period, a change in any one of these three items affects equity.
+Illustration 3.4 shows the income statement and equity relationships.
+
+--- Page 214 ---
+ILLUSTRATION 3.4 Income Statement and Equity Relationships
+The company’s ownership structure dictates the types of accounts that are part of or affect the
+equity section. A corporation commonly uses Share Capital, Share Premium, Dividends, and
+Retained Earnings accounts. A proprietorship or a partnership uses an Owner’s Capital account and
+an Owner’s Drawing account. An Owner’s Capital account indicates the owner’s or owners’
+investment in the company. An Owner’s Drawing account tracks withdrawals by the owner(s).
+Illustration 3.5 summarizes and relates the transactions affecting equity to the nominal
+(temporary) and real (permanent) classifications and to the types of business ownership.
+
+--- Page 215 ---
+ILLUSTRATION 3.5 Effects of Transactions on Equity Accounts
+The Accounting Cycle
+Illustration 3.6 shows the steps in the accounting cycle. A company normally uses these
+accounting procedures to record transactions and prepare financial statements.
+
+--- Page 216 ---
+ILLUSTRATION 3.6 The Accounting Cycle
+Identifying and Recording Transactions and Other Events
+The first step in the accounting cycle is analysis of transactions and selected other events. The first
+problem is to determine what to record. Although IFRS provides guidelines, no simple rules exist
+that state which events a company should record. Although changes in a company’s personnel or
+managerial policies may be important, the company should not record these items in the accounts.
+On the other hand, a company should record all cash sales or purchases—no matter how small.
+The concepts we presented in Chapter 2 determine what to recognize in the accounts. An item
+should be recognized in the financial statements provided that the item meets the definition of one
+of the elements of financial statements and if such recognition provides users of financial
+statements with (a) relevant information about the asset or the liability and about any income,
+expenses, or changes in equity; and (b) a faithful representation of the asset or the liability and
+of any income, expenses, or changes in equity. For example, should we value employees for
+statement of financial position and income statement purposes (see Underlying Concepts)?
+
+--- Page 217 ---
+Certainly skilled employees are an important asset (highly relevant), but the problems of
+determining their value and measuring it reliably have not yet been solved. Consequently, human
+resources are not recorded. Perhaps when measurement techniques become more sophisticated
+and accepted, such information will be presented, if only in supplemental form.
+Underlying Concepts
+Assets are present economic resources controlled by the entity as a result of past events. An
+economic resource is a right that has the potential to produce economic benefits.
+Transactions recorded may be an exchange between two entities where each receives and
+sacrifices value, such as purchases and sales of goods or services. Or, transactions may be transfers
+in one direction only. For example, an entity may incur a liability without directly receiving value in
+exchange, such as charitable contributions (see Underlying Concepts). Other examples include
+investments by owners, distributions to owners, payment of taxes, gifts, casualty losses, and thefts.
+Underlying Concepts
+A liability is a present obligation of the entity to transfer an economic resource as a result of
+past events.
+In short, a company records as many transactions as possible that affect its financial
+position. As discussed earlier in the case of human resources, it omits some events because of
+tradition and others because of complicated measurement problems. Recently, however, the
+accounting profession has shown more receptiveness to accepting the challenge of measuring and
+reporting events previously viewed as too complex and immeasurable.
+Record and Summarize Basic Transactions
+LEARNING OBJECTIVE 2
+Record and summarize basic transactions.
+Journalizing
+A company records in accounts those transactions and events that affect its assets, liabilities, and
+equities. The general ledger contains all the asset, liability, and equity accounts. An account (see
+Illustration 3.3) shows the effect of transactions on a particular asset, liability, equity, and revenue,
+as well as expense accounts.
+In practice, companies do not record transactions and selected other events originally in the ledger.
+A transaction affects two or more accounts, each of which is on a different page in the ledger.
+Therefore, in order to have a complete record of each transaction or other event in one place, a
+company uses a journal (also called “the book of original entry”). In its simplest form, a general
+journal chronologically lists transactions and other events, expressed in terms of debits and
+credits to accounts.
+As an example, Illustration 3.7 depicts the technique of journalizing, using two transactions for
+Softbyte A.Ş. These transactions are:
+September 1 Shareholders invested 15,000 cash in the company in exchange for ordinary shares.
+Purchased computer equipment for 7,000 cash.
+
+--- Page 218 ---
+General Journal
+J1
+Date
+Account Titles and Explanation Ref. Debit Credit
+2022
+Sept. 1 Cash
+15,000
+Share Capital—Ordinary
+15,000
+(Issued ordinary shares for cash)
+1 Equipment
+7,000
+Cash
+7,000
+(Purchased equipment for cash)
+ILLUSTRATION 3.7 Technique of Journalizing
+The J1 indicates these two entries are on the first page of the general journal.
+Each general journal entry consists of four parts: (1) a date, (2) the accounts and amounts to be
+debited (Dr.), (3) the accounts and amounts to be credited (Cr.), and (4) an explanation. A company
+enters debits first, followed by the credits (slightly indented). The explanation begins below the
+name of the last account to be credited and may take one or more lines. A company completes the
+“Ref.” column at the time it posts to the accounts.
+In some cases, a company uses special journals in addition to the general journal. Special
+journals summarize transactions possessing a common characteristic (e.g., cash receipts, sales,
+purchases, cash payments). As a result, using them reduces bookkeeping time.
+Posting
+The procedure of transferring journal entries to the ledger accounts is called posting. Posting
+involves the following steps.
+1. In the ledger, enter in the appropriate columns of the debited account(s) the date, journal
+page, and debit amount shown in the journal.
+2. In the reference column of the journal, write the account number to which the debit amount
+was posted.
+3. In the ledger, enter in the appropriate columns of the credited account(s) the date, journal
+page, and credit amount shown in the journal.
+4. In the reference column of the journal, write the account number to which the credit amount
+was posted.
+Illustration 3.8 diagrams these four steps, using the first journal entry of Softbyte. The
+illustration shows the general ledger accounts in standard account form. Some companies call
+this form the three-column form of account because it has three money columns—debit,
+credit, and balance. The balance in the account is determined after each transaction. The
+explanation space and reference columns provide special information about the transaction. The
+boxed numbers indicate the sequence of the steps.
+
+--- Page 219 ---
+ILLUSTRATION 3.8 Posting a Journal Entry
+The numbers in the “Ref.” column of the general journal refer to the ledger accounts to which a
+company posts the respective items. For example, the “101” placed in the column to the right of
+“Cash” indicates that the company posted this 15,000 item to Account No. 101 in the ledger.
+The posting of the general journal is completed when a company records all of the posting
+reference numbers opposite the account titles in the journal. Thus, the number in the posting
+reference column serves two purposes: (1) It indicates the ledger account number of the account
+involved; and, (2) It indicates the completion of posting for the particular item. Each company
+selects its own numbering system for its ledger accounts. Many begin numbering with asset
+accounts and then follow with liabilities, equity, revenue, and expense accounts, in that order.
+The ledger accounts in Illustration 3.8 show the accounts after completion of the posting process.
+The reference J1 (General Journal, page 1) indicates the source of the data transferred to the ledger
+account.
+Chart of Accounts
+The number and type of accounts differ for each company. The number of accounts depends on the
+amount of detail management desires. For example, the management of one company may want a
+single account for all types of utility expense. Another may keep separate expense accounts for
+each type of utility, such as gas, electricity, and water. Similarly, a small company like Softbyte will
+
+--- Page 220 ---
+have fewer accounts than a business giant like Anheuser-Busch InBev (BEL). Softbyte may be
+able to manage and report its activities in 20 to 30 accounts, while Anheuser-Busch InBev may
+require thousands of accounts to keep track of its worldwide activities.
+Most companies have a chart of accounts. This chart lists the accounts and the account numbers
+that identify their location in the ledger. The numbering system that identifies the accounts usually
+starts with the statement of financial position accounts and follows with the income statement
+accounts.
+In this chapter, we will be explaining the accounting for Yazici Advertising A.Ş. (a service
+company). The ranges of the account numbers are as follows.
+Accounts 101–199 indicate asset accounts
+200–299 indicate liabilities
+300–399 indicate equity accounts
+400–499, revenues
+500–799, expenses
+800–899, other revenues
+900–999, other expenses
+Illustration 3.9 shows the chart of accounts for Yazici Advertising A.Ş. You will notice that there
+are gaps in the numbering system of the chart of accounts for Yazici Advertising A.Ş. Gaps are left
+to permit the insertion of new accounts as needed during the life of the business.
+Yazici Advertising A.Ş.
+Chart of Accounts
+Assets
+Equity
+101 Cash
+311 Share Capital—Ordinary
+112 Accounts Receivable
+320 Retained Earnings
+113 Allowance for Doubtful Accounts
+332 Dividends
+126 Supplies
+350 Income Summary
+130 Prepaid Insurance
+157 Equipment
+Revenues
+158 Accumulated Depreciation—Equipment 400 Service Revenue
+Expenses
+Liabilities
+631 Supplies Expense
+200 Notes Payable
+711 Depreciation Expense
+201 Accounts Payable
+722 Insurance Expense
+209 Unearned Service Revenue
+726 Salaries and Wages Expense
+212 Salaries and Wages Payable
+729 Rent Expense
+230 Interest Payable
+732 Utilities Expense
+905 Interest Expense
+910 Bad Debt Expense
+ILLUSTRATION 3.9 Chart of Accounts for Yazici Advertising A.Ş.
+
+--- Page 221 ---
+The Recording Process Illustrated
+Illustrations 3.10 through 3.19 show the basic steps in the recording process, using the October
+transactions of Yazici Advertising A.Ş. Yazici’s accounting period is a month. A basic analysis and a
+debit-credit analysis precede the journalizing and posting of each transaction. For simplicity, we
+use the T-account form in the illustrations instead of the standard account form.
+ILLUSTRATION 3.10 Investment of Cash by Shareholders
+Study these transaction analyses carefully. The purpose of transaction analysis is first to
+identify the type of account involved, and then to determine whether to make a debit
+or a credit to the account. You should always perform this type of analysis before preparing a
+journal entry. Doing so will help you understand the journal entries discussed in this chapter as
+well as more complex journal entries in later chapters.
+
+--- Page 222 ---
+ILLUSTRATION 3.11 Purchase of Office Equipment
+
+--- Page 223 ---
+ILLUSTRATION 3.12 Receipt of Cash for Future Service
+
+--- Page 224 ---
+ILLUSTRATION 3.13 Payment of Monthly Rent
+
+--- Page 225 ---
+ILLUSTRATION 3.14 Payment for Insurance
+
+--- Page 226 ---
+ILLUSTRATION 3.15 Purchase of Supplies on Credit
+ILLUSTRATION 3.16 Signing a Contract
+
+--- Page 227 ---
+ILLUSTRATION 3.17 Declaration and Payment of Dividend
+
+--- Page 228 ---
+ILLUSTRATION 3.18 Payment of Salaries
+
+--- Page 229 ---
+ILLUSTRATION 3.19 Receipt of Cash for Services Provided
+Trial Balance
+A trial balance is a list of accounts and their balances at a given time. A company usually prepares
+a trial balance at the end of an accounting period. The trial balance lists the accounts in the order in
+which they appear in the ledger, with debit balances listed in the left column and credit balances in
+the right column. The totals of the two columns must agree.
+The trial balance proves the mathematical equality of debits and credits after posting. Under the
+double-entry system this equality occurs when the sum of the debit account balances equals the
+sum of the credit account balances. A trial balance also uncovers errors in journalizing and posting.
+In addition, it is useful in the preparation of financial statements. The procedures for preparing a
+trial balance consist of:
+1. Listing the account titles and their balances.
+2. Totaling the debit and credit columns.
+3. Proving the equality of the two columns.
+Illustration 3.20 presents the trial balance prepared from the ledger of Yazici Advertising A.Ş.
+Note that the total debits ( 287,000) equal the total credits ( 287,000). A trial balance also often
+
+--- Page 230 ---
+shows account numbers to the left of the account titles.
+Yazici Advertising A.Ş.
+Trial Balance
+October 31, 2022
+Debit
+Credit
+Cash
+80,000
+Accounts Receivable
+72,000
+Supplies
+25,000
+Prepaid Insurance
+6,000
+Equipment
+50,000
+Notes Payable
+50,000
+Accounts Payable
+25,000
+Unearned Service Revenue
+12,000
+Share Capital—Ordinary
+100,000
+Dividends
+5,000
+Service Revenue
+100,000
+Salaries and Wages Expense
+40,000
+Rent Expense
+9,000
+287,000
+287,000
+ILLUSTRATION 3.20 Trial Balance (Unadjusted)
+A trial balance does not prove that a company recorded all transactions or that the
+ledger is correct. Numerous errors may exist even though the trial balance columns agree. For
+example, the trial balance may balance even when a company (1) fails to journalize a transaction,
+(2) omits posting a correct journal entry, (3) posts a journal entry twice, (4) uses incorrect accounts
+in journalizing or posting, or (5) makes offsetting errors in recording the amount of a transaction.
+In other words, as long as a company posts equal debits and credits, even to the wrong account or
+in the wrong amount, the total debits will equal the total credits.
+What Do the Numbers Mean?
+Change Management
+For companies considering adoption of IFRS, extensive planning is required to ensure that
+accounting information system issues are addressed. Identifying the implications of required
+or elected accounting changes, such as adopting a new set of accounting standards, takes time.
+And the impact can be broad and vary in significance. The interrelationship of accounting
+changes with information technology (IT) systems, business processes, taxes, and general
+operations extends the time required to address all identified issues. In general, this process
+may require a three- or four-year lead time to prepare the various accounting and reporting
+systems for first-time adoption of IFRS.
+Source: PricewaterhouseCoopers, IFRS and US GAAP: Similarities and Differences, 2018 Edition.
+
+--- Page 231 ---
+Identify and Prepare Adjusting Entries
+LEARNING OBJECTIVE 3
+Identify and prepare adjusting entries.
+In order for revenues to be recorded in the period in which services are performed and for expenses
+to be recognized in the period in which they are incurred, companies make adjusting entries. In
+short, adjustments ensure that companies, like SAP (DEU), Cathay Pacific Airways (HKG), and
+Nokia (FIN), follow the revenue recognition and expense recognition principles.
+The use of adjusting entries makes it possible to report on the statement of financial position the
+appropriate assets, liabilities, and equity at the statement date. Adjusting entries also make it
+possible to report on the income statement the proper revenues and expenses for the period.
+However, the trial balance—the first pulling together of the transaction data—may not contain up-
+to-date and complete data. This occurs for the following reasons.
+1. Some events are not journalized daily because it is not expedient. Examples are the
+consumption of supplies and the earning of salaries and wages by employees.
+2. Some costs are not journalized during the accounting period because these costs expire with
+the passage of time rather than as a result of recurring daily transactions. Examples of such
+costs are building and equipment depreciation and rent and insurance.
+3. Some items may be unrecorded. An example is a utility service bill that will not be received
+until the next accounting period.
+Adjusting entries are required every time a company, such as Sony (JPN), prepares financial
+statements (see Underlying Concepts). At that time, Sony must analyze each account in the trial
+balance to determine whether it is complete and up-to-date for financial statement purposes. The
+analysis requires a thorough understanding of Sony’s operations and the interrelationship of
+accounts. Because of this involved process, usually a skilled accountant prepares the adjusting
+entries. In gathering the adjustment data, Sony may need to make inventory counts of supplies and
+repair parts. Further, it may prepare supporting schedules of insurance policies, rental agreements,
+and other contractual commitments. Companies often prepare adjustments after the statement of
+financial position date. However, they date the entries as of the statement of financial position
+date.
+Underlying Concepts
+Preparation of financial statements for subperiods such as quarters or months improves the
+timeliness of the information but raises verifiability concerns due to estimates in preparing
+adjusting entries.
+Types of Adjusting Entries
+Adjusting entries are classified as either deferrals or accruals. Each of these classes has two
+subcategories, as Illustration 3.21 shows.
+
+--- Page 232 ---
+Deferrals:
+1. Prepaid expenses: Expenses paid in cash before they are used or consumed.
+2. Unearned revenues: Cash received before services are performed.
+Accruals:
+1. Accrued revenues: Revenues for services performed but not yet received in cash or recorded.
+2. Accrued expenses: Expenses incurred but not yet paid in cash or recorded.
+ILLUSTRATION 3.21 Categories of Adjusting Entries
+We review specific examples and explanations of each type of adjustment in subsequent sections.
+We base each example on the October 31 trial balance of Yazici Advertising A.Ş. (Illustration 3.20).
+We assume that Yazici uses an accounting period of one month. Thus, Yazici will make monthly
+adjusting entries, dated October 31.
+Adjusting Entries for Deferrals
+To defer means to postpone or delay. Deferrals are expenses or revenues that are recognized at a
+date later than the point when cash was originally exchanged. The two types of deferrals are
+prepaid expenses and unearned revenues.
+If a company does not make an adjustment for these deferrals, the asset and liability
+are overstated, and the related expense and revenue are understated. For example, in
+Yazici Advertising’s trial balance (Illustration 3.20), the balance in the asset Supplies shows only
+supplies purchased. This balance is overstated; the related expense account, Supplies Expense, is
+understated because the cost of supplies used has not been recognized. Thus, the adjusting entry
+for deferrals will decrease a statement of financial position account and increase an income
+statement account. Illustration 3.22 shows the effects of adjusting entries for deferrals.
+
+--- Page 233 ---
+ILLUSTRATION 3.22 Adjusting Entries for Deferrals
+Prepaid Expenses
+Assets paid for and recorded before a company uses them are called prepaid expenses. When
+expenses are prepaid, a company debits an asset account to show the service or benefit it will
+receive in the future. Examples of common prepayments are insurance, supplies, advertising, and
+rent. In addition, companies make prepayments when they purchase buildings and equipment.
+Prepaid expenses are costs that expire either with the passage of time (e.g., rent and insurance) or
+through use and consumption (e.g., supplies). The expiration of these costs does not require daily
+entries, an unnecessary and impractical task. Accordingly, a company like Louis Vuitton (LVMH
+Group) (FRA) usually postpones the recognition of such cost expirations until it prepares
+financial statements. At each statement date, Louis Vuitton makes adjusting entries to record the
+expenses that apply to the current accounting period and to show the remaining amounts in the
+asset accounts.
+As shown above, prior to adjustment, assets are overstated and expenses are understated. Thus,
+an adjusting entry for prepaid expenses results in a debit to an expense account and a
+credit to an asset account.
+Supplies
+A business may use several different types of supplies. For example, a public accounting firm will
+use office supplies such as stationery, envelopes, and accounting paper. An advertising firm will
+stock advertising supplies such as whiteboard markers and printer cartridges. Supplies are
+generally debited to an asset account when they are acquired. Recognition of supplies used is
+generally deferred until the adjustment process. At that time, a physical inventory (count) of
+
+--- Page 234 ---
+supplies is taken. The difference between the balance in the Supplies (asset) account and the cost
+of supplies on hand represents the supplies used (expense) for the period.
+For example, Yazici Advertising purchased advertising supplies costing 25,000 on October 5.
+Yazici therefore debited the asset Supplies. This account shows a balance of 25,000 in the October
+31 trial balance (see Illustration 3.20). An inventory count at the close of business on October 31
+reveals that 10,000 of supplies are still on hand. Thus, the cost of supplies used is 15,000 (
+25,000 – 10,000). The analysis and adjustment for Supplies is summarized in Illustration 3.23.
+ILLUSTRATION 3.23 Adjustment for Supplies
+After adjustment, the asset account Supplies now shows a balance of 10,000, which equals the
+cost of supplies on hand at the statement date. In addition, Supplies Expense shows a balance of 
+15,000, which equals the cost of supplies used in October. Without an adjusting entry,
+October expenses are understated and net income overstated by 15,000. Moreover,
+both assets and equity are overstated by 15,000 on the October 31 statement of
+financial position.
+
+--- Page 235 ---
+Insurance
+Most companies maintain fire and theft insurance on merchandise and equipment, personal
+liability insurance for accidents suffered by customers, and automobile insurance on company cars
+and trucks. The extent of protection against loss determines the cost of the insurance (the amount
+of the premium to be paid). The insurance policy specifies the term and coverage. The minimum
+term usually covers one year, but three- to five-year terms are available and may offer lower annual
+premiums. A company typically debits insurance premiums to the asset account Prepaid Insurance
+when paid. At the financial statement date, it then debits Insurance Expense and credits Prepaid
+Insurance for the cost that expired during the period.
+For example, on October 4, Yazici Advertising paid 6,000 for a one-year fire insurance policy,
+beginning October 1. Yazici debited the cost of the premium to Prepaid Insurance at that time. This
+account still shows a balance of 6,000 in the October 31 trial balance. An analysis of the policy
+reveals that 500 ( 6,000 ÷ 12) of insurance expires each month. The analysis and adjustment for
+insurance is summarized in Illustration 3.24.
+
+--- Page 236 ---
+ILLUSTRATION 3.24 Adjustment for Insurance
+The asset Prepaid Insurance shows a balance of 5,500, which represents the unexpired cost for
+the remaining 11 months of coverage. At the same time, the balance in Insurance Expense equals
+the insurance cost that expired in October. Without an adjusting entry, October expenses
+are understated by 500 and net income overstated by 500. Moreover, both assets
+and equity also are overstated by 500 on the October 31 statement of financial
+position.
+Depreciation
+Companies, like Caterpillar (USA) or Siemens (DEU), typically own various productive facilities,
+such as buildings, equipment, and motor vehicles. These assets provide a service for a number of
+years. The term of service is commonly referred to as the useful life of the asset. Because Siemens,
+for example, expects an asset such as a building to provide service for many years, Siemens records
+the building as an asset, rather than an expense, in the year the building is acquired. Siemens
+records such assets at cost, as required by the historical cost principle.
+
+--- Page 237 ---
+To follow the expense recognition principle, Siemens should report a portion of the cost of a long-
+lived asset as an expense during each period of the asset’s useful life. Depreciation is the process
+of allocating the cost of an asset to expense over its useful life in a rational and systematic manner.
+Need for Depreciation Adjustment
+Under IFRS, the acquisition of productive facilities is viewed as a long-term prepayment for
+services. The need for making periodic adjusting entries for depreciation is therefore the same as
+we described for other prepaid expenses. That is, a company recognizes the expired cost (expense)
+during the period and reports the unexpired cost (asset) at the end of the period. The primary
+causes of depreciation of a productive facility are actual use, deterioration due to the elements, and
+obsolescence. For example, at the time Siemens acquires an asset, the effects of these factors
+cannot be known with certainty. Therefore, Siemens must estimate them. Thus, depreciation is
+an estimate rather than a factual measurement of the expired cost.
+To estimate depreciation expense, Siemens often divides the cost of the asset by its useful life. For
+example, if Siemens purchases equipment for 10,000 and expects its useful life to be 10 years,
+Siemens records annual depreciation of 1,000.
+In the case of Yazici Advertising, it estimates depreciation on its office equipment to be 4,800 a
+year (cost 50,000 less residual value 2,000 divided by useful life of 10 years), or 400 per
+month. The analysis and adjustment for depreciation is summarized in Illustration 3.25. The
+balance in the Accumulated Depreciation—Equipment account will increase 400 each month.
+Therefore, after journalizing and posting the adjusting entry for the second month of use at
+November 30, the balance will be 800.
+
+--- Page 238 ---
+ILLUSTRATION 3.25 Adjustment for Depreciation
+Statement Presentation
+Accumulated Depreciation—Equipment is a contra asset account. A contra asset account offsets
+an asset account on the statement of financial position. This means that the Accumulated
+Depreciation—Equipment account offsets the Equipment account on the statement of financial
+position. Its normal balance is a credit. Yazici Advertising uses this account instead of crediting
+Equipment in order to disclose both the original cost of the equipment and the total expired cost to
+date. In the statement of financial position, Yazici deducts Accumulated Depreciation—Equipment
+from the related asset account as shown in Illustration 3.26.
+Equipment
+50,000
+Less: Accumulated depreciation—equipment
+400
+49,600
+ILLUSTRATION 3.26 Statement of Financial Position Presentation of Accumulated
+Depreciation
+The book value (or carrying value) of any depreciable asset is the difference between its cost
+and its related accumulated depreciation. In Illustration 3.26, the book value of the equipment at
+the statement of financial position date is 49,600. Note that the asset’s book value generally
+differs from its fair value. The reason: Depreciation is an allocation concept, not a
+valuation concept. That is, depreciation allocates an asset’s cost to the periods in which it
+is used. Depreciation does not attempt to report the actual change in the value of the
+asset.
+Depreciation expense identifies that portion of the asset’s cost that expired during the period (in
+this case, October). Without this adjusting entry, total assets, total equity, and net
+income are overstated, and depreciation expense is understated.
+A company records depreciation expense for each piece of equipment, such as trucks or machinery,
+and for all buildings. A company also establishes related accumulated depreciation accounts for the
+
+--- Page 239 ---
+above, such as Accumulated Depreciation—Trucks, Accumulated Depreciation—Machinery, and
+Accumulated Depreciation—Buildings.
+Unearned Revenues
+When companies receive cash before services are performed, they record a liability by increasing
+(crediting) a liability account called unearned revenues. In other words, a company now has a
+performance obligation (liability) to provide service to one of its customers. Items like rent,
+magazine subscriptions, and customer deposits for future service may result in unearned revenues.
+Airlines, such as Ryanair (IRL), China Southern Airlines (CHN), and Southwest (USA), treat
+receipts from the sale of tickets as unearned revenue until they satisfy the performance obligation
+(provide the flight service). Tuition received prior to the start of a semester is another example of
+unearned revenue.
+Unearned revenues are the opposite of prepaid expenses. Indeed, unearned revenue on the books
+of one company is likely to be a prepayment on the books of the company that made the advance
+payment. For example, if we assume identical accounting periods, a landlord will have unearned
+rent revenue when a tenant has prepaid rent.
+When a company, such as Ryanair, receives payment for services to be performed in a future
+accounting period, it credits an unearned revenue (a liability) account to recognize the liability that
+exists. Ryanair subsequently recognizes revenue when it performs the service. However, making
+daily recurring entries to record this revenue is impractical. Therefore, Ryanair delays recognition
+of revenue until the adjustment process. Then, Ryanair makes an adjusting entry to record the
+revenue for services performed during the period and to show the liability that remains at the end
+of the accounting period. In the typical case, liabilities are overstated and revenues are understated
+prior to adjustment. Thus, the adjusting entry for unearned revenues results in a debit
+(decrease) to a liability account and a credit (increase) to a revenue account.
+For example, Yazici Advertising received 12,000 on October 2 from R. Knox for advertising
+services expected to be completed by December 31. Yazici credited the payment to Unearned
+Service Revenue. This liability account shows a balance of 12,000 in the October 31 trial balance.
+
+--- Page 240 ---
+Based on an evaluation of the service Yazici performed for Knox during October, the company
+determines that it should recognize 4,000 of revenue in October. The liability (Unearned Service
+Revenue) is therefore decreased and equity (Service Revenue) is increased, as shown in
+Illustration 3.27.
+ILLUSTRATION 3.27 Adjustment for Unearned Service Revenue
+The liability Unearned Service Revenue now shows a balance of 8,000. This amount represents
+the remaining advertising services expected to be performed in the future. At the same time,
+Service Revenue shows total revenue recognized in October of 104,000. Without this
+adjustment, revenues and net income are understated by 4,000 in the income
+statement. Moreover, liabilities are overstated and equity is understated by 4,000 on
+the October 31 statement of financial position.
+Adjusting Entries for Accruals
+The second category of adjusting entries is accruals. Companies make adjusting entries for accruals
+to record revenues for services performed and expenses incurred in the current accounting period.
+Without an accrual adjustment, the revenue account (and the related asset account) or the expense
+account (and the related liability account) are understated. Thus, the adjusting entry for accruals
+will increase both a statement of financial position and an income statement account.
+Illustration 3.28 shows adjusting entries for accruals.
+
+--- Page 241 ---
+ILLUSTRATION 3.28 Adjusting Entries for Accruals
+Accrued Revenues
+Revenues for services performed but not yet recorded at the statement date are accrued
+revenues. Accrued revenues may accumulate (accrue) with the passing of time, as in the case of
+interest revenue. These are unrecorded because the earning of interest does not involve daily
+transactions. Companies do not record interest revenue on a daily basis because it is often
+impractical to do so. Accrued revenues also may result from services that have been performed but
+not yet billed nor collected, as in the case of commissions and fees. These may be unrecorded
+because only a portion of the total service has been performed and the clients will not be billed
+until the service has been completed.
+An adjusting entry records the receivable that exists at the statement of financial position date and
+the revenue for the services performed during the period. Prior to adjustment, both assets and
+
+--- Page 242 ---
+revenues are understated. Accordingly, an adjusting entry for accrued revenues results in a debit
+(increase) to an asset account and a credit (increase) to a revenue account.
+In October, Yazici Advertising performed services worth 2,000 that were not billed to clients on or
+before October 31. Because these services are not billed, they are not recorded. The accrual of
+unrecorded service revenue increases an asset account, Accounts Receivable. It also increases
+equity by increasing a revenue account, Service Revenue, as shown in Illustration 3.29.
+ILLUSTRATION 3.29 Accrual Adjustment for Receivable and Revenue Accounts
+The asset Accounts Receivable shows that clients owe 74,000 at the statement of financial
+position date. The balance of 106,000 in Service Revenue represents the total revenue for services
+performed during the month ( 100,000 + 4,000 + 2,000). Without an adjusting entry,
+assets and equity on the statement of financial position, and revenues and net income
+on the income statement, are understated.
+Accrued Expenses
+Expenses incurred but not yet paid or recorded at the statement date are called accrued
+expenses, such as interest, rent, taxes, and salaries. Accrued expenses result from the same causes
+as accrued revenues. In fact, an accrued expense on the books of one company is an accrued
+revenue to another company. For example, the 2,000 accrual of service revenue by Yazici
+Advertising is an accrued expense to the client that received the service.
+Adjustments for accrued expenses record the obligations that exist at the statement of financial
+position date and recognize the expenses that apply to the current accounting period. Prior to
+adjustment, both liabilities and expenses are understated. Therefore, the adjusting entry for
+accrued expenses results in a debit (increase) to an expense account and a credit (increase) to a
+liability account.
+Accrued Interest
+Yazici Advertising signed a three-month note payable in the amount of 50,000 on October 1. The
+note requires interest at an annual rate of 12 percent. Three factors determine the amount of the
+interest accumulation: (1) the face value of the note; (2) the interest rate, which is always
+expressed as an annual rate; and (3) the length of time the note is outstanding. For Yazici, the total
+
+--- Page 243 ---
+interest due on the 50,000 note at its maturity date three months in the future is 1,500 ( 50,000
+× .12 × 3/12), or 500 for one month. Illustration 3.30 shows the formula for computing interest
+and its application to Yazici. Note that the formula expresses the time period as a fraction of a year.
+ILLUSTRATION 3.30 Formula for Computing Interest for One Month
+As Illustration 3.31 shows, the accrual of interest at October 31 increases a liability account,
+Interest Payable. It also decreases equity by increasing an expense account, Interest Expense.
+ILLUSTRATION 3.31 Adjustment for Interest
+Interest Expense shows the interest charges for the month of October. Interest Payable shows the
+amount of interest owed at the statement date. Yazici will not pay this amount until the note comes
+due at the end of three months. Why does Yazici use the Interest Payable account instead of
+crediting Notes Payable? By recording interest payable separately, Yazici discloses the two types of
+obligations (interest and principal) in the accounts and statements. Without this adjusting
+entry, both liabilities and interest expense are understated, and both net income and
+equity are overstated.
+Accrued Salaries and Wages
+Companies pay for some types of expenses, such as employee salaries and wages, after the services
+have been performed. For example, Yazici Advertising last paid salaries and wages on October 26. It
+will not pay salaries and wages again until November 23. However, as shown in Illustration 3.32,
+three working days remain in October (October 29–31).
+
+--- Page 244 ---
+ILLUSTRATION 3.32 Accrued Salaries and Wages
+At October 31, the salaries and wages for these days represent an accrued expense and a related
+liability to Yazici. The employees receive total salaries and wages of 10,000 for a five-day work
+week, or 2,000 per day. Thus, accrued salaries and wages at October 31 are 6,000 ( 2,000 × 3).
+The analysis and adjustment process is summarized in Illustration 3.33.
+ILLUSTRATION 3.33 Adjustment for Salaries and Wages Expense
+After this adjustment, the balance in Salaries and Wages Expense of 46,000 (23 days × 2,000) is
+the actual salaries and wages expense for October. The balance in Salaries and Wages Payable of 
+6,000 is the amount of the liability for salaries and wages owed as of October 31. Without the 
+6,000 adjustment for salaries and wages, both Yazici’s expenses and liabilities are
+understated by 6,000.
+Yazici pays salaries and wages every four weeks. Consequently, the next payday is November 23,
+when it will again pay total salaries and wages of 40,000. The payment consists of 6,000 of
+salaries and wages payable at October 31 plus 34,000 of salaries and wages expense for November
+(17 working days as shown in the November calendar × 2,000). Therefore, Yazici makes the
+following entry on November 23.
+November 23
+
+--- Page 245 ---
+Salaries and Wages Payable
+6,000
+Salaries and Wages Expense 34,000
+Cash
+40,000
+(To record November 23 payroll)
+This entry eliminates the liability for Salaries and Wages Payable that Yazici recorded in the
+October 31 adjusting entry. This entry also records the proper amount of Salaries and Wages
+Expense for the period between November 1 and November 23.
+Bad Debts
+Proper recognition of revenues and expenses dictates recording bad debts as an expense of the
+period in which a company records revenue for services performed instead of the period in which
+the company writes off the accounts or notes. The proper valuation of the receivable balance also
+requires recognition of uncollectible receivables. Proper recognition and valuation require an
+adjusting entry.
+At the end of each period, a company, such as Marks and Spencer plc (M&S) (GBR), estimates
+the amount of receivables that will later prove to be uncollectible. M&S bases the estimate on
+various factors: the amount of bad debts it experienced in past years, general economic conditions,
+how long the receivables are past due, and other factors that indicate the extent of uncollectibility.
+To illustrate, assume that, based on past experience, Yazici Advertising reasonably estimates a bad
+debt expense for the month of 1,600. The analysis and adjustment process for bad debts is
+summarized in Illustration 3.34.
+
+--- Page 246 ---
+ILLUSTRATION 3.34 Adjustment for Bad Debt
+Without this adjustment, assets will be overstated, and expenses will be understated.
+The Allowance for Doubtful Accounts is a contra asset account and is shown on the statement of
+financial position, similar to Accumulated Depreciation—Equipment.
+A company often computes bad debts by adjusting the Allowance for Doubtful Accounts to a certain
+percentage of the trade accounts receivable and trade notes receivable at the end of the period.
+Adjusted Trial Balance
+After journalizing and posting all adjusting entries, Yazici Advertising prepares another trial
+balance from its ledger accounts (shown in Illustration 3.35). This trial balance is called an
+adjusted trial balance. The purpose of an adjusted trial balance is to prove the equality of the
+total debit balances and the total credit balances in the ledger after all adjustments. Because the
+accounts contain all data needed for financial statements, the adjusted trial balance is the primary
+basis for the preparation of financial statements.
+
+--- Page 247 ---
+Yazici Advertising A.Ş.
+Adjusted Trial Balance
+October 31, 2022
+Debit
+Credit
+Cash
+80,000
+Accounts Receivable
+74,000
+Allowance for Doubtful Accounts
+1,600
+Supplies
+10,000
+Prepaid Insurance
+5,500
+Equipment
+50,000
+Accumulated Depreciation—Equipment
+400
+Notes Payable
+50,000
+Accounts Payable
+25,000
+Unearned Service Revenue
+8,000
+Salaries and Wages Payable
+6,000
+Interest Payable
+500
+Share Capital—Ordinary
+100,000
+Dividends
+5,000
+Service Revenue
+106,000
+Salaries and Wages Expense
+46,000
+Supplies Expense
+15,000
+Rent Expense
+9,000
+Insurance Expense
+500
+Interest Expense
+500
+Depreciation Expense
+400
+Bad Debt Expense
+1,600
+297,500
+297,500
+ILLUSTRATION 3.35 Adjusted Trial Balance
+Preparing Financial Statements
+LEARNING OBJECTIVE 4
+Prepare financial statements from the adjusted trial balance and prepare closing entries.
+As indicated above Yazici Advertising can prepare financial statements directly from
+the adjusted trial balance. Illustrations 3.36 and 3.37 show the interrelationships of data in the
+adjusted trial balance and the financial statements.
+As Illustration 3.36 shows, Yazici prepares the income statement from the revenue and expense
+accounts. Next, it derives the retained earnings statement from the retained earnings and dividends
+accounts and the net income (or net loss) shown in the income statement.
+
+--- Page 248 ---
+ILLUSTRATION 3.36 Preparation of the Income Statement and Retained Earnings
+Statement from the Adjusted Trial Balance
+As Illustration 3.37 shows, Yazici then prepares the statement of financial position from the
+asset and liability accounts, the Share Capital—Ordinary account, and the ending retained earnings
+balance as reported in the retained earnings statement.
+
+--- Page 249 ---
+ILLUSTRATION 3.37 Preparation of the Statement of Financial Position from the
+Adjusted Trial Balance
+Closing
+The closing process reduces the balance of nominal (temporary) accounts to zero in order to
+prepare the accounts for the next period’s transactions. In the closing process Yazici Advertising
+transfers all of the revenue and expense account balances (income statement items) to a clearing
+or suspense account called Income Summary. The Income Summary account matches revenues
+and expenses.
+Yazici uses this clearing account only at the end of each accounting period. The account represents
+the net income or net loss for the period. It then transfers this amount (the net income or net loss)
+to an equity account. (For a corporation, the equity account is retained earnings; for
+proprietorships and partnerships, it is a capital account.) Companies post all such closing entries
+to the appropriate general ledger accounts.
+Closing Entries
+In practice, companies generally prepare closing entries only at the end of a company’s annual
+accounting period. However, to illustrate the journalizing and posting of closing entries, we will
+assume that Yazici Advertising closes its books monthly. Illustration 3.38 shows the closing
+entries at October 31.
+
+--- Page 250 ---
+GENERAL JOURNAL
+J3
+Date
+Account Titles and Explanation
+Ref. Debit
+Credit
+Closing Entries
+(1)
+Oct. 31 Service Revenue
+106,000
+Income Summary
+106,000
+(To close revenue account)
+(2)
+31 Income Summary
+73,000
+Supplies Expense
+15,000
+Depreciation Expense
+400
+Insurance Expense
+500
+Salaries and Wages Expense
+46,000
+Rent Expense
+9,000
+Interest Expense
+500
+Bad Debt Expense
+1,600
+(To close expense accounts)
+(3)
+31 Income Summary
+33,000
+Retained Earnings
+33,000
+(To close net income to retained earnings)
+(4)
+31 Retained Earnings
+5,000
+Dividends
+5,000
+(To close dividends to retained earnings)
+ILLUSTRATION 3.38 Closing Entries Journalized
+A couple of cautions about preparing closing entries: (1) Avoid unintentionally doubling the
+revenue and expense balances rather than zeroing them. (2) Do not close Dividends through the
+Income Summary account. Dividends are not expenses, and they are not a factor in
+determining net income.
+Posting Closing Entries
+Illustration 3.39 shows the posting of closing entries and the underlining (ruling) of accounts.
+All temporary accounts have zero balances after posting the closing entries. In addition, note that
+the balance in Retained Earnings represents the accumulated undistributed earnings of Yazici
+Advertising at the end of the accounting period. Yazici reports this amount in the statement of
+financial position and as the ending amount in the retained earnings statement. As noted above,
+Yazici uses the Income Summary account only in closing. It does not journalize and post
+entries to this account during the year.
+
+--- Page 251 ---
+ILLUSTRATION 3.39 Posting of Closing Entries
+As part of the closing process, Yazici totals, balances, and double-underlines the temporary
+accounts—revenues, expenses, and dividends—as shown in T-account form in Illustration 3.39. It
+does not close the permanent accounts—assets, liabilities, and equity (Share Capital—Ordinary
+and Retained Earnings). Instead, Yazici draws a single underline beneath the current period entries
+for the permanent accounts. The account balance is then entered below the single underline and is
+carried forward to the next period (see, for example, Retained Earnings).
+After the closing process, each income statement account and the dividend account have zero
+balances and are ready for use in the next accounting period.
+Post-Closing Trial Balance
+Recall that a trial balance is prepared after posting the regular transactions of the period, and that a
+second trial balance (the adjusted trial balance) occurs after posting the adjusting entries. A
+company may take a third trial balance after posting the closing entries. The trial balance after
+
+--- Page 252 ---
+closing is called the post-closing trial balance. The purpose of the post-closing trial balance is
+to prove the equality of the permanent account balances that the company carries
+forward into the next accounting period. Since all temporary accounts will have zero
+balances, the post-closing trial balance will contain only permanent (real)—statement
+of financial position—accounts.
+Illustration 3.40 shows the post-closing trial balance of Yazici Advertising A.Ş.
+Yazici Advertising A.Ş.
+Post-Closing Trial Balance
+October 31, 2022
+Account
+Debit
+Credit
+Cash
+80,000
+Accounts Receivable
+74,000
+Allowance for Doubtful Accounts
+1,600
+Supplies
+10,000
+Prepaid Insurance
+5,500
+Equipment
+50,000
+Accumulated Depreciation—Equipment
+400
+Notes Payable
+50,000
+Accounts Payable
+25,000
+Unearned Service Revenue
+8,000
+Salaries and Wages Payable
+6,000
+Interest Payable
+500
+Share Capital—Ordinary
+100,000
+Retained Earnings
+28,000
+219,500
+219,500
+ILLUSTRATION 3.40 Post-Closing Trial Balance
+A post-closing trial balance provides evidence that the company has properly journalized and
+posted the closing entries. It also shows that the accounting equation is in balance at the end of the
+accounting period. However, like the other trial balances, it does not prove that Yazici has recorded
+all transactions or that the ledger is correct. For example, the post-closing trial balance will balance
+if a transaction is not journalized and posted, or if a transaction is journalized and posted twice.
+Reversing Entries—An Optional Step
+Some accountants prefer to make a reversing entry at the beginning of the next accounting
+period. A reversing entry is the exact opposite of the adjusting entry made in the previous period.
+Use of reversing entries is an optional bookkeeping procedure; it is not a required step
+in the accounting cycle. Accordingly, we have chosen to cover this topic in Appendix 3B at the
+end of the chapter.
+
+--- Page 253 ---
+What Do the Numbers Mean?
+Hey, It’s Complicated
+Recent economic volatility has left companies hungering for more timely and uniform
+financial information to help them react quickly to fast-changing conditions. As one expert
+noted, companies were extremely focused on trying to reduce costs as well as better plan for
+the future, but a lot of them discovered that they didn’t have the information they needed and
+they didn’t have the ability to get that information. The unsteady recession environment also
+made it risky for companies to interrupt their operations to get new systems up to speed.
+So what to do? Try to piecemeal upgrades each year or start a major overhaul of their internal
+systems? One company, for example, has standardized as many of its systems as possible and
+has been steadily upgrading them over the past decade. Acquisitions can also wreak havoc on
+reporting systems. This company is choosy about when to standardize for companies it
+acquires, but it sometimes has to implement new systems after international deals.
+In other situations, a major overhaul is needed. For example, it is common for companies with
+a steady stream of acquisitions to have 50 to 70 general ledger systems. In those cases, a
+company cannot react well unless its systems are made compatible. As discussed in the
+opening story, blockchain technology, which has been proposed to support audited, real-time
+financial information, could be part of the solution. So is it the big bang (major overhaul) or
+the piecemeal approach? It seems to depend. One thing is certain—good accounting systems
+are a necessity. Without one, the risk of failure is high.
+Source: Emily Chasan, “The Financial-Data Dilemma,” Wall Street Journal (July 24, 2012), p. B4; and Bryce Welker,
+“What Blockchain Means for the Future of Accounting Practices,” Forbes.com (July 12, 2018).
+The Accounting Cycle Summarized
+A summary of the steps in the accounting cycle shows a logical sequence of the accounting
+procedures used during a fiscal period:
+1. Enter the transactions of the period in appropriate journals.
+2. Post from the journals to the ledger (or ledgers).
+3. Prepare an unadjusted trial balance (trial balance).
+4. Prepare adjusting journal entries and post to the ledger(s).
+5. Prepare a trial balance after adjusting (adjusted trial balance).
+6. Prepare the financial statements from the adjusted trial balance.
+7. Prepare closing journal entries and post to the ledger(s).
+8. Prepare a trial balance after closing (post-closing trial balance).
+9. Prepare reversing entries (optional) and post to the ledger(s).
+A company normally completes all of these steps in every fiscal period.
+Financial Statements for a Merchandising Company
+
+--- Page 254 ---
+LEARNING OBJECTIVE 5
+Prepare financial statements for a merchandising company.
+Yazici Advertising A.Ş. is a service company. In this section, we show a detailed set of financial
+statements for a merchandising company, Ciner Cabinets. The financial statements are prepared
+from the adjusted trial balance (not shown).
+Income Statement
+The income statement for Ciner, shown in Illustration 3.41, is self-explanatory. The income
+statement classifies amounts into such categories as gross profit on sales, income from operations,
+income before income taxes, and net income. Although earnings per share information is required
+to be shown on the face of the income statement for a company, we omit this item here; it will be
+discussed more fully later in the textbook. (For homework purposes, do not present earnings per
+share information unless required to do so.)
+
+--- Page 255 ---
+Ciner Cabinets
+Income Statement
+For the Year Ended December 31, 2022
+Net sales
+400,000
+Cost of goods sold
+316,000
+Gross profit on sales
+84,000
+Selling expenses
+Salaries and wages expense (sales)
+20,000
+Advertising expense
+10,200
+Total selling expenses
+30,200
+Administrative expenses
+Salaries and wages expense (general)
+19,000
+Depreciation expense
+6,700
+Property tax expense
+5,300
+Rent expense
+4,300
+Bad debt expense
+1,000
+Telephone and Internet expense
+600
+Insurance expense
+360
+Total administrative expenses
+37,260
+Total selling and administrative expenses
+67,460
+Income from operations
+16,540
+Other revenues and gains
+Interest revenue
+800
+17,340
+Other expenses and losses
+Interest expense
+1,700
+Income before income taxes
+15,640
+Income tax
+3,440
+Net income
+ 12,200
+ILLUSTRATION 3.41 Income Statement for a Merchandising Company
+Retained Earnings Statement
+A company may retain the net income earned in the business, or it may distribute it to
+shareholders by payment of dividends. In Illustration 3.42, Ciner added the net income earned
+during the year to the balance of retained earnings on January 1, thereby increasing the balance of
+retained earnings. Deducting dividends of 2,000 results in the ending retained earnings balance of
+26,400 on December 31.
+
+--- Page 256 ---
+Ciner Cabinets
+Retained Earnings Statement
+For the Year Ended December 31, 2022
+Retained earnings, January 1
+16,200
+Add: Net income
+12,200
+28,400
+Less: Dividends
+2,000
+Retained earnings, December 31
+26,400
+ILLUSTRATION 3.42 Retained Earnings Statement for a Merchandising Company
+Statement of Financial Position
+The statement of financial position for Ciner, shown in Illustration 3.43, is a classified statement
+of financial position. In the property, plant, and equipment section, Ciner deducts Accumulated
+Depreciation—Equipment from the cost of the equipment. The difference represents the book or
+carrying value of the equipment.
+
+--- Page 257 ---
+Ciner Cabinets
+Statement of Financial Position
+As of December 31, 2022
+Assets
+Non-current assets
+Property, plant, and equipment
+Equipment
+67,000
+Less: Accumulated depreciation—equipment
+18,700
+Total property, plant, and equipment
+48,300
+Current assets
+Inventory
+40,000
+Prepaid insurance
+540
+Prepaid rent
+500
+Notes receivable
+16,000
+Accounts receivable
+41,000
+Interest receivable
+800
+Less: Allowance for doubtful accounts
+3,000
+54,800
+Cash
+1,200
+Total current assets
+97,040
+Total assets
+145,340
+Equity and Liabilities
+Equity
+Share capital—ordinary, 5.00 par value, issued and outstanding,
+10,000 shares
+50,000
+Retained earnings
+26,400
+Total equity
+76,400
+Non-current liabilities
+Bonds payable, due June 30, 2027
+30,000
+Current liabilities
+Notes payable
+20,000
+Accounts payable
+13,500
+Property taxes payable
+2,000
+Income taxes payable
+3,440
+Total current liabilities
+38,940
+Total liabilities
+68,940
+
+--- Page 258 ---
+Total equity and liabilities
+145,340
+ILLUSTRATION 3.43 Statement of Financial Position for a Merchandising Company
+Interest receivable, inventory, prepaid insurance, and prepaid rent are included as current assets.
+Ciner considers these assets current because they will be converted into cash or used by the
+business within a relatively short period of time. Ciner deducts the amount of Allowance for
+Doubtful Accounts from the total of accounts, notes, and interest receivable because it estimates
+that only 54,800 of 57,800 will be collected.
+Note that the equity section for Ciner differs somewhat from the capital section for a
+proprietorship. Total equity consists of share capital—ordinary, which is the original investment by
+shareholders, and the earnings retained in the business. For homework purposes, unless
+instructed otherwise, prepare an unclassified statement of financial position.
+The bonds payable, due in 2027, are non-current liabilities. As a result, the statement of financial
+position shows the account in a separate section. (The company paid interest on the bonds on
+December 31.)
+The statement of financial position shows property taxes payable as a current liability because it is
+an obligation that is payable within a year. The statement of financial position also shows other
+short-term liabilities such as accounts payable.
+Closing Entries
+Ciner makes closing entries in its general journal as follows.
+December 31, 2022
+Interest Revenue
+800
+Sales Revenue
+400,000
+Income Summary
+400,800
+(To close revenues to Income Summary)
+Income Summary
+388,600
+Cost of Goods Sold
+316,000
+Salaries and Wages Expense (sales)
+20,000
+Advertising Expense
+10,200
+Salaries and Wages Expense (general)
+19,000
+Depreciation Expense
+6,700
+Rent Expense
+4,300
+Property Tax Expense
+5,300
+Bad Debt Expense
+1,000
+Telephone and Internet Expense
+600
+Insurance Expense
+360
+Interest Expense
+1,700
+Income Tax Expense
+3,440
+(To close expenses to Income Summary)
+Income Summary
+12,200
+Retained Earnings
+12,200
+
+--- Page 259 ---
+(To close Income Summary to Retained Earnings)
+Retained Earnings
+2,000
+Dividends
+2,000
+(To close Dividends to Retained Earnings)
+APPENDIX 3A Cash-Basis Accounting versus Accrual-Basis
+Accounting
+LEARNING OBJECTIVE *6
+Differentiate the cash basis of accounting from the accrual basis of accounting.
+Most companies use accrual-basis accounting: They recognize revenue when the performance
+obligation is satisfied and expenses in the period are incurred, without regard to the time of receipt
+or payment of cash.
+Some small companies and the average individual taxpayer, however, use a strict or modified cash-
+basis approach. Under the strict cash basis, companies record revenue only when they receive
+cash, and they record expenses only when they disburse cash. Determining income on the cash
+basis rests upon collecting revenue and paying expenses. The cash basis ignores two principles: the
+revenue recognition principle and the expense recognition principle. Consequently, cash-basis
+financial statements are not in conformity with IFRS.
+An illustration will help clarify the differences between accrual-basis and cash-basis accounting.
+Assume that Eser Contractor signs an agreement to construct a garage for 22,000. In January,
+Eser begins construction, incurs costs of 18,000 on credit, and by the end of January delivers a
+finished garage to the buyer. In February, Eser collects 22,000 cash from the customer. In March,
+Eser pays the 18,000 due the creditors. Illustrations 3A.1 and 3A.2 show the net incomes for
+each month under cash-basis accounting and accrual-basis accounting, respectively.
+Eser Contractor
+Income Statement—Cash Basis
+For the Month of
+January February
+March
+Total
+Cash receipts
+–0–
+22,000
+–0–
+22,000
+Cash payments
+–0–
+–0–
+18,000
+18,000
+Net income (loss)
+–0–
+22,000
+(18,000)
+ 4,000
+ILLUSTRATION 3A.1 Income Statement—Cash Basis
+
+--- Page 260 ---
+Eser Contractor
+Income Statement—Accrual Basis
+For the Month of
+January February March
+Total
+Revenues
+22,000
+–0–
+–0–
+22,000
+Expenses
+18,000
+–0–
+–0–
+18,000
+Net income (loss)
+ 4,000
+ –0–
+ –0–
+ 4,000
+ILLUSTRATION 3A.2 Income Statement—Accrual Basis
+For the three months combined, total net income is the same under both cash-basis accounting
+and accrual-basis accounting. The difference is in the timing of revenues and expenses. The basis
+of accounting also affects the statement of financial position. Illustrations 3A.3 and 3A.4 show
+Eser’s statements of financial position at each month-end under the cash basis and the accrual
+basis.
+Eser Contractor
+Statements of Financial Position—Cash Basis
+As of
+January 31 February 28 March 31
+Assets
+Cash
+–0–
+22,000
+4,000
+Total assets
+–0–
+22,000
+4,000
+Equity and liabilities
+Equity
+–0–
+22,000
+4,000
+Total equity and liabilities
+–0–
+22,000
+4,000
+ILLUSTRATION 3A.3 Statements of Financial Position—Cash Basis
+Eser Contractor
+Statements of Financial Position—Accrual Basis
+As of
+January 31 February 28 March 31
+Assets
+Accounts receivable
+22,000
+–0–
+–0–
+Cash
+–0–
+22,000
+4,000
+Total assets
+22,000
+22,000
+4,000
+Equity and liabilities
+Equity
+4,000
+4,000
+4,000
+Accounts payable
+18,000
+18,000
+–0–
+Total equity and liabilities
+22,000
+22,000
+4,000
+ILLUSTRATION 3A.4 Statements of Financial Position—Accural Basis
+
+--- Page 261 ---
+Analysis of Eser’s income statements and statements of financial position shows the ways in which
+cash-basis accounting is inconsistent with basic accounting theory:
+1. The cash basis understates revenues and assets from the construction and delivery of the
+garage in January. It ignores the 22,000 of accounts receivable, representing a near-term
+future cash inflow.
+2. The cash basis understates expenses incurred with the construction of the garage and the
+liability outstanding at the end of January. It ignores the 18,000 of accounts payable,
+representing a near-term future cash outflow.
+3. The cash basis understates equity in January by not recognizing the revenues and the asset
+until February. It also overstates equity in February by not recognizing the expenses and the
+liability until March.
+In short, cash-basis accounting violates the accrual concept underlying financial reporting.
+The modified cash basis is a mixture of the cash basis and the accrual basis. It is based on the
+strict cash basis but with modifications that have substantial support, such as capitalizing and
+depreciating plant assets or recording inventory. This method is often followed by professional
+services firms (doctors, lawyers, accountants, consultants) and by retail, real estate, and
+agricultural operations.1
+Conversion from Cash Basis to Accrual Basis
+Not infrequently, companies want to convert a cash basis or a modified cash basis set of financial
+statements to the accrual basis for presentation to investors and creditors. To illustrate this
+conversion, assume that Dr. L. Liwan, like many small business owners, keeps her accounting
+records on a cash basis. In the year 2022, Dr. Liwan, a dentist, received 300,000 from her patients
+and paid 170,000 for operating expenses, resulting in an excess of cash receipts over
+disbursements of 130,000 ( 300,000 – 170,000). At January 1 and December 31, 2022, she has
+accounts receivable, unearned service revenue, accrued liabilities, and prepaid expenses as shown
+in Illustration 3A.5.
+January 1, 2022 December 31, 2022
+Accounts receivable
+12,000
+9,000
+Unearned service revenue
+–0–
+4,000
+Accrued liabilities
+2,000
+5,500
+Prepaid expenses
+1,800
+2,700
+ILLUSTRATION 3A.5 Financial Information Related to Dr. L. Liwan
+Service Revenue Computation
+To convert the amount of cash received from patients to service revenue on an accrual basis, we
+must consider changes in accounts receivable and unearned service revenue during the year.
+Accounts receivable at the beginning of the year represents revenues that are collected this year.
+Ending accounts receivable indicates revenues that are not yet collected. Therefore, to compute
+revenue on an accrual basis, we subtract beginning accounts receivable and add ending accounts
+receivable, as the formula in Illustration 3A.6 shows.
+
+--- Page 262 ---
+Cash Receipts
+from Customers
+{ −
+Beginning Accounts Receivable
++
+Ending Accounts Receivable
+} =
+Revenue
+on an
+Accrual Basis
+ILLUSTRATION 3A.6 Conversion of Cash Receipts to Revenue—Accounts Receivable
+Similarly, beginning unearned service revenue represents cash received last year for services to be
+performed this year. Ending unearned service revenue results from collections this year for
+services to be performed next year. Therefore, to compute revenue on an accrual basis, we add
+beginning unearned service revenue and subtract ending unearned service revenue, as the formula
+in Illustration 3A.7 shows.
+Cash Receipts
+from Customers
+⎧
+⎪ 
+⎪ 
+⎪ 
+⎪
+⎨
+⎪ 
+⎪ 
+⎪ 
+⎪
+⎩
++
+Beginning Unearned
+Service Revenue
+−
+Ending Unearned
+Service Revenue
+⎫
+⎪ 
+⎪ 
+⎪ 
+⎪
+⎬
+⎪ 
+⎪ 
+⎪ 
+⎪
+⎭
+=
+Revenue
+on an
+Accrual Basis
+ILLUSTRATION 3A.7 Conversion of Cash Receipts to Revenue—Unearned Service
+Revenue
+Therefore, for Dr. Liwan’s dental practice, to convert cash collected from customers to service
+revenue on an accrual basis, we would make the computations shown in Illustration 3A.8.
+Cash receipts from customers
+300,000
+− Beginning accounts receivable
+(12,000)
++ Ending accounts receivable
+9,000
++ Beginning unearned service revenue
+–0–
+− Ending unearned service revenue
+(4,000)
+(7,000)
+Service revenue (accrual)
+293,000
+ILLUSTRATION 3A.8 Conversion of Cash Receipts to Service Revenue
+Operating Expense Computation
+To convert cash paid for operating expenses during the year to operating expenses on an accrual
+basis, we must consider changes in prepaid expenses and accrued liabilities. First, we need to
+recognize as this year’s expenses the amount of beginning prepaid expenses. (The cash payment for
+these occurred last year.) Therefore, to arrive at operating expense on an accrual basis, we add the
+beginning prepaid expenses balance to cash paid for operating expenses.
+Conversely, ending prepaid expenses result from cash payments made this year for expenses to be
+reported next year. (Under the accrual basis, Dr. Liwan would have deferred recognizing these
+payments as expenses until a future period.) To convert these cash payments to operating expenses
+on an accrual basis, we deduct ending prepaid expenses from cash paid for expenses, as the formula
+in Illustration 3A.9 shows.
+
+--- Page 263 ---
+Cash Paid for
+Operating Expenses
+{ +
+Beginning Prepaid Expenses
+−
+Ending Prepaid Expenses
+} =
+Expenses
+on an
+Accrual Basis
+ILLUSTRATION 3A.9 Conversion of Cash Payments to Expenses—Prepaid Expenses
+Similarly, beginning accrued liabilities result from expenses that require cash payments this year.
+Ending accrued liabilities relate to expenses that have not been paid. To arrive at expense on an
+accrual basis, we deduct beginning accrued liabilities and add ending accrued liabilities to cash paid
+for expenses, as the formula in Illustration 3A.10 shows.
+Cash Paid for
+Operating Expenses
+{ −
+Beginning Accrued Liabilities
++
+Ending Accrued Liabilities
+} =
+Expenses
+on an
+Accrual Basis
+ILLUSTRATION 3A.10 Conversion of Cash Payments to Expenses—Accrued
+Liabilities
+Therefore, for Dr. Liwan’s dental practice, to convert cash paid for operating expenses to operating
+expenses on an accrual basis, we would make the computations shown in Illustration 3A.11.
+Cash paid for operating expenses
+170,000
++ Beginning prepaid expense
+1,800
+− Ending prepaid expense
+(2,700)
+− Beginning accrued liabilities
+(2,000)
++ Ending accrued liabilities
+5,500
+2,600
+Operating expenses (accrual)
+172,600
+ILLUSTRATION 3A.11 Conversion of Cash Paid to Operating Expenses
+This entire conversion can be completed in worksheet form, as shown in Illustration 3A.12.
+
+--- Page 264 ---
+ILLUSTRATION 3A.12 Conversion of Statement of Cash Receipts and Disbursements
+to Income Statement
+Using this approach, we adjust collections and disbursements on a cash basis to revenue and
+expense on an accrual basis, to arrive at accrual net income. In any conversion from the cash basis
+to the accrual basis, depreciation or amortization is an additional expense in arriving at net income
+on an accrual basis.
+Theoretical Weaknesses of the Cash Basis
+The cash basis reports exactly when cash is received and when cash is disbursed. To many people
+that information represents something concrete. Isn’t cash what it is all about? Does it make sense
+to invent something, design, produce, market and sell it, if you aren’t going to get cash for it in the
+end? Many frequently say, “Cash is the real bottom line,” and also, “Cash is the oil that lubricates
+the economy.” If so, then what is the merit of accrual accounting?
+Today’s economy is considerably more lubricated by credit than by cash. The accrual basis, not the
+cash basis, recognizes all aspects of the credit phenomenon. Investors, creditors, and other
+decision-makers seek timely information about a company’s future cash flows. Accrual-basis
+accounting provides this information by reporting the cash inflows and outflows associated with
+earnings activities as soon as these companies can estimate these cash flows with an acceptable
+degree of certainty. Receivables and payables are forecasters of future cash inflows and outflows.
+In other words, accrual-basis accounting aids in predicting future cash flows by reporting
+
+--- Page 265 ---
+transactions and other events with cash consequences at the time the transactions and events
+occur, rather than when the cash is received and paid.
+APPENDIX 3B Using Reversing Entries
+LEARNING OBJECTIVE *7
+Identify adjusting entries that may be reversed.
+Use of reversing entries simplifies the recording of transactions in the next accounting period. The
+use of reversing entries, however, does not change the amounts reported in the financial
+statements for the previous period.
+Illustration of Reversing Entries—Accruals
+A company most often uses reversing entries to reverse two types of adjusting entries: accrued
+revenues and accrued expenses. To illustrate the optional use of reversing entries for accrued
+expenses, we use the following transaction and adjustment data.
+1. October 24 (initial salaries and wages entry): Paid 4,000 of salaries and wages incurred
+between October 10 and October 24.
+2. October 31 (adjusting entry): Incurred salaries and wages between October 25 and October 31
+of 1,200, to be paid in the November 8 payroll.
+3. November 8 (subsequent salaries and wages entry): Paid salaries and wages of 2,500. Of this
+amount, 1,200 applied to accrued salaries and wages payable at October 31 and 1,300 to
+salaries and wages payable for November 1 through November 8.
+Illustration 3B.1 shows the comparative entries.
+
+--- Page 266 ---
+REVERSING ENTRIES NOT USED
+REVERSING ENTRIES USED
+Initial Salary Entry
+Oct.
+24
+Salaries and Wages Expense 4,000
+Oct.
+24
+Salaries and Wages Expense 4,000
+Cash
+4,000
+Cash
+4,000
+Adjusting Entry
+Oct.
+31
+Salaries and Wages Expense 1,200
+Oct.
+31
+Salaries and Wages Expense 1,200
+Salaries and Wages
+Payable
+1,200
+Salaries and Wages
+Payable
+1,200
+Closing Entry
+Oct.
+31
+Income Summary
+5,200
+Oct.
+31
+Income Summary
+5,200
+Salaries and Wages
+Expense
+5,200
+Salaries and Wages
+Expense
+5,200
+Reversing Entry
+Nov. 1 No entry is made.
+Nov. 1 Salaries and Wages Payable
+1,200
+Salaries and Wages
+Expense
+1,200
+Subsequent Salary Entry
+Nov. 8 Salaries and Wages Payable
+1,200
+Nov. 8 Salaries and Wages Expense 2,500
+Salaries and Wages Expense 1,300
+Cash
+2,500
+Cash
+2,500
+ILLUSTRATION 3B.1 Comparison of Entries for Accruals, with and without
+Reversing Entries
+The comparative entries show that the first three entries are the same whether or not the company
+uses reversing entries. The last two entries differ. The November 1 reversing entry eliminates the 
+1,200 balance in Salaries and Wages Payable, created by the October 31 adjusting entry. The
+reversing entry also creates a 1,200 credit balance in the Salaries and Wages Expense account. As
+you know, it is unusual for an expense account to have a credit balance. However, the balance is
+correct in this instance. Why? Because the company will debit the entire amount of the first
+salaries and wages payment in the new accounting period to Salaries and Wages Expense. This
+debit eliminates the credit balance. The resulting debit balance in the expense account will equal
+the salaries and wages expense incurred in the new accounting period ( 1,300 in this example).
+When a company makes reversing entries, it debits all cash payments of expenses to
+the related expense account. This means that on November 8 (and every payday) the company
+debits Salaries and Wages Expense for the amount paid without regard to the existence of any
+accrued salaries and wages payable. Repeating the same entry simplifies the recording process in
+an accounting system.
+Illustration of Reversing Entries—Deferrals
+Up to this point, we assumed the recording of all deferrals as prepaid expense or unearned revenue.
+In some cases, though, a company records deferrals directly in expense or revenue accounts. When
+this occurs, a company may also reverse deferrals.
+
+--- Page 267 ---
+To illustrate the use of reversing entries for prepaid expenses, we use the following transaction and
+adjustment data.
+1. December 10 (initial entry): Purchased 20,000 of supplies with cash.
+2. December 31 (adjusting entry): Determined that 5,000 of supplies are on hand.
+Illustration 3B.2 shows the comparative entries.
+REVERSING ENTRIES NOT USED
+REVERSING ENTRIES USED
+Initial Purchase of Supplies Entry
+Dec. 10
+Supplies
+20,000
+Dec. 10 Supplies Expense
+20,000
+Cash
+20,000
+Cash
+20,000
+Adjusting Entry
+Dec. 31
+Supplies Expense
+15,000
+Dec. 31 Supplies
+5,000
+Supplies
+15,000
+Supplies Expense
+5,000
+Closing Entry
+Dec. 31
+Income Summary
+15,000
+Dec. 31 Income Summary
+15,000
+Supplies Expense
+15,000
+Supplies Expense
+15,000
+Reversing Entry
+Jan. 1
+No entry
+Jan. 1
+Supplies Expense
+5,000
+Supplies
+5,000
+ILLUSTRATION 3B.2 Comparison of Entries for Deferrals, with and without
+Reversing Entries
+After the adjusting entry on December 31 (regardless of whether using reversing entries), the asset
+account Supplies shows a balance of 5,000, and Supplies Expense shows a balance of 15,000. If
+the company initially debits Supplies Expense when it purchases the supplies, it then makes a
+reversing entry to return to the expense account the cost of unconsumed supplies. The company
+then continues to debit Supplies Expense for additional purchases of office supplies during the
+next period.
+Deferrals are generally entered in real accounts (assets and liabilities), thus making reversing
+entries unnecessary. This approach is used because it is advantageous for items that a company
+needs to apportion over several periods (e.g., supplies and parts inventories). However, for other
+items that do not follow this regular pattern and that may or may not involve two or more periods,
+a company ordinarily enters them initially in revenue or expense accounts. The revenue and
+expense accounts may not require adjusting, and the company thus systematically closes them to
+Income Summary.
+Using the nominal accounts adds consistency to the accounting system. It also makes the recording
+more efficient, particularly when a large number of such transactions occur during the year. For
+example, the bookkeeper knows to expense invoice items (except for capital asset acquisitions). He
+or she need not worry whether an item will result in a prepaid expense at the end of the period,
+because the company will make adjustments at the end of the period.
+Summary of Reversing Entries
+We summarize guidelines for reversing entries as follows.
+
+--- Page 268 ---
+1. All accruals should be reversed.
+2. All deferrals for which a company debited or credited the original cash transaction to an
+expense or revenue account should be reversed.
+3. Adjusting entries for depreciation and bad debts are not reversed.
+Recognize that reversing entries do not have to be used. Therefore, some accountants avoid them
+entirely.
+APPENDIX 3C Using a Worksheet: The Accounting Cycle
+Revisited
+LEARNING OBJECTIVE *8
+Prepare a 10-column worksheet.
+In this appendix, we provide an additional illustration of the end-of-period steps in the accounting
+cycle and illustrate the use of a worksheet (usually an electronic spreadsheet) in this process.
+Using a worksheet often facilitates the end-of-period (monthly, quarterly, or annually)
+accounting and reporting process. Use of a worksheet helps a company prepare the financial
+statements on a more timely basis. How? With a worksheet, a company need not wait until it
+journalizes and posts the adjusting and closing entries.
+A company can prepare a worksheet either on columnar paper or within a computer spreadsheet.
+In either form, a company uses the worksheet to adjust account balances and to prepare financial
+statements.
+The worksheet does not replace the financial statements. Instead, it is an informal device
+for accumulating and sorting information needed for the financial statements. Completing the
+worksheet provides considerable assurance that a company properly handled all of the details
+related to the end-of-period accounting and statement preparation. The 10-column worksheet in
+Illustration 3C.1 provides columns for the first trial balance, adjustments, adjusted trial balance,
+income statement, and statement of financial position.
+
+--- Page 269 ---
+ILLUSTRATION 3C.1 Use of a Worksheet
+Worksheet Columns
+Trial Balance Columns
+Ciner Cabinets, shown in Illustration 3C.1, obtains data for the trial balance from its ledger
+balances at December 31. The amount for Inventory, 40,000, is the year-end inventory amount,
+which results from the application of a perpetual inventory system.
+Adjustments Columns
+After Ciner enters all adjustment data on the worksheet, it establishes the equality of the
+adjustment columns. It then extends the balances in all accounts to the adjusted trial balance
+columns.
+
+--- Page 270 ---
+Adjustments Entered on the Worksheet
+Items (a) through (g) below serve as the basis for the adjusting entries made in the worksheet for
+Ciner shown in Illustration 3C.1.
+a. Depreciation of equipment at the rate of 10% per year based on original cost of 67,000.
+b. Estimated bad debt expense of $1,000 to bring the Allowance for Doubtful Accounts to a
+balance of $3,000.
+c. Insurance expired during the year 360.
+d. Interest accrued on notes receivable as of December 31, 800.
+e. The Rent Expense account contains 500 rent paid in advance, which is applicable to next
+year.
+f. Property taxes accrued December 31, 2,000.
+g. Income taxes payable estimated 3,440.
+The adjusting entries shown on the December 31, 2022, worksheet are as follows.
+(a)
+Depreciation Expense
+6,700
+Accumulated Depreciation—Equipment
+6,700
+(b)
+Bad Debt Expense
+1,000
+Allowance for Doubtful Accounts
+1,000
+(c)
+Insurance Expense
+360
+Prepaid Insurance
+360
+(d)
+Interest Receivable
+800
+Interest Revenue
+800
+(e)
+Prepaid Rent
+500
+Rent Expense
+500
+(f)
+Property Tax Expense
+2,000
+Property Taxes Payable
+2,000
+(g)
+Income Tax Expense
+3,440
+Income Taxes Payable
+3,440
+Ciner Cabinets transfers the adjusting entries to the Adjustments columns of the worksheet, often
+designating each by letter. The trial balance lists any new accounts resulting from the adjusting
+entries, as illustrated on the worksheet. (For example, see the accounts listed in rows 32 through
+40 in Illustration 3C.1.) Ciner then totals and balances the Adjustments columns.
+Adjusted Trial Balance
+
+--- Page 271 ---
+The adjusted trial balance shows the balance of all accounts after adjustment at the end of the
+accounting period. For example, Ciner adds the 2,000 shown opposite Allowance for Doubtful
+Accounts in the Trial Balance Cr. column to the 1,000 in the Adjustments Cr. column. The
+company then extends the 3,000 total to the Adjusted Trial Balance Cr. column. Similarly, Ciner
+reduces the 900 debit opposite Prepaid Insurance by the 360 credit in the Adjustments column.
+The result, 540, is shown in the Adjusted Trial Balance Dr. column.
+Income Statement and Statement of Financial Position Columns
+Ciner extends all the debit items in the Adjusted Trial Balance columns into the Income Statement
+or Statement of Financial Position columns to the right. It similarly extends all the credit items.
+The next step is to total the Income Statement columns. Ciner needs the amount of net income or
+loss for the period to balance the debit and credit columns. The net income of 12,200 is shown in
+the Income Statement Dr. column because revenues exceeded expenses by that amount.
+Ciner then balances the Income Statement columns. The company also enters the net income of 
+12,200 in the Statement of Financial Position Cr. column as an increase in retained earnings.
+Preparing Financial Statements from a Worksheet
+The worksheet provides the information needed for preparation of the financial statements
+without reference to the ledger or other records. In addition, the worksheet sorts that data into
+appropriate columns, which facilitates the preparation of the statements. The financial statements
+of Ciner Cabinet are shown in Chapter 3 (Illustrations 3.41, 3.42, and 3.43).
+Review and Practice
+Key Terms Review
+account
+accounting cycle
+accounting information system
+*accrual-basis accounting
+accrued expenses
+accrued revenues
+adjusted trial balance
+adjusting entries
+book value (carrying value)
+chart of accounts
+closing entries
+closing process
+contra asset account
+credit
+debit
+depreciation
+
+--- Page 272 ---
+double-entry accounting
+event
+financial statements
+general journal
+general ledger
+income statement
+journal
+journalizing
+ledger
+*modified cash basis
+nominal accounts
+post-closing trial balance
+posting
+prepaid expenses
+real and nominal accounts
+reversing entries
+special journals
+statement of cash flows
+statement of financial position
+statement of retained earnings
+*strict cash basis
+subsidiary ledger
+T-account
+transaction
+trial balance
+unearned revenues
+*worksheet
+Learning Objectives Review
+1 Describe the basic accounting information system.
+Understanding the following eleven terms helps in understanding key accounting concepts: (1)
+event, (2) transaction, (3) account, (4) real and nominal accounts, (5) ledger, (6) journal, (7)
+posting, (8) trial balance, (9) adjusting entries, (10) financial statements, and (11) closing entries.
+Using double-entry rules, the left side of any account is the debit side; the right side is the credit
+side. All asset and expense accounts are increased on the left or debit side and decreased on the
+right or credit side. Conversely, all liability and revenue accounts are increased on the right or
+credit side and decreased on the left or debit side. Equity accounts, Share Capital—Ordinary and
+Retained Earnings, are increased on the credit side. Dividends is increased on the debit side.
+
+--- Page 273 ---
+The basic steps in the accounting cycle are (1) identifying and measuring transactions and
+other events; (2) journalizing; (3) posting; (4) preparing an unadjusted trial balance; (5) making
+adjusting entries; (6) preparing an adjusted trial balance; (7) preparing financial statements; and
+(8) closing.
+2 Record and summarize basic transactions.
+The simplest journal form chronologically lists transactions and events expressed in terms of
+debits and credits to particular accounts. The items entered in a general journal must be
+transferred (posted) to the general ledger. Companies should prepare an unadjusted trial balance at
+the end of a given period after they have recorded the entries in the journal and posted them to the
+ledger.
+3 Identify and prepare adjusting entries.
+Adjustments achieve a proper recognition of revenues and expenses, so as to determine net income
+for the current period and to achieve an accurate statement of end-of-the-period balances in assets,
+liabilities, and equity accounts. The major types of adjusting entries are deferrals (prepaid expenses
+and unearned revenues) and accruals (accrued revenues and accrued expenses).
+4 Prepare financial statements from the adjusted trial balance and prepare closing
+entries.
+Companies can prepare financial statements directly from the adjusted trial balance. The income
+statement is prepared from the revenue and expense accounts. The retained earnings statement is
+prepared from the retained earnings account, dividends, and net income (or net loss). The
+statement of financial position is prepared from the asset, liability, and equity accounts.
+In the closing process, the company transfers all of the revenue and expense account balances
+(income statement items) to a clearing account called Income Summary, which is used only at the
+end of the fiscal year. Revenues and expenses are matched in the Income Summary account. The
+net result of this matching represents the net income or net loss for the period. That amount is
+then transferred to an equity account (Retained Earnings for a company and capital accounts for
+proprietorships and partnerships).
+5 Prepare financial statements for a merchandising company.
+The financial statements for a merchandiser differ from those for a service company, as a
+merchandiser must account for gross profit on sales. The accounting cycle, however, is performed
+the same way.
+*6 Differentiate the cash basis of accounting from the accrual basis of accounting.
+The cash basis of accounting records revenues when cash is received and expenses when cash is
+paid. Cash-basis accounting is not in conformity with IFRS. The accrual basis recognizes revenue
+when the performance obligation is satisfied and expenses in the period incurred, without regard to
+the time of the receipt or payment of cash. Accrual-basis accounting is theoretically preferable
+because it provides information about future cash inflows and outflows associated with earnings
+activities as soon as companies can estimate these cash flows with an acceptable degree of
+certainty.
+
+--- Page 274 ---
+*7 Identify adjusting entries that may be reversed.
+Reversing entries are most often used to reverse two types of adjusting entries: accrued revenues
+and accrued expenses. Deferrals may also be reversed if the initial entry to record the transaction is
+made to an expense or revenue account.
+*8 Prepare a 10-column worksheet.
+The 10-column worksheet provides columns for the first trial balance, adjustments, adjusted trial
+balance, income statement, and statement of financial position. The worksheet does not replace the
+financial statements. Instead, it is an informal device for accumulating and sorting information
+needed for the financial statements.
+Enhanced Review and Practice
+Go online for multiple-choice questions with solutions, review exercises with solutions, and a
+full glossary of all key terms.
+Practice Problem
+Nalezny Advertising was founded by Casey Hayward in January 2012. Presented below are both
+the adjusted and unadjusted trial balances as of December 31, 2022.
+Nalezny Advertising
+Trial Balance
+December 31, 2022
+Unadjusted
+Adjusted
+Dr.
+Cr.
+Dr.
+Cr.
+Cash
+€ 11,000
+€ 11,000
+Accounts Receivable
+20,000
+21,500
+Supplies
+8,400
+5,000
+Equipment
+60,000
+60,000
+Accumulated Depreciation—Equipment
+€ 28,000
+€ 35,000
+Accounts Payable
+5,000
+5,000
+Unearned Advertising Revenue
+7,000
+5,600
+Salaries and Wages Payable
+–0–
+1,300
+Share Capital—Ordinary
+10,000
+10,000
+Retained Earnings
+4,800
+4,800
+Advertising Revenue
+58,600
+61,500
+Salaries and Wages Expense
+10,000
+11,300
+Depreciation Expense
+7,000
+Supplies Expense
+3,400
+Rent Expense
+4,000
+4,000
+€113,400 €113,400 €123,200 €123,200
+
+--- Page 275 ---
+Instructions
+a. Journalize the annual adjusting entries that were made.
+b. Prepare an income statement for the year ending December 31, 2022, and a statement of
+financial position at December 31.
+c. Describe the remaining steps in the accounting cycle to be completed by Nalezny for 2022.
+Solution
+a. 
+Dec. 31 Accounts Receivable
+1,500
+Advertising Revenue
+1,500
+31 Unearned Advertising Revenue
+1,400
+Advertising Revenue
+1,400
+31 Supplies Expense
+3,400
+Supplies
+3,400
+31 Depreciation Expense
+7,000
+Accumulated Depreciation—Equipment
+7,000
+31 Salaries and Wages Expense
+1,300
+Salaries and Wages Payable
+1,300
+b. 
+Nalezny Advertising
+Income Statement
+For the Year Ended December 31, 2022
+Revenues
+Advertising revenue
+€61,500
+Expenses
+Salaries and wages expense
+€11,300
+Depreciation expense
+7,000
+Rent expense
+4,000
+Supplies expense
+3,400
+Total expenses
+25,700
+Net income
+€35,800
+Nalezny Advertising
+Statement of Financial Position
+December 31, 2022
+Assets
+Equipment
+€60,000
+Less: Accumulated depreciation—equipment
+35,000 €25,000
+Supplies
+5,000
+Accounts receivable
+21,500
+Cash
+11,000
+Total assets
+€62,500
+
+--- Page 276 ---
+Equity and Liabilities
+Equity
+Share capital—ordinary
+€10,000
+Retained earnings
+40,600*
+Total equity
+€50,600
+Liabilities
+Accounts payable
+5,000
+Unearned advertising revenue
+5,600
+Salaries and wage payable
+1,300
+Total liabilities
+11,900
+Total equity and liabilities
+€62,500
+*Retained earnings, Jan. 1, 2022 € 4,800
+Add: Net income
+35,800
+Retained earnings, Dec. 31, 2022 €40,600
+c. Following preparation of financial statements (part (b)), Nalezny would prepare closing entries
+to reduce the temporary accounts to zero. Some companies prepare a post-closing trial balance
+and reversing entries.
+Exercises, Problems, Problem Solution Walkthrough Videos, Data Analytics Activities, and
+many more assessment tools and resources are available for practice in Wiley’s online
+courseware.
+Note: All asterisked Questions, Exercises, and Problems relate to material in the appendices to the
+chapter.
+Questions
+1. Give an example of a transaction that results in:
+a. a decrease in an asset and a decrease in a liability.
+b. a decrease in one asset and an increase in another asset.
+c. a decrease in one liability and an increase in another liability.
+2. Do the following events represent business transactions? Explain your answer in each case.
+a. A computer is purchased on account.
+b. A customer returns merchandise and is given credit on account.
+c. A prospective employee is interviewed.
+d. The owner of the business withdraws cash from the business for personal use.
+e. Merchandise is ordered for delivery next month.
+3. Name the accounts debited and credited for each of the following transactions.
+a. Billing a customer for work done.
+b. Receipt of cash from customer on account.
+
+--- Page 277 ---
+c. Purchase of office supplies on account.
+d. Purchase of 15 gallons of gasoline for the delivery truck.
+4. Why are revenue and expense accounts called temporary or nominal accounts?
+5. Andrea Pafko, a fellow student, contends that the double-entry system means that each
+transaction must be recorded twice. Is Andrea correct? Explain.
+6. Is it necessary that a trial balance be prepared periodically? What purpose does it serve?
+7. Indicate whether each of the items below is a real or nominal account and whether it appears in
+the statement of financial position or the income statement.
+a. Prepaid Rent.
+b. Salaries and Wages Payable.
+c. Inventory.
+d. Accumulated Depreciation—Equipment.
+e. Equipment.
+f. Service Revenue.
+g. Salaries and Wages Expense.
+h. Supplies.
+8. Employees are paid every Saturday for the preceding work week. If a statement of financial
+position is prepared on Wednesday, December 31, what does the amount of salaries and wages
+earned by employees the first three days of the week (12/29, 12/30, 12/31) represent? Explain.
+9. (a) How do the components of revenues and expenses differ between a merchandising company
+and a service enterprise? (b) Explain the income measurement process of a merchandising
+company.
+10. What differences are there between the trial balance before closing and the trial balance after
+closing with respect to the following accounts?
+a. Accounts Payable.
+b. Expense accounts.
+c. Revenue accounts.
+d. Retained Earnings account.
+e. Cash.
+11. What are adjusting entries, and why are they necessary?
+12. What are closing entries, and why are they necessary?
+13. Carlo Avardo, maintenance supervisor for Lisbon Insurance Co., has purchased a riding
+lawnmower and accessories to be used in maintaining the grounds around company headquarters.
+He has sent the following information to the accounting department.
+Cost of mower and accessories €4,000 Date purchased
+7/1/22
+Estimated useful life
+5 yrs
+Monthly salary of groundskeeper €1,100
+Residual value
+€0
+Estimated annual fuel cost
+€150
+
+--- Page 278 ---
+Compute the amount of depreciation expense (related to the mower and accessories) that should
+be reported on Lisbon’s December 31, 2022, income statement. Assume straight-line depreciation.
+14. Chen Enterprises made the following entry on December 31, 2022.
+Interest Expense
+10,000
+Interest Payable
+10,000
+(To record interest expense due on loan from Hibernia Bank)
+What entry would Hibernia Bank make regarding its outstanding loan to Chen Enterprises?
+Explain why this must be the case.
+*15. Distinguish between cash-basis accounting and accrual-basis accounting. Why is accrual-basis
+accounting acceptable for most business enterprises and the cash-basis unacceptable in the
+preparation of an income statement and a statement of financial position?
+*16. When salaries and wages expense for the year on an accrual basis is computed, why are
+beginning accrued salaries and wages subtracted from, and ending accrued salaries and wages
+added to, salaries and wages paid during the year?
+*17. Explain the distinction between accounting using strict cash-basis accounting and a modified
+cash basis.
+*18. What are reversing entries, and why are they used?
+*19. “A worksheet is a permanent accounting record, and its use is required in the accounting
+cycle.” Do you agree? Explain.
+Brief Exercises
+BE3.1 (LO 2) Transactions for Mehta SE for the month of May are presented below. Prepare
+journal entries for each of these transactions. (You may omit explanations.)
+May
+1 B.D. Mehta invests €4,000 cash in exchange for ordinary shares to start his welding
+business.
+3 Buys equipment on account for €1,100.
+13 Pays €400 to landlord for May rent.
+21 Bills Noble Corp. €500 for welding work done.
+BE3.2 (LO 2) Agazzi Repair Shop had the following transactions during the first month of
+business as a proprietorship. Journalize the transactions. (Omit explanations.)
+Aug. 2 Invested €12,000 cash and €2,500 of equipment in the business.
+7 Purchased supplies on account for €500. (Debit asset account.)
+12 Performed services for clients, for which €1,300 was collected in cash and €670 was billed
+to the clients.
+15 Paid August rent €600.
+19 Counted supplies and determined that only €270 of the supplies purchased on August 7
+are still on hand.
+BE3.3 (LO 2, 3) On July 1, 2022, Crowe NV pays €15,000 to Zubin Insurance for a 3-year
+insurance policy. Both companies have fiscal years ending December 31. For Crowe NV journalize
+the entry on July 1 and the adjusting entry on December 31.
+BE3.4 (LO 2, 3) Using the data in BE3.3, journalize the entry on July 1 and the adjusting entry on
+December 31 for Zubin Insurance. Zubin uses the accounts Unearned Insurance Revenue and
+
+--- Page 279 ---
+Insurance Revenue.
+BE3.5 (LO 2, 3) Assume that on February 1, Marks and Spencer plc (M&S) (GBR) paid
+£72,000 in advance for 2 years’ insurance coverage. Prepare M&S’s February 1 journal entry and
+the annual adjusting entry on June 30.
+BE3.6 (LO 2, 3) LaBouche AG owns a warehouse. On November 1, it rented storage space to a
+lessee (tenant) for 3 months for a total cash payment of €2,400 received in advance. Prepare
+LaBouche’s November 1 journal entry and the December 31 annual adjusting entry.
+BE3.7 (LO 2, 3) Dresser SE’s weekly payroll, paid on Fridays, totals €8,000. Employees work a 5-
+day week. Prepare Dresser’s adjusting entry on Wednesday, December 31, and the journal entry to
+record the €8,000 cash payment on Friday, January 2.
+BE3.8 (LO 2, 3) Included in Gonzalez NV’s December 31 trial balance is a note receivable of
+€12,000. The note is a 4-month, 10% note dated October 1. Prepare Gonzalez’s December 31
+adjusting entry to record €300 of accrued interest, and the February 1 journal entry to record
+receipt of €12,400 from the borrower.
+BE3.9 (LO 2, 3) Prepare the following adjusting entries at August 31 for Nokia (FIN).
+a. Interest on notes payable of €300 is accrued.
+b. Unbilled fees for services performed total €1,400.
+c. Salaries and wages earned by employees of €700 have not been recorded.
+d. Bad debt expense for the year is €900.
+Use the following account titles: Service Revenue, Accounts Receivable, Interest Expense, Interest
+Payable, Salaries and Wages Expense, Salaries and Wages Payable, Allowance for Doubtful
+Accounts, and Bad Debt Expense.
+BE3.10 (LO 3, 4) At the end of its first year of operations, the trial balance of Alonzo NV shows
+Equipment €30,000 and zero balances in Accumulated Depreciation—Equipment and Depreciation
+Expense. Depreciation for the year is estimated to be €2,000. Prepare the adjusting entry for
+depreciation at December 31, and indicate the statement of financial position presentation for the
+equipment at December 31.
+BE3.11 (LO 4) Side Kicks has year-end account balances of Sales Revenue €808,900, Interest
+Revenue €13,500, Cost of Goods Sold €556,200, Operating Expenses €189,000, Income Tax
+Expense €35,100, and Dividends €18,900. Prepare the year-end closing entries.
+*BE3.12 (LO 6) Kelly SpA had cash receipts from customers in 2022 of €142,000. Cash payments
+for operating expenses were €97,000. Kelly has determined that at January 1, accounts receivable
+was €13,000, and prepaid expenses were €17,500. At December 31, accounts receivable was
+€18,600, and prepaid expenses were €23,200. Compute (a) service revenue and (b) operating
+expenses.
+*BE3.13 (LO 7) Assume that GlaxoSmithKline (GBR) made a December 31 adjusting entry to
+debit Salaries and Wages Expense and credit Salaries and Wages Payable for £4,200 for one of its
+departments. On January 2, Glaxo paid the weekly payroll of £7,000. Prepare Glaxo’s (a) January 1
+reversing entry; (b) January 2 entry (assuming the reversing entry was prepared); and (c) January
+2 entry (assuming the reversing entry was not prepared).
+Exercises
+E3.1 (LO 2) (Transaction Analysis—Service Company) Kai Edo is a licensed public
+accountant. During the first month of operations of her business (a sole proprietorship), the
+
+--- Page 280 ---
+following events and transactions occurred (amounts in thousands).
+April
+2 Invested ¥30,000 cash and equipment valued at ¥14,000 in the business.
+2 Hired administrative assistant at a salary of ¥290 per week payable monthly.
+3 Purchased supplies on account ¥700. (Debit an asset account.)
+7 Paid office rent of ¥600 for the month.
+11 Completed a tax assignment and billed client ¥1,100 for services rendered. (Use Service
+Revenue account.)
+12 Received ¥3,200 advance on a management consulting engagement.
+17 Received cash of ¥2,300 for services completed for Ferengi Co.
+21 Paid insurance expense ¥110.
+30 Paid administrative assistant ¥1,160 for the month.
+30 A count of supplies indicated that ¥120 of supplies had been used.
+30 Purchased a new computer for ¥5,100 with personal funds. (The computer will be used
+exclusively for business purposes.)
+Instructions
+Journalize the transactions in the general journal. (Omit explanations.)
+E3.2 (LO 2) (Corrected Trial Balance) The following trial balance of Geronimo AG does not
+balance. Your review of the ledger reveals the following. (a) Each account had a normal balance. (b)
+The debit footings in Prepaid Insurance, Accounts Payable, and Property Tax Expense were each
+understated €1,000. (c) A transposition error was made in Accounts Receivable and Service
+Revenue; the correct balances for Accounts Receivable and Service Revenue are €2,750 and €6,690,
+respectively. (d) A debit posting to Advertising Expense of €300 was omitted. (e) A €3,200 cash
+drawing by the owner was debited to Geronimo, Capital, and credited to Cash.
+Geronimo Company
+Trial Balance
+April 30, 2022
+Debit
+Credit
+Cash
+€ 2,100
+Accounts Receivable
+2,570
+Prepaid Insurance
+700
+Equipment
+€ 8,000
+Accounts Payable
+4,500
+Property Taxes Payable
+560
+Geronimo, Capital
+11,200
+Service Revenue
+6,960
+Salaries and Wages Expense
+4,200
+Advertising Expense
+1,100
+Property Tax Expense
+800
+€18,190 €24,500
+Instructions
+Prepare a correct trial balance.
+
+--- Page 281 ---
+E3.3 (LO 2) (Corrected Trial Balance) The following trial balance of Scarlatti Corporation does
+not balance.
+Scarlatti Corporation
+Trial Balance
+April 30, 2022
+Debit
+Credit
+Cash
+$ 5,912
+Accounts Receivable
+5,240
+Supplies
+2,967
+Equipment
+6,100
+Accounts Payable
+$ 7,044
+Share Capital—Ordinary
+8,000
+Retained Earnings
+2,000
+Service Revenue
+5,200
+Office Expense
+4,320
+$24,539 $22,244
+An examination of the ledger shows these errors.
+1. Cash received from a customer on account was recorded (both debit and credit) as $1,580
+instead of $1,850.
+2. The purchase on account of a computer costing $1,900 was recorded as a debit to Office
+Expense and a credit to Accounts Payable.
+3. Services were performed on account for a client, $2,250, for which Accounts Receivable was
+debited $2,250 and Service Revenue was credited $225.
+4. A payment of $95 for telephone charges was entered as a debit to Office Expense and a debit to
+Cash.
+5. The Service Revenue account was totaled at $5,200 instead of $5,280.
+Instructions
+From this information prepare a corrected trial balance.
+E3.4 (LO 2) (Corrected Trial Balance) The following trial balance of Oakley NV does not
+balance.
+Oakley NV
+Trial Balance
+June 30, 2022
+Debit
+Credit
+Cash
+€ 2,870
+Accounts Receivable
+€ 3,231
+Supplies
+800
+Equipment
+3,800
+Accounts Payable
+2,666
+Unearned Service Revenue
+1,200
+
+--- Page 282 ---
+Share Capital—Ordinary
+6,000
+Retained Earnings
+3,000
+Service Revenue
+2,380
+Salaries and Wages Expense
+3,400
+Office Expense
+940
+€13,371 €16,916
+Each of the listed accounts should have a normal balance per the general ledger. An examination of
+the ledger and journal reveals the following errors.
+1. Cash received from a customer on account was debited for €370, and Accounts Receivable was
+credited for the same amount. The actual collection was for €730.
+2. The purchase of a computer printer on account for €500 was recorded as a debit to Supplies
+for €500 and a credit to Accounts Payable for €500.
+3. Services were performed on account for a client for €890. Accounts Receivable was debited for
+€890 and Service Revenue was credited for €89.
+4. A payment of €65 for telephone charges was recorded as a debit to Office Expense for €65 and
+a debit to Cash for €65.
+5. When the Unearned Service Revenue account was reviewed, it was found that service revenue
+amounting to €225 was performed prior to June 30.
+6. A debit posting to Salaries and Wages Expense of €670 was omitted.
+7. A payment on account for €206 was credited to Cash for €206 and credited to Accounts
+Payable for €260.
+8. A dividend of €575 was debited to Salaries and Wages Expense for €575 and credited to Cash
+for €575.
+Instructions
+Prepare a correct trial balance. (Note: It may be necessary to add one or more accounts to the trial
+balance.)
+E3.5 (LO 3) (Adjusting Entries) The ledger of Chopin Rental Agency on March 31 of the current
+year includes the following selected accounts before adjusting entries have been prepared.
+Debit
+Credit
+Prepaid Insurance
+€ 3,600
+Supplies
+2,800
+Equipment
+25,000
+Accumulated Depreciation—Equipment
+€ 8,400
+Notes Payable
+20,000
+Unearned Rent Revenue
+6,300
+Rent Revenue
+60,000
+Interest Expense
+–0–
+Salaries and Wages Expense
+14,000
+An analysis of the accounts shows the following.
+
+--- Page 283 ---
+1. The equipment depreciates €250 per month.
+2. One-third of the unearned rent was earned during the quarter.
+3. Interest of €500 is accrued on the notes payable.
+4. Supplies on hand total €650.
+5. Insurance expires at the rate of €300 per month.
+Instructions
+Prepare the adjusting entries at March 31, assuming that adjusting entries are made quarterly.
+Additional accounts are Depreciation Expense, Insurance Expense, Interest Payable, and Supplies
+Expense. (Omit explanations.)
+E3.6 (LO 3) (Adjusting Entries) Stephen King, D.D.S., opened a dental practice on January 1,
+2022. During the first month of operations, the following transactions occurred.
+1. Performed services for patients who had dental plan insurance. At January 31, $750 of such
+services were performed but not yet billed to the insurance companies.
+2. Utility expenses incurred but not paid prior to January 31 totaled $520.
+3. Purchased dental equipment on January 1 for $80,000, paying $20,000 in cash and signing a
+$60,000, 3-year note payable. The equipment depreciates $400 per month. Interest is $500
+per month.
+4. Purchased a 1-year malpractice insurance policy on January 1 for $15,000.
+5. Purchased $1,600 of dental supplies. On January 31, determined that $400 of supplies were on
+hand.
+Instructions
+Prepare the adjusting entries on January 31. (Omit explanations.) Account titles are Accumulated
+Depreciation—Equipment, Depreciation Expense, Service Revenue, Accounts Receivable, Insurance
+Expense, Interest Expense, Interest Payable, Prepaid Insurance, Supplies, Supplies Expense,
+Utilities Expense, and Accounts Payable.
+E3.7 (LO 3) (Analyze Adjusted Data) A partial adjusted trial balance of Safin plc at January 31,
+2022, shows the following.
+Safin plc
+Adjusted Trial Balance
+January 31, 2022
+Debit Credit
+Supplies
+£ 900
+Prepaid Insurance
+2,400
+Salaries and Wages Payable
+£ 800
+Unearned Service Revenue
+750
+Supplies Expense
+950
+Insurance Expense
+400
+Salaries and Wages Expense 1,800
+Service Revenue
+2,000
+Instructions
+
+--- Page 284 ---
+Answer the following questions, assuming the year begins January 1.
+a. If the amount in Supplies Expense is the January 31 adjusting entry and £850 of supplies were
+purchased in January, what was the balance in Supplies on January 1?
+b. If the amount in Insurance Expense is the January 31 adjusting entry and the original
+insurance premium was for 1 year, what was the total premium and when was the policy
+purchased?
+c. If £2,700 of salaries and wages were paid in January, what was the balance in Salaries and
+Wages Payable at December 31, 2021?
+d. If £1,600 was received in January for services performed in January, what was the balance in
+Unearned Service Revenue at December 31, 2021?
+E3.8 (LO 3) (Adjusting Entries) William Bryant is the new owner of Ace Computer Services. At
+the end of August 2022, his first month of ownership, Bryant is trying to prepare monthly financial
+statements. Below is information related to unrecorded expenses that the business incurred during
+August.
+1. At August 31, Bryant owed his employees $2,900 in salaries and wages that will be paid on
+September 1.
+2. At the end of the month, he had not yet received the month’s utility bill. Based on past
+experience, he estimated the bill would be approximately $600.
+3. On August 1, Bryant borrowed $60,000 from a local bank on a 15-year mortgage. The annual
+interest rate is 8%.
+4. A telephone bill in the amount of $117 covering August charges is unpaid at August 31 (use
+Telephone and Internet Expense account).
+Instructions
+Prepare the adjusting journal entries as of August 31, 2022, suggested by the information provided.
+E3.9 (LO 2, 3) (Adjusting Entries) Selected accounts of Leno Company are shown below.
+Supplies
+Accounts Receivable
+Beg. Bal. 800 10/31
+470 10/17
+2,100
+10/31
+1,650
+Salaries and Wages Expense Salaries and Wages Payable
+10/15
+800
+10/31
+600
+10/31
+600
+Unearned Service Revenue
+Supplies Expense
+10/31
+400 10/20
+650 10/31
+470
+Service Revenue
+10/17
+2,100
+10/31
+1,650
+10/31
+400
+Instructions
+From an analysis of the T-accounts, reconstruct (a) the October transaction entries, and (b) the
+adjusting journal entries that were made on October 31, 2022. Prepare explanations for each
+
+--- Page 285 ---
+journal entry.
+E3.10 (LO 3) (Adjusting Entries) Uhura Resort opened for business on June 1 with eight air-
+conditioned units. Its trial balance on August 31 is as follows (in thousands).
+Uhura Resort
+Trial Balance
+August 31, 2022
+Debit
+Credit
+Cash
+¥ 19,600
+Prepaid Insurance
+4,500
+Supplies
+2,600
+Land
+20,000
+Buildings
+120,000
+Equipment
+16,000
+Accounts Payable
+¥ 4,500
+Unearned Rent Revenue
+4,600
+Mortgage Payable
+50,000
+Share Capital—Ordinary
+100,000
+Retained Earnings
+0
+Dividends
+5,000
+Rent Revenue
+86,200
+Salaries and Wages Expense
+44,800
+Utilities Expense
+9,200
+Maintenance and Repairs Expense
+3,600
+¥245,300 ¥245,300
+Other data:
+1. The balance in prepaid insurance is a 1-year premium paid on June 1, 2022.
+2. An inventory count on August 31 shows ¥650 of supplies on hand.
+3. Annual depreciation rates are buildings (4%) and equipment (10%). Residual value is
+estimated to be 10% of cost.
+4. Unearned rent revenue of ¥3,800 should be recognized as revenue prior to August 31.
+5. Salaries and wages of ¥375 were unpaid at August 31.
+6. Rentals of ¥800 were due from tenants at August 31.
+7. The mortgage note is dated 1/1/2022. The mortgage interest rate is 8% per year.
+Instructions
+a. Journalize the adjusting entries on August 31 for the 3-month period June 1–August 31. (Omit
+explanations.)
+b. Prepare an adjusted trial balance on August 31.
+
+--- Page 286 ---
+E3.11 (LO 4) (Prepare Financial Statements) The adjusted trial balance of Cavamanlis Co. as
+of December 31, 2022, contains the following.
+Cavamanlis Co.
+Adjusted Trial Balance
+December 31, 2022
+Dr.
+Cr.
+Cash
+$18,972
+Accounts Receivable
+6,920
+Prepaid Rent
+2,280
+Equipment
+18,050
+Accumulated Depreciation—Equipment
+$ 4,895
+Notes Payable
+5,700
+Accounts Payable
+4,472
+Share Capital—Ordinary
+20,000
+Retained Earnings
+11,310
+Dividends
+3,000
+Service Revenue
+12,590
+Salaries and Wages Expense
+6,840
+Rent Expense
+2,760
+Depreciation Expense
+145
+Interest Expense
+83
+Interest Payable
+83
+$59,050 $59,050
+Instructions
+a. Prepare an income statement.
+b. Prepare a retained earnings statement.
+c. Prepare a classified statement of financial position.
+E3.12 (LO 4) (Prepare Financial Statements) Flynn Design was founded by Kevin Flynn in
+January 2017. Presented below is the adjusted trial balance as of December 31, 2022.
+Flynn Design
+Adjusted Trial Balance
+December 31, 2022
+Dr.
+Cr.
+Cash
+€ 10,000
+Accounts Receivable
+21,500
+Supplies
+5,000
+Prepaid Insurance
+2,500
+Equipment
+60,000
+Accumulated Depreciation—Equipment
+€ 35,000
+Accounts Payable
+8,000
+
+--- Page 287 ---
+Interest Payable
+150
+Notes Payable
+5,000
+Unearned Service Revenue
+5,600
+Salaries and Wages Payable
+1,300
+Share Capital—Ordinary
+10,000
+Retained Earnings
+3,500
+Service Revenue
+58,500
+Salaries and Wages Expense
+12,300
+Insurance Expense
+850
+Interest Expense
+500
+Depreciation Expense
+7,000
+Supplies Expense
+3,400
+Rent Expense
+4,000
+€127,050 €127,050
+Instructions
+a. Prepare an income statement and a retained earnings statement for the year ending December
+31, 2022, and an unclassified statement of financial position at December 31.
+b. Answer the following questions.
+1. If the note has been outstanding 6 months, what is the annual interest rate on that note?
+2. If the company paid €17,500 in salaries and wages in 2022, what was the balance in
+Salaries and Wages Payable on December 31, 2021?
+E3.13 (LO 4, 5) (Closing Entries) The adjusted trial balance of Faulk Ltd. shows the following
+data pertaining to sales at the end of its fiscal year, October 31, 2022: Sales Revenue £800,000;
+Delivery Expense £12,000; Sales Returns and Allowances £24,000; and Sales Discounts £12,000.
+Instructions
+a. Prepare the revenues section of the income statement.
+b. Prepare separate closing entries for (1) sales revenue and (2) the contra accounts to sales
+revenue.
+E3.14 (LO 4, 5) (Closing Entries) Presented below is information related to Russell AG for the
+month of January 2022.
+Cost of goods sold €202,000 Salaries and wages expense
+€ 61,000
+Delivery expense
+7,000 Sales discounts
+8,000
+Insurance expense
+12,000 Sales returns and allowances
+13,000
+Rent expense
+20,000 Sales revenue
+340,000
+Instructions
+Prepare the necessary closing entries.
+E3.15 (LO 5) (Missing Amounts) Presented below is financial information for two different
+companies.
+
+--- Page 288 ---
+Shabbona Company Jenkins Company
+Sales revenue
+$90,000
+(d)
+Sales returns and allowances
+(a)
+$ 5,000
+Net sales
+85,000
+90,000
+Cost of goods sold
+56,000
+(e)
+Gross profit
+(b)
+38,000
+Operating expenses
+15,000
+23,000
+Net income
+(c)
+15,000
+Instructions
+Compute the missing amounts.
+E3.16 (LO 4, 5) (Closing Entries) Presented below are selected account balances for Alistair Co.
+as of December 31, 2022.
+Inventory 12/31/22
+$ 60,000 Cost of Goods Sold
+$235,700
+Share Capital—Ordinary
+75,000 Selling Expenses
+16,000
+Retained Earnings
+45,000 Administrative Expenses
+38,000
+Dividends
+18,000 Income Tax Expense
+30,000
+Sales Returns and Allowances
+12,000
+Sales Discounts
+15,000
+Sales Revenue
+390,000
+Instructions
+Prepare closing entries for Alistair Co. on December 31, 2022. (Omit explanations.)
+E3.17 (LO 2) (Transactions of a Company, Including Investment and Dividend) Snyder
+Miniature Golf and Driving Range plc was opened on March 1 by Mickey Snyder. The following
+selected events and transactions occurred during March.
+Mar.
+1 Invested £60,000 cash in the business in exchange for ordinary shares.
+3 Purchased Michelle Wie’s Golf Land for £38,000 cash. The price consists of land
+£10,000, building £22,000, and equipment £6,000. (Make one compound entry.)
+5 Advertised the opening of the driving range and miniature golf course, paying advertising
+expenses of £1,600.
+6 Paid cash £1,480 for a 1-year insurance policy.
+10 Purchased golf equipment for £2,500 from Young Company, payable in 30 days.
+18 Received golf fees of £1,200 in cash.
+25 Declared and paid a £1,000 cash dividend.
+30 Paid salaries and wages of £900.
+30 Paid Young Company in full.
+31 Received £750 of fees in cash.
+Snyder uses the following accounts: Cash, Prepaid Insurance, Land, Buildings, Equipment,
+Accounts Payable, Share Capital—Ordinary, Dividends, Service Revenue, Advertising Expense, and
+Salaries and Wages Expense.
+Instructions
+
+--- Page 289 ---
+Journalize the March transactions. (Provide explanations for the journal entries.)
+*E3.18 (LO 6) (Cash to Accrual Basis) Corinne Dunbar, M.D., maintains the accounting
+records of Dunbar Clinic on a cash basis. During 2022, Dr. Dunbar collected €142,600 from her
+patients and paid €60,470 in expenses. At January 1, 2022, and December 31, 2022, she had
+accounts receivable, unearned service revenue, accrued expenses, and prepaid expenses as follows.
+(All long-lived assets are rented.)
+January 1, 2022 December 31, 2022
+Accounts receivable
+€11,250
+€15,927
+Unearned service revenue
+2,840
+4,111
+Accrued expenses
+3,435
+2,108
+Prepaid expenses
+1,917
+3,232
+Instructions
+Prepare a schedule that converts Dr. Dunbar’s “excess of cash collected over cash disbursed” for the
+year 2022 to net income on an accrual basis for the year 2022.
+*E3.19 (LO 6) (Cash and Accrual Basis) Butler Corp. maintains its financial records on the
+cash basis of accounting. Interested in securing a long-term loan from its regular bank, Butler
+Corp. requests you to convert its cash-basis income statement data to the accrual basis. You are
+provided with the following summarized data covering 2021, 2022, and 2023.
+2021
+2022
+2023
+Cash receipts from sales:
+On 2021 sales
+$290,000 $160,000 $ 30,000
+On 2022 sales
+–0–
+355,000
+90,000
+On 2023 sales
+408,000
+Cash payments for expenses:
+On 2021 expenses
+185,000
+67,000
+25,000
+On 2022 expenses
+40,000a
+170,000
+55,000
+On 2023 expenses
+45,000b
+218,000
+aPrepayments of 2022 expenses.
+bPrepayments of 2023 expenses.
+Instructions
+a. Using the data above, prepare abbreviated income statements for the years 2021 and 2022 on
+the cash basis.
+b. Using the data above, prepare abbreviated income statements for the years 2021 and 2022 on
+the accrual basis.
+*E3.20 (LO 3, 7) (Adjusting and Reversing Entries) When the accounts of Constantine A.Ş.
+are examined, the adjusting data listed below are uncovered on December 31, the end of an annual
+fiscal period.
+1. The prepaid insurance account shows a debit of 6,000, representing the cost of a 2-year fire
+insurance policy dated August 1 of the current year.
+
+--- Page 290 ---
+2. On November 1, Rent Revenue was credited for 2,400, representing revenue from a subrental
+for a 3-month period beginning on that date.
+3. Purchase of advertising materials for 800 during the year was recorded in the Supplies
+Expense account. On December 31, advertising materials of 290 are on hand.
+4. Interest of 770 has accrued on notes payable.
+Instructions
+Prepare the following in general journal form.
+a. The adjusting entry for each item.
+b. The reversing entry for each item where appropriate.
+*E3.21 (LO 8) (Worksheet) Presented below are selected accounts for Acevedo Company as
+reported in the worksheet at the end of May 2022.
+Instructions
+Complete the worksheet by extending amounts reported in the adjusted trial balance to the
+appropriate columns in the worksheet. Do not total individual columns.
+*E3.22 (LO 8) (Worksheet and Statement of Financial Position Presentation) The
+adjusted trial balance for Madrasah SE (in euros) is presented in the following worksheet for the
+month ended April 30, 2022.
+
+--- Page 291 ---
+Instructions
+Complete the worksheet and prepare a classified statement of financial position.
+*E3.23 (LO 8) (Partial Worksheet Preparation) Letterman AG prepares monthly financial
+statements from a worksheet. Selected portions of the January worksheet showed the following
+data.
+
+--- Page 292 ---
+During February, no events occurred that affected these accounts. But at the end of February, the
+following information was available.
+(a) Supplies on hand
+€515
+(b) Monthly depreciation €257
+(c) Accrued interest
+€ 50
+Instructions
+Reproduce the data that would appear in the February worksheet and indicate the amounts that
+would be shown in the February income statement.
+Problems
+P3.1 (LO 2, 3, 4) (Transactions, Financial Statements—Service Company) Listed below
+are the transactions of Yasunari Kawabata, D.D.S., for the month of September (amounts in
+thousands).
+Sept.
+1 Kawabata begins practice as a dentist and invests ¥20,000 cash.
+2 Purchases equipment on account from Green Jacket Co. for ¥17,280.
+4 Pays rent for office space, ¥680 for the month.
+4 Employs a receptionist, Michael Bradley.
+5 Purchases dental supplies for cash, ¥942.
+8 Receives cash of ¥1,690 from patients for services performed.
+10 Pays miscellaneous office expenses, ¥430.
+14 Bills patients ¥5,820 for services performed.
+18 Pays Green Jacket Co. on account, ¥3,600.
+19 Withdraws ¥3,000 cash from the business for personal use.
+20 Receives ¥980 from patients on account.
+25 Bills patients ¥2,110 for services performed.
+30 Pays the following expenses in cash: office salaries ¥1,800; miscellaneous office
+expenses ¥85.
+30 Dental supplies used during September, ¥330.
+Instructions
+a. Enter the transactions shown above in appropriate general ledger accounts (use T-accounts).
+Use the following ledger accounts: Cash; Accounts Receivable; Supplies; Equipment;
+Accumulated Depreciation—Equipment; Accounts Payable; Yasunari Kawabata, Capital;
+Service Revenue; Rent Expense; Office Expense; Salaries and Wages Expense; Supplies
+Expense; Depreciation Expense; and Income Summary. Allow 10 lines for the Cash and
+Income Summary accounts, and 5 lines for each of the other accounts needed. Record
+depreciation using a 5-year life on the equipment, the straight-line method, and no residual
+value. Do not use a drawing account.
+b. Prepare a trial balance.
+c. Prepare an income statement, a statement of owner’s equity, and an unclassified statement of
+financial position.
+d. Close the ledger.
+
+--- Page 293 ---
+e. Prepare a post-closing trial balance.
+P3.2 (LO 3, 4) (Adjusting Entries and Financial Statements) Mason Advertising Agency
+was founded in January 2018. The following are adjusted and unadjusted trial balances as of
+December 31, 2022.
+Mason Advertising Agency
+Trial Balance
+December 31, 2022
+Unadjusted
+Adjusted
+Dr.
+Cr.
+Dr.
+Cr.
+Cash
+€ 11,000
+€ 11,000
+Accounts Receivable
+20,000
+23,500
+Supplies
+8,400
+3,000
+Prepaid Insurance
+3,350
+2,500
+Equipment
+60,000
+60,000
+Accumulated Depreciation—Equipment
+€ 28,000
+€ 33,000
+Accounts Payable
+5,000
+5,000
+Interest Payable
+–0–
+150
+Notes Payable
+5,000
+5,000
+Unearned Service Revenue
+7,000
+5,600
+Salaries and Wages Payable
+–0–
+1,300
+Share Capital—Ordinary
+10,000
+10,000
+Retained Earnings
+3,500
+3,500
+Service Revenue
+58,600
+63,500
+Salaries and Wages Expense
+10,000
+11,300
+Insurance Expense
+850
+Interest Expense
+350
+500
+Depreciation Expense
+5,000
+Supplies Expense
+5,400
+Rent Expense
+4,000
+4,000
+€117,100 €117,100 €127,050 €127,050
+Instructions
+a. Journalize the annual adjusting entries that were made. (Omit explanations.)
+b. Prepare an income statement and a retained earnings statement for the year ending December
+31, 2022, and an unclassified statement of financial position at December 31.
+c. Answer the following questions.
+1. If the note has been outstanding 3 months, what is the annual interest rate on that note?
+2. If the company paid €12,500 in salaries in 2022, what was the balance in Salaries and
+Wages Payable on December 31, 2021?
+
+--- Page 294 ---
+P3.3 (LO 3) (Adjusting Entries) A review of the ledger of Baylor Company at December 31,
+2022, produces the following data pertaining to the preparation of annual adjusting entries.
+1. Salaries and Wages Payable $0. There are 8 employees. Salaries and wages are paid every
+Friday for the current week. Five employees receive $700 each per week, and 3 employees earn
+$600 each per week. December 31 is a Tuesday. Employees do not work weekends. All
+employees worked the last 2 days of December.
+2. Unearned Rent Revenue $384,000. The company began subleasing office space in its new
+building on November 1. Each tenant is required to make a $5,000 security deposit that is not
+refundable until occupancy is terminated. At December 31, the company had the following
+rental contracts that are paid in full for the entire term of the lease.
+Date Term (in months) Monthly Rent Number of Leases
+Nov. 1
+6
+$6,000
+5
+Dec. 1
+6
+$8,500
+4
+3. Prepaid Advertising $13,200. This balance consists of payments on two advertising contracts.
+The contracts provide for monthly advertising in two trade magazines. The terms of the
+contracts are as shown below.
+Contract Date Amount Number of Magazine Issues
+A650
+May 1 $6,000
+12
+B974
+Oct. 1 $7,200
+24
+The first advertisement runs in the month in which the contract is signed.
+4. Notes Payable $60,000. This balance consists of a note for one year at an annual interest rate
+of 12%, dated June 1.
+Instructions
+Prepare the adjusting entries at December 31, 2022. (Show all computations.)
+P3.4 (LO 2, 3, 4, 5) (Financial Statements, Adjusting and Closing Entries) The trial
+balance of Bellemy Fashion Center contained the following accounts at November 30, the end of
+the company’s fiscal year.
+Bellemy Fashion Center
+Trial Balance
+November 30, 2022
+Debit
+Credit
+Cash
+€ 28,700
+Accounts Receivable
+33,700
+Inventory
+45,000
+Supplies
+5,500
+Equipment
+133,000
+Accumulated Depreciation—Equipment
+€ 24,000
+Notes Payable
+51,000
+Accounts Payable
+48,500
+Share Capital—Ordinary
+90,000
+Retained Earnings
+8,000
+
+--- Page 295 ---
+Sales Revenue
+757,200
+Sales Returns and Allowances
+4,200
+Cost of Goods Sold
+495,400
+Salaries and Wages Expense
+140,000
+Advertising Expense
+26,400
+Utilities Expense
+14,000
+Maintenance and Repairs Expense
+12,100
+Delivery Expense
+16,700
+Rent Expense
+24,000
+€978,700 €978,700
+Adjustment data:
+1. Supplies on hand totaled €1,500.
+2. Depreciation is €15,000 on the equipment.
+3. Interest of €11,000 is accrued on notes payable at November 30.
+Other data:
+1. Salaries and wages expense is 70% selling and 30% administrative.
+2. Rent expense and utilities expense are 80% selling and 20% administrative.
+3. €30,000 of notes payable are due for payment next year.
+4. Maintenance and repairs expense is 100% administrative.
+Instructions
+a. Journalize the adjusting entries.
+b. Prepare an adjusted trial balance.
+c. Prepare an income statement and retained earnings statement for the year and a classified
+statement of financial position as of November 30, 2022.
+d. Journalize the closing entries.
+e. Prepare a post-closing trial balance.
+P3.5 (LO 3) (Adjusting Entries) The accounts listed below appeared in the December 31 trial
+balance of the Savard Theater.
+Debit
+Credit
+Equipment
+€192,000
+Accumulated Depreciation—Equipment
+€ 60,000
+Notes Payable
+90,000
+Admissions Revenue
+380,000
+Advertising Expense
+13,680
+Salaries and Wages Expense
+57,600
+Interest Expense
+1,400
+
+--- Page 296 ---
+Instructions
+a. From the account balances listed above and the information given below, prepare the annual
+adjusting entries necessary on December 31. (Omit explanations.)
+1. The equipment has an estimated life of 16 years and a residual value of €24,000 at the end
+of that time. (Use straight-line method.)
+2. The note payable is a 90-day note given to the bank October 20 and bearing interest at 8%.
+(Use 360 days for denominator.)
+3. In December, 2,000 coupon admission books were sold at €30 each. They could be used
+for admission any time after January 1. The proceeds were recorded as Admissions
+Revenue.
+4. Advertising expense paid in advance and included in Advertising Expense €1,100.
+5. Salaries and wages accrued but unpaid €4,700.
+b. What amounts should be shown for each of the following on the income statement for the
+year?
+1. Interest expense.
+2. Admissions revenue.
+3. Advertising expense.
+4. Salaries and wages expense.
+P3.6 (LO 3, 4) (Adjusting Entries and Financial Statements) The following are the trial
+balance and other information related to Yorkis Perez, a consulting engineer.
+Yorkis Perez, Consulting Engineer
+Trial Balance
+December 31, 2022
+Debit
+Credit
+Cash
+R$ 29,500
+Accounts Receivable
+49,600
+Allowance for Doubtful Accounts
+R$
+750
+Supplies
+1,960
+Prepaid Insurance
+1,100
+Equipment
+25,000
+Accumulated Depreciation—Equipment
+6,250
+Notes Payable
+7,200
+Yorkis Perez, Capital
+35,010
+Service Revenue
+100,000
+Rent Expense
+9,750
+Salaries and Wages Expense
+30,500
+Utilities Expense
+1,080
+Office Expense
+720
+R$149,210 R$149,210
+
+--- Page 297 ---
+1. Fees received in advance from clients R$6,000.
+2. Services performed for clients that were not recorded by December 31, R$4,900.
+3. Bad debt expense for the year is R$1,430.
+4. Insurance expired during the year R$480.
+5. Equipment is being depreciated at 10% per year.
+6. Yorkis Perez gave the bank a 90-day, 10% note for R$7,200 on December 1, 2022.
+7. Rent of the building is R$750 per month. The rent for 2022 has been paid, as has that for
+January 2023.
+8. Salaries and wages earned but unpaid December 31, 2022, R$2,510.
+Instructions
+a. From the trial balance and other information given, prepare annual adjusting entries as of
+December 31, 2022. (Omit explanations.)
+b. Prepare an income statement for 2022, a statement of owner’s equity, and a classified
+statement of financial position. Yorkis Perez withdrew R$17,000 cash for personal use during
+the year.
+P3.7 (LO 3, 4) (Adjusting Entries and Financial Statements) Sorenstam Advertising AG was
+founded in January 2018. The following are the adjusted and unadjusted trial balances as of
+December 31, 2022.
+Sorenstam Advertising AG
+Trial Balance
+December 31, 2022
+Unadjusted
+Adjusted
+Dr.
+Cr.
+Dr.
+Cr.
+Cash
+€ 7,000
+€ 7,000
+Accounts Receivable
+19,000
+20,000
+Supplies
+8,500
+3,500
+Prepaid Insurance
+3,250
+2,500
+Equipment
+60,000
+60,000
+Accumulated Depreciation—Equipment
+€ 27,000
+€ 35,750
+Accounts Payable
+5,000
+5,000
+Interest Payable
+150
+Notes Payable
+5,000
+5,000
+Unearned Service Revenue
+7,000
+5,600
+Salaries and Wages Payable
+1,500
+Share Capital—Ordinary
+10,000
+10,000
+Retained Earnings
+4,500
+4,500
+Service Revenue
+58,600
+61,000
+Salaries and Wages Expense
+10,000
+11,500
+Insurance Expense
+750
+Interest Expense
+350
+500
+
+--- Page 298 ---
+Depreciation Expense
+8,750
+Supplies Expense
+5,000
+10,000
+Rent Expense
+4,000
+4,000
+€117,100 €117,100 €128,500 €128,500
+Instructions
+a. Journalize the annual adjusting entries that were made. (Omit explanations.)
+b. Prepare an income statement and a retained earnings statement for the year ending December
+31, 2022, and an unclassified statement of financial position at December 31, 2022.
+c. Answer the following questions.
+1. If the useful life of equipment is 6 years, what is the expected residual value?
+2. If the note has been outstanding 3 months, what is the annual interest rate on that note?
+3. If the company paid €12,500 in salaries and wages in 2022, what was the balance in
+Salaries and Wages Payable on December 31, 2021?
+P3.8 (LO 3, 4) (Adjusting and Closing) Presented below is the trial balance of the Ko Golf
+Club, as of December 31. The books are closed annually on December 31.
+Ko Golf Club
+Trial Balance
+December 31
+Debit
+Credit
+Cash
+£ 15,000
+Accounts Receivable
+13,000
+Allowance for Doubtful Accounts
+£ 1,100
+Prepaid Insurance
+9,000
+Land
+350,000
+Buildings
+120,000
+Accumulated Depreciation—Buildings
+38,400
+Equipment
+150,000
+Accumulated Depreciation—Equipment
+70,000
+Share Capital—Ordinary
+400,000
+Retained Earnings
+82,000
+Dues Revenue
+200,000
+Green Fees Revenue
+5,900
+Rent Revenue
+17,600
+Utilities Expense
+54,000
+Salaries and Wages Expense
+80,000
+Maintenance and Repairs Expense
+24,000
+£815,000 £815,000
+Instructions
+
+--- Page 299 ---
+a. Enter the balances in ledger accounts. Allow five lines for each account.
+b. From the trial balance and the information given below, prepare annual adjusting entries and
+post to the ledger accounts. (Omit explanations.)
+1. The buildings have an estimated life of 30 years with no residual value (straight-line
+method).
+2. The equipment is depreciated at 10% per year.
+3. Insurance expired during the year £3,500.
+4. The rent revenue represents the amount received for 11 months for dining facilities. The
+December rent has not yet been received.
+5. It is estimated that 12% of the accounts receivable will be uncollectible.
+6. Salaries and wages earned but not paid by December 31, £3,600.
+7. Dues received in advance from members £8,900.
+c. Prepare an adjusted trial balance.
+d. Prepare closing entries and post.
+P3.9 (LO 3, 4) (Adjusting and Closing) The following is the December 31 trial balance of New
+York Boutique.
+New York Boutique
+Trial Balance
+December 31
+Debit
+Credit
+Cash
+€ 18,500
+Accounts Receivable
+32,000
+Allowance for Doubtful Accounts
+€ 700
+Inventory, December 31
+80,000
+Prepaid Insurance
+5,100
+Equipment
+84,000
+Accumulated Depreciation—Equipment
+35,000
+Notes Payable
+28,000
+Share Capital—Ordinary
+80,600
+Retained Earnings
+10,000
+Sales Revenue
+600,000
+Cost of Goods Sold
+408,000
+Salaries and Wages Expense
+115,000
+Advertising Expense
+6,700
+Office Expense
+5,000
+€754,300 €754,300
+Instructions
+a. Construct T-accounts and enter the balances shown.
+
+--- Page 300 ---
+b. Prepare adjusting journal entries for the following and post to the T-accounts. (Omit
+explanations.) Open additional T-accounts as necessary. (The books are closed yearly on
+December 31.)
+1. Bad debt expense is estimated to be €1,400.
+2. Equipment is depreciated based on a 7-year life (no residual value).
+3. Insurance expired during the year, €2,550.
+4. Interest accrued on notes payable, €3,360.
+5. Salaries and wages earned but not paid, €2,400.
+6. Advertising paid in advance, €700.
+7. Office supplies on hand, €1,500, charged to Office Expense when purchased.
+c. Prepare closing entries and post to the accounts.
+*P3.10 (LO 6) (Cash and Accrual Basis) On January 1, 2022, Norma Smith and Grant Wood
+formed a computer sales and service company in Manchester, U.K., by investing £90,000 cash. The
+new company, Lakeland Sales and Service, has the following transactions during January.
+1. Pays £6,000 in advance for 3 months’ rent of office, showroom, and repair space.
+2. Purchases 40 personal computers at a cost of £1,500 each, 6 graphics computers at a cost of
+£2,500 each, and 25 printers at a cost of £300 each, paying cash upon delivery.
+3. Sales, repair, and office employees earn £12,600 in salaries and wages during January, of
+which £3,000 was still payable at the end of January.
+4. Sells 30 personal computers at £2,550 each, 4 graphics computers for £3,600 each, and 15
+printers for £500 each; £75,000 is received in cash in January, and £23,400 is sold on a
+deferred payment basis.
+5. Other operating expenses of £8,400 are incurred and paid for during January; £2,000 of
+incurred expenses are payable at January 31.
+Instructions
+a. Using the transaction data above, prepare for the month of January (1) a cash-basis income
+statement, and (2) an accrual-basis income statement.
+b. Using the transaction data above, prepare as of January 31, 2022, (1) a cash-basis statement of
+financial position and (2) an accrual-basis statement of financial position.
+c. Identify the items in the cash-basis financial statements that make cash-basis accounting
+inconsistent with the theory underlying the elements of financial statements.
+*P3.11 (LO 3, 4, 8) (Worksheet, Statement of Financial Position, Adjusting and Closing
+Entries) Cooke NV has a fiscal year ending on September 30. Selected data from the September 30
+worksheet are presented below.
+
+--- Page 301 ---
+Instructions
+a. Prepare a complete worksheet.
+b. Prepare a classified statement of financial position. (Note: €10,000 of the mortgage payable is
+due for payment in the next fiscal year.)
+c. Journalize the adjusting entries using the worksheet as a basis.
+d. Journalize the closing entries using the worksheet as a basis.
+e. Prepare a post-closing trial balance.
+Using Your Judgment
+Financial Reporting Problem
+Marks and Spencer plc (M&S)
+
+--- Page 302 ---
+The financial statements of M&S (GBR) are presented in Appendix A. The company’s complete
+annual report, including the notes to the financial statements, is available online.
+Instructions
+a. What were M&S’s total assets at March 30, 2019? At March 31, 2018?
+b. How much cash (and cash equivalents) did M&S have on March 30, 2019?
+c. What were M&S’s selling and administrative expenses in 2019? In 2018?
+d. What were M&S’s revenues in 2019? In 2018?
+e. Using M&S’s financial statements and related notes, identify items that may result in adjusting
+entries for prepayments and accruals.
+f. What were the amounts of M&S’s depreciation, amortisation, and underlying write-offs in
+2018 and 2019?
+Comparative Analysis Case
+adidas and Puma
+The financial statements of adidas (DEU) and Puma (DEU) are presented in Appendices B and C,
+respectively. The complete annual reports, including the notes to the financial statements, are
+available online.
+Instructions
+Use the companies’ financial information to answer the following questions.
+a. Which company had the greater percentage increase in total assets from 2017 to 2018?
+b. Did either company report the effect of a discontinued operation in its income statement? If
+so, briefly describe how the reporting of a discontinued operation can affect comparisons
+between the companies.
+Financial Statement Analysis Case
+Much information about specific companies is available on the Internet. Such information includes
+basic descriptions of the company’s location, activities, industry, financial health, and financial
+performance.
+Instructions
+Go to the Yahoo! Finance website. Type in a company name and then answer the following
+questions.
+a. What is the company’s industry?
+b. What was the company’s total sales?
+c. What was the company’s net income?
+d. What are the names of four of the company’s competitors?
+e. Choose one of these competitors.
+f. What is this competitor’s name? What were its sales? What was its net income?
+g. Which of these two companies is larger by size of sales? Which one reported higher net
+income?
+
+--- Page 303 ---
+Accounting, Analysis, and Principles
+The Amato Theater is nearing the end of the year and is preparing for a meeting with its bankers to
+discuss the renewal of a loan. The following accounts appeared in the December 31, 2022, trial
+balance.
+Debit
+Credit
+Prepaid Advertising
+£ 6,000
+Equipment
+192,000
+Accumulated Depreciation—Equipment
+£ 60,000
+Notes Payable
+90,000
+Unearned Service Revenue
+17,500
+Service Revenue
+360,000
+Advertising Expense
+18,680
+Salaries and Wages Expense
+67,600
+Interest Expense
+1,400
+Additional information is available as follows.
+1. The equipment has an estimated useful life of 16 years and a residual value of £40,000 at the
+end of that time. Amato uses the straight-line method for depreciation.
+2. The note payable is a 1-year note given to the bank January 31 and bearing interest at 10%.
+Interest is calculated on a monthly basis.
+3. The theater sold 350 coupon ticket books at £50 each. Two hundred ticket books were used in
+2022. One hundred fifty of these ticket books can be used only for admission any time after
+January 1, 2023. The cash received was recorded as Unearned Service Revenue.
+4. Advertising paid in advance was £6,000 and was debited to Prepaid Advertising. The company
+has used £2,500 of the advertising as of December 31, 2022.
+5. Salaries and wages accrued but unpaid at December 31, 2022, were £3,500.
+Accounting
+Prepare any adjusting journal entries necessary for the year ended December 31, 2022.
+Analysis
+Determine Amato’s income before and after recording the adjusting entries. Use your analysis to
+explain why Amato’s bankers should be willing to wait for Amato to complete its year-end
+adjustment process before making a decision on the loan renewal.
+Principles
+Although Amato’s bankers are willing to wait for the adjustment process to be completed before
+they receive financial information, they would like to receive financial reports more frequently
+than annually or even quarterly. What trade-offs, in terms of relevance and faithful representation,
+are inherent in preparing financial statements for shorter accounting time periods?
+Bridge to the Profession
+Research Case
+
+--- Page 304 ---
+Recording transactions in the accounting system requires knowledge of the important
+characteristics of the elements of financial statements, such as assets and liabilities. In addition,
+accountants must understand the inherent uncertainty in accounting measures and distinctions
+between related accounting concepts that are important in evaluating the effects of transactions on
+the financial statements.
+Instructions
+Access the Conceptual Framework at the IFRS website (you may register for free IFRS access at
+this site). When you have accessed the document, you can use the search tool in your Internet
+browser to respond to the following items. (Provide paragraph citations.)
+a. Provide the definition of an asset and discuss how the economic benefits embodied in an asset
+might flow to a company.
+b. Provide the definition of a liability and discuss how a company might satisfy a liability.
+c. What is “accrual basis”? How do adjusting entries illustrate application of the accrual basis?
+Global Accounting Insights
+LEARNING OBJECTIVE 9
+Compare the accounting information systems under IFRS and U.S. GAAP.
+As indicated in this chapter, companies must have an effective accounting system. In the wake of
+accounting scandals at such U.S. companies as Sunbeam, Rite-Aid, Xerox, and WorldCom,
+U.S. lawmakers demanded higher assurance on the quality of accounting reports. Since the passage
+of the Sarbanes-Oxley Act (SOX), companies that trade on U.S. exchanges are required to place
+renewed focus on their accounting systems to ensure accurate reporting.
+Relevant Facts
+Following are the key similarities and differences between U.S. GAAP and IFRS related to
+accounting information systems.
+Similarities
+International companies use the same set of procedures and records to keep track of
+transaction data. Thus, the material in Chapter 3 dealing with the account, general rules of
+debit and credit, and steps in the recording process—the journal, ledger, and chart of accounts
+—is the same under both U.S. GAAP and IFRS.
+Transaction analysis is the same under U.S. GAAP and IFRS but, as you will see in later
+chapters, different standards sometimes impact how transactions are recorded.
+Both the FASB and IASB go beyond the basic definitions provided in this textbook for the key
+elements of financial statements, that is, assets, liabilities, equity, revenues, and expenses.
+A trial balance under U.S. GAAP follows the same format as shown in the textbook. As shown
+in the textbook, currency signs are typically used only in the trial balance and the financial
+statements. The same practice is followed under U.S. GAAP.
+Differences
+Rules for accounting for specific events sometimes differ across countries. For example,
+European companies rely less on historical cost and more on fair value than U.S. companies.
+
+--- Page 305 ---
+Despite the differences, the double-entry accounting system is the basis of accounting systems
+worldwide.
+Internal controls are a system of checks and balances designed to prevent and detect fraud and
+errors. While most public U.S. companies have these systems in place, many non-U.S.
+companies have never completely documented them nor had an independent auditor attest to
+their effectiveness. Both of these actions are required under SOX. Enhanced internal control
+standards apply only to large public companies listed on U.S. exchanges.
+About the Numbers
+As discussed, IFRS has been adopted in some form by over 120 countries around the world. One of
+the most important world markets (U.S.) is not yet on board. Whether to adopt IFRS in the United
+States has been debated over the past several years. In deciding whether the United States should
+adopt IFRS, some of the issues the U.S. Securities and Exchange Commission (SEC) said should be
+considered are:
+Whether IFRS is sufficiently developed and consistent in application.
+Whether the IASB is sufficiently independent.
+Whether IFRS is established for the benefit of investors.
+The issues involved in educating investors about IFRS.
+The impact of a switch to IFRS on U.S. laws and regulations.
+The impact on companies, including changes to their accounting systems, contractual
+arrangements, company governance, and litigation.
+The issues involved in educating accountants, so they can prepare statements under IFRS.
+To evaluate these issues, the U.S. SEC asked its staff to study IFRS adoption and identify possible
+consequences for adoption in the United States. The U.S. SEC Staff Report on IFRS Work Plan
+(available at the SEC website) reported the following key findings:
+There is uneven application of IFRS around the world, which results in comparability
+concerns.
+There is uneven auditing and enforcement of IFRS around the world.
+Funding and independence of the IASB as the international standard-setter continues to be a
+challenge.
+Cost of adopting IFRS for regulation (IRS, banking, and insurance regulators) will be
+significant.
+There is uncertainty whether investors and others who use financial statements are ready to
+use IFRS statements.
+Based on these findings, it appears that required adoption of IFRS in the United States is off the
+table. Furthermore, the U.S. SEC Chief Accountant has rejected optional adoption of IFRS but has
+floated the idea of optional IFRS proforma disclosures. The U.S. SEC staff has sketched out a path
+from convergence to a collaboration model. That is, the U.S. SEC has encouraged the IASB and
+FASB to work to converge to high-quality standards in other areas (now that major projects have
+been completed). Under this collaboration model, the FASB and other national standard-setters are
+collaborating to find a multilateral approach to providing input to the IASB (Accounting Standards
+Advisory Forum (ASAF), and other forums)—still with the goal of limiting differences in IFRS and
+U.S. GAAP.
+
+--- Page 306 ---
+On the Horizon
+High-quality international accounting requires both high-quality accounting standards and high-
+quality auditing. Similar to the convergence of U.S. GAAP and IFRS, there is a movement to
+improve international auditing standards. The International Auditing and Assurance Standards
+Board (IAASB) functions as an independent standard-setting body. It works to establish high-
+quality auditing and assurance and quality-control standards throughout the world. Whether the
+IAASB adopts internal control provisions similar to those in SOX remains to be seen. You can
+follow developments in the international audit arena at the International Federation of
+Accountants website.
+GAAP Self-Test Questions
+1. Which statement is correct regarding U.S. GAAP?
+a. U.S. GAAP reverses the rules of debits and credits, that is, debits are on the right and credits
+are on the left.
+b. U.S. GAAP uses the same process for recording transactions as IFRS.
+c. The chart of accounts under U.S. GAAP is different because revenues follow assets.
+d. None of the above statements are correct.
+2. The expanded accounting equation under U.S. GAAP is as follows:
+a. Assets = Liabilities + Common Stock – Retained Earnings – Dividends + Revenues –
+Expenses.
+b. Assets + Liabilities = Common Stock + Retained Earnings – Dividends + Revenues –
+Expenses.
+c. Assets = Liabilities + Common Stock + Retained Earnings – Dividends + Revenues –
+Expenses.
+d. Assets = Liabilities + Common Stock – Retained Earnings – Dividends – Revenues –
+Expenses.
+3. A trial balance:
+a. is the same under U.S. GAAP and IFRS.
+b. proves that transactions are recorded correctly.
+c. proves that all transactions have been recorded.
+d. will not balance if a correct journal entry is posted twice.
+4. One difference between U.S. GAAP and IFRS is that:
+a. IFRS uses accrual-accounting concepts, and U.S. GAAP uses primarily the cash basis of
+accounting.
+b. U.S. GAAP uses a different posting process than IFRS.
+c. IFRS uses more fair value measurements than U.S. GAAP.
+d. the limitations of a trial balance are different between U.S. GAAP and IFRS.
+5. The general policy for using proper currency signs (dollar, yen, pound, etc.) is the same for both
+U.S. GAAP and this textbook. This policy is as follows:
+
+--- Page 307 ---
+a. Currency signs only appear in ledgers and journal entries.
+b. Currency signs are only shown in the trial balance.
+c. Currency signs are shown for all compound journal entries.
+d. Currency signs are shown in trial balances and financial statements.
+GAAP Concepts and Application
+GAAP3.1 Are all international companies subject to the same internal control standards? Explain.
+GAAP3.2 What are some of the consequences of international differences in internal control
+standards?
+GAAP3.3 Briefly describe the key elements of international auditing convergence.
+Answers to GAAP Self-Test Questions
+1. b 2. c 3. a 4. c 5. d
+Note
+1 Companies in the following situations might use a cash or modified cash basis.
+(1) A company that is primarily interested in cash flows (for example, a group of physicians that
+distributes cash-basis earnings for salaries and bonuses).
+(2) A company that has a limited number of financial statement users (small, closely held
+company with little or no debt).
+(3) A company that has operations that are relatively straightforward (small amounts of
+inventory, long-term assets, or long-term debt).
+Sources: L. Carlozo, “What Is Blockchain?” Journal of Accountancy (July 1, 2017); “Prestigious Accounting Association Takes
+on Blockchain Technology,” Forbes.com (October 2018); Deloitte, Blockchain Technology: A Game Changer? (2016); “PwC Has
+an Answer for the Blockchain: Audit It,” Wall Street Journal (March 16, 2018).
+
+--- Page 308 ---

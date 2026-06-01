@@ -1,0 +1,1954 @@
+CHAPTER 7
+Cash and Receivables
+LEARNING OBJECTIVES
+After studying this chapter, you should be able to:
+1. Indicate how to report cash and related items.
+2. Define receivables and explain accounting issues related to their recognition.
+3. Explain accounting issues related to valuation of accounts receivable.
+4. Explain accounting issues related to recognition and valuation of notes
+receivable.
+5. Explain additional accounting issues related to accounts and notes
+receivables.
+This chapter also includes numerous conceptual discussions that are
+integral to the topics presented here.
+PREVIEW OF CHAPTER 7
+As the following opening story indicates, companies must keep track of global
+cash balances in order to plan capital expenditures. In this chapter, we discuss
+cash and receivables—two assets that are important to non-financial companies
+such as Nortel (CAN) and Nokia (FIN), and financial companies like Bankia
+Group (ESP) and UBS (CHE). The content and organization of the chapter are as
+follows.
+Is Your Cash Trapped?
+At one time, Apple (USA) executives explained what they planned to do with their
+$98 billion in cash (pay a $2.65 dividend and buy back some of their shares).
+However, what they were really talking about was not the full $98 billion but the $34
+billion the company was holding in the United States. The other $64 billion was
+
+sitting in overseas subsidiaries and likely would never find its way back to the United
+States. The reason: at that time—before passage of the U.S. Tax Cuts and Jobs Act of
+2017 (TCJA)—U.S. tax laws allowed companies to defer taxes on their profits from
+international operations until they brought the cash back into the country.
+In the wake of the TCJA, which enacted a tax on those foreign balances and reduced
+the U.S. corporate tax rate from 39 percent to 21 percent, U.S. companies now have far
+fewer incentives to keep cash locked up overseas. Indeed, one of the goals of the TCJA
+was to encourage companies to bring those cash balances to the United States to
+increase dividends, expand operations, and add jobs. However, the initial response
+from the companies was much more muted than expected. As can be seen in the
+following chart, the tax law change has had a limited impact on overseas cash
+balances.
+In addition, some companies have stopped disclosing foreign cash balances. For
+example, the foreign cash disclosure disappeared from the first quarterly report after
+the TCJA was enacted for U.S. companies Apple, Microsoft, and Oracle. The lack of
+this information makes it more difficult to gauge whether the U.S. tax change is
+stoking U.S. corporate investment as was hoped by TCJA proponents. Other U.S.
+companies, like Qualcomm, Cisco, Caterpillar, and GE, have continued to put out
+the number. Of those companies, Caterpillar and GE have reduced their offshore
+holdings. One analyst doubted a major repatriation of foreign cash balances, noting,
+“I’m not sure that companies, certainly at this stage of the business cycle, are going to
+aggressively expand their plant and equipment balances in anticipation of even
+greater demand for their products.”
+
+Review and Practice
+Go to the Review and Practice section at the end of the chapter for a targeted
+summary review and practice problem with solution. Multiple-choice questions
+with annotated solutions, as well as additional exercises and practice problem
+with solutions, are also available online.
+Cash
+LEARNING OBJECTIVE 1
+Indicate how to report cash and related items.
+Cash, the most liquid of assets, is the standard medium of exchange and the basis for
+measuring and accounting for all other items. Companies generally classify cash as a
+current asset. Cash consists of coin, currency, and available funds on deposit at the
+bank. [1] (See the Authoritative Literature References section near the end of the
+chapter.) Negotiable instruments such as money orders, certified checks, cashier’s
+checks, personal checks, and bank drafts are also viewed as cash. What about savings
+accounts? Banks do have the legal right to demand notice before withdrawal. But,
+because banks rarely demand prior notice, savings accounts are considered cash.
+Some negotiable instruments provide small investors with an opportunity to earn
+interest. These items, more appropriately classified as temporary investments than as
+cash, include money market funds, money market savings certificates, certificates of
+deposit (CDs), and similar types of deposits and “short-term paper.” These securities
+usually contain restrictions or penalties on their conversion to cash. Money market
+funds that provide checking account privileges, however, are usually classified as cash.
+Certain items present classification problems: Companies treat postdated checks
+and I.O.U.s as receivables. They also treat travel advances as receivables if
+collected from employees or deducted from their salaries. Otherwise, companies
+classify the travel advance as a prepaid expense. Postage stamps on hand are
+classified as part of office supplies inventory or as a prepaid expense. Because petty
+cash funds and change funds are used to meet current operating expenses and
+liquidate current liabilities, companies include these funds in current assets as cash.
+Reporting Cash
+Although the reporting of cash is relatively straightforward, a number of issues merit
+special attention. These issues relate to the reporting of:
+1. Cash equivalents.
+2. Restricted cash.
+3. Bank overdrafts.
+
+Cash Equivalents
+A common current classification is “Cash and cash equivalents.” Cash equivalents
+are short-term, highly liquid investments that are both (a) readily convertible to
+known amounts of cash and (b) subject to an insignificant risk of changes in value.
+IFRS suggests that only investments with original maturities of three months or less
+at acquisition qualify under these definitions. In addition, the cash and cash
+equivalents should be held for the purposes of meeting short-term cash commitments
+and not for investment purposes. [2] Examples of cash equivalents are government
+bonds, commercial paper, and certain money market funds. Some companies combine
+cash with short-term investments on the statement of financial position. In these
+cases, they describe the amount of the short-term investments either parenthetically
+or in the notes.
+Most individuals think of cash equivalents as cash. Unfortunately, that is not always
+the case. Some companies found out the hard way and have taken sizable write-downs
+on cash equivalents. Their losses resulted because they purchased auction-rate notes
+that declined in value. These notes carry interest rates that usually reset weekly and
+often have long-maturity dates (as long as 30 years). Companies argued that such
+notes should be classified as cash equivalents because they can be routinely traded at
+auction on a daily basis. (In short, they are liquid and risk-free.) Auditors agreed and
+permitted cash-equivalent treatment even though maturities extended well beyond
+three months. But when the 2008 credit crunch hit, the auctions stopped, and the
+value of these securities dropped because no market existed. In retrospect, the cash-
+equivalent classification was misleading.
+The IASB has studied whether to eliminate the cash-equivalent classification from
+financial statement presentations altogether. One idea would have companies report
+only cash. If an asset is not cash and is short-term in nature, it should be reported as a
+temporary investment. An interesting moral to this story is that when times are good,
+some sloppy accounting may work. But in bad times, it quickly becomes apparent that
+sloppy accounting can lead to misleading and harmful effects for users of the financial
+statements.
+Restricted Cash
+Petty cash, payroll, and dividend funds are examples of cash set aside for a particular
+purpose. In most situations, these fund balances are not material. Therefore,
+companies do not segregate them from cash in the financial statements. When
+material in amount, companies segregate restricted cash from “regular” cash for
+reporting purposes. The reason is that the cash is not being held for the purpose of
+meeting short-term cash commitments. They are, instead, being held for a more
+specific purpose. Note that this treatment would be used even if the specific
+investments would otherwise qualify as cash equivalents.
+Companies classify restricted cash either in the current assets or in the non-current
+assets section, depending on the date of availability or disbursement. Classification in
+the current section is appropriate if using the cash for payment of existing or
+
+maturing obligations (within a year or the operating cycle, whichever is longer). On
+the other hand, companies show restricted cash in the non-current section of the
+statement of financial position if holding the cash for a longer period of time.
+Cash classified in the non-current section is frequently set aside for plant expansion
+and retirement of long-term debt. Infosys’s (IND) restricted cash disclosure is shown
+in Illustration 7.1.
+Infosys
+Cash and Cash Equivalents (000,000). Cash and cash equivalents as of March 31,
+2019 and March 31, 2018 include restricted cash and bank balances of ₹358 and
+₹533, respectively. The restrictions are primarily on account of cash and bank
+balances held by irrevocable trusts controlled by the Company, bank balances held as
+margin money deposits against guarantees, and balances held in unpaid dividend
+bank accounts.
+ILLUSTRATION 7.1 Disclosure of Restricted Cash
+Banks and other lending institutions often require customers to maintain minimum
+cash balances in checking or savings accounts. These minimum balances, called
+compensating balances, are “that portion of any demand deposit (or any time
+deposit or certificate of deposit) maintained by a company which constitutes support
+for existing borrowing arrangements of the company with a lending institution. Such
+arrangements would include both outstanding borrowings and the assurance of future
+credit availability.” [3]
+To avoid misleading investors about the amount of cash available to meet recurring
+obligations, companies should state separately legally restricted deposits held as
+compensating balances against short-term borrowing arrangements among the
+“Cash and cash equivalent items” in current assets. Companies should classify
+separately restricted deposits held as compensating balances against long-term
+borrowing arrangements as non-current assets in either the investments or other
+assets sections, using a caption such as “Cash on deposit maintained as compensating
+balance.” In cases where compensating balance arrangements exist without
+agreements that restrict the use of cash amounts shown on the statement of financial
+position, companies should describe the arrangements and the amounts involved in
+the notes.
+Bank Overdrafts
+Bank overdrafts occur when a company writes a check for more than the amount in
+its cash account. Companies should report bank overdrafts in the current liabilities
+section, combining them to the amount reported as accounts payable. If material,
+
+companies should disclose these items separately, either on the face of the statement
+of financial position or in the related notes.1
+Bank overdrafts are included as a component of cash if such overdrafts are repayable
+on demand and are an integral part of a company’s cash management (such as the
+common practice of establishing offsetting arrangements against other accounts at
+the same bank). [4] Overdrafts not meeting these conditions should be reported as a
+current liability.
+Summary of Cash-Related Items
+Cash and cash equivalents include the medium of exchange and most negotiable
+instruments. If the item cannot be quickly converted to coin or currency, a company
+separately classifies it as an investment, receivable, or prepaid expense. Companies
+segregate and classify cash that is unavailable for payment of currently maturing
+liabilities in the non-current assets section. Illustration 7.2 summarizes the
+classification of cash-related items.
+
+Classification of Cash, Cash Equivalents, and Non-Cash Items
+Item
+Classification
+Comment
+Cash
+Cash
+If unrestricted, report as cash.
+ 
+If restricted, identify and classify as
+current or non-current assets.
+Petty cash and
+change funds
+Cash
+Report as cash.
+Short-term
+paper
+Cash equivalents
+Investments with maturity of less than 3
+months at acquisition, often combined
+with cash.
+Short-term
+paper
+Short-term investments Investments with maturity of 3 to 12
+months.
+Postdated
+checks and
+I.O.U.s
+Receivables
+Assumed to be collectible.
+Travel
+advances
+Receivables
+Assumed to be collected from employees
+or deducted from their salaries.
+Postage on
+hand (as
+stamps or in
+postage
+meters)
+Prepaid expenses
+May also be classified as office supplies
+inventory.
+Bank
+overdrafts
+Cash
+If no offsetting allowed, current liability.
+Compensating
+balances
+Cash separately
+classified as a deposit
+maintained as
+compensating balance
+Classify as current or non-current in the
+statement of financial position. Disclose
+separately in notes details of the
+arrangement.
+ILLUSTRATION 7.2 Classification of Cash-Related Items
+
+Evolving Issue
+What Counts for Cash?
+What to include in the cash balance has been the subject of debate. As we have
+learned, companies report both cash and cash equivalents as cash on their
+statements of financial position. For balances not reported in cash but which need
+to be available on relatively short notice to pay for inventory, employees, or other
+expenses, companies have a variety of parking places. As shown in the adjacent
+chart, companies plow the largest portion of their cash holdings into corporate
+debt. As indicated, corporate debt is the parking place of choice, followed by U.S.
+Treasury and agency debt. Surveyed corporate treasurers say that high-grade
+corporate bonds are preferred because they are reasonably safe while providing a
+greater yield premium relative to Treasury securities. Seems like a good strategy
+as long as the corporate issuers can make their payments. However, if the
+economy takes a downturn, similar to investments in auction-rate notes, these
+investments may not be true cash equivalents.
+What about cryptocurrencies, such as Bitcoin? These currencies are generating a
+significant amount of press given their rapid increases in value and extreme
+volatility. Because of this volatility, the value of Bitcoin in circulation has recently
+fluctuated between $100 and $300 billion. Cryptocurrency—despite its name—is
+not accounted for as currency and is not included in cash and cash equivalents.
+Various members of the international accounting community have begun to
+express their perspectives on the proper accounting for cryptocurrency holdings.
+Both the Australian and the Japanese standard-setting boards have expressed
+
+their opinions on this matter. Given that the current accounting and reporting
+framework does not contemplate cryptocurrencies, some are urging standard-
+setters and regulators to provide guidance by developing an accounting
+framework for cryptocurrency holdings, including the costs related to “mining”
+efforts.
+In June 2019, the International Financial Reporting Interpretations Committee
+(IFRIC) of the IASB issued a summary decision concluding that most holdings of
+cryptocurrency would properly be accounted for as intangible assets. The
+committee did note in its report that if a business, such as a cryptocurrency
+broker-dealer, held cryptocurrency for sale in the ordinary course of business,
+then it should be accounted for as inventory.
+Sources: J. Willhite, “Companies Park Cash in Corporate Debt,” Wall Street Journal (December 4, 2012);
+and IFRIC Update (June 2019).
+Receivables
+LEARNING OBJECTIVE 2
+Define receivables and explain accounting issues related to their recognition.
+Receivables (often referred to as loans and receivables) are claims held against
+customers and others for money, goods, or services. An example of a loan is a
+financial institution like HSBC (GBR) providing funds to Fiat (ITA). An example of a
+receivable is a company like Airbus (FRA) recording an account receivable when it
+sells an airplane on account to All Nippon Airways Co. Ltd. (JPN). For purposes of
+discussion, we will simply use the term receivables to mean loans and receivables.
+For financial statement purposes, companies classify receivables as either current
+(short-term) or non-current (long-term). Companies expect to collect current
+receivables within a year or during the current operating cycle, whichever is longer.
+They classify all other receivables as non-current. Receivables are further classified
+in the statement of financial position as either trade or non-trade receivables.
+Customers often owe a company amounts for goods bought or services rendered. A
+company may subclassify these trade receivables, usually the most significant item
+in its current assets, into accounts receivable and notes receivable. Accounts
+receivable are oral promises of the purchaser to pay for goods and services sold.
+They represent “open accounts” resulting from short-term extensions of credit. A
+company normally collects them within 30 to 60 days. Notes receivable are written
+promises to pay a certain sum of money on a specified future date. They may arise
+from sales, financing, or other transactions. Notes may be short-term or long-term.
+Non-trade receivables arise from a variety of transactions. Some examples of non-
+trade receivables are:
+
+1. Advances to officers and employees.
+2. Advances to subsidiaries.
+3. Deposits paid to cover potential damages or losses.
+4. Deposits paid as a guarantee of performance or payment.
+5. Dividends and interest receivable.
+6. Claims against:
+a. Insurance companies for casualties sustained.
+b. Defendants under suit.
+c. Governmental bodies for tax refunds.
+d. Common carriers for damaged or lost goods.
+e. Creditors for returned, damaged, or lost goods.
+f. Customers for returnable items (crates, containers, etc.).
+Because of the peculiar nature of non-trade receivables, companies generally report
+them as separate items in the statement of financial position. Illustration 7.3 shows
+the reporting of trade and non-trade receivables in the statements of financial
+position of Heineken (NLD) and Nokia (FIN).
+
+Heineken
+(in millions of €)
+Current assets
+Inventories
+Trade and other receivables
+Current tax assets
+Derivative assets
+Cash and cash equivalents
+Assets classified as held for sale
+Total current assets
+Nokia
+(in millions of €)
+Current assets
+Inventories
+Trade receivables
+Contract assets
+Prepaid expenses and accrued income
+Current income tax assets
+Other financial assets
+Current financial investments
+Cash and cash equivalents
+Total current assets
+ILLUSTRATION 7.3 Receivables Statement of Financial Position
+Presentations
+The basic issues in accounting for accounts and notes receivable are the same:
+recognition and valuation. We discuss these basic issues for accounts and notes
+receivable next.
+
+Recognition of Accounts Receivable
+As indicated, accounts receivable generally arise as part of a revenue arrangement. For
+example, if Lululemon Athletica, Inc. (CAN) sells a yoga outfit to Jennifer Burian
+for $100 on account, when does Lululemon recognize revenue (the sale) and the
+related accounts receivable? As indicated in Chapter 2, the revenue recognition
+principle indicates that Lululemon should recognize revenue when it satisfies its
+performance obligation by transferring the good or service to the customer. It follows
+that in the Lululemon situation, the yoga outfit is transferred when Jennifer obtains
+control of this outfit.
+When this change in control occurs, Lululemon should recognize an account
+receivable and sales revenue. Lululemon makes the following entry, assuming that
+$100 is the amount it expects to receive from Jennifer.
+Accounts Receivable 100
+Sales Revenue
+The concept of change of control is the deciding factor in determining when a
+performance obligation is satisfied and an account receivable recognized. Here are
+some key indicators used to determine that Lululemon has transferred and that
+Jennifer has obtained control of the yoga outfit.
+1. Lululemon has the right to payment from the customer. If Jennifer is
+obligated to pay, it indicates that control has passed to the customer.
+2. Lululemon has passed legal title to the customer. If Jennifer has legal title
+to the goods, it indicates that control has passed to the customer.
+3. Lululemon has transferred physical possession of the goods. If Jennifer
+has physical possession, it indicates that control has passed to the customer.
+4. Lululemon no longer has significant risks and rewards of ownership of
+the goods. If Jennifer now has the significant risks and rewards of ownership, it
+indicates that control has passed to the customer.
+5. Jennifer has accepted the asset.
+Measurement of the Transaction Price
+The transaction price is the amount of consideration that a company expects to
+receive from a customer in exchange for transferring goods or services. In the
+Lululemon case, the transaction price is easily determined because Jennifer Burian
+agrees to pay a fixed amount to Lululemon over a short period of time. However, in
+other situations, companies must take into account items such as variable
+consideration, which may affect the accounts receivable balance.
+Variable Consideration
+
+In some cases, the price of a good or service is dependent on future events. These
+future events often include such items as discounts, returns and allowances, rebates,
+and performance bonuses. Here are four items that affect the transaction price and
+thus the accounts receivable balance.
+Trade Discounts
+Prices may be subject to a trade or quantity discount. Companies use such trade
+discounts to avoid frequent changes in catalogs, to alter prices for different
+quantities purchased, or to hide the true invoice price from competitors.
+Trade discounts are commonly quoted in percentages. For example, say your cell
+phone has a list price of $90, and the manufacturer sells it to Best Buy (USA) for list
+less a 40 percent trade discount. The manufacturer then records the receivable at $54
+per phone. The manufacturer, per normal practice, simply deducts the trade discount
+from the list price and bills the customer net. As another example, assume Ryobi
+(JPN) sells a cordless drill with a suggested retail price of $99.99 to a retailer like
+Home Depot (USA) for $70, a trade discount of approximately 30 percent. Home
+Depot in turn sells the drill for $99.99. Ryobi records the accounts receivable and
+related sales revenue at $70, not $99.99.
+Cash Discounts (Sales Discounts)
+Companies offer cash discounts (sales discounts) to induce prompt payment.
+Cash discounts are generally presented in terms such as 2/10, n/30 (2 percent if paid
+within 10 days, gross amount due in 30 days), or 2/10, E.O.M., net 30, E.O.M. (2
+percent if paid any time by the tenth day of the following month, with full payment
+due by the thirtieth of the following month).
+Customers usually take sales discounts unless their cash is severely limited. Why? A
+customer that receives a 1 percent reduction in the sales price for payment within 10
+days, total payment due within 30 days, effectively earns 18.25 percent [.01 ÷ (20 ÷
+365)], or at least avoids that rate of interest cost.
+Companies should record accounts receivable and related revenue at the amount of
+consideration expected to be received from a customer. [5] For example, assume that
+Hanley Company sells goods for €10,000 to Murdoch Group with terms 2/10, net 30,
+and Hanley expects that the discount will be taken. As a result, Hanley records the
+accounts receivable and related sales revenue at its net price of €9,800. This approach
+is often referred to as the net method, as it attempts to value the receivable at its cash
+realizable value.
+If Murdoch fails to take the discount, then Hanley debits the discount not taken to
+accounts receivable and credits Sales Discounted Forfeited. Sales Discounts Forfeited
+is shown in the “Other income and expense” section of the income statement.2
+Theoretically, the net method is correct because the receivable is stated at cash
+realizable value (assuming estimates are correct) and the net sales measures the
+revenue recognized from the sale. However, many companies continue to use what is
+referred to as the gross method in recording the receivable and related sales.3
+
+If Hanley uses the gross method, it records the accounts receivable and related sales
+revenue at €10,000, not €9,800. Under the gross method, Hanley recognizes sales
+discounts when it receives payment within the discount period. Hanley’s income
+statement then shows sales discounts as a deduction from sales to arrive at net sales.
+The entries in Illustration 7.4 show the difference between the gross method and
+the net method.
+ILLUSTRATION 7.4 Entries under Gross and Net Methods of Recording
+Cash (Sales) Discounts
+We present the gross method because companies may not use the net method for
+practicability reasons. That is, the net method requires additional analysis and
+bookkeeping to record sales discounts forfeited on accounts receivable that have
+passed the discount period. If collection periods are relatively short, using either the
+gross or the net method results in the same amounts for revenues and receivables,
+which are equal to the transaction price. Any differences that arise are likely to be
+immaterial.
+Sales Returns and Allowances
+Another form of variable consideration relates to sales returns and allowances. For
+example, assume that Max Glass sells hurricane glasses to Oliver Builders. As part of
+the sales agreement, Max includes a provision that if Oliver is dissatisfied with the
+product, Max will grant an allowance on the sales price or agree to take the product
+back. As a result, Max should record the accounts receivable and related revenue at
+the amount of consideration expected to be received. The amount to be recorded will
+include an estimate of sales returns.
+To illustrate, assume that on January 4, 2022, Max sells $5,000 of hurricane glasses
+to Oliver on account. At the time of the sale, Max expects, based on past experience
+
+and current market conditions, that $400 of the hurricane glasses will be returned.
+Max records the sale on account and the estimated amount of the returns as follows.
+January 4, 2022
+Accounts Receivable 5,000
+Sales Revenue
+Return Liability
+On January 16, 2022, Max grants an allowance of $300 to Oliver because some of the
+hurricane glasses are defective. The entry to record this transaction is as follows.
+January 15, 2022
+Return Liability
+Accounts Receivable
+As a result of these transactions, Max reports net sales revenue on the income
+statement of $4,600, which is the amount Max expects to receive from Oliver from
+the sale of the glasses. In addition, Max reports on its statement of nancial position
+the total accounts receivable balance of $4,700 ($5,000 − $300) and an estimated
+return liability of $100 ($400 − $300). While the balances in the Accounts Receivable
+and Return Liability accounts are not netted against one another in the statement of
+financial position, the net amount of $4,600 represents the amount of cash that Max
+expects to receive from this sale.
+The use of the Return Liability account is helpful to management because it helps to
+identify potential problems associated with inferior merchandise, inefficiencies in
+filling orders, and delivery or shipment mistakes.4
+Time Value of Money
+Another variable consideration issue relates to the time value of money. Ideally, a
+company should measure receivables in terms of their present value, that is, the
+discounted value of the cash to be received in the future. When expected cash receipts
+require a waiting period, the receivable face amount is not worth the amount that the
+company ultimately receives.
+To illustrate, assume that Carrefour (FRA) makes a sale on account for €1,000 with
+payment due in four months. The applicable annual rate of interest is 12 percent, and
+payment is made at the end of four months. The present value of that receivable is not
+€1,000 but €961.54 (€1,000 × .96154). In other words, the €1,000 Carrefour receives
+four months from now is not the same as the €1,000 received today.
+Theoretically, any revenue after the period of sale is interest revenue. In practice,
+companies ignore interest revenue related to accounts receivable because the amount
+of the discount is not usually material in relation to the net income for the period (see
+Underlying Concepts). The profession specifically excludes from present value
+considerations “receivables arising from transactions with customers in the normal
+course of business which are due in customary trade terms not exceeding
+
+approximately one year.” [6] However, when receivables are longer lived, and
+therefore the financing component is significant, the amount originally recorded
+should be adjusted for the time value of money.
+Underlying Concepts
+Materiality means the information must make a difference to a decision-maker.
+The IASB believes that present value concepts can be ignored for short-term
+receivables.
+Valuation of Accounts Receivable
+LEARNING OBJECTIVE 3
+Explain accounting issues related to valuation of accounts receivable.
+As one revered accountant aptly noted, the credit manager’s idea of heaven probably
+would be a place where everyone (eventually) paid his or her debts.5 Unfortunately,
+this situation often does not occur. For example, a customer may not be able to pay
+because of a decline in its sales revenue due to a downturn in the economy. Similarly,
+individuals may be laid off from their jobs or faced with unexpected hospital bills.
+Companies record credit losses as debits to Bad Debt Expense (or Uncollectible
+Accounts Expense). Such losses are a normal and necessary risk of doing business on
+a credit basis.
+Two methods are used in accounting for uncollectible accounts: (1) the direct write-
+off method and (2) the allowance method. The following sections explain these
+methods.
+Direct Write-Off Method for Uncollectible Accounts
+Under the direct write-off method, when a company determines a particular
+account to be uncollectible, it charges the loss to Bad Debt Expense. Assume, for
+example, that on December 10, 2022, Cruz Ltd. writes off as uncollectible Yusado’s
+NT$8,000,000 balance. The entry is as follows.
+December 10, 2022
+Bad Debt Expense
+Accounts Receivable (Yusado)
+(To record write-off of Yusado account)
+Under this method, Bad Debt Expense will show only actual losses from
+uncollectibles. The company will report accounts receivable at its gross amount.
+
+Supporters of the direct write-off-method (which is often used for tax purposes)
+contend that it records facts, not estimates. It assumes that a good account receivable
+resulted from each sale, and that later events revealed certain accounts to be
+uncollectible and worthless. From a practical standpoint, this method is simple and
+convenient to apply. But the direct write-off method is theoretically deficient. It
+usually fails to record expenses as incurred and does not result in receivables being
+stated at cash realizable value on the statement of financial position. As a result,
+using the direct write-off method is not considered appropriate, except
+when the amount uncollectible is immaterial.
+Allowance Method for Uncollectible Accounts
+The allowance method of accounting for bad debts involves estimating
+uncollectible accounts at the end of each period. This ensures that companies state
+receivables on the statement of financial position at their cash realizable value. Cash
+realizable value is the net amount the company expects to receive in cash. At each
+financial statement date, companies estimate uncollectible accounts and cash
+realizable value using information about past and current events as well as forecasts
+of future collectibility. As a result, the statement of financial position reflects the
+current estimate of expected uncollectible account losses at the reporting date, and
+the income statement reflects the effects of credit deterioration (or improvement)
+that has taken place during the period.
+Many companies set their credit policies to provide for a certain percentage of
+uncollectible accounts. (In fact, many feel that failure to reach that percentage means
+that they are losing sales due to overly restrictive credit policies.) Thus, the IASB
+requires the allowance method for financial reporting purposes when bad debts are
+material in amount. This method has three essential features:
+1. Companies estimate uncollectible accounts receivable and compare the new
+estimate to the current balance in the allowance account.
+2. Companies debit estimated increases in uncollectibles to Bad Debt Expense and
+credit them to Allowance for Doubtful Accounts (a contra asset account) through
+an adjusting entry at the end of each period.
+3. When companies write off a specific account, they debit actual uncollectibles to
+Allowance for Doubtful Accounts and credit that amount to Accounts Receivable.
+Recording Estimated Uncollectibles
+To illustrate the allowance method, assume that in 2022, its first year of operations,
+Brown Furniture has credit sales of £1,800,000. Of this amount, £150,000 remains
+uncollected at December 31. The credit manager estimates that £10,000 of these sales
+will be uncollectible. The adjusting entry to record the estimated uncollectibles
+(assuming a zero balance in the allowance account) is:
+December 31, 2022
+
+Bad Debt Expense
+Allowance for Doubtful Accounts
+(To record estimate of uncollectible accounts)
+Brown reports Bad Debt Expense in the income statement as an operating expense.
+Thus, Brown records the increased estimated uncollectibles as bad debt expense in the
+period of credit deterioration.
+As Illustration 7.5 shows, the company deducts the allowance account from
+accounts receivable in the current assets section of the statement of financial
+position.
+Brown Furniture 
+Statement of Financial Position (partial)
+Current assets
+Prepaid insurance
+Inventory
+Accounts receivable
+Less: Allowance for doubtful accounts
+Cash
+Total current assets
+ILLUSTRATION 7.5 Presentation of Allowance for Doubtful Accounts
+Allowance for Doubtful Accounts shows the estimated amount of claims on
+customers that the company expects it will not collect in the future.6 Companies use a
+contra account instead of a direct credit to Accounts Receivable because they do not
+know which customers will not pay. The credit balance in the allowance account will
+absorb the specific write-offs when they occur. The amount of £140,000 in
+Illustration 7.5 represents the cash realizable value of the accounts receivable at
+the statement date. Companies do not close Allowance for Doubtful Accounts
+at the end of the fiscal year.
+Recording the Write-Off of an Uncollectible Account
+When companies have exhausted all means of collecting a past-due account and
+collection appears impossible, the company should write off the account. In the credit
+card industry, for example, it is standard practice to write off accounts that are 210
+days past due.
+To illustrate a receivables write-off, assume that the financial vice president of Brown
+Furniture authorizes a write-off of the £1,000 balance owed by Randall plc on March
+1, 2023. The entry to record the write-off is:
+March 1, 2023
+Allowance for Doubtful Accounts
+
+Accounts Receivable (Randall plc)
+(Write-off of Randall plc account)
+Bad Debt Expense does not increase when the write-off occurs. Under the
+allowance method, companies debit every bad debt write-off to the
+allowance account rather than to Bad Debt Expense. A debit to Bad Debt
+Expense would be incorrect because the company has already recognized the expense
+when it made the adjusting entry for estimated bad debts. Instead, the entry to record
+the write-off of an uncollectible account reduces both Accounts Receivable and
+Allowance for Doubtful Accounts.
+Recovery of an Uncollectible Account
+Occasionally, a company collects from a customer after it has written off the account
+as uncollectible. The company makes two entries to record the recovery of a bad debt:
+(1) It reverses the entry made in writing off the account. This reinstates the
+customer’s account. (2) It records the collection in the usual manner.
+To illustrate, assume that on July 1, 2023, Randall plc pays the £1,000 amount that
+Brown Furniture had written off on March 1. These are the entries:
+July 1, 2023
+Accounts Receivable (Randall plc)
+Allowance for Doubtful Accounts
+(To reverse write-off of account)
+Cash
+Accounts Receivable (Randall plc)
+(Collection of account)
+Note that the recovery of a bad debt, like the write-off of a bad debt, affects only
+statement of financial position accounts. The net effect of the two entries above
+is a debit to Cash and a credit to Allowance for Doubtful Accounts for £1,000.7
+Estimating the Allowance
+To simplify the preceding explanation, we assumed we knew the amount of the
+expected uncollectibles. In “real life,” companies must estimate that amount when
+they use the allowance method. As indicated, expected uncollectible accounts are
+estimated based on information about past events (loss experience), adjusted for
+current conditions and reasonable forecasts of factors that would affect uncollectible
+accounts. While much judgment is involved, the goal is to develop the best estimate of
+expected uncollectible receivables.8
+For example, a company can estimate the percentage of its outstanding receivables
+that will become uncollectible, without identifying specific accounts. This procedure
+provides a reasonably accurate estimate of the receivables’ realizable value. Hence, it
+is referred to as the percentage-of-receivables approach.9
+
+Companies may apply this method using one composite rate that reflects an
+estimate of the uncollectible receivables. Or, companies may set up an aging
+schedule of accounts receivable, which applies a different percentage based on past
+experience to the various age categories. An aging schedule also identifies which
+accounts require special attention by indicating the extent to which certain accounts
+are past due. The schedule of Wilson & Co. in Illustration 7.6 is an example.
+Wilson reports bad debt expense of €26,610 for this year, assuming that no balance
+existed in the allowance account.10
+To change the illustration slightly, assume that the allowance account had a
+credit balance of €800 before adjustment. In this case, Wilson adds €25,810
+(€26,610 − $800) to the allowance account and makes the following entry.
+Bad Debt Expense
+Allowance for Doubtful Accounts
+Wilson & Co.
+Aging Schedule
+Name of
+Customer
+Balance
+Dec. 31
+Under 30
+days
+30–60
+days
+61–90
+days
+91–120
+days
+Over 120
+days
+Western Stainless
+Steel
+Brockway Steel
+Freeport Sheet &
+Tube
+Allegheny Iron
+Works
+Age
+Amount
+Percentage Estimated to Be
+Uncollectible*
+Required Balance in
+Allowance
+Under 30 days €345,000
+30–60 days
+61–90 days
+91–120 days
+Over 120 days
+Year-end balance of allowance for doubtful accounts
+* Estimates are based on historical loss rates, taking into consideration whether and, if so, how the historical loss
+rates differ from what is currently expected over the life of the trade receivables (on the basis of current conditions
+and reasonable and supportable forecasts about the future).
+ILLUSTRATION 7.6 Accounts Receivable Aging Schedule
+
+Wilson therefore states the balance in the allowance account at €26,610. If the
+Allowance for Doubtful Accounts balance before adjustment had a debit
+balance of €200, then Wilson records bad debt expense of €26,810 (€26,610
+desired balance + €200 debit balance). In the percentage-of-receivables method,
+Wilson cannot ignore the balance in the allowance account because the percentage is
+related to a real account (Accounts Receivable).
+Companies do not prepare an aging schedule only to determine bad debt expense.
+They often prepare it as a control device to determine the composition of receivables
+and to identify delinquent accounts. In the Wilson example, the aging analysis was
+used to classify receivables according to a risk factor (days past due) that is related to
+the collectibility of the receivables. Other approaches are acceptable as long as the
+estimation techniques are applied consistently over time with the objective of
+faithfully estimating expected uncollectible accounts. [7] For example, a company
+may use historical loss ratios for customers with different credit ratings as a basis for
+estimating uncollectible accounts. Or, a company may utilize a probability-weighted
+discounted cash flow model (as illustrated in Chapter 6) to estimate expected credit
+losses. The discounted cash flow approach is generally appropriate when analyzing an
+individual loan or receivable.
+Regardless of the estimation approach used, determining the expense associated with
+uncollectible accounts requires a large degree of judgment (see Underlying
+Concepts). Recent concern exists that some banks use this judgment to manage
+earnings. By overestimating the amounts of uncollectible loans in a good earnings
+year, the bank can “save for a rainy day” in a future period. In less-profitable periods,
+banks can reduce the overly conservative allowance for loan loss account to increase
+earnings.11
+Underlying Concepts
+The primary objective for financial statement purposes is to report receivables in
+the statement of financial position at cash realizable value. The allowance for
+doubtful accounts as a percentage of receivables will vary, depending on the
+industry and the economic climate.
+Notes Receivable
+LEARNING OBJECTIVE 4
+Explain accounting issues related to recognition and valuation of notes receivable.
+A note receivable is supported by a formal promissory note, a written promise to
+pay a certain sum of money at a specific future date. Such a note is a negotiable
+instrument that a maker signs in favor of a designated payee who may legally and
+readily sell or otherwise transfer the note to others. Although all notes contain an
+
+interest element because of the time value of money, companies classify them as
+interest-bearing or non-interest-bearing. Interest-bearing notes have a stated rate
+of interest. Zero-interest-bearing notes (non-interest-bearing) include interest as
+part of their face amount. Notes receivable are considered fairly liquid, even if long-
+term, because companies can easily convert them to cash (although they might pay a
+fee to do so).
+Companies frequently accept notes receivable from customers who need to extend the
+payment period of an outstanding receivable. Or they require notes from high-risk or
+new customers. In addition, companies often use notes in loans to employees and
+subsidiaries, and in the sales of property, plant, and equipment. In some industries
+(e.g., the pleasure and sport boat industry), notes support all credit sales. The majority
+of notes, however, originate from lending transactions. The basic issues in accounting
+for notes receivable are the same as those for accounts receivable: recognition,
+valuation, and derecognition.
+Recognition of Notes Receivable
+Companies record and report long-term notes receivable at the present value of the
+cash they expect to collect. When the interest stated on an interest-bearing note
+equals the effective (market) rate of interest, the note is recorded at face value.12
+When the stated rate differs from the market rate, the cash exchanged (present value)
+differs from the face value of the note. Companies then record this difference, either a
+discount or a premium, and amortize it over the life of a note to approximate the
+effective (market) interest rate. This illustrates one of the many situations in which
+time value of money concepts are applied to accounting measurement.
+Note Issued at Face Value
+To illustrate the discounting of a note issued at face value, assume that Bigelow SA
+lends Scandinavian Imports €10,000 in exchange for a €10,000, three-year note
+bearing interest at 10 percent annually. The market rate of interest for a note of
+similar risk is also 10 percent. We show the time diagram depicting both cash flows in
+Illustration 7.7.
+ILLUSTRATION 7.7 Time Diagram for Note Issued at Face Value
+Bigelow computes the present value or exchange price of the note as shown in
+Illustration 7.8.
+
+Face value of the note
+Present value of the principal:
+€10,000 (PVF3,10%) = €10,000 × .75132
+Present value of the interest:
+€1,000 (PVF-OA3,10%) = €1,000 × 2.48685
+Present value of the note
+Difference
+€  –0–
+ILLUSTRATION 7.8 Present Value of Note—Stated and Market Rates the
+Same
+In this case, the present value of the note equals its face value because the market
+(effective) and stated rates of interest are the same. Bigelow records the receipt of the
+note as follows.
+Notes Receivable 10,000
+Cash
+Bigelow recognizes interest revenue each year as follows.
+Cash
+Interest Revenue
+Note Not Issued at Face Value
+
+Zero-Interest-Bearing Notes
+If a company receives a zero-interest-bearing note, its present value is the cash paid to
+the issuer. Because the company knows both the future amount and the present value
+of the note, it can compute the interest rate. This rate is often referred to as the
+implicit interest rate. Companies record the difference between the future (face)
+amount and the present value (cash paid) as a discount and amortize it to interest
+revenue over the life of the note.
+To illustrate, Jeremiah Company receives a three-year, $10,000 zero-interest-bearing
+note, the present value of which is $7,721.80. The implicit rate that equates the total
+cash to be received ($10,000 at maturity) to the present value of the future cash flows
+($7,721.80) is 9 percent (the present value of 1 for three periods at 9 percent is
+.77218). We show the time diagram depicting the one cash flow in Illustration 7.9.
+ILLUSTRATION 7.9 Time Diagram for Zero-Interest-Bearing Note
+Jeremiah records the note receivable for the present value ($7,721.80), as follows.
+Notes Receivable 7,721.80
+Cash
+Companies amortize the discount, and recognize interest revenue annually using the
+effective-interest method. Illustration 7.10 shows the three-year discount
+amortization and interest revenue schedule.
+
+Schedule of Note Discount Amortization
+Effective-Interest Method
+0% Note Discounted at 9%
+Cash
+Received
+Interest
+Revenue
+Discount
+Amortized
+Carrying Amount of
+Note
+Date of
+issue
+End of year
+$ –0–
+$ 694.96a
+$ 694.96b
+8,416.76c
+End of year
+–0–
+End of year
+–0–
+825.73d
+$ –0–
+a$7,721.80 × .09 = $694.96
+b$694.96 − $0 = $694.96
+c$7,721.80 + $694.96 = $8,416.76
+d5¢ adjustment to compensate for rounding
+ILLUSTRATION 
+Discount 
+Amortization 
+Schedule—Effective-
+Interest Method
+Jeremiah records interest revenue at the end of the first year using the effective-
+interest method as follows.
+
+Notes Receivable
+Interest Revenue ($7,721.80 × .09)
+At the end of the year, Jeremiah increases notes receivable and interest revenue. At
+maturity, Jeremiah receives the face value of the note.
+Interest-Bearing Notes
+Often the stated rate and the effective rate differ. The zero-interest-bearing note is
+one example.
+To illustrate a more common situation, assume that Morgan Group makes a loan to
+Marie Co. and receives in exchange a three-year, €10,000 note bearing interest at 10
+percent annually. The market rate of interest for a note of similar risk is 12 percent.
+We show the time diagram depicting both cash flows, with interest paid annually in
+Illustration 7.11.
+ILLUSTRATION 7.11 Time Diagram for Interest-Bearing Note
+Morgan computes the present value of the two cash flows as shown in Illustration
+Face value of the note
+Present value of the principal:
+€10,000 (PVF3,12%) = €10,000 × .71178
+Present value of the interest:
+€1,000 (PVF-OA3,12%) = €1,000 × 2.40183 2,402
+Present value of the note
+Difference (Discount)
+€ 
+ILLUSTRATION 7.12 Computation of Present Value—Effective Rate
+Different from Stated Rate
+In this case, because the effective rate of interest (12 percent) exceeds the stated rate
+(10 percent), the present value of the note is less than the face value. That is, Morgan
+exchanged the note at a discount. Morgan records the present value of the note as
+follows.
+
+Notes Receivable 9,520
+Cash
+Morgan then amortizes the discount and recognizes interest revenue annually using
+the effective-interest method. Illustration 7.13 shows the three-year discount
+amortization and interest revenue schedule.
+Schedule of Note Discount Amortization 
+Effective-Interest Method 
+10% Note Discounted at 12%
+Cash
+Received
+Interest
+Revenue
+Discount
+Amortized
+Carrying Amount of
+Note
+Date of
+issue
+End of year
+€1,000a
+€1,142b
+€142c
+9,662d
+End of year
+End of year
+a€10,000 × .10 = €1,000
+b€9,520 × .12 = €1,142
+c€1,142 − €1,000 = €142
+d€9,520 + €142 = €9,662
+ILLUSTRATION 
+Discount 
+Amortization 
+Schedule—Effective-
+Interest Method
+On the date of issue, the note has a present value of €9,520. Additional interest
+revenue spread over the three-year life of the note, as a result, is €480 (€10,000 −
+At the end of year 1, Morgan receives €1,000 in cash. But its interest revenue is €1,142
+(€9,520 × .12). The difference between €1,000 and €1,142 is the amortized discount,
+€142. Morgan records receipt of the annual interest and amortization of the discount
+for the first year as follows (amounts per amortization schedule).
+Cash
+Notes Receivable
+Interest Revenue
+
+The carrying amount of the note is now €9,662 (€9,520 + €142). Morgan repeats this
+process until the end of year 3.
+When the present value exceeds the face value, the note is exchanged at a premium.
+Companies record the premium on a note receivable as a debit and amortize it using
+the effective-interest method over the life of the note as annual reductions in the
+amount of interest revenue recognized.
+Notes Received for Property, Goods, or Services
+When a note is received in exchange for property, goods, or services in a
+bargained transaction entered into at arm’s length, the stated interest rate is
+presumed to be fair unless one of the following occurs.
+1. No interest rate is stated.
+2. The stated interest rate is unreasonable.
+3. The face amount of the note is materially different from the current cash sales
+price for the same or similar items or from the current fair value of the debt
+instrument.
+In these circumstances, the company measures the present value of the note by the
+fair value of the property, goods, or services or by an amount that reasonably
+approximates the fair value of the note.
+To illustrate, Oasis Development Co. sold a corner lot to Rusty Pelican as a restaurant
+site. Oasis accepted in exchange a five-year note having a maturity value of $35,247
+and no stated interest rate. The land originally cost Oasis $14,000. At the date of sale,
+the land had a fair value of $20,000. Given the criterion above, Oasis uses the fair
+
+value of the land, $20,000, as the present value of the note. Oasis therefore records
+the sale as:
+Notes Receivable
+Land
+Gain on Disposal of Land ($20,000 − $14,000)
+Oasis amortizes the discount to interest revenue over the five-year life of the note
+using the effective-interest method.
+Choice of Interest Rate
+In note transactions, other factors involved in the exchange, such as the fair value of
+the property, goods, or services, determine the effective or real interest rate. But, if a
+company cannot determine that fair value because the note has no ready market,
+determining the present value of the note is more difficult. To estimate the present
+value of a note under such circumstances, the company must approximate an
+applicable interest rate that may differ from the stated interest rate. This process of
+interest-rate approximation is called imputation. The resulting interest rate is called
+an imputed interest rate.
+The prevailing rates for similar instruments, from issuers with similar credit ratings,
+affect the choice of a rate. Restrictive covenants, collateral, payment schedule, and the
+existing prime interest rate also impact the choice. A company determines the
+imputed interest rate when it receives the note. It ignores any subsequent changes in
+prevailing interest rates.
+Valuation of Notes Receivable
+Like accounts receivable, companies record and report short-term notes receivable at
+their cash realizable value—that is, at their face amount less all necessary allowances.
+The primary notes receivable allowance account is Allowance for Doubtful Accounts.
+The computations and estimations involved in valuing short-term notes receivable
+and in recording bad debt expense and the related allowance exactly parallel that
+for trade accounts receivable. Companies estimate the amount of uncollectibles
+by an analysis of the receivables. As discussed earlier (see footnote 8), receivables
+with a significant financing component (such as long-term notes) involve additional
+estimation problems. As a result, the IASB has established guidelines for alternative
+approaches that could be used to estimate impairments of financial instruments,
+which we discuss in Chapter 17.
+Other Issues Related to Receivables
+LEARNING OBJECTIVE 5
+Explain additional accounting issues related to accounts and notes receivables.
+
+Additional issues related to receivables are:
+1. Derecognition of receivables.
+2. Presentation and analysis.
+Derecognition of Receivables
+At what point should a receivable no longer be included as an asset of a company like
+Unilever (NLD)—that is, derecognized? One situation occurs when the receivable
+no longer has any value; that is, the contractual rights to the cash flows of the
+receivable no longer exist. For example, if Unilever has a receivable from a customer
+who declares bankruptcy, the value of this receivable has expired. Similarly, when
+Unilever collects a receivable when due, it removes this receivable from its books. In
+both cases, Unilever no longer has any contractual rights to these receivables. As a
+result, the receivables are derecognized.
+A second situation often occurs if Unilever transfers (e.g., sells) a receivable to
+another company, thereby transferring the risks and rewards of ownership to this
+other company. As an example, if Garcia Company sells its receivables to Holt Inc. and
+transfers all the risks and rewards of ownership to Holt, the receivables are
+derecognized. Although this guideline is straightforward, it is sometimes difficult to
+assess whether some or all of the risks and rewards of ownership are transferred. The
+following discussion highlights the key issues related to transfers of receivables.
+Transfers of Receivables
+There are various reasons for the transfer of receivables to another party. For
+example, in order to accelerate the receipt of cash from receivables, companies may
+transfer receivables to other companies for cash. In addition, for competitive reasons,
+providing sales financing for customers is virtually mandatory in many industries. In
+the sale of durable goods, such as automobiles, trucks, industrial and farm equipment,
+computers, and appliances, most sales are on an installment contract basis. Many
+major companies in these industries have created wholly owned subsidiaries
+specializing in receivables financing. For example, Daimler (DEU) has Daimler
+Truck Financial (DEU), and Toyota (JPN) has Toyota Motor Credit (JPN).
+Second, the holder may sell receivables because money is tight and access to normal
+credit is unavailable or too expensive. Also, a firm may sell its receivables, instead of
+borrowing, to avoid violating existing lending agreements.
+Finally, billing and collection of receivables are often time-consuming and costly.
+Credit card companies such as MasterCard, Visa and American Express take
+over the collection process and provide merchants with immediate cash.
+Conversely, some purchasers of receivables buy them to obtain the legal protection
+of ownership rights afforded a purchaser of assets versus the lesser rights afforded a
+secured creditor. In addition, banks and other lending institutions may need to
+
+purchase receivables because of legal lending limits. That is, they cannot make any
+additional loans, but they can buy receivables and charge a fee for this service.
+The transfer of receivables to a third party for cash happens in one of two ways:
+1. Sale of receivables.
+2. Secured borrowing.
+Sales of Receivables
+Sales of receivables have increased substantially in recent years. A common type is a
+sale to a factor. Factors are finance companies or banks that buy receivables from
+businesses for a fee and then collect the remittances directly from the customers.
+Factoring receivables is traditionally associated with the textile, apparel, footwear,
+furniture, and home furnishing industries.13 Illustration 7.14 shows a typical
+factoring arrangement.
+ILLUSTRATION 7.14 Basic Procedures in Factoring
+Sale without Guarantee
+When buying receivables, the purchaser generally assumes the risk of collectibility
+and absorbs any credit losses. A sale of this type is often referred to as a sale without
+guarantee (without recourse) against credit loss. The transfer of receivables in
+this case is an outright sale of the receivables both in form (transfer of title) and
+substance (transfer of risks and rewards). As in any sale of assets, the seller debits
+Cash for the proceeds and credits Accounts Receivable for the face value of the
+receivables. The seller recognizes the difference, reduced by any provision for
+probable adjustments (discounts, returns, allowances, etc.), as a Loss on Sale of
+Receivables. The seller uses a Due from Factor account (reported as a receivable) to
+
+account for the proceeds retained by the factor to cover probable sales discounts, sales
+returns, and sales allowances.
+To illustrate, Crest Textiles factors €500,000 of accounts receivable with Commercial
+Factors on a non-guarantee (or without recourse) basis. Crest Textiles transfers
+the receivable records to Commercial Factors, which will receive the collections.
+Commercial Factors assesses a finance charge of 3 percent of the amount of accounts
+receivable and retains an amount equal to 5 percent of the accounts receivable (for
+probable adjustments). Crest Textiles and Commercial Factors make journal entries
+for the receivables transferred without guarantee as shown in Illustration 7.15.
+Crest Textiles
+Commercial Factors
+Cash
+Accounts (Notes)
+Receivable
+Due from Factor
+25,000*
+Due to Customer
+(Crest Textiles)
+Loss on Sale of
+Receivables
+15,000**
+Interest Revenue
+Accounts (Notes)
+Receivable
+Cash
+*(.05 × €500,000)
+**(.03 × €500,000)
+ILLUSTRATION 7.15 Entries for Sale of Receivables without Guarantee
+In recognition of the sale of receivables, Crest Textiles records a loss of €15,000. The
+factor’s net income will be the difference between the interest (financing) revenue of
+€15,000 and the amount of any uncollectible receivables.
+Sale with Guarantee
+To illustrate a sale with guarantee (with recourse), in which a purchaser of
+receivables has protection against credit losses, assume that Crest Textiles issues a
+guarantee to Commercial Factors to compensate Commercial Factors for any credit
+losses on receivables transferred. In this situation, the question is whether the risks
+and rewards of ownership are transferred to Commercial Factors or remain with Crest
+Textile. In other words, is it to be accounted for as a sale or a borrowing?
+In this case, given that there is a guarantee for all defaults, it appears that the risks
+and rewards of these receivables still remain with Crest Textiles. As a result, the
+transfer is considered a borrowing—sometimes referred to as a failed sale. Crest
+Textiles continues to recognize the receivable on its books, and the transaction is
+treated as a borrowing.14
+Assuming the same information as in Illustration 7.15, the journal entries for both
+Crest Textiles and Commercial Factors are shown in Illustration 7.16.
+
+Crest Textiles
+Commercial Factors
+Cash
+Accounts (Notes)
+Receivable
+Due from Factor
+Due to Customer
+Finance Charge
+(Crest Textiles)
+Recourse
+Liability
+Interest Revenue
+Cash
+ILLUSTRATION 7.16 Sale with Guarantee
+In this case, Crest Textiles records a liability to Commercial Factors. Commercial
+Factors records an accounts receivable from Crest Textiles. The accounting for a failed
+sale is similar to that for a secured borrowing. As the transferred receivables are
+collected, the Recourse Liability account on the books of Crest Textiles is reduced.
+Similarly, on the books of Commercial Factors, the accounts receivable from Crest
+Textiles is also reduced.
+Secured Borrowing
+A company often uses receivables as collateral in a borrowing transaction. In fact, a
+creditor often requires that the debtor designate (assign) or pledge15 receivables as
+security for the loan. If the loan is not paid when due, the creditor can convert the
+collateral to cash—by collecting the receivables.
+To illustrate, on March 1, 2022, Meng Mills provides (assigns) NT$700,000 of its
+accounts receivable to Sino Bank as collateral for a NT$500,000 note. Meng Mills
+continues to collect the accounts receivable; the account debtors are not notified of
+the arrangement. Sino Bank assesses a finance charge of 1 percent of the accounts
+receivable and interest on the note of 12 percent. Meng Mills makes monthly
+payments to the bank for all cash it collects on the receivables. Illustration 7.17
+shows the entries for the secured borrowing for Meng Mills and Sino Bank.
+
+ILLUSTRATION 7.17 Entries for Transfer of Receivables—Secured
+Borrowing
+In addition to recording the collection of receivables, Meng Mills must recognize all
+discounts, returns and allowances, and bad debts. Each month, Meng Mills uses the
+proceeds from the collection of the accounts receivable to retire the note obligation.
+In addition, it pays interest on the note.16
+Summary of Transfers
+The IASB uses the term derecognition when referring to the accounting for
+transfers of receivables. According to the IASB, determining whether receivables that
+are transferred can be derecognized and accounted for as a sale is based on an
+evaluation of whether the seller has transferred substantially all the risks and rewards
+of ownership of the financial asset. Illustration 7.18 summarizes the accounting
+guidelines for transfers of receivables. [9]
+
+ILLUSTRATION 7.18 Accounting for Transfers of Receivables
+As indicated, if substantially all the risks and rewards of ownership of the receivable
+are transferred, then it is derecognized. However, if substantially all of the risks and
+rewards are not transferred, then the company treats the transfer as a secured
+borrowing. If sale accounting is appropriate, a company must still consider assets
+obtained and liabilities incurred in the transaction (e.g., a guarantee).17
+Presentation and Analysis
+Presentation of Receivables
+The general rules in classifying receivables are: [10]
+1. Segregate and report the carrying amounts of the different categories of
+receivables.
+2. Indicate the receivables classified as current and non-current in the statement of
+financial position.
+3. Appropriately offset the valuation accounts for receivables that are impaired,
+including a discussion of individual and collectively determined impairments.
+4. Disclose the fair value of receivables in a way that permits comparisons with the
+carrying amount of the receivables.
+5. Disclose information to assess the credit risk inherent in the receivables by
+providing information on:
+a. Receivables that are neither past due nor impaired.
+
+b. The carrying amount of receivables that would otherwise be past due or
+impaired, but whose terms have been renegotiated.
+c. For receivables that are either past due or impaired, provide an analysis of
+the age of the receivables that are past due as of the end of the reporting
+period.
+6. Disclose any receivables pledged as collateral.
+7. Disclose all significant concentrations of credit risk arising from receivables.18
+The assets section of Colton AG’s statement of financial position in Illustration 7.19
+shows many of the disclosures required for receivables.
+Analysis of Receivables
+Accounts Receivable Turnover
+Analysts frequently compute financial ratios to evaluate the liquidity of a company’s
+accounts receivable. To assess the liquidity of the receivables, they use the accounts
+receivable turnover. This ratio measures the number of times, on average, a
+company collects receivables during the period. The ratio is computed by dividing net
+sales by average (net) receivables outstanding during the year. Theoretically, the
+numerator should include only net credit sales, but this information is frequently
+unavailable. However, if the relative amounts of credit and cash sales remain fairly
+constant, the trend indicated by the ratio will still be valid. Barring significant
+seasonal factors, average receivables outstanding can be computed from the beginning
+and ending balances of net trade receivables.
+To illustrate, Louis Vuitton (LVMH Group) (FRA) recently reported net sales of
+€35,664 million. Its beginning and ending (net) accounts receivable balances were
+€2,274 million and €2,521 million, respectively. Illustration 7.20 shows the
+computation of its accounts receivable turnover.
+This information19 shows how successful the company is in collecting its outstanding
+receivables (see Underlying Concepts). If possible, an aging schedule should also
+be prepared to help determine how long receivables have been outstanding. A
+satisfactory accounts receivable turnover may have resulted because certain
+receivables were collected quickly though others have been outstanding for a
+relatively long period. An aging schedule would reveal such patterns.
+Underlying Concepts
+Providing information that will help users assess a company’s current liquidity
+and prospective cash flows is a primary objective of accounting.
+Often, the accounts receivable turnover is transformed to days to collect accounts
+receivable or days outstanding—an average collection period. In this case, 14.9 is
+
+divided into 365 days, resulting in 24.5 days. Companies frequently use the average
+collection period to assess the effectiveness of their credit and collection policies. The
+general rule is that the average collection period should not greatly exceed the credit
+term period. That is, if customers are given a 60-day period for payment, then the
+average collection period should not be too much in excess of 60 days.
+ILLUSTRATION 7.19 Disclosure of Receivables
+
+= Accounts Receivable Turnover
+= 14.9 times, or every 24.5 days (365 ÷ 14.9)
+ILLUSTRATION 7.20 Computation of Accounts Receivable Turnover
+Net Sales
+Average Trade Receivables (net)
+(€2, 274 + €2, 521) ÷ 2
+
+What Do the Numbers Mean?
+Securitizations—Good or Bad?
+A popular form of sale (transfer) of receivables is securitization. Securitization
+takes a pool of assets, such as credit card receivables, mortgage receivables, or car
+loan receivables, and sells shares in these pools of interest and principal
+payments. This, in effect, creates securities backed by these pools of assets.
+Virtually every asset with a payment stream and a long-term payment history is a
+candidate for securitization. What are the differences between factoring and
+securitization? Factoring usually involves sale to only one company, fees are high,
+the quality of the receivables is low, and the seller afterward does not service the
+receivables. In a securitization, many investors are involved, margins are tight,
+the receivables are of generally higher quality, and the seller usually continues to
+service the receivables.
+Securitizations can be a positive force in the mortgage market by increasing
+liquidity that banks need for mortgage lending. This improved accounting
+supports positive outcomes from securitizations in the mortgage market.
+However, securitizations got a black eye in the booming mortgage market leading
+up to the financial crisis of 2008. In that setting, mortgage loans to high-risk
+(subprime) borrowers were securitized with lenders selling the loans to
+investment banks or trusts (special purpose entities) at a gain. Investors in the
+securities issued by the trusts were happy because they earned a return that they
+believed was excellent, given the risk they took. However, due to lax regulatory
+oversight of the mortgage lending process, many of the securitizations resulted in
+lenders having to take back the loans when subprime borrowers could not make
+the payments as the economy and the housing market slowed.
+The costs of these bad securitizations were still being felt by banks several years
+after the mortgage market meltdown. The moral of the story is that accounting
+matters. Lenders had strong incentives to want to report upfront gains on sales of
+loans. But, in most cases, these gains should never have been booked. Standard-
+setters have since issued new rules to tighten up “gain-on-sale” accounting for
+securitizations and loan losses. With these new rules, lenders have to keep the
+loans on their statements of financial position. Under these conditions, lenders
+would be much less likely to lend so much money to individuals with poor credit
+ratings.
+Sources: M. Hudson, “How Wall Street Stoked the Mortgage Meltdown,” Wall Street Journal (June 27,
+2007), p. A10; Associated Press, “Legal Costs Weigh Down U.S. Banks Earnings,” The New York Times
+(February 24, 2015); and B. Conerly, “Why Borrowers Need Securitization,” Forbes (June 5, 2018).
+APPENDIX 7A Cash Controls
+
+LEARNING OBJECTIVE *6
+Explain common techniques employed to control cash.
+Cash is the asset most susceptible to improper diversion and use. Management faces
+two problems in accounting for cash transactions: (1) to establish proper controls to
+prevent any unauthorized transactions by officers or employees, and (2) to provide
+information necessary to properly manage cash on hand and cash transactions. Yet,
+even with sophisticated control devices, errors can and do happen. For example, the
+Wall Street Journal ran a story entitled “A $7.8 Million Error Has a Happy Ending for
+a Horrified Bank.” The story described how Manufacturers Hanover Trust Co.
+(USA) mistakenly overpaid about $7.8 million in cash dividends to its shareholders.
+(As implied in the headline, most shareholders returned the monies.)
+To safeguard cash and to ensure the accuracy of the accounting records for cash,
+companies need effective internal control over cash. For example, in the United
+States, provisions of the Sarbanes-Oxley Act call for enhanced efforts to increase the
+quality of internal control (for cash and other assets). Such efforts are expected to
+result in improved financial reporting. In this appendix, we discuss some of the basic
+control issues related to cash.
+Using Bank Accounts
+To obtain desired control objectives, a company can vary the number and location of
+banks and the types of bank accounts. For large companies operating in multiple
+locations, the location of bank accounts can be important. Establishing collection
+accounts in strategic locations can accelerate the flow of cash into the company by
+shortening the time between a customer’s mailing of a payment and the company’s
+use of the cash. Multiple collection centers generally reduce the size of a company’s
+collection float. This is the difference between the amount on deposit according to
+the company’s records and the amount of collected cash according to the bank
+records.
+Large, multilocation companies frequently use lockbox accounts to collect in cities
+with heavy customer billing. The company rents a local post office box and authorizes
+a local bank to pick up the remittances mailed to that box number. The bank empties
+the box at least once a day and immediately credits the company’s account for
+collections. The greatest advantage of a lockbox is that it accelerates the availability of
+collected cash. Generally, in a lockbox arrangement, the bank images the checks for
+recordkeeping purposes and provides the company with a deposit slip, a list of
+collections, and any customer correspondence. Thus, a lockbox system improves the
+control over cash and accelerates collection of cash. If the income generated from
+accelerating the receipt of funds exceeds the cost of the lockbox system, then it is a
+worthwhile undertaking.
+
+The general checking account is the principal bank account in most companies
+and frequently the only bank account in small businesses. A company deposits cash
+into and disburses cash from this account. A company cycles all transactions through
+it. For example, a company deposits from and disburses to all other bank accounts
+through the general checking account.
+Companies use imprest bank accounts to make a specific amount of cash available
+for a limited purpose. The account acts as a clearing account for a large volume of
+checks or for a specific type of check. To clear a specific and intended amount through
+the imprest account, a company transfers that amount from the general checking
+account or other source. Companies often use imprest bank accounts for disbursing
+payroll checks, dividends, commissions, bonuses, confidential expenses (e.g., officers’
+salaries), and travel expenses.
+The Imprest Petty Cash System
+Almost every company finds it necessary to pay small amounts for miscellaneous
+expenses such as taxi fares, minor office supplies, and employees’ lunches.
+Disbursements by check for such items are often impractical, yet some control over
+them is important. A simple method of obtaining reasonable control, while adhering
+to the rule of disbursement by check, is the imprest system for petty cash
+disbursements. This is how the system works:
+1. The company designates a petty cash custodian, and gives the custodian a small
+amount of currency from which to make payments. It records transfer of funds to
+petty cash as:
+Petty Cash 300
+Cash
+2. The petty cash custodian obtains signed receipts from each individual to whom
+he or she pays cash, attaching evidence of the disbursement to the petty cash
+receipt. Petty cash transactions are not recorded until the fund is reimbursed;
+someone other than the petty cash custodian records those entries.
+3. When the supply of cash runs low, the custodian presents to the controller or
+accounts payable cashier a request for reimbursement supported by the petty
+cash receipts and other disbursement evidence. The custodian receives a
+company check to replenish the fund. At this point, the company records
+transactions based on petty cash receipts.
+
+Supplies Expense
+Postage Expense
+Miscellaneous Expense 76
+Cash Over and Short
+Cash
+4. If the company decides that the amount of cash in the petty cash fund is
+excessive, it lowers the fund balance as follows.
+Cash
+Petty Cash
+Subsequent to establishment, a company makes entries to the Petty Cash account
+only to increase or decrease the size of the fund.
+A company uses a Cash Over and Short account when the petty cash fund fails to
+prove out. That is, when an error occurs, such as incorrect change, overpayment of
+expense, or lost receipt. If cash proves out short (i.e., the sum of the receipts and
+cash in the fund is less than the imprest amount), the company debits the shortage to
+the Cash Over and Short account. If cash proves out over, it credits the overage to
+Cash Over and Short. The company closes Cash Over and Short only at the end of the
+year. It generally shows Cash Over and Short on the income statement as an “Other
+expense or revenue.”
+There are usually expense items in the fund except immediately after reimbursement.
+Therefore, to maintain accurate financial statements, a company must reimburse the
+funds at the end of each accounting period and also when nearly depleted.
+Under the imprest system, the petty cash custodian is responsible at all times for the
+amount of the fund on hand either as cash or in the form of signed receipts. These
+receipts provide the evidence required by the disbursing officer to issue a
+reimbursement check. Further, a company follows two additional procedures to
+obtain more complete control over the petty cash fund:
+1. A superior of the petty cash custodian makes surprise counts of the fund from
+time to time to determine that a satisfactory accounting of the fund has occurred.
+2. The company cancels or mutilates petty cash receipts after they have been
+submitted for reimbursement, so that they cannot be used to secure a second
+reimbursement.
+Physical Protection of Cash Balances
+Not only must a company safeguard cash receipts and cash disbursements through
+internal control measures, but it must also protect the cash on hand and in banks.
+Because receipts become cash on hand and disbursements are made from cash in
+
+banks, adequate control of receipts and disbursements is part of the protection of cash
+balances, along with certain other procedures.
+Physical protection of cash is so elementary a necessity that it requires little
+discussion. A company should make every effort to minimize the cash on hand in the
+office. It should only have on hand a petty cash fund, the current day’s receipts, and
+perhaps funds for making change. Insofar as possible, it should keep these funds in a
+vault, safe, or locked cash drawer. The company should transmit intact each day’s
+receipts to the bank as soon as practicable. Accurately stating the amount of available
+cash both in internal management reports and in external financial statements is also
+extremely important.
+Every company has a record of cash received and disbursed, and the balance. Because
+of the many cash transactions, however, errors or omissions may occur in keeping
+this record. Therefore, a company must periodically prove the balance shown in the
+general ledger. It can count cash actually present in the office—petty cash, change
+funds, and undeposited receipts—for comparison with the company records. For cash
+on deposit, a company prepares a bank reconciliation—a reconciliation of the
+company’s record and the bank’s record of the company’s cash.
+Reconciliation of Bank Balances
+At the end of each calendar month, the bank supplies each customer with a bank
+statement (a copy of the bank’s account with the customer) together with the
+customer’s checks that the bank paid during the month.20 If neither the bank nor the
+customer made any errors, if all deposits made and all checks drawn by the customer
+reached the bank within the same month, and if no unusual transactions occurred
+that affected either the company’s or the bank’s record of cash, the balance of cash
+reported by the bank to the customer equals that shown in the customer’s own
+records. This condition seldom occurs due to one or more of the reconciling items
+presented below.
+
+Reconciling Items
+Deposits in transit. End-of-month deposits of cash recorded on the depositor’s
+books in one month are received and recorded by the bank in the following
+month.
+Outstanding checks. Checks written by the depositor are recorded when
+written but may not be recorded by (may not “clear”) the bank until the next
+month.
+Bank charges. Charges recorded by the bank against the depositor’s balance for
+such items as bank services, printing checks, not-sufficient-funds (NSF)
+checks, and safe-deposit box rentals. The depositor may not be aware of these
+charges until the receipt of the bank statement.
+Bank credits. Collections or deposits by the bank for the benefit of the depositor
+that may be unknown to the depositor until receipt of the bank statement.
+Examples are note collection for the depositor and interest earned on interest-
+bearing checking accounts.
+Bank or depositor errors. Errors on either the part of the bank or the part of
+the depositor cause the bank balance to disagree with the depositor’s book
+balance.
+Hence, a company expects differences between its record of cash and the bank’s
+record. Therefore, it must reconcile the two to determine the nature of the differences
+between the two amounts.
+A bank reconciliation is a schedule explaining any differences between the bank’s
+and the company’s records of cash. If the difference results only from transactions not
+yet recorded by the bank, the company’s record of cash is considered correct. But, if
+some part of the difference arises from other items, either the bank or the company
+must adjust its records.
+A company may prepare two forms of a bank reconciliation. One form reconciles from
+the bank statement balance to the book balance or vice versa. The other form
+reconciles both the bank balance and the book balance to a correct cash balance. Most
+companies use this latter form. Illustration 7A.1 shows a sample of that form and
+its common reconciling items.
+This form of reconciliation consists of two sections: (1) “Balance per bank statement”
+and (2) “Balance per depositor’s books.” Both sections end with the same “Correct
+cash balance.” The correct cash balance is the amount to which the books must be
+adjusted and is the amount reported on the statement of financial position.
+Companies prepare adjusting journal entries for all the addition and
+deduction items appearing in the “Balance per depositor’s books” section.
+Companies should immediately call to the bank’s attention any errors attributable to
+it.
+
+To illustrate, Nugget Mining Company’s books show a cash balance at the Denver
+National Bank on November 30, 2022, of $20,502. The bank statement covering the
+month of November shows an ending balance of $22,190. An examination of Nugget’s
+accounting records and November bank statement identified the following reconciling
+items.
+Balance per bank statement (end of period)
+Add: Deposits in transit
+$$
+Undeposited receipts (cash on hand)
+$$
+Bank errors that understate the bank statement balance
+$$
+$$
+Deduct: Outstanding checks
+$$
+Bank errors that overstate the bank statement balance
+$$
+$$
+Correct cash balance
+Balance per depositor’s books
+Add: Bank credits and collections not yet recorded in the books $$
+Book errors that understate the book balance
+$$
+$$
+Deduct:Bank charges not yet recorded in the books
+$$
+Book errors that overstate the book balance
+$$
+$$
+Correct cash balance
+ILLUSTRATION 7A.1 Bank Reconciliation Form and Content
+1. A deposit of $3,680 that Nugget mailed November 30 does not appear on the
+bank statement.
+2. Checks written in November but not charged to the November bank statement
+are:
+Check #7327 $  150
+#7348
+#7349
+3. Nugget has not yet recorded the $600 of interest collected by the bank November
+20 on Sequoia Co. bonds held by the bank for Nugget.
+4. Bank service charges of $18 are not yet recorded on Nugget’s books.
+5. The bank returned one of Nugget’s customer’s checks for $220 with the bank
+statement, marked “NSF.” The bank treated this bad check as a disbursement.
+6. Nugget discovered that it incorrectly recorded check #7322, written in November
+for $131 in payment of an account payable, as $311.
+
+7. A check for Nugent Oil Co. in the amount of $175 that the bank incorrectly
+charged to Nugget accompanied the statement.
+Nugget reconciled the bank and book balances to the correct cash balance of $21,044
+as shown in Illustration 7A.2.
+Nugget Mining Company 
+Bank Reconciliation 
+Denver National Bank, November 30, 2022
+Balance per bank statement (end of period)
+Add: Deposit in transit
+Bank error—incorrect check charged to account by bank (7)
+Deduct: Outstanding checks
+Correct cash balance
+Balance per books
+Add: Interest collected by the bank
+Error in recording check #7322
+Deduct: Bank service charges
+NSF check returned
+Correct cash balance
+ILLUSTRATION 7A.2 Sample Bank Reconciliation
+The journal entries required to adjust and correct Nugget’s books in early December
+2022 are taken from the items in the “Balance per books” section and are as follows.
+
+After posting the entries, Nugget’s cash account will have a balance of $21,044.
+Nugget should return the Nugent Oil Co. check to Denver National Bank, informing
+the bank of the error.
+Review and Practice
+Key Terms Review
+accounts receivable
+accounts receivable turnover
+aging schedule
+Allowance for Doubtful Accounts
+allowance method
+*bank charges
+*bank credits
+*bank or depositor errors
+bank overdrafts
+*bank reconciliation
+cash
+cash (sales) discounts
+cash equivalents
+cash realizable value
+
+compensating balances
+*deposits in transit
+derecognition
+direct write-off method
+factoring receivables
+failed sale
+*imprest system for petty cash
+imputed interest rate
+non-trade receivables
+notes receivable
+*not-sufficient-funds (NSF) checks
+*outstanding checks
+percentage-of-receivables approach
+promissory note
+receivables
+restricted cash
+sale with guarantee (with recourse)
+sale without guarantee (without recourse)
+trade discounts
+trade receivables
+transaction price
+zero-interest-bearing notes
+Learning Objectives Review
+1 Indicate how to report cash and related items.
+To be reported as “cash,” an asset must be readily available for the payment of current
+obligations and free from contractual restrictions that limit its use in satisfying debts.
+Cash consists of coin, currency, and available funds on deposit at the bank.
+Negotiable instruments such as money orders, certified checks, cashier’s checks,
+personal checks, and bank drafts are also viewed as cash. Savings accounts are usually
+classified as cash.
+Companies report cash as a current asset in the statement of financial
+position. The reporting of other related items are as follows.
+
+1. Restricted cash: Companies should state separately legally restricted deposits
+held as compensating balances against short-term borrowing among the “Cash
+and cash equivalent items” in current assets. Restricted deposits held against
+long-term borrowing arrangements should be separately classified as non-current
+assets in either the investments or other assets sections.
+2. Bank overdrafts: Companies should report overdrafts in the current liabilities
+section and usually add them to the amount reported as accounts payable. If
+material, these items should be separately disclosed either on the face of the
+statement of financial position or in the related notes.
+3. Cash equivalents: Companies often report this item together with cash as “Cash
+and cash equivalents.”
+2 Define receivables and explain accounting issues related to their
+recognition.
+Receivables are claims held against customers and others for money, goods, or
+services. The receivables are classified into three types: (1) current or non-current, (2)
+trade or non-trade, and (3) accounts receivable or notes receivable. Two issues that
+may complicate the measurement of accounts receivable are (1) the availability of
+discounts (trade and cash discounts), and (2) the length of time between the sale and
+the payment due dates (the interest element).
+Ideally, companies should measure receivables in terms of their present value—that
+is, the discounted value of the cash to be received in the future. The profession
+specifically excludes from the present value considerations receivables arising from
+normal business transactions that are due in customary trade terms within
+approximately one year.
+3 Explain accounting issues related to valuation of accounts receivable.
+Companies value and report short-term receivables at cash realizable value—the net
+amount expected to be received in cash, which is not necessarily the amount legally
+receivable. Determining cash realizable value requires estimating uncollectible
+receivables.
+4 Explain accounting issues related to recognition and valuation of
+notes receivable.
+Companies record short-term notes at face value and long-term notes receivable at
+the present value of the cash they expect to collect. When the interest stated on an
+interest-bearing note equals the effective (market) rate of interest, the note sells at
+face value. When the stated rate differs from the effective rate, a company records the
+receivable net of the discount or premium. As with accounts receivable, companies
+
+record and report short-term notes receivable at their cash realizable value. The same
+is also true of long-term receivables.
+5 Explain additional accounting issues related to accounts and notes
+receivables.
+Derecognition. To accelerate the receipt of cash from receivables, the owner may
+transfer the receivables to another company for cash in one of two ways. (1) Sales
+(factoring) of receivables: Factors are finance companies or banks that buy
+receivables from businesses and then collect the remittances directly from the
+customers. (2) Secured borrowing: A creditor often requires that the debtor designate
+or pledge receivables as security for the loan. In many cases, transferors may have
+some continuing involvement with the receivable sold.
+Reporting and Analysis. Companies should report receivables with appropriate
+offset of valuation accounts against receivables, classify receivables as current or non-
+current, identify pledged or designated receivables, and disclose the credit risk
+inherent in the receivables. Analysts assess receivables based on turnover and the
+days outstanding.
+*6 Explain common techniques employed to control cash.
+The common techniques employed to control cash are as follows. (1) Using bank
+accounts: A company can vary the number and location of banks and the types of
+accounts to obtain desired control objectives. (2) The imprest petty cash system: It
+may be impractical to require that small amounts of various expenses be paid by
+check, yet some control over them is important. (3) Physical protection of cash
+balances: Adequate control of receipts and disbursements is a part of the protection of
+cash balances. Every effort should be made to minimize the cash on hand in the
+office. (4) Reconciliation of bank balances: Cash on deposit is not available for count
+and is proved by preparing a bank reconciliation.
+Enhanced Review and Practice
+Go online for multiple-choice questions with solutions, review exercises with
+solutions, and a full glossary of all key terms.
+Practice Problem
+The trial balance before adjustment for Slamar Ltd. shows the following balances
+(in thousands).
+Debit
+Credit
+Net sales
+¥860,000
+
+Accounts receivable
+Allowance for doubtful accounts
+¥4,240
+Consider the following independent situations:
+1. To obtain additional cash, Slamar factors without guarantee ¥50,000 of
+accounts receivable with Ijiri Finance. The finance charge is 11% of the amount
+factored.
+2. To obtain a 1-year loan of ¥75,000, Slamar assigns ¥80,000 of specific
+receivable accounts to Chen Financial. The finance charge is 9% of the loan; the
+cash is received and the accounts turned over to Chen Financial.
+3. The company wants to maintain Allowance for Doubtful Accounts at 6% of
+gross accounts receivable.
+Instructions
+a. Using the data above, give the journal entries required to record situations 1–3.
+b. Discuss how analysis based on the current ratio and the accounts receivable
+turnover would be affected if Slamar had transferred the receivables in
+situation 1 using a secured borrowing.
+Solution
+a.  
+1. Cash
+Loss on Sale of Receivables (¥50,000 × .11)
+Accounts Receivable
+2. Cash
+Interest Expense (¥75,000 × .09)
+Notes Payable
+3. Bad Debt Expense
+Allowance for Doubtful Accounts [(¥338,000 × .06) −
+¥4,240]
+b. With a secured borrowing, the receivables would stay on Slamar’s books, and
+Slamar would record a note payable. This would reduce the current ratio and
+accounts receivable turnover.
+
+Exercises, Problems, Problem Solution Walkthrough Videos, Data Analytics
+Activities, and many more assessment tools and resources are available for
+practice in Wiley’s online courseware.
+Note: All asterisked Questions, Exercises, and Problems relate to material in the
+appendix to the chapter.
+Questions
+1. What may be included under the heading of “cash”?
+2. In what accounts should the following items be classified?
+a. Coins and currency.
+b. Government bonds.
+c. Certificate of deposit (matures in 5 months).
+d. Cash in a bank that is in receivership.
+e. NSF check (returned with bank statement).
+f. Deposit in foreign bank (exchangeability limited).
+g. Postdated checks.
+h. Cash to be used for retirement of long-term bonds.
+i. Deposits in transit.
+j. 100 shares of Daimler (DEU) (intention is to sell in one year or less).
+k. Savings and checking accounts.
+l. Petty cash.
+m. Stamps.
+n. Travel advances.
+3. Define a “compensating balance.” How should a compensating balance be
+reported?
+4. Feng Group reported in a recent annual report “Restricted cash for debt
+redemption.” What section of the statement of financial position would report this
+item?
+5. What are the reasons that a company gives trade discounts? Why are trade
+discounts not recorded in the accounts like cash discounts?
+6. What are two methods of recording accounts receivable transactions when a cash
+discount situation is involved? Which is more theoretically correct? Which is used in
+practice more of the time? Why?
+
+7. Discuss the accounting for sales allowances and how they relate to the concept of
+variable consideration.
+8. What are the basic problems that occur in the valuation of accounts receivable?
+9. What is the theoretical justification of the allowance method as contrasted with the
+direct write-off method of accounting for bad debts?
+10. Indicate how the percentage-of-receivables method, based on an aging schedule,
+accomplishes the objectives of the allowance method of accounting for bad debts.
+What other methods, besides an aging analysis, can be used for estimating
+uncollectible accounts?
+11. Of what merit is the contention that the allowance method lacks the objectivity of
+the direct write-off method? Discuss in terms of accounting’s measurement function.
+12. Explain how the accounting for bad debts can be used for earnings management.
+13. Because of calamitous earthquake losses, Bernstein Company, one of your client’s
+oldest and largest customers, suddenly and unexpectedly became bankrupt.
+Approximately 30% of your client’s total sales have been made to Bernstein Company
+during each of the past several years. The amount due from Bernstein Company—
+none of which is collectible—equals 22% of total accounts receivable, an amount that
+is considerably in excess of what was determined to be an adequate provision for
+doubtful accounts at the close of the preceding year. How would your client record the
+write-off of the Bernstein Company receivable if it is using the allowance method of
+accounting for bad debts? Justify your suggested treatment.
+14. What is the normal procedure for handling the collection of accounts receivable
+previously written off using the direct write-off method? The allowance method?
+15. On January 1, 2022, Antorio SpA sells property for which it had paid €690,000 to
+Sargent Company, receiving in return Sargent’s zero-interest-bearing note for
+€1,000,000 payable in 5 years. What entry would Antorio make to record the sale,
+assuming that Antorio frequently sells similar items of property for a cash sales price
+of €640,000?
+16. What is “imputed interest”? In what situations is it necessary to impute an
+interest rate for notes receivable? What are the considerations in imputing an
+appropriate interest rate?
+17. Indicate three reasons why a company might sell its receivables to another
+company.
+18. When is the risks and rewards approach to recording the transfers of receivables
+used? When should a transfer of receivables be recorded as a sale?
+19. Moon Hardware is planning to factor some of its receivables. The cash received
+will be used to pay for inventory purchases. The factor has indicated that it will
+require a full guarantee (with recourse) on the sold receivables. Explain to the
+controller of Moon Hardware what “full guarantee” is and how the guarantee will be
+reflected in Moon’s financial statements after the sale of the receivables.
+
+20. Horizon Outfitters AG includes in its trial balance for December 31 an item for
+Accounts Receivable €789,000. This balance consists of the following items:
+Due from regular customers
+Refund receivable on prior year’s income taxes (an established claim)
+Travel advance to employees
+Loan to wholly owned subsidiary
+Advances to creditors for goods ordered
+Accounts receivable assigned as security for loans payable
+Notes receivable past due plus interest on these notes
+Total
+Illustrate how these items should be shown in the statement of financial position as
+of December 31.
+21. What is the accounts receivable turnover, and what type of information does it
+provide?
+22. You are evaluating Woodlawn Racetrack for a potential loan. An examination of
+the notes to the financial statements indicates restricted cash at year-end amounts to
+$100,000. Explain how you would use this information in evaluating Woodlawn’s
+liquidity.
+*23. Distinguish among the following: (1) a general checking account, (2) an imprest
+bank account, and (3) a lockbox account.
+Brief Exercises
+LEARNING OBJECTIVE 7
+Compare the accounting procedures for cash and receivables under IFRS and U.S.
+GAAP.
+The basic accounting and reporting issues related to recognition and measurement of
+cash and receivables are similar in U.S. GAAP and IFRS. For example, the definition of
+cash and cash equivalents as well as the use of allowance accounts, how to record
+discounts, use of the allowance method to account for bad debts, and factoring are
+similar for both IFRS and U.S. GAAP. In the wake of the international credit crisis, the
+Boards worked together to improve the accounting for loan impairments and
+securitizations.
+Relevant Facts
+Following are the key similarities and differences between IFRS and U.S. GAAP
+related to cash and receivables.
+Similarities
+The accounting and reporting related to cash is essentially the same under both
+IFRS and U.S. GAAP. In addition, the definition used for cash equivalents is
+similar.
+As with IFRS, cash and receivables are generally reported in the current assets
+section of the statement of financial position (balance sheet) under U.S. GAAP.
+As with IFRS, for trade and other accounts receivable without a significant
+financing component, an allowance for uncollectible accounts should be recorded
+to result in receivables reported at cash (net) realizable value. The estimation
+approach used is similar to that under IFRS.
+Similar to U.S. GAAP, IFRS requires that loans and receivables be accounted for
+at amortized cost, adjusted for allowances for doubtful accounts.
+Differences
+
+Under IFRS, companies may report cash and receivables as the last items in
+current assets. Under U.S. GAAP, these items are reported in order of liquidity.
+While IFRS implies that receivables with different characteristics should be
+reported separately, there is no standard that mandates this segregation. U.S.
+GAAP has explicit guidance in the area.
+IFRS differs from U.S. GAAP in its approach to estimating uncollectible accounts
+on receivables with a significant financing component (e.g., notes receivable). For
+long-term receivables that have not experienced a deterioration in credit quality
+after origination, uncollectible accounts are estimated based on expected losses
+over the next 12 months. For long-term receivables that experience a credit
+quality decline, uncollectible accounts are estimated based on lifetime expected
+losses (which is the model used under U.S. GAAP for all receivables).
+Under IFRS, bank overdrafts are generally reported as cash. Under U.S. GAAP,
+such balances are reported as liabilities.
+IFRS and U.S. GAAP differ in the criteria used to account for transfers of
+receivables. IFRS uses a combined approach focused on risks and rewards and
+loss of control. U.S. GAAP uses loss of control as the primary criterion (see the
+About the Numbers discussion below). In addition, IFRS generally permits partial
+transfers; U.S. GAAP does not.
+About the Numbers
+The following illustration shows the rules of accounting for transfers of receivables
+under U.S. GAAP.
+
+As indicated, under U.S. GAAP, the accounting for transfers is a two-step process: (1)
+determine if there is transfer of control, based on evaluation of three conditions, and
+(2) if there is continuing involvement in a sale transaction, record the assets obtained
+and liabilities incurred.
+On the Horizon
+The question of recording fair values for financial instruments will continue to be an
+important issue to resolve as the Boards work together to narrow differences between
+U.S. GAAP and IFRS. Both the IASB and the FASB have indicated that they believe
+that financial statements would be more transparent and understandable if
+companies recorded and reported all financial instruments at fair value. With the
+recently issued guidance on impairments by both boards, IFRS and U.S. GAAP are
+now more closely aligned with earlier recognition of impairments. Most believe that
+both Boards’ approaches to estimating uncollectible accounts represent
+improvements and address the weakness in previous bad debt accounting that was
+highlighted by the 2007-2008 financial crisis. Time will tell if one model or the other
+provides more useful information to investors and creditors.
+GAAP Self-Test Questions
+
+1. U.S. GAAP reports cash and cash equivalents:
+a. similarly to IFRS.
+b. as separate items.
+c. similarly to IFRS, except for the reporting of bank overdrafts.
+d. always as the first items in the current assets section.
+2. Under U.S. GAAP, receivables are reported on the balance sheet at:
+a. amortized cost.
+b. amortized cost less allowance for doubtful accounts.
+c. historical cost.
+d. replacement cost.
+3. Which of the following statements is false?
+a. Receivables include equity securities purchased by the company.
+b. Receivables include credit card receivables.
+c. Receivables include amounts owed by employees as result of company loans to
+employees.
+d. Receivables include amounts resulting from transactions with customers.
+4. Which of the following is the correct accounting under U.S. GAAP for cash?
+a. Cash cannot be combined with cash equivalents.
+b. Restricted cash funds are reported as liabilities.
+c. Bank overdrafts are reported as liabilities.
+d. Cash on hand is not reported on the balance sheet as Cash.
+5. In recording a transfer of receivables:
+a. IFRS focuses on loss of control.
+b. U.S. GAAP focuses on loss of control and risks and rewards.
+c. IFRS and U.S. GAAP allow partial derecognition.
+d. IFRS allows partial derecognition.
+GAAP Concepts and Application
+GAAP7.1 What are some steps taken by both the FASB and IASB to move to fair
+value measurement for financial instruments?
+
+GAAP7.2 Briefly describe some of the similarities and differences between U.S.
+GAAP and IFRS with respect to the accounting for cash and receivables.
+Answers to GAAP Self-Test Questions
+1. c 2. b 3. a 4. c 5. d
+Notes
+1 Bank overdrafts usually occur because of a simple oversight by the company writing
+the check. Banks often expect companies to have overdrafts from time to time and
+therefore negotiate a fee as payment for this possible occurrence. However, at one
+time, one large brokerage firm began intentionally overdrawing its accounts by
+astronomical amounts—on some days exceeding $1 billion—thus obtaining
+interest-free loans that it could invest. Because the amounts were so large and fees
+were not negotiated in advance, the company came under criminal investigation for
+its actions.
+2 To the extent that discounts not taken reflect short-term financing, some argue that
+companies could use an interest revenue account to record these amounts.
+3 Cash discounts represent a form of variable consideration. Under the current
+revenue recognition guidance, variable consideration should not be recognized
+until the point in time when receipt of consideration is highly probable. See the
+discussion on sales returns and allowances in the next section and in Chapter 18
+for further information about variable consideration.
+4 As indicated, at the date of sale, both the sales revenue and the return liability are
+recorded based on estimated amounts. If the actual amounts later prove to be
+higher or lower than the estimated amount, an adjustment will be made to the
+Sales Revenue account. If returns are lower than expected, Sales Revenue will be
+adjusted upward. If returns are greater than expected, Sales Revenue would be
+adjusted down. IFRS requires that the estimate of returns be constrained so that
+subsequent downward adjustments to Sales Revenue are highly unlikely. See
+Chapter 18 for an extended discussion of variable consideration.
+5 William J. Vatter, Managerial Accounting (Englewood Cliffs, N.J.: Prentice-Hall,
+1950), p. 60.
+6 The account description employed for the allowance account is usually Allowance
+for Doubtful Accounts or Provision for Doubtful Accounts.
+7 If using the direct write-off approach, the company debits the amount collected to
+Cash and credits a revenue account entitled Uncollectible Amounts Recovered,
+with proper notation in the customer’s account.
+8 For trade receivables that do not have a significant financing component, lifetime
+expected credit losses must be recognized in the measurement of the impairment.
+
+If a trade receivable has a significant financing component, companies may employ
+various estimation approaches (e.g., discounted cash flow techniques) to estimate
+the impairment allowance. We discuss these approaches in more detail in Chapter
+17, related to the discussion of investments.
+9 In general, estimating bad debt expense with a focus on the income statement (e.g.,
+percentage-of-sales) is not appropriate. That is, the goal is to arrive at an estimate
+in the allowance, which reduces the receivables amount to cash realizable value
+(i.e., the amount of receivables expected to be collected). While a percentage-of-
+sales approach may provide a better “matching” of bad debt expense to sales, the
+balance in the allowance likely will not provide a representationally faithful
+estimate of cash realizable value.
+10 Companies must measure expected uncollectible accounts and record bad debt
+expense on all receivables, even those with a low risk of loss (e.g., receivables that
+are not past due). Thus, in the Wilson example, an estimate for uncollectible
+accounts is developed for balances that are under 30 days past due.
+11 One regulatory agency brought action against a large financial institution, requiring
+a reversal of $100 million of bad debt expense. This reversal increased after-tax
+profit by $61 million. Recall from our earnings management discussion in Chapter
+4 that increasing or decreasing income through management manipulation can
+reduce the quality of financial reports.
+12 The stated interest rate, also referred to as the face rate or the coupon rate, is the
+rate contracted as part of the note. The effective interest rate, also referred to as
+the market rate or the effective yield, is the rate used in the market to determine
+the value of the note—that is, the discount rate used to determine present value.
+13 Credit cards like MasterCard and Visa are a type of factoring arrangement.
+Typically, the purchaser of the receivable charges a commission of ¾–1½ percent
+the receivables purchased (the commission is 4–5 percent for credit card
+factoring).
+14 In general, IFRS does not allow netting of assets and liabilities unless there is an
+explicit right of set-off. [8] Thus, Crest Textiles reports both a receivable and a
+liability of €500,000 in its statement of financial position.
+15 If a company transfers the receivables for custodial purposes, the custodial
+arrangement is often referred to as a pledge.
+16 What happens if Sino Bank collects the transferred accounts receivable rather than
+Meng Mills? Sino Bank would simply remit the cash proceeds to Meng Mills, and
+Meng Mills would make the same entries shown in Illustration 7.17. As a result,
+Meng Mills reports these “collaterized” receivables as an asset on the statement of
+financial position. The point here is that the risks and rewards of ownership have
+not been transferred to Sino Bank.
+
+17 In some situations, a company may continue to hold the receivable but does not
+retain substantially all the risks and rewards of the receivable. In this case, the
+company must determine whether it has retained control of the receivable. The
+primary indicator that the company has control of an asset is if it can sell the asset.
+If control has not been retained, the asset is derecognized and sale accounting is
+applied. In all other cases, the company has retained control and the arrangement
+is accounted for as a secured borrowing. As noted in Chapter 18, concepts of risks
+and rewards and control are relevant in determining revenue recognition. However,
+transfers of financial assets are outside the scope of the recently issued revenue
+standard.
+18 Concentrations of credit risk exist when receivables have common characteristics
+that may affect their collection. These common characteristics might be companies
+in the same industry or same geographic region. For example, Abu Dhabi
+Aviation (ARE) recently reported nearly 61 percent of its trade receivables were
+due from the United Arab Emirates (UAE) government and 16 percent from UAE’s
+oil industry. Financial statement users want to know if a substantial amount of
+receivables from such sales are to customers facing similar uncertain economic
+conditions. No numerical guidelines are provided as to what is meant by a
+“concentration of credit risk.” Information to be disclosed includes such items as
+(1) the carrying amounts of the concentration, (2) information on the characteristic
+that determines the concentration, (3) the amount of loss that could occur upon
+non-performance, and (4) information on any collateral related to the receivable.
+[11]
+19 Several figures other than 365 could be used. A common alternative is 360 days
+because it is divisible by 30 (days) and 12 (months). Use 365 days in any
+homework computations.
+20 As we mentioned in Chapter 7, paper checks continue to be used as a means of
+payment. However, ready availability of desktop publishing software and hardware
+has created new opportunities for check fraud in the form of duplicate, altered, and
+forged checks. At the same time, new fraud-fighting technologies, such as
+ultraviolet imaging, high-capacity barcodes, and biometrics, are being developed.
+These technologies convert paper documents into electronically processed
+document files, thereby reducing the risk of fraud.
+Sources: J. Ciesielski, “Growing, Glowing Earnings: S&P 500’s 2011 Untaxed Income,” The Analyst’s
+Accounting Observer (March 26, 2012); D. Zion, R. Gomatam, and R. Graziano, “Parking A-Lot Overseas: At
+Least $600 Billion in Cash and over $2 Trillion in Earnings,” Credit Suisse Equity Research (March 17, 2015);
+and B. Kochkodin, “Apple Leaves Overseas Cash Out of Its Latest Quarterly Report,” www.bloomberg.com (May

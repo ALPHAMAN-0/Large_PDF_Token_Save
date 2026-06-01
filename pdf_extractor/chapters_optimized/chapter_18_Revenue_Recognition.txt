@@ -1,0 +1,3194 @@
+CHAPTER 18
+Revenue Recognition
+LEARNING OBJECTIVES
+After studying this chapter, you should be able to:
+1. Understand the fundamental concepts related to revenue recognition
+and measurement.
+2. Understand and apply the five-step revenue recognition process.
+3. Apply the five-step process to major revenue recognition issues.
+4. Describe presentation and disclosure regarding revenue.
+This chapter also includes numerous conceptual discussions that
+are integral to the topics presented here. Because of the converged
+IASB/FASB standard on revenue recognition, there is no Global
+Accounting Insights in this chapter.
+PREVIEW OF CHAPTER 18
+As indicated in the following opening story, the issue of when revenue should
+be recognized is complex. The many methods of marketing products and
+services make it difficult to develop guidelines that will apply to all
+situations. This chapter provides you with general guidelines used in most
+business transactions. The content and organization of the chapter are as
+follows.
+
+It’s Back
+Revenue recognition practices are the most prevalent reasons for accounting
+restatements. A number of the revenue recognition issues relate to possible
+fraudulent behavior by company executives and employees. Consider the
+following situations.
+Rolls-Royce (GBR) was questioned by investors about the revenue
+recognition practices for its “Totalcare” contracts, where engines are sold at
+little or no profit but tie the customer into long-term servicing and parts
+purchases. When it was revealed that market regulators were exploring these
+revenue practices and changes in how Rolls booked fees from its risk-sharing
+partnerships, the company’s share price slipped to a one-year low.
+The former co-chairman and CEO of Qwest Communications
+International Inc. (USA) and eight other former Qwest officers and
+employees were charged with fraud and other violations of U.S. securities
+laws. Three of these people fraudulently characterized non-recurring revenue
+from one-time sales as revenue from recurring data and Internet services.
+Internal correspondence likened Qwest’s dependence on these transactions
+to fill the gap between actual and projected revenue to an addiction.
+Sinovel Wind Group (CHN) was scrutinized by Chinese regulators over
+accounting problems related to its turbine business. The accounting
+irregularities led to an overstatement of revenue by 10 percent and profits by
+20 percent in its first year as a public company. Sinovel attributed the error
+to incorrectly recognizing revenue for uncompleted projects. Following the
+investigation, Sinovel’s founder resigned as chairman but remained on the
+board of directors.
+Though the cases cited involved fraud and irregularity, not all revenue
+recognition errors are intentional. For example, Turquoise Hill Resources
+(CAN) restated its financial results for three years due to revenue recognition
+irregularities. The restatement corrected errors in the accounting treatment for
+sales contracts, which provide for transfer of title—and revenue recognition—
+upon loading the coal onto customers’ trucks. It was determined that, due to the
+changing nature of the contracts, revenue should not be recognized until
+customers pay.
+One of the most significant challenges related to revenue recognition is the
+amount of judgment that is involved in deciding how to report revenue
+transactions. Since 2016, the auditors of public companies in the European
+Economic Area have been required to report the areas they considered to be “key
+audit matters” (KAMs). As the term implies, these are the areas of the audit that
+were of the most significance, and for which significant auditor judgment is
+
+required. Unsurprisingly, revenue and other income has been one of the most
+frequently noted matters. To date, this item has been the second most frequently
+reported, representing almost 18 percent of the KAMs. The only matters more
+frequently reported are related to asset impairments.
+Revenue numbers are also attracting more attention from investors these days. A
+concern expressed recently is that revenue growth is not robust, and increases in
+net income (the bottom line) are caused by factors such as low financing costs
+and lower labor costs, which in the long run may not be sustainable. So more
+focus is now being given to a company’s top-line revenue number, as many
+believe strong revenue growth suggests a more profitable company in the future.
+Companies have recently implemented the substantially revised standard on
+revenue recognition that hopefully will improve the reporting of revenue
+transactions. This standard provides a set of guidelines to follow in determining
+when revenue should be reported and how it should be measured. The standard
+is comprehensive and applies to all companies. As a result, comparability and
+consistency in reporting revenue should be enhanced. After studying this chapter,
+you should have a good understanding of these revenue recognition concepts.
+Review and Practice
+Go to the Review and Practice section at the end of the chapter for a
+targeted summary review and practice problem with solution. Multiple-
+choice questions with annotated solutions, as well as additional exercises and
+practice problem with solutions, are also available online.
+Fundamentals of Revenue Recognition
+LEARNING OBJECTIVE 1
+Understand the fundamental concepts related to revenue recognition and
+measurement.
+Background
+Revenue is one of the most important measures of financial performance that a
+company reports. Revenue provides insights into a company’s past and future
+performance and is a significant driver of other performance measures, such as
+EBITDA, net income, and earnings per share. Therefore, establishing robust
+guidelines for recognizing revenue is a standard-setting priority.
+
+Most revenue transactions pose few problems for revenue recognition. That is,
+most companies initiate and complete transactions at the same time. However,
+not all transactions are that simple. For example, consider a cell phone contract
+between a company such as Vodaphone (GBR) and a customer. Vodaphone
+often provides a customer with a package that may include a handset, free
+minutes of talk time, data downloads, and text messaging service. In addition,
+some providers will bundle that with a fixed-line broadband service. At the same
+time, the customer may pay for these services in a variety of ways, possibly
+receiving a discount on the handset and then paying higher prices for connection
+fees and so forth. In some cases, depending on the package purchased, the
+company may provide free upgrades in subsequent periods. How, then, should
+Vodaphone report the various pieces of this sale? The answer is not obvious.
+Both the IASB and the FASB have indicated that the state of reporting for revenue
+was unsatisfactory. IFRS was criticized because it lacked guidance in a number of
+areas. For example, IFRS had one general standard on revenue recognition—IAS
+18—plus some limited guidance related to certain minor topics. In contrast, U.S.
+GAAP had numerous standards related to revenue recognition (by some counts,
+well over 100), but many believed the standards were often inconsistent with one
+another. Thus, the accounting for revenue provided a most fitting contrast of the
+principles-based (IFRS) and rules-based (U.S. GAAP) approaches.1
+In 2014, the IASB issued a converged standard on revenue recognition entitled
+Revenue from Contracts with Customers. [1] (See the Authoritative Literature
+References section near the end of the chapter.) To address the inconsistencies
+and weaknesses of the previous approaches, a comprehensive revenue
+recognition standard now applies to a wide range of transactions and industries.
+The Boards believe this standard will improve IFRS and U.S. GAAP by:
+a. Providing a more robust framework for addressing revenue recognition
+issues.
+b. Improving comparability of revenue recognition practices across entities,
+industries, jurisdictions, and capital markets.
+c. Simplifying the preparation of financial statements by reducing the number
+of requirements to which companies must refer.
+d. Requiring enhanced disclosures to help financial statement users better
+understand the amount, timing, and uncertainty of revenue that is
+recognized. [2]
+Revenue Recognition Standard
+The recent revenue recognition standard, Revenue from Contracts with
+Customers, adopts an asset-liability approach as the basis for revenue
+
+recognition. The asset-liability approach recognizes and measures revenue based
+on changes in assets and liabilities. The Boards decided that focusing on (a) the
+recognition and measurement of assets and liabilities and (b) changes in those
+assets or liabilities over the life of the contract brings more discipline to the
+measurement of revenue, compared to the “risks and rewards” criteria in prior
+standards.
+Under the asset-liability approach, companies account for revenue based on the
+asset or liability arising from contracts with customers (see Underlying
+Concepts). Companies analyze contracts with customers because contracts
+initiate revenue transactions. Contracts indicate the terms of the transaction,
+provide the measurement of the consideration, and specify the promises that
+must be met by each party.
+Underlying Concepts
+The asset-liability approach is consistent with the conceptual framework
+approach to recognition.
+Illustration 18.1 shows the key concepts related to the standard on revenue
+recognition.
+ILLUSTRATION 18.1 Key Concepts of Revenue Recognition
+The standard first identifies the key objective of revenue recognition, which is
+followed by a five-step process that companies should use to ensure that revenue
+is measured and reported correctly.
+The culmination of the process is the revenue recognition principle, which
+states that revenue is recognized when the performance obligation is satisfied.
+
+We examine all steps in more detail in the following section.
+Overview of the Five-Step Process—Airbus Example
+Assume that Airbus (FRA) signs a contract to sell airplanes to Cathay Pacific
+Airlines (HKG) for €100 million. Illustration 18.2 shows the five steps that
+Airbus follows to recognize revenue.
+As indicated, Step 5 is when Airbus recognizes revenue related to the sale of the
+airplanes to Cathay Pacific. At this point, Airbus delivers the airplanes to Cathay
+Pacific and satisfies its performance obligation. In essence, a change in control
+from Airbus to Cathay Pacific occurs. Cathay Pacific now controls the assets
+because it has the ability to direct the use of and obtain substantially all the
+remaining benefits from the airplanes. Control also includes Cathay Pacific’s
+ability to prevent other companies from directing the use of, or receiving the
+benefits from, the airplanes.
+
+ILLUSTRATION 18.2 Five Steps of Revenue Recognition
+Extended Example of the Five-Step Process: BEAN
+To provide another application of the basic principles of the five-step revenue
+recognition model, we use a coffee and wine business called BEAN. BEAN serves
+gourmet coffee, espresso, lattes, teas, and smoothies. It also sells various
+pastries, coffee beans, other food products, wine, and beer.
+Identifying the Contract with Customers—Step 1
+
+Assume that Tyler Angler orders a large cup of black coffee costing $3 from
+BEAN. Tyler gives $3 to a BEAN barista, who pours the coffee into a large cup and
+gives it to Tyler.
+Question: How much revenue should BEAN recognize on this
+transaction?
+Step 1 We first must determine whether a valid contract exists between BEAN
+and Tyler. Here are the components of a valid contract and how it affects BEAN
+and Tyler.
+1. The contract has commercial substance: Tyler gives cash for the
+coffee.
+2. The parties have approved the contract: Tyler agrees to purchase the
+coffee and BEAN agrees to sell it.
+3. Identification of the rights of the parties is established: Tyler has
+the right to the coffee and BEAN has the right to receive $3.
+4. Payment terms are identified: Tyler agrees to pay $3 for the coffee.
+5. It is probable that the consideration will be collected: BEAN
+receives $3 before it delivers the coffee. [3]2
+From this information, it appears that BEAN and Tyler have a valid contract with
+one another.
+Step 2  The next step is to identify BEAN’s performance obligation(s), if any. The
+answer is straightforward—BEAN has a performance obligation to provide a large
+cup of coffee to Tyler. BEAN has no other performance obligation for any other
+good or service.
+Step 3 BEAN must determine the transaction price related to the sale of the
+coffee. The price of the coffee is $3, and no discounts or other adjustments are
+available. Therefore, the transaction price is $3.
+Step 4  BEAN must allocate the transaction price to all performance obligations.
+Given that BEAN has only one performance obligation, no allocation is necessary.
+Step 5  Revenue is recognized when the performance obligation is satisfied.
+BEAN satisfies its performance obligation when Tyler obtains control of the
+coffee. The following conditions are indicators that control of the coffee has
+passed to Tyler:
+a. BEAN has the right to payment for the coffee.
+
+b. BEAN has transferred legal title to the coffee.
+c. BEAN has transferred physical possession of the coffee.
+d. Tyler has significant risks (e.g., he might spill the coffee) and rewards of
+ownership (he gets to drink the coffee).
+e. Tyler has accepted the asset.
+Solution: BEAN should recognize $3 in revenue from this transaction when
+Tyler receives the coffee.
+Identifying Separate Performance Obligations—Step 2
+The following day, Tyler orders another large cup of coffee for $3 and also
+purchases two bagels at a price of $5. The barista provides these products and
+Tyler pays $8.
+Question: How much revenue should BEAN recognize on the purchase
+of these two items?
+Step 1  A valid contract exists as it meets the five conditions necessary for a
+contract to be enforceable as discussed in the previous example.
+Step 2 BEAN must determine whether the sale of the coffee and the sale of the
+two bagels involve one or two performance obligations. In the previous
+transaction between BEAN and Tyler, this determination was straightforward
+because BEAN provided a single distinct product (a large cup of coffee), and
+therefore only one performance obligation existed. However, an arrangement to
+purchase coffee and bagels may have more than one performance obligation.
+Multiple performance obligations exist when the following two conditions are
+satisfied:
+1. BEAN must provide a distinct product or service. In other words, BEAN
+must be able to sell the coffee and the bagels separately from one another.
+2. BEAN’s products are distinct within the contract. In other words, if the
+performance obligation is not highly dependent on, or interrelated with,
+other promises in the contract, then each performance obligation should be
+accounted for separately. Conversely, if each of these products is
+interdependent and interrelated, these products are combined and reported
+as one performance obligation. [4]
+The large cup of coffee and the two bagels appear to be distinct from one another
+and are not highly dependent or interrelated. That is, BEAN can sell the coffee
+
+and the two bagels separately, and Tyler benefits separately from the coffee and
+the bagels.
+BEAN has two performance obligations—one for the sale of the coffee and one
+for the sale of the bagels.
+Step 3 The transaction price is $8 ($3 + $5).
+Step 4  BEAN has two performance obligations: to provide (1) a large cup of
+coffee and (2) the two bagels. Each of these obligations is distinct and not
+interrelated (and priced separately); no allocation of the transaction price is
+necessary. That is, the coffee sale is recorded at $3 and the sale of the bagels is
+priced at $5.
+Step 5  BEAN has satisfied both performance obligations when the coffee and
+bagels are given to Tyler (control of the product has passed to the customer).
+Solution: BEAN should recognize $8 ($3 + $5) of revenue when Tyler receives
+the coffee and bagels.
+Determining the Transaction Price—Step 3
+BEAN decides to provide an additional incentive to its customers to shop at its
+store. BEAN roasts its own coffee beans and sells the beans wholesale to grocery
+stores, restaurants, and other commercial companies. In addition, it sells the
+coffee beans at its retail location. BEAN is interested in stimulating sales of its
+Smoke Jumper coffee beans on Tuesdays, a slow business day for the store.
+Normally, these beans sell for $10 for a 12-ounce bag, but BEAN decides to cut
+the price by $1 when customers buy them on Tuesdays (the discounted price is
+now $9 per bag). Tyler has come to the store on a Tuesday, decides to purchase a
+bag of Smoke Jumper beans, and pays BEAN $9.
+Question: How much revenue should BEAN recognize on this
+transaction?
+Step 1  As in our previous examples, with the sale of a large cup of coffee or the
+sale of a large cup of coffee and two bagels, a valid contract exists. The same is
+true for the sale of Smoke Jumper beans.
+Step 2  The identification of the performance obligation is straightforward.
+BEAN has a performance obligation to provide a bag of Smoke Jumper coffee
+beans to Tyler. BEAN has no other performance obligation to provide a product
+or service.
+Step 3 The transaction price for a bag of Smoke Jumper beans sold to Tyler is
+$9, not $10. The transaction price is the amount that a company expects to
+
+receive from a customer in exchange for transferring goods and services. [5] The
+transaction price in a contract is often easily determined because the customer
+agrees to pay a fixed amount to the company over a short period of time. In
+other contracts, companies must consider adjustments such as when they make
+payments or provide some other consideration to their customers (e.g., a
+coupon) as part of a revenue arrangement.3
+Step 4  BEAN allocates the transaction price to the performance obligations.
+Given that there is only one performance obligation, no allocation is necessary.
+Step 5  BEAN has satisfied the performance obligation, as control of the product
+has passed to Tyler.
+Solution: BEAN should recognize $9 of revenue when Tyler receives the Smoke
+Jumper coffee beans.
+Allocating the Transaction Price to Separate Performance Obligations—Step
+For revenue arrangements with multiple performance obligations, BEAN might
+be required to allocate the transaction price to more than one performance
+obligation in the contract. If an allocation is needed, the transaction price is
+allocated to the various performance obligations based on their relative
+standalone selling prices. If this information is not available, companies should
+use their best estimate of what the good or service might sell for as a standalone
+item. [6]
+BEAN wants to provide even more incentive for customers to buy its coffee
+beans, as well as purchase a cup of coffee. BEAN therefore offers customers a $2
+discount on the purchase of a large cup of coffee when they buy a bag of its
+premium Motor Moka beans (which normally sell for $12) at the same time.
+Tyler decides this offer is too good to pass up and buys a bag of Motor Moka
+beans for $12 and a large cup of coffee for $1. As indicated earlier, a large cup of
+coffee normally retails for $3 at BEAN.
+Question: How much revenue should BEAN recognize on the purchase
+of these two items?
+Step 1  In our previous situations, valid contracts have existed. The same is also
+true for the sale of a bag of Motor Moka beans and the large cup of coffee.
+Step 2  The bag of Motor Moka beans and the large cup of coffee are distinct
+from one another and are not highly dependent on or highly interrelated with
+the other. BEAN can sell a bag of the Motor Moka beans and a large cup of coffee
+separately. Furthermore, Tyler benefits separately from both the large cup of
+coffee and the Motor Moka coffee beans.
+
+Step 3 BEAN’s transaction price is $13 ($12 for the bag of Motor Moka beans
+and $1 for the large cup of coffee).
+Step 4 BEAN allocates the transaction price to the two performance obligations
+based on their relative standalone selling prices. The standalone selling price of
+a bag of Motor Moka beans is $12, and the large cup of coffee is $3. The
+allocation of the transaction price of $13 is as follows.
+Product
+Standalone Selling
+Price
+Percentage
+Allocated
+Amount
+Motor Moka beans (one
+bag)
+$12 80% ($12 ÷
+$10.40 ($13 ×
+Large cup of coffee
+($3 ÷
+2.60 ($13 ×
+Total
+As indicated, the total transaction price ($13) is allocated $10.40 to the bag of
+Motor Moka beans and $2.60 to the large cup of coffee.
+Step 5  BEAN has satisfied both performance obligations as control of the bag of
+Motor Moka beans and the large cup of coffee has passed to Tyler.
+Solution: BEAN should recognize revenue of $13, comprised of revenue from
+the sale of the Motor Moka beans at $10.40 and the sale of the large cup of
+coffee at $2.60.
+Recognizing Revenue When (or as) Each Performance Obligation Is
+Satisfied—Step 5
+As indicated in the examples presented, BEAN satisfied its performance
+obligation(s) when Tyler obtained control of the product(s). Change in control is
+the deciding factor in determining when a performance obligation is satisfied. A
+customer controls the product or service when the customer has the ability to
+direct the use of and obtain substantially all the remaining benefits from the
+product. Control also includes Tyler’s ability to prevent other companies from
+directing the use of, or receiving benefits from, the coffee or coffee beans. As
+discussed earlier, the indicators that Tyler has obtained control are as follows:
+a. BEAN has the right to payment for the coffee.
+b. BEAN has transferred legal title to the coffee.
+c. BEAN has transferred physical possession of the coffee.
+d. Tyler has significant risks and rewards of ownership.
+
+e. Tyler has accepted the asset.4
+The Five-Step Process Revisited
+LEARNING OBJECTIVE 2
+Understand and apply the five-step revenue recognition process.
+The Airbus and BEAN examples provide a basic understanding of the five-step
+process used to recognize revenue. We now discuss more technical issues related
+to the implementation of these five steps.
+Identifying the Contract with Customers—Step 1
+A contract is an agreement between two or more parties that creates
+enforceable rights or obligations. Contracts can be written, oral, or implied from
+customary business practice (such as the BEAN contract with Tyler). Revenue is
+recognized only when a valid contract exists. On entering into a contract with a
+customer, a company obtains rights to receive consideration from the customer
+and assumes obligations to transfer goods or services to the customer
+(performance obligations). The combination of those rights and performance
+obligations gives rise to an (net) asset or (net) liability.
+In some cases, there are multiple contracts related to an arrangement; accounting
+for each contract may or may not occur, depending upon the circumstances.
+These situations often develop when not only a product is provided but some type
+of service is performed as well. To be valid, a contract must meet the five
+conditions illustrated in the BEAN example.5 If the contract is wholly
+unperformed and each party can unilaterally terminate the contract without
+compensation, then revenue should not be recognized until one or both of the
+parties has performed. A basic contract where these issues are discussed follows
+in Illustration 18.3.
+
+Contracts and Recognition
+Facts: On March 1, 2022, Margo Company enters into a contract to transfer a
+product to Soon Yoon on July 31, 2022. The contract is structured such that
+Soon Yoon is required to pay the full contract price of $5,000 on August 31,
+2022. The cost of the goods transferred is $3,000. Margo delivers the product to
+Soon Yoon on July 31, 2022. Either party can unilaterally terminate the contract
+without compensation.
+Question: What journal entries should Margo Company make in
+regards to this contract in 2022?
+Solution: No entry is required on March 1, 2022, because neither party has
+performed on the contract. On July 31, 2022, Margo delivers the product and
+therefore should recognize revenue on that date as it satisfies its performance
+obligation by delivering the product to Soon Yoon.
+The journal entry to record the sale and related cost of goods sold is as follows.
+July 31, 2022
+Accounts Receivable 5,000
+Sales Revenue
+Cost of Goods Sold
+Inventory
+After receiving the cash payment on August 31, 2022, Margo makes the
+following entry.
+August 31, 2022
+Cash
+Accounts Receivable
+ILLUSTRATION 18.3 Basic Revenue Transaction
+A key feature of the revenue arrangement is that the contract between the two
+parties is not recorded (does not result in a journal entry) until one or both of the
+parties perform under the contract. Until performance occurs, no net asset
+or net liability occurs.
+Identifying Separate Performance Obligations—Step 2
+
+A performance obligation is a promise to provide a product or service to a
+customer. This promise may be explicit, implicit, or possibly based on customary
+business practice. To determine whether a performance obligation exists, the
+company must provide a distinct product or service to the customer.
+A product or service is distinct when a customer is able to benefit from a good or
+service on its own or together with other readily available resources. This
+situation typically occurs when the company can sell a good or service on a
+standalone basis (i.e., separately). For example, BEAN provided a good (a large
+cup of coffee) on a standalone basis to Tyler. Tyler benefited from this cup of
+coffee by consuming it.
+To determine whether a company has to account for multiple performance
+obligations, the company’s promise to sell the good or service to the customer
+must be separately identifiable from other promises within the contract (that is,
+the good or service must be distinct within the contract). The objective is to
+determine whether the nature of a company’s promise is to transfer
+individual goods and services to the customer or to transfer a
+combined item (or items) for which individual goods or services are
+inputs.
+For example, when BEAN sold Tyler a large cup of coffee and two bagels, Bean
+had two performance obligations. In that case, the large cup of coffee had a
+standalone selling price and the two bagels had a standalone selling price—even
+though the two promises may be part of one contract.
+Conversely, assume that BEAN sold a large latte (comprised of coffee and milk)
+to Tyler. In this case, BEAN sold two distinct products (coffee and milk), but
+these two goods are not distinct within the contract. That is, the coffee and milk
+in the latte are highly interdependent or interrelated within the contract. As a
+result, the products are combined and reported as one performance obligation.
+To illustrate another situation, assume that Tata Motors (IND) sells an
+automobile to Marquart Auto Dealers at a price that includes six months of
+telematics services such as navigation and remote diagnostics. These telematics
+services are regularly sold on a standalone basis by Tata Motors for a monthly
+fee. After the six-month period, the consumer can renew these services on a fee
+basis with Tata Motors. The question is whether Tata Motors sold one or two
+products. If we look at Tata Motors’ objective, it appears that it is to sell two
+goods, the automobile and the telematic services. Both are distinct (they can
+be sold separately) and are not interdependent.
+As another example, SoftTech Inc. licenses customer-relationship software to
+Lopez Company. In addition to providing the software itself, SoftTech promises
+to perform consulting services by extensively customizing the software to Lopez’s
+information technology environment, for total consideration of $600,000. In this
+
+case, the objective of SoftTech appears to be to transfer a combined product and
+service for which individual goods and services are inputs. In other words,
+SoftTech is providing a significant service by integrating the goods and services
+(the license and the consulting service) into one combined item for which Lopez
+has contracted. In addition, the software is significantly customized by SoftTech
+in accordance with specifications negotiated by Lopez. As a result, the license
+and the consulting services are distinct but interdependent, and
+therefore should be accounted for as one performance obligation.6
+Determining the Transaction Price—Step 3
+The transaction price is the amount of consideration that a company expects
+to receive from a customer in exchange for transferring goods and services. The
+transaction price in a contract is often easily determined because the customer
+agrees to pay a fixed amount to the company over a short period of time. In other
+contracts, companies must consider the following factors. [8]
+Variable consideration.
+Time value of money.
+Non-cash consideration.
+Consideration paid or payable to the customer.
+Variable Consideration
+In some cases, the price of a good or service is dependent on future events. These
+future events might include price increases, volume discounts, rebates, credits,
+performance bonuses, or royalties. In these cases, the company estimates the
+amount of variable consideration it will receive from the contract to determine
+the amount of revenue to recognize. Companies use either the expected value,
+which is a probability-weighted amount, or the most likely amount in a range
+of possible amounts to estimate variable consideration (see Underlying
+Concepts). Companies select among these two methods based on which
+approach better predicts the amount of consideration to which a company is
+entitled. [9] Illustration 18.4 highlights the issues to be considered in
+selecting the appropriate method.
+Underlying Concepts
+The expected value approach is also illustrated in Chapter 6 to determine the
+liability for warranties.
+
+Expected Value: Probability-
+weighted amount in a range of
+possible consideration amounts.
+Most Likely Amount: The single most
+likely amount in a range of possible
+consideration outcomes.
+May be appropriate if a company
+has a large number of contracts
+with similar characteristics.
+Can be based on a limited number
+of discrete outcomes and
+probabilities.
+May be appropriate if the contract
+has only two possible outcomes.
+ILLUSTRATION 18.4 Estimating Variable Consideration
+Illustration 18.5 provides an application of the two estimation methods.
+
+Estimating Variable Consideration
+Facts: Peabody Construction Company enters into a contract with a customer to
+build a warehouse for $100,000, with a performance bonus of $50,000 that will
+be paid based on the timing of completion. The amount of the performance
+bonus decreases by 10% per week for every week beyond the agreed-upon
+completion date. The contract requirements are similar to contracts that
+Peabody has performed previously, and management believes that such
+experience is predictive for this contract. Management estimates that there is a
+60% probability that the contract will be completed by the agreed-upon
+completion date, a 30% probability that it will be completed 1 week late, and only
+a 10% probability that it will be completed 2 weeks late.
+Question: How should Peabody account for this revenue
+arrangement?
+Solution: The transaction price should include management’s estimate of the
+amount of consideration to which Peabody will be entitled. Management has
+concluded that the probability-weighted method is the most predictive
+approach for estimating the variable consideration in this situation:
+On time: 60% chance of $150,000 [$100,000 + ($50,000 × 1.0)] = $ 90,000
+1 week late: 30% chance of $145,000 [$100,000 + ($50,000 × .90)]
+=
+2 weeks late: 10% chance of $140,000 [$100,000 + ($50,000 ×
+.80)] =
+Thus, the total transaction price is $147,500 based on the probability-weighted
+estimate. Management should update its estimate at each reporting date.
+Using a most likely outcome approach may be more predictive if a
+performance bonus is binary (Peabody either will or will not earn the
+performance bonus), such that Peabody earns either $50,000 for completion
+on the agreed-upon date or nothing for completion after the agreed-upon date.
+In this scenario, if management believes that Peabody will meet the deadline
+and estimates the consideration using the most likely outcome, the total
+transaction price would be $150,000 (the outcome with 60% probability).
+ILLUSTRATION 18.5 Transaction Price—Variable Consideration
+
+A word of caution—a company only allocates variable consideration if it is
+reasonably assured that it will be entitled to that amount. Companies
+therefore may only recognize variable consideration if (1) they have experience
+with similar contracts and are able to estimate the cumulative amount of
+revenue, and (2) based on experience, it is highly probable that there will not be a
+significant reversal of revenue previously recognized.7 If these criteria are not
+met, revenue recognition is constrained. [11] Illustration 18.6 provides
+an example of how the revenue constraint works.
+Revenue Constraint
+Facts: On January 1, Shera Company enters into a contract with Hornung Inc. to
+perform asset-management services for 1 year. Shera receives a quarterly
+management fee based on a percentage of Hornung’s assets under management
+at the end of each quarter. In addition, Shera receives a performance-based
+incentive fee of 20% of the fund’s return in excess of the return of an observable
+index at the end of the year.
+Shera accounts for the contract as a single performance obligation to perform
+investment-management services for 1 year because the services are
+interdependent and interrelated. To recognize revenue for satisfying the
+performance obligation over time, Shera selects an output method of measuring
+progress toward complete satisfaction of the performance obligation. Shera has
+had a number of these types of contracts with customers in the past.
+Question: At what point should Shera recognize the management fee
+and the performance-based incentive fee related to Hornung?
+Solution: Shera should record the management fee each quarter as it performs
+the management of the fund. However, Shera should not record the incentive
+fee until the end of the year. Although Shera has experience with similar
+contracts, that experience is not predictive of the outcome of the current
+contract because the amount of consideration is highly susceptible to volatility
+in the market. In addition, the incentive fee has a large number and high
+variability of possible consideration amounts. Thus, revenue related to the
+incentive fee is constrained (not recognized) until the incentive fee is known
+at the end of the year.
+ILLUSTRATION 18.6 Transaction Price—Revenue Constraint
+Time Value of Money
+
+Timing of payment to the company sometimes does not match the transfer of the
+goods or services to the customer. In most situations, companies receive
+consideration after the product is provided or the service performed. In essence,
+the company provides financing for the customer.
+Companies account for the time value of money if the contract involves a
+significant financing component. When a sales transaction involves a
+significant financing component (i.e., interest is accrued on consideration to be
+paid over time), the fair value is determined either by measuring the
+consideration received or by discounting the payment using an imputed interest
+rate. The imputed interest rate is the more clearly determinable of either (1) the
+prevailing rate for a similar instrument of an issuer with a similar credit rating, or
+(2) a rate of interest that discounts the nominal amount of the instrument to the
+current sales price of the goods or services. The company will report the effects of
+the financing as interest revenue. Illustration 18.7 provides an example of a
+financing transaction.
+
+Extended Payment Terms
+Facts: On July 1, 2022, SEK Industries sold goods to Grant Company for
+R$900,000 in exchange for a 4-year, zero-interest-bearing note with a face
+amount of R$1,416,163. The goods have an inventory cost on SEK’s books of
+Question: (a) How much revenue should SEK record on July 1, 2022?
+December 31, 2022?
+Solution:
+a. SEK should record revenue of R$900,000 on July 1, 2022, which is the
+fair value of the inventory in this case.
+b. SEK is also financing this purchase and records interest revenue on the
+note over the 4-year period. In this case, the interest rate is imputed and
+is determined to be 12%. SEK records interest revenue of R$54,000 (.12 ×
+½ × R$900,000) at December 31, 2022.
+The entry to record SEK’s sale to Grant Company is as follows.
+July 1, 2022
+Notes Receivable (R$1,416,163 – R$516,163) 900,000
+Sales Revenue
+The related entry to record the cost of goods sold is as follows.
+July 1, 2022
+Cost of Goods Sold 590,000
+Inventory
+SEK makes the following entry to record (accrue) interest revenue at the end
+of the year.
+December 31, 2022
+Notes Receivable
+Interest Revenue (.12 × ½ × R$900,000)
+ILLUSTRATION 18.7 Transaction Price—Extended Payment Terms
+
+As a practical expedient, companies are not required to reflect the time value of
+money to determine the transaction price if the time period for payment is less
+than a year. [12]
+Non-Cash Consideration
+Companies sometimes receive consideration in the form of goods, services, or
+other non-cash consideration. When these situations occur, companies
+generally recognize revenue on the basis of the fair value of what is
+received. For example, assume that Raylin Company receives ordinary shares of
+Monroe Company in payment for consulting services. In that case, Raylin
+Company recognizes revenue in the amount of the fair value of the ordinary
+shares received. If Raylin cannot determine this amount, then it should estimate
+the selling price of the services performed and recognize this amount as revenue.
+In addition, companies sometimes receive contributions (e.g., donations and
+gifts). A contribution is often some type of asset (e.g., securities, land, buildings,
+or use of facilities), but it could be the forgiveness of debt. In these cases,
+companies recognize revenue for the fair value of the consideration received.
+Similarly, customers sometimes contribute goods or services, such as equipment
+or labor, as consideration for goods provided or services performed. This
+consideration should be recognized as revenue based on the fair value of the
+consideration received.
+Consideration Paid or Payable to Customers
+Companies often make payments to their customers as part of a revenue
+arrangement. Consideration paid or payable may include discounts, volume
+rebates, coupons, free products, or services. In general, these elements reduce the
+consideration received and the revenue to be recognized. Illustration 18.8
+provides an example of this type of transaction.
+
+Volume Discount
+Facts: Sansung Group offers its customers a 3% volume discount if they
+purchase at least ¥2 million of its product during the calendar year. On March
+31, 2022, Sansung has made sales of ¥700,000 to Artic Co. In the previous 2
+years, Sansung sold over ¥3,000,000 to Artic in the period April 1 to December
+31. Assume that Sansung prepares financial statements quarterly.
+Question: How much revenue should Sansung recognize for the first 3
+months of 2022?
+Solution: In this case, Sansung should reduce its revenue by ¥21,000
+(¥700,000 × .03) because it is probable that it will provide this rebate.
+Revenue is therefore ¥679,000 (¥700,000 − ¥21,000). To not recognize this
+volume discount overstates Sansung’s revenue for the first 3 months of 2022.
+In other words, the appropriate revenue is ¥679,000, not ¥700,000.
+Given these facts, Sansung makes the following entry on March 31, 2022, to
+recognize revenue.
+Accounts Receivable 679,000
+Sales Revenue
+Assuming that Sansung’s customer meets the discount threshold, Sansung
+makes the following entry to record collection of accounts receivable.
+Cash
+Accounts Receivable
+If Sansung’s customer fails to meet the discount threshold, Sansung
+makes the following entry to record collection of accounts receivable.
+Cash
+Accounts Receivable
+Sales (Volume) Discounts Forfeited
+As indicated in Chapter 7, Sales Discounts Forfeited is reported in the “Other
+income and expense” section of the income statement.
+ILLUSTRATION 18.8 Transaction Price—Volume Discount
+In many cases, companies provide cash discounts to customers for a short period
+of time (often referred to as prompt settlement discounts). For example, assume
+
+that terms are payment due in 60 days, but if payment is made within five days, a
+two percent discount is given (referred to as 2/5, net 60). These prompt
+settlement discounts should reduce revenues, if material. In most cases,
+companies record the revenue at full price (gross) and record a sales discount if
+payment is made within the discount period.
+Allocating the Transaction Price to Separate Performance
+Obligations—Step 4
+Companies often have to allocate the transaction price to more than one
+performance obligation in a contract. If an allocation is needed, the transaction
+price allocated to the various performance obligations is based on their relative
+fair values. The best measure of fair value is what the company could sell the
+good or service for on a standalone basis, referred to as the standalone selling
+price. If this information is not available, companies should use their best
+estimate of what the good or service might sell for as a standalone unit.
+Illustration 18.9 summarizes the approaches that companies follow (in
+preferred order of use).
+Allocation
+Approach
+Implementation
+Adjusted
+market
+assessment
+approach
+Evaluate the market in which a company sells goods or services and
+estimate the price that customers in that market are willing to pay
+for those goods or services. That approach also might include
+referring to prices from the company’s competitors for similar
+goods or services and adjusting those prices as necessary to reflect
+the company’s costs and margins.
+Expected
+cost plus a
+margin
+approach
+Forecast expected costs of satisfying a performance obligation and
+then add an appropriate margin for that good or service.
+Residual
+approach
+If the standalone selling price of a good or service is highly variable
+or uncertain, then a company may estimate the standalone selling
+price by reference to the total transaction price less the sum of the
+observable standalone selling prices of other goods or services
+promised in the contract.8
+ILLUSTRATION 18.9 Transaction Price—Allocation
+To illustrate, Travis Merchants enters into a contract with a customer to sell
+Products A, B, and C in exchange for £100,000. Travis regularly sells Product A
+separately, and therefore the standalone selling price is directly observable at
+£50,000. The standalone selling price of Product B is estimated using the
+
+adjusted market assessment approach and is determined to be £30,000. Travis
+decides to use the residual approach to value Product C, as it has confidence that
+Products A and B are valued correctly. The selling price for the products is
+allocated as shown in Illustration 18.10.
+Product
+Price
+Rationale
+A
+£ 50,000 Directly observable using standalone selling price.
+B
+Directly observable using adjusted market assessment
+approach.
+C
+[£100,000 − (£50,000 + £30,000)]; using the residual
+approach given reliability of the two above
+measurements.
+Total
+transaction
+price
+ILLUSTRATION 18.10 Residual Value Allocation
+Illustrations 18.11 and 18.12 are additional examples of the measurement
+issues involved in allocating the transaction price.
+
+Multiple Performance Obligations—Example 1
+Facts: Lonnie Company enters into a contract to build, run, and maintain a
+highly complex piece of electronic equipment for a period of 5 years,
+commencing upon delivery of the equipment. There is a fixed fee for each of the
+build, run, and maintenance deliverables, and any progress payments made are
+non-refundable. It is determined that the transaction price must be allocated to
+the three performance obligations: building, running, and maintaining the
+equipment. There is verifiable evidence of the selling price for the building and
+maintenance but not for running the equipment.
+Question: What procedure should Lonnie Company use to allocate the
+transaction price to the three performance obligations?
+Solution: The performance obligations relate to building the equipment,
+running the equipment, and maintaining the equipment. As indicated, Lonnie
+can determine verifiable standalone selling prices for the equipment and the
+maintenance agreements. The company then can make a best estimate of the
+selling price for running the equipment, using the adjusted market assessment
+approach or expected cost plus a margin approach. Lonnie next applies the
+proportional standalone selling price method at the inception of the
+transaction to determine the proper allocation to each performance obligation.
+Once the allocation is performed, Lonnie recognizes revenue independently
+for each performance obligation using regular revenue recognition criteria.
+If, on the other hand, Lonnie is unable to estimate the standalone selling price
+for running the equipment because such an estimate is highly variable or
+uncertain, Lonnie may use a residual approach. In this case, Lonnie uses the
+standalone selling prices of the equipment and maintenance agreements and
+subtracts these prices from the total transaction price to arrive at a residual
+value for running the equipment.
+ILLUSTRATION 18.11 Allocation—Multiple Performance Obligations
+
+Multiple Performance Obligations—Example 2
+Facts: Handler Company is an established manufacturer of equipment used in
+the construction industry. Handler’s products range from small to large
+individual pieces of automated machinery to complex systems containing
+numerous components. Unit selling prices range from $600,000 to $4,000,000
+and are quoted inclusive of installation and training. The installation process
+does not involve changes to the features of the equipment and does not require
+proprietary information about the equipment in order for the installed
+equipment to perform to specifications. Handler has the following arrangement
+with Chai Company.
+Chai purchases equipment from Handler for a price of $2,000,000 and
+chooses Handler to do the installation. Handler charges the same price for
+the equipment irrespective of whether it does the installation or not. (Some
+companies do the installation themselves because they either prefer their
+own employees to do the work or because of relationships with other
+customers.) The installation service included in the arrangement is
+estimated to have a standalone selling price of $20,000.
+The standalone selling price of the training sessions is estimated at
+$50,000. Other companies can also perform these training services.
+Chai is obligated to pay Handler the $2,000,000 upon the delivery and
+installation of the equipment.
+Handler delivers and completes installation of the equipment on November
+1, 2022. Training related to the equipment starts once the installation is
+completed and lasts for 1 year. The equipment has a useful life of 10 years.
+Questions: (a) What are the performance obligations for purposes of
+accounting for the sale of the equipment? (b) If there is more than one
+performance obligation, how should the payment of $2,000,000 be
+allocated to various components?
+Solution:
+a. Handler’s primary objective is to sell equipment. The other services
+(installation and training) can be performed by other parties if necessary.
+As a result, the equipment, installation, and training are three separate
+products or services. Each of these items has a standalone selling price,
+and the items are not interdependent.
+
+b. The total revenue of $2,000,000 should be allocated to the three
+components based on their relative standalone selling prices. In this case,
+the standalone selling price of the equipment is $2,000,000, the
+installation fee is $20,000, and the training is $50,000. The total
+standalone selling price therefore is $2,070,000 ($2,000,000 + $20,000 +
+$50,000). The allocation is as follows.
+Equipment $1,932,367 [($2,000,000 ÷ $2,070,000) × $2,000,000]
+Installation
+$19,324 [($20,000 ÷ $2,070,000) × $2,000,000]
+Training
+$48,309 [($50,000 ÷ $2,070,000) × $2,000,000]
+Handler makes the following entry on November 1, 2022, to record both sales
+revenue and service revenue on the installation, as well as unearned service
+revenue.
+November 1, 2022
+Cash
+Service Revenue (installation)
+Unearned Service Revenue
+Sales Revenue
+Assuming the cost of the equipment is $1,500,000, the entry to record cost of
+goods sold is as follows.
+November 1, 2022
+Cost of Goods Sold 1,500,000
+Inventory
+As indicated by these entries, Handler recognizes revenue from the sale of the
+equipment on November 1, 2022. In addition, it recognizes revenue for the
+installation fee because these services have been performed.
+Handler recognizes the training revenues on a straight-line basis starting on
+November 1, 2022, or $4,026 ($48,309 ÷ 12) per month for 1 year (unless a
+more appropriate method such as the percentage-of-completion method—
+discussed in the next section—is warranted). The journal entry to recognize
+the training revenue for 2 months in 2022 is as follows.
+December 31, 2022
+Unearned Service Revenue
+Service Revenue (training) ($4,026 × 2)
+
+Therefore, Handler recognizes revenue at December 31, 2022, in the amount
+of $1,959,743 ($1,932,367 + $19,324 + $8,052). Handler makes the following
+journal entry to recognize the remaining training revenue in 2023, assuming
+adjusting entries are made at year-end.
+December 31, 2023
+Unearned Service Revenue
+Service Revenue (training) ($48,309 − $8,052)
+ILLUSTRATION 18.12 Multiple Performance Obligations—Product,
+Installation, and Service
+Recognizing Revenue When (or as) Each Performance Obligation
+Is Satisfied—Step 5
+A company satisfies its performance obligation when the customer obtains
+control of the good or service. As indicated in the Handler example (in
+Illustration 18.12) and the BEAN example, the concept of change in control is the
+deciding factor in determining when a performance obligation is satisfied. The
+customer controls the product or service when it has the ability to direct the use
+of and obtain substantially all the remaining benefits from the asset or service.
+Control also includes the customer’s ability to prevent other companies from
+directing the use of, or receiving the benefits, from the asset or service.
+Illustration 18.13 summarizes the indicators that the customer has obtained
+control. [14]
+1. The company has a right to payment for the asset.
+2. The company has transferred legal title to the asset.
+3. The company has transferred physical possession of the asset.
+4. The customer has significant risks and rewards of ownership.
+5. The customer has accepted the asset.
+ILLUSTRATION 18.13 Change in Control Indicators
+This is a list of indicators, not requirements or criteria. Not all of the indicators
+need to be met for management to conclude that control has transferred and
+revenue can be recognized. Management must use judgment to determine
+whether the factors collectively indicate that the customer has obtained control.
+This assessment should be focused primarily on the customer’s perspective.
+
+Companies satisfy performance obligations either at a point in time or over a
+period of time. Companies recognize revenue over a period of time if one of the
+following three criteria is met.
+1. The customer receives and consumes the benefits as the seller performs.
+2. The customer controls the asset as it is created or enhanced (e.g., a builder
+constructs a building on a customer’s property).
+3. The company does not have an alternative use for the asset created or
+enhanced (e.g., an aircraft manufacturer builds specialty jets to a customer’s
+specifications); and either (a) the customer receives benefits as the company
+performs, and therefore the task would not need to be re-performed, or (b)
+the company has a right to payment, and this right is enforceable.
+Illustration 18.14 provides an example of the point in time when revenue
+should be recognized.
+Timing of Revenue Recognition
+Facts: Gomez Software enters into a contract with Hurly Company to develop
+and install customer relationship management (CRM) software. Progress
+payments are made upon completion of each stage of the contract. If the
+contract is terminated, then the partially completed CRM software passes to
+Hurly Company. Gomez Software is prohibited from redirecting the software to
+another customer.
+Question: At what point should Gomez Software recognize revenue
+related to its contract with Hurly Company?
+Solution: Gomez Software does not create an asset with an alternative use
+because it is prohibited from redirecting the software to another customer. In
+addition, Gomez Software is entitled to payments for performance to date and
+expects to complete the project. Therefore, Gomez Software concludes that the
+contract meets the criteria for recognizing revenue over time.
+ILLUSTRATION 18.14 Satisfying a Performance Obligation
+A company recognizes revenue from a performance obligation over time by
+measuring the progress toward completion. The method selected for measuring
+progress should depict the transfer of control from the company to the customer.
+For many service arrangements, revenue is recognized on a straight-
+line basis because the performance obligation is being satisfied ratably
+
+over the contract period. In other settings (e.g., long-term construction
+contracts), companies use various methods to determine the extent of progress
+toward completion. The most common are the cost-to-cost and units-of-delivery
+methods. The objective of all these methods is to measure the extent of progress
+in terms of costs, units, or value added. Companies identify the various measures
+(costs incurred, labor hours worked, tons produced, floors completed, etc.) and
+classify them as input or output measures.
+Input measures (e.g., costs incurred and labor hours worked) are efforts devoted
+to a contract. Output measures (with units of delivery measured as tons
+produced, floors of a building completed, miles of a highway completed, etc.)
+track results. Neither is universally applicable to all long-term projects. Their use
+requires the exercise of judgment and careful tailoring to the circumstances.
+The most popular input measure used to determine the progress toward
+completion is the cost-to-cost basis. Under this basis, a company measures the
+percentage of completion by comparing costs incurred to date with the most
+recent estimate of the total costs required to complete the contract. The
+percentage-of-completion method is discussed more fully in Appendix 18A, which
+examines the accounting for long-term contracts.
+Summary
+Illustration 18.15 provides a summary of the five-step revenue recognition
+process.
+
+Step in
+Process
+Description
+Implementation
+1. Identify the
+contract
+with
+customers.
+A contract is an
+agreement that creates
+enforceable rights or
+obligations.
+A company applies the revenue
+guidance to contracts with customers.
+2. Identify the
+separate
+performance
+obligations
+in the
+contract.
+A performance
+obligation is a promise
+in a contract to provide
+a product or service to a
+customer. A
+performance obligation
+exists if the customer
+can benefit from the
+good or service on its
+own or together with
+other readily available
+resources.
+A contract may be comprised of
+multiple performance obligations.
+The accounting for multiple
+performance obligations is based on
+evaluation of whether the product or
+service is distinct within the contract.
+If each of the goods or services is
+distinct, but are all interdependent
+and interrelated, these goods and
+services are combined and reported
+as one performance obligation.
+3. Determine
+the
+transaction
+price.
+The transaction price is
+the amount of
+consideration that a
+company expects to
+receive from a
+customer in exchange
+for transferring goods
+and services.
+In determining the transaction price,
+companies must consider the
+following factors: (1) variable
+consideration, (2) time value of
+money, (3) non-cash consideration,
+and (4) consideration paid or payable
+to customer.
+4. Allocate the
+transaction
+price to the
+separate
+performance
+obligations.
+If more than one
+performance obligation
+exists, allocate the
+transaction price based
+on relative fair values.
+The best measure of fair value is
+what the good or service could be
+sold for on a standalone basis
+(standalone selling price). Estimates
+of standalone selling price can be
+based on (1) adjusted market
+assessment, (2) expected cost plus a
+margin approach, or (3) a residual
+approach.
+5. Recognize
+A company satisfies its
+performance obligation
+Companies satisfy performance
+obligations either at a point in time
+
+revenue
+when each
+performance
+obligation is
+satisfied.
+when the customer
+obtains control of the
+good or service.
+or over a period of time. Companies
+recognize revenue over a period of
+time if one of the following criteria is
+met: (1) the customer receives and
+consumes the benefits as the seller
+performs, (2) the customer controls
+the asset as it is created, or (3) the
+company does not have an alternative
+use for the asset.
+ILLUSTRATION 
+Summary 
+of 
+the 
+Five-Step 
+Revenue
+Recognition Process
+Accounting for Revenue Recognition Issues
+LEARNING OBJECTIVE 3
+Apply the five-step process to major revenue recognition issues.
+This section addresses revenue recognition issues found in practice. Most of
+these issues relate to determining the transaction price (Step 3) and evaluating
+when control of the product or service passes to the customer (Step 5). The
+revenue recognition principle and the concept of control are illustrated for the
+following situations.
+Sales returns and allowances.
+Repurchase agreements.
+Bill-and-hold arrangements.
+Principal-agent relationships.
+Consignments.
+Warranties.
+Non-refundable upfront fees.
+Sales Returns and Allowances
+Sales returns and allowances are very common for many companies that sell
+goods to customers. For example, assume that Fafco Solar sells solar panels to
+customers on account. Fafco grants customers the right of return for these panels
+for various reasons (e.g., dissatisfaction with the product) and to receive any
+combination of the following.
+
+1. A full or partial refund of any consideration paid.
+2. A credit that can be applied against amounts owed, or that will be owed, to
+the seller.
+3. Another product in exchange.
+To account for these sales returns and allowances, Fafco should recognize the
+following:
+a. Revenue for the transferred solar panels in the amount of consideration to
+which Fafco is reasonably assured to be entitled (considering the products to
+be returned or allowance granted).
+b. An asset (and corresponding adjustment to cost of goods sold) for the goods
+expected to be returned from customers.
+Credit Sales with Returns and Allowances
+To illustrate the accounting for a return situation in more detail, assume that on
+January 12, 2022, Venden NV sells 100 cameras for €100 each on account to
+Amaya SA. Venden allows Amaya to return any unused cameras within 45 days of
+purchase. The cost of each product is €60. Venden estimates that:
+1. Three products will be returned.
+2. The cost of recovering the products will be immaterial.
+3. The returned products are expected to be resold at a profit.
+On January 24, Amaya returns two of the cameras because they are the wrong
+color. On January 31, Venden prepares financial statements and determines that
+it is likely that only one more camera will be returned. Venden makes the
+following entries related to these transactions.
+The Sales Returns and Allowances account is a contra account to Sales Revenue.
+The Returned Inventory account is used to separate returned inventory from
+regular inventory.
+
+On January 31, 2022, Venden prepares financial statements. As indicated earlier,
+Venden originally estimated that the most likely outcome was that three cameras
+would be returned. Venden believes the original estimate is correct and makes
+the following adjusting entries to account for expected returns at January 31,
+The Refund Liability account is a current liability. The Estimated Inventory
+Returns account will generally be added to the Returned Inventory account at the
+end of the reporting period.9
+For the month of January, Venden’s income statement reports the information
+presented in Illustration 18.16.
+Sales revenue (100 × €100)
+Less: Sales returns and allowances (€200 + €100)
+Net sales
+Cost of goods sold (97 × €60)
+Gross profit
+ILLUSTRATION 18.16 Income Statement Reporting
+As a result, at the end of the reporting period, the net sales reflects the amount
+that Venden is expected to be entitled to collect.
+Venden reports the information in the statement of financial position as of
+January 31, 2022 as shown in Illustration 18.17.
+
+Accounts receivable (€10,000 − €200)
+Returned inventory (including estimated) (3 × €60)
+Refund liability
+ILLUSTRATION 18.17 Statement of Financial Position Reporting
+Cash Sales with Returns and Allowances
+Assume now that Venden sold the cameras to Amaya for cash instead of on
+account. In this situation, Venden makes the following entries related to these
+transactions.
+Assuming that Venden did not pay cash at the time of the return of the two
+cameras to Amaya on January 24, 2022, the entries to record the return of the
+two cameras and related cost of goods sold are as follows.
+Venden records a refund liability to Amaya to recognize that it owes Amaya for
+the return of two cameras. As indicated earlier, the Sales Returns and Allowances
+account is a contra-revenue account. The Returned Inventory account is used to
+separate returned inventory from regular inventory.
+On January 31, 2022, Venden prepares financial statements. As indicated earlier,
+Venden estimates that the most likely outcome is that one more camera will be
+returned. Venden therefore makes the following adjusting entries.
+
+At January 31, 2022, Venden records a refund liability to recognize its estimated
+additional liability to Amaya for expected future returns. The Estimated
+Inventory Returns account will generally be added to the Returned Inventory
+account at the end of the reporting period to identify returned and estimated
+inventory returns.
+Illustration 18.18 presents the information related to these sales that will be
+reported on Venden’s income statement for the month of January.
+Sales revenue (100 × €100)
+Less: Sales returns and allowances (3 × €100)
+Net sales
+Cost of goods sold (97 × €60)
+Gross profit
+ILLUSTRATION 18.18 Income Statement Reporting Sales Returns
+and Allowances
+On Venden’s statement of financial position as of January 31, 2022, the
+information is reported as shown in Illustration 18.19.
+Cash (assuming no cash payments to date to Amaya) €10,000
+Returned inventory (including estimated) (3 × €60)
+Refund liability (€200 + €100)
+ILLUSTRATION 18.19 Statement of Financial Position Reporting
+Sales Returns and Allowances
+Companies record the returned asset in a separate account from inventory to
+provide transparency. The carrying value of the returned asset is subject to
+impairment testing, separate from the inventory. If a company is unable to
+estimate the level of returns with any reliability, it should not report any revenue
+until the returns become predictive.
+
+What Do the Numbers Mean?
+Boomerang Sales!
+With the explosive growth and increasing competition in the e-commerce
+world, many new business opportunities and challenges have arisen. For
+example, the furniture retailer Wayfair Inc. (USA) has needed to sort out
+how to deliver home furnishings (including large furniture items) to their
+customers, which is a much more challenging task than small-package
+delivery. The company reports it has established multiple warehouses in the
+United States, Canada, and Europe, and primarily uses its own employees for
+home delivery rather than third-party delivery companies.
+As sales have increased, another challenge has arisen in the e-commerce
+world—returns. For an industry that ships millions of packages a week,
+retailers are now also dealing with returns that can represent as much as one-
+third of their original sales. The return rate is especially high for retailers that
+sell clothing and footwear items, where sizing and other factors contribute to
+returns.
+The challenge has reached a point where companies are designing special
+“reverse logistics” processes to deal with the returned items. For example, it
+has been documented that returned items require 20 percent more
+warehouse space, compared to items that have not yet been sold.
+As discussed in the chapter, companies must consider the possibility of
+returns and how they can impact reported revenues. The issue of returns is
+both an operations and an accounting issue.
+Sources: McKinsey, “Bulky is beautiful: How Wayfair Is Poised to Meet Massive New Demand for
+Home Goods—and Home Delivery,” McKinsey.com (December 2019); Erica E. Phillips, “Holiday
+Returns Already Are Flooding Parcel Networks,” Wall Street Journal (December 20, 2018); Steve
+Dennis, “The Ticking Time Bomb of E-Commerce Returns,” Forbes.com (February 12, 2018); Diana
+Olick, “The Surge in Online-Shopping Returns Has Boosted the Warehouse Sector,” CNBC.com
+(January 4, 2019).
+Repurchase Agreements
+In some cases, companies enter into repurchase agreements, which allow
+them to transfer an asset to a customer but have an unconditional (forward)
+obligation or unconditional right (call option) to repurchase the asset at a later
+date. In these situations, the question is whether the company sold the asset.10
+Generally, companies report these transactions as a financing (borrowing). That
+is, if the selling company has a forward obligation or call option to repurchase the
+asset for an amount greater than or equal to its selling price, then the
+
+transaction is a financing transaction by the company.11 Illustration 18.20
+examines the issues related to a repurchase agreement.
+
+Repurchase Agreement
+Facts: Morgan Ltd., an equipment dealer, sells equipment on January 1, 2022, to
+Lane Construction for £100,000. It agrees to repurchase this equipment (an
+unconditional obligation) from Lane Construction on December 31, 2023, for a
+price of £121,000.
+Question: Should Morgan Ltd. record a sale for this transaction?
+Solution: For a sale and repurchase agreement, the terms of the agreement
+need to be analyzed to determine whether Morgan Ltd. has transferred control
+to the customer, Lane Construction. As indicated earlier, control of an asset
+refers to the ability to direct the use of and obtain substantially all the benefits
+from the asset. Control also includes the ability to prevent other companies
+from directing the use of and receiving the benefit from a good or service. In
+this case, Morgan continues to have control of the asset because it has agreed
+to repurchase the asset at an amount greater than the selling price. Therefore,
+this agreement is a financing transaction and not a sale. Thus, the asset is not
+removed from the books of Morgan.
+Assuming that an interest rate of 10% is imputed from the agreement, Morgan
+makes the following entries to record this agreement. Morgan records the
+financing on January 1, 2022, as follows.
+January 1, 2022
+Cash
+Liability to Lane Construction
+Morgan records interest on December 31, 2022, as follows.
+December 31, 2022
+Interest Expense
+Liability to Lane Construction (£100,000 × .10)
+Morgan records interest and retirement of its liability to Lane as follows.
+December 31, 2023
+Interest Expense
+Liability to Lane Construction (£110,000 × .10)
+Liability to Lane Construction
+Cash (£100,000 + £10,000 + £11,000)
+
+ILLUSTRATION 18.20 Recognition—Repurchase Agreement
+Rather than Morgan Ltd. having a forward or call option to repurchase the asset,
+assume that Lane Construction has the option to require Morgan Ltd. to
+repurchase the asset at December 31, 2023. This option is a put option; that is,
+Lane has the option to put the asset back to Morgan. In this situation, Lane has
+control of the asset, as it can keep the equipment or sell it to Morgan or to some
+other third party. The value of a put option increases when the value of the
+underlying asset (in this case, the equipment) decreases. In determining how to
+account for this transaction, Morgan has to determine whether Lane will have an
+economic incentive to exercise this put option at the end of 2023.
+Specifically, Lane has a significant economic incentive to exercise its put option if
+the value of the equipment declines. In this case, the transaction is generally
+reported as a financing transaction as shown in Illustration 18.20. That is, Lane
+will return (put) the equipment back to Morgan if the repurchase price exceeds
+the fair value of the equipment. For example, if the repurchase price of the
+equipment is £150,000 but its fair value is £125,000, Lane is better off returning
+the equipment to Morgan.
+Conversely, if Lane does not have a significant economic incentive to exercise its
+put option, then the transaction should be reported as a sale of a product with a
+right of return.
+Bill-and-Hold Arrangements
+A bill-and-hold arrangement is a contract under which an entity bills a
+customer for a product but the entity retains physical possession of the product
+until it is transferred to the customer at a point in time in the future. Bill-and-
+hold sales result when the buyer is not yet ready to take delivery but does take
+title and accepts billing. For example, a customer may request a company to enter
+into such an arrangement because of (1) lack of available space for the product,
+(2) delays in its production schedule, or (3) more than sufficient inventory in its
+distribution channel. [16] Illustration 18.21 provides an example of a bill-and-
+hold arrangement.
+
+Bill and Hold
+Facts: Butler A.Ş. sells 450,000 (cost 280,000) of fireplaces on March 1, 2022,
+to a local coffee shop, Baristo, which is planning to expand its locations around
+the city. Under the agreement, Baristo asks Butler to retain these fireplaces in its
+warehouses until the new coffee shops that will house the fireplaces are ready.
+Title passes to Baristo at the time the agreement is signed.
+Question: When should Butler recognize the revenue from this bill-
+and-hold arrangement?
+Solution: When to recognize revenue in a bill-and-hold arrangement depends
+on the circumstances. Butler determines when it has satisfied its performance
+obligation to transfer a product by evaluating when Baristo obtains control of
+that product. For Baristo to have obtained control of a product in a bill-and-
+hold arrangement, it must meet all of the conditions for change in control plus
+all of the following criteria:
+a. The reason for the bill-and-hold arrangement must be substantive.
+b. The product must be identified separately as belonging to Baristo.
+c. The product currently must be ready for physical transfer to Baristo.
+d. Butler cannot have the ability to use the product or to direct it to another
+customer.
+In this case, assuming that the above criteria were met in the contract,
+revenue recognition should be permitted at the time the contract is signed.
+Butler has transferred control to Baristo; that is, Butler has a right to payment
+for the fireplaces and legal title has transferred.
+Butler makes the following entry to record the bill-and-hold sale and related
+cost of goods sold.
+March 1, 2022
+Accounts Receivable 450,000
+Sales Revenue
+Cost of Goods Sold
+Inventory
+
+ILLUSTRATION 18.21 Recognition—Bill and Hold
+Principal-Agent Relationships
+In a principal-agent relationship, the principal’s performance obligation is to
+provide goods or perform services for a customer. The agent’s performance
+obligation is to arrange for the principal to provide these goods or services to a
+customer. Examples of principal-agent relationships are as follows.
+Preferred Travel Company (agent) facilitates the booking of cruise
+excursions by finding customers for Regency Cruise Company (principal).
+Priceline (USA) (agent) facilitates the sale of various services such as car
+rentals for Hertz (USA) (principal).
+In these types of situations, amounts collected on behalf of the principal are not
+revenue of the agent. Instead, revenue for the agent is the amount of the
+commission it receives (usually a percentage of total revenue). Illustration
+18.22 provides an example of the issues related to principal-agent relationships.
+Principal-Agent Relationship
+Facts: Fly-Away Travel sells airplane tickets for British Airways (BA) (GBR)
+to various customers.
+Question: What are the performance obligations in this situation and
+how should revenue be recognized for both the principal and agent?
+Solution: The principal in this case is BA and the agent is Fly-Away Travel.
+Because BA has the performance obligation to provide air transportation to the
+customer, it is the principal. Fly-Away Travel facilitates the sale of the airline
+ticket to the customer in exchange for a fee or commission. Its performance
+obligation is to arrange for BA to provide air transportation to the customer.
+Although Fly-Away collects the full airfare from the customer, it then remits
+this amount to BA less the commission. Fly-Away therefore should not record
+the full amount of the fare as revenue on its books—to do so overstates
+revenue. Its revenue is the commission, not the full price. Control of
+performing the air transportation is with BA, not Fly-Away Travel.
+ILLUSTRATION 18.22 Recognition—Principal-Agent Relationship
+
+Some might argue that there is no harm in Fly-Away recording revenue for the
+full price of the ticket and then charging the cost of the ticket against the revenue
+(often referred to as the gross method of recognizing revenue). Others note
+that this approach overstates the agent’s revenue and is misleading. The revenue
+received is the commission for providing the travel services, not the full fare price
+(often referred to as the net approach). The profession believes the net
+approach is the correct method for recognizing revenue in a principal-agent
+relationship. As a result, the IASB has developed specific criteria to determine
+when a principal-agent relationship exists.12 An important feature in deciding
+whether Fly-Away is acting as an agent is whether the amount it earns is
+predetermined, being either a fixed fee per transaction or a stated percentage of
+the amount billed to the customer.
+Consignments
+A common principal-agent relationship involves consignments. In these cases,
+manufacturers (or wholesalers) deliver goods but retain title to the goods until
+they are sold. This specialized method of marketing certain types of products
+makes use of an agreement known as a consignment. Under this arrangement,
+the consignor (manufacturer or wholesaler) ships merchandise to the
+consignee (dealer), who is to act as an agent for the consignor in selling the
+merchandise. Both consignor and consignee are interested in selling—the former
+to make a profit or develop a market, the latter to make a commission on the sale.
+The consignee accepts the merchandise and agrees to exercise due diligence in
+caring for and selling it. The consignee remits to the consignor cash received
+from customers, after deducting a sales commission and any chargeable
+expenses. In consignment sales, the consignor uses a modified version of the
+point-of-sale basis of revenue recognition. That is, the consignor recognizes
+revenue only after receiving notification of the sale.
+The consignor carries the merchandise as inventory throughout the consignment,
+separately classified as Inventory (consignments). The consignee does not
+record the merchandise as an asset on its books. Upon sale of the
+merchandise, the consignee has a liability for the net amount due the
+consignor. The consignor periodically receives from the consignee a report
+called account sales that shows the merchandise received, merchandise sold,
+expenses chargeable to the consignment, and cash remitted. Revenue is then
+recognized by the consignor. Analysis of a consignment arrangement is provided
+in Illustration 18.23.
+
+Sales on Consignment
+Facts: Nelba Manufacturing ships merchandise costing €36,000 on
+consignment to Best Value Stores. Nelba pays €3,750 of freight costs, and Best
+Value pays €2,250 for local advertising costs that are reimbursable from Nelba.
+By the end of the period, Best Value has sold two-thirds of the consigned
+merchandise for €40,000 cash. Best Value notifies Nelba of the sales, retains a
+10% commission, and remits the cash due Nelba.
+Question: What are the journal entries that the consignor (Nelba) and
+the consignee (Best Value) make to record this transaction?
+Solution:
+
+ILLUSTRATION 18.23 Recognition—Sales on Consignment
+Under the consignment arrangement, the consignor accepts the risk that the
+merchandise might not sell and relieves the consignee of the need to commit part
+of its working capital to inventory. Consignors use a variety of systems and
+account titles to record consignments, but they all share the common goal of
+postponing the recognition of revenue until it is known that a sale to a third party
+has occurred. Consignees only recognize commission revenue.
+Warranties
+As discussed in Chapter 13, companies often provide one of two types of
+warranties to customers:
+1. Warranties that the product meets agreed-upon specifications in the
+contract at the time the product is sold. This type of warranty is
+included in the sales price of a company’s product and is often referred to as
+an assurance-type warranty.
+2. Warranties that provide an additional service beyond the assurance-
+type warranty. This warranty is not included in the sales price of the
+product and is referred to as a service-type warranty. As a consequence, it
+is recorded as a separate performance obligation.
+Companies do not record a separate performance obligation for assurance-type
+warranties. This type of warranty is nothing more than a quality guarantee that
+the good or service is free from defects at the point of sale. In this case, the sale
+of the product and the related assurance warranty are one performance
+obligation, as they are interdependent of and interrelated with each other. The
+objective for companies that issue an assurance warranty is to provide a
+combined item (product and a warranty).
+These types of obligations should be expensed in the period the goods are
+provided or services performed. In addition, the company should record a
+warranty liability. The estimated amount of the liability includes all the costs that
+the company will incur after sale due to the correction of defects or deficiencies
+required under the warranty provisions.
+In addition, companies sometimes provide customers with an option to purchase
+a warranty separately. In most cases, these extended warranties provide the
+customer a service beyond fixing defects that existed at the time of sale. For
+example, when you purchase a TV, you are entitled to the company’s warranty.
+You will also undoubtedly be offered an extended warranty on the product at an
+additional cost. These service-type warranties represent a separate service and
+
+are an additional performance obligation. The service-type warranty is sold
+separately and therefore has a standalone selling price. In this case, the objective
+of the company is to sell an additional service to customers. As a result,
+companies should allocate a portion of the transaction price to this performance
+obligation, if provided. The company recognizes revenue in the period that the
+service-type warranty is in effect. Illustration 18.24 presents an example of
+both an assurance-type and a service-type warranty.
+
+Warranties
+Facts: Maverick Company sold 1,000 Rollomatics on October 1, 2022, at a total
+price of $6,000,000, with a warranty guarantee that the product was free of
+defects. The cost of the Rollomatics is $4,000,000. The term of this assurance
+warranty is 2 years, with an estimated cost of $80,000. In addition, Maverick
+sold extended warranties related to 400 Rollomatics for 3 years beyond the 2-
+year period for $18,000. On November 22, 2022, Maverick incurred labor costs
+of $3,000 and part costs of $25,000 related to the assurance warranties.
+Maverick prepares financial statements on December 31, 2022. It estimates that
+its future assurance warranty costs will total $44,000 at December 31, 2022.
+Question: What are the journal entries that Maverick Company should
+make in 2022 related to the sale of the Rollomatics and the assurance
+and extended warranties?
+Solution: Maverick makes the following entries in 2022 related to Rollomatics
+sold with warranties.
+October 1, 2022
+To record the sale of the Rollomatics and the related extended warranties:
+Cash ($6,000,000 + $18,000)
+Sales Revenue
+Unearned Warranty Revenue
+To record the cost of goods sold and reduce the inventory of Rollomatics:
+Cost of Goods Sold
+Inventory
+November 22, 2022
+To record the warranty costs incurred:
+Warranty Expense
+Salaries and Wages Payable
+Inventory (parts)
+December 31, 2022
+To record the adjusting entry related to its assurance warranty at the end of
+the year:
+Warranty Expense
+Warranty Liability
+
+ILLUSTRATION 18.24 Recognition—Performance Obligations and
+Warranties
+Maverick Company makes an adjusting entry to record a liability for the expected
+warranty costs related to the sale of the Rollomatics. As the Chapter 13 examples
+illustrated, when actual warranty costs are incurred in 2023, the Warranty
+Liability account is reduced.13
+In most cases, Unearned Warranty Revenue (related to the service-type
+warranty) is recognized on a straight-line basis as Warranty Revenue over the
+three-year period to which it applies. Revenue related to the extended warranty is
+not recognized until the warranty becomes effective on October 1, 2024. If
+financial statements are prepared on December 31, 2024, Maverick makes the
+following entry to recognize revenue:
+Unearned Warranty Revenue
+Warranty Revenue [($18,000 ÷ 36) × 3]
+As indicated, the company also recognizes revenue related to the service-type
+warranty over the three-year period that extends beyond the assurance warranty
+period (two years). In most cases, the unearned warranty revenue is recognized
+on a straight-line basis. The costs associated with the service-type warranty are
+expensed as incurred.
+Non-refundable Upfront Fees
+Companies sometimes receive payments (upfront fees) from customers before
+they deliver a product or perform a service. Upfront payments generally relate to
+the initiation, activation, or setup of a good or service to be provided or
+performed in the future. In most cases, these upfront payments are non-
+refundable. Examples include fees paid for membership in a health club or
+buying club, and activation fees for phone, Internet, or cable.
+Companies must determine whether these non-refundable advance payments are
+for products or services in the current period. In most situations, these payments
+are for future delivery of products and services and should therefore not be
+recorded as revenue at the time of payment. In some cases, the upfront fee is
+viewed as being similar to a renewal option for future products and services at a
+reduced price. An example would be a health club where once the initiation fee is
+paid, no additional fee is necessary upon renewal. Illustration 18.25 provides
+an example of an upfront fee payment.
+
+Upfront fee Considerations
+Facts: Erica Felise signs a 1-year contract with Bigelow Health Club. The terms
+of the contract are that Erica is required to pay a non-refundable initiation fee of
+£200 and a membership fee of £50 per month. Bigelow determines that its
+customers, on average, renew their annual membership two times before
+terminating their membership.
+Question: What is the amount of revenue Bigelow Health Club should
+recognize in the first year?
+Solution: In this case, the membership fee arrangement may be viewed as a
+single performance obligation (similar services are provided in all periods).
+That is, Bigelow is providing a discounted price in the second and third years
+for the same services, and this should be reflected in the revenue recognized in
+those periods. Bigelow determines the total transaction price to be £2,000—
+the upfront fee of £200 and the three years of monthly fees of £1,800 (£50 ×
+36)—and allocates it over the 3 years. In this case, Bigelow would report
+revenue of £55.56 (£2,000 ÷ 36) each month for 3 years. Unless otherwise
+instructed, use this approach for homework problems.14
+ILLUSTRATION 
+Transaction 
+Price—Upfront 
+Fee
+Considerations
+Summary
+Illustration 18.26 provides a summary of the additional issues related to
+transfer of control and revenue recognition.
+
+Issue
+Description
+Implementation
+Sales returns
+and
+allowances
+Return of product by
+customer (e.g., due to
+dissatisfaction with the
+product) in exchange for
+refunds, a credit against
+amounts owed or that will
+be owed, and/or another
+product in exchange.
+Seller may recognize (a) a liability
+(and an adjustment to revenue for
+products expected to be returned),
+and (b) an asset (and corresponding
+adjustment to cost of goods sold)
+for the goods returned from
+customers.
+Repurchase
+agreements
+Seller has an obligation or
+right to repurchase the asset
+at a later date.
+Generally, if the company has an
+obligation or right to repurchase the
+asset for an amount greater than its
+selling price, then the transaction is
+a financing transaction.
+Bill-and-hold
+arrangements
+Results when the buyer is
+not yet ready to take
+delivery but does take title
+and accepts billing.
+Revenue is recognized depending
+on when the customer obtains
+control of that product.
+Principal-
+agent
+relationships
+Arrangement in which the
+principal’s performance
+obligation is to provide
+goods or perform services
+for a customer. The agent’s
+performance obligation is to
+arrange for the principal to
+provide these goods or
+services to a customer.
+Amounts collected on behalf of the
+principal are not revenue of the
+agent. Instead, revenue for the
+agent is the amount of the
+commission it receives. The
+principal recognizes revenue when
+the goods or services are sold to a
+third-party customer.
+Consignments A principal-agent
+relationship in which the
+consignor (manufacturer or
+wholesaler) ships
+merchandise to the
+consignee (dealer), who is
+to act as an agent for the
+consignor in selling the
+merchandise.
+The consignor recognizes revenue
+only after receiving notification of
+the sale and the cash remittance
+from the consignee (consignor
+carries the merchandise as
+inventory throughout the
+consignment). The consignee
+records commission revenue
+(usually some percentage of the
+selling price).
+Warranties
+Warranties can be
+assurance-type (product
+meets agreed-upon
+A separate performance obligation
+is not recorded for assurance-type
+warranties (considered part of the
+
+specifications) or service-
+type (provides additional
+service beyond the
+assurance-type warranty).
+product). Service-type warranties
+are recorded as a separate
+performance obligation. Companies
+should allocate a portion of the
+transaction price to service-type
+warranties, when present.
+Non-
+refundable
+upfront fees
+Upfront payments generally
+relate to initiation,
+activation, or setup
+activities for a good or
+service to be delivered in
+the future.
+The upfront payment should be
+allocated over the periods benefited.
+ILLUSTRATION 18.26 Summary—Other Revenue Recognition Issues
+Presentation and Disclosure
+LEARNING OBJECTIVE 4
+Describe presentation and disclosure regarding revenue.
+Presentation
+Companies use an asset-liability approach to recognize revenue. For example,
+when Cereal Partners (CHE) delivers cereal to Carrefour (FRA) (satisfying its
+performance obligation), it has a right to consideration from Carrefour and
+therefore has a contract asset. If, on the other hand, Carrefour performs first, by
+prepaying for this cereal, Cereal Partners has a contract liability. Companies must
+present these contract assets and contract liabilities on their statements of
+financial position.
+Contract Assets and Liabilities
+Contract assets are of two types: (1) unconditional rights to receive
+consideration because the company has satisfied its performance obligation with
+a customer, and (2) conditional rights to receive consideration because the
+company has satisfied one performance obligation but must satisfy another
+performance obligation in the contract before it can bill the customer. Companies
+should report unconditional rights to receive consideration as a receivable on the
+statement of financial position. Conditional rights on the statement of financial
+position should be reported separately as contract assets. Illustration 18.27
+provides an example of the accounting and reporting for a contract asset.
+
+Contract Asset
+Facts: On January 1, 2022, Finn ASA enters into a contract to transfer Product A
+and Product B to Obermine Overstock for €100,000. The contract specifies that
+payment for Product A will not occur until Product B is also delivered. In other
+words, payment will not occur until both Product A and Product B are
+transferred to Obermine. Finn determines that standalone selling prices are
+€30,000 for Product A and €70,000 for Product B. Finn delivers Product A to
+Obermine on February 1, 2022. On March 1, 2022, Finn delivers Product B to
+Obermine.
+Question: What journal entries should Finn make regarding to this
+contract in 2022?
+Solution: No entry is required on January 1, 2022, because neither party has
+performed on the contract. On February 1, 2022, Finn records the following
+entry.
+February 1, 2022
+Contract Asset
+Sales Revenue
+On February 1, Finn has satisfied its performance obligation and therefore
+reports revenue of €30,000. However, it does not record an accounts
+receivable at this point because it does not have an unconditional right to
+receive the €100,000 unless it also transfers Product B to Obermine. In other
+words, a contract asset occurs generally when a company must satisfy another
+performance obligation before it is entitled to bill the customer. When Finn
+transfers Product B on March 1, 2022, it makes the following entry.
+March 1, 2022
+Accounts Receivable 100,000
+Contract Asset
+Sales Revenue
+ILLUSTRATION 18.27 Contract Asset Recognition and Presentation
+As indicated above, a contract liability is a company’s obligation to transfer
+goods or services to a customer for which the company has received
+consideration from the customer. A contract liability is generally referred to as
+
+Unearned Sales Revenue, Unearned Service Revenue, or another appropriate
+account title. Illustration 18.28 provides an example of the recognition and
+presentation of a contract liability.
+Contract Liability
+Facts: On March 1, 2022, Henly Company enters into a contract to transfer a
+product to Propel Inc. on July 31, 2022. It is agreed that Propel will pay the full
+price of $10,000 in advance on April 15, 2022. Henly delivers the product on July
+31, 2022. The cost of the product is $7,500.
+Question: What journal entries are required in 2022?
+Solution: No entry is required on March 1, 2022, because neither party has
+performed on the contract. On receiving the cash on April 15, 2022, Henly
+records the following entry.
+April 15, 2022
+Cash
+Unearned Sales Revenue
+On satisfying the performance obligation on July 31, 2022, Henly records the
+following entry to record the sale.
+July 31, 2022
+Unearned Sales Revenue 10,000
+Sales Revenue
+In addition, Henly records cost of goods sold as follows.
+Cost of Goods Sold 7,500
+Inventory
+ILLUSTRATION 
+Contract 
+Liability 
+Recognition 
+and
+Presentation
+Companies are not required to use the terms “contract assets” and “contract
+liabilities” on the statement of financial position. For example, contract liabilities
+are performance obligations and therefore more descriptive titles (as noted
+earlier) such as unearned service revenue, unearned sales revenue, repurchase
+liability, and return liability may be used where appropriate. For contract assets,
+
+it is important that financial statement users can differentiate between
+unconditional and conditional rights through appropriate account presentation.
+Contract Modifications
+Companies sometimes change the terms of a contract while it is ongoing; this is
+referred to as a contract modification. When this occurs, companies
+determine whether a new contract (and performance obligations) results or
+whether the existing contract is still in effect, but with modifications.
+Separate Performance Obligation
+A company accounts for a contract modification as a new contract if both of the
+following conditions are satisfied:
+The promised goods or services are distinct (i.e., the company sells them
+separately and they are not interdependent with other goods and services),
+and
+The company has the right to receive an amount of consideration that
+reflects the standalone selling price of the promised goods or services.
+[18]
+For example, Crandall Co. has a contract to sell 100 products to a customer for
+$10,000 ($100 per product) at various points in time over a six-month period.
+After 60 products have been delivered, Crandall modifies the contract by
+promising to deliver 20 more products for an additional $1,900, or $95 per
+product (which is the standalone selling price of the products at the time of the
+contract modification). Crandall regularly sells the products separately. In this
+situation, the contract modification for the additional 20 products is, in effect, a
+new and separate contract because it meets both of the conditions above.
+That is, it does not affect the accounting for the original contract.
+Given a new contract, Crandall will recognize an additional $4,000 [(100 units −
+60 units) × $100] related to the original contract terms and $1,900 (20 units ×
+$95) related to the new products. Total revenue after the modification is
+therefore $5,900 ($4,000 + $1,900).
+Prospective Modification
+What if Crandall Co. determines that the additional products are not a separate
+performance obligation? This might arise if the new products are not priced at
+the proper standalone selling price or if they are not distinct. In this situation,
+companies generally account for the modification using a prospective approach.
+
+Under the prospective approach, Crandall should account for the effect of the
+change in the period of change as well as future periods if the change affects
+both. Crandall should not change previously reported results. For Crandall, the
+amount recognized as revenue for each of the remaining products would be a
+blended price of $98.33, computed as shown in Illustration 18.29.
+Consideration for products not yet delivered under original contract
+($100 × 40)
+Consideration for products to be delivered under the contract
+modification ($95 × 20)
+Total remaining revenue
+Revenue per remaining unit ($5,900 ÷ 60) = $98.33
+ILLUSTRATION 18.29 Revenue Under Prospective Modification
+Under the prospective approach, this computation differs from that in the
+separate performance obligation approach because revenue on the remaining
+units is recognized at the blended price. Total revenue after the modification is
+therefore $5,900 (60 units × $98.33). Illustration 18.30 shows the revenue
+reported under the two contract modification approaches for Crandall Co.
+Revenue
+Recognized Prior
+to Modification
+Revenue
+Recognized After
+Modification
+Total
+Revenue
+Recognized
+Separate performance
+obligation
+No separate
+performance
+obligation—
+prospectively
+ILLUSTRATION 
+Comparison 
+of 
+Contract 
+Modification
+Approaches
+As indicated, whether a modification is treated as a separate performance
+obligation or prospectively, the same amount of revenue is recognized before and
+after the modification. However, under the prospective approach, a blended price
+($98.33) is used for sales in the periods after the modification.15
+Costs to Fulfill a Contract
+Companies may also report assets associated with fulfillment costs related to a
+revenue arrangement. Companies divide fulfillment costs (contract acquisition
+costs) into two categories:
+
+1. Those that give rise to an asset.
+2. Those that are expensed as incurred.
+Companies recognize an asset for the incremental costs if these costs are
+incurred to obtain a contract with a customer. In other words, incremental costs
+are those that a company would not incur if the contract had not been obtained
+(e.g., selling commissions). Additional examples that give rise to an asset are as
+follows.
+a. Direct labor, direct materials, and allocation of costs that relate directly to
+the contract (e.g., costs of contract management and supervision, insurance,
+and depreciation of tools and equipment).
+b. Costs that generate or enhance resources of the company that will be used in
+satisfying performance obligations in the future. Such costs include
+intangible design or engineering costs that will continue to give rise to
+benefits in the future.
+Other costs that are expensed as incurred include general and administrative
+costs (unless those costs are explicitly chargeable to the customer under the
+contract) as well as costs of wasted materials, labor, or other resources to fulfill
+the contract that were not reflected in the price of the contract. That is,
+companies only capitalize costs that are direct, incremental, and
+recoverable (assuming that the contract period is more than one year).
+Illustration 18.31 provides an example of costs capitalized to fulfill a contract.
+As a practical expedient, a company recognizes the incremental costs of obtaining
+a contract as an expense when incurred if the amortization period of the asset
+that the company otherwise would have recognized is one year or less.
+
+Contract Costs
+Facts: Rock Integrators enters into a contract to operate Dello Company’s
+information technology data center for 5 years. Rock Integrators incurs selling
+commission costs of $10,000 to obtain the contract. Before performing the
+services, Rock Integrators designs and builds a technology platform that
+interfaces with Dello’s systems. That platform is not transferred to Dello. Dello
+promises to pay a fixed fee of $20,000 per month. Rock Integrators incurs the
+following additional costs: design services for the platform $40,000, hardware
+for the platform $120,000, software $90,000, and testing of data center
+Question: What are Rock Integrators’ costs for fulfilling the contract
+to Dello Company?
+Solution: The $10,000 selling commission costs related to obtaining the
+contract are recognized as an asset. The design services cost of $40,000 and
+the hardware for the platform of $120,000 are also capitalized. As the
+technology platform is independent of the contract, the pattern of
+amortization of this platform may not be related to the terms of the contract.
+The testing costs are expensed as incurred; in general, these costs are not
+recoverable.
+ILLUSTRATION 18.31 Recognition—Contract Costs
+Collectibility
+As indicated earlier, if it is probable that the transaction price will not be
+collected, this is an indication that the parties are not committed to their
+obligations. As a result, one of the criteria for the existence of a contract is not
+met, and therefore revenue is not recognized.
+Any time a company sells a product or performs a service on account, a
+collectibility issue occurs. Collectibility refers to a customer’s credit risk, that is,
+the risk that a customer will be unable to pay the amount of consideration in
+accordance with the contract. Under the revenue guidance—as long as a contract
+exists (it is probable that the customer will pay)—the amount recognized as
+revenue is not adjusted for customer credit risk.
+Thus, companies report the revenue gross (without consideration of credit risk)
+and then present an allowance for any impairment due to bad debts (recognized
+initially and subsequently in accordance with the respective bad debt guidance).
+
+An impairment related to bad debts is reported as an operating expense in the
+income statement. As a result, whether a company will get paid for satisfying a
+performance obligation is not a consideration in determining revenue
+recognition. [20]
+Disclosure
+The disclosure requirements for revenue recognition are designed to help
+financial statement users understand the nature, amount, timing, and
+uncertainty of revenue and cash flows arising from contracts with customers. To
+achieve that objective, companies disclose qualitative and quantitative
+information about all of the following:
+Contracts with customers. These disclosures include the disaggregation
+of revenue, presentation of opening and closing balances in contract assets
+and contract liabilities, and significant information related to their
+performance obligations.
+Significant judgments. These disclosures include judgments and changes
+in these judgments that affect the determination of the transaction price, the
+allocation of the transaction price, and the determination of the timing of
+revenue.
+Assets recognized from costs incurred to fulfill a contract. These
+disclosures include the closing balances of assets recognized to obtain or
+fulfill a contract, the amount of amortization recognized, and the method
+used for amortization.
+To implement these requirements and meet the disclosure objectives, companies
+provide a range of disclosures, as summarized in Illustration 18.32. [21]16
+
+Disclosure
+Type
+Requirements
+Disaggregation
+of revenue
+Disclose disaggregated revenue information in categories that
+depict how the nature, amount, timing, and uncertainty of
+revenue and cash flows are affected by economic factors.
+Reconcile disaggregated revenue to revenue for reportable
+segments.
+Reconciliation
+of contract
+balances
+Disclose opening and closing balances of contract assets (e.g.,
+unbilled receivables) and liabilities (e.g., deferred revenue) and
+provide a qualitative description of significant changes in these
+amounts. Disclose the amount of revenue recognized in the
+current period relating to performance obligations satisfied in a
+prior period (e.g., from contracts with variable consideration).
+Disclose the opening and closing balances of trade receivables if
+not presented elsewhere.
+Remaining
+performance
+obligations
+Disclose the amount of the transaction price allocated to
+remaining performance obligations not subject to significant
+revenue reversal. Provide a narrative discussion of potential
+additional revenue in constrained arrangements.
+Costs to obtain
+or fulfill
+contracts
+Disclose the closing balances of capitalized costs to obtain and
+fulfill a contract and the amount of amortization in the period.
+Disclose the method used to determine amortization for each
+reporting period.
+Other
+qualitative
+disclosures
+Disclose significant judgments and changes in judgments that
+affect the amount and timing of revenue from contracts with
+customers. Disclose how management determines the minimum
+amount of revenue not subject to the variable consideration
+constraint.
+ILLUSTRATION 18.32 Revenue Disclosures
+
+Evolving Issue
+Converged, Converging, or Diverging?
+After six years of hard work, the IASB and the FASB were able to create a
+converged revenue recognition standard. In fact, at the time of issuance by
+both Boards, it was viewed as a significant milestone in the journey to have a
+single set of high-quality global accounting standards. In the press release
+announcing the issuance of the standard, the IASB chair, Hans Hoogervorst,
+said, “The successful conclusion of this project is a major achievement for
+both Boards. Together, we have improved the revenue requirements of both
+IFRS and U.S. GAAP, while managing to achieve a fully converged standard.
+Our attention now turns to ensuring a successful transition to these new
+requirements.”
+While the result of their work is laudable, there were some differences
+between the two standards even at the time of issuance. In addition, since the
+standard was issued, both Boards have made several modifications and
+interpretations which, in some cases, have actually widened the differences
+between the two standards.
+The most significant difference at the time of issuance was the meaning of
+the word “probable.” Under IFRS, probable is defined to mean “more likely
+than not,” which means more than 50 percent likely. Under U.S. GAAP,
+probable generally means “likely to occur” and is typically considered to be in
+the 75 percent to 80 percent range.
+Since the standards were issued, several accounting policy options have been
+included in the U.S. standard that have not been included in IFRS. For
+example, the U.S. standard provides an accounting policy election to
+determine whether shipping services provided by a third party are a separate
+performance obligation. IFRS does not provide this election. Further, the U.S.
+standard provides that taxes collected from customers (for example, sales
+taxes) can be excluded from revenue as an accounting policy elective. IFRS 15
+discusses whether taxes should be included in the total amount of revenue
+but requires a jurisdiction-by-jurisdiction analysis as a final determination.
+The licensing of intellectual property is a very challenging area in the
+application of revenue recognition. Both in the initial release and in
+subsequent modifications, the two standards have diverged in this area. For
+example, the U.S. standard contains two categories of intellectual property—
+functional and symbolic—whereas these two categories are not present in
+IFRS 15.
+
+Source: News release, “IASB and FASB Issue Converged Standard on Revenue Recognition”
+(Norwalk, CT: Financial Accounting Foundation, May 28, 2014).
+APPENDIX 18A
+Long-Term Construction Contracts
+LEARNING OBJECTIVE *5
+Apply the percentage-of-completion method for long-term contracts.
+Revenue Recognition over Time
+For the most part, companies recognize revenue at the point of sale because that
+is when the performance obligation is satisfied. However, as indicated in the
+chapter, under certain circumstances companies recognize revenue over time.
+The most notable context in which revenue is recognized over time is long-term
+construction contract accounting.
+Long-term contracts frequently provide that the seller (builder) may bill the
+purchaser at intervals, as it reaches various points in the project. Examples of
+long-term contracts are construction-type contracts, development of military and
+commercial aircraft, weapons-delivery systems, and space exploration hardware.
+When the project consists of separable units, such as a group of buildings or
+miles of roadway, contract provisions may provide for delivery in installments. In
+that case, the seller would bill the buyer and transfer title at stated stages of
+completion, such as the completion of each building unit or every 10 miles of
+road. The accounting records should record sales when installments are
+“delivered.”
+A company satisfies a performance obligation and recognizes revenue over time if
+at least one of the following three criteria is met: [22]
+1. The customer simultaneously receives and consumes the benefits of the
+seller’s performance as the seller performs.
+2. The company’s performance creates or enhances an asset (for example, work
+in process) that the customer controls as the asset is created or enhanced; or
+3. The company’s performance does not create an asset with an alternative use.
+For example, the asset cannot be used by another customer. In addition to
+this alternative use element, at least one of the following criteria must be
+met:
+
+a. Another company would not need to substantially re-perform the work
+the company has completed to date if that other company were to fulfill
+the remaining obligation to the customer.
+b. The company has a right to payment for its performance completed to
+date, and it expects to fulfill the contract as promised.17
+Therefore, if criterion 1, 2, or 3 is met, then a company recognizes revenue over
+time if it can reasonably estimate its progress toward satisfaction of the
+performance obligations. That is, it recognizes revenues and gross profits
+each period based upon the progress of the construction—referred to as the
+percentage-of-completion method. The company accumulates construction
+costs plus gross profit recognized to date in an inventory account (Construction
+in Process), and it accumulates progress billings in a contra inventory account
+(Billings on Construction in Process).
+The rationale for using percentage-of-completion accounting is that under most
+of these contracts the buyer and seller have enforceable rights. The buyer has the
+legal right to require specific performance on the contract. The seller has the
+right to require progress payments that provide evidence of the buyer’s
+ownership interest. As a result, a continuous sale occurs as the work progresses.
+Companies should recognize revenue according to that progression.
+Alternatively, if the criteria for recognition over time are not met, the company
+recognizes revenues and gross profit at a point in time, that is, when the contract
+is completed. In these cases, contract revenue is recognized only to the extent of
+costs incurred that are expected to be recoverable. Once all costs are recognized,
+profit is recognized. This approach is referred to as the cost-recovery (zero-
+profit) method. The company accumulates construction costs in an inventory
+account (Construction in Process), and it accumulates progress billings in a
+contra inventory account (Billings on Construction in Process).
+Percentage-of-Completion Method
+The percentage-of-completion method recognizes revenues, costs, and gross
+profit as a company makes progress toward completion on a long-term contract.
+To defer recognition of these items until completion of the entire contract is to
+misrepresent the efforts (costs) and accomplishments (revenues) of the
+accounting periods during the contract. In order to apply the percentage-of-
+completion method, a company must have some basis or standard for measuring
+the progress toward completion at particular interim dates.
+Measuring the Progress Toward Completion
+
+As one practicing accountant wrote, “The big problem in applying the percentage-
+of-completion method … has to do with the ability to make reasonably accurate
+estimates of completion and the final gross profit.” Companies use various
+methods to determine the extent of progress toward completion. The most
+common are the cost-to-cost and units-of-delivery methods.
+As indicated in the chapter, the objective of all these methods is to measure the
+extent of progress in terms of costs, units, or value added. Companies identify the
+various measures (costs incurred, labor hours worked, tons produced, floors
+completed, etc.) and classify them as input or output measures. Input
+measures (costs incurred, labor hours worked) are efforts devoted to a contract.
+Output measures (with units of delivery measured as tons produced, floors of a
+building completed, miles of a highway completed) track results. Neither
+measure is universally applicable to all long-term projects. Their use requires the
+exercise of judgment and careful tailoring to the circumstances.
+Both input and output measures have certain disadvantages. The input measure
+is based on an established relationship between a unit of input and productivity.
+If inefficiencies cause the productivity relationship to change, inaccurate
+measurements result. Another potential problem is front-end loading, in which
+significant upfront costs result in higher estimates of completion. To avoid this
+problem, companies should disregard some early-stage construction costs—for
+example, costs of uninstalled materials or costs of subcontracts not yet
+performed—if they do not relate to contract performance.
+Similarly, output measures can produce inaccurate results if the units used are
+not comparable in time, effort, or cost to complete. For example, using floors
+(stories) completed can be deceiving. Completing the first floor of an eight-story
+building may require more than one-eighth the total cost because of the
+substructure and foundation construction.
+The most popular input measure used to determine the progress toward
+completion is the cost-to-cost basis. Under this basis, a company like Ultra
+Electronics Holdings (GBR) measures the percentage of completion by
+comparing costs incurred to date with the most recent estimate of the total costs
+required to complete the contract. Illustration 18A.1 shows the formula for the
+cost-to-cost basis.
+Costs Incurred to Date
+= Percent Complete
+Most Recent Estimate of Total Costs
+ILLUSTRATION 18A.1 Formula for Percentage-of-Completion, Cost-
+to-Cost Basis
+
+Once Ultra Electronics Holdings knows the percentage that costs incurred bear to
+total estimated costs, it applies that percentage to the total revenue or the
+estimated total gross profit on the contract. The resulting amount is the revenue
+or the gross profit to be recognized to date. Illustration 18A.2 shows this
+computation.
+Percent
+Complete ×
+Estimated
+Total Revenue
+(or Gross Profit)
+=
+Revenue (or Gross 
+Profit) to Be 
+Recognized to Date
+ILLUSTRATION 18A.2 Formula for Total Revenue (or Gross Profit)
+to Be Recognized to Date
+To find the amounts of revenue and gross profit recognized each period, Ultra
+Electronics Holdings subtracts total revenue or gross profit recognized in prior
+periods, as shown in Illustration 18A.3.
+Revenue (or Gross
+Profit) to Be
+Recognized to Date
+−
+Revenue (or Gross
+Profit) Recognized
+in Prior Periods
+=
+Current-Period 
+Revenue
+(or Gross Profit)
+ILLUSTRATION 18A.3 Formula for Amount of Current-Period
+Revenue (or Gross Profit) Cost-to-Cost Basis
+Because the cost-to-cost method is widely used (without excluding other
+bases for measuring progress toward completion), we have adopted it for use in
+our examples.
+Example of Percentage-of-Completion Method—Cost-to-Cost Basis
+To illustrate the percentage-of-completion method, assume that Hardhat
+Construction has a contract to construct a £4,500,000 bridge at an estimated cost
+of £4,000,000. The contract starts in July 2022, and the bridge is to be completed
+in October 2024. The following data pertain to the construction period. (Note that
+by the end of 2023, Hardhat has revised the estimated total cost from £4,000,000
+to £4,050,000.)
+Costs to date
+Estimated costs to complete
+—
+Progress billings during the year
+Cash collected during the year
+Hardhat would compute the percent complete as shown in Illustration 18A.4.
+
+Contract price
+Less estimated cost:
+Costs to date
+Estimated costs to
+complete
+—
+Estimated total costs
+Estimated total gross
+profit
+Percent complete
+(
+)
+ILLUSTRATION 18A.4 Application of Percentage-of-Completion
+Method, Cost-to-Cost Basis
+On the basis of the data above, Hardhat would make the following entries to
+record (1) the costs of construction, (2) progress billings, and (3) collections.
+These entries appear as summaries of the many transactions that would be
+entered individually as they occur during the year.
+
+To record
+costs of
+construction:
+Construction
+in Process
+Materials,
+Cash,
+Payables,
+etc.
+To record
+progress
+billings:
+Accounts
+Receivable
+Billings on
+Construction
+in Process
+To record
+collections:
+Cash
+Accounts
+Receivable
+ILLUSTRATION 18A.5 Journal Entries—Percentage-of-Completion
+Method, Cost-to-Cost Basis
+In this example, the costs incurred to date are a measure of the extent of progress
+toward completion. To determine this, Hardhat evaluates the costs incurred to
+date as a proportion of the estimated total costs to be incurred on the project. The
+estimated revenue and gross profit that Hardhat will recognize for each year are
+calculated as shown in Illustration 18A.6.
+
+To Date
+Recognized in 
+Prior Years
+Recognized in 
+Current Year
+Revenues (£4,500,000 × .25)
+Costs
+Gross profit
+Revenues (£4,500,000 × .72)
+Costs
+Gross profit
+Revenues (£4,500,000 × 1.00) £4,500,000
+Costs
+Gross profit
+ILLUSTRATION 18A.6 Percentage-of-Completion Revenue, Costs,
+and Gross Profit by Year
+Illustration 18A.7 shows Hardhat’s entries to recognize revenue and gross
+profit each year and to record completion and final approval of the contract.
+
+To recognize
+revenue and
+gross profit:
+Construction in
+Process (gross
+profit)
+Construction
+Expenses
+Revenue from
+Long-Term
+Contracts
+To record
+completion of
+the contract:
+Billings on
+Construction in
+Process
+Construction
+in Process
+ILLUSTRATION 18A.7 Journal Entries to Recognize Revenue and
+Gross Profit and to Record Contract Completion—Percentage-of-
+Completion Method, Cost-to-Cost Basis
+Note that Hardhat debits gross profit (as computed in Illustration
+18A.6) to Construction in Process. Similarly, it credits Revenue from Long-
+Term Contracts for the amounts computed in Illustration 18A.6. Hardhat then
+debits the difference between the amounts recognized each year for revenue and
+gross profit to a nominal account, Construction Expenses (similar to Cost of
+Goods Sold in a manufacturing company). It reports that amount in the income
+statement as the actual cost of construction incurred in that period. For example,
+in 2022 Hardhat uses the actual costs of £1,000,000 to compute both the gross
+profit of £125,000 and the percent complete (25 percent).
+Hardhat continues to accumulate costs in the Construction in Process account, in
+order to maintain a record of total costs incurred (plus recognized gross profit) to
+date. Although theoretically a series of “sales” takes place using the percentage-
+of-completion method, the selling company cannot remove the inventory cost
+until the construction is completed and transferred to the new owner. Hardhat’s
+Construction in Process account for the bridge would include the summarized
+
+entries over the term of the construction project as shown in Illustration
+18A.8.
+Construction in Process
+2022 construction costs
+£1,000,000 12/31/24 to close
+completed
+project
+2022 recognized gross profit
+2023 construction costs
+2023 recognized gross profit
+2024 construction costs
+2024 recognized gross profit
+Total
+Total
+ILLUSTRATION 18A.8 Content of Construction in Process Account—
+Percentage-of-Completion Method
+Recall that the Hardhat Construction example contained a change in estimated
+costs: In the second year, 2023, it increased the estimated total costs from
+£4,000,000 to £4,050,000. The change in estimate is accounted for in a
+cumulative catch-up manner, as indicated in the chapter. This is done by first
+adjusting the percent completed to the new estimate of total costs. Next, Hardhat
+deducts the amount of revenues and gross profit recognized in prior periods from
+revenues and gross profit computed for progress to date. That is, it accounts for
+the change in estimate in the period of change. That way, the statement of
+financial position at the end of the period of change and the accounting in
+subsequent periods are as they would have been if the revised estimate had been
+the original estimate.
+Financial Statement Presentation—Percentage-of-Completion
+Generally, when a company records a receivable from a sale, it reduces the
+Inventory account. Under the percentage-of-completion method, however, the
+company continues to carry both the receivable and the inventory. Subtracting
+the balance in the Billings account from Construction in Process avoids
+double-counting the inventory. During the life of the contract, Hardhat reports in
+the statement of financial position the difference between the Construction in
+Process and the Billings on Construction in Process accounts. If that amount is a
+debit, Hardhat reports it as a current asset; if it is a credit, it reports it as a
+current liability.
+At times, the costs incurred plus the gross profit recognized to date (the balance
+in Construction in Process) exceed the billings. In that case, Hardhat reports this
+excess as a current asset entitled “Costs and recognized profit in excess of
+
+billings.” Hardhat can at any time calculate the unbilled portion of revenue
+recognized to date by subtracting the billings to date from the revenue recognized
+to date, as illustrated for 2022 for Hardhat Construction in Illustration 18A.9.
+Contract revenue recognized to date: £4,500,000 ×
+Billings to date
+Unbilled revenue
+ILLUSTRATION 18A.9 Computation of Unbilled Contract Price at
+12/31/22
+At other times, the billings exceed costs incurred and gross profit to date. In that
+case, Hardhat reports this excess as a current liability entitled “Billings in excess
+of costs and recognized profit.”
+What happens, as is usually the case, when companies have more than one
+project going at a time? When a company has a number of projects, costs exceed
+billings on some contracts and billings exceed costs on others. In such a case, the
+company segregates the contracts. The asset side includes only those contracts on
+which costs and recognized profit exceed billings. The liability side includes only
+those on which billings exceed costs and recognized profit. Separate disclosures
+of the volume of billings and costs are preferable to a summary presentation of
+the net difference.
+Using data from the bridge example, Hardhat Construction would report the
+status and results of its long-term construction activities in 2022 under the
+percentage-of-completion method as shown in Illustration 18A.10.
+
+Hardhat Construction
+Income Statement (from Illustration 18A.6)
+Revenue from long-term contracts
+Costs of construction
+Gross profit
+Statement of Financial Position (12/31)
+Current assets
+Inventory
+Construction in process
+Less: Billings
+Costs and recognized profit in excess of billings
+Accounts receivable (£900,000 − £750,000)
+ILLUSTRATION 
+18A.10 
+Financial 
+Statement 
+Presentation—
+Percentage-of-Completion Method (2022)
+In 2023, its financial statement presentation is as shown in Illustration 18A.11.
+Hardhat Construction
+Income Statement (from Illustration 18A.6)
+Revenue from long-term contracts
+Costs of construction
+Gross profit
+Statement of Financial Position (12/31)
+Current assets
+Accounts receivable (£150,000 + £2,400,000 −
+£
+Current liabilities
+Billings
+Less: Construction in process
+Billings in excess of costs and recognized profit
+ILLUSTRATION 
+18A.11 
+Financial 
+Statement 
+Presentation—
+Percentage-of-Completion Method (2023)
+
+In 2024, Hardhat’s financial statements only include an income statement
+because the bridge project was completed and settled as shown in Illustration
+18A.12.
+Hardhat Construction
+Income Statement (from Illustration 18A.6)
+Revenue from long-term contracts
+Costs of construction
+Gross profit
+ILLUSTRATION 
+18A.12 
+Financial 
+Statement 
+Presentation—
+Percentage-of-Completion Method (2024)
+In addition, Hardhat should disclose the information shown in Illustration
+18A.13 each year.
+Note 1. Summary of significant accounting policies.
+Long-Term Construction Contracts. The company recognizes revenues and
+reports profits from long-term construction contracts, its principal business,
+under the percentage-of-completion method of accounting. These contracts
+generally extend for periods in excess of one year. The amounts of revenues and
+profits recognized each year are based on the ratio of costs incurred to the total
+estimated costs. Costs included in construction in process include direct
+materials, direct labor, and project-related overhead. Corporate general and
+administrative expenses are charged to the periods as incurred and are not
+allocated to construction contracts.
+ILLUSTRATION 18A.13 Percentage-of-Completion Method Note
+Disclosure
+Cost-Recovery (Zero-Profit) Method
+LEARNING OBJECTIVE *6
+Apply the cost-recovery method for long-term contracts.
+During the early stages of a contract, a company like Alcatel-Lucent
+Enterprise (FRA) may not be able to estimate reliably the outcome of a long-
+term construction contract. Nevertheless, Alcatel-Lucent Enterprise is confident
+that it will recover the contract costs incurred. In this case, Alcatel-Lucent
+Enterprise uses the cost-recovery (zero-profit) method. This method
+
+recognizes revenue only to the extent of costs incurred that are expected to be
+recoverable. Only after all costs are incurred is gross profit recognized.
+To illustrate the cost-recovery method for the bridge project illustrated on the
+preceding pages, Hardhat Construction would report the following revenues and
+costs for 2022–2024, as shown in Illustration 18A.14.
+To Date
+Recognized in
+Prior Years
+Recognized in
+Current Year
+Revenues (costs incurred)
+Costs
+Gross profit
+£
+£
+Revenues (costs incurred)
+Costs
+Gross profit
+£
+£
+£
+Revenues (£4,500,000 × 1.00) £4,500,000
+Costs
+Gross profit
+£
+ILLUSTRATION 18A.14 Cost-Recovery Method Revenue, Costs, and
+Gross Profit by Year
+Illustration 18A.15 shows Hardhat’s entries to recognize revenue and gross
+profit each year and to record completion and final approval of the contract.
+
+Construction
+Expenses
+Revenue
+from Long-
+Term
+Contracts
+(To
+recognize
+costs and
+related
+expenses)
+Construction in
+Process (Gross
+Profit)
+Construction
+Expenses
+Revenue
+from Long-
+Term
+Contracts
+(To
+recognize
+costs and
+related
+expenses)
+Billings on
+Construction in
+Process
+Construction
+in Process
+(To record
+completion
+of the
+contract)
+ILLUSTRATION 18A.15 Journal Entries—Cost-Recovery Method
+As indicated, no gross profit is recognized in 2022 and 2023. In 2024, Hardhat
+then recognizes gross profit and closes the Billings and Construction in Process
+
+accounts.
+Illustration 18A.16 compares the amount of gross profit that Hardhat
+Construction would recognize for the bridge project under the two revenue
+recognition methods.
+Percentage-of-Completion Cost-Recovery
+£
+ILLUSTRATION 18A.16 Comparison of Gross Profit Recognized
+under Different Methods
+Under the cost-recovery method, Hardhat Construction would report its long-
+term construction activities as shown in Illustration 18A.17.
+
+Hardhat Construction
+Income Statement
+Revenue from long-term contracts £1,000,000 £1,916,000 £1,584,000
+Costs of construction
+Gross profit
+£
+Statement of Financial Position
+(12/31)
+Current assets
+Inventories
+Construction in process
+Less: Billings
+Costs in excess of billings
+£
+£ –
+0–
+Accounts receivable
+£
+–
+0–
+Current liabilities
+Billings
+Less: Construction in process
+Billings in excess of costs and recognized
+profits
+£
+£ –
+0–
+Note 1. Summary of significant accounting policies.
+Long-Term Construction Contracts. The company recognizes revenues and
+reports profits from long-term construction contracts, its principal business,
+under the cost-recovery method. These contracts generally extend for periods in
+excess of one year. Contract costs and billings are accumulated during the
+periods of construction, and revenues are recognized only to the extent of costs
+incurred that are expected to be recoverable. Only after all costs are incurred is
+net income recognized. Costs included in construction in process include direct
+material, direct labor, and project-related overhead. Corporate general and
+administrative expenses are charged to the periods as incurred.
+ILLUSTRATION 18A.17 Financial Statement Presentation—Cost-
+Recovery Method
+Long-Term Contract Losses
+
+LEARNING OBJECTIVE *7
+Identify the proper accounting for losses on long-term contracts.
+Two types of losses can become evident under long-term contracts:
+1. Loss in the current period on a profitable contract. This condition
+arises when, during construction, there is a significant increase in the
+estimated total contract costs but the increase does not eliminate all profit
+on the contract. Under the percentage-of-completion method only, the
+estimated cost increase requires a current-period adjustment of excess gross
+profit recognized on the project in prior periods. The company records this
+adjustment as a loss in the current period because it is a change in
+accounting estimate (discussed in Chapter 22).
+2. Loss on an unprofitable contract. Cost estimates at the end of the
+current period may indicate that a loss will result on completion of the entire
+contract. Under both the percentage-of-completion and the cost-recovery
+methods, the company must recognize in the current period the entire
+expected contract loss.
+The treatment described for unprofitable contracts is consistent with the
+accounting custom of anticipating foreseeable losses to avoid overstatement of
+current and future income (conservatism).18
+Loss in Current Period
+To illustrate a loss in the current period on a contract expected to be profitable
+upon completion, we’ll continue with the Hardhat Construction bridge project.
+Assume that on December 31, 2023, Hardhat estimates the costs to complete the
+bridge contract at £1,468,962 instead of £1,134,000. Assuming all other data are
+the same as before, Hardhat would compute the percentage complete and
+recognize the loss as shown in Illustration 18A.18. Compare these
+computations with those for 2023 in Illustration 18A.4. The “percent complete”
+has dropped, from 72 percent to 66½ percent, due to the increase in estimated
+future costs to complete the contract.
+
+Cost to date (12/31/23)
+Estimated costs to complete (revised)
+Estimated total costs
+Percent complete (£2,916,000 ÷ £4,384,962)
+661⁄2%
+Revenue recognized in 2023 (£4,500,000 × .665) − £1,125,000 £1,867,500
+Costs incurred in 2023
+Loss recognized in 2023
+ILLUSTRATION 18A.18 Computation of Recognizable Loss, 2023—
+Loss in Current Period
+The 2023 loss of £48,500 is a cumulative adjustment of the “excessive” gross
+profit recognized on the contract in 2022. Instead of restating the prior period,
+the company absorbs the prior period misstatement entirely in the current
+period. In this illustration, the adjustment was large enough to result in
+recognition of a loss.
+Hardhat Construction would record the loss in 2023 as follows.
+Construction Expenses
+Construction in Process (loss)
+Revenue from Long-Term Contracts
+Hardhat will report the loss of £48,500 on the 2023 income statement as the
+difference between the reported revenue of £1,867,500 and the costs of
+£1,916,000.19 Under the cost-recovery method, the company does not
+recognize a loss in 2023. Why not? Because the company still expects the
+contract to result in a profit, to be recognized in the year of completion.
+Loss on an Unprofitable Contract
+To illustrate the accounting for an overall loss on a long-term contract,
+assume that at December 31, 2023, Hardhat Construction estimates the costs to
+complete the bridge contract at £1,640,250 instead of £1,134,000. Revised
+estimates for the bridge contract are as follows.
+Original 
+Estimates
+Revised
+Estimates
+Contract price
+Estimated total cost
+4,556,250*
+
+Estimated gross profit
+Estimated loss
+*(£2,916,000 + £1,640,250)
+Under the percentage-of-completion method, Hardhat recognized
+£125,000 of gross profit in 2022 (see Illustration 18A.18). This amount must be
+offset in 2023 because it is no longer expected to be realized. In addition, since
+losses must be recognized as soon as estimable, the company must recognize the
+total estimated loss of £56,250 in 2023. Therefore, Hardhat must recognize a
+total loss of £181,250 (£125,000 + £56,250) in 2023.
+Illustration 18A.19 shows Hardhat’s computation of the revenue to be
+recognized in 2023.
+Revenue recognized in 2023:
+Contract price
+Percent complete
+×
+.64*
+Revenue recognizable to date
+Less: Revenue recognized prior to 2023
+Revenue recognized in 2023
+*Cost to date (12/31/23)
+Estimated cost to complete
+Estimated total costs
+Percent complete: £2,916,000 ÷ £4,556,250 = 64%
+ILLUSTRATION 18A.19 Computation of Revenue Recognizable, 2023
+—Unprofitable Contract
+To compute the construction costs to be expensed in 2023, Hardhat adds the total
+loss to be recognized in 2023 (£125,000 + £56,250) to the revenue to be
+recognized in 2023. Illustration 18A.20 shows this computation.
+Revenue recognized in 2023 (computed above)
+Total loss recognized in 2023:
+Reversal of 2022 gross profit
+Total estimated loss on the contract
+Construction cost expensed in 2023
+ILLUSTRATION 18A.20 Computation of Construction Expense, 2023
+—Unprofitable Contract
+
+Hardhat Construction would record the long-term contract revenues, expenses,
+and loss in 2023 as follows.
+Construction Expenses
+Construction in Process (loss)
+Revenue from Long-Term Contracts
+At the end of 2023, Construction in Process has a balance of £2,859,750 as shown
+in Illustration 18A.21.20
+Construction in Process
+2022 Construction costs
+2022 Recognized gross profit
+2023 Construction costs
+1,916,000 2023 Recognized loss 181,250
+Balance
+ILLUSTRATION 18A.21 Content of Construction in Process Account
+at End of 2023—Unprofitable Contract
+Under the cost-recovery method, Hardhat also would recognize the contract
+loss of £56,250 through the following entry in 2023 (the year in which the loss
+first became evident).
+Loss from Long-Term Contracts 56,250
+Construction in Process (loss)
+Just as the Billings account balance cannot exceed the contract price, neither can
+the balance in Construction in Process exceed the contract price. In
+circumstances where the Construction in Process balance exceeds the billings,
+the company can deduct the recognized loss from such accumulated costs on the
+statement of financial position. That is, under both the percentage-of-completion
+and the cost-recovery methods, the provision for the loss (the credit) may be
+combined with Construction in Process, thereby reducing the inventory balance.
+In those circumstances, however (as in the 2023 example above), where the
+billings exceed the accumulated costs, Hardhat must report separately on the
+statement of financial position, as a current liability, the amount of the estimated
+loss. Under both the percentage-of-completion and the cost-recovery methods,
+Hardhat would take the £56,250 loss, as estimated in 2023, from the
+Construction in Process account and report it separately as a current liability
+titled “Estimated liability from long-term contracts.”
+
+APPENDIX 18B
+Revenue Recognition for Franchises
+LEARNING OBJECTIVE *8
+Explain revenue recognition for franchises.
+In this appendix, we cover a common yet unique type of business transaction—
+franchises. As indicated throughout this chapter, companies recognize revenue
+when performance obligations in a revenue arrangement are satisfied.
+Franchises represent a challenging area because a variety of performance
+obligations may exist in a given franchise agreement. As a result, companies must
+carefully analyze franchise agreements to identify the separate performance
+obligations, determine when performance obligations are met, and, therefore,
+when revenue should be recognized.21
+Four types of franchising arrangements have evolved: (1) manufacturer-retailer,
+(2) manufacturer-wholesaler, (3) service sponsor–retailer, and (4) wholesaler-
+retailer. The fastest-growing category of franchising, and the one that has given
+rise to accounting challenges, is the third category, service sponsor–retailer.
+Included in this category are such industries and businesses as:
+Soft ice cream/frozen yogurt stores (Snowflake Gelato, FROZ, TCBY,
+Dairy Queen)
+Food drive-ins (Quick, Nordsee, McDonald’s, KFC)
+Restaurants (La Boucherie, Mitchells and Butlers, Pizza Hut)
+Motels (Steinberger, Radisson, Marriott)
+Auto rentals (Europcar, Hertz, Avis)
+Others (Body Shop, Sport 2000, Swatch, EuroSPAR, 7-Eleven
+Stores)
+Franchise companies derive their revenue from one or both of two sources: (1)
+from the sale of initial franchises and related assets or services, and (2) from
+continuing fees based on the operations of franchises. The franchisor (the party
+who grants business rights under the franchise) normally provides the
+franchisee (the party who operates the franchised business) with the following
+services.
+1. Assistance in site selection: (a) analyzing location and (b) negotiating lease.
+2. Evaluation of potential income.
+
+3. Supervision of construction activity: (a) obtaining financing, (b) designing
+building, and (c) supervising contractor while building.
+4. Assistance in the acquisition of signs, fixtures, and equipment.
+5. Bookkeeping and advisory services: (a) setting up franchisee’s records; (b)
+advising on income, real estate, and other taxes; and (c) advising on local
+regulations of the franchisee’s business.
+6. Employee and management training.
+7. Quality control.
+8. Advertising and promotion.
+In the past, it was standard practice for franchisors to recognize the entire
+franchise fee at the date of sale, whether the fee was received then or was
+collectible over a long period of time. Frequently, franchisors recorded the entire
+amount as revenue in the year of sale, even though many of the services were yet
+to be performed and uncertainty existed regarding the collection of the entire fee.
+(In effect, the franchisors were counting their fried chickens before they were
+hatched.) However, a franchise agreement may provide for refunds to the
+franchisee if certain conditions are not met, and franchise fee profit can be
+reduced sharply by future costs of obligations and services to be rendered by the
+franchisor.
+Franchise Accounting
+As indicated, the performance obligations in a franchise arrangement relate to
+the right to open a business, use of the trade name or other intellectual property
+of the franchisor, and continuing services, such as marketing help, training, and
+in some cases supplying inventory and inventory management. Franchisors
+commonly charge an initial franchise fee as well as continuing franchise fees. The
+initial franchise fee is payment for establishing the franchise relationship and
+providing some initial services. Continuing franchise fees are received in
+return for the continuing rights granted by the franchise agreement and for
+providing such services as management training, advertising and promotion, legal
+assistance, and other support. Illustration 18B.1 provides an example of a
+franchise arrangement.
+
+Franchise
+Facts: Tum’s Pizza Inc. enters into a franchise agreement on December 31, 2022,
+giving Food Fight Corp. the right to operate as a franchisee of Tum’s Pizza for 5
+years. Tum’s charges Food Fight an initial franchise fee of $50,000 for the right
+to operate as a franchisee. Of this amount, $20,000 is payable when Food Fight
+signs the agreement, and the note balance is payable in five annual payments of
+$6,000 each on December 31. As part of the arrangement, Tum’s helps locate the
+site, negotiate the lease or purchase of the site, supervise the construction
+activity, and provide employee training and the equipment. Similar training
+services and equipment are sold separately.
+Food Fight also promises to pay ongoing royalty payments of 1% of its annual
+sales (payable each January 31 of the following year) and is obliged to purchase
+products from Tum’s at its current standalone selling prices at the time of
+purchase. The credit rating of Food Fight indicates that money can be borrowed
+at 8%. The present value of an ordinary annuity of five annual receipts of
+$6,000, each discounted at 8%, is $23,957. The discount of $6,043 represents
+the interest revenue to be accrued by Tum’s over the payment period.
+Question: What are the performance obligations in this arrangement
+and the point in time at which the performance obligations for Tum’s
+are satisfied and revenue is recognized?
+Solution: To identify the performance obligations, Tum’s must determine
+whether the promised rights, site selection and construction services, training
+services, and equipment are distinct.
+Rights to the trade name, market area, and proprietary know-how for 5
+years are not individually distinct because they are not sold separately and
+cannot be used with other goods or services that are readily available to
+the franchisee. Therefore, those combined rights give rise to a single
+performance obligation. Tum’s satisfies the performance obligation to
+grant those rights at the point in time when Food Fight obtains control of
+the rights. That is, once Food Fight begins operating the store, Tum’s has
+no further obligation with respect to these rights.
+Training services and equipment are distinct because similar services and
+equipment are sold separately. Tum’s satisfies those performance
+obligations when it transfers the services and equipment to Food Fight.
+Tum’s cannot recognize revenue for the royalty payments because it is not
+reasonably assured to be entitled to those sales-based royalty amounts.
+
+That is, these payments represent variable consideration. Therefore,
+Tum’s recognizes revenue for the royalties when (or as) the uncertainty is
+resolved.
+Tum’s promise to stand ready to provide products to the franchisee in the
+future at standalone selling prices is not accounted for as a separate
+performance obligation in the contract because it does not provide Food Fight
+with a material right. Thus, revenue from those sales is recorded in the future
+when the sales are made.
+ILLUSTRATION 18B.1 Recognition—Franchise Arrangement
+To illustrate the accounting for this franchise, consider the following values for
+allocation of the transaction price at December 31, 2022.
+Rights to the trade name, market area, and proprietary know-how $20,000
+Training services
+Equipment (cost of $10,000)
+Total transaction price
+Training is completed in January 2023, the equipment is installed in January
+2023, and Food Fight holds a grand opening on February 2, 2023. The entries for
+the Tum’s franchise arrangement are summarized in Illustration 18B.2.
+
+ILLUSTRATION 
+18B.2 
+Franchise 
+Entries—Inception 
+and
+Commencement of Operations
+As indicated, when Food Fight begins operations, Tum’s satisfies the
+performance obligations related to the franchise rights, training, and equipment
+under the franchise agreement. That is, Tum’s has no further obligations related
+to these elements of the franchise.
+During 2023, Food Fight does well, recording $525,000 of sales in its first year of
+operations. The entries for Tum’s related to the first year of operations of the
+franchise are summarized in Illustration 18B.3.
+ILLUSTRATION 18B.3 Franchise Entries—First Year of Franchise
+Operations
+Tum’s will make similar entries in subsequent years of the franchise agreement.
+
+Recognition of Franchise Rights Revenue over Time
+In the franchise example presented in Illustration 18B.1, Tum’s transferred
+control of the franchise rights at a point in time—that is, when the franchisee
+began operations and could benefit from control of the rights—with no further
+involvement by Tum’s. In other situations, depending on the economic substance
+of the rights, the franchisor may be providing access to the right rather than
+transferring control of the franchise rights. In this case, the franchise revenue
+is recognized over time, rather than at a point in time. The franchise
+arrangement presented in Illustration 18B.4 provides an example of a
+franchise agreement with revenue recognized over time.
+
+Franchise Revenue over Time
+Facts: Tech Solvers Corp. is a franchisor in the emerging technology consulting
+service business. Tech Solvers’ stores provide a range of computing services
+(hardware/software installation, repairs, data backup, device syncing, and
+network solutions) on popular Apple and PC devices. Each franchise agreement
+gives a franchisee the right to open a Tech Solvers store and sell Tech Solvers’
+products and services in the area for 5 years. Under the contract, Tech Solvers
+also provides the franchisee with a number of services to support and enhance
+the franchise brand, including (a) advising and consulting on the operations of
+the store; (b) communicating new hardware and software developments, and
+service techniques; (c) providing business and training manuals; and (d)
+providing advertising programs and training. Largely a service operation (all
+parts and other supplies are purchased as needed by customers), Tech Solvers
+provides few upfront services to franchisees. Instead, the franchisee recruits
+service technicians, who are given Tech Solvers’ training materials (online
+manuals and tutorials), which are updated for technology changes on a monthly
+basis at a minimum.
+Tech Solvers enters into a franchise agreement on December 15, 2022, giving a
+franchisee the rights to operate a Tech Solvers franchise for 5 years. Tech
+Solvers charges an initial franchise fee of $5,000 for the right to operate as a
+franchisee, payable upon signing the contract. Tech Solvers also receives
+ongoing royalty payments of 7% of the franchisee’s annual sales (payable each
+January 15 of the following year). The franchise begins operations in January
+2023 and recognizes $85,000 of revenue in 2023.
+Question: What are the performance obligations in this arrangement
+and the point in time at which the performance obligations will be
+satisfied and revenue will be recognized?
+Solution: To identify the performance obligations, Tech Solvers must
+determine whether the promised rights and the ongoing franchisee technology
+support and training services are distinct.
+Rights to the trade name, market area, and proprietary know-how for 5
+years are not individually distinct because they are not sold separately and
+cannot be used with other goods or services that are readily available to
+the franchisee. In addition, these licensed rights have a close connection
+with the underlying Tech Solvers’ intellectual property (its ability to keep
+its service and training materials up-to-date). Therefore, those combined
+rights and the ongoing training materials are a single performance
+
+obligation. Tech Solvers satisfies the performance obligation over time.
+That is, once the franchisee begins operating a Tech Solvers franchise,
+Tech Solvers is providing access to the rights and must continue to
+perform updates and services.
+Tech Solvers cannot recognize revenue for the royalty payments because
+it is not reasonably assured to be entitled to those revenue-based royalty
+amounts. That is, these payments represent variable consideration.
+Therefore, Tech Solvers recognizes revenue for the royalties when (or as)
+the uncertainty is resolved.
+ILLUSTRATION 18B.4 Revenue Recognition over Time—Franchise
+The entries for Tech Solvers related to the franchise are summarized in
+Illustration 18B.5.
+ILLUSTRATION 18B.5 Franchise Entries—Revenue Recognized over
+Time
+As indicated, Tech Solvers satisfies the performance obligation related to the
+franchise rights and training materials over time (in this case, on a straight-line
+basis). Continuing franchise fees are recognized when uncertainty related to the
+variable consideration is resolved.
+In summary, analysis of the characteristics of the Tech Solvers franchise
+indicates that it does not reflect a right that is transferred at a point in time. That
+is, Tech Solvers has a continuing obligation to provide updated materials and
+ongoing support, suggesting the control of the right has not been transferred to
+the franchisee. Thus, revenue from the franchise rights is recognized over time.
+
+Review and Practice
+Key Terms Review
+asset-liability approach
+assurance-type warranty
+bill-and-hold arrangement
+*Billings account
+collectibility
+consignee
+consignment
+consignor
+*continuing franchise fees
+contract
+contract assets
+contract liability
+contract modification
+*cost-recovery (zero-profit) method
+*cost-to-cost basis
+*franchisee
+*franchises
+*franchisor
+*initial franchise fee
+*input measures
+*output measures
+*percentage-of-completion method
+performance obligation
+principal-agent relationship
+repurchase agreements
+revenue recognition principle
+service-type warranty
+
+transaction price
+upfront fees
+warranties
+Learning Objectives Review
+1 Understand the fundamental concepts related to revenue
+recognition and measurement.
+Most revenue transactions pose few problems for revenue recognition. This is
+because, in many cases, the transaction is initiated and completed at the same
+time. Increasing complexity of business and revenue arrangements have resulted
+in revenue recognition practices being identified as the most prevalent reasons
+for accounting restatements. A number of the revenue recognition issues relate
+to possible fraudulent behavior by company executives and employees, but are
+also sometimes due to incomplete and inconsistent accounting guidelines for
+revenue recognition. A recent standard provides a set of guidelines to follow in
+determining when revenue should be reported and how it should be measured.
+The standard is comprehensive and applies to all companies. As a result,
+comparability and consistency in reporting revenue should be enhanced.
+The five steps in the revenue recognition process are: (1) identify the contract
+with customers, (2) identify the separate performance obligations in the contract,
+(3) determine the transaction price, (4) allocate the transaction price to the
+separate performance obligations, and (5) recognize revenue when each
+performance obligation is satisfied.
+2 Understand and apply the five-step revenue recognition process.
+Identify the contract with customers. A contract is an agreement that
+creates enforceable rights or obligations. A company applies the revenue
+guidance to contracts with customers.
+Identify the separate performance obligations in the contract. A
+performance obligation is a promise in a contract to provide a product or service
+to a customer. A contract may be comprised of multiple performance obligations.
+The accounting for multiple performance obligations is based on evaluation of
+whether the product or service is distinct within the contract. If each of the goods
+or services is distinct, but all are interdependent and interrelated, these goods
+and services are combined and reported as one performance obligation.
+Determine the transaction price. The transaction price is the amount of
+consideration that a company expects to receive from a customer in exchange for
+
+transferring goods and services. In determining the transaction price, companies
+must consider the following factors: (1) variable consideration, (2) time value of
+money, (3) non-cash consideration, and (4) consideration paid or payable to a
+customer.
+Allocate the transaction price to the separate performance obligations.
+If more than one performance obligation exists in a contract, allocate the
+transaction price based on relative standalone selling prices. Estimates of
+standalone selling price can be based on (1) an adjusted market assessment, (2)
+the expected cost plus a margin approach, or (3) a residual approach.
+Recognize revenue when the company satisfies its performance
+obligation. A company satisfies its performance obligation when the customer
+obtains control of the good or service. Companies satisfy performance obligations
+either at a point in time or over a period of time. Companies recognize revenue
+over a period of time if one of the following criteria is met: (1) the customer
+receives and consumes the benefits as the seller performs, (2) the customer
+controls the asset as it is created, or (3) the company does not have an alternative
+use for the asset.
+3 Apply the five-step process to major revenue recognition issues.
+Refer to Illustration 18.26 for a summary of the accounting for (a) sales returns
+and allowances, (b) repurchase agreements, (c) bill-and-hold arrangements, (d)
+principal-agent relationships, (e) consignments, (f) warranties, and (g) non-
+refundable upfront fees.
+4 Describe presentation and disclosure regarding revenue.
+Under the asset-liability approach for recognizing revenue, companies present
+contract assets and contract liabilities on their statements of financial position.
+Contract assets are rights to receive consideration. A contract liability is a
+company’s obligation to transfer goods or services to a customer for which the
+company has received consideration from the customer. Companies must
+determine if new performance obligations are created by a contract modification
+and may also report assets associated with fulfillment costs and contract
+acquisition costs related to a revenue arrangement. Companies disclose
+qualitative and quantitative information about (a) contracts with customers with
+disaggregation of revenue, presentation of opening and closing balances in
+contract assets and contract liabilities, and significant information related to their
+performance obligations; (b) significant judgments that affect the determination
+of the transaction price, the allocation of the transaction price, and the
+
+determination of the timing of revenue; and (c) assets recognized from costs
+incurred to fulfill a contract.
+*5 Apply the percentage-of-completion method for long-term
+contracts.
+To apply the percentage-of-completion method to long-term contracts, a company
+must have some basis for measuring the progress toward completion at particular
+interim dates. One of the most popular input measures used to determine the
+progress toward completion is the cost-to-cost basis. Using this basis, a company
+measures the percentage of completion by comparing costs incurred to date with
+the most recent estimate of the total costs to complete the contract. The company
+applies that percentage to the total revenue or the estimated total gross profit on
+the contract, to arrive at the amount of revenue or gross profit to be recognized to
+date.
+*6 Apply the cost-recovery method for long-term contracts.
+Under this method, companies recognize gross profit only at the point of sale,
+that is, when the company completes the contract. The company accumulates
+costs of long-term contracts in process and current billings. This method
+(sometimes referred to as the zero-profit method) recognizes revenue only to the
+extent of costs incurred that are expected to be recoverable. Profit is recognized
+only after all costs are incurred.
+*7 Identify the proper accounting for losses on long-term contracts.
+Two types of losses can become evident under long-term contracts. (1) Loss in
+current period on a profitable contract: Under the percentage-of-completion
+method only, the estimated cost increase requires a current-period adjustment of
+excess gross profit recognized on the project in prior periods. The company
+records this adjustment as a loss in the current period because it is a change in
+accounting estimate. (2) Loss on an unprofitable contract: Under both the
+percentage-of-completion and the cost-recovery methods, the company must
+recognize in the current period the entire expected contract loss.
+*8 Explain revenue recognition for franchises.
+In a franchise arrangement, the franchisor satisfies its performance obligation for
+a franchise license when control of the franchise rights is transferred, generally
+when the franchisee begins operation of the franchise. In situations where the
+franchisor provides access to the rights rather than transferring control of the
+
+franchise rights, the franchise rights’ revenue is recognized over time rather than
+at a point in time. Franchisors recognize continuing franchise fees over time (as
+uncertainty related to the variable consideration is resolved).
+Enhanced Review and Practice
+Go online for multiple-choice questions with solutions, review exercises with
+solutions, and a full glossary of all key terms.
+Practice Problem
+Outback Industries manufactures emergency power equipment. Its most
+popular generator is a model called the E-Booster, which has a retail price of
+$1,500 and costs Outback $740 to manufacture. It sells the E-Booster on a
+standalone basis directly to businesses, as well as providing installation
+services. Outback also distributes the E-Booster through a consignment
+agreement with Lenz Home Store. Income data for Outback’s first quarter of
+2022 from operations other than the E-Booster generator are as follows.
+Revenues $6,500,000
+Expenses
+Outback has the following information related to four E-Booster revenue
+arrangements during the first quarter of 2022.
+1. Outback entered into an arrangement with the Grocers Co-op to deliver E-
+Boosters for the meat lockers in the grocers’ stores. Outback provides a 5%
+volume discount for E-Boosters purchased by Grocers Co-op if at least
+$450,000 of E-Boosters are purchased during 2022. By March 31, 2022,
+Outback has made sales of $360,000 ($1,500 × 240 generators) to Grocers
+Co-op. Based on prior experience with this promotion in two neighboring
+states, the discount threshold is met for the year if more than one-half of
+the target has been met by mid-year.
+2. On January 1, 2022, Outback sells 20 E-Boosters to Nick’s Liquors. Nick’s
+signs a 6-month note due in 6 months at an annual interest rate of 12%.
+Outback allows Nick’s to return any E-Boosters that it cannot use within
+120 days and receive a full refund. Based on prior experience, Outback
+estimates that three units will be returned (using the most likely outcome
+approach). Outback’s costs to recover the products will be immaterial, and
+the returned generators are expected to be resold at a profit. No E-Boosters
+have been returned as of March 31, 2022, and Outback still estimates that
+three units will be returned in the future.
+
+3. Outback sells 30 E-Boosters to First Bank, to provide uninterrupted power
+for bank branches with ATMs, for a total contract price of $50,000. In
+addition to the E-Boosters, Outback also provides installation at a
+standalone selling price of $200 per E-Booster; the cost to Outback to
+install is $150 per E-Booster. The E-Boosters are delivered and installed on
+March 1, 2022, and full payment is made to Outback.
+4. Outback ships 300 E-Boosters to Lenz Home Store on consignment. By
+March 31, 2022, Lenz Home Store has sold three-fourths of the consigned
+merchandise at the listed price of $1,500 per unit. Lenz Home Store
+notifies Outback of the sales, retains an 8% commission, and remits the
+cash due to Outback.
+Instructions
+a. Determine income for Outback Industries for the first quarter of 2022.
+(Ignore taxes.)
+b. In reviewing the credit history of Nick’s Liquors, Outback has some
+concerns about the collectibility of the full amount due on the note. Briefly
+discuss how collectibility of the note affects revenue recognition and
+income measurement for Outback.
+Solution
+a. The amount of revenue and expense recognized on each of the arrangements
+is as follows.
+1. Sales revenue [.95 × ($1,500 × 240)]
+Cost of goods sold ($740 × 240)
+Gross profit
+2. Sales revenue (20 × $1,500)
+Less: Estimated returns (3 × $1,500)
+Net sales
+Cost of goods sold (17 × $740)
+Gross profit
+Interest revenue ($30,000 × .12 × 3/12)
+Income on this arrangement
+3. The total transaction price of $50,000 is
+allocated between the equipment and
+installation. The transaction price for the
+
+equipment and installation is allocated
+based on relative standalone selling prices:
+Equipment: $44,118 = ($45,000 ÷ $51,000*) × $50,000
+Installation: $5,882 = ($6,000 ÷ $51,000) × $50,000
+*$45,000 + $6,000
+Sales revenue
+Cost of goods sold (30 × $740)
+Gross profit
+Installation revenue
+Installation expense (30 × $150)
+Net profit
+Income on this arrangement
+4. Sales revenue (225* × $1,500)
+Cost of goods sold (225 × $740)
+Gross profit
+Commission expense ($337,500 × .08)
+Net income on this arrangement
+Income on E-Booster
+*300 × .75
+Outback Industries’ income for the quarter: $6,500,000 − $4,350,000 +
+$345,520 = $2,495,520.
+b. Whether a company will get paid for satisfying a performance obligation is
+not a consideration in determining revenue recognition. That is, the amount
+recognized is not adjusted for customer credit risk. If significant doubt exists
+at contract inception about collectibility, Outback reports the revenue gross
+and then presents an allowance for any impairment due to bad debts, which
+will reduce net income and which is reported as an operating expense in the
+income statement.
+Exercises, Problems, Problem Solution Walkthrough Videos, Data Analytics
+Activities, and many more assessment tools and resources are available for
+practice in Wiley’s online courseware.
+Note: All asterisked Questions, Exercises, and Problems relate to material in the
+appendices to the chapter.
+
+Questions
+1. Explain the current environment regarding revenue recognition.
+2. What was viewed as a major criticism of IFRS as it relates to revenue
+recognition?
+3. Describe the revenue recognition principle.
+4. Identify the five steps in the revenue recognition process.
+5. Describe the critical factor in evaluating whether a performance obligation is
+satisfied.
+6. When is revenue recognized in the following situations? (a) Revenue from
+selling products, (b) revenue from services performed, (c) revenue from
+permitting others to use company assets, and (d) revenue from disposing of
+assets other than products.
+7. Explain the importance of a contract in the revenue recognition process.
+8. On October 10, 2022, Executor SpA entered into a contract with Belisle Inc. to
+transfer Executor’s specialty products (sales value of €10,000, cost of €6,500) on
+December 15, 2022. Belisle agrees to make a payment of €5,000 upon delivery
+and signs a promissory note to pay the remaining balance on January 15, 2023.
+What entries does Executor make in 2022 on this contract? Ignore time value of
+money considerations.
+9. What is a performance obligation? Under what conditions does a performance
+obligation exist?
+10. When must multiple performance obligations in a revenue arrangement be
+accounted for separately?
+11. Engelhart Implements Inc. sells tractors to area farmers. The price for each
+tractor includes GPS positioning service for 9 months (which facilitates field
+settings for planting and harvesting equipment). The GPS service is regularly sold
+on a standalone basis by Engelhart for a monthly fee. After the 9-month period,
+the consumer can renew the service on a fee basis. Does Engelhart have one or
+multiple performance obligations? Explain.
+12. What is the transaction price? What additional factors related to the
+transaction price must be considered in determining the transaction price?
+13. What are some examples of variable consideration? What are the two
+approaches for estimating variable consideration?
+14. Allee Corp. is evaluating a revenue arrangement to determine proper revenue
+recognition. The contract is for construction of 10 speedboats for a contract price
+of $400,000. The customer needs the boats in its showrooms by February 1,
+
+2023, for the sales season; the customer provides a bonus payment of $21,000 if
+all boats are delivered by the February 1 deadline. The bonus is reduced by
+$7,000 each week that the boats are delivered after the deadline until no bonus is
+paid if the boats are delivered after February 15, 2023. Allee frequently includes
+such bonus terms in its contracts and thus has good historical data for estimating
+the probabilities of completion at different dates. It estimates an equal
+probability (25%) for each full delivery outcome. What approach should Allee use
+to determine the transaction price for this contract? Explain.
+15. Refer to the information in Question 14. Assume that Allee has limited
+experience with a construction project on the same scale as the 10 speedboats.
+How does this affect the accounting for the variable consideration?
+16. In measuring the transaction price, explain the accounting for (a) time value
+of money and (b) non-cash consideration.
+17. What is the proper accounting for volume discounts on sales of products?
+18. On what basis should the transaction price be allocated to various
+performance obligations? Identify the approaches for allocating the transaction
+price.
+19. Fuhremann Co. is a full-service manufacturer of surveillance equipment.
+Customers can purchase any combination of equipment, installation services,
+and training as part of Fuhremann’s security services. Thus, these performance
+obligations are separate with individual standalone selling prices. Laplante Ltd.
+purchased cameras, installation, and training at a total price of £80,000.
+Estimated standalone selling prices of the equipment, installation, and training
+are £90,000, £7,000, and £3,000, respectively. How should the transaction price
+be allocated to the equipment, installation, and training?
+20. When does a company satisfy a performance obligation? Identify the
+indicators of satisfaction of a performance obligation.
+21. Under what conditions does a company recognize revenue over a period of
+time?
+22. How do companies recognize revenue from a performance obligation over
+time?
+23. Explain the accounting for sales with right of return.
+24. What are the reporting issues in a sale with a repurchase agreement?
+25. Explain a bill-and-hold arrangement. When is revenue recognized in these
+situations?
+26. Explain a principal-agent relationship and its significance to revenue
+recognition.
+
+27. What is the nature of a sale on consignment?
+28. What are the two types of warranties? Explain the accounting for each type.
+29. Campus Cellular provides cell phones and 1 year of cell service to students
+for an upfront, non-refundable fee of $300 and a usage fee of $5 per month.
+Students may renew the service for each year they are on campus (on average,
+students renew their service one time). What amount of revenue should Campus
+Cellular recognize in the first year of the contract?
+30. Describe the conditions when contract assets and liabilities are recognized
+and presented in financial statements.
+31. Explain the accounting for contract modifications.
+32. Explain the reporting for (a) costs to fulfill a contract and (b) collectibility.
+33. What qualitative and quantitative disclosures are required related to revenue
+recognition?
+*34. What are the two basic methods of accounting for long-term construction
+contracts? Indicate the circumstances that determine when one or the other of
+these methods should be used.
+*35. For what reasons should the percentage-of-completion method be used over
+the cost-recovery method whenever possible?
+*36. What methods are used in practice to determine the extent of progress
+toward completion? Identify some “input measures” and some “output
+measures” that might be used to determine the extent of progress.
+*37. What are the two types of losses that can become evident in accounting for
+long-term contracts? What is the nature of each type of loss? How is each type
+accounted for?
+*38. Why in franchise arrangements may it be improper to recognize the entire
+franchise fee as revenue at the date of sale?
+*39. How should a franchisor account for continuing franchise fees and routine
+sales of equipment and supplies to franchisees?
+Brief Exercises

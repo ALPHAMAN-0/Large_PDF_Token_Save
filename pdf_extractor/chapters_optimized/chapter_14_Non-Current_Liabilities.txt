@@ -1,0 +1,1768 @@
+CHAPTER 14
+Non-Current Liabilities
+LEARNING OBJECTIVES
+After studying this chapter, you should be able to:
+1. Describe the nature of bonds and indicate the accounting for bond issuances.
+2. Explain the accounting for long-term notes payable.
+3. Explain the accounting for the extinguishment of non-current liabilities.
+4. Indicate how to present and analyze non-current liabilities.
+This chapter also includes numerous conceptual discussions that are integral to the
+topics presented here.
+PREVIEW OF CHAPTER 14
+As the following opening story indicates, governments and companies are increasingly relying on
+long-term borrowing to get the resources needed for operations. In this chapter, we explain the
+accounting issues related to non-current liabilities. The content and organization of the chapter
+are as follows.
+Going Long
+Governments issue debt when their expenditures exceed their tax receipts. This is often the case when
+governments want to stimulate their economies either directly via spending or indirectly through a
+reduction in taxes. While this is a reasonable policy, many governments have in practice operated at
+substantial deficits for a number of years, relying on borrowing to support their spending.
+Consider chart (a), which shows the $69 trillion total government debt as of 2019. The size of each
+country’s area in the chart reflects its portion of total government debt. Note that the United States
+and Japan have the largest amount of outstanding debt; however, Japan’s debt to GDP ratio is over
+two times that of the United States.
+In addition to government debt, low interest rates and rising inows into bond funds have triggered
+record bond issuances. As can been seen in chart (b), total debt outstanding has recently increased in
+every region of the world. For example, total debt outstanding has increased from $4.3 trillion in 2007
+to $11.7 trillion in 2017—an over 270 percent increase in 10 years.
+
+Companies such as PayPal (USA), Air Liquide (FRA), and Toyota Motor (JPN) have all sold long-
+term bonds recently. Increases in the issuance of these bonds suggest companies have a strong
+appetite for issuing the bonds because they provide substantial cash infusion at a relatively low
+interest rate. The hope is that the trend will prove beneficial for both the investor and the company in
+the long run.
+Review and Practice
+Go to the Review and Practice section at the end of the chapter for a targeted summary review
+and practice problem with solution. Multiple-choice questions with annotated solutions, as well
+as additional exercises and practice problem with solutions, are also available online.
+Bonds Payable
+LEARNING OBJECTIVE 1
+Describe the nature of bonds and indicate the accounting for bond issuances.
+Non-current liabilities (sometimes referred to as long-term debt) consist of an expected outflow of
+resources arising from present obligations that are not payable within a year or the operating cycle of
+
+the company, whichever is longer. Bonds payable, long-term notes payable, mortgages payable,
+pension liabilities, and lease liabilities are examples of non-current liabilities.
+A company usually requires approval by the board of directors and the shareholders before bonds or
+notes can be issued. The same holds true for other types of long-term debt arrangements.
+Generally, long-term debt has various covenants or restrictions that protect both lenders and
+borrowers. The indenture or agreement often includes the amounts authorized to be issued, interest
+rate, due date(s), call provisions, property pledged as security, sinking fund requirements, working
+capital and dividend restrictions, and limitations concerning the assumption of additional debt.
+Companies should describe these features in the body of the financial statements or the notes, if
+important for a complete understanding of the financial position and the results of operations.
+Although it would seem that these covenants provide adequate protection to the long-term debtholder,
+many bondholders suffer considerable losses when companies add more debt to the capital structure.
+Consider what can happen to bondholders in leveraged buyouts (LBOs), which are usually led by
+management. In an LBO of RJR Nabisco (USA), for example, solidly rated 93⁄8 percent bonds
+plunged 20 percent in value when management announced the leveraged buyout. Such a loss in value
+occurs because the additional debt added to the capital structure increases the likelihood of default.
+Although covenants protect bondholders, they can still suffer losses when debt levels get too high.
+Types of Bonds
+We define some of the more common types of bonds found in practice as follows.
+
+Types of Bonds
+Secured and Unsecured Bonds. Secured bonds are backed by a pledge of some sort of
+collateral. Mortgage bonds are secured by a claim on real estate. Collateral trust bonds are
+secured by shares and bonds of other companies. Bonds not backed by collateral are unsecured.
+A debenture bond is unsecured. A “junk bond” is unsecured and also very risky, and therefore
+pays a high interest rate. Companies often use these bonds to finance leveraged buyouts.
+Term, Serial Bonds, and Callable Bonds. Bond issues that mature on a single date are
+called term bonds; issues that mature in installments are called serial bonds. Serially
+maturing bonds are frequently used by school or sanitation districts, municipalities, or other
+local taxing bodies that receive money through a special levy. Callable bonds give the issuer the
+right to call and retire the bonds prior to maturity.
+Convertible Bonds. If bonds are convertible into other securities of the company for a
+specified time after issuance, they are convertible bonds.
+Two types of bonds have been developed in an attempt to attract capital in a tight money market
+—commodity-backed bonds and deep-discount bonds. Commodity-backed bonds (also called
+asset-linked bonds) are redeemable in measures of a commodity, such as barrels of oil, tons of
+coal, or ounces of rare metal. To illustrate, Sunshine Mining (USA), a silver-mining company,
+sold bonds that were redeemable with either $1,000 in cash or 50 ounces of silver, whichever
+was greater at maturity, and that had a stated interest rate of 8½ percent. The accounting
+problem was one of projecting the maturity value, especially since silver has fluctuated between
+$4 and $40 an ounce since issuance.
+Deep-discount bonds, also referred to as zero-interest debenture bonds, are sold at a
+discount that provides the buyer’s total interest payoff at maturity, with no periodic interest
+payments.
+Registered and Bearer (Coupon) Bonds. Bonds issued in the name of the owner are
+registered bonds and require surrender of the certificate and issuance of a new certificate to
+complete a sale. A bearer or coupon bond, however, is not recorded in the name of the owner
+and may be transferred from one owner to another by mere delivery.
+Income and Revenue Bonds. Income bonds pay no interest unless the issuing company is
+profitable. Revenue bonds, so called because the interest on them is paid from specified
+revenue sources, are most frequently issued by airports, school districts, counties, toll-road
+authorities, and governmental bodies.
+Issuing Bonds
+A bond arises from a contract known as a bond indenture. A bond represents a promise to pay (1) a
+sum of money at a designated maturity date, plus (2) periodic interest at a specified rate on the
+maturity amount (face value). Individual bonds are evidenced by a paper certificate and typically have
+a €1,000 face value. Companies usually make bond interest payments semiannually, although the
+interest rate is generally expressed as an annual rate. The main purpose of bonds is to borrow for the
+long term when the amount of capital needed is too large for one lender to supply. By issuing bonds in
+€100, €1,000, or €10,000 denominations, a company can divide a large amount of long-term
+indebtedness into many small investing units, thus enabling more than one lender to participate in
+the loan.
+A company may sell an entire bond issue to an investment bank, which acts as a selling agent in the
+process of marketing the bonds. In such arrangements, investment banks could underwrite the entire
+issue by guaranteeing a certain sum to the company, thus taking the risk of selling the bonds for
+whatever price they can get (firm underwriting). Or, the underwriters could sell the bond issue for a
+
+commission on the proceeds of the sale (best-efforts underwriting). Alternatively, the issuing
+company could sell the bonds directly to a large institution, financial or otherwise, without the aid of
+an underwriter (private placement).
+What Do the Numbers Mean?
+All About Bonds
+How do investors monitor their bond investments? One way is to review the bond listings found
+in the newspaper or online. Company bond listings show the coupon (interest) rate, maturity
+date, and last price. However, because company bonds are more actively traded by large
+institutional investors, the listings also indicate the current yield. Company bond listings would
+look as follows.
+Issuer
+Coupon Maturity
+Price
+Yield Rating
+Vodafone Group
+6.15% 2/17/2037 128.81 3.89% BBB
+Telecom Italia S.p.A
+7.20% 7/18/2036 116.24 5.65% BB+
+The companies issuing the bonds are listed in the first column, in this case, two
+telecommunications companies, Vodafone Group (GBR) and Telecom Italia S.p.A (ITA). In
+the second column is the interest rate paid by the bond as a percentage of its par value, followed
+by its maturity date. The Vodafone bonds, for example, pay 6.15 percent and mature on February
+17, 2037. The Telecom Italia bonds pay 7.20 percent. The Vodafone bonds have a current yield of
+3.89 percent, based on the price of 128.81 per £1,000. In contrast, the Telecom Italia bonds
+selling at 116.24 yield 5.65 percent. The final column gives the bond rating. Vodafone, with a
+rating of BBB, is viewed as more creditworthy than Telecom Italia, which explains why
+Vodafone’s bonds sell at a higher price and lower yield.
+Also, as indicated in the chapter, interest rates and the bond’s term to maturity have a real effect
+on bond prices. For example, an increase in interest rates will lead to a decline in bond values.
+Similarly, a decrease in interest rates will lead to a rise in bond values. The following data, based
+on three different bond funds, demonstrate these relationships between interest rate changes
+and bond values.
+Bond Price Changes in 
+Response to Interest
+Rate Changes
+1% Interest 
+Rate
+Increase
+1% Interest 
+Rate
+Decrease
+Short-term fund (2–5 years)
+−2.5%
++2.5%
+Intermediate-term fund (5 years)
+−5%
++5%
+Long-term fund (10 years)
+−10%
++10%
+Source: The Vanguard Group.
+Another factor that affects bond prices is the call feature, which decreases the value of the bond.
+Investors must be rewarded for the risk that the issuer will call the bond if interest rates decline,
+which would force the investor to reinvest at lower rates.
+Valuation and Accounting for Bonds Payable
+The issuance and marketing of bonds to the public does not happen overnight. It usually takes weeks
+or even months. First, the issuing company must arrange for underwriters which will help market and
+sell the bonds. Then, it must obtain regulatory approval of the bond issue, undergo audits, and issue a
+prospectus (a document that describes the features of the bond and related financial information).
+Finally, the company must generally have the bond certificates printed. Frequently, the issuing
+
+company establishes the terms of a bond indenture well in advance of the sale of the bonds. Between
+the time the company sets these terms and the time it issues the bonds, the market conditions and the
+financial position of the issuing company may change significantly. Such changes affect the
+marketability of the bonds and thus their selling price.
+The selling price of a bond issue is set by the supply and demand of buyers and sellers, relative risk,
+market conditions, and the state of the economy. The investment community values a bond at the
+present value of its expected future cash flows, which consist of (1) interest and (2) principal.
+The rate used to compute the present value of these cash flows is the interest rate that provides an
+acceptable return on an investment commensurate with the issuer’s risk characteristics.
+The interest rate written in the terms of the bond indenture (and often printed on the bond certificate)
+is known as the stated, coupon, or nominal rate. The issuer of the bonds sets this rate. The stated
+rate is expressed as a percentage of the face value of the bonds (also called the par value, principal
+amount, or maturity value).
+Bonds Issued at Par
+If the rate employed by the investment community (buyers) is the same as the stated rate, the bond
+sells at par. That is, the par value equals the present value of the bonds computed by the buyers (and
+the current purchase price). To illustrate the computation of the present value of a bond issue,
+assume that Santos SA issues R$100,000 in bonds dated January 1, 2022, due in five years with 9
+percent interest payable annually on January 1. At the time of issue, the market rate for such bonds is
+9 percent. The time diagram in Illustration 14.1 depicts both the interest and the principal cash
+flows.
+ILLUSTRATION 14.1 Time Diagram for Bonds Issued at Par
+The actual principal and interest cash flows are discounted at a 9 percent rate for five periods, as
+shown in Illustration 14.2.
+Present value of the principal:
+R$100,000 × .64993 (Table 6.2)
+Present value of the interest payments:
+R$9,000 × 3.88965 (Table 6.4)
+Present value (selling price) of the bonds R$100,000
+ILLUSTRATION 14.2 Present Value Computation of Bond Selling at Par
+By paying R$100,000 (the par value) at the date of issue, investors realize an effective rate or yield of
+9 percent over the five-year term of the bonds. Santos makes the following entries in the first year of
+the bonds.
+
+Bonds Issued at Discount or Premium
+If the rate employed by the investment community (buyers) differs from the stated rate, the present
+value of the bonds computed by the buyers (and the current purchase price) will differ from the face
+value of the bonds. The difference between the face value and the present value of the bonds
+determines the actual price that buyers pay for the bonds. This difference is either a discount or
+premium.1
+If the bonds sell for less than face value, they sell at a discount.
+If the bonds sell for more than face value, they sell at a premium.
+The rate of interest actually earned by the bondholders is called the effective yield or market rate.
+If bonds sell at a discount, the effective yield exceeds the stated rate. Conversely, if bonds sell at a
+premium, the effective yield is lower than the stated rate. Several variables affect the bond’s price
+while it is outstanding, most notably the market rate of interest. There is an inverse relationship
+between the market interest rate and the price of the bond.
+To illustrate, assume now that Santos issues R$100,000 in bonds, due in five years with 9 percent
+interest payable annually at year-end. At the time of issue, the market rate for such bonds is 11
+percent. The time diagram in Illustration 14.3 depicts both the interest and the principal cash flows.
+ILLUSTRATION 14.3 Time Diagram for Bonds Issued at a Discount
+The actual principal and interest cash flows are discounted at an 11 percent rate for five periods, as
+shown in Illustration 14.4.
+
+Present value of the principal:
+R$100,000 × .59345 (Table 6.2)
+Present value of the interest payments:
+R$9,000 × 3.69590 (Table 6.4)
+Present value (selling price) of the bonds R$92,608
+ILLUSTRATION 14.4 Present Value Computation of Bond Selling at a Discount
+By paying R$92,608 at the date of issue, investors realize an effective rate or yield of 11 percent over
+the five-year term of the bonds. These bonds would sell at a discount of R$7,392 (R$100,000 −
+R$92,608). The price at which the bonds sell is typically stated as a percentage of the face or par value
+of the bonds. For example, the Santos bonds sold for 92.6 (92.6% of par). If Santos had received
+R$102,000, then the bonds sold for 102 (102% of par).
+When bonds sell at less than face value, it means that investors demand a rate of interest higher than
+the stated rate. Usually, this occurs because the investors can earn a higher rate on alternative
+investments of equal risk. The investors cannot change the stated rate, so they refuse to pay face value
+for the bonds. Thus, by changing the amount invested, they alter the effective rate of return. The
+investors receive interest at the stated rate computed on the face value, but they actually earn at an
+effective rate that exceeds the stated rate because they paid less than face value for the
+bonds. (Later in the chapter, Illustrations 14.8 and 14.9 present a bond that sells at a premium.)
+What Do the Numbers Mean?
+How About a 100-Year Bond?
+Yes, some companies issue bonds with maturities that exceed a person’s lifetime. For example,
+Électricité de France S.A. (FRA) in early 2014 sold 100-year bonds in Europe. In addition,
+countries such as Ireland and Mexico have recently sold 100-year government bonds.
+Why do these companies and countries issue 100-year bonds? A number of investors, such as
+pension funds and insurance companies, have non-current liabilities. They need long-duration
+assets to reduce an asset-liability mismatch. While investing in a 100-year bond carries interest-
+rate risk, long-term debt has an offsetting effect against long-duration assets. Thus, this group of
+investors has a strong demand for these bonds.
+Other multibillion-dollar companies, such as Walt Disney Company (USA) and The Coca-
+Cola Company (USA), have issued 100-year bonds in the past. Many of these bonds and
+debentures contain an option that lets the debt issuer partially or fully repay the debt long before
+the scheduled maturity. For example, the 100-year bond that Disney issued in 1993 is supposed
+to mature in 2093, but the company can start repaying the bonds any time after 30 years (2023).
+You may be surprised to learn that 1,000-year bonds also exist. A few issuers, such as the
+Canadian Pacific Corporation (CAN), have issued such bonds in the past. And, there have
+also been instances of bonds issued with no maturity date at all, meaning that the debt issuers
+continue fulfilling the coupon payments forever. These types of financial instruments are
+commonly referred to as perpetuities.
+Sources: Albert Phung, “Why Do Companies Issue 100-Year Bonds?” Investopedia (February 2009); K. Linsell, “EDF’s
+Borrowing Exceeds $12 Billion This Week with 100-Year Bond,” Bloomberg (January 17, 2014); and Dara Doyle, “Ireland Sells
+First 100-Year Bond, Staying On Comeback Trail,” Bloomberg (March 16, 2016).
+Effective-Interest Method
+As discussed earlier, by paying more or less at issuance, investors earn a rate different than the
+coupon rate on the bond. Recall that the issuing company pays the contractual interest rate over the
+
+term of the bonds but also must pay the face value at maturity. If the bond is issued at a discount, the
+amount paid at maturity is more than the issue amount. If issued at a premium, the company pays
+less at maturity relative to the issue price.
+The company records this adjustment to the cost as bond interest expense over the life of the
+bonds through a process called amortization. Amortization of a discount increases bond
+interest expense. Amortization of a premium decreases bond interest expense.
+The required procedure for amortization of a discount or premium is the effective-interest method
+(also called present value amortization). Under the effective-interest method, companies: [1] (See
+the Authoritative Literature References section near the end of the chapter.)
+1. Compute bond interest expense first by multiplying the carrying value (book value) of the
+bonds at the beginning of the period by the effective-interest rate.2
+2. Determine the bond discount or premium amortization next by comparing the bond interest
+expense with the interest (cash) to be paid.
+Illustration 14.5 depicts graphically the computation of the amortization.
+ILLUSTRATION 14.5 Bond Discount and Premium Amortization Computation
+The effective-interest method produces a periodic interest expense equal to a constant percentage
+of the carrying value of the bonds.3
+Bonds Issued at a Discount
+To illustrate amortization of a discount under the effective-interest method, assume Evermaster AG
+issued €100,000 of 8 percent term bonds on January 1, 2022, due on January 1, 2027, with interest
+payable each July 1 and January 1. Because the investors required an effective-interest rate of 10
+percent, they paid €92,278 for the €100,000 of bonds, creating a €7,722 discount. Evermaster
+computes the €7,722 discount as shown in Illustration 14.6.4
+Maturity value of bonds payable
+Present value of €100,000 due in 5 years at 10%, interest payable semiannually
+(Table 6.2); FV(PVF10,5%); (€100,000 × .61391)
+Present value of €4,000 interest payable semiannually for 5 years at 10% annually
+(Table 6.4); R(PVF-OA10,5%); (€4,000 × 7.72173)
+Proceeds from sale of bonds
+Discount on bonds payable
+€
+ILLUSTRATION 14.6 Computation of Discount on Bonds Payable
+The five-year amortization schedule appears in Illustration 14.7.
+
+Schedule of Bond Discount Amortization
+Effective-Interest Method—Semiannual Interest Payments
+5-Year, 8% Bonds Sold to Yield 10%
+Date
+Cash 
+Paid
+Interest 
+Expense
+Discount 
+Amortized
+Carrying
+Amount 
+of Bonds
+1/1/22
+7/1/22
+€ 4,000a
+€ 4,614b
+€ 614c
+92,892d
+1/1/23
+7/1/23
+1/1/24
+7/1/24
+1/1/25
+7/1/25
+1/1/26
+7/1/26
+1/1/27
+a€4,000 = €100,000 × .08 × 6/12
+c€614 = €4,614 − €4,000
+b€4,614 = €92,278 × .10 × 6/12
+d€92,892 = €92,278 + €614
+ILLUSTRATION 14.7 Bond Discount Amortization Schedule
+Evermaster records the issuance of its bonds at a discount on January 1, 2022, as follows.
+Cash
+Bonds Payable
+It records the first interest payment on July 1, 2022, and amortization of the discount as follows.
+Interest Expense 4,614
+Bonds Payable
+
+Cash
+Evermaster records the interest expense accrued at December 31, 2022 (year-end), and amortization
+of the discount as follows.
+Interest Expense
+Interest Payable
+Bonds Payable
+Bonds Issued at a Premium
+Now assume that for the bond issue described above, investors are willing to accept an effective-
+interest rate of 6 percent. In that case, they would pay €108,530 or a premium of €8,530, computed as
+shown in Illustration 14.8.
+Maturity value of bonds payable
+Present value of €100,000 due in 5 years at 6%, interest payable semiannually
+(Table 6.2); FV(PVF10,3%); (€100,000 × .74409)
+Present value of €4,000 interest payable semiannually for 5 years at 6% annually
+(Table 6.4); R(PVF-OA10,3%); (€4,000 × 8.53020)
+Proceeds from sale of bonds
+Premium on bonds payable
+€
+ILLUSTRATION 14.8 Computation of Premium on Bonds Payable
+The five-year amortization schedule appears in Illustration 14.9.
+
+Schedule of Bond Premium Amortization 
+Effective-Interest Method—Semiannual Interest Payments 
+5-Year, 8% Bonds Sold to Yield 6%
+Date
+Cash 
+Paid
+Interest 
+Expense
+Premium 
+Amortized
+Carrying 
+Amount 
+of Bonds
+1/1/22
+7/1/22
+€ 4,000a
+€ 3,256b
+€
+744c
+107,786d
+1/1/23
+7/1/23
+1/1/24
+7/1/24
+1/1/25
+7/1/25
+1/1/26
+7/1/26
+1/1/27
+€8,529*
+a€4,000 = €100,000 × .08 × 6/12
+c€744 = €4,000 − €3,256
+b€3,256 = €108,530 × .06 × 6/12
+d€107,786 = €108,530 − €744
+*Rounded
+ILLUSTRATION 14.9 Bond Premium Amortization Schedule
+Evermaster records the issuance of its bonds at a premium on January 1, 2022, as follows.
+Cash
+Bonds Payable
+Evermaster records the first interest payment on July 1, 2022, and amortization of the premium as
+follows.
+
+Interest Expense 3,256
+Bonds Payable
+Cash
+Evermaster should amortize the discount or premium as an adjustment to interest expense over the
+life of the bond in such a way as to result in a constant rate of interest when applied to the carrying
+amount of debt outstanding at the beginning of any given period.5
+Accruing Interest
+In our previous examples, the interest payment dates and the date the financial statements were
+issued were essentially the same. For example, when Evermaster sold bonds at a premium, the two
+interest payment dates coincided with the financial reporting dates. However, what happens if
+Evermaster prepares financial statements at the end of February, 2022? In this case, as Illustration
+14.10 shows, the company prorates the premium by the appropriate number of months to arrive at
+the proper interest expense.
+Interest accrual (€4,000 × 2/6)
+Premium amortized (€744 × 2/6)
+Interest expense (Jan.–Feb.)
+ILLUSTRATION 14.10 Computation of Interest Expense
+Evermaster records this accrual as follows.
+Interest Expense
+Bonds Payable
+Interest Payable
+If the company prepares financial statements six months later, it follows the same procedure. That is,
+the premium amortized would be as shown in Illustration 14.11.
+Premium amortized (March–June) (€744 × 4/6) €496.00
+Premium amortized (July–August) (€766 × 2/6)
+Premium amortized (March–August 2022)
+ILLUSTRATION 14.11 Computation of Premium Amortization
+Bonds Issued Between Interest Dates
+Companies usually make bond interest payments semiannually, on dates specified in the bond
+indenture. When companies issue bonds on other than the interest payment dates, bond investors
+will pay the issuer the interest accrued from the last interest payment date to the date of
+issue. The bond investors, in effect, pay the bond issuer in advance for that portion of the full six-
+months’ interest payment to which they are not entitled because they have not held the bonds for that
+period. Then, on the next semiannual interest payment date, the bond investors will
+receive the full six-months’ interest payment.
+Bonds Issued at Par
+To illustrate, assume that instead of issuing its bonds on January 1, 2022, Evermaster issued its five-
+year bonds, dated January 1, 2022, on May 1, 2022, at par (€100,000). Evermaster records the
+issuance of the bonds between interest dates as follows.
+May 1, 2022
+
+May 1, 2022
+Cash
+Bonds Payable
+(To record issuance of bonds at par)
+Cash
+Interest Expense (€100,000 × .08 × 4/12)
+(To record accrued interest; Interest Payable might be credited instead)
+Because Evermaster issues the bonds between interest dates, it records the bond issuance at par
+(€100,000) plus accrued interest (€2,667). That is, the total amount paid by the bond investor
+includes four months of accrued interest.
+On July 1, 2022, two months after the date of purchase, Evermaster pays the investors six months’
+interest, by making the following entry.
+Interest Expense
+5/1/22 2,667a
+7/1/22 4,000b
+Balance
+aAccrued interest received.
+bCash paid.
+July 1, 2022
+Interest Expense (€100,000 × .08 × 6/12) 4,000
+Cash
+(To record first interest payment)
+The Interest Expense account now contains a debit balance of €1,333 (€4,000 − €2,667), which
+represents the proper amount of interest expense—two months at 8 percent on €100,000.
+Bonds Issued at Discount or Premium
+The illustration above was simplified by having the January 1, 2022, bonds issued on May 1, 2022, at
+par. However, if the bonds are issued at a discount or premium between interest dates, Evermaster
+must not only account for the partial cash interest payment but also the amount of
+effective amortization for the partial period.
+To illustrate, assume that the Evermaster 8-percent bonds were issued on May 1, 2022, to yield 6
+percent. Thus, the bonds are issued at a premium; in this case, the price is €108,039.6 Evermaster
+records the issuance of the bonds between interest dates as follows.
+May 1, 2022
+Cash
+Bonds Payable
+(To record the present value of the cash flows)
+Cash
+Interest Expense (€100,000 × .08 × 4/12)
+
+May 1, 2022
+(To record accrued interest; Interest Payable might be credited instead)
+In this case, Evermaster receives a total of €110,706 at issuance, comprised of the bond price of
+€108,039 plus the accrued interest of €2,667. Following the effective-interest procedures, Evermaster
+then determines interest expense from the date of sale (May 1, 2022), not from the date of the bonds
+(January 1, 2022). Illustration 14.12 provides the computation, using the effective-interest rate of 6
+percent. The bond interest expense therefore for the two months (May and June) is €1,080.
+Interest Expense
+Carrying value of bonds
+Effective-interest rate (.06 × 2/12)
+1%
+Interest expense for two months €
+ILLUSTRATION 14.12 Partial Period Interest Amortization
+The premium amortization of the bonds is also for only two months. It is computed by taking the
+difference between the net cash paid related to bond interest and the effective-interest expense of
+€1,080. Illustration 14.13 shows the computation of the partial amortization, using the effective-
+interest rate of 6 percent.
+Cash interest paid on July 1, 2022 (€100,000 × .08 × 6/12)
+Less: Cash interest received on May 1, 2022
+Net cash paid
+Bond interest expense (at the effective rate) for two months (1,080)
+Premium amortization
+€
+ILLUSTRATION 14.13 Partial Period Interest Amortization
+As indicated, both the bond interest expense and amortization reflect the shorter two-month period
+between the issue date and the first interest payment. Evermaster therefore makes the following
+entries on July 1, 2022, to record the interest payment and the premium amortization.
+Interest Expense
+5/1/22 2,667a
+7/1/22 4,000b 7/1/22
+253c
+Balance
+aAccrued interest received.
+bCash paid.
+c2 months’ amortization.
+July 1, 2022
+Interest Expense
+Cash
+(To record first interest payment)
+Bonds Payable
+Interest Expense
+(To record two months’ premium amortization)
+
+The Interest Expense account now contains a debit balance of €1,080 (€4,000 − €2,667 − €253),
+which represents the proper amount of interest expense—two months at an effective annual interest
+rate of 6 percent on €108,039.
+Long-Term Notes Payable
+LEARNING OBJECTIVE 2
+Explain the accounting for long-term notes payable.
+The difference between current notes payable and long-term notes payable is the maturity date. As
+discussed in Chapter 13, short-term notes payable are those that companies expect to pay within a year
+or the operating cycle—whichever is longer. Long-term notes are similar in substance to bonds in that
+both have fixed maturity dates and carry either a stated or implicit interest rate. However, notes do not
+trade as readily as bonds in the organized public securities markets. Small companies commonly issue
+notes as their long-term instruments. Larger companies issue both long-term notes and bonds.
+Accounting for notes and bonds is quite similar. Like a bond, a note is valued at the present
+value of its future interest and principal cash flows. The company amortizes any discount
+or premium over the life of the note, just as it would the discount or premium on a bond.
+Companies compute the present value of an interest-bearing note, record its issuance, and
+amortize any discount or premium and accrual of interest in the same way that they do for bonds.
+As you might expect, accounting for long-term notes payable parallels accounting for long-term notes
+receivable, as Chapter 7 demonstrated.
+Notes Issued at Face Value
+In Chapter 7, we discussed the recognition of a €10,000, three-year note Scandinavian Imports issued
+at face value to Bigelow ASA. In this transaction, the stated rate and the effective rate were both 10
+percent. The time diagram and present value computation in Chapter 7 (see Illustration 7.12) for
+Bigelow would be the same for the issuer of the note, Scandinavian Imports, in recognizing a note
+payable. Because the present value of the note and its face value are the same, €10,000, Scandinavian
+would recognize no premium or discount. It records the issuance of the note as follows.
+Cash
+Notes Payable
+
+Scandinavian Imports would recognize the interest incurred each year as follows.
+Interest Expense (€10,000 × .10) 1,000
+Cash
+Notes Not Issued at Face Value
+Zero-Interest-Bearing Notes
+If a company issues a zero-interest-bearing (non-interest-bearing) note7 solely for cash, it measures
+the note’s present value by the cash received. The implicit interest rate is the rate that equates the
+cash received with the amounts to be paid in the future. The issuing company records the
+difference between the face amount and the present value (cash received) as a discount and
+amortizes that amount to interest expense over the life of the note.
+An example of such a transaction is Beneficial Corporation’s (USA) offering of $150 million of
+zero-coupon notes (deep-discount bonds) having an eight-year life. With a face value of $1,000 each,
+these notes sold for $327—a deep discount of $673 each. The present value of each note is the cash
+proceeds of $327. We can calculate the interest rate by determining the rate that equates the amount
+the investor currently pays with the amount to be received in the future. Thus, Beneficial amortizes
+the discount over the eight-year life of the notes using an effective-interest rate of 15 percent.8
+To illustrate the entries and the amortization schedule, assume that Turtle Cove Company issued the
+three-year, $10,000, zero-interest-bearing note to Jeremiah Company illustrated in Chapter 7 (notes
+receivable). The implicit rate that equated the total cash to be paid ($10,000 at maturity) to the
+present value of the future cash flows ($7,721.80 cash proceeds at date of issuance) was 9 percent.
+(The present value of $1 for three periods at 9 percent is $0.77218.) Illustration 14.14 shows the
+time diagram for the single cash flow.
+ILLUSTRATION 14.14 Time Diagram for Zero-Interest Note
+Turtle Cove records issuance of the note as follows.
+Cash
+Notes Payable
+Turtle Cove amortizes the discount and recognizes interest expense annually using the effective-
+interest method. Illustration 14.15 shows the three-year discount amortization and interest
+expense schedule. (This schedule is similar to the note receivable schedule of Jeremiah Company in
+Illustration 7.14.)
+
+Schedule of Note Discount Amortization
+Effective-Interest Method
+0% Note Discounted at 9%
+Cash 
+Paid
+Interest 
+Expense
+Discount 
+Amortized
+Carrying 
+Amount 
+of Note
+Date of issue
+End of year 1 $–0– $ 694.96a
+$ 694.96b
+8,416.76c
+End of year 2
+–0–
+End of year 3
+–0–
+825.73d
+$–0– $2,278.20
+a$7,721.80 × .09 = $694.96
+c$7,721.80 + $694.96 = $8,416.76
+b$694.96 − $0 = $694.96
+d5¢ adjustment to compensate for rounding.
+ILLUSTRATION 14.15 Schedule of Note Discount Amortization
+Turtle Cove records interest expense at the end of the first year using the effective-interest method as
+follows.
+Interest Expense ($7,721.80 × .09) 694.96
+Notes Payable
+The total amount of the discount, $2,278.20 in this case, represents the expense that Turtle Cove
+Company will incur on the note over the three years.
+Interest-Bearing Notes
+The zero-interest-bearing note above is an example of the extreme difference between the stated rate
+and the effective rate. In many cases, the difference between these rates is not so great.
+Consider the example from Chapter 7 where Marie Co. issued for cash a €10,000, three-year note
+bearing interest at 10 percent to Morgan Group. The market rate of interest for a note of similar risk is
+12 percent. Illustration 7.15 shows the time diagram depicting the cash flows and the computation of
+the present value of this note. In this case, because the effective rate of interest (12%) is greater than
+the stated rate (10%), the present value of the note is less than the face value. That is, the note is
+exchanged at a discount. Marie Co. records the issuance of the note as follows.
+Cash
+Notes Payable
+Marie Co. then amortizes the discount and recognizes interest expense annually using the effective-
+interest method. Illustration 14.16 shows the three-year discount amortization and interest
+expense schedule.
+
+Schedule of Note Discount Amortization
+Effective-Interest Method
+10% Note Discounted at 12%
+Cash 
+Paid
+Interest 
+Expense
+Discount 
+Amortized
+Carrying 
+Amount 
+of Note
+Date of issue
+End of year 1 €1,000a
+€1,142b
+€142c
+9,662d
+End of year 2
+End of year 3
+a€10,000 × .10 = €1,000
+c€1,142 − €1,000 = €142
+b€9,520 × .12 = €1,142
+d€9,520 + €142 = €9,662
+ILLUSTRATION 14.16 Schedule of Note Discount Amortization
+Marie Co. records payment of the annual interest and amortization of the discount for the first year as
+follows (amounts per amortization schedule).
+Interest Expense 1,142
+Notes Payable
+Cash
+When the present value exceeds the face value, Marie Co. issues the note at a premium. It does so by
+recording the premium as a credit to Notes Payable and amortizing it using the effective-interest
+method over the life of the note as annual reductions in the amount of interest expense recognized.
+
+What Do the Numbers Mean?
+Negative Interest Rates—Is That Even Possible?
+Starting around 2014, a number of debt securities were issued that paid a negative interest rate.
+Most of us understand that interest rates rise and fall, but negative interest rates are something
+altogether different. The presence of debt securities paying negative interest rates raises a
+number of questions.
+1. What is a negative interest rate? In a negative interest rate debt offering, the investor
+provides money to the borrower, and over the lifetime of the investment receives back a
+smaller amount than the original investment. This is the opposite of a traditional (positive
+interest rate) debt offering, where the amount received over the lifetime of the investment is
+greater than the amount invested.
+2. Who would issue this kind of debt? The most common issuers have been central banks.
+Central banks are components or affiliates of the central governments of various countries
+and regions. For example, Deutsche Bundesbank (DEU) is the central bank of the Federal
+Republic of Germany. Similarly, the European Central Bank (ECB) is the central bank of
+the European Union. Central banks have a variety of functions related to monetary policy,
+with the principle aim to assist governments to achieve various economic objectives related
+to employment and economic growth. (However, while the majority of negative interest rate
+borrowings are issued by central banks, a small number of businesses, including LVMH
+(FRA), Sanofi (FRA), and Henkel (DEU), have issued debt that has traded a zero and/or
+negative rate.)
+For example, in the years following the economic crisis of 2008–2009, the economies of
+countries in the European Union began to recover and for several years showed healthy
+growth. However, during 2014, the growth began to slow and overall growth in the EU lagged
+behind many of the other economies around the world. Typically, during this kind of period,
+central banks will reduce interest rates with an expectation that making funds “cheaper” will
+stimulate the economy. However, the ECB, like many other central banks, had already
+reduced its rates. For example, by the end of 2011, the ECB rate was at .25 percent, which
+was then cut in 2012 to zero. In 2014, still hoping to stimulate the lagging European
+economy, the ECB lowered rates again. Since rates were already at zero, this meant that the
+rates were reduced to a negative rate: first to −.10 percent and then to −.20 percent. The ECB
+has continued to cut rates to this day, with the current rate set at −.50 percent. This strategy
+was not limited to Europe alone. For example, the yield on Japanese 10-year government
+bonds was negative in 2016 and again in 2019.
+3. Who would invest in negative interest rate debt? While a variety of investors purchase
+debt, a subset of debt investors tend to be the primary investors in negative interest rate
+debt. The most prominent investors tend to be in the financial services industry, such as
+banks, mutual funds, and insurance companies. The reason they are willing to accept this
+negative return has to do with regulatory requirements and business practices, such as
+banks that have a regulatory requirement to hold a portion of their assets in very low risk
+and highly liquid securities. To fulfil this requirement, banks have almost always invested in
+debts from central banks since they are backed by these banks’ national governments and
+are viewed as essentially risk-free.
+What does the future hold? Will we continue to see debt issued with negative yield? Will it
+continue to be common practice for a central bank to reduce interest rates to stimulate the
+economy, even when cutting rates means lowering them to below zero? Numerous questions
+accompany this recent phenomenon and remain to be answered in full.
+
+Sources: Jonathan Soble, “Japan’s Negative Interest Rates Explained,” The New York Times (September 20, 2016); Brian
+Blackstone, “Negative Rates, Designed as a Short-Term Jolt, Have Become an Addiction,” Wall Street Journal (May 20, 2019);
+and James Mackintosh “There’s Too Much Negativity About Negative Rates,” Wall Street Journal, (September 10, 2019).
+Special Notes Payable Situations
+Notes Issued for Property, Goods, or Services
+Sometimes, companies may receive property, goods, or services in exchange for a note payable. When
+exchanging the debt instrument for property, goods, or services in a bargained transaction entered into
+at arm’s length, the stated interest rate is presumed to be fair unless:
+1. No interest rate is stated, or
+2. The stated interest rate is unreasonable, or
+3. The stated face amount of the debt instrument is materially different from the current cash sales
+price for the same or similar items or from the current fair value of the debt instrument.
+In these circumstances, the company measures the present value of the debt instrument by the fair
+value of the property, goods, or services or by an amount that reasonably approximates the fair value
+of the note. [3] If there is no stated rate of interest, the amount of interest is the difference
+between the face amount of the note and the fair value of the property.
+For example, assume that Scenic Development AS sells land having a cash sale price of €200,000 to
+Health Spa Services. In exchange for the land, Health Spa gives a five-year, €293,866, zero-interest-
+bearing note. The €200,000 cash sale price represents the present value of the €293,866 note
+discounted at 8 percent for five years. Should both parties record the transaction on the sale date at
+the face amount of the note, which is €293,866? No—if they did, Health Spa’s Land account and
+Scenic’s sales would be overstated by €93,866 (the interest for five years at an effective rate of 8
+percent). Similarly, interest revenue to Scenic and interest expense to Health Spa for the five-year
+period would be understated by €93,866.
+Because the difference between the cash sale price of €200,000 and the €293,866 face amount of the
+note represents interest at an effective rate of 8 percent, the companies’ transaction is recorded at the
+exchange date as shown in Illustration 14.17.
+Health Spa Services (Buyer)
+Scenic Development AS (Seller)
+Land
+Notes Receivable 200,000
+Notes Payable
+Sales Revenue
+ILLUSTRATION 14.17 Entries for Non-Cash Note Transaction
+During the five-year life of the note, Health Spa amortizes annually a portion of the discount of
+€93,866 as a charge to interest expense. Scenic Development records interest revenue totaling
+€93,866 over the five-year period by also amortizing the discount, using the effective-interest method.
+Choice of Interest Rate
+In note transactions, the effective or market interest rate is either evident or determinable by other
+factors involved in the exchange, such as the fair value of what is given or received. But, if a company
+cannot determine the fair value of the property, goods, services, or other rights, and if the note has no
+ready market, determining the present value of the note is more difficult. To estimate the present
+value of a note under such circumstances, a company must approximate an applicable interest rate
+that may differ from the stated interest rate. This process of interest-rate approximation is called
+imputation, and the resulting interest rate is called an imputed interest rate.
+
+The prevailing rates for similar instruments of issuers with similar credit ratings affect the choice of a
+rate. Other factors, such as restrictive covenants, collateral, payment schedule, and the existing prime
+interest rate, also play a part. Companies determine the imputed interest rate when they issue a note;
+any subsequent changes in prevailing interest rates are ignored.
+To illustrate, assume that on December 31, 2022, Wunderlich plc issued a promissory note and to
+Brown Interiors Company for architectural services. The note has a face value of £550,000, a due date
+of December 31, 2027, and also bears a stated interest rate of 2 percent, payable at the end of each
+year. Wunderlich cannot readily determine the fair value of the architectural services, nor is the note
+readily marketable. On the basis of Wunderlich’s credit rating, the absence of collateral, the prime
+interest rate at that date, and the prevailing interest on Wunderlich’s other outstanding debt, the
+company imputes an 8 percent interest rate as appropriate in this circumstance. Illustration 14.18
+shows the time diagram depicting both cash flows.
+ILLUSTRATION 14.18 Time Diagram for Interest-Bearing Note
+Illustration 14.19 shows the calculation of the present value of the note and the imputed fair value
+of the architectural services.
+Face value of the note
+Present value of £550,000 due in 5 years at 8% interest payable annually (Table
+6.2); FV(PVF5,8%); (£550,000 × .68058)
+Present value of £11,000 interest payable annually for 5 years at 8%; R(PVF-
+OA5,8%); (£11,000 × 3.99271)
+Present value of the note
+Discount on notes payable
+ILLUSTRATION 14.19 Computation of Imputed Fair Value and Note Discount
+Wunderlich records issuance of the note in payment for the architectural services as follows.
+December 31, 2022
+Buildings (or Construction in Process) 418,239
+Notes Payable
+The five-year amortization schedule is presented in Illustration 14.20.
+
+Schedule of Note Discount Amortization
+Effective-Interest Method
+2% Note Discounted at 8% (Imputed)
+Date
+Cash 
+Paid 
+Interest 
+Expense 
+Discount 
+Amortized
+Carrying 
+Amount 
+of Note
+12/31/22
+12/31/23 £11,000a £ 33,459b
+£ 22,459c
+440,698d
+12/31/24
+12/31/25
+12/31/26
+12/31/27
+41,558e
+a£550,000 × .02 = £11,000
+d£418,239 + £22,459 = £440,698
+b£418,239 × .08 = £33,459
+e£3 adjustment to compensate for rounding.
+c£33,459 − £11,000 = £22,459
+ILLUSTRATION 14.20 Schedule of Discount Amortization Using Imputed Interest Rate
+Wunderlich records payment of the first year’s interest and amortization of the discount as follows.
+December 31, 2023
+Interest Expense 33,459
+Notes Payable
+Cash
+Mortgage Notes Payable
+A common form of long-term notes payable is a mortgage note payable. A mortgage note payable is
+a promissory note secured by a document called a mortgage that pledges title to property as security
+for the loan. Individuals, proprietorships, and partnerships use mortgage notes payable more
+
+frequently than do larger companies (which usually find that bond issues offer advantages in
+obtaining large loans).
+The borrower usually receives cash for the face amount of the mortgage note. In that case, the face
+amount of the note is the true liability, and no discount or premium is involved. When the lender
+assesses “points,” however, the total amount received by the borrower is less than the face amount of
+the note.9 Points raise the effective-interest rate above the rate specified in the note. A point is 1
+percent of the face of the note.
+For example, assume that Harrick Co. borrows $1,000,000, signing a 20-year mortgage note with a
+stated interest rate of 10.75 percent as part of the financing for a new plant. If Associated Savings
+demands 4 points to close the financing, Harrick will receive 4 percent less than $1,000,000—or
+$960,000—but it will be obligated to repay the entire $1,000,000 at the rate of $10,150 per month.
+Because Harrick received only $960,000 and must repay $1,000,000, its effective-interest rate is
+increased to approximately 11.3 percent on the money actually borrowed.
+On the statement of financial position, Harrick should report the mortgage note payable as a liability
+using a title such as “Mortgage Notes Payable” or “Notes Payable—Secured,” with a brief disclosure of
+the property pledged in notes to the financial statements.
+Mortgages may be payable in full at maturity or in installments over the life of the loan. If payable at
+maturity, Harrick classifies its mortgage payable as a non-current liability on the statement of
+financial position until such time as the approaching maturity date warrants showing it as a current
+liability. If it is payable in installments, Harrick shows the current installments due as current
+liabilities, with the remainder as a non-current liability.
+Lenders have partially replaced the traditional fixed-rate mortgage with alternative mortgage
+arrangements. Most lenders offer variable-rate mortgages (also called floating-rate or adjustable-
+rate mortgages) featuring interest rates tied to changes in the fluctuating market rate. Generally, the
+variable-rate lenders adjust the interest rate at either one- or three-year intervals, pegging the
+adjustments to changes in the prime rate or the London Interbank Offering rate (LIBOR).10
+Extinguishment of Non-Current Liabilities
+LEARNING OBJECTIVE 3
+Explain the accounting for extinguishment of non-current liabilities.
+How do companies record the payment of non-current liabilities—often referred to as
+extinguishment of debt? If a company holds the bonds (or any other form of debt security) to
+maturity, the answer is straightforward: The company does not compute any gains or losses. It will
+have fully amortized any premium or discount at the date the bonds mature. As a result, the carrying
+amount, the maturity (face) value, and the fair value of the bond are the same. Therefore, no gain or
+loss exists.
+In this section, we discuss extinguishment of debt under three common additional situations:
+1. Extinguishment with cash before maturity.
+2. Extinguishment by transferring assets or securities.
+3. Extinguishment with modification of terms.
+Extinguishment with Cash Before Maturity
+In some cases, a company extinguishes debt before its maturity date.11 The amount paid on
+extinguishment or redemption before maturity, including any call premium and expense of
+reacquisition, is called the reacquisition price. On any specified date, the carrying amount of the
+
+bonds is the amount payable at maturity, adjusted for unamortized premium or discount. Any excess
+of the net carrying amount over the reacquisition price is a gain from extinguishment. The excess
+of the reacquisition price over the carrying amount is a loss from extinguishment. At the time of
+reacquisition, the unamortized premium or discount must be amortized up to the
+reacquisition date.
+To illustrate, we use the Evermaster bonds issued at a discount on January 1, 2022. These bonds are
+due in five years. The bonds have a par value of €100,000, a coupon rate of 8 percent paid
+semiannually, and were sold to yield 10 percent. The amortization schedule for the Evermaster bonds
+is presented in Illustration 14.21.
+Schedule of Bond Discount Amortization
+Effective-Interest Method—Semiannual Interest Payments
+5-Year, 8% Bonds Sold to Yield 10%
+Date
+Cash 
+Paid
+Interest 
+Expense
+Discount 
+Amortized
+Carrying
+Amount 
+of Bonds
+1/1/22
+7/1/22
+€ 4,000a
+€ 4,614b
+€ 614c
+92,892d
+1/1/23
+7/1/23
+1/1/24
+7/1/24
+1/1/25
+7/1/25
+1/1/26
+7/1/26
+1/1/27
+a€4,000 = €100,000 × .08 × 6/12
+c€614 = €4,614 − €4,000
+b€4,614 = €92,278 × .10 × 6/12
+d€92,892 = €92,278 + €614
+ILLUSTRATION 14.21 Bond Premium Amortization Schedule, Bond Extinguishment
+On January 1, 2024, two years after the issue date, Evermaster calls the entire issue at 101 and cancels
+it.12 As indicated in the amortization schedule, the carrying value of the bonds on January 1, 2024, is
+€94,925. Illustration 14.22 indicates how Evermaster computes the loss on redemption
+(extinguishment).
+Reacquisition price (€100,000 × 1.01) €101,000
+Carrying amount of bonds redeemed
+Loss on extinguishment
+€
+ILLUSTRATION 14.22 Computation of Loss on Redemption of Bonds
+Evermaster records the reacquisition and cancellation of the bonds as follows.
+Bonds Payable
+Loss on Extinguishment of Debt
+Cash
+
+Note that it is often advantageous for the issuer to acquire the entire outstanding bond issue and
+replace it with a new bond issue bearing a lower rate of interest. The replacement of an existing
+issuance with a new one is called refunding. Whether the early redemption or other extinguishment
+of outstanding bonds is a non-refunding or a refunding situation, a company should recognize the
+difference (gain or loss) between the reacquisition price and the carrying amount of the redeemed
+bonds in income (in other income and expenses) of the period of redemption.
+Extinguishment by Exchanging Assets or Securities
+In addition to using cash, settling a debt obligation can involve either a transfer of non-cash assets
+(real estate, receivables, or other assets) or the issuance of the debtor’s shares. In these situations, the
+creditor should account for the non-cash assets or equity interest received at their fair
+value.
+The debtor must determine the excess of the carrying amount of the payable over the fair value of the
+assets or equity transferred (gain).13 The debtor recognizes a gain equal to the amount of the excess.
+In addition, the debtor recognizes a gain or loss on disposition of assets to the extent that the fair
+value of those assets differs from their carrying amount (book value).
+Transfer of Assets
+Assume that Hamburg Bank loaned €20,000,000 to Bonn Mortgage Company. Bonn, in turn, invested
+these monies in residential apartment buildings. However, because of low occupancy rates, it cannot
+meet its loan obligations. Hamburg Bank agrees to accept real estate with a fair value of €16,000,000
+from Bonn Mortgage in full settlement of the €20,000,000 loan obligation. The real estate has a
+carrying value of €21,000,000 on the books of Bonn Mortgage. Bonn (debtor) records this transaction
+as follows.
+Notes Payable (to Hamburg Bank)
+Loss on Disposal of Real Estate (€21,000,000 − €16,000,000)
+Real Estate
+Gain on Extinguishment of Debt (€20,000,000 − €16,000,000)
+Bonn Mortgage has a loss on the disposition of real estate in the amount of €5,000,000 (the
+difference between the €21,000,000 book value and the €16,000,000 fair value). In addition, it has a
+gain on settlement of debt of €4,000,000 (the difference between the €20,000,000 carrying amount
+of the note payable and the €16,000,000 fair value of the real estate).
+Granting of Equity Interest
+Now assume that Hamburg Bank agrees to accept from Bonn Mortgage 320,000 ordinary shares (€10
+par) that have a fair value of €16,000,000, in full settlement of the €20,000,000 loan obligation. Bonn
+Mortgage (debtor) records this transaction as follows.
+Notes Payable (to Hamburg Bank)
+Share Capital—Ordinary (320,000 × €10)
+Share Premium—Ordinary (€16,000,000 − €3,200,000)
+Gain on Extinguishment of Debt
+It records the ordinary shares issued in the normal manner. It records the difference between the par
+value and the fair value of the shares as share premium.
+Extinguishment with Modification of Terms
+Practically every day, the Wall Street Journal or the Financial Times runs a story about some company
+in financial difficulty, such as Japan Display (JPN) or Bayer AG (DEU). In many of these
+
+situations, a creditor may grant a borrower concessions with respect to settlement. The creditor offers
+these concessions to ensure the highest possible collection on the loan. For example, a creditor may
+offer one or a combination of the following modifications:
+1. Reduction of the stated interest rate.
+2. Extension of the maturity date of the face amount of the debt.
+3. Reduction of the face amount of the debt.
+4. Reduction or deferral of any accrued interest.
+As with other extinguishments, when a creditor grants favorable concessions on the terms of a loan,
+the debtor has an economic gain. Thus, the accounting for modifications is similar to that for other
+extinguishments. That is, the original obligation is extinguished, the new payable is recorded at fair
+value, and a gain is recognized for the difference in the fair value of the new obligation and the
+carrying value of the old obligation.14
+To illustrate, assume that on December 31, 2022, Morgan National Bank enters into a debt
+modification agreement with Resorts Development Group, which is experiencing financial difficulties.
+The bank restructures a ¥10,500,000 loan receivable issued at par (interest paid to date) by:
+Reducing the principal obligation from ¥10,500,000 to ¥9,000,000;
+Extending the maturity date from December 31, 2022, to December 31, 2026; and
+Reducing the interest rate from the historical effective rate of 12 percent to 8 percent. Given
+Resorts Development’s financial distress, its market-based borrowing rate is 15 percent.
+IFRS requires the modification to be accounted for as an extinguishment of the old note and issuance
+of the new note, measured at fair value. [6] Illustration 14.23 shows the calculation of the fair
+value of the modified note, using Resorts Development’s market discount rate of 15 percent.
+Present value of restructured cash flows:
+Present value of ¥9,000,000 due in 4 years at 15%, interest payable annually (Table 6.2);
+FV(PVF4,15%); (¥9,000,000 × .57175)
+¥5,145,750
+Present value of ¥720,000* interest payable annually for 4 years at 15% (Table 6.4);
+R(PVF-OA4,15%); (¥720,000 × 2.85498)
+Fair value of note
+¥7,201,336
+* ¥ 9,000,000 × .08
+ILLUSTRATION 14.23 Fair Value of Restructured Note
+The gain on the modification is ¥3,298,664, which is the difference between the prior carrying value
+(¥10,500,000) and the fair value of the restructured note, as computed in Illustration 14.23
+(¥7,201,336). Given this information, Resorts Development makes the following entry to record the
+modification.
+Notes Payable (old)
+Gain on Extinguishment of Debt
+Notes Payable (new)
+Illustration 14.24 shows the amortization schedule for the new note, following the modification.
+
+Date
+Cash Paid
+Interest Expense
+Amortization Carrying Value
+12/31/2022
+¥7,201,336
+12/31/2023 ¥720,000a
+¥1,080,200b
+¥360,200c
+7,561,536d
+12/31/2024
+12/31/2025
+12/31/2026
+547,869e
+a¥9,000,000 × .08
+c¥1,080,200 − ¥720,000 e¥49 adjustment for rounding
+b¥7,201,336 × .15
+d¥7,201,336 + ¥360,200
+ILLUSTRATION 14.24 Schedule of Interest and Amortization after Debt Modification
+Resorts Development recognizes interest expense on this note using the effective rate of 15 percent.
+Thus, on December 31, 2023 (date of first interest payment after restructure), Resorts Development
+makes the following entry.
+December 31, 2023
+Interest Expense 1,080,200
+Notes Payable
+Cash
+Resorts Development makes a similar entry (except for different amounts for credits to Notes Payable
+and debits to Interest Expense) each year until maturity. At maturity, Resorts Development makes the
+following entry.
+December 31, 2026
+Notes Payable 9,000,000
+Cash
+In summary, following the modification, Resorts Development has extinguished the old note with an
+effective rate of 12 percent and now has a new loan with a much higher effective rate of 15 percent.
+Presentation and Analysis
+LEARNING OBJECTIVE 4
+Indicate how to present and analyze non-current liabilities.
+Fair Value Option
+As indicated earlier, non-current liabilities such as bonds and notes payable are generally measured at
+amortized cost (face value of the payable, adjusted for any payments and amortization of any premium
+or discount). However, companies have the option to record fair value in their accounts for most
+financial assets and liabilities, including bonds and notes payable. [7] As discussed in Chapter 7, the
+IASB believes that fair value measurement for financial instruments, including financial liabilities,
+provides more relevant and understandable information than amortized cost. It considers fair value to
+be more relevant because it reflects the current cash equivalent value of financial instruments.
+Fair Value Measurement
+If companies choose the fair value option, non-current liabilities such as bonds and notes payable
+are recorded at fair value, with unrealized holding gains or losses reported as part of net income. An
+unrealized holding gain or loss is the net change in the fair value of the liability from one period
+
+to another, exclusive of interest expense recognized but not recorded. As a result, the company reports
+the liability at fair value each reporting date. In addition, it reports the change in value as part of net
+income.
+To illustrate, Edmonds SE issued €500,000 of 6 percent bonds at face value on May 1, 2022. Edmonds
+chose the fair value option for these bonds. At December 31, 2022, the fair value of the bonds is
+€480,000 because interest rates in the market increased to 8 percent. The value of the debt securities
+fell because the bond paid less than market rate for similar securities. Under the fair value option,
+Edmonds made the following entry.
+Bonds Payable (€500,000 − €480,000)
+Unrealized Holding Gain or Loss—Income
+As the journal entry indicates, the value of the bonds declined. This decline leads to a reduction in the
+bond liability and a resulting unrealized holding gain, which is reported as part of net income. The
+value of Edmonds’ debt declined because interest rates increased. It should be emphasized that
+Edmonds must continue to value the bonds payable at fair value in all subsequent periods.
+Fair Value Controversy
+With the Edmonds bonds, we assumed that the decline in value of the bonds was due to an interest
+rate increase. In other situations, the decline may occur because the bonds become more likely to
+default. That is, if the creditworthiness of Edmonds declines, the value of its debt also
+declines. If its creditworthiness declines, its bond investors are receiving a lower rate relative to
+investors with similar-risk investments. If Edmonds is using the fair value option, changes in the fair
+value of the bonds payable for a decline in creditworthiness are included as part of income. Some
+question how Edmonds can record a gain when its creditworthiness is becoming worse. As one writer
+observed, “It seems counterintuitive.” However, the IASB notes that the debtholders’ loss is the
+shareholders’ gain. That is, the shareholders’ claims on the assets of the company increase when the
+value of the debtholders’ claims declines. In addition, the worsening credit position may indicate that
+the assets of the company are declining in value as well. Thus, the company may be reporting losses
+on the asset side, which will be offsetting gains on the liability side.
+The IASB apparently agrees with this statement and requires that the effects of changes in a
+company’s credit risk should not affect profit and loss unless the liability is held for trading. [8]
+Therefore, any change in the value of the liability due to credit risk changes should be reported in
+other comprehensive income. To illustrate, assume the change in the interest rate related to the
+Edmonds bonds described in the previous section changed from 6 percent to 8 percent due to a
+decrease in the credit quality of these bonds. Under the fair value option, Edmonds makes the
+following entry.
+Bonds Payable
+Unrealized Holding Gain or Loss—Equity
+This entry recognizes the decline in the fair value of the liability and a resulting unrealized holding
+gain, which is reported as part of other comprehensive income. The value of the Edmonds bonds
+declined because of the change in its credit risk, not because of general market conditions. Edmonds
+then continues to value the bonds payable at fair value in all subsequent periods (see Underlying
+Concepts).
+Underlying Concepts
+The fair value controversy represents a classic trade-off between relevance and faithful
+representation.
+
+Off-Balance-Sheet Financing
+What do Air Berlin (DEU), HSBC (GBR), China Construction Bank Corp. (CHN), and Enron
+(USA) have in common? They all have been accused of using off-balance-sheet financing to minimize
+the reporting of debt on their statements of financial position.15 Off-balance-sheet financing is an
+attempt to borrow monies in such a way as to prevent recording the obligations. It has become an
+issue of extreme importance. Many allege that Enron, in one of the largest corporate failures on
+record, hid a considerable amount of its debt off the statement of financial position. As a result, any
+company that uses off-balance-sheet financing today risks investors dumping their shares.
+Consequently, their share price will suffer. Nevertheless, a considerable amount of off-balance-sheet
+financing continues to exist. As one writer noted, “The basic drives of humans are few: to get enough
+food, to find shelter, and to keep debt off the balance sheet.”
+Different Forms
+Off-balance-sheet financing can take different forms:
+1. Non-consolidated subsidiary. Under IFRS, a parent company does not have to consolidate a
+subsidiary company that is less than 50 percent owned. In such cases, the parent therefore does
+not report the assets and liabilities of the subsidiary. All the parent reports on its statement of
+financial position is the investment in the subsidiary. As a result, users of the financial
+statements may not understand that the subsidiary has considerable debt for which the parent
+may ultimately be liable if the subsidiary runs into financial difficulty.
+2. Special purpose entity (SPE). A company creates a special purpose entity (SPE) to
+perform a special project. To illustrate, assume that Clarke Company decides to build a new
+factory. However, management does not want to report the plant or the borrowing used to fund
+the construction on its statement of financial position. It therefore creates an SPE, the purpose of
+which is to build the plant. (This arrangement is called a project financing arrangement.) The
+SPE finances and builds the plant. In return, Clarke guarantees that it or some outside party will
+purchase all the products produced by the plant (sometimes referred to as a take-or-pay
+contract). As a result, Clarke might not report the asset or liability on its books.
+Rationale
+Why do companies engage in off-balance-sheet financing? A major reason is that many believe that
+removing debt enhances the quality of the statement of financial position and permits
+credit to be obtained more readily and at less cost.
+Second, loan covenants often limit the amount of debt a company may have. As a result, the company
+uses off-balance-sheet financing because these types of commitments might not be considered
+in computing debt limits.
+Third, some argue that the asset side of the statement of financial position is severely understated. For
+example, companies that depreciate assets on an accelerated basis will often have carrying amounts
+for property, plant, and equipment that are much lower than their fair values. As an offset to these
+lower values, some believe that part of the debt does not have to be reported. In other words, if
+companies reported assets at fair values, less pressure would undoubtedly exist for off-balance-
+sheet financing arrangements.
+Whether the arguments above have merit is debatable. The general idea of “out of sight, out of mind”
+may not be true in accounting. Many users of financial statements indicate that they attempt to factor
+these off-balance-sheet financing arrangements into their computations when assessing debt to equity
+relationships. Similarly, many loan covenants also attempt to account for these complex
+arrangements. Nevertheless, many companies still believe that benefits will accrue if they omit certain
+obligations from the statement of financial position.
+
+As a response to off-balance-sheet financing arrangements, the IASB has increased disclosure (note)
+requirements. This response is consistent with an “efficient markets” philosophy: The important
+question is not whether the presentation is off-balance-sheet but whether the items are disclosed at
+all. In addition, the U.S. SEC now requires companies that it regulates to disclose (1) all contractual
+obligations in a tabular format and (2) contingent liabilities and commitments in either a textual or
+tabular format. An example of this disclosure appears in the following “Evolving Issue” box.16
+We believe that recording more obligations on the statement of financial position will enhance
+financial reporting. Given the problems with companies such as Enron, Tiger Air (AUS), Petra
+Perdana (MYS), and Washington Mutual (USA), and on-going efforts by the IASB and market
+regulators, we expect that less off-balance-sheet financing will occur in the future.17
+
+Evolving Issue
+Off-and-On Reporting
+The off-balance-sheet world is slowly but surely becoming more on-balance-sheet. New rules on
+guarantees and consolidation of SPEs are doing their part to increase the amount of debt
+reported on company statements of financial position. See footnote 16 for a discussion of the
+IASB’s consolidation guidance.
+In addition, companies must disclose off-balance-sheet arrangements and contractual obligations
+that currently have, or are reasonably likely to have, a material future effect on the companies’
+financial condition. Presented below is Novartis Group’s (CHE) tabular disclosure of its
+contractual obligations. Because Novartis lists its securities in the United States, it is subject to
+U.S. SEC rules.
+Novartis Group
+Contractual Obligations
+The following table summarizes the Group’s contractual obligations and other commercial
+commitments as well as the effect these obligations and commitments are expected to have on
+the Group’s liquidity and cash flow in future periods:
+Payments due by period
+(in USD millions)
+Total
+Less
+than
+1 year
+2–3
+years
+4–5
+years
+After 
+years
+Non-current financial debt, including current
+portion
+Interest on non-current financial debt, including
+current portion
+Operating leases
+Unfunded pensions and other post-employment
+benefit plans
+Research and development potential milestone
+commitments
+Property, plant and equipment purchase
+commitments
+Total contractual cash obligations
+The Group intends to fund the R&D and purchase commitments with internally generated
+resources.
+Enron’s (USA) abuse of off-balance-sheet financing to hide debt was shocking and
+inappropriate. One silver lining in the Enron debacle, however, is that the standard-setting bodies
+are now providing increased guidance on companies’ reporting of contractual obligations. We
+believe the U.S. SEC rule, which requires companies to report their obligations over a period of
+time, will be extremely useful to the investment community.
+Presentation of Non-Current Liabilities
+Companies that have large amounts and numerous issues of non-current liabilities frequently report
+only one amount in the statement of financial position, supported with comments and schedules in
+the accompanying notes. Long-term debt that matures within one year should be reported as a
+current liability. If the company plans to refinance debt, convert it into shares, or retire it from a bond
+
+retirement fund, it should continue to report the debt as non-current if the refinancing agreement is
+completed by the end of the period. [10]
+Note disclosures generally indicate the nature of the liabilities, maturity dates, interest rates, call
+provisions, conversion privileges, restrictions imposed by the creditors, and assets designated or
+pledged as security. Companies should show any assets pledged as security for the debt in the assets
+section of the statement of financial position. The fair value of the long-term debt should also be
+disclosed. Finally, companies must disclose future payments for sinking fund requirements and
+maturity amounts of long-term debt during each of the next five years. These disclosures aid financial
+statement users in evaluating the amounts and timing of future cash flows. Illustration 14.25
+shows an example of the type of information provided for Novartis Group.
+
+Novartis Group
+(in millions)
+Dec. 31, 2018
+Dec. 31, 2017
+Total current assets
+Non-current liabilities
+Financial debts
+Deferred tax liabilities
+Provisions and other non-current liabilities
+Total non-current liabilities
+Current liabilities
+Trade payables
+Financial debts and derivative financial instruments
+Current income tax liabilities
+Provisions and other current liabilities
+Total current liabilities
+Total liabilities
+19. Non-Current Financial Debt
+Straight bonds
+Liabilities to banks and other financial
+institutions1
+Finance lease obligations
+Total, including current portion of
+non-current financial debt
+Less current portion of non-current
+financial debt
+−3,190
+−359
+Total non-current financial debts
+1Average interest rate 0.3% (2017: 0.3%)
+Breakdown by maturity
+$
+$
+After
+
+Novartis Group
+(in millions)
+Total
+Breakdown by currency
+USD
+EUR
+JPY
+CHF
+Total
+Fair value comparison
+Balance
+sheet
+Fair
+values
+Balance
+sheet
+Fair
+values
+Straight bonds
+Others
+Total
+Collateralized non-current financial debt and
+pledged assets
+USD millions
+USD millions
+Total net book value of property, plant & equipment pledged
+as collateral for non-current financial debt
+The Group’s collateralized non-current financial debt consists of loan facilities at usual market
+conditions.
+The percentage of fixed rate financial debt to total financial debt was 80% at December 31, 2018,
+and December 31, 2017.
+Financial debts, including current financial debts, contain only general default covenants. The
+Group is in compliance with these covenants.
+The average interest rate on total financial debt in 2018 was 2.7% (2017: 2.6%).
+ILLUSTRATION 14.25 Long-Term Debt Disclosure
+Analysis of Non-Current Liabilities
+Long-term creditors and shareholders are interested in a company’s long-run solvency, particularly its
+ability to pay interest as it comes due and to repay the face value of the debt at maturity. Debt to assets
+and times interest earned are two ratios that provide information about debt-paying ability and long-
+run solvency.
+Debt to Assets Ratio
+The debt to assets ratio measures the percentage of the total assets provided by creditors. To
+compute it, divide total debt (both current and non-current liabilities) by total assets, as Illustration
+14.26 shows.
+
+Debt to Assets =
+ILLUSTRATION 14.26 Computation of Debt to Assets Ratio
+The higher the percentage of total liabilities to total assets, the greater the risk that the company may
+be unable to meet its maturing obligations.
+Times Interest Earned
+The times interest earned ratio indicates the company’s ability to meet interest payments as they
+come due. As shown in Illustration 14.27, it is computed by dividing the sum of net income, interest
+expense, and income tax expense by interest expense.
+Times Interest Earned =
+ILLUSTRATION 14.27 Computation of Times Interest Earned
+To illustrate these ratios, we use data from Novartis’s 2018 annual report. Novartis has total
+liabilities of $66,871 million, total assets of $145,563 million, interest expense of $957 million, income
+taxes of $1,221 million, and net income of $12,614 million. We compute Novartis’s debt to assets and
+times interest earned ratios as shown in Illustration 14.28.
+Debt to assets
+=
+= 46%
+Times interest earned
+=
+= 15.5 times
+ILLUSTRATION 14.28 Computation of Long-Term Debt Ratios for Novartis
+Even though Novartis has a relatively high debt to assets ratio of 46 percent, its high interest coverage
+of 15.5 times indicates it can meet its interest payments as they come due.
+Review and Practice
+Key Terms Review
+amortization
+bearer (coupon) bonds
+bond discount
+bond indenture
+bond premium
+callable bonds
+carrying value
+commodity-backed bonds
+convertible bonds
+debenture bonds
+debt to assets ratio
+Total Liabilities
+Total Assets
+Net Income + Interest Expense + Income Tax Expense
+Interest Expense
+$12,614 + $957 + $1,221
+
+deep-discount (zero-interest debenture) bonds
+effective-interest method
+effective yield or market rate
+extinguishment of debt
+face, par, principal, or maturity value
+fair value option
+imputation
+imputed interest rate
+income bonds
+long-term debt
+long-term notes payable
+mortgage note payable
+off-balance-sheet financing
+refunding
+registered bonds
+revenue bonds
+secured bonds
+serial bonds
+special purpose entity (SPE)
+stated, coupon, or nominal rate
+substantial modification (n)
+term bonds
+times interest earned
+zero-interest debenture bonds
+Learning Objectives Review
+1 Describe the nature of bonds and indicate the accounting for bond issuances.
+Incurring long-term debt is often a formal procedure. Companies usually require approval by the
+board of directors and the shareholders before they can issue bonds or can make other long-term debt
+arrangements. Generally, long-term debt has various covenants or restrictions. The covenants and
+other terms of the agreement between the borrower and the lender are stated in the bond indenture or
+note agreement.
+Various types of bond issues are (1) secured and unsecured bonds; (2) term, serial, and callable
+bonds; (3) convertible, commodity-backed, and deep-discount bonds; (4) registered and bearer
+(coupon) bonds; and (5) income and revenue bonds. The variety in the types of bonds results from
+attempts to attract capital from different investors and risk-takers and to satisfy the cash flow needs of
+the issuers.
+The investment community values a bond at the present value of its future cash flows,
+which consist of interest and principal. The rate used to compute the present value of these cash
+flows is the interest rate that provides an acceptable return on an investment commensurate with the
+
+issuer’s risk characteristics. The interest rate written in the terms of the bond indenture and ordinarily
+appearing on the bond certificate is the stated, coupon, or nominal rate. The issuer of the bonds sets
+the rate and expresses it as a percentage of the face value (also called the par value, principal amount,
+or maturity value) of the bonds. If the rate employed by the buyers differs from the stated rate, the
+present value of the bonds computed by the buyers will differ from the face value of the bonds. The
+difference between the face value and the present value of the bonds is either a discount or a
+premium.
+The discount (premium) is amortized and charged (credited) to interest expense over the
+life of the bonds. Amortization of a discount increases bond interest expense, and amortization of a
+premium decreases bond interest expense. The profession’s preferred procedure for amortization of a
+discount or premium is the effective-interest method. Under the effective-interest method, (1)
+bond interest expense is computed by multiplying the carrying value of the bonds at the beginning of
+the period by the effective-interest rate; then, (2) the bond discount or premium amortization is
+determined by comparing the bond interest expense with the interest to be paid.
+2 Explain the accounting for long-term notes payable.
+Accounting procedures for notes and bonds are similar. Like a bond, a note is valued at the present
+value of its expected future interest and principal cash flows, with any discount or premium being
+similarly amortized over the life of the note. Whenever the face amount of the note does not
+reasonably represent the present value of the consideration in the exchange, a company must evaluate
+the entire arrangement in order to properly record the exchange and the subsequent interest.
+3 Explain the accounting for the extinguishment of non-current liabilities.
+Non-current liabilities, such as bonds and notes payable, may be extinguished by (1) paying cash, (2)
+transferring non-cash assets and/or granting of an equity interest, and (3) modification of terms. At
+the time of extinguishment, any unamortized premium or discount must be amortized up to the
+reacquisition date. The reacquisition price is the amount paid on extinguishment or redemption
+before maturity, including any call premium and expense of reacquisition. On any specified date, the
+carrying amount of the debt is the amount payable at maturity, adjusted for unamortized premium or
+discount. Any excess of the carrying amount over the reacquisition price is a gain from
+extinguishment. The excess of the reacquisition price over the carrying amount is a loss from
+extinguishment. Gains and losses on extinguishments are recognized currently in income. When debt
+is extinguished by transfer of non-cash assets or granting of equity interest, debtors record losses and
+gains on settlements based on fair values. The accounting for debt extinguished with modification is
+similar to that for other extinguishments. That is, the original obligation is extinguished, the new
+payable is recorded at fair value, and a gain or loss is recognized for the difference in the fair value of
+the new obligation and the carrying value of the old obligation.
+4 Indicate how to present and analyze non-current liabilities.
+Fair value option. Companies have the option to record fair value in their accounts for most
+financial assets and liabilities, including non-current liabilities. Fair value measurement for financial
+instruments, including financial liabilities, provides more relevant and understandable information
+than amortized cost. If companies choose the fair value option, non-current liabilities such as bonds
+and notes payable are recorded at fair value, with unrealized holding gains or losses reported as part of
+net income. An unrealized holding gain or loss is the net change in the fair value of the liability from
+one period to another, exclusive of interest expense recognized but not recorded.
+Off-balance-sheet financing arrangements. Off-balance-sheet financing is an attempt to borrow
+funds in such a way as to prevent recording obligations. Examples of off-balance-sheet arrangements
+are (1) non-consolidated subsidiaries and (2) special purpose entities.
+
+Presentation. Companies that have large amounts and numerous issues of non-current liabilities
+frequently report only one amount in the statement of financial position and support this with
+comments and schedules in the accompanying notes. Any assets pledged as security for the debt
+should be shown in the assets section of the statement of financial position. Long-term debt that
+matures within one year should be reported as a current liability, unless retirement is to be
+accomplished with other than current assets. If a company plans to refinance the debt, convert it into
+shares, or retire it from a bond retirement fund, it should continue to report it as non-current, as long
+as the refinancing is completed by the end of the period. Disclosure is required of future payments for
+sinking fund requirements and maturity amounts of long-term debt during each of the next five years.
+Analysis. Debt to assets and times interest earned are two ratios that provide information about a
+company’s debt-paying ability and long-run solvency.
+Enhanced Review and Practice
+Go online for multiple-choice questions with solutions, review exercises with solutions, and a
+full glossary of all key terms.
+Practice Problem
+Consider the following independent situations:
+a. On March 1, 2022, Heide AG issued at 103 plus accrued interest €3,000,000, 9% bonds. The
+bonds are dated January 1, 2022, and pay interest semiannually on July 1 and January 1. In
+addition, Heide incurred €27,000 of bond issuance costs. Compute the net amount of cash
+received by Heide as a result of the issuance of these bonds.
+b. On January 1, 2022, Reymont SA issued 9% bonds with a face value of €500,000 for €469,280
+to yield 10%. The bonds are dated January 1, 2022, and pay interest annually. What is the
+amount of discount on the issue date? Prepare the journal entry to record interest expense on
+December 31, 2022.
+c. Czeslaw Building Co. has a number of long-term bonds outstanding at December 31, 2022.
+These long-term bonds have the following sinking fund requirements and maturities for the
+next 6 years.
+Sinking Fund Maturities
+—
+Indicate how this information should be reported in the financial statements at December 31, 2022.
+Instructions
+Prepare responses for each item above.
+Solution
+a. Heide AG
+
+Selling price of the bonds (€3,000,000 × 1.03)
+Accrued interest from January 1 to February 28, 2022 (€3,000,000 × .09 × 2/12)
+Total cash received from issuance of the bonds
+Less: Bond issuance costs
+Net amount of cash received
+b. Reymont SA
+Face value of bonds
+Issue price
+Bond discount on issue date €
+December 31, 2022
+Interest Expense (€469,280 × .10)
+Bonds Payable (€46,928 − €45,000)
+Interest Payable (€500,000 × .09)
+c. Czeslaw Building Co.
+Maturities and sinking fund requirements on long-term debt for each of the next five years are as
+follows.
+Exercises, Problems, Problem Solution Walkthrough Videos, Data Analytics Activities, and many
+more assessment tools and resources are available for practice in Wiley’s online courseware.
+(Unless instructed otherwise, round all answers to the nearest whole currency unit.)
+Questions
+1. (a) From what sources might a company obtain funds through long-term debt? (b) What is a bond
+indenture? What does it contain? (c) What is a mortgage?
+2. Novartis Group (CHE) has issued various types of bonds, such as term bonds, income bonds, and
+debentures. Differentiate between term bonds, mortgage bonds, collateral trust bonds, debenture
+bonds, income bonds, callable bonds, registered bonds, bearer or coupon bonds, convertible bonds,
+commodity-backed bonds, and deep-discount bonds.
+3. Distinguish between the following interest rates for bonds payable:
+a. Yield rate.
+b. Nominal rate.
+c. Stated rate.
+d. Market rate.
+e. Effective rate.
+4. Distinguish between the following values relative to bonds payable:
+a. Maturity value.
+
+b. Face value.
+c. Market (fair) value.
+d. Par value.
+5. Under what conditions of bond issuance does a discount on bonds payable arise? Under what
+conditions of bond issuance does a premium on bonds payable arise?
+6. Briefly explain how bond premium or discount affects interest expense over the life of a bond.
+7. What is the required method of amortizing discount and premium on bonds payable? Explain the
+procedures.
+8. Zopf NV sells its bonds at a premium and applies the effective-interest method in amortizing the
+premium. Will the annual interest expense increase or decrease over the life of the bonds? Explain.
+9. Vodafone (GBR) recently issued debt. How should the costs of issuing these bonds be accounted
+for?
+10. Will the amortization of a bond discount increase or decrease bond interest expense? Explain.
+11. What is done to record properly a transaction involving the issuance of a non-interest-bearing
+long-term note in exchange for property?
+12. How is the present value of a non-interest-bearing note computed?
+13. When is the stated interest rate of a debt instrument presumed to be fair?
+14. What are the considerations in imputing an appropriate interest rate?
+15. Differentiate between a fixed-rate mortgage and a variable-rate mortgage.
+16. Identify the situations under which debt is extinguished.
+17. What is the “call” feature of a bond issue? How does the call feature affect the amortization of
+bond premium or discount?
+18. Why would a company wish to reduce its bond indebtedness before its bonds reach maturity?
+Indicate how this can be done and the correct accounting treatment for such a transaction.
+19. What are the general rules for measuring a gain or a loss by a debtor in a debt extinguishment?
+a. In a debt modification situation, why might the creditor grant concessions to the debtor?
+b. What type of concessions might a creditor grant the debtor in a debt modification situation?
+21. What are the general rules for measuring and recognizing gain or loss by a debt extinguishment
+with modification?
+22. What is the fair value option? Briefly describe the controversy of applying the fair value option to
+financial liabilities.
+23. Pierre SA has a 12% note payable with a carrying value of €20,000. Pierre applies the fair value
+option to this note; given a decrease in market interest rates, the fair value of the note is €22,600.
+Prepare the entry to record the fair value option for this note.
+24. What disclosures are required relative to long-term debt and sinking fund requirements?
+25. What is off-balance-sheet financing? Why might a company be interested in using off-balance-
+sheet financing?
+26. What are some forms of off-balance-sheet financing?
+27. Explain how a non-consolidated subsidiary can be a form of off-balance-sheet financing.
+
+Brief Exercises
+LEARNING OBJECTIVE 5
+Compare the accounting for liabilities under IFRS and U.S. GAAP.
+U.S. GAAP and IFRS have similar definitions for liabilities. In addition, the accounting for current
+liabilities is essentially the same under both IFRS and U.S. GAAP. However, there are substantial
+differences in terminology related to non-current liabilities, as well as some differences in the
+accounting for various types of long-term debt transactions.
+Relevant Facts
+Similarities
+As indicated above, U.S. GAAP and IFRS have similar liability definitions. Both also classify
+liabilities as current and non-current.
+Much of the accounting for bonds and long-term notes is the same under U.S. GAAP and IFRS.
+Under U.S. GAAP and IFRS, bond issue costs are netted against the carrying amount of the bonds.
+Both U.S. GAAP and IFRS require the best estimate of a probable loss. In U.S. GAAP, the
+minimum amount in a range is used. Under IFRS, if a range of estimates is predicted and no
+amount in the range is more likely than any other amount in the range, the midpoint of the range
+is used to measure the liability.
+Both U.S. GAAP and IFRS prohibit the recognition of liabilities for future losses.
+Differences
+Under U.S. GAAP, companies must classify a refinancing as current only if it is completed before
+the financial statements are issued. IFRS requires that the current portion of long-term debt be
+classified as current unless an agreement to refinance on a long-term basis is completed before
+the reporting date.
+U.S. GAAP uses the term contingency in a different way than IFRS. A contingency under U.S.
+GAAP may be reported as a liability under certain situations. IFRS does not permit a contingency
+to be recorded as a liability.
+U.S. GAAP uses the term estimated liabilities to discuss various liability items that have some
+uncertainty related to timing or amount. IFRS generally uses the term provisions.
+U.S. GAAP and IFRS are similar in the treatment of environmental liabilities. However, the
+recognition criteria for environmental liabilities are more stringent under U.S. GAAP:
+
+Environmental liabilities are not recognized unless there is a present legal obligation and the fair
+value of the obligation can be reasonably estimated.
+U.S. GAAP uses the term troubled debt restructurings and develops recognition rules related to
+this category. IFRS generally assumes that all restructurings should be considered
+extinguishments of debt.
+Under U.S. GAAP, companies are permitted to use the straight-line method of amortization for
+bond discount or premium, provided that the amount recorded is not materially different than
+that resulting from effective-interest amortization. However, the effective-interest method is
+preferred and is generally used. Under IFRS, companies must use the effective-interest method.
+Under U.S. GAAP, companies record discounts and premiums in separate accounts (see the About
+the Numbers section). Under IFRS, companies do not use premium or discount accounts but
+instead show the bond at its net amount.
+Under U.S. GAAP, losses on onerous contracts are generally not recognized unless addressed by
+industry- or transaction-specific requirements. IFRS requires a liability and related expense or
+cost be recognized when a contract is onerous.
+About the Numbers
+Under IFRS, premiums and discounts are netted against the face value of the bonds for recording
+purposes. Under U.S. GAAP, discounts and premiums are recorded in separate accounts. To illustrate,
+consider the €100,000 of bonds dated January 1, 2022 (8 percent coupon, paid semiannually), issued
+by Evermaster to yield 6 percent on January 1, 2022. Recall from the discussion earlier in this chapter
+that the price of these bonds was €108,530. Using U.S. GAAP procedures, Evermaster makes the
+following entry to record issuance of the bonds.
+January 1, 2022
+Cash
+Bonds payable
+Premium on Bonds Payable
+(€108,530 − €100,000)
+As indicated, the bond premium is recorded in a separate account (the account, “Discount on Bonds
+Payable,” has a debit balance and is used for bonds issued at a discount). Evermaster makes the
+following entry on the first interest payment date.
+January 1, 2022
+Interest Expense (€108,530 × .06 × 6/12)
+Premium on Bonds Payable (€4,000 − €3,256)
+Cash (€100,000 × .08 × 6/12)
+Following this entry, the net carrying value of the bonds is as follows.
+Bonds payable
+Premium on bonds payable (€8,530 − €744)
+Carrying value of bonds payable
+Thus, with a separate account for the premium, entries to record amortization are made to the
+premium account, which reduces the carrying value of the bonds to face value over the life of the
+bonds.
+GAAP Self-Test Questions
+
+1. Under U.S. GAAP, bond issuance costs, including the printing costs and legal fees associated with
+the issuance, should be:
+a. expensed in the period when the debt is issued.
+b. recorded as a reduction in the carrying value of bonds payable.
+c. accumulated in a deferred charge account and amortized over the life of the bonds.
+d. reported as an expense in the period the bonds mature or are redeemed.
+2. Which of the following is stated correctly?
+a. Current liabilities follow non-current liabilities on the statement of financial position under U.S.
+GAAP but non-current liabilities follow current liabilities under IFRS.
+b. IFRS does not treat debt modifications as extinguishments of debt.
+c. Bond issuance costs are recorded as a reduction of the carrying value of the debt under U.S. GAAP
+but are recorded as an asset and amortized to expense over the term of the debt under IFRS.
+d. Under U.S. GAAP, bonds payable is recorded at the face amount and any premium or discount is
+recorded in a separate account. Under IFRS, bonds payable is recorded at the carrying value so no
+separate premium or discount accounts are used.
+3. All of the following are differences between IFRS and U.S. GAAP in accounting for liabilities
+except:
+a. When a bond is issued at a discount, U.S. GAAP records the discount in a separate contra liability
+account. IFRS records the bond net of the discount.
+b. Under IFRS and U.S. GAAP, bond issuance costs reduce the carrying value of the debt.
+c. U.S. GAAP, but not IFRS, uses the term “troubled-debt restructurings.”
+d. U.S. GAAP, but not IFRS, uses the term “provisions” for contingent liabilities that are accrued.
+4. All of the following are similarities in the accounting for liabilities under IFRS and U.S. GAAP
+except:
+a. Bond issue costs are netted against the carrying amount of the bonds.
+b. Both U.S. GAAP and IFRS have similar liability definitions.
+c. Recognition of liabilities for future losses is allowed under U.S. GAAP and IFRS.
+d. Both U.S. GAAP and IFRS require the best estimate for a probable loss, with U.S. GAAP selecting
+the minimum amount in the range.
+5. On January 1, Martinez Inc. issued $3,000,000, 11% bonds for $3,195,000. The market rate of
+interest for these bonds is 10%. Interest is payable annually on December 31. Martinez uses the
+effective-interest method of amortizing bond premium. At the end of the first year, Martinez should
+report bonds payable of:
+a. $3,185,130.
+b. $3,184,500.
+c. $3,173,550.
+d. $3,165,000.
+GAAP Concepts and Application
+
+GAAP14.1 Briefly describe some of the similarities and differences between U.S. GAAP and IFRS with
+respect to the accounting for liabilities.
+GAAP14.2 Diaz Company issued $100,000 face value, 9% coupon bonds on January 1, 2021, for
+$92,608 to yield 11%. The bonds mature in 5 years and pay interest annually on December 31. Prepare
+the entries under U.S. GAAP for Diaz for (a) date of issue, (b) first interest payment date, and (c)
+January 1, 2023, when Diaz calls and extinguishes the bonds at 101.
+Answers to GAAP Self-Test Questions
+1. b 2. d 3. d 4.c 5. b
+Notes
+1 It is generally the case that the stated rate of interest on bonds is set in rather precise decimals (such
+as 10.875 percent). Companies usually attempt to align the stated rate as closely as possible with
+the market or effective rate at the time of issue.
+2 The carrying value is the face amount minus any unamortized discount or plus any unamortized
+premium. The term carrying value is synonymous with book value.
+3 The issuance of bonds involves engraving and printing costs, legal and accounting fees,
+commissions, promotion costs, and other similar charges. These costs should be recorded as a
+reduction of the issue amount of the bond payable and then amortized into expense over the life of
+the bond, through an adjustment to the effective-interest rate (see Underlying Concepts). [2]
+For example, if the face value of the bond is €100,000 and issue costs are €1,000, then the bond
+payable (net of the bond issue costs) is recorded at €99,000. Thus, the effective-interest rate will be
+higher, based on the reduced carrying value.
+Underlying Concepts
+Because bond issue costs do not meet the definition of an asset, some argue they should be
+expensed at issuance.
+4 Because companies pay interest semiannually, the interest rate used is 5% (.10 × 6/12). The number
+of periods is 10 (5 years × 2).
+5 The issuer may call some bonds at a stated price after a certain date. This call feature gives the
+issuing company the opportunity to reduce its bonded indebtedness or take advantage of lower
+interest rates. Whether bonds are callable or not, a company must amortize any premium or
+discount over the bond’s life to maturity because early redemption (call of the bond) is not a
+certainty.
+6 Determination of the price of a bond between interest payment dates generally requires use of a
+financial calculator because the time value of money tables shown in this text do not have factors
+for all compounding periods. For homework purposes, the price of a bond sold between interest
+dates will be provided.
+7 Although we use the term “note” throughout this discussion, the basic principles and methodology
+apply equally to other long-term debt instruments.
+
+$327 =
+$1,000 (PV F8,i)
+PV F8,i
+=
+= .327
+.327 =
+15% (in Table 6 .2, locate .32690).
+9 Points, in mortgage financing, are analogous to the original issue discount of bonds.
+10 One of the many changes that occurred in the aftermath of the financial crisis of 2008–2009 was
+recognizing that LIBOR was not a reliable measure of interest rates between banks. As a result, the
+G20 requested that the Financial Stability Board (FSB) examine alternative methods to determine
+one or more reliable benchmark rates. This process is ongoing but will either result in an
+alternative approach to measure LIBOR, or the replacement of LIBOR with a more market-based
+interest rate.
+11 Some companies have attempted to extinguish debt through an in-substance defeasance. In-
+substance defeasance is an arrangement whereby a company provides for the future repayment
+of a long-term debt issue by placing purchased securities in an irrevocable trust. The company
+pledges the principal and interest of the securities in the trust to pay off the principal and interest
+of its own debt securities as they mature. However, it is not legally released from its primary
+obligation for the debt that is still outstanding. In some cases, debtholders are not even aware of
+the transaction and continue to look to the company for repayment. This practice is not considered
+an extinguishment of debt, and therefore the company does not record a gain or loss. [4]
+12 The issuer of callable bonds must generally exercise the call on an interest date. Therefore, the
+amortization of any discount or premium will be up to date, and there will be no accrued interest.
+However, early extinguishments through purchases of bonds in the open market are more likely to
+be on other than an interest date. If the purchase is not made on an interest date, the discount or
+premium must be amortized, and the interest payable must be accrued from the last interest date to
+the date of purchase.
+13 Likewise, the creditor must determine the excess of the receivable over the fair value of those same
+assets or equity interests transferred. The creditor normally charges the excess (loss) against
+Allowance for Doubtful Accounts. Creditor accounting for these transactions is addressed in
+Chapter 7.
+14 An exception to the general rule occurs when the modification of terms is not substantial. A
+substantial modification exists when (1) the discounted cash flows under the terms of the new
+debt (using the historical effective-interest rate) differ by at least 10 percent of the carrying value of
+the original debt, or (2) there is a substantial and fundamental change in the terms and conditions
+of the new borrowing compared to the original borrowing. If a modification is not substantial, the
+difference (gain) is deferred and amortized over the remaining life of the debt at the (historical)
+effective-interest rate. [5] In the case of a non-substantial modification, in essence, the new loan is
+a continuation of the old loan. Therefore, the debtor should record interest at the historical
+effective-interest rate.
+15 Throughout the text, we use the label “statement of financial position” rather than “balance sheet”
+in referring to the financial statement that reports assets, liabilities, and equity. We use off-
+balance-sheet in the present context because of its common usage in financial markets.
+16 The IASB has issued consolidation guidance that looks beyond equity ownership as the primary
+criterion for determining whether an off-balance-sheet entity (and its assets and liabilities) should
+be on-balance-sheet (i.e., consolidated). Specifically, an investor controls an investee when it is
+exposed, or has rights, to variable returns from its involvement with the investee and has the ability
+to affect those returns through its power over the investee. Thus, the principle of control sets out
+the following three elements of control: (1) power over the investee; (2) exposure, or rights, to
+
+variable returns from involvement with the investee; and (3) the ability to use power over the
+investee to affect the amount of the investor’s returns. In general, the control principle is applied in
+circumstances when voting rights are not the dominant factor in deciding who controls the
+investee, such as when any voting rights relate to administrative tasks only and the relevant
+activities are directed by means of contractual arrangements. [9] The details of consolidation
+accounting procedures are beyond the scope of this text and are usually addressed in an advanced
+accounting course.
+17 It is unlikely that the IASB will be able to stop all types of off-balance-sheet transactions. Financial
+engineering is the Holy Grail of securities markets. Developing new financial instruments and
+arrangements to sell and market to customers is not only profitable but also adds to the prestige of
+the investment firms that create them. Thus, new financial products will continue to appear that
+will test the ability of the IASB to develop appropriate accounting standards for them.

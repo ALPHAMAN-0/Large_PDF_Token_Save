@@ -1,0 +1,4443 @@
+CHAPTER 11
+Depreciation, Impairments, and Depletion
+LEARNING OBJECTIVES
+After studying this chapter, you should be able to:
+1. Describe depreciation concepts and methods of depreciation.
+2. Identify other depreciation issues.
+3. Explain the accounting issues related to asset impairment.
+4. Discuss the accounting procedures for depletion of mineral resources.
+5. Apply the accounting for revaluations.
+6. Demonstrate how to report and analyze property, plant, equipment, and mineral
+resources.
+This chapter also includes numerous conceptual discussions that are
+integral to the topics presented here.
+PREVIEW OF CHAPTER 11
+As noted in the following opening story, many companies, such as LG Electronics
+(KOR), are affected by impairment rules. These rules recognize that when economic
+conditions deteriorate, companies may need to write off an asset’s cost to indicate the
+decline in its usefulness. The purpose of this chapter is to examine the depreciation
+process and the methods of writing off the cost of property, plant, equipment, and
+mineral resources. The content and organization of the chapter are as follows.
+Here Come the Write-Offs
+
+--- Page 852 ---
+Most people love it when a new technology comes along that makes their lives easier and
+more efficient. As a result, technology companies are in constant competition to come up
+with the latest, best consumer technology that will allow them to increase revenues and
+market share.
+The downside of this competition is that companies often have invested substantially in
+creating the infrastructure to produce the latest and best technology. However, when a
+new technology does emerge, the companies often find themselves with substantial
+remaining investments in the property, plant, and equipment associated with the previous
+generation of technology.
+This kind of rapid, and often unexpected, change can give rise to impairment losses. An
+impairment loss occurs when the carrying value of the property, plant, and equipment is
+greater than the current value of the same assets. We discuss in this chapter how the
+current value is determined, but for now we will simply highlight what happens when this
+occurs.
+For example, the InnoTek Division at LG Electronics (KOR) had recently invested
+substantially in the design and manufacturing of products related to pet safety, including
+in-ground pet fencing. During the year, the company had experienced decreasing demand
+for its products related to competition and a general slowing in the economy. As a result,
+the company recorded a ₩5,054 million impairment loss allocated to machinery and
+tools.
+Sony Corporation (JPN) found itself in a similar situation during the same period. The
+company recorded a ¥19.2 billion impairment loss related to its Semiconductor segment
+for the property, plant, and equipment used to produce high-function camera modules
+that had been sold to mobile phone manufacturers that were being discontinued.
+Lastly, consider Husqvarna Group (SWE), which manufactures outdoor power
+products. In the most recent period, the company reported kr444 million in impairment
+losses for its property, plant, and equipment due to obsolescence in some of its
+manufacturing facilities. This amount was almost half as large as its depreciation expense
+of kr946 million for the same period.
+Here are some of the questions that will need to be addressed regarding possible
+impairments.
+1. How often should a company test for impairment?
+2. What are key impairment indicators?
+3. What types of disclosures are necessary for impairments?
+4. What is the process that companies use to match their cash flows to the asset that is
+potentially impaired?
+Assessing whether a company has impaired assets is difficult. On the technical side,
+assumptions on cash flows must be reasonable, supportable, and cross-checked to ensure
+the final answer reconciles to external market data. And in discounting future cash flows,
+companies must determine the appropriate discount rate.
+
+--- Page 853 ---
+In addition to the technical accounting issues, the environment can change quickly.
+Reduced spending by consumers, lack of confidence in global economic decisions, and
+higher volatility in both share and commodity markets are factors to consider.
+Nevertheless, for investors and creditors to have assurance that the amounts reported on
+the statement of financial position for property, plant, and equipment are relevant and
+representationally faithful, appropriate impairment charges must be reported on a timely
+basis.
+Review and Practice
+Go to the Review and Practice section at the end of the chapter for a targeted
+summary review and practice problem with solution. Multiple-choice questions with
+annotated solutions, as well as additional exercises and practice problem with
+solutions, are also available online.
+Depreciation—A Method of Cost Allocation
+LEARNING OBJECTIVE 1
+Describe depreciation concepts and methods of depreciation.
+Most individuals at one time or another purchase and trade in an automobile. The
+automobile dealer and the buyer typically discuss what the trade-in value of the old car is.
+Also, they may talk about what the trade-in value of the new car will be in several years.
+In both cases, a decline in value is considered to be an example of depreciation.
+To accountants, however, depreciation is not a matter of valuation. Rather, depreciation
+is the systematic allocation of the depreciable amount of an asset to expense
+over its useful life. [1] (See the Authoritative Literature References section near the
+end of the chapter.) For example, a company like Enhance Electronics Co., Ltd.
+(TWN) does not depreciate assets on the basis of a decline in their fair value. Instead, it
+depreciates through systematic charges to expense.
+This approach is employed because the value of the asset may fluctuate between the time
+the asset is purchased and the time it is sold or junked. Attempts to measure these
+interim value changes have not been well received because values are difficult to measure
+objectively. Therefore, Enhance Electronics charges the asset’s cost to depreciation
+expense over its estimated life. It makes no attempt to value the asset at fair value
+between acquisition and disposition. Companies use the cost allocation approach because
+it matches costs with revenues and because fluctuations in fair value are uncertain and
+difficult to measure.
+When companies write off the cost of long-lived assets over a number of periods, they
+typically use the term depreciation. They use the term depletion to describe the
+reduction in the cost of mineral resources (such as oil, gas, and coal) over a period of
+time. The expiration of intangible assets, such as patents or copyrights, is called
+amortization (discussed in Chapter 12).
+
+--- Page 854 ---
+Factors Involved in the Depreciation Process
+Before establishing a pattern of charges to revenue, a company must answer three basic
+questions:
+1. What depreciable base is to be used for the asset?
+2. What is the asset’s useful life?
+3. What method of cost apportionment is best for this asset?
+The answers to these questions involve combining several estimates into one single
+figure. Note the calculations assume perfect knowledge of the future, which is never
+attainable.
+Depreciable Base for the Asset
+The base established for depreciation is a function of two factors: the original cost and
+residual value. We discussed historical cost in Chapter 10. Residual value (often
+referred to as salvage value) is the estimated amount that a company will receive when
+it sells the asset or removes it from service.1 It is the amount to which a company writes
+down or depreciates the asset during its useful life. As Illustration 11.1 shows, if an
+asset has a cost of €10,000 and a residual value of €1,000, its depreciable base is
+€9,000.
+Original cost
+€10,000
+Less: Residual value
+1,000
+Depreciable base
+€ 9,000
+ILLUSTRATION 11.1 Computation of Depreciable Base
+From a practical standpoint, companies often assign a zero residual value. Some long-
+lived assets, however, have substantial residual values.
+Estimation of Service Lives
+The service life of an asset often differs from its physical life. A piece of machinery may be
+physically capable of producing a given product for many years beyond its service life. But
+a company may not use the equipment for all that time because the cost of manufacturing
+the product in later years may be too high.
+Companies retire assets for two reasons: physical factors (such as casualty or
+expiration of physical life) and economic factors (obsolescence). Physical factors are
+the wear and tear, decay, and casualties that make it difficult for the asset to perform
+indefinitely. These physical factors set the outside limit for the service life of an asset.
+We can classify the economic or functional factors into three categories:
+1. Inadequacy results when an asset ceases to be useful to a company because the
+demands of the firm have changed. An example would be the need for a larger
+building to handle increased production. Although the old building may still be
+sound, it may have become inadequate for the company’s purpose.
+
+--- Page 855 ---
+2. Supersession is the replacement of one asset with another more efficient and
+economical asset. Examples would be the replacement of the mainframe computer
+with a PC network, or the replacement of the Boeing 767 airplane with the Boeing
+787.
+3. Obsolescence is the catchall for situations not involving inadequacy and
+supersession.
+Because the distinction between these categories appears artificial, it is probably best to
+consider economic factors collectively instead of trying to make distinctions that are not
+clear-cut.
+To illustrate the concepts of physical and economic factors, consider a new nuclear power
+plant. Which is more important in determining the useful life of a nuclear power plant—
+physical factors or economic factors? The limiting factors seem to be (1) ecological
+considerations, (2) competition from other power sources, and (3) safety concerns.
+Physical life does not appear to be the primary factor affecting useful life. Although the
+plant’s physical life may be far from over, the plant may become obsolete in 10 years.
+For a house, physical factors undoubtedly are more important than the economic or
+functional factors relative to useful life. Whenever the physical nature of the asset
+primarily determines useful life, maintenance plays an extremely vital role. The better the
+maintenance, the longer the life of the asset.2
+Most companies estimate the useful life of an asset based on their past experiences with
+the same or similar assets. Others use sophisticated statistical methods to establish a
+useful life for accounting purposes. And, in some cases, companies select arbitrary service
+lives. In highly industrial economies, where research and innovation are so prominent,
+technological factors have as much effect on service lives of tangible plant assets as do
+physical factors, if not more.
+Methods of Depreciation
+The third factor involved in the depreciation process is the method of cost
+apportionment. The profession requires that the depreciation method employed be
+“systematic and rational.” To be systematic and rational, the depreciation method should
+reflect the pattern in which the asset’s future economic benefits are expected to be
+consumed by the company (see Underlying Concepts). [3] Companies may use a
+number of depreciation methods, as follows.
+Underlying Concepts
+Depreciation attempts to allocate the cost of an asset to the periods that benefit from
+the use of that asset.
+1. Activity method (units of use or production).
+2. Straight-line method.
+3. Diminishing (accelerated)-charge methods:
+
+--- Page 856 ---
+a. Sum-of-the-years’-digits.
+b. Declining-balance method.3
+To illustrate these depreciation methods, assume that Stanley Coal Mines recently
+purchased an additional crane for hoisting purposes. Illustration 11.2 contains the
+pertinent data concerning this purchase.
+Cost of crane
+$500,000
+Estimated useful life
+5 years
+Estimated residual value
+$ 50,000
+Productive life in hours
+30,000 hours
+ILLUSTRATION 11.2 Data Used to Illustrate Depreciation Methods
+Activity Method
+The activity method (also called the variable-charge or units-of-production
+approach) assumes that depreciation is a function of use or productivity, instead
+of the passage of time. A company considers the life of the asset in terms of either the
+output it provides (units it produces) or an input measure such as the number of hours
+it works. Conceptually, the proper cost association relies on output instead of hours used,
+but often the output is not easily measurable. In such cases, an input measure such as
+machine hours is a more appropriate method of measuring the dollar amount of
+depreciation charges for a given accounting period.
+The crane poses no particular depreciation problem. Stanley can measure the usage
+(hours) relatively easily. If Stanley uses the crane for 4,000 hours the first year, the
+depreciation charge is as shown in Illustration 11.3.
+= Depreciation Charge
+= $60,000
+ILLUSTRATION 11.3 Depreciation Calculation, Activity Method—Crane
+Example
+The major limitation of this method is that it is inappropriate in situations in which
+depreciation is a function of time instead of activity. For example, a building steadily
+deteriorates due to the elements (time) regardless of its use. In addition, where economic
+or functional factors affect an asset, independent of its use, the activity method loses
+much of its significance. For example, if a company is expanding rapidly, a particular
+building may soon become obsolete for its intended purposes. In both cases, activity is
+irrelevant. Another problem in using an activity method is the difficulty of estimating
+units of output or service hours received.
+In cases where loss of services results from activity or productivity, the activity method
+matches costs and revenues the best. Companies that prefer low depreciation during
+(Cost −Residual Value) × Hours This Year
+Total Estimated Hours
+($500,000 −$50,000) × 4,000
+30,000
+
+--- Page 857 ---
+periods of low productivity, and high depreciation during high productivity, either adopt
+or switch to an activity method. In this way, a plant running at 40 percent of capacity
+generates 60 percent lower depreciation charges.
+Straight-Line Method
+The straight-line method considers depreciation as a function of time rather than
+as a function of usage. Companies widely use this method because of its simplicity.
+The straight-line procedure is often the most conceptually appropriate, too (see
+Underlying Concepts). When creeping obsolescence is the primary reason for a limited
+service life, the decline in usefulness may be constant from period to period. Stanley
+computes the depreciation charge for the crane as shown in Illustration 11.4.
+Underlying Concepts
+If benefits flow on a “straight-line” basis, then justification exists for matching the
+cost of the asset on a straight-line basis with these benefits.
+= Depreciation Charge
+= $90,000
+ILLUSTRATION 11.4 Depreciation Calculation, Straight-Line Method—
+Crane Example
+The major objection to the straight-line method is that it rests on two tenuous
+assumptions: (1) the asset’s economic usefulness is the same each year, and (2) the
+maintenance and repair expense is essentially the same each period.
+One additional problem that occurs in using the straight-line method—as well as some
+others—is that distortions in the rate of return analysis (income ÷ assets) develop.
+Illustration 11.5 indicates how the rate of return increases, given constant revenue
+flows, because the asset’s book value decreases.
+Year
+Depreciation
+Expense
+Undepreciated Asset
+Balance (Book Value)
+Income (After
+Depreciation
+Expense)
+Rate of Return
+(Income ÷ Assets)
+0
+ 
+$500,000  
+ 
+1
+$90,000
+410,000
+$100,000
+24.4%
+2
+90,000
+320,000
+100,000
+31.2%
+3
+90,000
+230,000
+100,000
+43.5%
+4
+90,000
+140,000
+100,000
+71.4%
+5
+90,000
+50,000
+100,000
+200.0%
+ILLUSTRATION 11.5 Depreciation and Rate of Return Analysis—Crane
+Example
+Cost  − Residual Value
+Estimated Service Life
+$500,000 −$50,000
+5
+
+--- Page 858 ---
+Diminishing-Charge Methods
+The diminishing-charge methods provide for a higher depreciation cost in the earlier
+years and lower charges in later periods. Because these methods allow for higher early-
+year charges than in the straight-line method, they are often called accelerated
+depreciation methods.
+What is the main justification for this approach? The rationale is that companies should
+charge more depreciation in earlier years because the asset is most productive in its
+earlier years (see Underlying Concepts). Furthermore, the accelerated methods provide
+a constant cost because the depreciation charge is lower in the later periods, at the time
+when the maintenance and repair costs are often higher. Generally, companies use one of
+two diminishing-charge methods: the sum-of-the-years’-digits method or the declining-
+balance method.
+Underlying Concepts
+The expense recognition concept often does not justify a constant charge to income.
+If the benefits from the asset decline as the asset ages, then a diminishing charge to
+income better matches cost to benefits.
+Sum-of-the-Years’-Digits
+The sum-of-the-years’-digits method results in a decreasing depreciation charge
+based on a decreasing fraction of depreciable cost (original cost less residual value). Each
+fraction uses the sum of the years as a denominator (5 + 4 + 3 + 2 + 1 = 15). The
+numerator is the number of years of estimated life remaining as of the beginning of the
+year. In this method, the numerator decreases year by year, and the denominator remains
+constant (5⁄15, 4⁄15, 3⁄15, 2⁄15, and 1⁄15). At the end of the asset’s useful life, the balance
+remaining should equal the residual value. Illustration 11.6 shows this method of
+computation.4
+Year
+Depreciable
+Base
+Remaining Life
+in Years
+Depreciation
+Fraction
+Depreciation
+Expense
+Book Value, End
+of Year
+1
+$450,000
+5
+5⁄15
+$150,000
+$350,000
+2
+450,000
+4
+4⁄15
+120,000
+230,000
+3
+450,000
+3
+3⁄15
+90,000
+140,000
+4
+450,000
+2
+2⁄15
+60,000
+80,000
+5
+450,000
+1
+1⁄15
+30,000
+50,000a
+ 
+15
+15⁄15
+$450,000
+aResidual value.
+ILLUSTRATION 11.6 Sum-of-the-Years’-Digits Depreciation Schedule—
+Crane Example
+
+--- Page 859 ---
+Declining-Balance Method
+The declining-balance method (often referred to as the reducing-balance method)
+utilizes a depreciation rate (expressed as a percentage) that is some multiple of the
+straight-line rate. For example, the double-declining rate for a 10-year asset is 20 percent
+(double the straight-line rate, which is 1⁄10, or 10 percent). Companies apply the constant
+rate to the declining book value each year.
+Unlike other methods, the declining-balance method does not deduct the residual
+value in computing the depreciable base. The declining-balance rate is multiplied by the
+book value of the asset at the beginning of each period. Since the depreciation charge
+reduces the book value of the asset each period, applying the constant-declining-balance
+rate to a successively lower book value results in lower depreciation charges each year.
+This process continues until the book value of the asset equals its estimated residual
+value. At that time, the company discontinues depreciation.
+Companies use various multiples in practice. For example, the double-declining-
+balance method depreciates assets at twice (200 percent) the straight-line rate.
+Illustration 11.7 shows Stanley’s depreciation charges if using the double-declining
+approach.
+Year
+Book Value of
+Asset First of Year
+Rate on
+Declining
+Balancea
+Depreciation
+Expense
+Balance
+Accumulated
+Depreciation
+Book Value,
+End of Year
+1
+$500,000
+40%
+$200,000
+$200,000
+$300,000
+2
+300,000
+40%
+120,000
+320,000
+180,000
+3
+180,000
+40%
+72,000
+392,000
+108,000
+4
+108,000
+40%
+43,200
+435,200
+64,800
+5
+64,800
+40%
+14,800b
+450,000
+50,000
+aBased on twice the straight-line rate of 20% ($90,000 ÷ $450,000 = .20; .20 × 2 = .40, or 40%).
+bLimited to $14,800 because book value should not be less than residual value.
+ILLUSTRATION 
+11.7 
+Double-Declining 
+Depreciation 
+Schedule—Crane
+Example
+Companies often switch from the declining-balance method to the straight-line method
+near the end of the asset’s useful life to ensure that they depreciate the asset only to its
+residual value.5
+Other Depreciation Issues
+LEARNING OBJECTIVE 2
+Identify other depreciation issues.
+
+--- Page 860 ---
+Component Depreciation
+As indicated in Chapter 10, companies are required to use component depreciation.
+IFRS requires that each part of an item of property, plant, and equipment that is
+significant to the total cost of the asset must be depreciated separately. Companies
+therefore have to exercise judgment to determine the proper allocations to the
+components. As an example, when a company like Nokia (FIN) purchases a building, it
+must determine how the various building components (e.g., the foundation, structure,
+roof, heating and cooling system, and elevators) should be segregated and depreciated.
+To illustrate the accounting for component depreciation, assume that EuroAsia Airlines
+purchases an airplane for €100,000,000 on January 1, 2023. The airplane has a useful life
+of 20 years and a residual value of €0. EuroAsia uses the straight-line method of
+depreciation for all its airplanes. EuroAsia identifies the following components, amounts,
+and useful lives, as shown in Illustration 11.8.
+Components
+Component Amount Component Useful Life
+Airframe
+€60,000,000
+20 years
+Engine components
+32,000,000
+8 years
+Other components
+8,000,000
+5 years
+ILLUSTRATION 11.8 Airplane Components
+Illustration 11.9 shows the computation of depreciation expense for EuroAsia for 2023.
+Components
+Component Amount ÷ Useful Life = Component Depreciation
+Airframe
+€ 60,000,000  
+20  
+€3,000,000
+Engine components
+32,000,000  
+8  
+4,000,000
+Other components
+8,000,000  
+5  
+1,600,000
+Total
+€100,000,000   
+ 
+€8,600,000
+ILLUSTRATION 11.9 Computation of Component Depreciation
+As indicated, EuroAsia records depreciation expense of €8,600,000 in 2023 as follows.
+Depreciation Expense
+8,600,000  
+Accumulated Depreciation—Equipment  
+8,600,000
+On the statement of financial position at the end of 2023, EuroAsia reports the airplane as
+a single amount. The presentation is shown in Illustration 11.10.
+Non-current assets
+ 
+Airplane
+€100,000,000
+Less: Accumulated depreciation—airplane
+8,600,000
+ 
+€ 91,400,000
+ILLUSTRATION 11.10 Presentation of Carrying Amount of Airplane
+
+--- Page 861 ---
+In many situations, a company may not have a good understanding of the cost of the
+individual components purchased. In that case, the cost of individual components should
+be estimated based on reference to current market prices (if available), discussion with
+experts in valuation, or use of other reasonable approaches.
+Depreciation and Partial Periods
+Companies seldom purchase plant assets on the first day of a fiscal period or dispose of
+them on the last day of a fiscal period. A practical question is: How much depreciation
+should a company charge for the partial periods involved?
+In computing depreciation expense for partial periods, companies must determine the
+depreciation expense for the full year and then prorate this depreciation expense between
+the two periods involved. This process should continue throughout the useful life of the
+asset.
+Assume, for example, that Steeltex Ltd. purchases an automated drill machine with a five-
+year life for £45,000 (no residual value) on June 10, 2022. The company’s fiscal year ends
+December 31. Steeltex therefore charges depreciation for only six and two-third months
+during that year. The total depreciation for a full year (assuming straight-line
+depreciation) is £9,000 (£45,000 ÷ 5). The depreciation for the first, partial year is
+therefore:
+× £9,000 = £5,000
+The partial-period calculation is relatively simple when Steeltex uses straight-line
+depreciation. But how is partial-period depreciation handled when it uses an accelerated
+method such as sum-of-the-years’-digits or double-declining-balance? As an illustration,
+assume that Steeltex purchased another machine for £10,000 on July 1, 2022, with an
+estimated useful life of five years and no residual value. Illustration 11.11 shows the
+depreciation figures for 2022, 2023, and 2024.
+6⅔
+12
+
+--- Page 862 ---
+ILLUSTRATION 11.11 Calculation of Partial-Period Depreciation, Two
+Methods
+Sometimes a company like Steeltex modifies the process of allocating costs to a partial
+period to handle acquisitions and disposals of plant assets more simply. One variation is
+to take no depreciation in the year of acquisition and a full year’s depreciation in the year
+of disposal. Other variations charge one-half year’s depreciation both in the year of
+acquisition and in the year of disposal (referred to as the half-year convention), or
+charge a full year in the year of acquisition and none in the year of disposal.
+In fact, Steeltex may adopt any one of these several fractional-year policies in allocating
+cost to the first and last years of an asset’s life so long as it applies the method
+consistently. However, unless otherwise stipulated, companies normally compute
+depreciation on the basis of the nearest full month.
+Illustration 11.12 shows depreciation allocated under five different fractional-year
+policies using the straight-line method on the £45,000 automated drill machine
+purchased by Steeltex on June 10, 2022, discussed earlier.
+
+--- Page 863 ---
+Machine Cost = £45,000
+Depreciation Allocated per Period Over 5-Year
+Life*
+Fractional-Year Policy
+2022
+2023
+2024
+2025
+2026
+2027
+1. Nearest fraction of a year.
+£5,000a £9,000 £9,000 £9,000 £9,000 £4,000b
+2. Nearest full month.
+5,250c
+9,000
+9,000
+9,000
+9,000
+3,750d
+3. Half year in period of acquisition and
+disposal.
+4,500
+9,000
+9,000
+9,000
+9,000
+4,500
+4. Full year in period of acquisition,
+none in period of disposal.
+9,000
+9,000
+9,000
+9,000
+9,000
+–0–
+5. None in period of acquisition, full
+year in period of disposal.
+–0–
+9,000
+9,000
+9,000
+9,000
+9,000
+a6.667/12 × £9,000
+b5.333/12 × £9,000
+c7/12 × £9,000
+d5/12 × £9,000
+*Rounded to nearest pound.
+ILLUSTRATION 11.12 Fractional-Year Depreciation Policies
+Depreciation and Replacement of Property, Plant, and Equipment
+A common misconception about depreciation is that it provides funds for the replacement
+of property, plant, and equipment. Depreciation is like other expenses in that it reduces
+net income. It differs, though, in that it does not involve a current cash outflow.
+To illustrate why depreciation does not provide funds for replacement of plant assets,
+assume that a business starts operating with plant assets of $500,000 that have a useful
+life of five years. The company’s statement of financial position at the beginning of the
+period is:
+Plant assets $500,000 Equity $500,000
+If we assume that the company earns no revenue over the five years, the income
+statements are:
+ 
+Year 1
+Year 2
+Year 3
+Year 4
+Year 5
+Revenue
+$
+–0–
+$
+–0–
+$
+–0–
+$
+–0–
+$
+–0–
+Depreciation (100,000)
+(100,000)
+(100,000)
+(100,000)
+(100,000)
+Loss
+$(100,000) $(100,000) $(100,000) $(100,000) $(100,000)
+Total depreciation of the plant assets over the five years is $500,000. The statement of
+financial position at the end of the five years therefore is:
+Plant asset $ –0– Equity $ –0–
+
+--- Page 864 ---
+This extreme example illustrates that depreciation in no way provides funds for the
+replacement of assets. The funds for the replacement of the assets come from the
+revenues (generated through use of the asset). Without the revenues, no income
+materializes and no cash inflow results.
+Revision of Depreciation Rates
+When purchasing a plant asset, companies carefully determine depreciation rates based
+on past experience with similar assets and other pertinent information. However, the
+provisions for depreciation are only estimates. As a result, IFRS requires that companies
+review the estimates for residual value and service life annually and revise them if
+needed. [4] Unexpected physical deterioration or unforeseen obsolescence may decrease
+the estimated useful life of the asset. Improved maintenance procedures, revision of
+operating procedures, or similar developments may prolong the life of the asset beyond
+the expected period.6
+For example, assume that Nestlé (CHE) purchased machinery with an original cost of
+CHF90,000. It estimates a 20-year life with no residual value. However, during year 11,
+Nestlé estimates that it will use the machine for an additional 20 years. Its total life,
+therefore, will be 30 years instead of 20. Depreciation has been recorded at the rate of 1⁄20
+of CHF90,000, or CHF4,500 per year by the straight-line method. On the basis of a 30-
+year life, Nestlé should have recorded depreciation as 1⁄30 of CHF90,000, or CHF3,000 per
+year. It has therefore overstated depreciation, and understated net income, by CHF1,500
+for each of the past 10 years, or a total amount of CHF15,000. Illustration 11.13 shows
+this computation.
+ 
+Per Year For 10 Years
+Depreciation charged per books (1⁄20 × CHF90,000)
+CHF4,500 CHF45,000
+Depreciation based on a 30-year life (1⁄30 × CHF90,000)
+(3,000)
+(30,000)
+Excess depreciation charged
+CHF1,500 CHF15,000
+ILLUSTRATION 11.13 Computation of Accumulated Difference Due to
+Revisions
+Nestlé should report this change in estimate in the current and prospective
+periods. It should not make any changes in previously reported results. And it does not
+adjust opening balances nor attempt to “catch up” for prior periods. The reason? Changes
+in estimates are a continual and inherent part of any estimation process. Continual
+restatement of prior periods would occur for revisions of estimates unless handled
+prospectively. Therefore, no entry is made at the time the change in estimate occurs.
+Charges for depreciation in subsequent periods (assuming use of the straight-line
+method) are determined by dividing the remaining book value less any residual
+value by the remaining estimated life (see Illustration 11.14).
+
+--- Page 865 ---
+Machinery
+CHF90,000
+Less: Accumulated depreciation
+45,000
+Book value of machinery at end of 10th year
+CHF45,000
+Depreciation (future periods) = CHF45,000 book value ÷ 20 years remaining life =
+CHF2,250
+ILLUSTRATION 11.14 Computing Depreciation after Revision of Estimated
+Life
+The entry to record depreciation for each of the remaining 20 years is:
+Depreciation Expense
+2,250  
+Accumulated Depreciation—Machinery  
+2,250
+What Do the Numbers Mean?
+Depreciation Choices
+The amount of depreciation expense recorded depends on both the depreciation
+method used and estimates of service lives and residual values of the assets.
+Differences in these choices and estimates can significantly impact a company’s
+reported results and can make it difficult to compare the depreciation numbers of
+different companies.
+For example, Veolia Environment (FRA) provided information regarding useful
+lives of its assets in the note to its financial statements, as shown to the right.
+With the information provided, an analyst determines the impact of these
+management choices and judgments on the amount of depreciation expense for
+classes of property, plant, and equipment.
+7.3 Property, Plant, and Equipment
+Property, plant, and equipment are recorded at historical acquisition cost to the
+Group, less accumulated depreciation and any accumulated impairment losses.
+Property, plant, and equipment are recorded by component, with each component
+depreciated over its useful life.
+Useful lives are as follows:
+Range of Useful Lives in Number of Years*
+Buildings
+20 to 50
+Technical systems
+7 to 35
+Vehicles
+3 to 25
+Other plant and equipment
+3 to 12
+*The range of useful lives is due to the diversity of property, plant, and equipment concerned.
+
+--- Page 866 ---
+Impairments
+LEARNING OBJECTIVE 3
+Explain the accounting issues related to asset impairment.
+The general accounting standard of lower-of-cost-or-net realizable value for
+inventories does not apply to property, plant, and equipment. Even when
+property, plant, and equipment has suffered partial obsolescence, accountants have been
+reluctant to reduce the asset’s carrying amount. Why? Because, unlike inventories, it is
+difficult to arrive at a fair value for property, plant, and equipment that is not somewhat
+subjective and arbitrary.
+For example, Falconbridge Ltd. Nickel Mines (CAN) had to decide whether to write
+off all or a part of its property, plant, and equipment in a nickel-mining operation in the
+Dominican Republic. The project had been incurring losses because nickel prices were low
+and operating costs were high. Only if nickel prices increased by approximately 33 percent
+would the project be reasonably profitable. Whether a write-off was appropriate depended
+on the future price of nickel. Even if the company decided to write off the asset, how
+much should be written off?
+Recognizing Impairments
+As discussed in the opening story, rapid change is common in the electronics and
+computer industries. When these changes occur, companies in these industries may need
+to write off or write down their long-lived assets. These write-offs are referred to as
+impairments.
+A long-lived tangible asset is impaired when a company is not able to recover the asset’s
+carrying amount either through using it or by selling it. To determine whether an asset is
+impaired, companies annually review the asset for indicators of impairments—
+that is, a decline in the asset’s cash-generating ability through use or sale. This review
+should consider internal sources (e.g., adverse changes in performance) and external
+sources (e.g., adverse changes in the business or regulatory environment) of information.
+If impairment indicators are present, then an impairment test must be
+conducted. This test compares the asset’s recoverable amount with its carrying amount
+(see Underlying Concepts). If the carrying amount is higher than the recoverable
+amount, the difference is an impairment loss. If the recoverable amount is greater than
+the carrying amount, no impairment is recorded. [5]
+Underlying Concepts
+IFRS uses the terms carrying value, carrying amount, and book value
+interchangeably.
+Recoverable amount is defined as the higher of fair value less costs to sell or value-in-
+use. Fair value less costs to sell means what the asset could be sold for after deducting
+costs of disposal. Value-in-use is the present value of net cash flows expected from the
+
+--- Page 867 ---
+future use and eventual sale of the asset at the end of its useful life. Illustration 11.15
+highlights the nature of the impairment test.
+ILLUSTRATION 11.15 Impairment Test
+If either the fair value less costs to sell or value-in-use is higher than the carrying amount,
+there is no impairment. If both the fair value less costs to sell and value-in-use are lower
+than the carrying amount, a loss on impairment occurs.
+Example: No Impairment
+Assume that Cruz SA performs an impairment test for its equipment. The carrying
+amount of Cruz’s equipment is €200,000, its fair value less costs to sell is €180,000, and
+its value-in-use is €205,000. In this case, the value-in-use of Cruz’s equipment is higher
+than its carrying amount of €200,000. As a result, there is no impairment.7
+Example: Impairment
+Assume the same information for Cruz SA above except that the value-in-use of Cruz’s
+equipment is €175,000 rather than €205,000. Cruz measures the impairment loss as the
+difference between the carrying amount of €200,000 and the higher of fair value less
+costs to sell (€180,000) or value-in-use (€175,000). Cruz therefore uses the fair value less
+cost of disposal to record an impairment loss of €20,000 (€200,000 − €180,000).
+Cruz makes the following entry to record the impairment loss.
+Loss on Impairment
+20,000  
+Accumulated Depreciation—Equipment  
+20,000
+The Loss on Impairment is reported in the income statement in the “Other income and
+expense” section. The company then either credits Equipment or Accumulated
+Depreciation—Equipment to reduce the carrying amount of the equipment for the
+impairment. For purposes of homework, credit Accumulated Depreciation when
+recording an impairment for a depreciable asset.
+Impairment Illustrations
+Additional examples of impairment follow.
+
+--- Page 868 ---
+Case 1: At December 31, 2023, Hanoi Ltd. has equipment with a cost of VND26,000,000,
+and accumulated depreciation of VND12,000,000, after the current yearʼs depreciation
+has been recorded. The equipment has a total useful life of four years with a residual
+value of VND2,000,000. The following information relates to this equipment.
+1. The equipment’s carrying amount at December 31, 2023, is VND14,000,000
+(VND26,000,000 − VND12,000,000).
+2. Hanoi uses straight-line depreciation. Hanoi’s depreciation was VND6,000,000
+[(VND26,000,000 − VND2,000,000) ÷ 4] for 2023 and has been recorded.
+3. Hanoi has determined that the recoverable amount for this asset at December 31,
+2023, is VND11,000,000.
+4. The remaining useful life of the equipment after December 31, 2023, is two years.
+Hanoi records the impairment on its equipment at December 31, 2023, as follows.
+Loss on Impairment (VND14,000,000 − VND11,000,000) 3,000,000  
+Accumulated Depreciation—Equipment
+ 
+3,000,000
+Following the recognition of the impairment loss in 2023, the carrying amount of the
+equipment is now VND11,000,000 (VND14,000,000 − VND3,000,000). For 2024, Hanoi
+determines that the equipment’s total useful life has not changed (thus, the equipment’s
+remaining useful life is still two years). However, the estimated residual value of the
+equipment is now zero. Hanoi continues to use straight-line depreciation and makes the
+following journal entry to record depreciation for 2024.
+Depreciation Expense (VND11,000,000 ÷ 2) 5,500,000  
+Accumulated Depreciation—Equipment
+ 
+5,500,000
+Hanoi records depreciation in the periods following the impairment using the carrying
+amount of the asset adjusted for the impairment. Hanoi then evaluates whether the
+equipment was further impaired at the end of 2024. For example, the carrying amount of
+Hanoi’s equipment at December 31, 2024, is VND5,500,000 (VND26,000,000 −
+VND12,000,000 − VND3,000,000 − VND5,500,000). If Hanoi determines that the
+recoverable amount at December 31, 2024, is lower than VND5,500,000, then an
+additional impairment loss is recorded.
+Case 2
+At the end of 2022, Verma Company tests a machine for impairment. The machine has a
+carrying amount of $200,000. It has an estimated remaining useful life of five years.
+Because of the unique nature of the machine, there is little market-related information on
+which to base a recoverable amount based on fair value. As a result, Verma determines
+that the machine’s recoverable amount (i.e., the higher of value-in-use and fair value less
+costs to sell) should be based on value-in-use.
+To determine value-in-use, Verma develops an estimate of net future cash flows based on
+internal company cash budgets (and reflecting cash inflows from the machine and
+estimated costs necessary to maintain the machine in its current condition). [7] Verma
+
+--- Page 869 ---
+uses a discount rate of 8 percent, which should be a pretax rate that approximates
+Verma’s cost of borrowing.8 Verma’s analysis indicates that its future cash flows will be
+$40,000 each year for five years, and it will receive a residual value of $10,000 at the end
+of the five years. It is assumed that all cash flows occur at the end of the year. The
+computation of the value-in-use for Verma’s machine is shown in Illustration 11.16.
+Present value of 5 annual payments of $40,000 ($40,000 × 3.99271, Table
+6.4)
+$159,708.40
+Present value of residual value of $10,000 ($10,000 × .68058, Table 6.1)
+6,805.80
+Value-in-use related to machine
+$166,514.20
+ILLUSTRATION 11.16 Value-in-Use Computation
+The computation of the impairment loss on the machine at the end of 2022 is shown in
+Illustration 11.17.
+Carrying amount of machine before impairment loss $200,000.00
+Recoverable amount of machine
+166,514.20
+Loss on impairment
+$ 33,485.80
+ILLUSTRATION 11.17 Impairment Loss Calculation Based on Value-in-Use
+The company therefore records an impairment loss at December 31, 2022, as follows.
+Loss on Impairment
+33,485.80  
+Accumulated Depreciation—Machinery  
+33,485.80
+The carrying amount of the machine after recording the loss is $166,514.20.
+Reversal of Impairment Loss
+After recording the impairment loss, the recoverable amount becomes the basis of the
+impaired asset. What happens if a review in a future year indicates that the asset is no
+longer impaired because the recoverable amount of the asset is higher than the carrying
+amount? In that case, the impairment loss may be reversed.
+To illustrate, assume that Tan Group purchases equipment on January 1, 2022, for
+HK$300,000, with a useful life of three years and no residual value. Its depreciation and
+related carrying amount over the three years is as follows.
+Year
+Depreciation Expense
+Carrying Amount
+2022 HK$100,000 (HK$300,000 ÷ 3)
+HK$200,000
+2023 HK$100,000 (HK$300,000 ÷ 3)
+HK$100,000
+2024 HK$100,000 (HK$300,000 ÷ 3)
+0
+At December 31, 2022, Tan determines it has an impairment loss of HK$20,000 and
+therefore makes the following entry.
+Loss on Impairment
+20,000  
+
+--- Page 870 ---
+Accumulated Depreciation—Equipment  
+20,000
+Tan’s depreciation expense and related carrying amount after the impairment is as
+indicated below.
+Year
+Depreciation Expense
+Carrying Amount
+2023 HK$90,000 (HK$180,000 ÷ 2)
+HK$90,000
+2024 HK$90,000 (HK$180,000 ÷ 2)
+0
+At the end of 2023, Tan determines that the recoverable amount of the equipment is
+HK$96,000, which is greater than its carrying amount of HK$90,000. In this case, Tan
+reverses a portion of the previously recognized impairment loss with the following entry.
+Accumulated Depreciation—Equipment 6,000  
+Recovery of Impairment Loss
+ 
+6,000
+The recovery of the impairment loss is reported in the “Other income and expense”
+section of the income statement. The carrying amount of Tan’s equipment is now
+HK$96,000 (HK$90,000 + HK$6,000) at December 31, 2023.
+The general rule related to reversals of impairments is as follows. The amount of the
+recovery of the loss is limited to the carrying amount that would result if the impairment
+had not occurred. For example, the carrying amount of Tan’s equipment at the end of
+2023 would be HK$100,000, assuming no impairment. The HK$6,000 recovery is
+therefore permitted because Tan’s carrying amount on the equipment is now only
+HK$96,000. However, any recovery above HK$10,000 is not permitted. The reason is that
+any recovery above HK$10,000 results in Tan carrying the asset at a value above its
+historical cost.
+Cash-Generating Units
+In some cases, it may not be possible to assess a single asset for impairment because the
+single asset generates cash flows only in combination with other assets. In that case,
+companies should identify the smallest group of assets that can be identified that
+generates cash flows independently of the cash flows from other assets. Such a group is
+called a cash-generating unit (CGU).
+For example, Santos SpA is reviewing its plant assets for indicators of impairment.
+However, it is finding that identifying cash flows for individual assets is very cumbersome
+and inaccurate because the cash flows related to a group of assets are interdependent.
+This situation can arise if Santos has one operating unit (machining division) that
+manufactures products that are transferred to another Santos business unit (packing
+division), which then markets the products to end customers. Because the cash flows to
+the assets in the machining division are dependent on the cash flows in the packing
+division, Santos should evaluate both divisions together as a cash-generating unit in its
+impairment assessments.
+Impairment of Assets to Be Disposed Of
+
+--- Page 871 ---
+What happens if a company intends to dispose of the impaired asset, instead of holding it
+for use? Recently, Kroger (USA) recorded an impairment loss of $54 million on property,
+plant, and equipment it no longer needed due to store closures. In this case, Kroger
+reports the impaired asset at the lower-of-cost-or-net realizable value (fair value less
+costs to sell). Because Kroger intends to dispose of the assets in a short period of time, it
+uses net realizable value in order to provide a better measure of the net cash flows that it
+will receive from these assets.
+Kroger does not depreciate or amortize assets held for disposal during the period it holds
+them. The rationale is that depreciation is inconsistent with both the notion of assets to
+be disposed of, and with the use of the lower-of-cost-or-net realizable value. In other
+words, assets held for disposal are like inventory; companies should report
+them at the lower-of-cost-or-net realizable value.
+Because Kroger will recover assets held for disposal through sale rather than through
+operations, it continually revalues them. Each period, the assets are reported at the lower-
+of-cost-or-net realizable value. Thus, Kroger can write up or down an asset held for
+disposal in future periods, as long as the carrying amount after the write-up
+never exceeds the carrying amount of the asset before the impairment.
+Companies should report losses or gains related to these impaired assets as part of
+operating income in “Other income and expense.”
+Illustration 11.18 summarizes the key concepts in accounting for impairments.
+
+--- Page 872 ---
+ILLUSTRATION 11.18 Graphic of Accounting for Impairments
+Depletion
+LEARNING OBJECTIVE 4
+Discuss the accounting procedures for depletion of mineral resources.
+Natural resources, often called wasting assets, include petroleum, minerals, and
+timberlands. Natural resources can be further subdivided into two categories: (1)
+biological assets such as timberlands, and (2) mineral resources such as oil, gas, and
+mineral mining. The accounting and reporting requirements for biological assets such as
+timberlands use a fair value approach and are discussed in Chapter 9. Here, we focus on
+mineral resources, which have two main features: (1) the complete removal
+(consumption) of the asset, and (2) replacement of the asset only by an act of nature.
+Unlike plant and equipment, mineral resources are consumed physically over the period
+of use and do not maintain their physical characteristics. Still, the accounting problems
+associated with these resources are similar to those encountered with property, plant, and
+equipment. The questions to be answered are:
+
+--- Page 873 ---
+1. How do companies establish the cost basis for write-off?
+2. What pattern of allocation should companies employ?
+Recall that the accounting profession uses the term depletion for the process of
+allocating the cost of mineral resources to expense.
+Establishing a Depletion Base
+How do we determine the depletion base for mineral resources? For example, a company
+like Total SA (FRA) makes sizable expenditures to find mineral resources. And, for every
+successful discovery, there are many failures. Furthermore, the company often
+encounters long delays between the time it incurs costs and the time it obtains the
+benefits from the extracted resources. As a result, a company in the extractive industries,
+like Total SA, frequently adopts a conservative policy in accounting for the expenditures
+related to finding and extracting mineral resources.
+Computation of the depletion base involves properly accounting for three types of
+expenditures:
+1. Pre-exploratory costs.
+2. Exploratory and evaluation costs.
+3. Development costs.
+Pre-Exploratory Costs
+Pre-exploratory expenditures are costs incurred before the company has obtained the
+legal rights to explore a specific area. For example, Royal Dutch Shell (GBR and NLD)
+may perform seismic testing of possible oil-drilling sites before incurring any substantial
+costs of exploration. These costs (often referred to as prospecting costs) are generally
+considered speculative in nature and are expensed as incurred.
+Exploratory and Evaluation (E&E) Costs
+Examples of some types of exploratory and evaluation (E&E) costs are as follows.
+Acquisition of rights to explore.
+Topographical, geological, geochemical, and geophysical studies.
+Exploratory drilling.
+Sampling.
+Activities in relation to evaluating the technical feasibility and commercial viability of
+extracting a mineral resource.
+Companies have a choice regarding E&E costs. They can either write off these costs as
+incurred or capitalize these costs pending evaluation. IFRS therefore provides companies
+with flexibility as how to account for E&E costs at inception. [9]
+The reason for the flexibility is that the accounting for these types of expenditures is
+controversial. To illustrate, assume that Royal Dutch Shell is exploring for oil and
+
+--- Page 874 ---
+determines that the area of exploration has oil reserves. It therefore drills a well to
+determine the amount of the reserves. Unfortunately, the well drilled results in a dry
+hole; that is, no reserves are found. Shell then drills more wells and finds some oil
+reserves, but some others are dry holes. The question is: Should the cost of the dry holes
+be capitalized? Or should only the cost of the wells that find reserves be capitalized?
+Those who hold the full-cost concept (full capitalization) argue that the cost of drilling
+a dry hole is a cost needed to find the commercially profitable wells. Others believe that
+companies should capitalize only the costs of the successful wells. This is the
+successful-efforts concept. Its proponents believe that the only relevant measure for a
+project is the cost directly related to that project, and that companies should report any
+remaining costs as period charges. In addition, they argue that an unsuccessful company
+will end up capitalizing many costs that will make it, over a short period of time, show no
+less income than does one that is successful.
+Development Costs
+Once technical feasibility and commercial viability of production are demonstrated, E&E
+assets are reclassified as development costs. Generally, the development phase occurs
+when the company has determined that it has a reasonable level of mineral resources in
+the ground so that production will be profitable. At this time, any E&E assets recognized
+as assets are subsequently tested for impairment, to ensure that these assets are not
+carried at an amount above their recoverable amount.
+Companies divide development costs into two parts: (1) tangible equipment costs and
+(2) intangible development costs. Tangible equipment costs include all of the
+transportation and other heavy equipment needed to extract the resource and get it ready
+for market. Because companies can move the heavy equipment from one extracting site to
+another, companies do not normally include tangible equipment costs in the
+depletion base. Instead, they use separate depreciation charges to allocate the costs of
+such equipment. However, some tangible assets (e.g., a drilling rig foundation) cannot be
+moved. Companies depreciate these assets over their useful life or the life of the resource,
+whichever is shorter.
+Intangible development costs, on the other hand, are such items as drilling costs, tunnels,
+shafts, and wells. These costs have no tangible characteristics but are needed for the
+production of the mineral resource. Intangible development costs are considered
+part of the depletion base.
+Companies sometimes incur substantial costs to restore property to its natural state after
+extraction has occurred. These are restoration costs. Companies consider restoration
+costs part of the depletion base. The amount included in the depletion base is the fair
+value of the obligation to restore the property after extraction. A more complete
+discussion of the accounting for restoration costs and related liabilities (sometimes
+referred to as environmental liability provisions) is provided in Chapter 13. Similar to
+other long-lived assets, companies deduct from the depletion base any residual value to be
+received on the property.
+Write-Off of Resource Cost
+
+--- Page 875 ---
+Once the company establishes the depletion base, the next problem is determining how to
+allocate the cost of the mineral resource to accounting periods.
+Normally, companies compute depletion (often referred to as cost depletion) using a
+units-of-production method (an activity approach). Thus, depletion is a function of
+the number of units extracted during the period. In this approach, the total cost of the
+mineral resource less residual value is divided by the number of units estimated to be in
+the resource deposit, to obtain a cost per unit of product. To compute depletion, the
+cost per unit is then multiplied by the number of units extracted.
+For example, MaClede SA acquired the right to use 1,000 acres of land in South Africa to
+mine for silver. The lease cost is €50,000, and the related exploration costs on the
+property are €100,000. Intangible development costs incurred in opening the mine are
+€850,000. Total costs related to the mine before the first ounce of silver is extracted are,
+therefore, €1,000,000. MaClede estimates that the mine will provide approximately
+100,000 ounces of silver. Illustration 11.19 shows computation of the depletion cost per
+unit (depletion rate).
+= Depletion Cost per Unit
+= €10 per ounce
+ILLUSTRATION 11.19 Computation of Depletion Rate
+If MaClede extracts 25,000 ounces in the first year, then the depletion for the year is
+€250,000 (25,000 ounces × €10). It records the depletion as follows.
+Inventory
+250,000  
+Accumulated Depletion  
+250,000
+MaClede debits Inventory for the total depletion for the year and credits Accumulated
+Depletion to reduce the carrying amount of the mineral resource. MaClede credits
+Inventory when it sells the inventory. The amount not sold remains in inventory and is
+reported in the current assets section of the statement of financial position.
+Sometimes companies do not use an Accumulated Depletion account. In that case, the
+credit goes directly to the mineral resources asset account. MaClede’s statement of
+financial position would present the cost of the mineral resource and the amount of
+accumulated depletion entered to date as shown in Illustration 11.20.
+Silver mine (at cost)
+€1,000,000  
+Less: Accumulated depletion
+250,000 €750,000
+ILLUSTRATION 11.20 Statement of Financial Position Presentation of
+Mineral Resource
+In the income statement, the depletion cost related to the inventory sold is part of the cost
+of goods sold.
+Total Cost  − Residual Value
+Total Estimated Units Available
+€1,000,000
+100,000
+
+--- Page 876 ---
+MaClede may also depreciate on a units-of-production basis the tangible equipment used
+in extracting the silver. This approach is appropriate if it can directly assign the estimated
+lives of the equipment to one given resource deposit. If MaClede uses the equipment on
+more than one job, other cost allocation methods such as straight-line or accelerated
+depreciation methods would be more appropriate.
+Estimating Recoverable Reserves
+Sometimes companies need to change the estimate of recoverable reserves. They do so
+either because they have new information or because more sophisticated production
+processes are available. Mineral resources such as oil and gas deposits and some rare
+metals present the greatest challenges. Estimates of these reserves are in large measure
+merely “knowledgeable guesses.”9
+This problem is the same as accounting for changes in estimates for the useful
+lives of plant and equipment. The procedure is to revise the depletion rate on a
+prospective basis: A company divides the remaining cost by the new estimate of the
+recoverable reserves. This approach has much merit because the required estimates are so
+uncertain.
+Liquidating Dividends
+A company often owns as its only major asset a property from which it intends to extract
+mineral resources. If the company does not expect to purchase additional properties, it
+may gradually distribute to shareholders their capital investments by paying liquidating
+dividends, which are dividends greater than the amount of accumulated net income.
+The major accounting problem is to distinguish between dividends that are a return of
+capital and those that are not. Because the dividend is a return of the investor’s original
+contribution, the company issuing a liquidating dividend should debit Share Premium—
+Ordinary for that portion related to the original investment, instead of debiting Retained
+Earnings.
+To illustrate, at year-end, Callahan Mining had a retained earnings balance of £1,650,000,
+accumulated depletion on mineral properties of £2,100,000, and share premium of
+£5,435,493. Callahan’s board declared a dividend of £3 per share on the 1,000,000 shares
+outstanding. It records the £3,000,000 cash dividend as follows.
+Retained Earnings
+1,650,000  
+Share Premium—Ordinary 1,350,000  
+Cash
+ 
+3,000,000
+Callahan must inform shareholders that the £3 dividend per share represents a £1.65
+(£1,650,000 ÷ 1,000,000 shares) per share return on investment and a £1.35 (£1,350,000
+÷ 1,000,000 shares) per share liquidating dividend.
+Presentation on the Financial Statements
+Companies should disclose the following related to E&E expenditures.
+
+--- Page 877 ---
+1. The accounting policies for exploration and evaluation expenditures, including the
+recognition of E&E assets.
+2. The amounts of assets, liabilities, income and expense, and operating cash flow
+arising from the exploration for and evaluation of mineral resources.
+The financial statement excerpts for Tullow Oil plc (GBR) in Illustration 11.21
+highlight the nature of these disclosures.
+
+--- Page 878 ---
+Tullow Oil plc
+(in millions)
+Income Statement
+ 
+Exploration costs written off
+$ 295.2
+Statement of Financial Position
+ 
+Intangible exploration and evaluation assets
+$1,898.6
+Statement of Cash Flows
+ 
+Purchase of intangible exploration and evaluation of assets
+$ 202.1
+Accounting Policies
+(k) Exploration, evaluation, and production assets
+The Group adopts the successful efforts method of accounting for exploration and
+appraisal costs. All license acquisition, exploration, and evaluation costs are initially
+capitalized in cost centers by well, field, or exploration area, as appropriate. Directly
+attributable administration costs and interest payable are capitalized insofar as they
+relate to specific development activities. Pre-license costs are expensed in the period in
+which they are incurred. These costs are then written off as exploration costs in the
+Income Statement unless commercial reserves have been established or the
+determination process has not been completed and there are no indications of
+impairment. All field development costs are capitalized as property, plant, and
+equipment. Property, plant, and equipment related to production activities are amortized
+in accordance with the Group’s depletion and amortization accounting policy.
+(m) Depletion and amortization—discovery fields
+All expenditure carried within each field is amortized from the commencement of
+production on a unit of production basis, which is the ratio of oil and gas production in
+the period to the estimated quantities of commercial reserves at the end of the period
+plus the production in the period, generally on a field-by-field basis. Costs used in the
+unit of production calculation comprise the net book value of capitalized costs plus the
+estimated future field development costs. Changes in the estimates of commercial
+reserves or future field development costs are dealt with prospectively.
+(n) Impairment of property, plant and equipment
+Where there has been a change in economic conditions that indicates a possible
+impairment in a discovery field, the recoverability of the net book value relating to that
+field is assessed by comparison with the estimated discounted cash flows based on
+management’s expectations of future oil and gas prices and future costs.
+ILLUSTRATION 11.21 Reporting of Exploration Costs
+
+--- Page 879 ---
+Revaluations
+LEARNING OBJECTIVE 5
+Apply the accounting for revaluations.
+Up to this point, we have assumed that companies use the historical cost principle to
+value long-lived tangible assets after acquisition. However, companies have a choice: They
+may value these assets at cost or at fair value. [10]
+Recognizing Revaluations
+Network Rail (GBR) is an example of a company that elected to use fair values to
+account for assets in its railroad network. Its use of fair value led to an increase of £4,289
+million to its long-lived tangible assets. When companies choose to report at fair value
+their long-lived tangible assets subsequent to acquisition, they account for the change in
+the fair value by adjusting the appropriate asset account and establishing an unrealized
+gain on the revalued long-lived tangible asset. This unrealized gain is often referred to as
+revaluation surplus.
+Revaluation—Land
+To illustrate revaluation of land, assume that Siemens Group (DEU) purchased land for
+€1,000,000 on January 5, 2022. The company elects to use revaluation accounting for the
+land in subsequent periods. At December 31, 2022, the land’s fair value is €1,200,000. The
+entry to record the land at fair value is as follows.
+Land
+200,000  
+Unrealized Gain on Revaluation—Land  
+200,000
+The land is reported on the statement of financial position at €1,200,000, and the
+Unrealized Gain on Revaluation—Land increases other comprehensive income in the
+statement of comprehensive income. In addition, if this is the only revaluation
+adjustment to date, the statement of financial position reports accumulated other
+comprehensive income of €200,000.
+Revaluation—Depreciable Assets
+To illustrate the accounting for revaluations of depreciable assets, assume that Lenovo
+Group (CHN) purchases equipment for ¥500,000 on January 2, 2022. The equipment
+has a useful life of five years, is depreciated using the straight-line method of
+depreciation, and has a residual value of zero. Lenovo chooses to revalue its equipment to
+fair value over the life of the equipment. Lenovo records depreciation expense of
+¥100,000 (¥500,000 ÷ 5) at December 31, 2022, as follows.
+December 31, 2022
+Depreciation Expense
+100,000  
+Accumulated Depreciation—Equipment
+ 
+100,000
+(To record depreciation expense in 2022)  
+ 
+
+--- Page 880 ---
+After this entry, Lenovo’s equipment has a carrying amount of ¥400,000 (¥500,000 −
+¥100,000). Lenovo receives an independent appraisal for the fair value of equipment at
+December 31, 2022, which is ¥460,000. To report the equipment at fair value, Lenovo
+does the following.
+1. Reduces the Accumulated Depreciation—Equipment account to zero.
+2. Reduces the Equipment account by ¥40,000—it then is reported at its fair value of
+¥460,000.
+3. Records Unrealized Gain on Revaluation—Equipment for the difference between the
+fair value and carrying amount of the equipment, or ¥60,000 (¥460,000 −
+¥400,000). The entry to record this revaluation at December 31, 2022, is as follows.
+December 31, 2022
+Accumulated Depreciation—Equipment
+100,000  
+Equipment
+ 
+40,000
+Unrealized Gain on Revaluation—Equipment
+ 
+60,000
+(To adjust the equipment to fair value and record revaluation
+increase)
+ 
+ 
+The equipment is now reported at its fair value of ¥460,000 (¥500,000 − ¥40,000).10 The
+increase in the fair value of ¥60,000 is reported on the statement of comprehensive
+income as other comprehensive income. In addition, the ending balance is reported in
+accumulated other comprehensive income on the statement of financial position in the
+equity section.
+Illustration 11.22 shows the presentation of revaluation elements.
+Statement of Comprehensive Income
+Other comprehensive income
+Unrealized gain on revaluation—equipment
+¥ 60,000
+Statement of Financial Position
+Non-current assets
+Equipment (¥500,000 − ¥40,000)
+¥460,000
+Accumulated depreciation—equipment (¥100,000 − ¥100,000)
+–0–
+Carrying amount
+¥460,000
+Equity
+Accumulated other comprehensive income
+¥ 60,000
+ILLUSTRATION 11.22 Financial Statement Presentation—Revaluations
+As indicated, at December 31, 2022, the carrying amount of the equipment is now
+¥460,000. Lenovo reports depreciation expense of ¥100,000 in the income statement and
+an Unrealized Gain on Revaluation—Equipment of ¥60,000 in “Other comprehensive
+
+--- Page 881 ---
+income.” Assuming no change in the useful life of the equipment, depreciation in 2022 is
+¥115,000 (¥460,000 ÷ 4).
+In summary, a revaluation increase generally goes to equity. A revaluation decrease is
+reported as an expense (as an impairment loss), unless it offsets previously recorded
+revaluation increases. If the revaluation increase offsets a revaluation decrease that went
+to expense, then the increase is reported in income. Under no circumstances can the
+Accumulated Other Comprehensive Income account related to revaluations
+have a negative balance.
+Revaluation Issues
+The use of revaluation accounting is not an “all or nothing” proposition. That is, a
+company can select to value only one class of assets, say buildings, and not revalue other
+assets such as land or equipment. However, if a company selects only buildings,
+revaluation applies to all assets in that class of assets. A class of assets is a grouping of
+items that have a similar nature and use in a company’s operations. For example, a
+company such as Siemens (DEU) may have the following classes of assets: land,
+equipment, and buildings. If Siemens chooses to fair value its land class, it must fair value
+all land. It cannot selectively apply revaluation accounting to certain parcels of land
+within the class and report them at fair value and keep the remainder at historical cost. To
+permit such “cherry-picking” not only leads to a misleading mixture of historical cost and
+fair value, but also permits a company to maximize its fair value through selective
+revaluation.
+Companies using revaluation accounting must also make every effort to keep the assets’
+values up to date. Assets that are experiencing rapid price changes must be revalued on an
+annual basis. Otherwise, less frequent revaluation is acceptable. The fair value of items of
+property, plant, and equipment is usually determined by appraisal. Appendix 11A
+illustrates the accounting for revaluations in more detail both for land and depreciable
+assets.
+
+--- Page 882 ---
+What Do the Numbers Mean?
+To Revalue or Not
+Most companies do not use revaluation accounting. A major reason is the substantial
+and continuing costs associated with appraisals to determine fair value. In addition,
+the gains associated with revaluations above historical cost are not reported in net
+income but instead go directly to equity. On the other hand, losses associated with
+revaluations below historical cost decrease net income. In addition, for depreciable
+assets, the higher depreciation charges related to the revalued assets also reduce net
+income.
+However, in the hospitality or hotel industry, it is fairly common to encounter the use
+of revaluation accounting. For example, consider Hotel Royal Limited (SGP),
+which owns the Hotel Royal in Singapore as well as manages and invests in hotel
+properties in Malaysia and New Zealand. In its annual report, the company provided
+the following description of its accounting policies related to property, plant, and
+equipment:
+Property, plant and equipment are stated at cost less accumulated depreciation
+and any accumulated impairment losses except for freehold land on which
+certain hotels are sited, which are stated at revalued amounts. Revaluations of
+freehold hotel land is performed with sufficient regularity such that the carrying
+amounts do not differ materially from those which would be determined using
+fair values at the end of the reporting period.
+During the most recent period, the company reported total assets of S$807,393,000.
+Of the total amount, property, plant, and equipment was S$647,679,000, or 80
+percent of total assets. In the footnotes for the period the company reported that
+freehold land, which was reported at a fair value of S$502,556,000, had a cost of
+S$73,100,000. The difference in these two amounts (S$429,456,000) is over one-half
+of the total assets of the company. Said another way, if the company did not use the
+revaluation method, it would have underreported its assets by over 100 percent.
+In industries and settings such as this, the added cost of revaluation accounting really
+does make sense!
+Presentation and Analysis
+LEARNING OBJECTIVE 6
+Demonstrate how to report and analyze property, plant, equipment, and mineral
+resources.
+Presentation of Property, Plant, Equipment, and Mineral Resources
+
+--- Page 883 ---
+A company should disclose the basis of valuation—usually historical cost—for property,
+plant, equipment, and mineral resources along with pledges, liens, and other
+commitments related to these assets. It should not offset any liability secured by property,
+plant, equipment, and mineral resources against these assets. Instead, this obligation
+should be reported in the liabilities section. The company should segregate property,
+plant, and equipment not currently employed as producing assets in the business (such as
+idle facilities or land held as an investment) from assets used in operations.
+When depreciating assets, a company credits a valuation account, normally called
+Accumulated Depreciation. Using an accumulated depreciation account permits the user
+of the financial statements to see the original cost of the asset and the amount of
+depreciation that the company charged to expense in past years.
+When depleting mineral resources, some companies use an accumulated depletion
+account. Many, however, simply credit the mineral resource account directly. The
+rationale for this approach is that the mineral resources are physically consumed, making
+direct reduction of the cost of the mineral resources appropriate.
+Illustration 11.23 provides the reporting of property, plant, and equipment by Nestlé
+Group (CHE) in a recent annual report. Nestlé presents condensed statement of financial
+position data, supplemented with detail amounts and accounting policies provided in the
+notes to the financial statements.
+
+--- Page 884 ---
+Nestlé Group
+(in millions of CHF)
+Non-current assets
+Property, plant, and equipment
+26,837
+Note 1 Accounting Policies
+Property, plant, and equipment
+Property, plant, and equipment are shown in the balance sheet at their historical cost.
+Depreciation is provided on components that have homogeneous useful lives by using
+the straight-line method so as to depreciate the initial cost down to the residual value
+over the estimated useful lives. The residual values are 30% on head offices and nil for
+all other asset types. The useful lives are as follows:
+Buildings
+20–40 years
+Machinery and equipment
+10–25 years
+Tools, furniture, information technology, and
+sundry equipment
+3–10 years
+Vehicles
+3–8 years
+Land is not depreciated.
+Useful lives, components, and residual amounts are reviewed annually. Such a review
+takes into consideration the nature of the assets, their intended use including but not
+limited to the closure of facilities, and the evolution of the technology and competitive
+pressures that may lead to technical obsolescence.
+Depreciation of property, plant, and equipment is allocated to the appropriate headings
+of expenses by function in the income statement.
+Borrowing costs incurred during the course of construction are capitalized if the assets
+under construction are significant and if their construction requires a substantial period
+to complete (typically more than one year). The capitalization rate is determined on the
+basis of the short-term borrowing rate for the period of construction. Premiums
+capitalized for leasehold land or buildings are amortized over the length of the lease.
+Government grants are recognized in accordance with the deferral method, whereby the
+grant is set up as deferred income which is released to the income statement over the
+useful life of the related assets. Grants that are not related to assets are credited to the
+income statement when they are received.
+Gross value
+Land and
+Buildings
+Machinery
+and
+Equipment
+Tools, Furniture,
+and Other
+Equipment
+Vehicles
+Total
+At 1 January
+17,841
+31,103
+8,013
+615
+57,572
+Currency retranslations
+(617)
+(980)
+(160)
+(5)
+(1,762)
+
+--- Page 885 ---
+Capital expenditure
+1,025
+2,013
+782
+40
+3,860
+Disposals
+(135)
+(592)
+(466)
+(88)
+(1,281)
+Reclassified (to)/from
+held for sale
+(387)
+(260)
+(85)
+(2)
+(734)
+Modification of the
+scope of consolidation
+20
+9
+(15)
+—
+14
+At 31 December
+17,747
+31,293
+8,069
+560
+57,669
+Accumulated
+depreciation and
+impairments
+ 
+ 
+ 
+ 
+ 
+At 1 January
+(6,124)
+(17,642)
+(5,721)
+(419)
+(29,906)
+Currency retranslations
+225
+499
+162
+1
+887
+Depreciation
+(484)
+(1,581)
+(742)
+(51)
+(2,858)
+Impairments
+(138)
+(269)
+(18)
+(7)
+(432)
+Disposals
+74
+536
+438
+75
+1,123
+Reclassified (to)/from
+held for sale
+159
+102
+50
+1
+312
+Modification of the
+scope of consolidation
+10
+21
+10
+1
+42
+At 31 December
+(6,278)
+(18,334)
+(5,821)
+(399) (30,832)
+Net at 31 December
+11,469
+12,959
+2,248
+161
+26,837
+At December 31, property, plant and equipment include CHF1,528 million of assets
+under construction. Net property, plant, and equipment of CHF208 million are pledged
+as security for financial liabilities.
+Impairment
+Impairment of property, plant, and equipment arises mainly from the plans to optimise
+industrial manufacturing capacities by closing or selling inefficient production facilities.
+Commitments for expenditure
+At December 31, the Group was committed to expenditure amounting to CHF797 million.
+ILLUSTRATION 11.23 Disclosures for Property, Plant, and Equipment
+Analysis of Property, Plant, and Equipment
+Analysts evaluate assets relative to activity (turnover) and profitability.
+Asset Turnover
+How efficiently a company uses its assets to generate sales is measured by the asset
+turnover. This ratio divides net sales by average total assets for the period. The resulting
+
+--- Page 886 ---
+number is the dollars of sales produced by each dollar invested in assets. To illustrate, we
+use the following data from Siemens Group’s (DEU) 2018 annual report.
+Siemens Group
+(in millions)
+Net sales
+€ 83,044
+Total assets, 9/30/18
+138,915
+Total assets, 9/30/17
+136,111
+Net income
+6,120
+Illustration 11.24 shows computation of the asset turnover.
+Asset Turnover =
+=
+= 0.60
+ILLUSTRATION 11.24 Asset Turnover
+The asset turnover shows that Siemens generated sales of €0.60 per euro of assets in the
+year ended September 30, 2018.
+Asset turnovers vary considerably among industries. For example, a large utility like
+Ameren (USA) has a ratio of 0.32 times. A large grocery chain like Morrisons (GBR)
+has a ratio of 1.86 times. Thus, in comparing performance among companies based on the
+asset turnover, you need to consider the ratio within the context of the industry in which
+a company operates.
+Profit Margin on Sales
+Another measure for analyzing the use of property, plant, and equipment is the profit
+margin on sales (return on sales). Calculated as net income divided by net sales, this
+profitability ratio does not, by itself, answer the question of how profitably a company
+uses its assets. But by relating the profit margin on sales to the asset turnover during a
+period of time, we can ascertain how profitably the company used assets during that
+period of time in a measure of the return on assets. Using the Siemens data, we compute
+the profit margin on sales and the return on assets as shown in Illustration 11.25.
+Net Sales
+Average Total Assets
+€83,044
+(€138,915 + €136,111) ÷ 2
+
+--- Page 887 ---
+Profit Margin on Sales =
+=
+= 7.4%
+Return on Assets = Profit Margin on Sales ×
+Asset Turnover
+= .074 × 0.60
+= 4.4%
+ILLUSTRATION 11.25 Profit Margin on Sales
+Return on Assets
+The rate of return a company achieves through use of its assets is the return on assets
+(ROA). Rather than using the profit margin on sales, we can compute it directly by
+dividing net income by average total assets. Using Siemens’ data, we compute the ratio as
+shown in Illustration 11.26.
+Return on Assets =
+=
+= 4.4%
+ILLUSTRATION 11.26 Return on Assets
+The 4.4 percent rate of return computed in this manner equals the 4.4 percent rate
+computed by multiplying the profit margin on sales by the asset turnover. The return on
+assets measures profitability well because it combines the effects of profit margin and
+asset turnover.
+APPENDIX 11A
+Revaluation of Property, Plant, and Equipment
+LEARNING OBJECTIVE *7
+Illustrate revaluation accounting procedures.
+As indicated in Chapter 11, companies can use revaluation accounting subsequent to
+acquisition. When companies choose to report at fair value their long-lived tangible assets
+subsequent to acquisition, they account for the change in the fair value by adjusting the
+appropriate asset account and recording an unrealized gain on the revalued long-lived
+Net Income
+Net Sales
+€6,120
+€83,044
+Net Income
+Average Total Assets
+€6,120
+(€138,915 + €136,111) ÷ 2
+
+--- Page 888 ---
+tangible asset. This unrealized gain is often referred to as revaluation surplus and
+reported as part of other comprehensive income.
+The general rules for revaluation accounting are as follows.
+1. When a company revalues its long-lived tangible assets above historical cost, it
+reports an unrealized gain that increases other comprehensive income. Thus, the
+unrealized gain bypasses net income, increases other comprehensive income, and
+increases accumulated other comprehensive income.
+2. If a company experiences a loss on impairment (decrease of value below historical
+cost), the loss reduces net income and retained earnings. Thus, gains on revaluation
+increase equity but not net income, whereas losses decrease net income and retained
+earnings (and therefore equity).
+3. If a revaluation increase reverses a decrease that was previously reported as an
+impairment loss, a company credits the revaluation increase to net income using the
+account Recovery of Impairment Loss up to the amount of the prior loss. Any
+additional valuation increase above historical cost increases other comprehensive
+income and is credited to Unrealized Gain on Revaluation.
+4. If a revaluation decrease reverses an increase that was reported as an unrealized gain,
+a company first reduces other comprehensive income by eliminating the unrealized
+gain. Any additional valuation decrease reduces net income and is reported as a loss
+on impairment.
+In the following two sections, we explain revaluation procedures for land and depreciable
+assets in a multiple-year setting.
+Revaluation of Land
+Revaluation—2022: Valuation Increase
+To illustrate the accounting for a revaluation, assume that Unilever Group (GBR and
+NLD) purchased land on January 1, 2022, that cost €400,000. Unilever decides to report
+the land at fair value in subsequent periods. At December 31, 2022, an appraisal of the
+land indicates that its fair value is €520,000. Unilever makes the following entry to record
+the increase in fair value.
+December 31, 2022
+Land
+120,000  
+Unrealized Gain on Revaluation—Land (€520,000 − €400,000)  
+120,000
+(To recognize increase in land value)
+ 
+ 
+Illustration 11A.1 provides a summary of the revaluation adjustments for Unilever in
+2022.
+
+--- Page 889 ---
+Date
+Item
+Land Fair
+Value
+Retained
+Earnings
+Accumulated Other Comprehensive
+Income (AOCI)
+Jan. 1,
+2022
+Beginning
+balance
+€400,000
+€0
+€
+0
+Dec. 31,
+2022
+Revaluation
+120,000
+0
+120,000
+Dec. 31,
+2022
+Ending
+balance
+520,000
+0
+120,000
+ILLUSTRATION 11A.1 Summary of Revaluation—2022
+The land is now reported at its fair value of €520,000. The increase in the fair value of
+€120,000 is reported on the statement of comprehensive income as other comprehensive
+income. In addition, the ending balance in Unrealized Gain on Revaluation—Land is
+reported as accumulated other comprehensive income in the statement of financial
+position in the equity section.
+Revaluation—2023: Decrease Below Historical Cost
+What happens if the land’s fair value at December 31, 2023, is €380,000, a decrease of
+€140,000 (€520,000 − €380,000)? In this case, the land’s fair value is below its historical
+cost. Therefore, Unilever debits Unrealized Gain on Revaluation—Land for €120,000 to
+eliminate its balance. In addition, Unilever reports a Loss on Impairment of €20,000
+(€400,000 − €380,000), reducing net income. Unilever makes the following entry to
+record the decrease in fair value of the land.
+December 31, 2023
+Unrealized Gain on Revaluation—Land
+120,000  
+Loss on Impairment
+20,000  
+Land (€520,000 − €380,000)
+ 
+140,000
+(To record decrease in value of land below historical cost)  
+ 
+Illustration 11A.2 provides a summary of the revaluation adjustments for Unilever in
+2023.
+
+--- Page 890 ---
+Date
+Item
+Land Fair
+Value
+Retained
+Earnings
+Accumulated Other Comprehensive
+Income (AOCI)
+Jan. 1,
+2022
+Beginning
+balance
+€400,000
+€
+0
+€
+0
+Dec. 31,
+2022
+Revaluation
+120,000
+0
+120,000
+Dec. 31,
+2022
+Ending
+balance
+520,000
+0
+120,000
+Jan. 1,
+2023
+Beginning
+balance
+€520,000
+€
+0
+€120,000
+Dec. 31,
+2023
+Revaluation
+(140,000)
+(20,000)
+(120,000)
+Dec. 31,
+2023
+Ending
+balance
+380,000
+(20,000)
+0
+ILLUSTRATION 11A.2 Summary of Revaluation—2023
+The decrease to Unrealized Gain on Revaluation—Land of €120,000 reduces other
+comprehensive income, which then reduces the balance in accumulated other
+comprehensive income. The Loss on Impairment of €20,000 reduces net income and
+retained earnings. In this case, Unilever had a revaluation decrease which first reverses
+any increases that Unilever reported in prior periods as an unrealized gain. Any additional
+amount is reported as an impairment loss. Under no circumstances can the
+revaluation decrease reduce accumulated other comprehensive income below
+zero.
+Revaluation—2024: Recovery of Impairment Loss
+At December 31, 2024, Unilever’s land value increases to €415,000, an increase of
+€35,000 (€415,000 − €380,000). In this case, the Loss on Impairment of €20,000 is
+reversed and the remaining increase of €15,000 is reported in other comprehensive
+income. Unilever makes the following entry to record this transaction.
+December 31, 2024
+Land
+35,000  
+Unrealized Gain on Revaluation—Land
+ 
+15,000
+Recovery of Impairment Loss
+ 
+20,000
+(Revaluation of land, recovery of impairment loss)  
+ 
+Illustration 11A.3 provides a summary of the revaluation adjustments for Unilever in
+2024.
+
+--- Page 891 ---
+Date
+Item
+Land Fair
+Value
+Retained
+Earnings
+Accumulated Other Comprehensive
+Income (AOCI)
+Jan. 1,
+2022
+Beginning
+balance
+€ 400,000
+€
+0
+€
+0
+Dec. 31,
+2022
+Revaluation
+120,000
+0
+120,000
+Dec. 31,
+2022
+Ending
+balance
+520,000
+0
+120,000
+Jan. 1,
+2023
+Beginning
+balance
+€ 520,000
+€
+0
+€120,000
+Dec. 31,
+2023
+Revaluation
+(140,000)
+(20,000)
+(120,000)
+Dec. 31,
+2023
+Ending
+balance
+380,000
+(20,000)
+0
+Jan. 1,
+2024
+Beginning
+balance
+€ 380,000
+€(20,000)
+€
+0
+Dec. 31,
+2024
+Revaluation
+35,000
+20,000
+15,000
+Dec. 31,
+2024
+Ending
+balance
+415,000
+0
+15,000
+ILLUSTRATION 11A.3 Summary of Revaluation—2024
+The recovery of the impairment loss of €20,000 increases income (and retained earnings)
+only to the extent that it reverses previously recorded impairment losses.
+On January 2, 2025, Unilever sells the land for €415,000. Unilever makes the following
+entry to record this transaction.
+January 2, 2025
+Cash
+415,000  
+Land
+ 
+415,000
+(To record sale of land)  
+ 
+In this case, Unilever does not record a gain or loss because the carrying amount of the
+land is the same as its fair value. At this time, since the land is sold, Unilever will transfer
+Accumulated Other Comprehensive Income (AOCI) to Retained Earnings. The entry to
+record the transfer is as follows.
+January 2, 2025
+Accumulated Other Comprehensive Income
+15,000  
+Retained Earnings
+ 
+15,000
+(To eliminate the remaining balance in AOCI)  
+ 
+
+--- Page 892 ---
+The purpose of this transfer is to eliminate the unrealized gain on the land that was sold.
+It should be noted that transfers from Accumulated Other Comprehensive Income cannot
+increase net income. This last entry illustrates why revaluation accounting is not popular.
+Even though the land has appreciated in value by €15,000, Unilever is not able to
+recognize this gain in net income over the periods that it held the land.
+Revaluation of Depreciable Assets
+To illustrate the accounting for revaluations using depreciable assets, assume that Nokia
+(FIN) purchases equipment for €1,000,000 on January 2, 2022. The equipment has a
+useful life of five years, is depreciated using the straight-line method of depreciation, and
+its residual value is zero.
+Revaluation—2022: Valuation Increase
+Nokia chooses to revalue its equipment to fair value over the life of equipment. Nokia
+records depreciation expense of €200,000 (€1,000,000 ÷ 5) as follows.
+December 31, 2022
+Depreciation Expense
+200,000  
+Accumulated Depreciation—Equipment
+ 
+200,000
+(To record depreciation expense at December 31, 2022)  
+ 
+After this entry, Nokia’s equipment has a carrying amount of €800,000 (€1,000,000 −
+€200,000). Nokia employs an independent appraiser, who determines that the fair value
+of equipment at December 31, 2022, is €950,000. To report the equipment at fair value,
+Nokia does the following.
+1. Reduces the Accumulated Depreciation—Equipment account to zero.
+2. Reduces the Equipment account by €50,000—it then is reported at its fair value of
+€950,000.
+3. Records an Unrealized Gain on Revaluation—Equipment for the difference between
+the fair value and carrying amount of the equipment, or €150,000 (€950,000 −
+€800,000). The entry to record this revaluation at December 31, 2022, is as follows.
+December 31, 2022
+Accumulated Depreciation—Equipment
+200,000  
+Equipment
+ 
+50,000
+Unrealized Gain on Revaluation—Equipment
+ 
+150,000
+(To adjust the equipment to fair value and record unrealized gain)  
+ 
+Illustration 11A.4 provides a summary of the revaluation adjustments for Nokia in
+2022.
+
+--- Page 893 ---
+Date
+Item
+Equipment
+Fair Value
+Accumulated
+Depreciation
+Retained
+Earnings
+Accumulated Other
+Comprehensive Income
+(AOCI)
+Jan. 1,
+2022
+Beginning
+balance
+€1,000,000
+€
+0
+Dec. 31,
+2022
+Depreciation
+€ 200,000 €(200,000)
+ 
+Dec. 31,
+2022
+Revaluation
+(50,000)
+(200,000)
+150,000
+Dec.
+31,
+2022
+Ending
+balance
+950,000
+0 (200,000)
+150,000
+ILLUSTRATION 11A.4 Revaluation Summary—2022
+Following these revaluation adjustments, the carrying amount of the asset is now
+€950,000. Nokia reports depreciation expense of €200,000 in the income statement and
+Unrealized Gain on Revaluation—Equipment of €150,000 in other comprehensive
+income. This unrealized gain increases accumulated other comprehensive income
+(reported on the statement of financial position in the equity section).
+Revaluation—2023: Decrease Below Historical Cost
+Assuming no change in the useful life of the equipment, depreciation expense for Nokia
+in 2023 is €237,500 (€950,000 ÷ 4), and the entry to record depreciation expense is as
+follows.
+December 31, 2023
+Depreciation Expense
+237,500  
+Accumulated Depreciation—Equipment
+ 
+237,500
+(To record depreciation expense at December 31, 2023)  
+ 
+Under IFRS, Nokia may transfer from AOCI the difference between depreciation based on
+the revalued carrying amount of the equipment and depreciation based on the asset’s
+original cost to retained earnings. Depreciation based on the original cost was €200,000
+(€1,000,000 ÷ 5) and on fair value is €237,500, or a difference of €37,500 (€237,500 −
+€200,000). The entry to record this transfer is as follows.
+December 31, 2023
+Accumulated Other Comprehensive Income
+37,500  
+Retained Earnings
+ 
+37,500
+(To record transfer from AOCI to Retained Earnings)  
+ 
+At this point, before revaluation in 2023, Nokia has the following amounts related to its
+equipment.
+Equipment
+€950,000
+
+--- Page 894 ---
+Less: Accumulated depreciation—equipment
+237,500
+Carrying amount
+€712,500
+Accumulated other comprehensive income
+€112,500 (€150,000 − €37,500)11
+Nokia determines through appraisal that the equipment now has a fair value of €570,000.
+To report the equipment at fair value, Nokia does the following.
+1. Reduces the Accumulated Depreciation—Equipment account of €237,500 to zero.
+2. Reduces the Equipment account by €380,000 (€950,000 − €570,000)—it then is
+reported at its fair value of €570,000.
+3. Reduces Unrealized Gain on Revaluation—Equipment by €112,500, to offset the
+balance in the unrealized gain account (related to the revaluation in 2022).
+4. Records a loss on impairment of €30,000.
+The entry to record this transaction is as follows.
+Accumulated Depreciation—Equipment
+237,500  
+Loss on Impairment
+30,000  
+Unrealized Gain on Revaluation—Equipment
+112,500  
+Equipment
+ 
+380,000
+(To adjust the equipment to fair value and record
+impairment loss)
+ 
+ 
+Illustration 11A.5 provides a summary of the revaluation adjustments for Nokia in
+2023.
+
+--- Page 895 ---
+Date
+Item
+Equipment
+Fair Value
+Accumulated
+Depreciation
+Retained
+Earnings
+Accumulated Other
+Comprehensive Income
+(AOCI)
+Jan. 1,
+2022
+Beginning
+balance
+€1,000,000
+ 
+ 
+€
+0
+Dec. 31,
+2022
+Depreciation  
+€200,000 €(200,000)
+ 
+Dec. 31,
+2022
+Revaluation
+(50,000)
+(200,000)
+150,000
+Dec.
+31,
+2022
+Ending
+balance
+950,000
+0 (200,000)
+150,000
+Jan. 1,
+2023
+Beginning
+balance
+€
+950,000
+€
+0 €(200,000)
+€150,000
+Dec. 31,
+2023
+Depreciation
+237,500
+(237,500)
+Dec. 31,
+2023
+Transfer
+from AOCI
+37,500
+(37,500)
+Dec. 31,
+2023
+Revaluation
+(380,000)
+(237,500)
+(30,000)
+(112,500)
+Dec.
+31,
+2023
+Ending
+balance
+570,000
+0 (430,000)
+0
+ILLUSTRATION 11A.5 Revaluation Summary—2023
+Following the revaluation entry, the carrying amount of the equipment is now €570,000.
+Nokia reports depreciation expense of €237,500 and an impairment loss of €30,000 in
+the income statement (which reduces retained earnings).12 Nokia reports the reversal of
+the previously recorded unrealized gain by recording the transfer to retained earnings of
+€37,500 and the entry to Unrealized Gain on Revaluation—Equipment of €112,500. These
+two entries reduce the balance in AOCI to zero.
+Revaluation—2024: Recovery of Impairment Loss
+Assuming no change in the useful life of the equipment, depreciation expense for Nokia
+in 2024 is €190,000 (€570,000 ÷ 3), and the entry to record depreciation expense is as
+follows.
+December 31, 2024
+Depreciation Expense
+190,000  
+Accumulated Depreciation—Equipment  
+190,000
+(To record depreciation expense)
+ 
+ 
+
+--- Page 896 ---
+Nokia transfers the difference between depreciation based on the revalued carrying
+amount of the equipment and depreciation based on the asset’s original cost from AOCI
+to retained earnings. Depreciation based on the original cost was €200,000 (€1,000,000 ÷
+5) and on fair value is €190,000, or a difference of €10,000 (€200,000 − €190,000). The
+entry to record this transfer is as follows.
+December 31, 2024
+Retained Earnings
+10,000  
+Accumulated Other Comprehensive Income
+ 
+10,000
+(To record transfer from AOCI to Retained Earnings)  
+ 
+At this point, before revaluation in 2024, Nokia has the following amounts related to its
+equipment.
+Equipment
+€570,000
+Less: Accumulated depreciation—equipment
+190,000
+Carrying amount
+€380,000
+Accumulated other comprehensive income
+€ 10,000
+Nokia determines through appraisal that the equipment now has a fair value of €450,000.
+To report the equipment at fair value, Nokia does the following.
+1. Reduces the Accumulated Depreciation—Equipment account of €190,000 to zero.
+2. Reduces the Equipment account by €120,000 (€570,000 − €450,000)—it then is
+reported at its fair value of €450,000.
+3. Records an Unrealized Gain on Revaluation—Equipment for €40,000.
+4. Records a Recovery of Impairment Loss of €30,000.
+The entry to record this transaction is as follows.
+December 31, 2024
+Accumulated Depreciation—Equipment
+190,000  
+Unrealized Gain on Revaluation—Equipment
+ 
+40,000
+Equipment
+ 
+120,000
+Recovery of Impairment Loss
+ 
+30,000
+(To adjust the equipment to fair value and record impairment loss
+recovery)
+ 
+ 
+Illustration 11A.6 provides a summary of the revaluation adjustments for Nokia in
+2024.
+
+--- Page 897 ---
+Date
+Item
+Equipment
+Fair Value
+Accumulated
+Depreciation
+Retained
+Earnings
+Accumulated Other
+Comprehensive Income
+(AOCI)
+Jan. 1,
+2022
+Beginning
+balance
+€1,000,000
+ 
+ 
+€
+0
+Dec. 31,
+2022
+Depreciation  
+€200,000 €(200,000)
+ 
+Dec. 31,
+2022
+Revaluation
+(50,000)
+(200,000)
+150,000
+Dec.
+31,
+2022
+Ending
+balance
+950,000
+0 (200,000)
+150,000
+Jan. 1,
+2023
+Beginning
+balance
+€ 950,000
+€
+0 €(200,000)
+€150,000
+Dec. 31,
+2023
+Depreciation  
+237,500
+(237,500)
+Dec. 31,
+2023
+Transfer
+from AOCI
+ 
+ 
+37,500
+(37,500)
+Dec. 31,
+2023
+Revaluation
+(380,000)
+(237,500)
+(30,000)
+(112,500)
+Dec.
+31,
+2023
+Ending
+balance
+570,000
+0 (430,000)
+0
+Jan. 1,
+2024
+Beginning
+balance
+€ 570,000
+€
+0 €(430,000)
+€
+0
+Dec. 31,
+2024
+Depreciation
+190,000
+(190,000)
+Dec. 31,
+2024
+Transfer
+from AOCI
+(10,000)
+10,000
+Dec. 31,
+2024
+Revaluation
+(120,000)
+(190,000)
+30,000
+40,000
+Dec.
+31,
+2024
+Ending
+balance
+450,000
+0 (600,000)
+50,000
+ILLUSTRATION 11A.6 Revaluation Summary—2024
+Following the revaluation entry, the carrying amount of the equipment is now €450,000.
+Nokia reports depreciation expense of €190,000 and an impairment loss recovery of
+€30,000 in the income statement. Nokia records €40,000 to Unrealized Gain on
+Revaluation—Equipment, which increases AOCI to €50,000.
+On January 2, 2025, Nokia sells the equipment for €450,000. Nokia makes the following
+entry to record this transaction.
+
+--- Page 898 ---
+January 2, 2025
+Cash
+450,000  
+Equipment
+ 
+450,000
+(To record sale of equipment)  
+ 
+Nokia does not record a gain or loss because the carrying amount of the equipment is the
+same as its fair value. Nokia transfers the remaining balance in Accumulated Other
+Comprehensive Income to Retained Earnings because the equipment has been sold. The
+entry to record this transaction is as follows.
+January 2, 2025
+Accumulated Other Comprehensive Income
+50,000  
+Retained Earnings
+ 
+50,000
+(To eliminate the remaining balance in AOCI)  
+ 
+The transfer from Accumulated Other Comprehensive Income does not increase net
+income. Even though the equipment has appreciated in value by €50,000, the company
+does not recognize this gain in net income over the periods that Nokia held the
+equipment.
+Review and Practice
+Key Terms Review
+accelerated depreciation methods
+activity method
+amortization
+asset turnover
+cash-generating unit (CGU)
+component depreciation
+cost depletion
+declining (reducing)-balance method
+depletion,
+depreciation
+depreciable base
+development costs
+diminishing (accelerated)-charge methods
+double-declining-balance method
+exploratory and evaluation (E&E) costs
+fair value less costs to sell
+
+--- Page 899 ---
+full-cost concept
+half-year convention
+impairment
+impairment test
+inadequacy
+liquidating dividends
+mineral resources
+natural resources
+obsolescence
+pre-exploratory expenditures
+profit margin on sales
+recoverable amount
+residual (salvage) value
+restoration costs
+return on assets (ROA)
+revaluation surplus
+straight-line method
+successful-efforts concept
+sum-of-the-years’-digits method
+supersession
+value-in-use
+Learning Objectives Review
+1 Describe depreciation concepts and methods of depreciation.
+Depreciation allocates the cost of tangible assets to expense in a systematic and rational
+manner to those periods expected to benefit from the use of the asset. Three factors
+involved in the depreciation process are (1) determining the depreciable base for the asset,
+(2) estimating service lives, and (3) selecting a method of cost apportionment
+(depreciation).
+Methods of depreciation are as follows.
+1. Activity method: Assumes that depreciation is a function of use or productivity
+instead of the passage of time. The life of the asset is considered in terms of either
+the output it provides, or an input measure such as the number of hours it works.
+2. Straight-line method: Considers depreciation a function of time instead of a function
+of usage. The straight-line procedure is often the most conceptually appropriate when
+
+--- Page 900 ---
+the decline in usefulness is constant from period to period.
+3. Decreasing-charge methods: Provide for a higher depreciation cost in the earlier
+years and lower charges in later periods. The main justification for this approach is
+that the asset is the most productive in its early years.
+2 Identify other depreciation issues.
+IFRS requirements for other depreciation issues are as follows:
+Component depreciation: Each part of an item of property, plant, and equipment that
+is significant to the total cost of the asset must be depreciated separately.
+Partial periods: In computing depreciation expense for partial periods, companies
+must determine depreciation expense for the full year and then prorate this
+depreciation expense between the two periods.
+Replacement of property, plant, and equipment: Depreciation does not provide funds
+for the replacement of property, plant, and equipment. It is simply a non-cash
+expense.
+Revision of depreciation rates: Companies report a change in estimate in the current
+and prospective period. It does not adjust opening balances nor attempt to “catch up”
+for prior periods.
+3 Explain the accounting issues related to asset impairment.
+The process to determine an impairment loss is as follows. (1) Review events and changes
+in circumstances for indicators of impairment. (2) If impairment indicators are present,
+an impairment test must be conducted. The impairment test compares the asset’s
+recoverable amount (the higher of fair value less costs to sell or value-in-use) with its
+carrying amount. If the carrying amount is higher than the recoverable amount, the
+difference is an impairment loss. If the recoverable amount is greater than the carrying
+amount, no impairment is recorded.
+After a company records an impairment loss, the reduced carrying amount of the long-
+lived asset is its new cost basis. Impairment losses may be reversed as long as the write-
+up is never to an amount greater than the carrying amount before impairment. If the
+company expects to dispose of the asset, it should report the impaired asset at the lower-
+of-cost-or-net realizable value. Assets held for disposal are not depreciated.
+4 Discuss the accounting procedures for depletion of mineral resources.
+To account for depletion of mineral resources, companies (1) establish the depletion base
+and (2) write off resource cost. Three types of costs are considered in establishing the
+depletion base: (a) pre-exploratory costs, (b) exploration and evaluation costs, and (c)
+development costs. To write off resource cost, companies normally compute depletion
+using the units-of-production method. Thus, depletion is a function of the number of
+units withdrawn during the period. To obtain a cost per unit of product, the total cost of
+
+--- Page 901 ---
+the mineral resource less residual value is divided by the number of units estimated to be
+in the resource deposit. To compute depletion, this cost per unit is multiplied by the
+number of units withdrawn.
+5 Apply the accounting for revaluations.
+Under IFRS, companies may choose to value long-lived assets at cost or at fair value.
+When companies choose to report their long-lived tangible assets at fair value subsequent
+to acquisition, they account for the change in the fair value by adjusting the appropriate
+asset account and by recording an unrealized gain on the revalued long-lived tangible
+asset, which is recorded in other comprehensive income.
+6 Demonstrate how to report and analyze property, plant, equipment, and
+mineral resources.
+The basis of valuation for property, plant, and equipment and for mineral resources
+should be disclosed along with pledges, liens, and other commitments related to these
+assets. Companies should not offset any liability secured by property, plant, and
+equipment or by mineral resources against these assets, but should report it in the
+liabilities section. When depreciating assets, credit a valuation account normally called
+Accumulated Depreciation. When depleting assets, use an accumulated depletion account,
+or credit the depletion directly to the mineral resource account. Analysis may be
+performed to evaluate the asset turnover, profit margin on sales, and return on assets.
+*7 Illustrate revaluation accounting procedures.
+The general rules for revaluation accounting are as follows. (1) Companies record
+unrealized gains in other comprehensive income (the unrealized gain bypasses net
+income). (2) Companies record losses on impairment (decrease of value below historical
+cost) in net income. Thus, gains on revaluation increase equity but not net income,
+whereas losses decrease equity and net income. (3) If a revaluation increase reverses a
+decrease that was reported as an impairment loss, a company credits the revaluation
+increase in net income; any additional valuation increase beyond the recovery is credited
+to other comprehensive income.
+Enhanced Review and Practice
+Go online for multiple-choice questions with solutions, review exercises with
+solutions, and a full glossary of all key terms.
+Practice Problem
+Norwel SA manufactures miniature circuit boards used in smartphones. On June 5,
+2022, Norwel purchased a circuit board stamping machine at a retail price of €24,000.
+Norwel paid 5% sales tax on this purchase and hired a contractor to build a specially
+
+--- Page 902 ---
+wired platform for the machine for €1,800, to meet safety requirements. Norwel
+estimates the machine will have a 5-year useful life, with a residual value of €2,000 at
+the end of 5 years. Norwel uses straight-line depreciation and employs the “half-year”
+convention in accounting for partial-year depreciation. Norwel’s fiscal year ends on
+December 31.
+Instructions
+a. At what amount should Norwel record the acquisition cost of the machine?
+b. How much depreciation expense should Norwel record in 2022 and in 2023?
+c. At what amount will the machine be reported in Norwel’s statement of financial
+position at December 31, 2023?
+d. During 2024, Norwel’s circuit board business is experiencing significant
+competition from companies with more advanced low-heat circuit boards. As a
+result, at June 30, 2024, Norwel conducts an impairment evaluation of the
+stamping machine purchased in 2022. Norwel determines that value-in-use for the
+machine is estimated to be €13,000 and the fair value of the machine less costs to
+sell, based on prices in the resale market, to be €13,400. Prepare the journal entry
+to record an impairment, if any, on the stamping machine.
+Solution
+a. Historical cost is measured by the cash or cash equivalent price of obtaining the asset
+and bringing it to the location and condition for its intended use. For Norwel, this is:
+Price
+€24,000
+Tax (€24,000 × .05)
+1,200
+Platform
+1,800
+Total
+€27,000
+b. Depreciable base: €27,000 − €2,000 = €25,000
+Depreciation expense: €25,000 ÷ 5 = €5,000 per year
+2022: ½ year = €5,000 × .50 = €2,500
+2023: full year = €5,000
+c. The amount reported on the December 31, 2023, statement of financial position is
+the cost of the asset less accumulated depreciation:
+Machinery
+€27,000
+Less: Accumulated depreciation
+7,500
+Book value
+€19,500
+d. The recoverable amount is €13,400 (which is the greater of value in use and fair
+value less costs to sell). Norwel will record an impairment, based on comparison of
+
+--- Page 903 ---
+the recoverable amount of the machine and platform to the book value. The entry is
+as follows.
+Loss on Impairment (€17,000* − €13,400) 3,600
+Accumulated Depreciation—Machinery
+3,600
+*Cost
+€27,000
+Less: Accumulated depreciation
+ 
+(€2,500 + €5,000 + €2,500)
+10,000
+Book value of machine and platform €17,000
+Exercises, Problems, Problem Solution Walkthrough Videos, Data Analytics
+Activities, and many more assessment tools and resources are available for practice in
+Wiley’s online courseware.
+Note: All asterisked Questions, Exercises, and Problems relate to material in the appendix
+to the chapter.
+Questions
+1. Distinguish among depreciation, depletion, and amortization.
+2. Identify the factors that are relevant in determining the annual depreciation charge,
+and explain whether these factors are determined objectively or whether they are based
+on judgment.
+3. Some believe that accounting depreciation measures the decline in the value of
+property, plant, and equipment. Do you agree? Explain.
+4. Explain how estimation of service lives can result in unrealistically high valuations of
+property, plant, and equipment.
+5. The plant manager of a manufacturing firm suggested in a conference of the company’s
+executives that accountants should speed up depreciation on the machinery in the
+finishing department because improvements were rapidly making those machines
+obsolete, and a depreciation fund big enough to cover their replacement was needed.
+Discuss the accounting concept of depreciation and the effect on a business concern of the
+depreciation recorded for plant assets, paying particular attention to the issues raised by
+the plant manager.
+6. For what reasons are plant assets retired? Define inadequacy, supersession, and
+obsolescence.
+7. What basic questions must be answered before the amount of the depreciation charge
+can be computed?
+8. Workman Group purchased a machine on January 2, 2022, for €800,000. The machine
+has an estimated useful life of 5 years and a residual value of €100,000. Depreciation was
+computed by the 150% declining-balance method. What is the amount of accumulated
+depreciation at December 31, 2023?
+
+--- Page 904 ---
+9. Silverman Company purchased machinery for $162,000 on January 1, 2022. It is
+estimated that the machinery will have a useful life of 20 years, residual value of $15,000,
+production of 84,000 units, and working hours of 42,000. During 2022, the company uses
+the machinery for 14,300 hours, and the machinery produces 20,000 units. Compute
+depreciation under the straight-line, units-of-output, working hours, sum-of-the-years’-
+digits, and double-declining-balance methods.
+10. What are the major factors considered in determining what depreciation method to
+use?
+11. What is component depreciation?
+12. A building that was purchased December 31, 1998, for £2,500,000 was originally
+estimated to have a life of 50 years with no residual value at the end of that time.
+Depreciation has been recorded through 2022. During 2023, an examination of the
+building by an engineering firm discloses that its estimated useful life is 15 years after
+2022. What should be the amount of depreciation for 2023?
+13. Charlie Parker, president of Spinners Company, has recently noted that depreciation
+increases cash provided by operations and therefore depreciation is a good source of
+funds. Do you agree? Discuss.
+14. Andrea Shen purchased a computer for €8,000 on July 1, 2022. She intends to
+depreciate it over 4 years using the double-declining-balance method. Residual value is
+€1,000. Compute depreciation for 2023.
+15. Walkin Inc. is considering the write-down of its long-term plant because of a lack of
+profitability. Explain to the management of Walkin how to determine whether a write-
+down is permitted.
+16. Last year, Wyeth Company recorded an impairment on an asset held for use. Recent
+appraisals indicate that the asset has increased in value. Should Wyeth record this
+recovery in value?
+17. Toro SA has equipment with a carrying amount of €700,000. The value-in-use of the
+equipment is €705,000, and its fair value less cost of disposal is €590,000. The
+equipment is expected to be used in operations in the future. What amount (if any)
+should Toro report as an impairment to its equipment?
+18. Explain how gains or losses on impaired assets should be reported in income.
+19. It has been suggested that plant and equipment could be replaced more quickly if
+depreciation rates for income tax and accounting purposes were substantially increased.
+As a result, business operations would receive the benefit of more modern and more
+efficient plant facilities. Discuss the merits of this proposition.
+20. List (a) the similarities and (b) the differences in the accounting treatments of
+depreciation and cost depletion.
+21. Describe cost depletion.
+22. Explain the difference between exploration and development costs as used in the
+extractive industries.
+
+--- Page 905 ---
+23. In the extractive industries, businesses may pay dividends in excess of net income.
+What is the maximum permissible? How can this practice be justified?
+24. Shumway Oil uses successful-efforts accounting for its exploration and evaluation
+costs but also provides full-cost results as well. Under full-cost results, Shumway Oil
+would have reported retained earnings of $42 million and net income of $4 million.
+Under successful-efforts accounting, retained earnings were $29 million and net income
+was $3 million. Explain the difference between full-costing and successful-efforts
+accounting.
+25. Tanaka Ltd. has land that cost ¥15,000,000. Its fair value on December 31, 2022, is
+¥20,000,000. Tanaka chooses the revaluation model to report its land. Explain how the
+land and its related valuation should be reported.
+26. Why might a company choose not to use revaluation accounting?
+27. Vodafone (GBR) reported net income of £2.8 billion, net sales of £42 billion, and
+average total assets of £140 billion. What is Vodafone’s asset turnover? What is
+Vodafone’s return on assets?
+*28. Mandive Corp., in accordance with IFRS, applies revaluation accounting to plant
+assets with a carrying amount of $400,000, a useful life of 4 years, and no residual value.
+At the end of year 1, independent appraisers determine that the asset has a fair value of
+$360,000. Prepare the entries to record this revaluation and depreciation, assuming
+straight-line depreciation.
+Brief Exercises
+BE11.1 (LO 1) Fernandez Corporation purchased a truck at the beginning of 2022 for
+$50,000. The truck is estimated to have a residual value of $2,000 and a useful life of
+160,000 miles. It was driven 23,000 miles in 2022 and 31,000 miles in 2023. Compute
+depreciation expense for 2022 and 2023.
+BE11.2 (LO 1, 2) Lockard SE purchased machinery on January 1, 2022, for €80,000. The
+machinery is estimated to have a residual value of €8,000 after a useful life of 8 years. (a)
+Compute 2022 depreciation expense using the straight-line method. (b) Compute 2022
+depreciation expense using the straight-line method, assuming the machinery was
+purchased on September 1, 2022.
+BE11.3 (LO 1, 2) Use the information for Lockard SE given in BE11.2. (a) Compute 2022
+depreciation expense using the sum-of-the-years’-digits method. (b) Compute 2022
+depreciation expense using the sum-of-the-years’-digits method, assuming the machinery
+was purchased on April 1, 2022.
+BE11.4 (LO 1, 2) Use the information for Lockard SE given in BE11.2. (a) Compute 2022
+depreciation expense using the double-declining-balance method. (b) Compute 2022
+depreciation expense using the double-declining-balance method, assuming the
+machinery was purchased on October 1, 2022.
+BE11.5 (LO 1) Cominsky Company purchased a machine on July 1, 2023, for $28,000.
+Cominsky paid $200 in title fees and county property tax of $125 on the machine. In
+addition, Cominsky paid $500 shipping charges for delivery, and $475 was paid to a local
+contractor to build and wire a platform for the machine on the plant floor. The machine
+
+--- Page 906 ---
+has an estimated useful life of 6 years with a residual value of $3,000. Determine the
+depreciable base of Cominsky’s new machine. Cominsky uses straight-line depreciation.
+BE11.6 (LO 2) Ortiz SA purchased a piece of equipment that cost R$202,000 on January
+1, 2022. The equipment has the following components.
+Component
+Cost
+Residual Value Estimated Useful Life
+A
+R$70,000
+R$7,000
+10 years
+B
+50,000
+5,000
+5 years
+C
+82,000
+4,000
+12 years
+Compute the depreciation expense for this equipment at December 31, 2022.
+BE11.7 (LO 1, 2) Holt plc purchased a computer for £8,000 on January 1, 2021. Straight-
+line depreciation is used, based on a 5-year life and a £1,000 residual value. In 2023, the
+estimates are revised. Holt now feels the computer will be used until December 31, 2024,
+when it can be sold for £500. Compute the 2023 depreciation.
+BE11.8 (LO 1, 2) Tan Chin Ltd. purchases a building for HK$11,300,000 on January 2,
+2022. An engineer’s report shows that of the total purchase price, HK$11,000,000 should
+be allocated to the building (with a 40-year life, no residual value), HK$150,000 to 15-
+year property, and HK$150,000 to 5-year property. Compute depreciation expense for
+2022 using component depreciation.
+BE11.9 (LO 3) Jurassic Company owns machinery that cost $900,000 and has
+accumulated depreciation of $380,000. The present value of expected future net cash
+flows from the use of the asset are expected to be $500,000. The fair value less cost of
+disposal of the equipment is $400,000. Prepare the journal entry, if any, to record the
+impairment loss.
+BE11.10 (LO 4) Everly Corporation acquires a coal mine at a cost of $400,000.
+Intangible development costs total $100,000. After extraction has occurred, Everly must
+restore the property (estimated fair value of the obligation is $80,000), after which it can
+be sold for $160,000. Everly estimates that 4,000 tons of coal can be extracted. If 700 tons
+are extracted the first year, prepare the journal entry to record depletion.
+*BE11.11 (LO 5, 7) Obihiro Group has equipment with an original cost of ¥500,000,000
+and related accumulated depreciation of ¥100,000,000 on December 31, 2022. The fair
+value of the equipment at December 31, 2022, is ¥650,000,000. The equipment has a
+useful life of 4 years remaining after December 31, 2022, with no residual value. Obihiro
+uses the straight-line method of depreciation. Prepare the entry to (a) record the
+revaluation of the equipment on December 31, 2022, and (b) record depreciation on the
+equipment at December 31, 2023.
+BE11.12 (LO 6) In its annual report, Campbell Soup Company (USA) reports
+beginning-of-the-year total assets of $7,745 million, end-of-the-year total assets of $6,445
+million, total sales of $7,867 million, and net income of $854 million. Compute
+Campbell’s (a) asset turnover and (b) profit margin on sales. (c) Compute Campbell’s
+return on assets using (1) asset turnover and profit margin and (2) net income.
+Exercises
+
+--- Page 907 ---
+E11.1 (LO 1) (Depreciation Computations—SL, SYD, DDB) Lansbury Ltd.
+purchases equipment on January 1, year 1, at a cost of £518,000. The asset is expected to
+have a service life of 12 years and a residual value of £50,000.
+Instructions
+a. Compute the amount of depreciation for each of years 1 through 3 using the straight-
+line depreciation method.
+b. Compute the amount of depreciation for each of years 1 through 3 using the sum-of-
+the-years’-digits method.
+c. Compute the amount of depreciation for each of years 1 through 3 using the double-
+declining-balance method. (In performing your calculations, round constant
+percentage to the nearest one-hundredth of a point and round answers to the nearest
+pound.)
+E11.2 (LO 1) (Depreciation—Conceptual Understanding) Hasselback Company
+acquired a plant asset at the beginning of year 1. The asset has an estimated service life of
+5 years. An employee has prepared depreciation schedules for this asset using three
+different methods to compare the results of using one method with the results of using
+other methods. You are to assume that the following schedules have been correctly
+prepared for this asset using (1) the straight-line method, (2) the sum-of-the-years’-digits
+method, and (3) the double-declining-balance method.
+Year Straight-Line Sum-of-the-Years’-Digits Double-Declining-Balance
+1
+$9,000
+$15,000
+$20,000
+2
+9,000
+12,000
+12,000
+3
+9,000
+9,000
+7,200
+4
+9,000
+6,000
+4,320
+5
+9,000
+3,000
+1,480
+Total
+$45,000
+$45,000
+$45,000
+Instructions
+Answer the following questions.
+a. What is the cost of the asset being depreciated?
+b. What amount, if any, was used in the depreciation calculations for the residual value
+for this asset?
+c. Which method will produce the highest charge to income in year 1?
+d. Which method will produce the highest charge to income in year 4?
+e. Which method will produce the highest book value for the asset at the end of year 3?
+f. If the asset is sold at the end of year 3, which method would yield the highest gain (or
+lowest loss) on disposal of the asset?
+
+--- Page 908 ---
+E11.3 (LO 1, 2) (Depreciation Computations—SYD, DDB—Partial Periods)
+Cosby AG purchased a new plant asset on April 1, 2022, at a cost of €774,000. It was
+estimated to have a service life of 20 years and a residual value of €60,000. Cosby’s
+accounting period is the calendar year.
+Instructions
+a. Compute the depreciation for this asset for 2022 and 2023 using the sum-of-the-
+years’-digits method.
+b. Compute the depreciation for this asset for 2022 and 2023 using the double-
+declining-balance method.
+E11.4 (LO 1, 2) (Depreciation Computations—Five Methods) Wenner Furnace
+Corp. purchased machinery for $279,000 on May 1, 2022. It is estimated that it will have a
+useful life of 10 years, residual value of $15,000, production of 240,000 units, and
+working hours of 25,000. During 2023, Wenner Corp. uses the machinery for 2,650
+hours, and the machinery produces 25,500 units.
+Instructions
+From the information given, compute the depreciation charge for 2023 under each of the
+following methods. (Round to the nearest dollar.)
+a. Straight-line.
+b. Units-of-output.
+c. Working hours.
+d. Sum-of-the-years’-digits.
+e. Double-declining-balance.
+E11.5 (LO 1, 2) (Depreciation Computations—Four Methods) Maserati SpA
+purchased a new machine for its assembly process on August 1, 2022. The cost of this
+machine was €150,000. The company estimated that the machine would have a residual
+value of €24,000 at the end of its service life. Its life is estimated at 5 years, and its
+working hours are estimated at 21,000 hours. Year-end is December 31.
+Instructions
+Compute the depreciation expense under the following methods. Each of the following
+should be considered unrelated.
+a. Straight-line depreciation for 2022.
+b. Activity method for 2023, assuming that machine usage was 800 hours.
+c. Sum-of-the-years’-digits for 2023.
+d. Double-declining-balance for 2023.
+E11.6 (LO 1, 2) (Depreciation Computations—Five Methods, Partial Periods)
+Agazzi Company purchased equipment for $304,000 on October 1, 2022. It is estimated
+
+--- Page 909 ---
+that the equipment will have a useful life of 8 years and a residual value of $16,000.
+Estimated production is 40,000 units, and estimated working hours are 20,000. During
+2022, Agazzi uses the equipment for 525 hours, and the equipment produces 1,000 units.
+Instructions
+Compute depreciation expense under each of the following methods. Agazzi is on a
+calendar-year basis ending December 31.
+a. Straight-line method for 2022.
+b. Activity method (units of output) for 2022.
+c. Activity method (working hours) for 2022.
+d. Sum-of-the-years’-digits method for 2024.
+e. Double-declining-balance method for 2023.
+E11.7 (LO 1, 2) (Different Methods of Depreciation) Jeeter Industries presents you
+with the following information.
+Description
+Date
+Purchased
+Cost
+Residual
+Value
+Life
+in
+Years
+Depreciation
+Method
+Accumulated
+Depreciation
+to 12/31/22
+Depreciation
+for 2023
+Machine A
+2/12/21
+$159,000 $16,000
+10
+(a)
+$37,700
+(b)
+Machine B
+8/15/20
+(c)
+21,000
+5
+SL
+29,000
+(d)
+Machine C
+7/21/19
+88,000
+28,500
+8
+DDB
+(e)
+(f)
+Machine D 10/12/(g) 219,000
+69,000
+5
+SYD
+70,000
+(h)
+Instructions
+Complete the table for the year ended December 31, 2023. The company depreciates all
+assets using the half-year convention.
+E11.8 (LO 1, 2) (Depreciation Computation—Replacement, Non-Monetary
+Exchange) Goldman SA bought a machine on June 1, 2020, for €31,800, f.o.b. the place
+of manufacture. Freight to the point where it was set up was €200, and €500 was
+expended to install it. The machine’s useful life was estimated at 10 years, with a residual
+value of €2,500. On June 1, 2021, an essential part of the machine is replaced, at a cost of
+€2,700, with one designed to reduce the cost of operating the machine. The book value of
+the old part is estimated to be €900.
+On June 1, 2024, the company buys a new machine of greater capacity for €35,000,
+delivered, trading in the old machine, which has a fair value and trade-in allowance of
+€20,000. To prepare the old machine for removal from the plant cost €75, and
+expenditures to install the new one were €1,500. It is estimated that the new machine has
+a useful life of 10 years, with a residual value of €4,000 at the end of that time. The
+exchange has commercial substance.
+Instructions
+
+--- Page 910 ---
+Assuming that depreciation is to be computed on the straight-line basis, compute the
+annual depreciation on the new equipment that should be provided for the fiscal year
+beginning June 1, 2024.
+E11.9 (LO 1, 2) (Component Depreciation) Morrow Manufacturing has equipment
+that is comprised of five components (amounts in thousands).
+Component
+Cost
+Estimated Residual Estimated Life (in years)
+A
+¥40,500
+¥5,500
+10
+B
+33,600
+4,800
+9
+C
+36,000
+3,600
+8
+D
+19,000
+1,500
+7
+E
+23,500
+2,500
+6
+Instructions
+a. Prepare the adjusting entry necessary at the end of the year to record depreciation for
+the year. Assume that Morrow uses straight-line depreciation.
+b. Prepare the entry to record the replacement of component B for cash of ¥40,000. It
+was used for 6 years.
+E11.10 (LO 1) (Depreciation Computations, SYD) Pippen A.Ş. purchased a piece of
+equipment at the beginning of 2019. The equipment cost 502,000. It has an estimated
+service life of 8 years and an expected residual value of 70,000. The sum-of-the-years’-
+digits method of depreciation is being used. Someone has already correctly prepared a
+depreciation schedule for this asset. This schedule shows that 60,000 will be depreciated
+for a particular calendar year.
+Instructions
+Show calculations to determine for what particular year the depreciation amount for this
+asset will be 60,000.
+E11.11 (LO 1, 2) (Depreciation—Change in Estimate) Machinery purchased for
+$52,000 by Carver Co. in 2018 was originally estimated to have a life of 8 years with a
+residual value of $4,000 at the end of that time. Depreciation has been entered for 5 years
+on this basis. In 2023, it is determined that the total estimated life should be 10 years
+with a residual value of $4,500 at the end of that time. Assume straight-line depreciation.
+Instructions
+a. Prepare the entry to correct the prior years’ depreciation, if necessary.
+b. Prepare the entry to record depreciation for 2023.
+E11.12 (LO 1, 2) (Depreciation Computation—Addition, Change in Estimate) In
+1995, Abraham AS completed the construction of a building at a cost of €1,900,000 and
+first occupied it in January 1996. It was estimated that the building would have a useful
+life of 40 years and a residual value of €60,000 at the end of that time.
+
+--- Page 911 ---
+Early in 2006, an addition to the building was constructed at a cost of €470,000. At that
+time it was estimated that the remaining life of the building would be, as originally
+estimated, an additional 30 years, and that the addition would have a life of 30 years and a
+residual value of €20,000.
+In 2024, it is determined that the probable life of the building and addition will extend to
+the end of 2055, or 20 years beyond the original estimate.
+Instructions
+a. Using the straight-line method, compute the annual depreciation that would have
+been charged from 1996 through 2005.
+b. Compute the annual depreciation that would have been charged from 2006 through
+2023.
+c. Prepare the entry, if necessary, to adjust the account balances because of the revision
+of the estimated life in 2024.
+d. Compute the annual depreciation to be charged beginning with 2024.
+E11.13 (LO 1, 2) (Depreciation—Replacement, Change in Estimate) Peloton
+Company constructed a building at a cost of $2,400,000 and occupied it beginning in
+January 2003. It was estimated at that time that its life would be 40 years, with no
+residual value.
+In January 2023, a new roof was installed at a cost of $300,000, and it was estimated then
+that the building would have a useful life of 25 years from that date. The cost of the old
+roof was $180,000.
+Instructions
+a. What amount of depreciation should have been charged annually from the years
+2003 to 2022? (Assume straight-line depreciation.)
+b. What entry should be made in 2023 to record the replacement of the roof?
+c. Prepare the entry in January 2023 to record the revision in the estimated life of the
+building, if necessary.
+d. What amount of depreciation should be charged for the year 2023?
+E11.14 (LO 1, 2) (Error Analysis and Depreciation, SL and SYD) Kawasaki Ltd.
+shows the following entries in its Equipment account for 2023. All amounts (in yen, in
+thousands) are based on historical cost.
+Equipment
+Jan. 1
+Balance
+133,000
+June
+30
+Cost of equipment sold
+(purchased prior to 2023)
+ 
+Aug.
+10
+Purchases
+32,000
+ 
+ 
+ 
+12
+Freight on equipment
+purchased
+700
+ 
+ 
+23,000
+
+--- Page 912 ---
+25 Installation costs
+2,500  
+ 
+ 
+Nov.
+10
+Repairs
+500
+ 
+ 
+ 
+Instructions
+a. Prepare any correcting entries necessary.
+b. Assuming that depreciation is to be charged for a full year on the ending balance in
+the asset account, compute the proper depreciation charge for 2023 under each of the
+methods listed below. Assume an estimated life of 10 years, with no residual value.
+The machinery included in the January 1, 2023, balance was purchased in 2021.
+1. Straight-line.
+2. Sum-of-the-years’-digits.
+E11.15 (LO 1, 2) (Depreciation for Fractional Periods) On March 10, 2024, No
+Doubt Company sells equipment that it purchased for $240,000 on August 20, 2017. It
+was originally estimated that the equipment would have a life of 12 years and a residual
+value of $21,000 at the end of that time, and depreciation has been computed on that
+basis. The company uses the straight-line method of depreciation.
+Instructions
+a. Compute the depreciation charge on this equipment for 2017 and 2024, as well as the
+total charge for the period from 2018 to 2023, inclusive, under each of the six
+following assumptions with respect to partial periods.
+1. Depreciation is computed for the exact period of time during which the asset is
+owned. (Use 365 days for the base.)
+2. Depreciation is computed for the full year on the January 1 balance in the asset
+account.
+3. Depreciation is computed for the full year on the December 31 balance in the
+asset account.
+4. Depreciation for one-half year is charged on plant assets acquired or disposed of
+during the year.
+5. Depreciation is computed on additions from the beginning of the month
+following acquisition and on disposals to the beginning of the month following
+disposal.
+6. Depreciation is computed for a full period on all assets in use for over one-half
+year, and no depreciation is charged on assets in use for less than one-half year.
+b. Briefly evaluate the methods above, considering them from the point of view of basic
+accounting theory as well as simplicity of application.
+E11.16 (LO 2) (Component Depreciation) Brazil Group purchases a tractor at a cost
+of €50,000 on January 2, 2022. Individual components of the tractor and useful lives are
+as follows (zero residual value).
+
+--- Page 913 ---
+ 
+Cost
+Useful Lives
+Tires
+€ 6,000
+2 years
+Transmission 10,000
+5 years
+Tractor
+34,000
+10 years
+Instructions
+a. Compute depreciation expense for 2022, assuming Brazil Group depreciates the
+tractor as a single unit.
+b. Compute depreciation expense for 2022, assuming Brazil Group uses component
+depreciation.
+c. Why might a company want to use component depreciation to depreciate its assets?
+E11.17 (LO 2) (Component Depreciation) Presented below are the components
+related to an office block that Veenman NV is considering purchasing for €10,000,000.
+Component
+Useful Life
+Value
+Land
+Indefinite life €3,000,000
+Building structure
+60-year life
+4,200,000
+Building engineering
+30-year life
+2,100,000
+Building external works
+30-year life
+700,000
+Instructions
+a. Compute depreciation expense for 2022, assuming that Veenman uses component
+depreciation (zero residual value).
+b. Assume that the building engineering was replaced in 20 years at a cost of
+€2,300,000. Prepare the entry to record the replacement of the old component with
+the new component.
+E11.18 (LO 3) (Impairment) Presented below is information related to equipment
+owned by Pujols SpA at December 31, 2022.
+Cost
+€9,000,000
+Accumulated depreciation to date
+1,000,000
+Value-in-use
+7,000,000
+Fair value less cost of disposal
+4,400,000
+Assume that Pujols will continue to use this asset in the future. As of December 31, 2022,
+the equipment has a remaining useful life of 4 years.
+Instructions
+a. Prepare the journal entry (if any) to record the impairment of the asset at December
+31, 2022.
+b. Prepare the journal entry to record depreciation expense for 2023.
+
+--- Page 914 ---
+c. The recoverable amount of the equipment at December 31, 2023, is €6,000,000.
+Prepare the journal entry (if any) necessary to record this increase.
+E11.19 (LO 3) (Impairment) Assume the same information as E11.18, except that
+Pujols intends to dispose of the equipment in the coming year.
+Instructions
+a. Prepare the journal entry (if any) to record the impairment of the asset at December
+31, 2022.
+b. Prepare the journal entry (if any) to record depreciation expense for 2023.
+c. The asset was not sold by December 31, 2023. The fair value of the equipment on that
+date is €5,100,000. Prepare the journal entry (if any) necessary to record this
+increase. It is expected that the cost of disposal is €20,000.
+E11.20 (LO 3) (Impairment) The management of Sprague Inc. was discussing whether
+certain equipment should be written off as a charge to current operations because of
+obsolescence. This equipment has a cost of $900,000 with depreciation to date of
+$400,000 as of December 31, 2022. On December 31, 2022, management projected the
+present value of future net cash flows from this equipment to be $300,000 and its fair
+value less cost of disposal to be $280,000. The company intends to use this equipment in
+the future. The remaining useful life of the equipment is 4 years.
+Instructions
+a. Prepare the journal entry (if any) to record the impairment at December 31, 2022.
+b. Where should the gain or loss (if any) on the write-down be reported in the income
+statement?
+c. At December 31, 2023, the equipment’s recoverable amount is $270,000. Prepare the
+journal entry (if any).
+d. What accounting issues did management face in accounting for this impairment?
+E11.21 (LO 4) (Depletion Computations—Oil) Federer Drilling has leased property
+on which oil has been discovered. Wells on this property produced 18,000 barrels of oil
+during the past year that sold at an average sales price of €65 per barrel. Total oil
+resources of this property are estimated to be 250,000 barrels.
+The lease provided for an outright payment of €600,000 to the lessor (owner) before
+drilling could be commenced and an annual rental of €31,500. A premium of 5% of the
+sales price of every barrel of oil removed is to be paid annually to the lessor. In addition,
+Federer (lessee) is to clean up all the waste and debris from drilling and to bear the costs
+of reconditioning the land for farming when the wells are abandoned. The estimated fair
+value, at the time of the lease, of this clean-up and reconditioning is €30,000.
+Instructions
+From the provisions of the lease agreement, compute the cost per barrel for the past year,
+exclusive of operating costs, to Federer Drilling.
+
+--- Page 915 ---
+E11.22 (LO 4) (Depletion Computations—Mining) Henrik Mining purchased land
+on February 1, 2022, at a cost of €1,250,000. It estimated that a total of 60,000 tons of
+mineral was available for mining. After it has removed all the mineral resources, the
+company will be required to restore the property to its previous state because of strict
+environmental protection laws. It estimates the fair value of this restoration obligation at
+€90,000. It believes it will be able to sell the property afterwards for €100,000. It
+incurred developmental costs of €200,000 before it was able to do any mining. In 2022,
+resources removed totaled 30,000 tons. The company sold 24,000 tons.
+Instructions
+Compute the following information for 2022.
+a. Per unit mineral cost.
+b. Total mineral cost of December 31, 2022, inventory.
+c. Total mineral cost in cost of goods sold at December 31, 2022.
+E11.23 (LO 4) (Depletion Computations—Minerals) At the beginning of 2022,
+Callaway Company acquired a mine for $850,000. Of this amount, $100,000 was ascribed
+to the land value and the remaining portion to the minerals in the mine. Surveys
+conducted by geologists have indicated that approximately 12,000,000 units of the ore
+appear to be in the mine. Callaway incurred $170,000 of development costs associated
+with this mine prior to any extraction of minerals. It also determined that the fair value of
+its obligation to prepare the land for an alternative use when all of the ore has been
+removed was $40,000. During 2022, 2,500,000 units of ore were extracted and 2,200,000
+of these units were sold.
+Instructions
+Compute the following.
+a. The total amount of depletion for 2022.
+b. The amount that is charged as an expense for 2022 for the cost of the minerals sold
+during 2022.
+E11.24 (LO 5) (Revaluation Accounting) Croatia Company purchased land in 2022
+for $300,000. The land’s fair value at the end of 2022 is $320,000; at the end of 2023,
+$280,000; and at the end of 2024, $305,000.
+Instructions
+Prepare the journal entries to record the land using revaluation accounting for 2022–
+2024.
+E11.25 (LO 5) (Revaluation Accounting) Pengo Ltd. owns land that it purchased at a
+cost of ¥400 million in 2020. The company chooses to use revaluation accounting to
+account for the land. The land’s value fluctuates as follows (all amounts in thousands as
+of December 31): 2020, ¥450,000; 2021, ¥360,000; 2022, ¥385,000; 2023, ¥410,000; and
+2024, ¥460,000.
+
+--- Page 916 ---
+Instructions
+Complete the following table.
+Value at
+December 31
+Other
+Comprehensive
+Income
+Accumulated Other
+Comprehensive Income
+Recognized in Net
+Income
+2020
+ 
+ 
+ 
+2021
+ 
+ 
+ 
+2022
+ 
+ 
+ 
+2023
+ 
+ 
+ 
+2024
+ 
+ 
+ 
+E11.26 (LO 5) (Revaluation Accounting) Use the information in E11.25.
+Instructions
+Prepare the journal entries to record the revaluation of the land in each year.
+E11.27 (LO 5) (Revaluation Accounting) Falcetto Company acquired equipment on
+January 1, 2021, for €12,000. Falcetto elects to value this class of equipment using
+revaluation accounting. This equipment is being depreciated on a straight-line basis over
+its 6-year useful life. There is no residual value at the end of the 6-year period. The
+appraised value of the equipment approximates the carrying amount at December 31,
+2021 and 2023. On December 31, 2022, the fair value of the equipment is determined to
+be €7,000.
+Instructions
+a. Prepare the journal entries for 2021 related to the equipment.
+b. Prepare the journal entries for 2022 related to the equipment.
+c. Determine the amount of depreciation expense that Falcetto will record on the
+equipment in 2023.
+E11.28 (LO 6) 
+ (Ratio Analysis) A recent annual report of Eastman plc
+contains the following information.
+(in millions)
+Current Year-End Prior Year-End
+Total assets
+£13,659
+£14,320
+Total liabilities
+10,630
+12,932
+Net sales
+10,301
+10,568
+Net income
+676
+(601)
+Instructions
+Compute the following ratios for Eastman for the current year. (Round to three decimal
+places.)
+
+--- Page 917 ---
+a. Asset turnover.
+b. Return on assets.
+c. Profit margin on sales.
+d. How can the asset turnover be used to compute the return on assets?
+*E11.29 (LO 5, 7) (Revaluation Accounting) Su Ltd. acquired an excavator on
+January 1, 2020, for ¥10,000 (all amounts in thousands). This excavator represents the
+company’s only piece of equipment, and Su chooses revaluation accounting. This
+excavator is being depreciated on a straight-line basis over its 10-year useful life. There is
+no residual value at the end of the 10-year period. The appraised value of the excavator
+approximates the carrying value at December 31, 2020 and 2022. On December 31, 2021,
+the fair value is determined to be ¥8,800; on December 31, 2023, the fair value is
+determined to be ¥5,000.
+Instructions
+a. Show all journal entries for each year-end from 2020 through 2023.
+b. Su also owns some property and buildings for which revaluation accounting is not
+used. Briefly discuss why Su might not use revaluation accounting for these assets.
+Problems
+P11.1 (LO 1, 2) 
+ (Depreciation for Partial Period—SL, SYD, and DDB)
+Alladin Company purchased Machine #201 on May 1, 2022. The following information
+relating to Machine #201 was gathered at the end of May.
+Price
+$85,000
+Credit terms
+2/10, n/30
+Freight-in costs
+$ 800
+Preparation and installation costs
+$ 3,800
+Labor costs during regular production operations
+$10,500
+It was expected that the machine could be used for 10 years, after which the residual value
+would be zero. Alladin intends to use the machine for only 8 years, however, after which it
+expects to be able to sell it for $1,500. The invoice for Machine #201 was paid May 5,
+2022. Alladin uses the calendar year as the basis for the preparation of financial
+statements.
+Instructions
+a. Compute the depreciation expense for the years indicated using the following
+methods. (Round to the nearest dollar.)
+1. Straight-line method for 2022.
+2. Sum-of-the-years’-digits method for 2023.
+3. Double-declining-balance method for 2022.
+
+--- Page 918 ---
+b. Suppose Kate Crow, the president of Alladin, tells you that because the company is a
+new organization, she expects it will be several years before production and sales
+reach optimum levels. She asks you to recommend a depreciation method that will
+allocate less of the company’s depreciation expense to the early years and more to
+later years of the assets’ lives. What method would you recommend?
+P11.2 (LO 1, 2) (Depreciation for Partial Periods—SL, Act., SYD, and DDB) The
+cost of equipment purchased by Charleston, SA, on June 1, 2022, is €89,000. It is
+estimated that the machine will have a €5,000 residual value at the end of its service life.
+Its service life is estimated at 7 years, its total working hours are estimated at 42,000, and
+its total production is estimated at 525,000 units. During 2022, the machine was operated
+6,000 hours and produced 55,000 units. During 2023, the machine was operated 5,500
+hours and produced 48,000 units.
+Instructions
+Compute depreciation expense on the machine for the year ending December 31, 2022,
+and the year ending December 31, 2023, using the following methods.
+a. Straight-line.
+b. Units-of-output.
+c. Working hours.
+d. Sum-of-the-years’-digits.
+e. Declining-balance (twice the straight-line rate).
+P11.3 (LO 1, 2) (Depreciation—SYD, Act., SL, and DDB) The following data relate
+to the Plant Assets account of Eshkol, Ltd. at December 31, 2022.
+ 
+Plant Assets
+ 
+A
+B
+C
+D
+Original cost
+£46,000
+£51,000
+£80,000
+£80,000
+Year purchased
+2017
+2018
+2019
+2021
+Useful life
+10 years
+15,000
+hours
+15 years
+10 years
+Residual value
+£ 3,100
+£ 3,000
+£ 5,000
+£ 5,000
+Depreciation method
+Sum-of-the-years’-
+digits
+Activity
+Straight-
+line
+Double-declining-
+balance
+Accum. Depr. through
+2022*
+£31,200
+£35,200
+£15,000
+£16,000
+*For Assets A, C and D, in the year an asset is purchased, Eshkol does not record any depreciation expense on the asset.
+In the year an asset is retired or traded in, Eshkol takes a full year’s depreciation on the asset.
+The following transactions occurred during 2023.
+
+--- Page 919 ---
+a. On May 5, Asset A was sold for £13,000 cash. The company’s bookkeeper recorded
+this retirement in the following manner in the cash receipts journal.
+Cash
+13,000  
+Plant Assets (Asset A)  
+13,000
+b. On December 31, it was determined that Asset B had been used 2,100 hours during
+2023.
+c. On December 31, before computing depreciation expense on Asset C, the
+management of Eshkol, Inc. decided the useful life remaining from January 1, 2023,
+was 10 years.
+d. On December 31, it was discovered that a plant asset purchased in 2022 had been
+expensed completely in that year. This asset cost £28,000 and has a useful life of 10
+years and no residual value. Management has decided to use the double-declining-
+balance method for this asset, which can be referred to as “Asset E.”
+Instructions
+Prepare the necessary correcting entries for the year 2023. Record the appropriate
+depreciation expense on the above-mentioned assets. (Ignore taxes.)
+P11.4 (LO 1, 2) (Depreciation and Error Analysis) A depreciation schedule for semi-
+trucks owned by Ichiro Manufacturing was requested by your auditor soon after
+December 31, 2023, showing the additions, retirements, depreciation, and other data
+affecting the income of the company in the 4-year period 2020 to 2023, inclusive. The
+following data were ascertained (amounts in thousands).
+Balance of Trucks account, Jan. 1, 2020
+ 
+Truck No. 1 purchased Jan. 1, 2017, cost ¥18,000
+Truck No. 2 purchased July 1, 2017, cost
+22,000
+Truck No. 3 purchased Jan. 1, 2019, cost
+30,000
+Truck No. 4 purchased July 1, 2019, cost
+24,000
+Balance, Jan. 1, 2020
+¥94,000
+The Accumulated Depreciation—Trucks account previously adjusted to January 1, 2020,
+and entered in the ledger, had a balance on that date of ¥30,200 (depreciation on the four
+trucks from the respective dates of purchase, based on a 5-year life, no residual value). No
+charges had been made against the account before January 1, 2020.
+Transactions between January 1, 2020, and December 31, 2023, which were recorded in
+the ledger, are as follows.
+July
+1,
+2020
+Truck No. 3 was traded for a larger one (No. 5), the agreed purchase price of which
+was ¥40,000. Ichiro paid the automobile dealer ¥22,000 cash on the transaction.
+The entry was a debit to Trucks and a credit to Cash, ¥22,000. The transaction has
+commercial substance.
+Jan.
+1,
+Truck No. 1 was sold for ¥3,500 cash; entry debited Cash and credited Trucks,
+¥3,500.
+
+--- Page 920 ---
+2021
+July
+1,
+2022
+A new truck (No. 6) was acquired for ¥42,000 cash and was charged at that amount
+to the Trucks account. (Assume Truck No. 2 was not retired.)
+July
+1,
+2022
+Truck No. 4 was damaged in a wreck to such an extent that it was sold as junk for
+¥700 cash. Ichiro received ¥2,500 from the insurance company. The entry made by
+the bookkeeper was a debit to Cash, ¥3,200, and credits to Miscellaneous Income
+¥700 and Trucks ¥2,500.
+Entries for depreciation (using the straight-line method) had been made at the close of
+each year as follows: 2020, ¥21,000; 2021, ¥22,500; 2022, ¥25,050; and 2023, ¥30,400.
+Instructions
+a. For each of the 4 years, compute separately the increase or decrease in net income
+arising from the company’s errors in determining or entering depreciation or in
+recording transactions affecting trucks, ignoring income tax considerations.
+b. Prepare one compound journal entry as of December 31, 2023, for adjustment of the
+Trucks account to reflect the correct balances as revealed by your schedule, assuming
+that the books have not been closed for 2023.
+P11.5 (LO 1, 2, 5) 
+ (Comprehensive Property, Plant, and Equipment
+Problem) Darby Sporting Goods Plc has seen increased demand for its products over the
+last several years. The last two Olympic Games greatly increased the popularity of
+basketball around the world. As a result, a European sports retailing consortium entered
+into an agreement with Darby’s Roundball Division to purchase basketballs and other
+accessories on an increasing basis over the next 5 years.
+To be able to meet the quantity commitments of this agreement, Darby had to obtain
+additional manufacturing capacity. A real estate firm located an available factory in close
+proximity to Darby’s Roundball manufacturing facility, and Darby agreed to purchase the
+factory and used machinery from Quay Athletic Equipment Company on October 1, 2021.
+Renovations were necessary to convert the factory for Darby’s manufacturing use.
+The terms of the agreement required Darby to pay Quay £50,000 when renovations
+started on January 1, 2022, with the balance to be paid as renovations were completed.
+The overall purchase price for the factory and machinery was £400,000. The building
+renovations were contracted to Malone Construction at £100,000. The payments made, as
+renovations progressed during 2022, are shown below. The factory was placed in service
+on January 1, 2023.
+ 
+1/1
+4/1
+10/1
+12/31
+Quay
+£50,000 £90,000 £110,000 £150,000
+Malone  
+30,000
+30,000
+40,000
+On January 1, 2022, Darby secured a £500,000 line-of-credit with a 12% interest rate to
+finance the purchase cost of the factory and machinery, and the renovation costs. Darby
+
+--- Page 921 ---
+drew down on the line-of-credit to meet the payment schedule shown above; this was
+Darby’s only outstanding loan during 2022.
+Bob Sprague, Darby’s controller, will capitalize the maximum allowable borrowing costs
+for this project. Darby’s policy regarding purchases of this nature is to use the appraisal
+value of the land for book purposes and to prorate the balance of the purchase price over
+the remaining items. The building had originally cost Quay £300,000 and had a net book
+value of £50,000, while the machinery originally cost £125,000 and had a net book value
+of £40,000 on the date of sale. The land was recorded on Quay’s books at £40,000. An
+appraisal, conducted by independent appraisers at the time of acquisition, valued the land
+at £290,000, the building at £105,000, and the machinery at £45,000.
+Angie Justice, chief engineer, estimated that the renovated plant would be used for 15
+years, with an estimated residual value of £30,000. Justice estimated that the productive
+machinery would have a remaining useful life of 5 years and a residual value of £3,000.
+Darby’s depreciation policy specifies the 200% declining-balance method for machinery
+and the 150% declining-balance method for the plant. One-half year’s depreciation is
+taken in the year the plant is placed in service and one-half year is allowed when the
+property is disposed of or retired. Darby uses a 360-day year for calculating interest costs.
+Instructions
+a. Determine the amounts to be recorded on the books of Darby Sporting Goods as of
+December 31, 2022, for each of the following properties acquired from Quay Athletic
+Equipment Company.
+1. Land.
+2. Building.
+3. Machinery.
+b. Calculate Darby Sporting Goods’ 2023 depreciation expense, for book purposes, for
+each of the properties acquired from Quay Athletic Equipment Company.
+c. Discuss the arguments for and against the capitalization of borrowing costs.
+d. Given the enhancements to the building, Darby thinks it would make its financial
+position look better if it used revaluation accounting. Advise Darby management on
+whether the company can use revaluation accounting for this building. Should Darby
+management use revaluation accounting? Briefly discuss some of the reasons for and
+against use of revaluation accounting.
+P11.6 (LO 1, 2) 
+ (Comprehensive Depreciation Computations)
+Kohlbeck Corporation, a manufacturer of steel products, began operations on October 1,
+2021. The accounting department of Kohlbeck has started the plant asset and depreciation
+schedule (presented after the following information). You have been asked to assist in
+completing this schedule. In addition to ascertaining that the data already on the schedule
+are correct, you have obtained the following information from the company’s records and
+personnel.
+
+--- Page 922 ---
+1. Depreciation is computed from the first of the month of acquisition to the first of the
+month of disposition.
+2. Land A and Building A were acquired from a predecessor company. Kohlbeck paid
+$800,000 for the land and building together. At the time of acquisition, the land had
+an appraised value of $90,000, and the building had an appraised value of $810,000.
+3. Land B was acquired on October 2, 2021, in exchange for 2,500 newly issued shares
+of Kohlbeck’s ordinary shares. At the date of acquisition, the shares had a par value of
+$5 per share and a fair value of $30 per share. During October 2021, Kohlbeck paid
+$16,000 to demolish an existing building on this land so it could construct a new
+building.
+4. Construction of Building B on the newly acquired land began on October 1, 2022. By
+September 30, 2023, Kohlbeck had paid $320,000 of the estimated total construction
+costs of $450,000. It is estimated that the building will be completed and occupied by
+July 2024.
+5. A grant for certain equipment was given to the company by the local community. An
+independent appraisal of the equipment when granted placed the fair value at
+$40,000 and the residual value at $3,000. The grant is recorded as deferred grant
+revenue.
+6. Machinery A’s total cost of $182,900 includes installation expense of $600 and
+normal repairs and maintenance of $14,900. Residual value is estimated at $6,000.
+Machinery A was sold on February 1, 2023.
+7. On October 1, 2022, Machinery B was acquired with a down payment of $5,740 and
+the remaining payments to be made in 11 annual installments of $6,000 each
+beginning October 1, 2022. The prevailing interest rate was 8%. The following data
+were abstracted from present value tables (rounded).
+Present value of $1.00 at 8% Present value of an ordinary annuity of $1.00 at 8%
+10 years
+.463
+10 years
+6.710
+11 years
+.429
+11 years
+7.139
+15 years
+.315
+15 years
+8.559
+Kohlbeck Corporation
+Plant Asset and Depreciation Schedule
+For Fiscal Years Ended September 30, 2022, and September 30, 2023
+Assets
+Acquisition
+Date
+Cost
+Residual
+Value
+Depreciation
+Method
+Estimated
+Life in
+Years
+Depreciation
+Expense Year
+Ended September
+30
+2022
+2023
+Land A
+October 1,
+2021
+$ (1)
+N/A
+N/A
+N/A
+N/A
+N/A
+Building A
+October 1,
+(2)
+$40,000 Straight-line
+(3)
+$13,600
+(4)
+
+--- Page 923 ---
+2021
+Land B
+October 2,
+2021
+(5)
+N/A
+N/A
+N/A
+N/A
+N/A
+Building B
+Under
+Construction
+320,000
+to date
+—
+Straight-line
+30
+—
+(6)
+Donated
+Equipment
+October 2,
+2021
+(7)
+3,000
+150%
+declining-
+balance
+10
+(8)
+(9)
+Machinery
+A
+October 2,
+2021
+(10)
+6,000
+Sum-of-the-
+years’-digits
+8
+(11)
+(12)
+Machinery
+B
+October 1,
+2022
+(13)
+—
+Straight-line
+20
+—
+(14)
+N/A—Not applicable
+Instructions
+For each numbered item on the schedule above, supply the correct amount. (Round each
+answer to the nearest dollar.)
+P11.7 (LO 1, 2) (Depreciation for Partial Periods—SL, Act., SYD, and DDB) On
+January 1, 2020, a machine was purchased for $90,000. The machine has an estimated
+residual value of $6,000 and an estimated useful life of 5 years. The machine can operate
+for 100,000 hours before it needs to be replaced. The company closed its books on
+December 31 and operates the machine as follows: 2020, 20,000 hours; 2021, 25,000
+hours; 2022, 15,000 hours; 2023, 30,000 hours; and 2024, 10,000 hours.
+Instructions
+a. Compute the annual depreciation charges over the machine’s life assuming a
+December 31 year-end for each of the following depreciation methods.
+1. Straight-line method.
+2. Activity method.
+3. Sum-of-the-years’-digits method.
+4. Double-declining-balance method.
+b. Assume a fiscal year-end of September 30. Compute the annual depreciation charges
+over the asset’s life applying each of the following methods.
+1. Straight-line method.
+2. Sum-of-the-years’-digits method.
+3. Double-declining-balance method.
+P11.8 (LO 1, 2) (Depreciation Methods) On January 1, 2021, Luis SA, a small
+machine-tool manufacturer, acquired for R$1,260,000 a piece of new industrial
+equipment. The new equipment had a useful life of 5 years, and the residual value was
+estimated to be R$60,000. Luis estimates that the new equipment can produce 12,000
+
+--- Page 924 ---
+machine tools in its first year and 50,000 units over its life. It estimates that production
+will decline by 1,000 units per year over the remaining useful life of the equipment.
+The following depreciation methods may be used: (1) straight-line, (2) double-declining-
+balance, (3) sum-of-the-years’-digits, and (4) units-of-output.
+Instructions
+Which depreciation method would maximize net income for financial statement reporting
+for the 3-year period ending December 31, 2023? Prepare a schedule showing the amount
+of accumulated depreciation at December 31, 2023, under the method selected. (Ignore
+present value, income tax, and deferred income tax considerations.)
+P11.9 (LO 3) (Impairment) Roland SE uses special strapping equipment in its
+packaging business. The equipment was purchased in January 2021 for €10,000,000 and
+had an estimated useful life of 8 years with no residual value. At December 31, 2022, new
+technology was introduced that would accelerate the obsolescence of Roland’s equipment.
+Roland’s controller estimates that the present value of expected future net cash flows on
+the equipment will be €5,300,000 and that the fair value less costs to sell the equipment
+will be €5,600,000. Roland intends to continue using the equipment, but it is estimated
+that the remaining useful life is 4 years. Roland uses straight-line depreciation.
+Instructions
+a. Prepare the journal entry (if any) to record the impairment at December 31, 2022
+(depreciation for 2022 has been recorded).
+b. Prepare any journal entries for the equipment at December 31, 2023. The recoverable
+amount of the equipment at December 31, 2023, is estimated to be €4,900,000.
+c. Repeat the requirements for (a) and (b), assuming that Roland intends to dispose of
+the equipment and that it has not been disposed of as of December 31, 2023.
+P11.10 (LO 3) (Impairment) At the end of 2022, Sapporo Group tests a machine for
+impairment. The machine is carried at depreciated historical cost, and its carrying amount
+is ¥150,000. It has an estimated remaining useful life of 10 years. The machine’s
+recoverable amount is determined on the basis of a value-in-use calculation, using a
+pretax discount rate of 15%. Management-approved budgets reflect estimated costs
+necessary to maintain the level of economic benefit expected to arise from the machine in
+its current condition. The following information related to future cash flows is available at
+the end of 2022 (amounts in thousands; round all calculations to the nearest ¥).
+Year Future Cash Flow Year Future Cash Flow
+2023
+¥22,165
+2028
+¥24,825
+2024
+21,450
+2029
+24,123
+2025
+20,550
+2030
+25,533
+2026
+24,725
+2031
+24,234
+2027
+25,325
+2032
+22,850
+Instructions
+
+--- Page 925 ---
+Part I
+a. Compute the amount of the impairment loss at December 31, 2022.
+b. Prepare the journal entry to record the impairment loss, if any, at December 31, 2022.
+Part II
+In the years 2023–2025, no event occurs that requires the machine’s recoverable amount
+to be re-estimated. At the end of 2026, costs of ¥25,000 are incurred to enhance the
+machine’s performance. Revised estimated cash flows in management’s most recent
+budget are as follows.
+Year Future Cash Flow Year Future Cash Flow
+2027
+¥30,321
+2030
+¥31,950
+2028
+32,750
+2031
+33,100
+2029
+31,721
+2032
+27,999
+c. Prepare the journal entry for an impairment or reversal of an impairment at
+December 31, 2026.
+P11.11 (LO 4) (Mineral Resources) Phelps Oil Wildcatters plc has leased property on
+which oil has been discovered. Wells on this property produced 36,000 barrels of oil
+during the past year, which sold at an average sales price of £65 per barrel. Total oil
+resources of this property are estimated to be 500,000 barrels. The lease provided for an
+outright payment of £1,200,000 to the lessor (owner) before drilling could be commenced
+and an annual rental of £62,000. A premium of 4% of the sales price of every barrel of oil
+removed is to be paid annually to the lessor. In addition, Phelps (lessee) is to clean up all
+the waste and debris from drilling and to bear the costs of reconditioning the land for
+farming when the wells are abandoned. At the time of the lease, the estimated fair value
+of this clean-up and reconditioning is £50,000.
+Instructions
+a. From the provisions of the lease agreement, compute the cost per barrel for the past
+year, exclusive of operating costs, to Phelps.
+b. Compute the impact on Phelps’ current-year profit and loss of the operation of the
+leased property.
+c. Phelps is considering putting in a bid to lease an adjacent tract of land for
+development, based on some preliminary geological surveys and exploratory drilling.
+Advise Phelps on how to account for these exploration and evaluation costs.
+P11.12 (LO 1, 2, 4) (Depletion and Depreciation—Mining) Khamsah Mining
+Company has purchased a tract of mineral land for $900,000. It is estimated that this
+tract will yield 120,000 tons of ore with sufficient mineral content to make mining and
+processing profitable. It is further estimated that 6,000 tons of ore will be mined the first
+and last year and 12,000 tons every year in between. (Assume 11 years of mining
+operations.) The land will have a residual value of $30,000.
+
+--- Page 926 ---
+The company builds necessary structures and sheds on the site at a cost of $36,000. It is
+estimated that these structures can serve 15 years. But, because they must be dismantled
+if they are to be moved, they have no residual value. The company does not intend to use
+the buildings elsewhere. Mining machinery installed at the mine was purchased
+secondhand at a cost of $60,000. This machinery cost the former owner $150,000 and
+was 50% depreciated when purchased. Khamsah Mining estimates that about half of this
+machinery will still be useful when the present mineral resources have been exhausted
+but that dismantling and removal costs will just about offset its value at that time. The
+company does not intend to use the machinery elsewhere. The remaining machinery will
+last until about one-half the present estimated mineral ore has been removed and will
+then be worthless. Cost is to be allocated equally between these two classes of machinery.
+Instructions
+a. As chief accountant for the company, prepare a schedule showing estimated depletion
+and depreciation costs for each year of the expected life of the mine.
+b. Also compute the depreciation and depletion for the first year assuming actual
+production of 5,000 tons. Nothing occurred during the year to cause the company
+engineers to change their estimates of either the mineral resources or the life of the
+structures and equipment.
+*P11.13 (LO 5, 7) (Revaluations) Wang Ltd. owns land (cost HK$200,000) for which it
+uses revaluation accounting. It has the following information related to this asset, the
+only land asset that Wang owns.
+Date
+Fair Value
+January 1, 2021
+HK$200,000
+December 31, 2021
+215,000
+December 31, 2022
+185,000
+December 31, 2023
+205,000
+Instructions
+a. Prepare all entries related to the land for 2021.
+b. Determine the amounts to be reported by Wang at December 31, 2022 and 2023, as
+Land, Other Comprehensive Income, Impairment Loss, and Accumulated Other
+Comprehensive Income.
+c. Prepare the entry for any revaluation adjustments at December 31, 2022 and 2023.
+d. Prepare the entries for the sale of the property by Wang on January 15, 2024, for
+HK$220,000.
+*P11.14 (LO 5, 7) (Revaluations) Parnevik Group uses revaluation accounting for a
+class of equipment it uses in its golf club refurbishing business. The equipment was
+purchased on January 2, 2022, for €500,000; it has a 10-year useful life with no residual
+value. Parnevik has the following information related to the equipment. (Assume that
+
+--- Page 927 ---
+estimated useful life and residual value do not change during the periods presented
+below.)
+Date
+Fair Value
+January 2, 2022
+€500,000
+December 31, 2022
+468,000
+December 31, 2023
+380,000
+December 31, 2024
+355,000
+Instructions
+a. Prepare all entries related to the equipment for 2022.
+b. Determine the amounts to be reported by Parnevik at December 31, 2023 and 2024,
+as Equipment, Other Comprehensive Income, Depreciation Expense, Impairment
+Loss, and Accumulated Other Comprehensive Income.
+c. Prepare the entry for any revaluation adjustments at December 31, 2023 and 2024.
+d. Prepare the entries for the sale of the equipment by Parnevik on January 2, 2025, for
+€330,000.
+Concepts for Analysis
+(Unless instructed otherwise, round answers to nearest currency unit. Interest rates are
+per annum unless otherwise indicated.)
+CA11.1 (LO 1) (Depreciation Basic Concepts) Hakodat Manufacturing Group was
+organized January 1, 2022. During 2022, it has used in its reports to management the
+straight-line method of depreciating its plant assets.
+On November 8, you are having a conference with Hakodat’s officers to discuss the
+depreciation method to be used for income tax and shareholder reporting. Tao Chen,
+president of Hakodat, has suggested the use of a new method, which he feels is more
+suitable than the straight-line method for the needs of the company during the period of
+rapid expansion of production and capacity that he foresees. Following is an example in
+which the proposed method is applied to a fixed asset with an original cost of ¥248,000,
+an estimated useful life of 5 years, and a residual value of approximately ¥8,000
+(amounts in thousands).
+Year
+Years of
+Life Used
+Fraction
+Rate
+Depreciation
+Expense
+Accumulated Depreciation
+at End of Year
+Book Value at
+End of Year
+1
+1
+1⁄15
+¥16,000
+¥ 16,000
+¥232,000
+2
+2
+2⁄15
+32,000
+48,000
+200,000
+3
+3
+3⁄15
+48,000
+96,000
+152,000
+4
+4
+4⁄15
+64,000
+160,000
+88,000
+5
+5
+5⁄15
+80,000
+240,000
+8,000
+
+--- Page 928 ---
+The president favors the new method because he has heard that:
+1. It will increase the funds recovered during the years near the end of the assets’ useful
+lives when maintenance and replacement disbursements are high.
+2. It will result in increased write-offs in later years and thereby will reduce taxes.
+Instructions
+a. What is the purpose of accounting for depreciation?
+b. Is the president’s proposal within the scope of international financial reporting
+standards? In making your decision, discuss the circumstances under which use of
+the method would be reasonable, if any, and those under which it would not be
+reasonable, if any.
+c. The president wants your advice on the following issues.
+1. Do depreciation charges recover or create funds? Explain.
+2. Assume that the taxing authorities accept the proposed depreciation method in
+this case. If the proposed method were used for shareholder and tax reporting
+purposes, how would it affect the availability of cash flows generated by
+operations?
+CA11.2 (LO 1, 2) 
+ (Depreciation—Strike, Units-of-Production,
+Obsolescence) Presented below are three different and unrelated situations involving
+depreciation accounting. Answer the question(s) at the end of each situation.
+Situation I: Recently, Nai Su Ltd. experienced a strike that affected a number of its
+operating plants. The controller of this company indicated that it was not appropriate to
+report depreciation expense during this period because the equipment did not depreciate
+and an improper matching of costs and revenues would result. She based her position on
+the following points.
+1. It is inappropriate to charge the period with costs for which there are no related
+revenues arising from production.
+2. The basic factor of depreciation in this instance is wear and tear, and because
+equipment was idle, no wear and tear occurred.
+Instructions
+Comment on the appropriateness of the controller’s comments.
+Situation II: Etheridge Company manufactures electrical appliances. Company
+engineers have designed a new type of kitchen blender which will perform more functions
+than any blender currently on the market. Demand for the new blender can be projected
+with reasonable probability. In order to make the blenders, Etheridge needs a specialized
+machine that is not available from outside sources. The company decides to make the
+machine in its own plant.
+Instructions
+
+--- Page 929 ---
+a. Discuss the effect of projected demand in units for the new blenders (which may be
+steady, decreasing, or increasing) on the determination of a depreciation method for
+the machine.
+b. What other matters should be considered in determining the depreciation method?
+Ignore income tax considerations.
+Situation III: Haley Paper Company operates a 300-ton-per-day kraft pulp mill and four
+sawmills. The company is in the process of expanding its pulp mill facilities to a capacity
+of 1,000 tons per day, and plans to replace three of its older, less efficient sawmills with
+an expanded facility. One of the mills to be replaced did not operate for most of 2022
+(current year), and there are no plans to reopen it before the new sawmill facility becomes
+operational.
+In reviewing the depreciation rates and in discussing the residual values of the sawmills
+that were to be replaced, the company noted that if present depreciation rates were not
+adjusted, substantial amounts of plant costs on these three mills would not be depreciated
+by the time the new mill came online.
+Instructions
+What is the proper accounting for the four sawmills at the end of 2022?
+CA11.3 (LO 1) 
+ (Depreciation Concepts) As a cost accountant for San
+Francisco Cannery, you have been approached by Phil Perriman, canning room
+supervisor, about the 2022 costs charged to his department. In particular, he is concerned
+about the line item “depreciation.” Perriman is very proud of the excellent condition of his
+canning room equipment. He has always been vigilant about keeping all equipment
+serviced and well oiled. He is sure that the huge charge to depreciation is a mistake; it
+does not reflect the cost of minimal wear and tear that the machines have experienced
+over the last year. He believes that the charge should be considerably lower.
+The machines being depreciated are six automatic canning machines. All were put into
+use on January 1, 2022. Each cost $625,000, having a residual value of $55,000 and a
+useful life of 12 years. San Francisco depreciates this and similar assets using double-
+declining-balance depreciation. Perriman has also pointed out that if you used straight-
+line depreciation the charge to his department would not be as great.
+Instructions
+Write a memo to Phil Perriman to clear up his misunderstanding of the term
+“depreciation.” Also, calculate year-1 depreciation on all machines using both methods.
+Explain the theoretical justification for double-declining-balance and why, in the long run,
+the aggregate charge to depreciation will be the same under both methods.
+CA11.4 (LO 1) 
+ (Depreciation Choice) Jerry Prior, Beeler AG’s controller, is
+concerned that net income may be lower this year. He is afraid upper-level management
+might recommend cost reductions by laying off accounting staff, including him.
+Prior knows that depreciation is a major expense for Beeler. The company currently uses
+the double-declining-balance method for both financial reporting and tax purposes, and
+he’s thinking of selling equipment that, given its age, is primarily used when there are
+
+--- Page 930 ---
+periodic spikes in demand. The equipment has a carrying amount of €2,000,000 and a
+fair value of €2,180,000. The gain on the sale would be reported in the income statement.
+He doesn’t want to highlight this method of increasing income. He thinks, “Why don’t I
+increase the estimated useful lives and the residual values? That will decrease
+depreciation expense and require less extensive disclosure, since the changes are
+accounted for prospectively. I may be able to save my job and those of my staff.”
+Instructions
+Answer the following questions.
+a. Who are the stakeholders in this situation?
+b. What are the ethical issues involved?
+c. What should Prior do?
+Using Your Judgment
+Financial Reporting Problem
+Marks and Spencer plc (M&S)
+The financial statements of M&S (GBR) are presented in Appendix A. The company’s
+complete annual report, including the notes to the financial statements, is available
+online.
+Instructions
+Refer to M&S’s financial statements and the accompanying notes to answer the following
+questions.
+a. What descriptions are used by M&S in its statement of financial position to classify
+its property, plant, and equipment?
+b. What method or methods of depreciation does M&S use to depreciate its property,
+plant, and equipment?
+c. Over what estimated useful lives does M&S depreciate its property, plant, and
+equipment?
+d. What amounts for depreciation expense did M&S charge to its income statement in
+2019 and 2018?
+e. What were the capital expenditures for property, plant, and equipment made by M&S
+in 2019 and 2018?
+Comparative Analysis Case
+adidas and Puma
+The financial statements of adidas (DEU) and Puma (DEU) are presented in Appendices
+B and C, respectively. The complete annual reports, including the notes to the financial
+statements, are available online.
+
+--- Page 931 ---
+Instructions
+Use the companies’ financial information to answer the following questions.
+a. What amount is reported in the statements of financial position as property, plant,
+and equipment (net) of adidas at year-end 2018 and of Puma at year-end 2018? What
+percentage of total assets is invested in property, plant, and equipment by each
+company?
+b. What depreciation methods are used by adidas and Puma for property, plant, and
+equipment? How much depreciation was reported by adidas and Puma in 2018 and
+2017?
+c. Compute and compare the following ratios for adidas and Puma for 2018.
+1. Asset turnover.
+2. Profit margin on sales.
+3. Return on assets.
+d. What amount was spent in 2018 for capital expenditures by adidas and Puma? What
+amount of borrowing cost was capitalized in 2018?
+Financial Statement Analysis Case
+Carrefour Group
+Carrefour Group (FRA) is one of the top retailers in Europe with €76 billion in sales. It
+has more than 360,000 employees worldwide, with operations in 30 countries. Carrefour
+provided the following information in a recent annual report related to its property and
+equipment.
+Carrefour Group
+(in millions)
+Notes to the Financial Statements (in part)
+(3) Tangible fixed assets
+In accordance with IAS 16 — Property, Plant and Equipment, land, buildings and
+equipment are stated at cost less accumulated depreciation and any accumulated
+impairment losses. Borrowing costs that are directly attributable to the acquisition,
+construction or production of a qualifying asset are capitalised as part of the cost of the
+asset. Qualifying assets are defined in IAS 23 — Borrowing Costs as assets that
+necessarily take a substantial period of time to get ready for their intended use or sale,
+corresponding in the Group’s case to investment properties, hypermarkets and
+supermarkets for which the construction period exceeds one year. Tangible fixed assets
+are depreciated on a straight-line basis according to the following average useful lives:
+Buildings 40 years
+
+--- Page 932 ---
+Site improvements 10 years
+Car parks 6 to 10 years
+Equipment, fixtures, fittings and installations 4 to 8 years
+Other fixed assets 3 to 10 years
+Depreciation of tangible fixed assets
+Current
+Year
+Prior
+Year
+Change
+€1,536
+€1,601
+(4.1%)
+ 
+Current Year
+Prior
+Year
+Land
+€ 2,606
+€ 2,576
+Buildings
+10,611
+10,403
+Equipment, fixtures, fittings and installations
+16,060
+15,842
+Other fixed assets
+430
+431
+Fixed assets in progress
+567
+658
+Leased land, buildings, fixtures
+1,697
+1,711
+Gross tangible fixed assets
+31,971
+31,621
+Accumulated Depreciation
+(18,614)
+(17,741)
+Impairment
+(720)
+(783)
+Net tangible fixed assets
+€ 12,637 € 13,097
+Cash Provided by Operations
+(euros in millions)
+Current Year
+Prior
+Year
+Cash provided by operations
+€ 2,108 € 2,843
+Capital expenditures
+1,611
+2,369
+Cash provided by operations as a percent of capital
+expenditures
+131%
+120%
+Instructions
+a. What method of depreciation does Carrefour use?
+b. Do depreciation and amortization expense cause cash flow from operations to
+increase? Explain.
+c. What does the schedule of cash flow measures indicate?
+Accounting, Analysis, and Principles
+Electroboy Enterprises operates several stores throughout northern Belgium and the
+southern part of the Netherlands. As part of an operational and financial reporting review
+in a response to a downturn in it markets, the company’s management has decided to
+perform an impairment test on five stores (combined). The five stores’ sales have declined
+
+--- Page 933 ---
+due to aging facilities and competition from a rival that opened new stores in the same
+markets. Management has developed the following information concerning the five stores
+as of the end of fiscal 2022.
+Original cost
+€36 million
+Accumulated depreciation
+€10 million
+Estimated remaining useful life
+4 years
+Estimated expected future annual cash flows (not discounted) €4.0 million per year
+Appropriate discount rate
+5%
+Fair value less cost of disposal
+€19 million
+Accounting
+a. Determine the amount of impairment loss, if any, that Electroboy should report for
+fiscal 2022 and the carrying amount at which Electroboy should report the five stores
+on its fiscal year-end 2022 statement of financial position. Assume that the cash
+flows occur at the end of each year.
+b. Repeat part (a), but instead assume that (1) the estimated remaining useful life is 10
+years, (2) the estimated annual cash flows are €2,720,000 per year, and (3) the
+appropriate discount rate is 6%.
+Analysis
+Assume that you are a financial analyst and you participate in a conference call with
+Electroboy management in early 2023 (before Electroboy closes the books on fiscal 2022).
+During the conference call, you learn that management is considering selling the five
+stores, but the sale will not likely be completed until the second quarter of fiscal 2023.
+Briefly discuss what implications this would have for Electroboy’s 2022 financial
+statements. Assume the same facts as in part (b) above.
+Principles
+Electroboy management would like to know the accounting for the impaired asset in
+periods subsequent to the impairment. Suppose conditions improve in its markets. Can
+the assets be written back up? Briefly discuss the conceptual arguments for this
+accounting.
+Bridge to the Profession
+Authoritative Literature References
+[1] International Accounting Standard 16, Property, Plant and Equipment (London, U.K.:
+International Accounting Standards Committee Foundation, 2003), par. 6.
+[2] International Accounting Standard 16, Property, Plant and Equipment (London, U.K.:
+International Accounting Standards Committee Foundation, 2003), par. BC29.
+
+--- Page 934 ---
+[3] International Accounting Standard 16, Property, Plant and Equipment (London, U.K.:
+International Accounting Standards Committee Foundation, 2003), par. 60.
+[4] International Accounting Standard 16, Property, Plant and Equipment (London, U.K.:
+International Accounting Standards Committee Foundation, 2003), par. 51.
+[5] International Financial Reporting Standard 36, Impairment of Assets (London, U.K.:
+International Accounting Standards Committee Foundation, 2001).
+[6] International Financial Reporting Standard 36, Impairment of Assets (London, U.K.:
+International Accounting Standards Committee Foundation, 2001), par. 19.
+[7] International Financial Reporting Standard 36, Impairment of Assets (London, U.K.:
+International Accounting Standards Committee Foundation, 2001), par. 33.
+[8] International Financial Reporting Standard 36, Impairment of Assets (London, U.K.:
+International Accounting Standards Committee Foundation, 2001), par. 55.
+[9] International Financial Reporting Standard 6, Exploration for and Evaluation of
+Natural Resources (London, U.K.: International Accounting Standards Committee
+Foundation, 2004).
+[10] International Accounting Standard 16, Property, Plant and Equipment (London,
+U.K.: International Accounting Standards Committee Foundation, 2003), paras. 31–42.
+Research Case
+Matt Holmes recently joined Klax AG as a staff accountant in the controller’s office. Klax
+provides warehousing services for companies in several European cities.
+The location in Koblenz, Germany, has not been performing well due to increased
+competition and the loss of several customers that have recently gone out of business.
+Matt’s department manager suspects that the plant and equipment may be impaired and
+wonders whether those assets should be written down. Given the company’s prior
+success, this issue has never arisen in the past, and Matt has been asked to conduct some
+research on this issue.
+Instructions
+Access the IFRS authoritative literature at the IFRS website (you may register for free
+IFRS access at this site). When you have accessed the documents, you can use the search
+tool in your Internet browser to respond to the following questions. (Provide paragraph
+citations.)
+a. What is the authoritative guidance for asset impairments? Briefly discuss the scope
+of the standard (i.e., explain the types of transactions to which the standard applies).
+b. Give several examples of events that would cause an asset to be tested for
+impairment. Does it appear that Klax should perform an impairment test? Explain.
+c. What is the best evidence of fair value? Describe alternate methods of estimating fair
+value.
+Global Accounting Insights
+
+--- Page 935 ---
+LEARNING OBJECTIVE 8
+Compare accounting procedures for property, plant, and equipment under IFRS and
+U.S. GAAP.
+U.S. GAAP adheres to many of the same principles as IFRS in the accounting for property,
+plant, and equipment. Major differences relate to use of component depreciation,
+impairments, and revaluations.
+Relevant Facts
+Following are the key similarities and differences between U.S. GAAP and IFRS related to
+property, plant, and equipment.
+Similarities
+The definition of property, plant, and equipment is essentially the same under U.S.
+GAAP and IFRS.
+Under both U.S. GAAP and IFRS, changes in depreciation method and changes in
+useful life are treated in the current and future periods. Prior periods are not affected.
+The accounting for plant asset disposals is the same under U.S. GAAP and IFRS.
+The accounting for the initial costs to acquire natural resources is similar under U.S.
+GAAP and IFRS.
+Under both U.S. GAAP and IFRS, interest costs incurred during construction must be
+capitalized. Recently, IFRS converged to U.S. GAAP.
+The accounting for exchanges of non-monetary assets is essentially the same in U.S.
+GAAP and IFRS. U.S. GAAP requires that gains on exchanges of non-monetary assets
+be recognized if the exchange has commercial substance. This is the same framework
+used in IFRS.
+U.S. GAAP and IFRS both view depreciation as allocation of cost over an asset’s life.
+U.S. GAAP and IFRS permit the same depreciation methods (straight-line,
+diminishing-balance, units-of-production).
+Differences
+Under U.S. GAAP, component depreciation is permitted but is rarely used. IFRS
+requires component depreciation.
+U.S. GAAP does not permit revaluations of property, plant, equipment, and mineral
+resources. Under IFRS, companies can use either the historical cost model or the
+revaluation model.
+In testing for impairments of long-lived assets, U.S. GAAP uses a different model
+than IFRS (details of the U.S. GAAP impairment test are presented in the About the
+Numbers discussion). Under U.S. GAAP, as long as future undiscounted cash flows
+exceed the carrying amount of the asset, no impairment is recorded. The IFRS
+
+--- Page 936 ---
+impairment test is stricter. However, unlike U.S. GAAP, IFRS permits reversals of
+impairment losses.
+Under U.S. GAAP, all losses on non-monetary asset exchanges are recognized
+immediately.
+About the Numbers
+As indicated, impairment testing under U.S. GAAP is a two-step process. Illustration
+GAAP 11.1 summarizes impairment measurement under U.S. GAAP. The key distinctions
+relative to IFRS relate to the use of a cash flow recovery test to determine whether an
+impairment test should be performed. Also, U.S. GAAP does not permit reversal of
+impairment losses for assets held for use.
+On the Horizon
+With respect to revaluations, as part of the conceptual framework project, the Boards will
+examine the measurement bases used in accounting. It is too early to say whether a
+converged conceptual framework will recommend fair value measurement (and
+revaluation accounting) for property, plant, and equipment. However, this is likely to be
+one of the more contentious issues, given the long-standing use of historical cost as a
+measurement basis in U.S. GAAP.
+ILLUSTRATION GAAP 11.1 U.S. GAAP Impairment Measurement
+
+--- Page 937 ---
+GAAP Self-Test Questions
+1. All of the following are key similarities between U.S. GAAP and IFRS with respect to
+accounting for property, plant, and equipment except:
+a. the definition of property, plant, and equipment is essentially the same.
+b. changes in depreciation method and changes in useful life are treated in the current
+and future periods.
+c. both U.S. GAAP and IFRS allow revaluation accounting.
+d. the accounting for plant asset disposals is the same under U.S. GAAP and IFRS.
+2. All of the following are key differences between U.S. GAAP and IFRS with respect to
+accounting for property, plant and equipment except:
+a. under U.S. GAAP, component depreciation is permitted but is rarely used.
+b. U.S. GAAP does not permit revaluations of property, plant, and equipment, and
+mineral resources.
+c. in testing for impairments of long-lived assets, U.S. GAAP compares value-in-use to
+the carrying value of the asset.
+d. under U.S. GAAP, impairment testing is a two-step process.
+3. Which of the following statements is correct?
+a. Both IFRS and U.S. GAAP permit revaluation of property, plant, and equipment.
+b. IFRS permits revaluation of property, plant, and equipment, but not U.S. GAAP.
+c. Neither IFRS nor U.S. GAAP permit revaluation of property, plant, and equipment.
+d. U.S. GAAP permits revaluation of property, plant, and equipment, but IFRS does not.
+4. Hilo Company has land that cost $350,000 but now has a fair value of $500,000.
+Which of the following statements is correct?
+a. Under IFRS, Hilo Company must continue to report the land at $350,000 (if using
+revaluation accounting).
+b. Under U.S. GAAP, Hilo Company would report a net income increase of $150,000 due
+to an increase in the value of the land.
+c. Under U.S. GAAP, Hilo Company would credit Unrealized Gain on Revaluation by
+$150,000.
+d. Under IFRS, Hilo Company would credit Unrealized Gain on Revaluation for
+$150,000.
+5. Under U.S. GAAP, an impairment of property, plant, and equipment:
+a. may always be reversed if the fair value subsequently increases.
+
+--- Page 938 ---
+b. is based on a two-step model, comparing value-in-use to the carrying value of the
+asset.
+c. may be reversed for assets held for sale.
+d. is measured based on total future undiscounted cash flows.
+GAAP Concepts and Application
+GAAP11.1 Briefly describe some of the similarities and differences between IFRS and
+U.S. GAAP with respect to the accounting for property, plant, and equipment.
+GAAP11.2 At a recent executive committee meeting, the controller for Ricardo Company
+remarked, “With only a single key difference between IFRS and U.S. GAAP for property,
+plant, and equipment, it should be smooth sailing for the IASB and FASB to converge
+their standards in this area.” Prepare a response to the controller.
+GAAP11.3 Moncrief Group, in accordance with IFRS, applies revaluation accounting to
+plant assets with a carrying amount of $400,000, a useful life of 4 years, and no residual
+value. At the end of year 1, independent appraisers determine that the asset has a fair
+value of $460,000. Discuss how an analysis of ratios such as return on assets and return
+on equity would be affected in comparing Moncrief to a U.S. GAAP company.
+GAAP11.4 The real estate company Liberty International (now known as Intu)
+(GBR) followed IFRS. In one year, Liberty disclosed the following information on
+revaluations of its tangible fixed assets. The revaluation reserve measures the amount by
+which tangible fixed assets are recorded above historical cost and is reported in Liberty’s
+equity.
+Liberty International
+Completed Investment Properties
+Completed investment properties are professionally valued on a market value basis by
+external valuers at the balance sheet date. Surpluses and deficits arising during the year
+are reflected in the revalution reserve.
+Liberty reported the following additional data. Amounts for Kimco Realty (USA) (which
+follows U.S. GAAP) in the same year are provided for comparison.
+ 
+Liberty 
+(pounds sterling, in thousands)
+Kimco 
+(dollars, in millions)
+Total revenues
+£ 741
+$ 517
+Average total assets
+5,577
+4,696
+Net income
+125
+297
+Instructions
+a. Compute the following ratios for Liberty and Kimco.
+1. Return on assets.
+2. Profit margin.
+
+--- Page 939 ---
+3. Asset turnover.
+How do these companies compare on these performance measures?
+b. Liberty reported a revaluation surplus in Accumulated Other Comprehensive Income
+of £1,952. Assume that £1,550 of this amount arose from an increase in the net
+replacement value of investment properties during the year. Prepare the journal entry
+to record this increase.
+c. Under IFRS, are Liberty’s assets and equity overstated? If so, why? When comparing
+Liberty to U.S. companies, like Kimco, what adjustments would you need to make in
+order to have valid comparisons of ratios such as those computed in (a) above?
+Answers to GAAP Self-Test Questions
+1. c 2. c 3. b 4. d 5. c
+Notes
+1 Residual value does not include possible future inflation effects. [2]
+2 The airline industry also illustrates the type of problem involved in estimation. In the
+past, aircraft were assumed not to wear out—they just became obsolete. However,
+some jets have been in service as long as 20 years, and maintenance of these aircraft
+has become increasingly expensive. As a result, some airlines now replace aircraft not
+because of obsolescence but because of physical deterioration.
+3 Companies use the straight-line method more than any other method of depreciation.
+In a survey of 200 international companies, straight-line depreciation was used 170
+times, declining-balance 11 times, units-of-production (activity method) 18 times, and
+other (e.g., proportion of proven reserve) 8 times. In some cases, companies use two or
+more depreciation methods. See IFRS Accounting Trends & Techniques.
+4 What happens if the estimated service life of the asset is, let us say, 51 years? How
+would we calculate the sum-of-the-years’-digits? Fortunately, mathematicians have
+developed the following formula that permits easy computation:
+=
+= 1,326
+5 A pure form of the declining-balance method (sometimes called the “fixed percentage of
+book value method”) has also been suggested as a possibility. This approach uses a rate
+that depreciates the asset exactly to the residual value at the end of its expected useful
+life. The formula for determining the rate is as follows.
+Depreciation rate = 1−n√
+The life in years is n. After computing the depreciation rate, a company applies it on the
+declining book value of the asset from period to period, which means that depreciation
+n(n + 1)
+2
+51(51 + 1)
+2
+Residual value
+Acquisition cost
+
+--- Page 940 ---
+expense will be successively lower. This method is not used extensively in practice, and
+it is generally not permitted for tax purposes.
+6 Recently, Intel (USA) indicated that due to slower product cycles, it will also depreciate
+its machinery and equipment more slowly, resulting in an average useful life of five
+years instead of four. This change in estimate will mean that Intel will book $1.5 billion
+less in depreciation expense, which will increase its profitability (in Chapter 22, we
+provide a more complete discussion of changes in estimates). Is the change a positive
+for Intel? Only time will tell, as the change could signal problems for Intel (and others)
+in the global semiconductor industry due to reduced sales of its products in the future.
+7 If a company can more readily determine value-in-use (or fair value less costs to sell)
+and it determines that no impairment is needed, it is not required to compute the other
+measure. [6]
+8 Specifically, the pretax rate is determined taking into account market- and company-
+specific borrowing rates, adjusted for any risks the market might attribute to expected
+cash flows for the asset. [8]
+9 The IASB has conducted a research project on the extractive industry. The primary focus
+is on the financial reporting issues associated with mineral and other natural resource
+reserves. The key question is whether and how to define, recognize, measure, and
+disclose reserves in the financial statements. At present, the Board is contemplating an
+agenda decision for a future standard. See the IFRS website for more information.
+10 When a depreciable asset is revalued, companies use one of two approaches to record
+the revaluation. As an alternative to the one shown here, companies restate on a
+proportionate basis the cost and accumulated depreciation of the asset, such that the
+carrying amount of the asset after revaluation equals its revalued amount.
+11 The entry for the transfer recognizes that any depreciation on the revalued part of the
+asset’s carrying amount has been realized by being charged to retained earnings. By
+making this entry, it should be noted that the historical cost carrying amount (as if no
+revaluations have been recorded) can be determined by deducting the AOCI balance
+from the revalued carrying amount. In this case, the historical cost carrying amount
+after two years is €600,000 (€1,000,000 – €200,000 – €200,000), which is equal to
+the revalued carrying amount of €712,500 less AOCI of €112,500.
+12 Another way to compute the loss on impairment of €30,000 is to determine the
+historical cost carrying amount of the equipment at December 31, 2023, which is
+€600,000 (€1,000,000 − €200,000 − €200,000), and subtract the fair value of the
+equipment (€570,000).
+Sources: A portion of this discussion is taken from Top 10 Tips for Impairment Testing, PricewaterhouseCoopers
+(December 2008); and Impairment of Non-Financial Assets, PricewaterhouseCoopers (March 2015).
+
+--- Page 941 ---

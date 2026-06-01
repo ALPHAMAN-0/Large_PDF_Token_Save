@@ -1,0 +1,3160 @@
+CHAPTER 21
+Accounting for Leases
+LEARNING OBJECTIVES
+After studying this chapter, you should be able to:
+1. Describe the environment related to leasing transactions.
+2. Explain the accounting for leases by lessees.
+3. Explain the accounting for leases by lessors.
+4. Discuss the accounting and reporting for special features of lease
+arrangements.
+This chapter also includes numerous conceptual discussions that
+are integral to the topics presented here.
+PREVIEW OF CHAPTER 21
+The following opening story highlights the substantial impact the new leasing
+standard will have on companies’ statements of financial position. In this
+chapter, we discuss the accounting and reporting issues related to leases
+under this new standard. The content and organization of the chapter are as
+follows.
+Times Are A-Changing
+Leasing has grown tremendously in popularity. Today, it is the fastest growing
+form of capital investment. Instead of borrowing money to buy an airplane,
+computer, nuclear core, or satellite, a company makes periodic payments to lease
+these assets. Even gambling casinos lease their slot machines. Companies that
+
+lease tend to be smaller and high growth, and are in technology-oriented
+industries.
+A classic example is the airline industry. Many travelers on airlines such as
+British Airways (GRB), Cathay Pacific (CHN), and Japan Airlines (JPN)
+believe these airlines own the planes on which they are flying. Often, this is not
+the case. Airlines have leased many of their airplanes due to the favorable
+accounting treatment they received if they leased rather than purchased. The
+following chart shows the off-balance-sheet lease percentages for a number of
+major international airlines, just before the issuance of a new lease accounting
+standard in 2016.
+The same has held true for many other industries as well. What was this favorable
+accounting treatment? The previous IASB standard on leasing depended on
+whether a lease qualified as an operating lease or a finance lease. In an operating
+lease, companies did not report an asset on their statement of financial position
+for the item they leased, nor did they report a related liability for their lease
+obligation. Only if the company had a finance lease would companies have to
+report an asset and a related liability on the statement of financial position.
+However, in 2016 the IASB issued a new standard on leasing that mandates that
+all companies will have to report both assets and related liabilities for practically
+all lease arrangements.
+Companies have implemented the new rules in 2019 and 2020. Some airlines are
+seeing a silver lining to the new rules, as a number of their leases involve variable
+payments, which under the new rules are not subject to capitalization.
+Nonetheless, most companies will see a significant effect on their reported assets
+and liabilities. For example, retailers such as Marks and Spencer plc (GBR) and
+
+Carrefour SA (FRA) are experiencing substantial increases in their debt ratios,
+such as debt to equity and debt to operating income, as a result of the new
+standard. Overall, a significant number of retailers are seeing an increase of over
+25 percent in their reported debt. Sir David Tweedie, the IASB’s previous
+chairman, is known for saying that one day he would like to fly on an airplane that
+actually appears on that company’s statement of financial position. Well, Sir
+David, get ready because your wish is coming true.
+Review and Practice
+Go to the Review and Practice section at the end of the chapter for a
+targeted summary review and practice problem with solution. Multiple-choice
+questions with annotated solutions, as well as additional exercises and
+practice problem with solutions, are also available online.
+The Leasing Environment
+LEARNING OBJECTIVE 1
+Describe the environment related to leasing transactions.
+A lease is a contractual agreement between a lessor and a lessee. This
+arrangement gives the lessee the right to use specific property, which is owned by
+the lessor, for a specified period of time. In return for the use of the property, the
+lessee makes rental payments over the lease term to the lessor.
+A Look at the Lessee
+Aristotle once said, “Wealth does not lie in ownership but in the use of things!”
+Clearly, many global companies have decided that Aristotle is right, as they have
+become heavily involved in leasing assets rather than owning them. For example,
+according to a recent Global Leasing Report (Brendan Gleeson, White Clarke
+Group, 2019), the top 50 companies reported leasing volume exceeding $1.3
+trillion. Three regions, North America, Europe, and Asia, account for more than 90
+percent of total lease volume. Remember that these statistics are just for
+equipment leasing. Add in real estate leasing, which is probably larger, and we are
+talking about a very large and growing business, one that was at least in part
+driven by accounting.
+What types of assets are being leased? As the opening story indicated, any type of
+equipment can be leased, such as railcars, helicopters, bulldozers, barges, CT
+scanners and computers. Illustration 21.1 summarizes what several major
+companies are leasing.
+
+Company
+Description
+Carrefour
+(FRA)
+“Stores not fully owned are rented under leasing agreements. The
+Group also owns shopping centers, mainly anchored by its
+hypermarkets and supermarkets, that are rented out.”
+Ahold
+Delhaize
+Group
+(NLD/BEL)
+“Delhaize Group operates a significant number of its stores under
+finance lease arrangements. Various properties leased are
+(partially or in full) subleased to third parties, where the Group is
+therefore acting as a lessor. Lease terms (including reasonably
+certain renewal options) generally range from 1 to 36 years with
+renewal options ranging from 3 to 30 years.”
+Diageo
+(GBR)
+“The company owns or leases land and buildings throughout the
+world. Diageo’s largest individual facility, in terms of net book
+value of property, is St James’s Gate brewery in Dublin.
+Approximately 96% by value of the group’s properties are owned
+and approximately 3% are held under leases running for 50 years
+or longer.”
+Marks and
+Spencer plc
+(GBR)
+“The Group leases various stores, offices, warehouses and
+equipment under non-cancellable lease agreements. The leases
+have varying terms, escalation clauses and renewal rights.”
+McDonald’s
+Corp. (USA)
+“The Company was the lessee at 15,235 restaurant locations
+through ground leases (the Company leases the land and the
+Company or franchisee owns the building) and through improved
+leases (the Company leases land and buildings).”
+RELX
+(GBR/NLD)
+“The company leases various properties, principally offices and
+warehouses, which have varying terms and renewal rights that are
+typical to the territory in which they are located.”
+ILLUSTRATION 21.1 What Do Companies Lease?
+The largest group of leased equipment involves information technology
+equipment, followed by assets in the transportation area (trucks, aircraft, rail),
+and then construction and agriculture.
+Advantages of Leasing—Lessees
+From the perspective of the lessee, leasing can provide significant advantages,
+such as the following:
+1. 100% financing at fixed rates. Leases are often signed without requiring
+any money down from the lessee. This helps the lessee conserve scarce cash—
+an especially desirable feature for new and developing companies. In
+addition, lease payments often remain fixed, which protects the lessee against
+
+inflation and increases in the cost of money. The following comment explains
+why companies choose a lease instead of a conventional loan: “Our local bank
+finally came up to 80 percent of the purchase price but wouldn’t go any
+higher, and they wanted a floating interest rate. We just couldn’t afford the
+down payment, and we needed to lock in a final payment rate we knew we
+could live with.”
+2. Protection against obsolescence. Leasing equipment reduces risk of
+obsolescence to the lessee and in many cases passes the risk of residual value
+to the lessor. For example, Perrigo Company (IRL) (a pharmaceutical
+maker) leases computers. Under the lease agreement, Perrigo may turn in an
+old computer for a new model at any time, canceling the old lease and writing
+a new one. The lessor adds the cost of the new lease to the balance due on the
+old lease, less the old computer’s trade-in value. As one treasurer remarked,
+“Our instinct is to purchase.” But if a new computer is likely to come along in
+a short time, “then leasing is just a heck of a lot more convenient than
+purchasing.” Naturally, the lessor also protects itself by requiring the lessee to
+pay higher rental payments or provide additional payments if the lessee does
+not maintain the asset.
+3. Flexibility. Lease agreements may contain less restrictive provisions than
+other debt agreements. Innovative lessors can tailor a lease agreement to the
+lessee’s special needs. For instance, the duration of the lease—the lease term
+—may be anything from a short period of time to the entire expected
+economic life of the asset. The rental payments may be level from year to
+year, or they may increase or decrease in amount. The payment amount may
+be predetermined or may vary with sales, the prime interest rate, or some
+other factor. In most cases, the rent is set to enable the lessor to recover the
+cost of the asset plus a fair return over the life of the lease.
+4. Less costly financing. Some companies find leasing cheaper than other
+forms of financing. For example, start-up companies in depressed industries
+or companies in low tax brackets may lease to claim tax benefits that they
+might otherwise lose. Depreciation deductions offer no benefit to companies
+that have little if any taxable income. Through leasing, the leasing companies
+or financial institutions use these tax benefits. They can then pass some of
+these tax benefits back to the user of the asset in the form of lower rental
+payments.
+A Look at the Lessor
+Who are the lessors that own the property being leased? They generally fall into
+one of three categories:
+1. Banks.
+
+2. Captive leasing companies.
+3. Independents.
+According to recent data from the 2019 Equipment Leasing & Finance Industry
+Horizon Report on new business volume by lessor type, banks hold about 43
+percent of the market, followed by captives at 33 percent. Independents and
+others had the remaining 24 percent of new business.
+Banks
+Banks are the largest players in the leasing business. They have low-cost funds,
+which give them the advantage of being able to purchase assets at less cost than
+their competitors. Banks have been aggressive in the leasing markets. Deciding
+that there is money to be made in leasing, banks have expanded their product
+lines in this area. Finally, leasing transactions are now quite standardized, which
+gives banks an advantage because they do not have to be as innovative in
+structuring lease arrangements. Thus, banks like Credit Suisse (CHE), Chase
+(USA), Barclays (GBR), and Deutsche Bank (DEU) have substantial leasing
+subsidiaries.
+Captive Leasing Companies
+Captive leasing companies are subsidiaries whose primary business is to perform
+leasing operations for the parent company. Companies like CNH Capital (NLD)
+(for CNH Global), BMW Financial Services (DEU) (for BMW), and IBM
+Global Financing (USA) (for IBM) facilitate the sale of products to consumers.
+For example, suppose that Ivanhoe Mines Ltd. (CAN) wants to acquire a
+number of earthmovers from CNH Global. In this case, CNH Capital will offer to
+structure the transaction as a lease rather than as a purchase. Thus, CNH Capital
+provides the financing rather than an outside financial institution.
+Captive leasing companies have the point-of-sale advantage in finding leasing
+customers. That is, as soon as CNH Global receives a possible equipment order, its
+leasing subsidiary can quickly develop a lease-financing arrangement.
+Furthermore, the captive lessor has product knowledge that gives it an advantage
+when financing the parent’s product. The current trend is for captives to focus
+primarily on their companies’ products rather than do general lease financing. For
+example, Boeing Capital (USA) and UPS Capital (USA) are two captives that
+have left the general finance business to focus exclusively on their parent
+companies’ products.
+Independents
+Independents are the final category of lessors. Their market share has dropped
+fairly dramatically as banks and captive leasing companies have become more
+
+aggressive in the lease-financing area. Independents do not have point-of-sale
+access, nor do they have a low cost of funds advantage. What they are often good
+at is developing innovative contracts for lessees. In addition, they are starting to
+act as captive finance companies for some companies that do not have leasing
+subsidiaries. For example, AerCap (IRL) is one of the world’s largest independent
+lessors.
+Advantages of Leasing—Lessors
+Lessors find leasing attractive because:
+1. It often provides profitable interest margins.
+2. It can stimulate sales of a lessor’s product whether it be from a dealer
+(lessor) or a manufacturer (lessor).
+3. It often provides tax benefits to various parties in the lease, which enhances
+the return to all the parties involved, including the lessor. To illustrate,
+Airbus (FRA) might sell one of its A320 planes to a wealthy investor who
+does not need a plane but could use the tax benefit. The investor (the lessor)
+then leases the plane to a foreign airline, to which the tax benefit is of no use.
+Everyone gains. Airbus sells its airplane, the investor receives the tax benefit,
+and the foreign airline receives a lower rental rate because the lessor is able
+to use the tax benefit.
+4. It can provide a high residual value to the lessor upon the return of the
+property at the end of the lease term. Residual values can sometimes provide
+large profits. Citigroup (USA) at one time estimated that the commercial
+aircraft it was leasing to the airline industry would have a residual value of
+five percent of the purchase price. It turned out that the aircraft were worth
+150 percent of their cost—a handsome profit. At the same time, if residual
+values decline, lessors can suffer losses when less-valuable leased assets are
+returned at the conclusion of the lease. At one time, automaker Ford (USA)
+took a $2.1 billion write-down on its lease portfolio, when rising gas prices
+spurred dramatic declines in the resale values of leased trucks and SUVs.
+Such residual value losses led Chrysler (USA) to get out of the leasing
+business altogether.
+
+What Do the Numbers Mean?
+Residual Value Regret
+As discussed, residual value profits are an important driver for the popularity
+of leasing for lessors, especially for leases of equipment and vehicles.
+However, the profitability of equipment leasing hinges on the lessors’ ability
+to accurately estimate the residual value of the leased asset at the end of the
+lease so as to resell the asset at a profit when returned by the lessee. General
+Motors (GM) (USA) has learned that residual value profits are not
+guaranteed. Here is what happened.
+GM took advantage of a government subsidy of $7,500 per electric vehicle to
+help drive down the cost of a lease for its electric car, the Chevy Volt. The
+taxpayer subsidies along with other GM incentives provided for low monthly
+lease payments, given the estimated residual value, and led to a full two-thirds
+of all Volt “sales” being attributed to leases. That’s about three times the lease
+rate for the overall industry. The problems for GM started when the Volts
+came back at the end of the lease. Unfortunately for GM and other electric car
+enthusiasts, demand for electric cars without the incentives (which expired)
+has not been sustained, and resale values for Volts plummeted.
+The rollback of electric car subsidies has spread around the globe. In the
+United Kingdom, the British car industry has blamed the government
+downgrade of subsidies for the decline in sales of electrified vehicles (down
+11.8 percent). Notable players in the electric car market, Tesla (USA) and
+Daimler (DEU), have felt the effects.
+As a result, rather than reaping residual value profits, these carmakers will
+sustain losses when an electric vehicle, like the Volt, is returned but must be
+sold for less than the original expected residual values. It’s a double whammy
+for GM, as the already low sales numbers for new Volts will be further hurt by
+the supply of low-priced Volts on the used car lot. Although it appears that
+GM made a bad bet on residual value profits on the Volt, there may be
+beneficiaries, as those looking for a good deal on a Volt now have a supply of
+low-priced, used models from which to choose.
+Sources: M. Modica, “Chevy Volt Resale Values Plunge as Lease Returns,” National Legal and
+Policy Center (August 7, 2014); and J. Jolly, “Subsidy Cuts Blamed for Fall in UK Sales of Electrified
+Vehicles,” The Guardian (July 4, 2019).
+Lessee Accounting
+
+LEARNING OBJECTIVE 2
+Explain the accounting for leases by lessees.
+A lease is defined as a “contract, or part of a contract, that conveys the right to
+control the use of identified property, plant or equipment (an identified asset) for
+a period of time in exchange for consideration.” [1] (See the Authoritative
+Literature References section near the end of the chapter.) A lease therefore
+conveys the use of an asset from one party (the lessor) to another (the lessee)
+without transferring ownership. Accounting for lease transactions is controversial,
+as the following example illustrates.
+If Air France (FRA) borrows $47 million on a 10-year note from Barclays
+(GBR) to purchase a Boeing 737 jet plane, Air France should report an asset and
+related liability at that amount on its statement of financial position. Similarly, if
+Air France purchases the 737 for $47 million directly from Boeing through an
+installment purchase over 10 years, it should report an asset and related liability
+(i.e., it should “capitalize” the installment transaction).
+However, what would happen if Air France leases the Boeing 737 for 10 years
+from International Lease Finance Corp. (ILFC) (USA) (a subsidiary of the
+Irish company AerCap) through a non-cancelable lease transaction with
+payments of the same amount as the installment purchase transaction? In that
+case, opinion differs over how to report this transaction. The various views on
+capitalization of leases are summarized in Illustration 21.2. In short, the
+viewpoints range from no capitalization to capitalization of all long-term leases.
+The IASB now requires lessees to capitalize all leases. The only exceptions
+to the capitalization requirement are for leases covering a term of less than one
+year or for a lease of property with a value less than $5,000. The IASB indicates
+that the right to use property under the terms of the lease is an asset, and the
+lessee’s obligation to make payments under the lease is a liability. As a result, Air
+France records the right-of-use of the airplane as an asset on its statement of
+financial position. It also records a liability for its obligation to make payments
+under the lease.1
+
+1. Do not capitalize any leased assets. This view considers capitalization
+inappropriate because Air France does not own the property. Furthermore, a
+lease is an “executory” contract requiring continuing performance by
+both parties. Because companies do not currently capitalize other executory
+contracts (such as purchase commitments and employment contracts), they
+should not capitalize leases either.
+2. Capitalize leases that are similar to installment purchases. This view
+holds that companies should report transactions in accordance with their
+economic substance. Therefore, if companies capitalize installment
+purchases, they should also capitalize leases that have similar
+characteristics. For example, Air France makes the same payments over a 10-
+year period for either a lease or an installment purchase. Lessees make
+rental payments, whereas owners make mortgage payments.
+3. Capitalize all long-term leases. This approach requires only the long-
+term right to use the property in order to capitalize. This property-rights
+approach capitalizes all long-term leases.
+4. Capitalize firm leases where the penalty for non-performance is
+substantial. A final approach advocates capitalizing only “firm” (non-
+cancelable) contractual rights and obligations. “Firm” means that it is
+unlikely to avoid performance under the lease without a severe penalty.
+ILLUSTRATION 21.2 Views on Lease Capitalization
+Once the lease is recorded, the lessee (e.g., Air France) recognizes interest expense
+on the lease liability over the life of the lease using the effective-interest method
+and records depreciation expense on the right-of-use asset. This accounting,
+referred to as the finance lease method, is applied whether the lease
+arrangement is effectively a purchase of the underlying asset (Air France’s lease
+with ILFC above) or when the lessee obtains control of only the use of the
+underlying asset but not the underlying asset itself. For example, a lease may
+convey use of one floor of an office building for five years. At the end of the lease,
+the lessee vacates the floor and the lessor can then lease the floor to another
+tenant. In this situation, the lease conveys right-of-use but not ownership.
+However, lessee accounting for leases that transfer ownership or transfer control
+is the same.2
+Measurement of the Lease Liability and Lease Asset
+As indicated, at commencement of the lease, lessees record a right-of-use asset
+and lease liability. The lease liability is computed as the present value of the lease
+payments. The asset representing the right-of-use of the underlying asset (i.e., the
+
+right-of-use asset) is equal to the lease liability.3 Measurement of the lease
+liability is based on the lease term, lease payments, and discount rate.
+Lease Term
+The lease term is generally considered to be the fixed, non-cancelable term of the
+lease. Some leases include a bargain renewal option, which gives the lessee an
+option to renew the lease for a rental that is lower than the expected fair rental at
+the time the option becomes exercisable. The lease term should include the
+bargain renewal periods if, at the commencement of the lease, the difference
+between the renewal rental and the expected fair rental is great enough to make
+exercise of the option to renew reasonably certain.4
+For example, assume that Carrefour (FRA) leases PCs from Lenovo (CHN) for
+two years at a rental of $100 per month per computer. In addition, Carrefour can
+lease these computers for $10 per month per computer for another two years. The
+lease clearly offers a bargain renewal option, and Carrefour should consider the
+lease term for these computers to be four years, not two.
+Lease Payments
+The lease payments generally include the following:
+1. Fixed payments. These are the rental payments that are specified in the
+lease agreement and fixed over the lease term.
+2. Variable payments that are based on an index or a rate. The lessee
+should include variable lease payments in the value of the lease liability at the
+level of the index/rate at the commencement date. When valuing the lease
+liability, no increases or decreases to future lease payments should be
+assumed based on increases or decreases in the index or rate. Instead, any
+difference in the payments due to changes in the index or rate is expensed in
+the period incurred. Illustrations 21.3 and 21.4 provide an analysis of
+variable lease payments.
+
+Including Variable Lease Payments
+Facts: On January 1, 2022, Jose Shipping leases an airplane for 6 years. The
+annual lease payments are R$1,000,000 per year, payable at the beginning of
+each year (annuity-due basis). In addition, the lease agreement specifies that the
+lease payment increases by R$30,000 every year.
+Question: What are the lease payments in 2023?
+Solution: On January 1, 2023, the lease payment is R$1,030,000 (R$1,000,000
++ R$30,000), which is considered a variable payment. Given that the amount
+of the variable payment is known from year to year (the rate is set at
+commencement of the lease and in substance fixed), such variable payments
+are included in calculating the present value of the lease liability.
+ILLUSTRATION 21.3 Variable Lease Payments
+Expensing Variable Lease Payments
+Facts: Assume the same information as in Illustration 21.3, except that the lease
+payments are adjusted each year by a change in a price index.
+Question: If the price index is 100 at January 1, 2022, and increases to
+104 on January 1, 2023, what is the payment on January 1, 2023?
+Solution: The variable payment on January 1, 2023, is R$1,040,000
+(R$1,000,000 × 1.04). Because the amount of the variable payment from year
+to year is not known at the lease commencement date, this payment is not
+included in determining the present value of the lease liability. This additional
+payment (R$40,000) is recognized as an expense in the period it is incurred.
+Similarly, when lease payments vary with a performance measure (e.g., sales at
+a store location, asset usage), the variable amounts will be expensed in the
+period incurred.
+ILLUSTRATION 21.4 Variable Lease Payments
+3. Amounts guaranteed by a lessee under a residual value guarantee.
+Residual value is the expected value of the leased asset at the end of the
+lease term. A residual value can be guaranteed or unguaranteed. In a
+
+guaranteed residual value, the lessee has an obligation not only to return
+the leased asset at the end of the lease term but also to guarantee that the
+residual value will be a certain amount. If the lease involves an
+unguaranteed residual value, the lessee does not have any obligation to
+the lessor at the end of the lease, except to return the leased asset to the
+lessor. As a result, an unguaranteed residual value is not included in the lease
+payments. [5]
+A guaranteed residual value is included in the lease payments, only to the
+extent that the guaranteed amount exceeds the expected residual value of the
+underlying asset at the end of the lease. That is, for measurement of the lease
+liability, the lessee includes only the expected residual value probable
+of being owed by the lessee under the residual value guarantee.
+4. Payments related to purchase or termination options that the lessee
+is reasonably certain to exercise. If the lease contains a bargain purchase
+option that is reasonably certain to be exercised, the cost of that option
+should be considered part of the lease payments. Analysis of a termination
+option is indicated in Illustration 21.5.
+Analyzing a Termination Option
+Facts: Cabrera Company leases a building and land from Worldwide Leasing for
+6 years with monthly payments of $10,000. The lease contract allows Cabrera to
+terminate the lease after 2 years for a total payment of $140,000. At the
+commencement of the lease, it is reasonably certain that Cabrera will not
+continue the lease beyond 2 years.
+Question: What are Cabrera’s lease payments?
+Solution: In this case, Cabrera should include the cost of the termination
+option in its calculation of the present value of its lease liability. The total lease
+payments are therefore $380,000 [($10,000 × 24) + $140,000].
+ILLUSTRATION 21.5 Termination Option
+Discount Rate
+To determine the lease liability, a lessee (i.e, the Air France example discussed
+earlier) should compute the present value of the lease payments using the
+implicit interest rate. [6] This rate is defined as the discount rate that, at
+commencement of the lease, causes the aggregate present value of the lease
+
+payments and unguaranteed residual value to be equal to the fair value of the
+leased asset. [7]
+Air France may find that it is impracticable to determine the implicit rate of the
+lessor. In the event that it is impracticable to determine the implicit rate, Air
+France uses its incremental borrowing rate. The incremental borrowing rate
+is the rate of interest the lessee would have to pay on a similar lease, or the rate
+that, at commencement of the lease, the lessee would incur to borrow over a
+similar term the funds necessary to purchase the asset. The implicit rate of the
+lessor is generally a more realistic rate to use in determining the amount to report
+as the asset and related liability for Air France. However, given the difficulty the
+lessee may have in determining the implicit rate, it is likely that the lessee will use
+the incremental borrowing rate.5
+Subsequent Lessee Accounting
+Throughout the term of the lease, a lessee like Air France uses the effective-
+interest method to allocate each lease payment between principal and interest
+on the lease liability. This method produces a periodic interest expense equal to a
+constant percentage of the carrying value of the lease obligation. When applying
+the effective-interest method, a lessee such as Air France should use the implicit
+rate (if known) or its incremental borrowing rate. Depreciation of the right-of-use
+asset is accounted for similarly to other non-financial assets. That is, the lessee
+should depreciate the right-of-use asset using an approach that reflects the
+consumption of the economic benefits of the leased asset. Generally, companies
+use the straight-line method for recording the consumption of a right-of-use asset.
+If the lease agreement transfers ownership of the asset to Air France at the end of
+the lease, it depreciates the aircraft consistent with its normal depreciation policy
+for other aircraft, using the economic life of the asset. On the other hand, if
+the lease does not transfer ownership, then Air France depreciates it over the
+term of the lease.6 In this case, the aircraft reverts to ILFC after a certain period
+of time. Recognizing the interest on the lease liability coupled with the
+depreciation of the right-of-use asset will generally result in higher total
+expense in the earlier years and lower total expense in the later years of
+the lease.
+Lessee Accounting: Example 1
+To illustrate the accounting for a lease using the finance lease method, assume
+that CNH Capital (NLD) (a subsidiary of CNH Global) and Ivanhoe Mines
+Ltd. (CAN) sign a lease agreement dated January 1, 2022, that calls for CNH to
+lease a backhoe to Ivanhoe beginning January 1, 2022. The terms and provisions
+of the lease agreement and other pertinent data are as follows.
+
+The term of the lease is five years. The lease agreement is non-cancelable,
+requiring equal rental payments of €20,711.11 at the beginning of each year
+(annuity-due basis).
+The backhoe has a fair value at the commencement of the lease of €100,000,
+an estimated economic life of five years, and a guaranteed residual value of
+€5,000. (Ivanhoe expects that it is probable that the expected residual value
+at the end of the lease will be greater than the guaranteed amount of €5,000.)
+The lease contains no renewal options. The backhoe reverts to CNH Capital at
+the termination of the lease.
+Ivanhoe’s incremental borrowing rate is 5 percent per year.
+Ivanhoe depreciates its equipment on a straight-line basis.
+CNH sets the annual rental rate to earn a rate of return of 4 percent per year;
+Ivanhoe is aware of this rate.
+Ivanhoe computes the lease liability and the amount capitalized as a right-of-use
+asset as the present value of the lease payments, as shown in Illustration 21.6.7
+Capitalized
+amount
+= €20,711.11 × Present value of an annuity due of 1 for 5
+periods at 4%
+= €20,711.11 × 4.62990 (PVF-AD5,4%)
+= €95,890.35*
+*Rounded by €0.02.
+ILLUSTRATION 21.6 Present Value of Lease Payments
+Note that the present value measurement does not include the residual value
+guarantee. That is, Ivanhoe includes only the expected residual value probable of
+being owed under the residual value guarantee. Because Ivanhoe believes that
+it is probable that the expected residual value will be greater than the guaranteed
+residual value, the guaranteed residual value is not included in the measurement
+of the lease liability.8
+Ivanhoe uses CNH’s implicit interest rate of 4 percent instead of its incremental
+borrowing rate of 5 percent because the implicit rate is known to Ivanhoe.9
+Ivanhoe records the lease on its books as follows.
+January 1, 2022
+Right-of-Use Asset 95,890.35
+Lease Liability
+
+Note that Ivanhoe records the obligation at the net amount of €95,890.35 (the
+present value of the lease payments) rather than at the gross amount of
+€103,555.55 (€20,711.11 × 5).10 Ivanhoe then records the first lease payment as
+follows.
+January 1, 2022
+Lease Liability 20,711.11
+Cash
+The annual interest expense, applying the effective-interest method, is a function
+of the outstanding liability as shown in the lease amortization schedule in
+Illustration 21.7.
+Ivanhoe Mines
+Lease Amortization Schedule
+Annuity-Due Basis
+Date
+Annual
+Lease 
+Payment
+Interest (4%) on 
+Liability
+Reduction
+of Lease
+Liability
+Lease 
+Liability
+(a)
+(b)
+(c)
+(d)
+1/1/22
+1/1/22
+€
+€
+–0–
+1/1/23
+1/1/24
+1/1/25
+1/1/26
+796.49*
+a. Lease payment as required by lease.
+b. Four percent of the preceding balance of (d) except for 1/1/22; since this is
+an annuity due, no time has elapsed at the date of the first payment and
+therefore no interest has accrued.
+c. (a) minus (b).
+d. Preceding balance minus (c).
+*Rounded by €0.09.
+ILLUSTRATION 21.7 Lease Amortization Schedule—Lessee
+
+Each lease payment of €20,711.11 consists of two elements: (1) a reduction of the
+lease liability and (2) a financing cost (interest expense).11 The total financing cost
+(interest expense) over the term of the lease is €7,665.20. This amount is the
+difference between the present value of the lease payments (€95,890.35) and the
+actual cash disbursed (€103,555.55). Ivanhoe records interest expense for the
+first year of the lease as follows.
+December 31, 2022
+Interest Expense 3,007.17
+Lease Liability
+Depreciation of the right-of-use asset over the five-year lease term, applying
+Ivanhoe’s normal depreciation policy (straight-line method), results in the
+following entry at December 31, 2022.
+December 31, 2022
+Depreciation Expense
+Right-of-Use Asset (€95,890.35 ÷ 5 years)
+At December 31, 2022, Ivanhoe reports right-of-use assets and related lease
+liabilities separately from other assets and liabilities on its statement of financial
+position, or discloses these assets and liabilities in the notes to its financial
+statements.
+Ivanhoe classifies the portion of the liability due within one year or the operating
+cycle, whichever is longer, with current liabilities, and the rest with non-current
+liabilities. For example, the current portion of the December 31, 2022, total
+obligation of €75,179.24 in Ivanhoe’s amortization schedule is the amount payable
+in 2023, or €20,711.11. Note that this current portion is composed of two
+components: (1) accrued interest on the liability outstanding throughout the year
+(€3,007.17) and (2) reduction of the initial lease liability (€17,703.94).
+Illustration 21.8 shows the presentation of the lease assets and liabilities
+sections as they relate to lease transactions at December 31, 2022, assuming
+Ivanhoe chose to present right-of-use assets and lease liabilities separately from
+other assets and liabilities on the statement of financial position.
+
+Non-current assets
+Right-of-use assets (€95,890.35 − €19,178.07) €76,712.28
+Current liabilities
+Lease liability (€3,007.17 + €17,703.94)
+Non-current liabilities
+Lease liability
+ILLUSTRATION 21.8 Statement of Financial Position Presentation
+On its December 31, 2022, income statement, Ivanhoe reports interest expense on
+the liability and depreciation expense related to right-of-use assets, as shown in
+Illustration 21.9.
+Expenses
+Interest expense (lease liabilities)
+Depreciation expense (right-of-use assets)
+ILLUSTRATION 21.9 Income Statement Presentation
+Ivanhoe records the second lease payment as follows.
+January 1, 2023
+Lease Liability (€3,007.17 + €17,703.94) 20,711.11
+Cash
+Entries through 2026 follow the pattern above. Upon expiration of the lease,
+Ivanhoe has fully depreciated the amount capitalized as a right-of-use asset. It
+also has fully discharged its lease obligation. At the date the lease expires, both the
+right-of-use asset account and lease liability account related to Ivanhoe’s lease of
+the backhoe have zero balances. If Ivanhoe does not purchase the backhoe, it
+returns the equipment to CNH.12
+If Ivanhoe purchases the equipment from CNH at the termination of the lease at a
+price of €5,000 and the estimated remaining life of the equipment is two years, it
+makes the following entry.
+January 1, 2027
+Equipment 5,000
+Cash
+Lessee Accounting: Example 2
+
+In the CNH/Ivanhoe lease just discussed, the residual value was guaranteed by
+the lessee. This guaranteed residual value did not affect the computation of the
+lease liability, however, because it was probable that the expected residual value
+was greater than the guaranteed residual value. If the expected residual value is
+greater than the guaranteed residual value, then Ivanhoe simply returns the
+equipment to CNH. However, if the expected residual value is less than the
+guaranteed residual value, Ivanhoe must record a loss on the lease to cover this
+deficiency.
+To illustrate a situation where the expected residual value is below the guaranteed
+residual value, assume in the earlier CNH/Ivanhoe example that it is probable
+that the residual value will be €3,000 instead of the guaranteed amount of
+€5,000. If Ivanhoe estimates the residual value of the backhoe at the end of the
+lease to be €3,000, Ivanhoe includes €2,000 (€5,000 − €3,000) as an additional
+lease payment in determining the lease liability and right-of-use asset.
+Illustration 21.10 shows the computation of the lease liability/right-of-use
+asset for Ivanhoe in this situation.
+Ivanhoe’s Capitalized Amount (4% Rate)
+Annuity-Due Basis, Including Guaranteed Residual Value
+Present value of five annual rental payments (€20,711.11 × 4.62990
+(PVF-AD5,4%))
+€95,890.35*
+Present value of probable residual value payment of €2,000 due 5
+years after date of commencement (€2,000 × .82193 (PVF5,4%))
+Lessee’s lease liability/right-of-use asset
+*Rounded by €0.02.
+ILLUSTRATION 21.10 Computation of Lessee’s Capitalized Amount—
+Guaranteed Residual Value
+Ivanhoe makes the following entries to record the lease and the first payment.
+January 1, 2022
+Right-of-Use Asset 97,534.21
+Lease Liability
+Lease Liability
+Cash
+Ivanhoe prepares a lease amortization schedule to show interest expense and
+related amortization of the lease liability over the five-year period. The schedule,
+shown in Illustration 21.11, is based on an expected residual value payment of
+€2,000 (€5,000 − €3,000) at the end of five years.
+
+Ivanhoe Mines
+Lease Amortization Schedule
+Annuity-Due Basis
+Date
+Annual
+Lease
+Payment
+Interest (4%)
+on Liability
+Reduction 
+of Lease 
+Liability
+Lease 
+Liability
+(a)
+(b)
+(c)
+(d)
+1/1/22
+1/1/22
+€
+1/1/23
+1/1/24
+1/1/25
+1/1/26
+1/1/27
+76.82*
+a. Lease payment as required by lease.
+b. Four percent of the preceding balance of (d) except for 1/1/22; since this is
+an annuity due, no time has elapsed at the date of the first payment and
+therefore no interest has accrued.
+c. (a) minus (b).
+d. Preceding balance minus (c).
+*Rounded by €0.11.
+ILLUSTRATION 21.11 Lease Amortization Schedule—Lessee
+Illustration 21.12 shows, in comparative form, Ivanhoe’s entries for the first
+two years of the lease when:
+1. Ivanhoe expects to pay €2,000 at the end of the lease related to the
+guaranteed residual value (see Illustration 21.11).
+2. Ivanhoe does not expect to owe an additional payment for the guaranteed
+residual value (see Illustration 21.7).
+
+ILLUSTRATION 21.12 Journal Entries—Guaranteed Residual Value
+Following similar entries in subsequent years of the lease and using the amounts
+in Illustration 21.11, at the end of the lease term (January 1, 2027), Ivanhoe
+returns the asset to CNH and makes the entries shown in Illustration 21.13
+under the two situations.
+ILLUSTRATION 
+Final 
+Payments—Guaranteed 
+and
+Unguaranteed Residual Value
+Following the entries summarized in Illustrations 21.12 and 21.13, the Right-of-
+Use Asset and the Lease Liability accounts have been fully amortized and have
+zero balances. If at the end of the lease (January 1, 2027) Ivanhoe has no
+additional obligations under the residual value guarantee, no further entries are
+needed.
+Residual Value Loss
+What if the fair value of the underlying asset is less than the expected residual
+value, such that Ivanhoe will have to further compensate CNH under the residual
+value guarantee? In this situation, Ivanhoe will record a loss. For example,
+assume that due to poor maintenance of the backhoe, Ivanhoe and CNH agree
+that the fair value of the asset is zero upon returning the backhoe to CNH on
+
+January 1, 2027. In this case, Ivanhoe reports a loss of €3,000. Under the expected
+payment scenario, Ivanhoe makes the following entry.
+January 1, 2027
+Loss on Lease (€5,000 − €2,000) 3,000
+Cash
+Under the no expected payment scenario, Ivanhoe makes the following entry.
+Loss on Lease (€5,000 − €0) 5,000
+Cash
+Bargain Purchase Option
+As stated earlier, a bargain purchase option allows the lessee to purchase the
+leased property for a future price that is substantially lower than the asset’s
+expected future fair value. That is, the price is so favorable at the lease’s
+commencement that the future exercise of the option appears to be reasonably
+certain. If a bargain purchase option exists, the lessee must increase the present
+value of the lease payments by the present value of the option price. For example,
+assume that Ivanhoe Mines (see Illustration 21.11) had an option to buy the
+leased equipment for €2,000 at the end of the five-year lease term. At that point,
+Ivanhoe and CNH expect the fair value to be €10,000. The significant difference
+between the option price and the fair value creates a bargain purchase option, as
+the exercise of that option is reasonably certain.
+A bargain purchase option affects the accounting for leases in the same way as a
+guaranteed residual value with a probable amount to be owed. In other words,
+with a guaranteed residual value, the lessee is expected to make an additional
+payment related to the residual value at the end of the lease. Similarly, the cost of
+a bargain purchase option is expected to be paid by the lessee. Therefore, the
+computations, amortization schedule, and entries prepared for this €2,000
+bargain purchase option are identical to those shown for the €2,000 probable
+amount to be owed under the guaranteed residual value (see Illustrations 21.11,
+21.12, and 21.13).
+The only difference between the accounting treatment for a bargain purchase
+option and a guaranteed residual value of identical amounts and circumstances is
+in the computation of the annual depreciation. In the case of a guaranteed
+residual value, Ivanhoe depreciates the right-of-use asset over the lease term. In
+the case of a bargain purchase option, it uses the economic life of the
+underlying asset, given that the lessee takes ownership of the asset.
+Lessee Accounting: Example 3
+
+The first two lessee examples illustrate leases with guaranteed residual values. To
+illustrate lessee accounting with an unguaranteed residual value, assume that
+Hathaway Disposal (lessor) and Marks and Spencer plc (M&S) (GBR) (the
+lessee) sign a lease agreement dated January 1, 2022. The lease agreement
+specifies that Hathaway will grant right-of-use of one of its standard cardboard
+compactors for use at one of M&S’s stores. Information relevant to the lease is as
+follows.
+The term of the lease is three years. The lease agreement is non-cancelable,
+requiring equal rental payments of £17,620.08 at the beginning of each year
+of the lease (annuity-due basis).
+The compactor has a cost and fair value at commencement of the lease of
+£60,000, an estimated economic life of seven years, and an expected residual
+value of £12,000, which is unguaranteed.
+The lease contains no renewal options, and the compactor reverts to
+Hathaway at the termination of the lease.
+The implicit rate of the lessor is not known by M&S. M&S’s incremental
+borrowing rate is six percent.
+Under this lease arrangement, M&S has right of use of the compactor for three
+years and will return the asset to Hathaway at the end of the lease; Hathaway
+retains ownership of the compactor. The present value of the lease payments for
+M&S in this situation is £49,924.56 (£17,620.08 × 2.83339 (PVF-AD3,6%)). Note
+that the lease liability of £49,924.56 does not include any payments related to the
+unguaranteed residual value. M&S makes the following entries to record the lease
+and the first payment.
+January 1, 2022
+Right-of-Use Asset 49,924.56
+Lease Liability
+Lease Liability
+Cash
+M&S prepares a lease amortization schedule to show interest expense and related
+amortization of the lease liability over the three-year period, as shown in
+Illustration 21.14.
+
+Marks and Spencer plc
+Lease Amortization Schedule
+Annuity-Due Basis
+Date
+Lease
+Payment
+Interest (6%)
+on Liability
+Reduction of 
+Lease Liability
+Lease 
+Liability
+(a)
+(b)
+(c)
+(d)
+1/1/22
+1/1/22
+£
+–0–
+1/1/23
+1/1/24
+997.41*
+a. Lease payment as required by lease.
+b. Six percent of the preceding balance of (d) except for 1/1/22; since this is an
+annuity due, no time has elapsed at the date of the first payment and
+therefore no interest has accrued.
+c. (a) minus (b).
+d. Preceding balance minus (c).
+*Rounded by £0.05.
+ILLUSTRATION 21.14 Lease Amortization Schedule—Lessee
+The journal entries to be prepared by M&S throughout the lease to record lease
+expense and amortization of the lease liability and depreciation of the right-of-use
+asset are as shown in Illustration 21.15, using the amounts presented in
+Illustration 21.14.
+
+ILLUSTRATION 21.15 Journal Entries by Lessee
+Following these entries, as indicated in Illustration 21.14, the lease liability and
+the right-of-use asset have zero balances. M&S returns the asset to Hathaway.
+Low-Value and Short-Term Leases
+As indicated, the IASB provided an exception to the required capitalization of all
+leases for (1) leases of underlying assets with low value and (2) short-term leases
+with a term of 12 months or less. [8]
+Low-Value Leases
+For low-value leases (of underlying assets with values of $5,000 or less), rather
+than recording a right-of-use asset and lease liability, a lessee may elect to
+expense the lease payments as incurred. This election can be made on a lease-by-
+lease basis, and if chosen, the lessee assesses the value of an underlying asset
+based on the value of the asset when it is new, regardless of the age of the asset
+being leased. Examples of low-value assets include desktop and laptop computers,
+small items of office furniture, telephones, and other low-value equipment.
+Short-Term Leases
+
+A short-term lease is a lease that, at the commencement date, has a lease
+term of 12 months or less. Rather than recording a right-of-use asset and lease
+liability, lessees may elect to expense the lease payments as incurred. Leases may
+include options to either extend the term of the lease (a renewal option) or to
+terminate the lease prior to the contractually defined lease expiration date (a
+termination option). In these situations, renewal or termination options that are
+reasonably certain of exercise by the lessee are included in the lease term.
+Therefore, a one-year lease with a renewal option that the lessee is reasonably
+certain to exercise is not a short-term lease. Illustration 21.16 provides an
+example of two short-term lease situations.13
+Short-Term Leases
+Facts: (a) Thomas Company (lessee) enters into an arrangement to lease a crane
+for a 6-month period, with the option to extend the term for up to 9 additional
+months (in 3-month increments). After considering the nature of the project,
+Thomas determines that it expects to use the crane for only 9 months and is
+therefore reasonably certain that it will exercise only one of the 3-month renewal
+options.
+project for which the crane is being used is now expected to take 15 months to
+complete. After considering the nature of the project, Thomas determines that it
+expects to use the crane for 15 months and is therefore reasonably certain that it
+will exercise all three renewal options.
+Question: How would Thomas report these two situations?
+Solution:
+the short-term lease exception, as it does not expect to exercise the renewal
+option.
+to exercise all three renewal options. Thus, Thomas is not able to apply the
+short-term lease exception and must record a right-of-use asset and related
+lease liability.
+ILLUSTRATION 21.16 Short-Term Lease Examples
+Summary of Lessee Accounting
+
+As shown in three finance lease examples, lessees capitalize all leases. The only
+exceptions to the capitalization requirement are for leases covering a term of less
+than one year, and leases of property with a value less than $5,000. Once the lease
+is recorded, the lessee recognizes interest expense on the lease liability over the
+life of the lease using the effective-interest method and records depreciation
+expense on the right-of-use asset. A key source of variation relates to the
+treatment of residual values.
+The guidelines for residual values, as shown in three lessee examples, are as
+follows. [9]
+1. If it is probable that the expected residual value is equal to or greater than the
+guaranteed residual value, the lessee should not include the guaranteed
+residual value in the computation of the lease liability.
+2. If it is probable that the expected residual value is less than the guaranteed
+residual value, the present value of the difference between the expected and
+guaranteed residual value should be included in computation of the lease
+liability.
+3. The lessee does not include the unguaranteed residual value in the
+computation of the lease liability.
+
+What Do the Numbers Mean?
+Your Lease Is Killing My Income
+As indicated, applying the new guidance in IFRS 16 can result in “front-
+loading” of expenses, compared to the prior standard (IAS 17). IAS 17 allowed
+companies to expense payments as incurred on some leases (hereafter
+referred to as the operating method). The operating method leads to a
+constant expense from period to period. Under the new lease standard, lease
+expense is generally higher than the operating method in the earlier years of
+the lease because depreciation plus interest expense exceeds the constant
+expense charge under the operating method. The expense profiles from
+application of IFRS 16 and prior IFRS (IAS 17) are shown in the following
+chart for an individual lease (assuming lease payments are even throughout
+the lease term).
+The chart shows that (a) the sum of interest and depreciation on a lease
+applying IFRS 16 is higher than straight-line expense for an operating lease at
+the beginning of the lease term and lower at the end of the lease term, and (b)
+the point at which interest plus depreciation is equal to expense under the
+operating lease method expense (t1 in the chart) occurs somewhere after the
+midpoint of the lease.
+However, earnings before interest, taxes, depreciation, and amortization
+(EBITDA)—a metric closely watched by market analysts to assess profitability
+and financial leverage—is expected to increase under the new rules. This is
+because, under the new rules, EBITDA does not include lease expenses
+(interest, depreciation and amortization), while the prior rules included the
+entire expense for operating leases in EBITDA. One analysis, based on 3,199
+IFRS reporters worldwide, estimates the increases in EBITDA will range from
+6 percent to 11 percent, depending on industry and geographic region.
+Sources: “A Study on the Impact of Lease Capitalization: IFRS 16: The New Leases Standard,”
+www.pwc.com (February 2016); Effects Analysis: IFRS 16 Leases, IASB (January 2016); and N.
+
+Trentmann, “CFOs Overhaul Performance Measures in Response to New Accounting Rules,” Wall
+Street Journal (May 2, 2019).
+Lessor Accounting
+LEARNING OBJECTIVE 3
+Explain the accounting for leases by lessors.
+Economics of Leasing
+In our examples with CNH/Ivanhoe (Examples 1 and 2), the rental payment was
+given at €20,711.11. It is important to understand that CNH (the lessor)
+determines the amount of the rental payment, not the lessee. CNH determines
+this payment using the rate of return—the implicit rate—needed to justify leasing
+the backhoe. In establishing the implicit rate, CNH considers the credit standing
+of Ivanhoe, the length of the lease, and the status of the residual value
+(guaranteed versus unguaranteed).
+In Examples 1 and 2, CNH determined the implicit rate to be 4 percent, the fair
+value of the equipment to be €100,000, and the residual value to be €5,000. CNH
+then computed the lease payment as shown in Illustration 21.17.
+Fair value of leased equipment
+Less: Present value of the residual value (€5,000 × .82193
+(PVF5,4%))
+Amount to be recovered by lessor through lease payments
+Five beginning-of-year lease payments to earn a 4% return
+(€95,890.35 ÷ 4.62990 (PVF-AD5,4%))
+€
+ILLUSTRATION 21.17 Lease Payment Calculation
+As indicated, when a residual value is involved (whether guaranteed or not), CNH
+would not have to recover as much from the lease payments. Therefore, the
+periodic lease payments would be less.
+Classification of Leases by the Lessor
+For accounting purposes, the lessor classifies leases as a finance lease or an
+operating lease. For a lease to be a finance lease, it must be non-cancelable and
+meet at least one of five tests (see Illustration 21.18). [10] To meet one of
+these five tests, the lessor must transfer control of a substantial portion of the
+
+underlying asset to the lessee or provide ownership of the underlying asset to the
+lessee.14
+ILLUSTRATION 21.18 Lessor Classification Tests
+All leases that do not meet one of the tests are classified as operating leases. In
+an operating lease, the lessor conveys the right to use the underlying asset for the
+term of the lease but not ownership (or control of a substantial portion) of the
+underlying asset itself. Illustration 21.18 presents the lease classification tests,
+which are used to determine whether a lessor should classify the lease as a
+finance lease or as an operating lease.
+We discuss in detail each of the five tests on the following pages.
+Transfer of Ownership Test
+If the lease transfers ownership of the asset to the lessee, the lessor classifies the
+lease as a finance lease. This test is not controversial and is easily implemented in
+
+practice.
+Purchase Option Test
+As indicated earlier, a purchase option test is met if it is reasonably certain that
+the lessee will exercise the option. The lease purchase option allows the lessee to
+purchase the property for a price that is significantly lower than the underlying
+asset’s expected fair value at the date the option becomes exercisable (a bargain
+purchase option). That is, the lessor transfers control (ownership) of the asset
+to the lessee.
+Lease Term Test
+When the lease term is a major part of the remaining economic life of the leased
+asset, lessors should use the finance method in accounting for the lease
+transaction. The question is, what is a major part of the economic life of a leased
+asset? The IASB indicates that lessees should use judgment and offers additional
+factors to consider in its application guidance for IFRS 16 to assist in these
+decisions. For purposes of your homework, if the lease term is 75 percent or
+greater of the economic life of the lease asset, assume that the lease meets the lease
+term test, and finance lease treatment is appropriate.15
+Present Value Test
+If the present value of the lease payments is reasonably close to the fair value of
+the asset, the lessor is effectively transferring control (ownership) of the asset to
+the lessee. Again, the IASB recognizes that determining what is reasonably close
+often involves significant judgment and therefore provides additional application
+guidance related to this test. For purposes of your homework, if the present value
+of the lease payments equals or exceeds 90 percent of the fair value of the asset,
+assume that the lease meets the present value test, and finance lease treatment
+is appropriate.
+Lease Payments
+As discussed earlier, the lease payments generally include the following: (1) Fixed
+payments, which are the rental payments that are specified in the lease agreement
+and fixed over the lease term; (2) Variable payments, which are based on an index
+or a rate. The lessor should include variable lease payments at the level of the
+index/rate at the commencement date; (3) Residual values (whether guaranteed
+or not), which are included because a lessor, does not have to recover as much
+from the rental payments and therefore the rental payments are less; and (4)
+Payments related to purchase or termination options that the lessee is reasonably
+certain to exercise. As indicated earlier, if the lease contains a bargain purchase
+option, the cost of that option should be considered part of the lease payments.
+
+Discount Rate
+The lessor should use the implicit rate to determine the present value of the
+payments. This rate is defined as the discount rate that, at commencement of the
+lease, causes the aggregate present value of the lease payments and unguaranteed
+residual value to be equal to the fair value of the leased asset.
+Alternative Use Test
+If at the end of the lease term the lessor does not have an alternative use for the
+asset, it is assumed that the lessor has transferred control (ownership) of the
+asset to the lessee. Therefore, the lessor uses the finance lease method. For
+example, an equipment manufacturer might build hydraulic lifts to meet unique
+loading dock configurations of a lessee, like Amazon.com (USA). Given the
+specialty nature of the equipment, only Amazon can use the lifts and it receives
+substantially all of the benefits of the leased asset, such that the alternative use
+test is met for the lessor.16
+What Do the Numbers Mean?
+Not So Fast
+As an illustration of the importance of the control criteria, consider the case of
+computer leasing companies, which at one time bought IBM (USA)
+equipment, leased the equipment to their customers, and removed the leased
+assets from their statements of financial position. In leasing the assets, the
+computer lessors stated that they would substitute new IBM equipment if
+obsolescence occurred (a sales return provision). However, when IBM
+introduced a new computer line, IBM refused to sell it to the computer leasing
+companies. As a result, a number of the lessors could not meet their contracts
+with their customers and had to take back the old equipment. Thus, control
+had not been fully transferred, and the computer leasing companies had to
+reinstate the assets they had taken off the books. Such a case demonstrates
+one reason why the lessor classification tests must be aligned with those for
+revenue recognition.
+Accounting Measurement and Presentation
+Lessors account for finance leases similarly to the accounting for the sale of an
+asset with a loan, by eliminating the asset and recording a Lease Receivable
+equal to the present value of the lease payments. Lessors then recognize interest
+revenue on the lease receivable over the life of the lease using the effective-
+
+interest method. The Lease Receivable is computed as shown in Illustration
+Lease Receivable = Present Value of
+Rental Payments +
+Present Value of Guaranteed
+and Unguaranteed
+Residual Values
+ILLUSTRATION 21.19 Lease Receivable
+Under the operating method, lessors continue to recognize the asset on the
+statement of financial position and record equal amounts of lease revenue
+(straight-line basis) in each period. Lessors generally depreciate the leased asset
+on a straight-line basis.18
+Accounting for Finance Lease (Lessor)
+Finance leases are often subdivided into sales-type leases and direct financing
+leases. Normally, sales-type leases arise when manufacturers or dealers use
+leasing as a means of marketing their products. For example, a computer
+manufacturer will lease its computer equipment (possibly through a captive) to
+businesses and institutions. Direct financing leases generally result from
+arrangements with lessors that are primarily engaged in financing operations (e.g.,
+banks and insurance companies). Sales-type leases are covered extensively in this
+chapter because these type of transactions involve the recording of sales revenue,
+cost of goods sold, and interest revenue. Direct financing leases generally record
+only interest revenue. Both of these approaches follow the revenue recognition
+guidelines in IFRS 15.
+Finance (Sales-Type) Lease Example
+To illustrate lessor accounting for a finance (sales-type) lease, refer to the
+preceding CNH Global/Ivanhoe Mines example. We repeat here the information
+relevant to CNH in accounting for this lease transaction.
+The term of the lease is five years. The lease agreement is non-cancelable,
+requiring equal rental payments at the beginning of each year (annuity-due
+basis).
+The backhoe has a fair value at the commencement of the lease of €100,000,
+an estimated economic life of five years, and a guaranteed residual value of
+€5,000 (which is less than the expected fair value of the backhoe at the end of
+the lease). Further, assume the underlying asset (the backhoe) has an
+€85,000 cost to the dealer, CNH.
+The lease contains no renewal options. The backhoe reverts to CNH at the
+termination of the lease.
+
+Collectibility of payments by CNH is probable.
+CNH sets the annual rental payment to earn a rate of return of 4 percent per
+year (implicit rate) on its investment as shown in Illustration 21.20.
+Fair value of leased equipment
+Less: Present value of the residual value (€5,000 × .82193
+(PVF5,4%))
+Amount to be recovered by lessor through lease payments
+Five beginning-of-year lease payments to earn a 4% return
+(€95,890.35 ÷ 4.62990 (PVF-AD5,4%))
+€
+ILLUSTRATION 21.20 Lease Payment Calculation
+CNH determines the lease payments based on the implicit rate (rate of return)
+needed to justify leasing the asset. In establishing this rate of return, CNH
+considers the credit standing of Ivanhoe, the term of the lease, and whether the
+residual value is guaranteed or unguaranteed. In the CNH/Ivanhoe example,
+when a residual value is involved (whether guaranteed or not), CNH does not have
+to recover as much from the rental payments and therefore the rental payments
+are less.
+CNH evaluates the lease classification tests as indicated in Illustration 21.21.
+
+Test
+Assessment
+1. Transfer of
+ownership
+test
+Transfer of ownership does not occur; the asset reverts to CNH
+at the end of the lease.
+2. Purchase
+option test
+There is no purchase option in the lease.
+3. Lease term
+test
+The lease term is equal to the economic life of the asset (100%).
+Therefore, the lease meets the lease term test.
+4. Present
+value test
+The present value of the lease payments is €100,000*, which is
+100% (greater than or equal to 90%) of the fair value of the
+backhoe. Therefore, the lease meets the present value test.
+5. Alternative
+use test
+Since the asset is returned to CNH with some residual value, the
+alternative use test is not met.
+*Present value of
+payments (€20,711.11
+× 4.62990 (PVF-
+AD5,4%))
+Present value of the
+residual value
+(€5,000 × .82193
+(PVF5,4%))
+ILLUSTRATION 21.21 Lease Classification Tests—Sales-Type Lease
+The lease meets the criteria for classification as a finance (sales-type) lease
+because (1) the present value of the lease payments is equal to the fair value of the
+asset, and (2) the lease term is equal to the economic life of the asset. That is,
+Ivanhoe will consume substantially the entire underlying asset over the lease
+term. CNH computes the lease receivable as shown in Illustration 21.22.
+
+Lease
+receivable
+= Present value of the rental payment + Present value of the
+guaranteed residual value
+= €95,890.35 (€20,711.11 × 4.62990 (PVF-AD5,4%)) + €4,109.65
+(€5,000.00 × .82193 (PVF5,4%))
+= €100,000.00
+ILLUSTRATION 21.22 Lease Receivable Calculation
+CNH then records the lease receivable, cost of goods sold, and sales revenue and
+removes the leased asset (which prior to the lease was included in CNH’s
+inventory). The journal entry to record this transaction on January 1, 2022, is as
+follows.
+January 1, 2022
+Lease Receivable
+Cost of Goods Sold
+Sales Revenue
+Inventory
+As a result, CNH reports a gross profit of €15,000 (€100,000 − €85,000) on its
+income statement. CNH then prepares a lease amortization schedule, as shown in
+Illustration 21.23, applying the effective-interest method and recognizing
+interest revenue as a function of the lease receivable balance.19
+
+CNH Capital
+Lease Amortization Schedule
+Annuity-Due Basis
+Date
+Annual
+Lease 
+Payment
+Interest (4%)
+on Lease
+Receivable
+Reduction 
+of Lease
+Receivable
+Lease
+Receivable
+(a)
+(b)
+(c)
+(d)
+1/1/22
+1/1/22
+€
+€
+–0–
+€
+1/1/23
+1/1/24
+1/1/25
+1/1/26
+1/1/27
+192.19*
+a. Lease payment as required by lease.
+b. Four percent of the preceding balance of (d) except for 1/1/22; since this is
+an annuity due, no time has elapsed at the date of the first payment and
+therefore no interest has accrued.
+c. (a) minus (b).
+d. Preceding balance minus (c).
+*Rounded by €0.12.
+ILLUSTRATION 21.23 Lease Amortization Schedule—Lessor
+On January 1, 2022, CNH records receipt of the first year’s lease payment as
+follows.
+January 1, 2022
+Cash
+Lease Receivable
+On December 31, 2022, CNH recognizes the interest revenue on the lease
+receivable during the first year through the following entry (see Underlying
+Concepts).
+
+Underlying Concepts
+Interest revenue for the lessor may differ from interest expense for the lessee
+because the lease receivable amount is different than that for the lease
+liability.
+December 31, 2022
+Lease Receivable
+Interest Revenue
+At December 31, 2022, CNH reports the lease receivable in its statement of
+financial position among current assets and non-current assets. It classifies the
+portion due within one year or the operating cycle, whichever is longer, as a
+current asset, and the rest with non-current assets.
+Illustration 21.24 shows CNH’s assets section as it relates to the Ivanhoe lease
+transactions at December 31, 2022.
+Current assets
+Lease receivable (€3,171.56 + €17,539.55) €20,711.11
+Non-current assets (investments)
+Lease receivable
+ILLUSTRATION 21.24 Statement of Financial Position Presentation
+In its income statement for 2022, CNH presents the revenue and expense items
+shown in Illustration 21.25.
+Sales
+Sales revenue
+Less: Cost of goods sold
+Other revenue
+Interest revenue
+ILLUSTRATION 21.25 Income Statement Presentation
+The following entries record receipt of the second year’s lease payment and
+recognition of the interest revenue in 2023.
+January 1, 2023
+Cash
+Lease Receivable
+
+December 31, 2023
+December 31, 2023
+Lease Receivable
+Interest Revenue
+Journal entries through 2026 follow the same pattern, except for the year 2026. In
+2026, the final lease payment is made on January 1, 2026, but the asset is not
+returned to CNH until January 1, 2027.
+CNH makes the following entry on December 31, 2026.
+December 31, 2026
+Lease Receivable
+Interest Revenue
+As a result, interest revenue of €192.19 is recognized for the year 2026 as the
+residual value accretes up to €5,000 at the end of the lease. At January 1, 2027,
+when the leased asset is returned to CNH, the Lease Receivable account is reduced
+to zero and the asset returned is recorded in inventory, as follows.
+January 1, 2027
+Inventory
+Lease Receivable
+Lessor Accounting for Residual Values
+Lessor Perspective—Guaranteed Residual Value
+In the Ivanhoe/CNH example, Ivanhoe guaranteed a residual value of €5,000. In
+computing the amount to be recovered from the rental payments, the present
+value of the residual value was subtracted from the fair value of the backhoe to
+arrive at the amount to be recovered by the lessor. Illustration 21.26 (which is
+the same as Illustration 21.17) shows this computation.
+Fair value of leased equipment
+Less: Present value of the residual value (€5,000 × .82193
+(PVF5,4%))
+Amount to be recovered by lessor through lease payments
+Five beginning-of-year lease payments to earn a 4% return
+(€95,890.35 ÷ 4.62990 (PVF-AD5,4%))
+€
+ILLUSTRATION 21.26 Lease Payment Calculation
+
+The computation in Illustration 21.26 is the same whether the residual value is
+guaranteed or unguaranteed.
+The lease agreement between CNH and Ivanhoe is accounted for as a sales-type
+lease. CNH therefore recorded sales revenue and related cost of goods sold at lease
+commencement. CNH accounts for the guaranteed residual value as part of sales
+revenue because the lessor receives this amount at the end of the lease either in
+cash or in the residual value returned.
+Lessor Perspective—Unguaranteed Residual Value
+What happens if the residual value for CNH is unguaranteed? In this case, there is
+less certainty that the unguaranteed residual portion of the asset has been “sold.”
+Therefore, the lessor recognizes sales revenue and cost of goods sold only for the
+portion of the asset for which recovery is assured. To account for this uncertainty,
+both sales revenue and cost of goods sold are reduced by the present value of the
+unguaranteed residual value. [12] Given that the amounts subtracted from sales
+revenue and cost of goods sold are the same, the gross profit computed will still be
+the same amount as when a guaranteed residual value exists.
+To compare a sales-type lease with a guaranteed residual value to one with an
+unguaranteed residual value, assume the same facts as in the previous
+CNH/Ivanhoe lease situation. That is:
+1. The sales price is €100,000.
+2. The residual value is €5,000 (the present value of which is €4,109.65).
+3. The leased equipment has an €85,000 cost to the dealer, CNH.
+Illustration 21.27 shows the computation of the amounts relevant to a sales-
+type lease, under both a guaranteed and unguaranteed residual value situation.
+
+Guaranteed Residual Value
+Unguaranteed Residual
+Value
+Lease receivable
+[€20,711.11 × 4.62990 (PVF-
+AD5,4%)
++ €5,000 × .82193 (PVF5,4%)]
+Same
+Sales price of the
+asset
+(€100,000 − €4,109.65)
+Cost of goods sold
+(€85,000.00 − €4,109.65)
+Gross profit
+€15,000 (€100,000 − €85,000)
+(€95,890.35 −
+ILLUSTRATION 21.27 Computation of Lease Amounts by CNH—
+Sales-Type Lease
+CNH makes the entries with respect to the lease arrangement under guaranteed
+and unguaranteed residual value situations, as shown in Illustration 21.28.
+ILLUSTRATION 21.28 Entries for Guaranteed and Unguaranteed
+Residual Values—Sales-Type Lease
+
+CNH records the same gross profit (€15,000) at the point of sale whether the
+residual value is guaranteed or unguaranteed. However, the amounts recorded for
+sales revenue and the cost of goods sold are different between the guaranteed and
+unguaranteed situations. The reason for the difference is the uncertainty
+surrounding the realization of the unguaranteed residual value. Unlike the
+guaranteed residual value situation, where the lessor knows that it will receive the
+full amount of the guarantee at the end of the lease, in an unguaranteed residual
+value situation the lessor is not sure what it will receive at the end of the lease
+regarding the residual value. That is, due to the uncertainty surrounding the
+realization of the unguaranteed residual value, sales revenue and related cost of
+goods sold are reduced by the present value of the residual value. This results in
+sales revenue and cost of goods sold being reported at different
+amounts under an unguaranteed residual value situation.
+Lessor Accounting for Operating Leases
+To illustrate lessor accounting for an operating lease, we use the previously
+discussed lease agreement between Hathaway Disposal Ltd. and M&S for the use
+of one of Hathaway’s standard cardboard compactors. Information relevant to the
+lease is as follows.
+The term of the lease is three years. The lease agreement is non-cancelable,
+requiring three annual rental payments of £17,620.08, with the first payment
+on January 1, 2022 (annuity-due basis).
+The compactor has a cost and fair value at commencement of the lease of
+£60,000, an estimated economic life of five years, and a residual value at the
+end of the lease of £12,000 (unguaranteed).
+The lease contains no renewal options. The compactor reverts to Hathaway at
+the termination of the lease.
+The implicit rate of the lessor is known by M&S. M&S’s incremental
+borrowing rate is six percent. Hathaway sets the annual rental rate to earn a
+rate of return of six percent per year (implicit rate) on its investment, as
+shown in Illustration 21.29.
+
+Fair value of leased equipment
+Less: Present value of the residual value (£12,000 × .83962
+(PVF3,6%))
+Amount to be recovered by lessor through lease payments
+Three beginning-of-year lease payments to earn a 6% return
+(£49,924.56 ÷ 2.83339 (PVF-AD3,6%))
+ILLUSTRATION 21.29 Computation of Lease Payments
+Hathaway classifies the lease as an operating lease because none of the finance
+lease tests are met, as shown in Illustration 21.30.
+Test
+Assessment
+1. Transfer of
+ownership
+test
+Transfer of ownership does not occur; the asset reverts to
+Hathaway at the end of the lease.
+2. Purchase
+option test
+There is no purchase option in the lease.
+3. Lease term
+test
+The lease term is 60% (3 ÷ 5) of the economic life of the asset,
+which is less than a major part of the life of the asset (75%).
+4. Present
+value test
+The present value of the lease payments is £49,924.56*, which is
+83.2% (£ 49,924.56 ÷ £60,000) of the fair value of the
+compactor. Therefore, the lease does not meet the present value
+test.
+5. Alternative
+use test
+As indicated, the equipment is not of a specialized nature and is
+expected to have use to Hathaway when returned at the end of
+the lease.
+*£17,620.08 × 2.83339 (PVF-AD3,6%)
+ILLUSTRATION 21.30 Lease Classification Tests—Operating Lease
+Under the operating method, Hathaway (the lessor) continues to recognize the
+asset on its statement of financial position and recognizes lease revenue
+(generally on a straight-line basis) in each period. Hathaway continues to
+depreciate the leased asset (see Underlying Concepts).
+
+Underlying Concepts
+Since the lessor owns the underlying asset, the lessor depreciates the
+compactor over its entire useful life.
+To illustrate the operating method for the Hathaway/M&S lease, Hathaway
+records the lease payment on a straight-line basis on January 1, 2022, 2023, and
+2024, as follows.
+January 1, 2022, 2023, and 2024
+Cash
+Unearned Lease Revenue
+On December 31, 2022, 2023, and 2024, Hathaway records the recognition of the
+revenue each period as follows.
+Unearned Lease Revenue 17,620.08
+Lease Revenue
+Hathaway also records depreciation expense on the leased equipment (assuming
+the double-declining-balance method, given a cost basis of £60,000 and a five-
+year economic life), as follows.
+Depreciation Expense (£60,000 × .40)
+Accumulated Depreciation—Equipment
+In addition to depreciation expense, Hathaway records other costs related to the
+lease arrangement, such as insurance, maintenance, and taxes, in the period
+incurred. Hathaway classifies the leased equipment and accompanying
+accumulated depreciation as Leased Assets.
+Special Lease Accounting Problems
+LEARNING OBJECTIVE 4
+Discuss the accounting and reporting for special features of lease
+arrangements.
+The features of lease arrangements that cause unique accounting problems are:
+1. Other lease adjustments.
+2. Presentation, disclosure, and analysis.
+
+Other Lease Adjustments
+Additional lease adjustments that affect the measurement of lease assets and
+liabilities relate to the following:
+Executory costs.
+Lease prepayments and incentives.
+Initial direct costs.
+Executory Costs
+Executory costs are normal expenses associated with owning a leased asset,
+such as property insurance and property taxes. The accounting for executory costs
+depends on how the lease is structured, that is, whether the lease is a gross lease
+or a net lease. In a gross lease, the payments to the lessor are fixed as part of the
+rental payments in the contract. In a net lease, the lessee makes variable
+payments to a third party or to the lessor directly for the executory costs.
+Illustration 21.31 provides examples of these two situations.
+
+Gross versus Net Leases
+Facts: Ortiz SpA enters into a lease arrangement to lease a retail space in a
+shopping mall from Bryant Group. The lease term is 2 years with monthly
+payments of €15,000 per month. Ortiz does not have any obligation to pay any of
+the property taxes or property insurance on the retail space. Ortiz estimates that
+Bryant is paying approximately €1,500 per month related to these executory
+costs.
+Question: How should Ortiz account for the executory costs in this
+situation?
+Solution: Ortiz and Bryant have a gross lease arrangement in that the property
+taxes and property insurance are included in the rental payments made by
+Ortiz. In this arrangement, the payment for the executory costs are fixed (per
+the rental agreement) and should be included in the computation of the lease
+liability.
+Now assume that Ortiz agrees to a lease arrangement in which it must
+reimburse the lessor for the property taxes and property insurance, or pay a
+relevant third party directly. In this case, Ortiz and Bryant have a net lease
+arrangement because the lessee makes variable payments to a third party or to
+the lessor for the executory costs. In this case, Ortiz is responsible for paying
+directly the executory costs and therefore it is a variable payment which is
+expensed in the period incurred (not included in the lease liability and right-of-
+use assets).
+ILLUSTRATION 21.31 Executory Cost Example
+Note that including executory costs in the measurement of the lease liability and
+related right-of-use asset may lead to inflated values on the statement of financial
+position in comparison to lessees who do not capitalize these costs. Thus, the way
+parties structure the payment of executory costs (i.e., variable or fixed) can have
+potentially material implications with regard to the values that appear on the
+statement of financial position.
+In summary, executory costs included in the fixed payments required by the lessor
+should be included in lease payments for purposes of measuring the lease liability.
+Payments by the lessee made directly to the taxing authority or insurance provider
+are considered variable payments and are expensed as incurred. [13]
+Lease Prepayments and Incentives
+
+For all leases at the commencement date, the lease liability is the starting point to
+determine the amount to record for the right-of-use asset. Companies adjust the
+right-of-use asset for any lease prepayments, lease incentives, and initial direct
+costs made prior to or at the commencement date. These adjustments determine
+the amount to report as the right-of-use asset at the lease commencement date as
+follows.
+1. Lease prepayments made by the lessee increase the right-of-use asset.
+2. Lease incentive payments made by the lessor to the lessee reduce the right-
+of-use asset.
+3. Initial direct costs incurred by the lessee (discussed in the next section)
+increase the right-of-use asset.
+Illustration 21.32 identifies the adjustments made to the lease liability balance
+to determine the proper amount to report for the right-of-use asset.
+Initial
+Measurement
+of
+Lease Liability
++
+Prepaid
+Lease
+Payments
+−
+Lease
+Incentives
+Received
++
+Initial
+Direct
+Costs
+=
+Right–
+of-
+Use
+Asset
+ILLUSTRATION 21.32 Right-of-Use Asset Adjustments
+Initial Direct Costs
+Initial direct costs are incremental costs of a lease that would not have been
+incurred had the lease not been executed. [14] Costs directly or indirectly
+attributable to negotiating and arranging the lease (e.g., external legal costs to
+draft or negotiate a lease or an allocation of internal legal costs) are not
+considered initial direct costs. Illustration 21.33 provides examples of costs
+included and excluded from initial direct costs from the lessee and lessor side.20
+
+Included
+Excluded
+Commissions (including payments to
+employees acting as selling agents)
+Legal fees resulting from the execution
+of the lease
+Lease document preparation costs
+incurred after the execution of the
+lease
+Consideration paid for a guarantee of
+residual value by an unrelated third
+party
+Employee salaries
+Internal engineering costs
+Legal fees for services rendered
+before the execution of the
+lease
+Negotiating lease term and
+conditions
+Advertising
+Depreciation
+Costs related to an idle asset
+ILLUSTRATION 21.33 Initial Direct Costs
+Initial direct costs incurred by the lessee are included in the cost of the
+right-of-use asset but are not recorded as part of the lease liability.
+Illustration 21.34 provides an example of the computation of the right-of-use
+asset with initial direct costs.
+
+Right-of-Use Cost Analysis
+Facts: Mangan Company leases from DeMallie Ltd. solar equipment for 8 years
+starting on January 1, 2022. The lease is a finance/sales-type lease. The terms of
+the lease are as follows.
+1. DeMallie will pay Mangan €30,000 as a cash incentive for entering the lease
+by January 1, 2022.
+2. DeMallie pays initial direct costs of €5,000 for legal fees related to the
+execution of the lease.
+3. Mangan incurred €1,500 of initial direct costs (commission paid to lease
+negotiator) which are payable by January 1, 2022.
+4. Mangan must pay not only the first rental payment of €10,000 on January 1,
+2023, but also must prepay the last month’s rental payment on December 31,
+5. The initial measurement of the liability is €400,000.
+Question: What is the amount to be reported for Mangan’s right-of-use
+asset at the commencement date?
+Solution: The measurement of the right-of-use asset for Mangan is as follows.
+Initial measurement of the lease liability
+Cash incentive received from DeMallie (lessor)
+Initial direct costs (commission paid to lease negotiator)
+Prepayments made by Mangan to DeMallie before the lease
+commencement
+Measurement of right-of-use asset at January 1, 2022
+Mangan therefore reports the right-of-use asset at €381,500.
+DeMaille (the lessor) expenses its initial direct costs in the period incurred,
+given that DeMaille reported a gross profit related to its sales-type lease.
+ILLUSTRATION 21.34 Computation of Right-of-Use Asset
+For lessors, initial direct costs often are more significant because they usually
+solicit lessees as part of their sales activities. As a result, lessors often engage
+attorneys to prepare the legal documents, as well as pay commissions incurred in
+connection with the execution of a lease.
+
+Lessor accounting for initial direct costs depends on the type of lease. [15]
+For operating leases, a lessor defers the initial direct costs and amortizes
+them as expenses over the term of the lease.
+For finance leases, the lessor expenses initial direct costs at lease
+commencement (in the period in which it recognizes the profit on the sale).
+An exception is when there is no selling profit or loss on the transaction. If
+there is no selling profit or loss, the initial direct costs are deferred and
+recognized over the lease term.
+Lessors commonly also incur internal costs related to leasing activities, such as
+advertising, servicing existing leases, and establishing and monitoring credit
+policies, as well as the costs for supervision and administration or for expenses
+such as rent and depreciation. Internal direct costs should not be included in
+initial direct costs. Such costs would have been incurred regardless of whether a
+lease was executed. As a result, internal direct costs are generally expensed as
+incurred.
+Presentation, Disclosure, and Analysis
+Presentation
+Illustration 21.35 is a summary of how the lessee reports the information
+related to leases in the financial statements.
+Statement of Financial Position
+Income Statement
+All Leases* Right-of-use asset
+Depreciation expense
+Lease liability
+Interest expense
+*Except low-value and short-term leases.
+ILLUSTRATION 21.35 Presentation in Financial Statements—Lessee
+Illustration 21.36 is a summary of lessor presentation of lease information in
+the financial statements.
+
+Statement of Financial Position
+Income Statement
+FinanceLease
+Lease receivable presented separate
+from other assets
+Interest revenue
+Derecognize the leased asset
+Selling profit or loss for
+a sales-type lease
+Operating
+Lease
+Continue to recognize assets subject to
+operating leases as property, plant, and
+equipment
+Revenue generally
+recognized on a
+straight-line basis
+Depreciation expense
+on the leased asset
+ILLUSTRATION 21.36 Presentation in Financial Statements—Lessor
+Disclosure
+Lessees and lessors must also provide additional qualitative and quantitative
+disclosures to help financial statement users assess the amount, timing, and
+uncertainty of future cash flows. These disclosures are intended to supplement
+the amounts provided in the financial statements. Qualitative disclosures to be
+provided by both lessees and lessors are summarized in Illustration 21.37. [16]
+Nature of the leases, including a general description.
+How variable lease payments are determined.
+Existence and terms and conditions for options to extend or terminate the
+lease, and for residual value guarantees.
+Information about significant assumptions and judgments (e.g., discount
+rates).
+ILLUSTRATION 21.37 Qualitative Lease Disclosures
+Illustration 21.38 presents the type of quantitative information that should be
+disclosed for the lessee.
+
+Total lease cost.
+Finance lease cost, segregated between the depreciation of the right-of-use
+assets and interest on the lease liabilities.
+Low-value and short-term lease cost.
+Weighted-average remaining lease term and weighted-average discount rate.
+Maturity analysis of finance lease liabilities, on an annual basis for a
+minimum of each of the next five years, the sum of the undiscounted cash
+flows for all years thereafter.
+ILLUSTRATION 21.38 Lessee Quantitative Disclosures
+Illustration 21.39 presents financial statement excerpts from the 2018 annual
+report of Air France (FRA). These excerpts represent the statement and note
+disclosures typical of a lessee.
+
+ILLUSTRATION 21.39 Disclosure of Leases by Lessee
+Illustration 21.40 shows the type of quantitative information that should be
+disclosed for the lessor.
+
+Lease-related income, including profit and loss recognized at lease
+commencement for sales-type and direct financing leases, and interest
+income.
+Income from variable lease payments not included in the lease receivable.
+The components of the net investment in sales-type and other financing
+leases, including the carrying amount of the lease receivable, the
+unguaranteed residual asset, and any deferred profit on direct financing
+leases.
+A maturity analysis for operating lease payments and a separate maturity
+analysis for the lease receivable (sales-type and direct financing leases).
+Management approaches for risk associated with residual value of leased
+assets (e.g., buyback agreements or third-party insurance).
+ILLUSTRATION 21.40 Lessor Quantitative Disclosures
+Illustration 21.41 presents the lease note disclosure from the 2018 annual
+report of Trinity Biotech plc (IRL). The disclosure highlights required lessor
+disclosures.
+ILLUSTRATION 21.41 Disclosure of Leases by Lessor
+
+Analysis
+Many companies that lease are likely to see the amounts reported in their
+statements of financial position grow substantially over the next few years as a
+result of implementing the new standard on leasing. Estimates as to its impact on
+the assets and liabilities of companies vary, but it will be in the trillions of dollars.
+As shown in the opening story, airlines use lease arrangements extensively, which
+results in a great deal of off-balance-sheet financing. However, airlines have not
+been the only ones playing the off-balance-sheet leasing game. As indicated in
+Illustration 21.1, retailers like Marks and Spencer plc and Carrefour, and
+publisher RELX employ leases in their businesses. Thus, analysts must adjust
+reported debt levels for the effects of non-capitalized leases. A PwC survey of
+3,000 international companies indicated the impacts of leasing for several
+industries as shown in Illustration 21.42.
+Average
+Increase
+in Interest-
+Bearing Debt
+Companies
+with over 25%
+Increase
+Average
+Increase
+in Leverage
+Retail and trade
+Other services
+Transportation and warehousing
+Professional services
+Accommodation
+All companies
+4%
+ILLUSTRATION 21.42 Leasing Impacts
+Some contend that “grossing up” the assets and liabilities on companies’
+statements of financial position will not have any significant impact on analysis,
+based on information in the financial statements. Their rationale is that equity
+does not change substantially, nor will net income. In addition, it is argued that
+users could have determined the obligations that lessees were incurring by
+examining the notes to the financial statements.
+These assertions are debatable. With the increase in the assets and liabilities as a
+result of the new standard, a number of financial metrics used to measure the
+profitability and solvency of companies will change, which could create challenges
+when performing financial analysis. On the profitability side, return on assets will
+decrease because a company’s assets will increase, but net income will often be
+the same. Furthermore, analysts commonly focus on income subtotals, such as
+earnings before interest, taxes, and depreciation and amortization (EBITDA),
+which likely will require some adjustments as companies depreciate right-of-use
+
+assets and record interest expense. On the solvency side, the debt to equity ratio
+will increase, and the interest coverage ratio will decrease. In addition, recent
+studies indicate that using only note disclosures to determine lease obligations
+has understated their numerical impact.21
+One thing is certain—the grossing up of the assets and liabilities related to lease
+arrangements will have significant consequences on the organizational,
+operational, and contractual side. Examples are:
+1. Jurisdictions often levy taxes based on property amounts, which will now be
+higher.
+2. Performance metrics to evaluate management may have to change for
+companies, particularly when growth rates in assets are used or returns on
+assets are used to measure performance.
+3. Companies may have contracts with governments for which reimbursement
+is based on rent expense, which may change the compensation agreement.
+4. Debt covenants may require revisions.
+Given the pervasiveness and magnitude of the changes, it is not surprising that
+the IASB has allowed an extended implementation window to allow companies
+and users of financial statements to adapt to the new standard.
+
+Evolving Issue
+Bring It On!
+As discussed in the opening story, the lease accounting rules will bring a
+significant amount of lease-related assets and liabilities onto lessee
+statements of financial position. For example, recent estimates for the largest
+100 U.S. companies put the number at over $539 billion. Most agree this is a
+good result—applying the “right-of-use” model will result in reporting more
+relevant and representationally faithful information about leasing
+arrangements, which is a big win for investors and creditors. As the
+chairperson of the IASB remarked, “. . . a financing, in the form of a loan to
+purchase an asset . . . then is recorded. Call it a lease and miraculously it does
+not show up in your books. In my book, if it looks like a duck, swims like a
+duck, and quacks like a duck, then it probably is a duck. So is the case with
+debt—leasing or otherwise.”
+At the same time, as the following table demonstrates, an analysis of the new
+rules and how they might impact the advantages of leasing suggests that
+many of the advantages of leases will remain after implementation of the new
+rules.
+Reason for
+Leasing
+Details
+Status after Proposed New Rules
+Implemented
+Funding
+source
+Additional capital
+source, 100%
+financing, fixed rate,
+level payments, longer
+terms.
+Still a major benefit versus a
+purchase—fixed rate, level
+payments—especially for smaller
+companies with limited sources of
+capital.
+Low-cost
+capital
+Low payments/rate
+due to tax benefits,
+residual and lessor’s
+comparatively low cost
+of funds.
+Still a benefit versus a loan.
+Tax benefits
+Lessee cannot use tax
+benefits and lease
+versus buy shows lease
+option offers lowest
+after tax cost.
+Still a benefit.
+Manage need
+for
+Lessee has flexibility to
+return asset.
+Still a benefit.
+
+assets/residual
+risk transfer
+Convenience
+Quick and convenient
+financing process often
+available at point-of-
+sale.
+Still a benefit.
+Regulatory
+Can help in meeting
+capital requirements.
+Still a partial benefit if the
+capitalized amount is less than the
+cost of the asset, as it is in many
+leases due to residuals assumed
+and tax benefits.
+Accounting
+Asset and liability off-
+balance-sheet.
+Still a partial benefit if the
+capitalized amount is less than the
+cost of the asset, as it is in many
+leases due to residuals assumed
+and tax benefits.
+Sources: Equipment Leasing & Finance Foundation, 2016 State of the Equipment Finance Industry
+Report; M. Murphy, “The Big Number: $539 Billion,” Wall Street Journal (January 16, 2016); Hans
+Hoogervorst, “Harmonisation and Global Economic Consequences,” public lecture at the London
+School of Economics (November 6, 2012); “Telecom Industry Update: Benefits of Financing Remain
+with Lease Accounting Changes,” Knowledge, Leasing/Finance
+(www.telecomreseller.com/2016/05/09/telecom-industry-update-benefits-of-financing-remain-
+with-lease-accounting-changes/); and R. Petta, “The Silver Lining of Lease Accounting: What
+Organizations Should Know About Leasing Standards,” www.manufacturing.net (April 3, 2019).
+APPENDIX 21A
+Sale-Leasebacks
+LEARNING OBJECTIVE *5
+Describe the lessee’s accounting for sale-leaseback transactions.
+In a sale-leaseback arrangement, a company (the seller-lessee) transfers an
+asset to another company (the buyer-lessor) and then leases that asset back from
+the buyer-lessor. For example, Darden Restaurants (USA) sold off its Red
+Lobster division to Golden Gate Capital (USA) (a private equity firm) for $2.1
+billion recently and then leased these restaurants back from Golden Gate Capital.
+This transaction is shown in Illustration 21A.1.
+
+ILLUSTRATION 21A.1 Sale-Leaseback
+Why do companies like Darden Restaurants engage in sale-leaseback
+transactions? Some major reasons are:
+1. Darden can use the cash that otherwise would be tied up in property to
+expand its operations. At the same time, it continues to use the property
+through the lease term.
+2. Darden can structure the lease arrangement so issues such as repurchase
+provisions, refinancing issues, and conventional financing costs are
+minimized.
+3. Darden may receive a tax advantage in that entire rental payments are tax-
+deductible, whereas under a conventional financing, only interest and
+depreciation can be deducted. If the lease has a significant land component
+(land is not depreciable) or if the fair value of the property is much greater
+than the carrying value of the property (depreciation limited to cost of
+property), then the sale lease-back arrangement generally reduces tax
+payments.
+The advantages to Golden Gate Capital (buyer-lessor) are that it generally can
+earn a higher rate of return under a sale-leaseback than under traditional
+financing. In addition, during the lease term, Golden Gate is protected from a
+downturn in the real estate market and may have an inflation hedge, provided the
+property appreciates in value.
+Sale-leasebacks are common. Financial institutions (e.g., HSBC (GBR) and
+BBVA (ESP)) have used this technique for their administrative offices, retailers
+(Liberty (GBR)) for their stores, and hospitals (Healthscope (AUS)) for their
+facilities.
+
+Accounting Issues in Sale-Leaseback Transactions
+When Darden transfers ownership of the Red Lobster restaurants to Golden Gate
+Capital and then leases them back, the accounting issue is whether the transaction
+is a sale or a financing. To determine whether it is a sale, revenue recognition
+guidelines are used. That is, if control passes from seller to buyer, then a sale has
+occurred. Conversely, if control does not pass from seller to buyer, the transaction
+is recorded as a financing (often referred to as a failed sale). [17] Illustration
+21A.2 highlights these two approaches.
+ILLUSTRATION 21A.2 Sale-Leaseback Accounting
+Sale Transaction
+As indicated, if Darden (seller-lessee) gives up control of the Red Lobster
+restaurants, the transaction is a sale. In a sale, gain or loss recognition is
+appropriate. Darden then records the transaction as follows.
+1. Increases cash and reduces the carrying value of the asset to zero (referred to
+as derecognizing the asset).
+2. Recognizes a gain or loss as appropriate.
+3. Accounts for the leaseback in accordance with lease accounting guidance
+covered in this chapter.
+For example, assume that Stora Enso (FIN) sells one of its buildings having a
+carrying value of €580,000 (building €800,000 less accumulated depreciation
+€220,000) to Deutsche Bank (DEU) for €623,110. It then leases the building
+back from Deutsche Bank for €50,000 a year, for eight of the building’s 15 years
+of remaining economic life. Assume that the present value of these lease
+payments is equal to €310,000, such that the lease is classified as an operating
+lease by Deutsche Bank. Stora Enso makes the following entries to record the
+sale-leaseback.
+Cash
+
+Accumulated Depreciation—Buildings 220,000
+Buildings
+Gain on Disposal of Plant Assets
+(€623,110 − €580,000)
+In addition, Stora Enso makes an entry to record the operating lease from
+Deutsche Bank as follows.
+Right-of-Use Asset 310,000
+Lease Liability
+Financing Transaction (Failed Sale)
+Stora Enso does not record a sale in the above transaction if the lease from
+Deutsche Bank is classified as a finance lease (see Underlying Concepts). The
+reason: if any of the lease classification tests are met, Stora Enso, not Deutsche
+Bank, controls the asset. If Stora Enso continues to control the building, it
+should not record a sale nor recognize a gain or loss on the transaction. In
+essence, Stora Enso is borrowing money from Deutsche Bank (often referred to as
+a financing or a failed sale). In a financing (failed sale), Stora Enso:
+Underlying Concepts
+A sale-leaseback under a financing transaction is similar in substance to the
+parking of inventories (discussed in Chapter 8). The ultimate economic
+benefits remain under the control of the “seller-lessee,” so revenue (gain)
+should not be recognized.
+Does not reduce the carrying value of the building.
+Continues to depreciate the building as if it was the legal owner.
+Recognizes the sale proceeds from Deutsche Bank as a financial liability.
+The entry to record the financing is as follows.
+Cash
+Notes Payable
+Sale-Leaseback Example
+To illustrate the accounting treatment accorded a sale-leaseback transaction over
+the lease term, assume that Japan Airlines (JAL) (JPN) on January 1, 2022,
+sells a used, standard-design Boeing 757 having a carrying amount on its books of
+
+$30,000,000 to CitiCapital (USA) for $33,000,000. JAL immediately leases the
+aircraft back under the following conditions.
+The term of the lease is seven years. The lease agreement is non-cancelable,
+requiring equal rental payments of $4,881,448 at the end of each year
+(ordinary annuity basis), beginning December 31, 2022.
+The lease contains no renewal or purchase options. The plane reverts to
+CitiCapital at the termination of the lease.
+The aircraft has a fair value of $33,000,000 on January 1, 2022, and an
+estimated remaining economic life of 10 years. The residual value
+(unguaranteed) at the end of the lease is $13,000,000.
+The annual payments assure the lessor an eight percent return (which is the
+same as JAL’s incremental borrowing rate).
+Applying the classification tests, the lease-back of the airplane is classified as an
+operating lease because none of the sales-type lease criteria are met, as indicated
+in Illustration 21A.3.
+
+Test
+Assessment
+1. Transfer of
+ownership
+test
+Transfer of ownership does not occur; the asset reverts to
+CitiCapital at the end of the lease.
+2. Purchase
+option test
+There is no purchase option in the lease.
+3. Lease term
+test
+The lease term is 70% (7 ÷ 10) of the remaining economic life of
+the asset, which is less than the major part of the life of the asset
+4. Present
+value test
+The present value of the lease payments is $25,414,624*, which
+is 77% ($25,414,624 ÷ $33,000,000) of the fair value of the
+aircraft, or less than 90%. Therefore, the lease does not meet the
+present value test.
+5. Alternative
+use test
+As indicated, the equipment is not of a specialized nature and is
+expected to have use to CitiCapital when returned at the end of
+the lease.
+*$4,881,448 × 5.20637 (PVF-OA7,8%)
+ILLUSTRATION 21A.3 Lease Classification Tests
+Thus, this arrangement is accounted for as a sale, rather than a failed sale,
+because the leaseback does not transfer control of the asset back to JAL; that is,
+only the right-of-use for seven years is granted through the lease. Illustration
+21A.4 presents the typical journal entries to record the sale-leaseback
+transactions for JAL and CitiCapital for the first two years of the lease.
+
+ILLUSTRATION 21A.4 Comparative Entries for Sale-Leaseback for
+Lessee and Lessor
+As indicated, JAL amortizes the lease liability and depreciates the right-of-use
+asset, resulting in interest and depreciation expense. CitiCapital (the buyer-lessor)
+continues to recognize the asset on its statement of financial position and
+recognizes equal amounts of rental revenue (straight-line basis) in each period. It
+depreciates the leased asset generally on a straight-line basis.
+APPENDIX 21B
+Comprehensive Examples
+LEARNING OBJECTIVE *6
+Apply lessee and lessor accounting to finance and operating leases.
+This appendix presents a comprehensive illustration of lessee and lessor
+accounting for a lease arrangement when classified as a finance/sales-type or
+
+operating lease.
+Lease Terms: Scenario 1
+Parker Shipping Ltd. (lessee) leases a standard hydraulic lift from Stoughton
+Trailers AG (the lessor) that will be installed at one of Parker’s loading docks. The
+lease, signed on January 1, 2022, specifies that Stoughton grants right-of-use of
+the lift to Parker under the following terms:
+The lease agreement is non-cancelable with a term of four years, requiring
+equal rental payments of €11,182.24 at the beginning of each year of the lease
+(annuity-due basis).
+The lift has a fair value at commencement of the lease of €40,000, an
+estimated economic life of four years, and no residual value. The
+cost of the lift on Stoughton’s books is €30,000.
+The lease contains no renewal options. The lift reverts to Stoughton at the
+termination of the lease.
+The implicit rate of the lessor is 8 percent and is known by Parker. Stoughton
+sets the annual rental as shown in Illustration 21B.1.
+Fair value of leased equipment
+Less—present value of the residual value
+Amount to be recovered by lessor through lease payments
+Four beginning-of-year lease payments to earn an 8% return
+(€40,000 ÷ 3.57710 (PVF-AD4,8%))
+ILLUSTRATION 21B.1 Lease Payment Calculation
+Lease Classification
+Stoughton (lessor) evaluates the lease classification tests as indicated in
+Illustration 21B.2.
+
+Test
+Assessment
+1. Transfer of
+ownership
+test
+Transfer of ownership does not occur; the asset reverts to
+Stoughton at the end of the lease.
+2. Purchase
+option test
+There is no bargain purchase option in the lease.
+3. Lease term
+test
+The lease term is equal to the economic life of the asset (100%).
+Therefore, the lease meets the lease term test.
+4. Present
+value test
+The present value of the lease payments is €40,000*, which is
+100% (greater than or equal to 90%) of the fair value of the
+hydraulic lift. Therefore, the lease meets the present value
+test.
+5. Alternative
+use test
+As indicated, the hydraulic lift will be completely used up at the
+end of the lease, and of no benefit to Stoughton.
+*€11,182.24 × 3.57710 (PVF-AD4,8%) = €40,000.00
+ILLUSTRATION 21B.2 Lease Classification Tests
+Thus, the lease is classified as a finance (sales-type) lease due to meeting the lease
+term and present value tests (either is sufficient).
+Lessee/Lessor Accounting
+The accounting for the lease liability (Parker) and lease receivable (Stoughton) is
+based on the amounts reported in the amortization schedule presented in
+Illustration 21B.3.22
+
+Parker Shipping/Stoughton Trailers
+Lease Amortization Schedule
+Annuity-Due Basis
+Date
+Annual
+Lease
+Payment
+Interest (8%) 
+on Liability/
+Receivable
+Reduction of
+Lease Liability/
+Receivable
+Lease 
+Liability/
+Receivable
+(a)
+(b)
+(c)
+(d)
+1/1/22
+1/1/22
+€
+–
+1/1/23
+1/1/24
+1/1/25
+828.26*
+a. Lease payment as required by lease.
+b. Eight percent of the preceding balance of (d) except for 1/1/22; since this is
+an annuity due, no time has elapsed at the date of the first payment and
+therefore no interest has accrued.
+c. (a) minus (b).
+d. Preceding balance minus (c).
+*Rounded by €0.06.
+ILLUSTRATION 21B.3 Lease Liability Amortization Schedule
+Entries for Parker (lessee) and Stoughton (lessor) over the life of the lease are
+presented in Illustration 21B.4, based on the amounts reported in the
+amortization schedule in Illustration 21B.3.
+
+ILLUSTRATION 21B.4 Lessee/Lessor Entries for Finance/Sales-Type
+Lease
+Lease Terms: Scenario 2
+
+Now consider the following revised terms of the lease between Parker Shipping
+Ltd. and Stoughton Trailers AG for the right-of-use of a hydraulic lift. The lease,
+signed on January 1, 2022, specifies that Stoughton grants right-of-use of the lift
+to Parker under the following terms.
+The lease agreement is non-cancelable with a term of four years, requiring
+equal rental payments of €9,538.39 with the first payment on January 1, 2022
+(annuity-due basis).
+The lift has a fair value at commencement of the lease of €40,000, an
+estimated economic life of six years. The lift has a residual value at the
+end of the lease of €8,000 (unguaranteed). The cost of the lift on
+Stoughton’s books is €30,000.
+The lease contains no renewal options. The lift reverts to Stoughton at the
+termination of the lease.
+The implicit rate of Stoughton (the lessor) is eight percent and is known by
+Parker.
+Stoughton determines the rental payments such that it earns a rate of return of
+eight percent per year (implicit rate) on its investment, as shown in Illustration
+21B.5.
+Fair value of leased equipment
+Less: Present value of the residual value (€8,000 × .73503 (PV4,8%))
+Amount to be recovered by lessor through lease payments
+Four beginning-of-year lease payments to earn an 8% return
+(€34,119.76 ÷ 3.57710 (PVF-AD4,8%))
+ILLUSTRATION 21B.5 Computation of Lease Payments
+Lease Classification
+Stoughton evaluates the lease classification tests as indicated in Illustration
+21B.6.
+
+Test
+Assessment
+1. Transfer of
+ownership
+test
+Transfer of ownership does not occur; the asset reverts to
+Stoughton at the end of the lease.
+2. Purchase
+option test
+There is no bargain purchase option in the lease.
+3. Lease term
+test
+The lease term is 66.67% (4 ÷ 6) of the economic life of the asset,
+which is less than the major part of the life of the asset (75%).
+4. Present
+value test
+The present value of the lease payments is €34,119.76*, which is
+85.3% (€34,119.76 ÷ €40,000) of the fair value of the lift.
+Therefore, it does not meet the present value test.
+5. Alternative
+use test
+The equipment is not of a specialized nature and is expected to
+have use to Stoughton when returned at the end of the lease.
+*€9,538.39 × 3.57710 (PVF-AD4,8%)
+ILLUSTRATION 21B.6 Lease Classification Tests
+Thus, the lease is classified as an operating lease by Stoughton (the lessor), as
+none of the classification tests are met.
+Lessee Accounting
+Parker makes the following entry to record this lease and the first payment.
+January 1, 2022
+Right-of-Use Asset 34,119.76
+Lease Liability
+Lease Liability
+Cash
+Illustration 21B.7 shows the interest expense and amortization of the lease
+liability, applying the effective-interest method.
+
+Parker Shipping Ltd.
+Lease Amortization Schedule
+Annuity-Due Basis
+Date
+Annual Lease 
+Payment
+Interest (8%) 
+on Liability
+Reduction of 
+Lease Liability
+Lease 
+Liability
+(a)
+(b)
+(c)
+(d)
+1/1/22
+1/1/22
+€
+1/1/23
+1/1/24
+1/1/25
+706.53*
+a. Lease payment as required by lease.
+b. Eight percent of the preceding balance of (d) except for 1/1/22; since this is
+an annuity due, no time has elapsed at the date of the first payment and
+therefore no interest has accrued.
+c. (a) minus (b).
+d. Preceding balance minus (c).
+*Rounded by €0.02.
+ILLUSTRATION 21B.7 Lease Amortization Schedule—Lessee
+The journal entries by Parker over the remaining life of the lease are presented in
+Illustration 21B.8.
+
+ILLUSTRATION 21B.8 Lessee Entries for Finance Lease
+After the entry for the final payment on December 31, 2025, the lease liability and
+right-of-use asset are fully amortized and depreciated. The lease expense for the
+four years (€38,153.56) is comprised of depreciation of the right-of-use asset of
+€34,119.76, plus interest associated with the amortization of the lease liability of
+
+Lessor Accounting—Operating Lease
+As shown in the evaluation of the classification tests in Illustration 21B.6,
+Stoughton classifies the lease as an operating lease because none of the sales-type
+lease criteria are met. Stoughton’s entries throughout the lease are presented in
+Illustration 21B.9.
+ILLUSTRATION 21B.9 Lessor Entries for Operating Lease
+Under the operating method, Stoughton (the lessor) continues to recognize the
+asset on its statement of financial position and recognizes equal amounts of lease
+revenue (straight-line basis) in each period. It depreciates the leased asset
+generally on a straight-line basis over the asset’s remaining economic life. In
+addition to the depreciation charge, Stoughton reports lease revenue separately
+from other revenues in its income statement or notes to its financial statements.
+A lessor should classify the leased equipment and accompanying accumulated
+depreciation separately from plant assets it owns as Equipment Leased to Others
+or Investment in Leased Property.
+Review and Practice
+Key Terms Review
+bargain purchase option
+bargain renewal option
+capitalization of leases
+executory costs
+*failed sale
+finance lease
+finance lease method
+
+guaranteed residual value
+implicit interest rate
+incremental borrowing rate
+initial direct costs
+internal costs
+lease
+lease classification tests
+lease receivable
+lease term
+lessee
+lessor
+low-value lease
+operating lease
+residual value
+*sale-leaseback
+sales-type lease
+short-term lease
+unguaranteed residual value
+Learning Objectives Review
+1 Describe the environment related to leasing transactions.
+A lease is a contract, or part of a contract, that conveys the right to control the use
+of identified property, plant, or equipment (an identified asset) for a period of
+time in exchange for consideration. The advantages of lease transactions for
+lessees are: (1) 100 percent financing, (2) protection against obsolescence, (3)
+flexibility, and (4) less costly financing. The benefits for lessors are: (1) profitable
+interest margins, (2) stimulation of product sales, (3) tax benefits and efficient tax
+sharing, and (4) residual value profits.
+2 Explain the accounting for leases by lessees.
+For all leases, the lessee records a right-of-use asset and related liability at the
+commencement of the lease. The lease liability is computed as the present value
+
+of the lease payments. The asset representing the right-of-use of the underlying
+asset (i.e., the right-of-use asset) is equal to the lease liability. The lessee
+recognizes interest expense on the lease liability over the life of the lease using
+the effective-interest method and records depreciation expense on the right-of-use
+asset (generally on a straight-line basis).
+Low-Value Leases. For leases of underlying assets with values of $5,000 or
+less, rather than recording a right-of-use asset and lease liability, a lessee may
+elect to expense the lease payments as incurred.
+Short-Term Leases. A short-term lease is a lease that, at the commencement
+date, has a lease term of 12 months or less. Rather than recording a right-of-use
+asset and lease liability, lessees may elect to forego recognition of a right-of-use
+asset and lease liability and expense the lease payments as incurred.
+Whether the estimated residual value is guaranteed or unguaranteed is of
+both economic and accounting consequence to the lessee: (1) If it is probable that
+the expected residual value is equal to or greater than the guaranteed residual
+value, the lessee should not include the guaranteed residual value in the
+computation of the lease liability. (2) If it is probable that the expected residual
+value is less than the guaranteed residual value, the present value of the
+difference between the expected and guaranteed residual values should be
+included in computation of the lease liability. (3) The lessee does not include the
+unguaranteed residual value in the computation of the lease liability.
+Bargain Purchase Option. A bargain purchase option increases the present
+value of the lease payments by the present value of the option price for the lessee.
+In computing annual depreciation of the right-of-use asset with this type of
+option, the lessee uses the economic life of the underlying asset.
+3 Explain the accounting for leases by lessors.
+The lessor determines the lease payments based on the rate of return—the
+implicit rate—needed to justify leasing the asset, taking into account the credit
+standing of the lessee, the lease term, and the status of the residual value
+(guaranteed versus unguaranteed). Lessors use one of two methods to account for
+lease arrangements: (1) the finance lease method or (2) the operating lease
+method. Refer to Illustration 21.18 for the tests lessors use to determine whether
+to use the finance method or the operating method. Leases that fail to meet any of
+the five classification tests are classified as operating leases.
+For a finance lease, the lessor accounts for the lease in a manner similar to the
+sale of an asset. At lease commencement, the lessor takes the asset off the books
+and records a receivable equal to the present value of the lease payments. Any
+dealer or manufacturer selling profit on the transfer of the leased asset (in a sales-
+type lease) is recognized in income at commencement of the lease. The lessor
+
+recognizes interest revenue on the lease receivable over the life of the lease using
+the effective-interest method. In an operating lease, a lessee obtains control of
+only the use of the underlying asset but not ownership of the underlying asset
+itself. Under the operating method, lessors continue to recognize the asset on
+the statement of financial position and record equal amounts of lease revenue
+(straight-line basis) in each period. The lessor depreciates the leased asset
+generally on a straight-line basis.
+4 Discuss the accounting and reporting for special features of lease
+arrangements.
+Other Lease Adjustments. The lease liability is the starting point to determine
+the amount to record for the right-of-use asset. Lessees adjust the measurement
+of the right-of-use asset as follows: (1) lease prepayments made by the lessee
+increase the right-of-use asset, (2) lease incentive payments made by the lessor to
+the lessee reduce the right-of-use asset, and (3) initial direct costs incurred by the
+lessee increase the right-of-use asset.
+Presentation, Disclosure, and Analysis. Presentation and disclosure by
+lessors and lessees of amounts related to leases vary, depending on whether leases
+are classified as finance/sales-type or operating. See Illustrations 21.37 and 21.38
+(presentation in the statement of financial position and income statement) and
+Illustrations 21.39, 21.40, and 21.41 (disclosures in the notes to the financial
+statements) for summaries of presentation and disclosure requirements.
+Expanded recognition of lease assets and liabilities under the new lease
+accounting rules have the potential to result in significant impacts on analysis,
+based on information in the financial statements. A number of financial metrics
+used to measure the profitability and solvency of companies will change, which
+could create challenges when performing financial analysis.
+*5 Describe the lessee’s accounting for sale-leaseback transactions.
+In a sale-leaseback arrangement, a company (the seller-lessee) transfers an asset
+to another company (the buyer-lessor) and then leases that asset back from the
+buyer-lessor. If the leaseback is classified as a finance/sales-type lease, the sale is
+not recognized (and is referred to as a failed sale) because the seller-lessee
+continues to control the asset—the transaction is accounted for as a financing
+arrangement. If the leaseback is classified as an operating lease, sale-leaseback
+accounting is appropriate. Under sale-leaseback accounting, gross profit on the
+sale is recognized and the leaseback is accounted for as a lease with recognition of
+a right-of-use asset, lease liability, and subsequent amortization and depreciation
+using the finance lease method. The buyer-lessor continues to recognize the asset
+on its statement of financial position and recognizes equal amounts of lease
+
+revenue (straight-line basis) in each period. It depreciates the leased asset
+generally on a straight-line basis.
+*6 Apply lessee and lessor accounting to finance and operating
+leases.
+Companies must understand and correctly apply the procedures for classifying
+and accounting for lease arrangements.
+Enhanced Review and Practice
+Go online for multiple-choice questions with solutions, review exercises with
+solutions, and a full glossary of all key terms.
+Practice Problem
+Morgan Bakeries is involved in four different lease situations. Each of these
+leases is non-cancelable, and in no case does Morgan receive title to the
+properties leased during or at the end of the lease term. All leases start on
+January 1, 2022, with the first rental due at the beginning of the year. For each
+lease, assume that the lessors have alternative use for the assets at the end of
+the lease unless ownership transfers to the lessee. Additional information is
+shown in the following table.
+(a)
+Harmon
+AG
+(c)
+Mendota
+Truck
+SA
+(d)
+Appleland
+Computer
+Type of
+property
+Cabinets
+Oven
+Truck
+Computer
+Yearly rental
+Lease term
+(years)
+Estimated
+economic life
+Purchase
+option
+None
+£75,000 at end of 10
+years £4,000 at end of 15
+years
+None
+€3,000 at
+end of 3
+years, which
+approximates
+fair value
+
+Renewal option None
+5-year renewal at
+£12,000 per year after 10
+years, reasonably certain
+to be exercised if the
+purchase option is not
+None
+1 year at
+€1,500; no
+penalty for
+non-renewal;
+standard
+renewal
+clause
+Fair value at
+commencement
+of lease
+Cost of asset to
+lessor
+Residual value
+1. Guaranteed
+–0–
+–0–
+(the
+amount
+expected
+to be
+paid)
+–0–
+2.
+Unguaranteed
+–0–
+–0–
+Incremental
+borrowing rate
+of lessee
+8%
+8%
+8%
+8%
+Present value of
+rental
+payments
+Using
+incremental
+borrowing rate
+of lessee
+Using implicit
+rate of lessor
+Not known Not known
+Not
+known
+Known by
+lessee (6%),
+Estimated fair
+value at end
+of lease term
+£80,000 at end of 10
+years
+Not
+available
+£60,000 at end of 15
+years
+
+Instructions
+For each lease arrangement, determine the correct classification of the lease
+and prepare the journal entries for both the lessee and the lessor at its
+commencement.
+Solution
+a. Analysis of the Harmon AG lease:
+1. Transfer of title? No.
+2. Bargain purchase option? No.
+3. Economic life test: The lease term is 20 years and the estimated
+economic life is 30 years. Thus, it does not meet the 75% test.
+4. Present value test: No; the present value of the rental payments of
+$63,621.60 is less than 90% of the fair value of the underlying asset as
+shown below.
+Fair value
+€75,000 Rental payments
+€
+Rate
+× .90 PV of annuity due for 20 years at
+8%
+× 10.60360
+90% of fair
+value
+€67,500 PV of rental payments
+Harmon should account for this lease as an operating lease. Morgan and
+Harmon make the following January 1, 2022, entries.
+Morgan Bakeries 
+(Lessee)
+Harmon AG 
+(Lessor)
+Right-of-Use
+Asset
+Cash
+Lease Liability
+Unearned Lease
+Revenue
+Lease Liability
+Cash
+b. Analysis of the Arden’s Oven PLC lease:
+1. Transfer of title? No.
+2. Bargain purchase option? The £75,000 option at the end of 10 years
+does not appear to be sufficiently lower than the expected fair value of
+£80,000 to make it reasonably assured that it will be exercised. However,
+given that the renewal option is reasonably certain to be exercised, the
+
+parties also consider the £4,000 purchase option at the end of 15 years.
+Since the fair value is expected to be £60,000 at the end of 15 years, the
+£4,000 option appears to be a bargain and test 2 (bargain purchase
+option) is therefore met. Note that both the guaranteed and the
+unguaranteed residual values are assigned zero values because the lessor
+does not expect to repossess the leased asset.
+3. Economic life test: Given that the renewal option exists, the lease term
+is the initial lease period of 10 years plus the 5-year renewal option. Even
+though the lease term is now considered to be 15 years, the lease term
+test is still not met because 75% of the economic life of 25 years is 18.75
+years.
+4. Present value test:
+Fair value
+£120,000 Rental payments
+€
+Rate
+× .90 PV of annuity due for 15 years at
+8%
+× 9.24424
+90% of fair
+value
+£108,000 PV of rental payments
+PV of bargain purchase option: = £4,000 × (PVF15,8%) = £4,000 × .31524
+= £1,260.96
+PV of rental payments
+PV of bargain purchase option
+PV of lease payments
+The present value of the lease payments is greater than 90% of the fair value.
+Therefore, the lease does meet the 90% test.
+Arden should account for the lease as a sales-type lease, because the lease
+meets both tests 2 and 4. The following entries are made on January 1, 2022.
+Morgan Bakeries 
+(Lessee)
+Arden’s Oven plc 
+(Lessor)
+Right-of-Use Asset
+(oven)
+Lease
+Receivable
+Lease Liability
+112,191.84 Cost of Goods
+Sold
+Lease Liability
+Inventory
+Cash
+Sales
+Revenue
+Cash
+
+Lease
+Receivable
+Morgan would depreciate the right-of-use asset over its economic life of 25
+years, given the bargain purchase option. The Lease Receivable amount of
+£120,000 recorded by Arden is different than the Lease Liability amount of
+£112,191.84 recorded by Morgan. The reason for this difference is that the
+implicit rate used by Arden is lower than the incremental borrowing rate of
+8% used by Morgan.
+c. Analysis of the Mendota Truck SA lease:
+1. Transfer of title? No.
+2. Bargain purchase option? No.
+3. Economic life test: The lease term is 3 years and the estimated
+economic life is 4 years. Thus, it does meet the 75% test (3 ÷ 4 = 75%).
+4. Present value test:
+Fair value
+€20,000 Rental payments
+Rate
+× .90 PV of annuity due for 3 years at
+8%
+× 2.78326
+90% of fair
+value
+€18,000 PV of rental payments
+€14,443.19*
+*Adjusted for €0.01 due to
+rounding.
+PV of guaranteed residual value = €7,000 × (PVF3, 8%) = €7,000 × .79383 =
+PV of rental payments
+PV of guaranteed residual value
+PV of lease payments
+The present value of the lease payments is greater than 90% of the fair value.
+Therefore, the lease meets the 90% test.
+The following entries are made on January 1, 2022.
+Morgan Bakeries 
+(Lessee)
+Mendota Truck SA 
+(Lessor)
+Right-of-Use Asset
+(truck)
+Lease
+Receivable
+Lease Liability
+20,000.00 Cost of Goods
+Sold
+
+Lease Liability
+Trucks
+Cash
+Sales
+Revenue
+Cash
+Lease
+Receivable
+This is a sales-type lease for Mendota. Morgan depreciates the right-of-use
+asset over 3 years.
+d. Analysis of the Appleland Computer lease:
+1. Transfer of title? No.
+2. Bargain purchase option? No. The option to purchase at the end of 3
+years at approximate fair value is clearly not a bargain.
+3. Economic life test: The lease term is 3 years, and no bargain renewal
+period exists, as it is simply a standard renewal clause which is not
+reasonably certain to be exercised. Therefore, the 75% test is not met (3 ÷
+5 = 60%).
+4. Present value:
+Fair value
+€10,000 Rental payments
+Rate
+× .90 PV of annuity-due factor for 3 years at
+6%
+× 2.83339
+90% of fair
+value
+€ 9,000 PV of lease payments using implicit
+borrowing rate
+The present value of the lease payments using the implicit borrowing rate is
+€7,481.14. Because the present value of the lease payments is lower than 90%
+of the fair value, the lease does not meet the present value test.
+Thus, this is an operating lease for Appleland. The entries made for the lease
+on January 1, 2022, are as follows.
+Morgan Bakeries 
+(Lessee)
+Appleland Computer 
+(Lessor)
+Right-of-Use Asset
+(truck)
+Cash
+Lease Liability
+Unearned
+Lease
+Lease Liability
+Revenue
+Cash
+
+Exercises, Problems, Problem Solution Walkthrough Videos, Data Analytics
+Activities, and many more assessment tools and resources are available for
+practice in Wiley’s online courseware.
+Note: All asterisked Questions, Exercises, and Problems relate to material in the
+appendices to the chapter.
+Questions
+1. What are the major lessor groups? What advantage does a captive leasing
+subsidiary have in a leasing arrangement?
+2. Bradley plc is expanding its operations and is in the process of selecting the
+method of financing this program. After some investigation, the company
+determines that it could (1) issue bonds and with the proceeds purchase the
+needed assets, or (2) lease the assets on a long-term basis. Without knowing the
+comparative costs involved, answer these questions:
+a. What are the possible advantages of leasing the assets instead of owning
+them?
+b. How would the statement of financial position be different if Bradley leases
+the assets rather than purchasing them?
+3. What are the major advantages to a lessor for becoming involved in a leasing
+arrangement?
+4. Morgan Handley and Tricia Holbrook are discussing the new leasing standard.
+Morgan believes the standard requires that the lessee use the implicit rate of the
+lessor in computing the present value of its lease liability. Tricia is not sure if
+Morgan is correct. Explain the discount rate that the lessee should use to compute
+its lease liability.
+5. Paul Singer indicated that “all leases must now be capitalized on the statement
+of financial position.” Is this statement correct? Explain.
+6. Describe the following terms: (a) residual value, (b) guaranteed residual value,
+and (c) initial direct costs.
+7. Explain the following concepts: (a) bargain purchase option and (b) bargain
+renewal option.
+8. What payments are included in the lease liability?
+9. Wonda Stone read somewhere that a residual value guarantee is used for
+computing the present value of lease payments. Is Wonda correct in her
+interpretation? Explain.
+
+10. Identify the amounts included in the measurement of the right-of-use asset.
+11. Harcourt Company enters into a lease agreement with Brunsell Inc. to lease
+office space for a term of 72 months. Lease payments during the first year are
+$5,000 per month. Each year thereafter, the lease payments increase by an
+amount equivalent to the percentage increase in a price index. For example, if the
+price index increases 2% in the second year, the monthly payment increases to
+$5,100. In the second year, the price index increases by 3%. What are the lease
+payment amounts used to record this lease in the second year?
+12. Describe the accounting procedures involved in applying the finance lease
+method by a lessee.
+13. What is a low-value lease? Describe lessee accounting for low-value leases.
+14. What is a short-term lease? Describe lessee accounting for a short-term lease.
+15. Describe the effect on the lessee of a “bargain purchase option” in accounting
+for a finance lease transaction.
+16. Identify the lease classifications for lessors and the criteria that must be met
+for each classification. What is the relevance of revenue recognition criteria for
+lessor accounting for leases?
+17. Explain which of the following would result in the lessor classifying the lease
+as a finance lease.
+a. The lease is for a major part of the economic life of the asset.
+b. The lease term is 12 months or less.
+c. The lease transfers ownership of the asset at the end of the lease.
+18. What is the difference between a lease receivable and a net investment in the
+lease?
+19. Explain the accounting involved in applying the operating lease method by a
+lessor.
+20. Explain the difference in lessor income statement presentation for a sales-
+type versus an operating lease.
+21. Walker Company is a manufacturer and lessor of computer equipment. What
+should be the nature of its lease arrangements with lessees if the company wishes
+to account for its lease transactions as finance (sales-type) leases?
+22. Metheny Group’s lease arrangements qualify as finance (sales-type) leases at
+the time of entering into the transactions. How should the company recognize
+sales revenue and cost of goods sold in these situations?
+
+23. Packer plc (the lessor) concludes that its lease meets one of the tests to be
+classified as a sales-type lease. However, collection of lease payments is not
+probable. In this case, how should Packer account for any lease payments
+received?
+24. The residual value is the estimated fair value of the leased property at the end
+of the lease term. Of what significance is (a) an unguaranteed and (b) a
+guaranteed residual value in the lessee’s accounting under the finance lease
+method?
+25. Of what significance is (a) an unguaranteed and (b) a guaranteed residual
+value in the lessor’s accounting for a finance (sales-type) lease transaction?
+26. What are “initial direct costs” and how are they accounted for by lessees and
+lessors?
+27. What disclosures should be made by lessees and lessors related to future lease
+payments?
+*28.What is the nature of a “sale-leaseback” transaction?
+*29.Sanchez SA (seller-lessee) enters into a sale-leaseback to sell its company
+headquarters for R$18 million to Harper Bank. The carrying value of the
+headquarters at the date of sale is R$14 million. Sanchez then leases back the
+headquarters in exchange for R$180,000 per year in rental payments. The
+leaseback is considered an operating lease. How should Sanchez account for this
+sale?
+Brief Exercises
+LEARNING OBJECTIVE 7
+Compare the accounting procedures for leases under IFRS and U.S. GAAP.
+Leasing is a global business. Lessors and lessees enter into arrangements with one
+another without regard to national boundaries. Although U.S. GAAP and IFRS
+accounting guidance for leasing is not identical, both the FASB and the IASB
+
+decided that prior lease accounting did not provide the most useful, transparent,
+and complete information about leasing transactions. In response, the FASB and
+IASB worked together on a lease accounting project. The FASB issued an update to
+its Codification, adding section 842, Leases (ASC 842), in February 2016. Many of
+the requirements in the new FASB standard are the same as those in IFRS 16. The
+main differences between U.S. GAAP and IFRS under the new rules are in relation
+to the lessee accounting model. Specifically, U.S. GAAP still maintains a
+distinction between finance leases and operating leases in the financial
+statements for lessees. As a result, lessees account for some leases using the
+finance lease method, while accounting for operating leases (leases that convey
+right of use but not ownership) is based on a straight-line lease expense approach.
+Relevant Facts
+Following are the key similarities and differences between U.S. GAAP and IFRS
+related to the accounting for leases.
+Similarities
+Both U.S. GAAP and IFRS share the same objective of recording leases by
+lessees and lessors according to their economic substance—that is, according
+to the definitions of assets and liabilities.
+Much of the terminology for lease accounting in IFRS and U.S. GAAP is the
+same.
+Both U.S. GAAP and IFRS require lessees to recognize a right-of-use asset and
+related lease liability for leases with terms longer than one year.
+Under both IFRS and U.S. GAAP, lessors use the same general criteria
+(consistent with the recent standard on revenue) to determine if there is
+transfer of control of the underlying asset and if lessors classify leases as
+sales-type or operating.
+U.S. GAAP and IFRS use the same lessor accounting model for leases
+classified as sales-type or operating.
+U.S. GAAP and IFRS have similar qualitative and quantitative disclosure
+requirements for lessees and lessors.
+Differences
+U.S. GAAP continues to use a classification test for lessees under ASC 842.
+Thus, lessees account for some leases using the finance lease method. Leases
+classified as operating leases under U.S. GAAP will be accounted for
+differently than under IFRS (see example in About the Numbers section
+below).
+
+IFRS allows alternative measurement bases for the right-of-use asset (e.g.,
+the revaluation model, in accordance with IAS 16, Property, Plant and
+Equipment).
+While both U.S. GAAP and IFRS have a short-term lease exception, U.S. GAAP
+does not have the additional lessee recognition and measurement exemption
+for leases of assets of low value (e.g., personal computers, small office
+furniture).
+IFRS 16 includes explicit guidance on collectibility of the lease payments by
+lessors and amounts necessary to satisfy a residual value guarantee.
+U.S. GAAP distinguishes between sales-type and direct financing leases for
+lessors (which defers gross profit on direct financing leases). Therefore, IFRS
+16 permits recognition of selling profit on direct financing leases at lease
+commencement.
+About the Numbers
+Finance and Operating Leases (Lessee)
+Under U.S. GAAP, both lessees and lessors classify lease arrangements as either
+finance or operating. In either case, lessees capitalize all leased assets and
+liabilities. Therefore, the statement of financial position (balance sheet) for a
+lessee that uses either a finance lease or an operating lease will be the same.
+Income effects for lessees depends on the type of lease. For a finance lease, the
+lessee recognizes interest expense on the lease liability over the life of the lease
+using the effective-interest method and records amortization expense on the
+right-of-use asset generally on a straight-line basis. A lessee therefore reports both
+interest expense and amortization of the right-of-use asset on the income
+statement. As a result, the total expense for the lease transaction is generally
+higher in the earlier years of the lease arrangement under a finance lease
+arrangement.
+In an operating lease, the lessee also measures interest on the liability using the
+effective-interest method. However, the lessee amortizes the right-of-use asset
+such that the total lease expense is the same from period to period. In other
+words, for operating leases, only a single lease expense (comprised of interest on
+the liability and amortization of the right-of-use asset) is recognized on the
+income statement, typically on a straight-line basis. Illustrations of both these
+approaches are shown in the following sections.
+Lease Classification
+Under U.S. GAAP, lessees and lessors use the same tests to determine whether to
+use the finance method or the operating method. That is, the objective is to
+classify a lease based on whether the arrangement is effectively a purchase of the
+underlying asset. If the lease transfers control (or ownership) of the underlying
+
+asset to a lessee, then the lease is classified as a finance lease. All leases that do
+not meet any of the finance lease tests are classified as operating leases. In an
+operating lease, a lessee obtains the right to use the underlying asset but
+not ownership of the asset itself. Specifically, for a lease to be a finance lease, it
+must be non-cancelable and meet at least one of the five tests listed in
+Illustration 21.18. Otherwise, the lease is an operating lease.
+Lessee Accounting for Operating Leases
+If a lease does not meet any of the lease classification tests for a finance lease, a
+lessee should classify it as an operating lease. For leases classified as operating,
+the lessee records a right-of-use asset and lease liability at commencement of the
+lease. This is similar to the finance lease approach. However, the lessee records
+the same amount for lease expense each period over the lease term (often referred
+to as the straight-line method for expense measurement).
+Companies continue to use the effective-interest method for amortizing the lease
+liability. However, instead of reporting interest expense, a lessee records interest
+on the lease liability as part of Lease Expense. In addition, the lessee no longer
+reports amortization expense related to the right-of-use asset. Instead, it “plugs”
+in an amount that increases the Lease Expense account so that it is the same
+amount from period to period. This plugged amount then reduces the right-of-use
+asset, such that both the right-of-use asset and the lease liability are amortized to
+zero at the end of the lease.23
+Operating Lease Example
+To illustrate lessee accounting for an operating lease, consider the following terms
+of a lease between Parker Shipping Co. and Stoughton Trailers Inc. for the right-
+of-use of Stoughton’s standard hydraulic lifts. The lease, signed on January 1,
+2022, specifies that Stoughton grants right-of-use of the lift to Parker under the
+following standard terms.
+The lease agreement is non-cancelable with a term of four years, requiring
+equal rental payments of $9,538.39 with the first payment on January 1, 2022
+(annuity-due basis).
+The lift has a fair value at commencement of the lease of $40,000 and an
+estimated economic life of six years. The lift has a residual value at the
+end of the lease of $8,000 (unguaranteed). The cost of the lift on
+Stoughton’s books is $30,000.
+The lease contains no renewal options. The lift reverts to Stoughton at the
+termination of the lease.
+The implicit rate of Stoughton (the lessor) is 8 percent and is known by
+Parker.
+
+Stoughton (the lessor) determines the rental payments such that it earns a rate of
+return of 8 percent per year (implicit rate) on its investment, as shown in
+Illustration GAAP21.1.
+Fair value of leased equipment
+Less: Present value of the residual value ($8,000 × .73503 (PV4,8%))
+Amount to be recovered by lessor through lease payments
+Four beginning-of-year lease payments to earn an 8% return
+($34,119.76 ÷ 3.57710 (PVF-AD4,8%))
+ILLUSTRATION GAAP21.1 Computation of Lease Payments
+The lease is classified as an operating lease by Parker and Stoughton, as indicated
+by the analysis in Illustration GAAP21.2.
+Test
+Assessment
+1. Transfer of
+ownership
+test
+Transfer of ownership does not occur; the asset reverts to
+Stoughton at the end of the lease.
+2. Purchase
+option test
+There is no bargain purchase option in the lease.
+3. Lease term
+test
+The lease term is 66.67% (4 ÷ 6) of the economic life of the asset,
+which is less than the major part of the life of the asset (75%).
+4. Present
+value test
+The present value of the lease payments is $34,119.76*, which is
+85.3% ($34,119.76 ÷ $40,000) of the fair value of the lift.
+Therefore, it does not meet the present value test.
+5. Alternative
+use test
+The equipment is not of a specialized nature and is expected to
+have use to Stoughton when returned at the end of the lease.
+*$9,538.39 × 3.57710 (PVF-AD4,8%)
+ILLUSTRATION GAAP21.2 Lease Classification Tests
+Thus, the lease is classified as an operating lease by both the lessee and lessor, as
+none of the classification tests are met. Parker makes the following entry to record
+this operating lease and the first payment.
+
+January 1, 2022
+Right-of-Use Asset 34,119.76
+Lease Liability
+Lease Liability
+Cash
+Illustration GAAP21.3 shows the interest expense and amortization of the
+lease liability, applying the effective-interest method.
+Parker Shipping Co.
+Lease Amortization Schedule
+Annuity-Due Basis
+Date
+Annual Lease 
+Payment
+Interest (8%) 
+on Liability
+Reduction of 
+Lease Liability
+Lease 
+Liability
+(a)
+(b)
+(c)
+(d)
+1/1/22
+1/1/22
+$
+1/1/23
+1/1/24
+1/1/25
+706.53*
+a. Lease payment as required by lease.
+b. Eight percent of the preceding balance of (d) except for 1/1/22; since this is
+an annuity due, no time has elapsed at the date of the first payment and
+therefore no interest has accrued.
+c. (a) minus (b).
+d. Preceding balance minus (c).
+*Rounded by $0.02.
+ILLUSTRATION GAAP21.3 Lease Amortization Schedule
+Parker computes straight-line expense and amortization on its right-of-use asset
+for each year of the lease, as presented in Illustration GAAP21.4.
+
+Parker Shipping Co.
+Lease Expense Schedule
+Date
+(A)
+Lease Expense 
+(Straight-Line)
+(B)
+Interest
+(8%) on 
+Liability
+(C)
+Amortization of
+ROU Asset 
+(A − B)
+(D)
+Carrying Value of
+ROU Asset 
+(D − C)
+12/31/21
+12/31/22
+12/31/23
+12/31/24
+12/31/25
+ILLUSTRATION GAAP21.4 Lease Expense Schedule
+As indicated, the annual lease expense equals interest related to amortizing its
+lease liability plus amortization of the right-of-use asset. Parker decreases the
+right-of-use asset’s book value each year by an amount (a plug) such that total
+annual lease expense is $9,538.39. The journal entries by Parker over the first 2
+years of the lease are presented in Illustration GAAP21.5.
+
+ILLUSTRATION GAAP21.5 Lessee Operating Lease Entries
+After the entry for the final payment on December 31, 2025, the lease liability and
+right-of-use asset are fully amortized. The lease expense for the 4 years
+($38,153.56) is comprised of amortization of the right-of-use asset of $34,119.76
+plus interest associated with the amortization of the lease liability of $4,033.80.
+Parker combines interest on the liability and amortization of the right-of-use asset
+to report lease expense on the income statement over the life of the lease.
+GAAP Self-Test Questions
+
+1. Which of the following is not true with respect to lease accounting under U.S.
+GAAP?
+a. U.S. GAAP requires lessees to recognize a right-of-use asset and related lease
+liability for leases with terms longer than one year.
+b. U.S. GAAP has similar lease disclosure requirements as IFRS.
+c. U.S. GAAP permits recognition of selling profit on direct financing leases at
+lease commencement.
+d. IFRS uses essentially the same lessor accounting model as U.S. GAAP for
+leases classified as sales-type or operating.
+2. Under U.S. GAAP:
+a. lessees and lessors recognize right-of-use assets.
+b. lessees always use the operating method.
+c. lessees always recognize a right-of-use asset and lease liability for leases with
+terms less than one year.
+d. lessors distinguish between sales-type and direct financing leases.
+3. All of the following are similarities with respect to the accounting for leases
+under IFRS and U.S. GAAP except:
+a. lessees recognize a right-of-use asset and related lease liability for leases with
+terms longer than one year.
+b. lessees use the same general lease classification criteria to determine whether
+lessees classify leases as finance or operating.
+c. lessors use the same model to account for sales-type leases.
+d. U.S. GAAP and IFRS have similar qualitative and quantitative disclosure
+requirements for lessees and lessors.
+4. Under U.S. GAAP:
+a. lessees may not use alternative measurement bases (e.g., revaluation
+accounting) for the right-of-use asset.
+b. different measurement bases may be used for the right-of-use asset but only
+for leases with terms less than one year.
+c. the same guidance on collectibility of the lease payments is used by lessors as
+in IFRS.
+d. lessors are required to defer gross profit on sales-type leases.
+
+5. All of the following are differences with respect to the accounting for leases
+under IFRS and U.S. GAAP except:
+a. IFRS has an additional lessee recognition and measurement exemption for
+leases of assets of low value (U.S. GAAP does not).
+b. IFRS allows alternative measurement bases for the right-of-use asset (e.g.,
+the revaluation model).
+c. under IFRS, lessees use the same tests to determine whether a lease should
+be classified as finance or operating.
+d. IFRS permits recognition of selling profit on direct financing leases at lease
+commencement.
+GAAP Concepts and Application
+GAAP21.1 Where can authoritative U.S. GAAP related to the accounting for
+leases be found?
+GAAP21.2 Briefly describe some of the similarities and differences between U.S.
+GAAP and IFRS with respect to the accounting for leases.
+GAAP21.3 LeBron James (LBJ) Corporation agrees on January 1, 2022, to lease
+equipment from Cavaliers, Inc. for 3 years. The lease calls for annual lease
+payments of $23,000 at the beginning of each year. The lease does not transfer
+ownership nor does it contain a bargain purchase option, and it is not a specialized
+asset. In addition, the useful life of the equipment is 10 years, and the present
+value of the lease payments is less than 90% of the fair value of the equipment.
+Prepare LBJ’s journal entries on January 1, 2022 (commencement of the
+operating lease), and on December 31, 2022. Assume the implicit rate used by the
+lessor is unknown, and LBJ’s incremental borrowing rate is 6%.
+Answers to GAAP Self-Test Questions
+1. c 2. d 3. b 4. a 5. c
+Notes
+1 The IASB believes that the reporting of an asset and liability for a lease
+arrangement is consistent with its conceptual framework’s definition of assets
+and liabilities. That is, assets are resources controlled by the entity as a result
+of past events and from which future economic benefits are expected to flow to
+the entity. Liabilities are present obligations of the entity arising from past
+events, the settlement of which is expected to result in an outflow of assets
+from the entity. [2]
+
+2 In contrast to the single finance lease method under IFRS, the FASB adopted a
+dual-lease model, under which some leases—those which convey right-of-use
+but not ownership—would have a straight-line expense pattern, while others
+would be accounted for as a financing. The IASB adopted the single lease
+approach, reasoning that most users of financial statements believe that all
+leases create assets and “debt-like” liabilities for a lessee. Consequently, they
+benefit from lessees recognizing interest on those liabilities, which enables
+them to perform meaningful ratio analyses. In addition, the finance lease
+model is easy to understand, which reduces cost and complexity by removing
+the need for systems that can deal with two lessee accounting approaches. [3]
+3 As discussed more fully in a later section of the chapter, the amount of the right-
+of-use asset is adjusted for prepaid rent, lease incentives received from the
+lessor, and any initial direct costs.
+4 Reasonably certain is a high threshold of probability. The IASB intended that
+parties to a lease should account for options only when the lessee has a
+compelling economic reason to exercise a purchase, renewal, or termination
+option. [4]
+5 This difficulty arises because, for example, the lessee may not know the residual
+value used by the lessor, nor the initial direct costs that the lessor incurs.
+6 As discussed in more detail later in the chapter, if the lease contains a bargain
+purchase option, such that it is reasonably certain that the lessee will purchase
+the asset at the end of the lease, the lessee depreciates the right-of-use asset
+over the economic life of the asset.
+7 The computation of the present value is rounded by €0.02. The rounding occurs
+because the tables from Chapter 6 are used to determine the amounts shown.
+For homework and other computations in the text, we use the tables, which
+may to lead to small rounding differences. In practice, a financial calculator is
+often used to avoid these rounding differences.
+8 Later in the chapter, we provide an expanded discussion of the relationship
+between the expected residual value and the guaranteed residual value, and its
+effect on the measurement of the lease liability. Also, note that the term of the
+lease is equal to the useful life of the asset, and the present value of the lease
+payments is nearly 96 percent of the fair value of the underlying asset, such
+that Ivanhoe (the lessee) takes ownership or consumes the substantial portion
+of the underlying asset over the lease term.
+9 If Ivanhoe had not known CNH’s implicit rate, it would have used its
+incremental borrowing rate of 5 percent to compute the present value of the
+lease liability.
+
+10 As discussed, in measuring the liability and right-of-use asset, Ivanhoe does
+not include the present value of the residual value because the guaranteed
+amount is not greater than the expected amount.
+11 Because it occurs at the lease commencement date, the first payment does not
+contain an interest component.
+12 If Ivanhoe purchases the backhoe during the term of the lease, it accounts for
+the transaction as a termination of the lease and a purchase of an asset. Thus, it
+would record any difference between the purchase price and the carrying
+amount of the lease liability as an adjustment of the carrying amount of the
+asset.
+13 Adapted from PricewaterhouseCoopers, Leases—2016 (www.pwc.com),
+Chapter 4.
+14 The IASB concluded that by meeting any of the lease classification tests in
+Illustration 21.18, the lessor transfers control (ownership) of the leased asset
+and therefore satisfies a performance obligation, which is required for revenue
+recognition under the IASB’s recent standard on revenue. Although not part of
+the classification tests, the lessor must also determine whether the
+collectibility of payments from the lessee is probable. If payments are not
+probable, the lessor does not record a receivable and does not derecognize the
+leased asset. Instead, receipt of any lease payments is recorded as a deposit
+liability. [11]
+15 As discussed earlier, if a lease contains a renewal option that is a bargain (i.e.,
+difference between the renewal rental and the expected fair rental is great
+enough to make exercise of the option to renew reasonably certain), the lessor
+should include bargain renewal periods in the lease term.
+16 The transfer of ownership, the bargain purchase option, and the alternative use
+test essentially give ownership of the leased asset to the lessee. The other two
+tests give control of a substantial portion of the underlying asset to the lessee,
+and in some cases, essentially ownership.
+17 Lease Receivable is often defined as only the present value of the rental
+payments plus the present value of the guaranteed residual value. In the case in
+which the lessor has an unguaranteed residual value, the total amount is often
+referred to as the net investment in the lease. Another approach is to report the
+unguaranteed residual value separately when making the journal entry. We use
+the definition in Illustration 21.19 for pedagogical reasons; this definition
+(including both guaranteed and unguaranteed residual values) should be used
+in the homework.
+
+18 For a lease classified as operating, if collectibility is not probable, recognition of
+lease income is limited to cash received.
+19 If the CNH/Ivanhoe lease were a lease with no selling profit (the cost of the
+backhoe is equal to the fair value), the entry at commencement would be as
+follows.
+Lease Receivable 100,000
+Equipment
+That is, the backhoe is not part of inventory, and the lease is a financing
+arrangement (a direct financing lease).
+20 Adapted from PricewaterhouseCoopers, Leases—2016 (www.pwc.com), p. 4-4.
+21 Pepa Kraft, “Rating Agency Adjustment to GAAP Financial Statements and
+Their Effect on Ratings and Credit Spreads,” The Accounting Review (March
+2015), Vol. 90, No. 2, pp 641–674. In addition, a study by J.P. Morgan showed
+significant variation in the range of analysts’ estimates of the underlying lease
+obligations under the new rules. See P. Elwin and S. C. Fernandes, “Leases on
+B/S from 2017? Retailers and Transport Will Be Hit Hard in Leverage Terms,”
+Global Equity Research, J.P. Morgan Securities (May 17, 2013). See also M.
+Maurer, “New Lease Accounting Standard May Mislead Investors, Credit Suisse
+Says,” Wall Street Journal (July 10, 2019).
+22 The same amortization schedule can be used for the lessee and lessor because
+there is no residual value and Parker knows the implicit rate used by the lessor
+is setting the payments (lessee and lessor use the same discount rate).
+23 The FASB indicates that reporting a single operating cost in the income
+statement more appropriately reflects the economics of an operating lease than
+the separate recognition of interest and amortization used in the finance lease
+approach. The rationale for this approach is that an operating lease grants
+different rights to the lessee. The different rights are that in an operating lease,
+the lessee is neither exposed to, nor benefits from, any value changes in the
+right-of-use asset over the term of the lease.
+Sources: A. Catanach and E. Ketz, “Still Searching for the ‘Rite’ Stuff,” Grumpy Old Accountants (April
+30, 2012), blogs.smeal.psu.edu; Sue Lloyd, “A New Lease on Life,” Investor Perspective (January 2016); “A
+Study on the Impact of Lease Capitalization: IFRS 16: The New Leases Standard,” www.pwc.com
+(February 2016); and Jean Eaglesham, “Airlines Get a Break in New Accounting for Leases,” Wall Street
+Journal (November 15, 2019).

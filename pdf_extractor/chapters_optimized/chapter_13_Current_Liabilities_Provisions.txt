@@ -1,0 +1,1708 @@
+CHAPTER 13
+Current Liabilities, Provisions, and Contingencies
+LEARNING OBJECTIVES
+After studying this chapter, you should be able to:
+1. Describe the nature, valuation, and reporting of current liabilities.
+2. Explain the accounting for different types of provisions.
+3. Explain the accounting for loss and gain contingencies.
+4. Indicate how to present and analyze liability-related information.
+This chapter also includes numerous conceptual discussions that are integral to the
+topics presented here.
+PREVIEW OF CHAPTER 13
+As the following opening story indicates, the IASB continues to work toward improved reporting
+of liabilities. In this chapter, we explain the basic issues related to accounting and reporting for
+current liabilities, provisions, and contingencies. The content and organization of the chapter are
+as follows. (Note that Global Accounting Issues related to liabilities is presented in Chapter 14.)
+Now You See It, Now You Don’t
+A look at the liabilities side of the statement of financial position of the company Beru AG (DEU),
+dated March 31, 2003, shows how international standards have changed the reporting of financial
+information. Here is how one liability was shown on this date:
+Anticipated losses arising from pending transactions 3,285,000 euros
+German accounting rules at that time were permissive: They allowed companies to report liabilities for
+possible future events. In essence, the establishment of this general-purpose “liability” provided a
+buffer for Beru if losses were to materialize. This was a problem, since Beru could manipulate its
+income by charging expenses in good years and reducing expenses in bad years.
+
+The story has a happy ending: European companies switched to International Financial Reporting
+Standards (IFRS). Under IFRS, liabilities like “Anticipated losses arising from pending transactions”
+disappear. So when we look at IFRS financial statements today, companies report as liabilities only
+obligations arising from past transactions that can be reasonably estimated.
+Standard-setters continue to work on the financial reporting of certain “contingent” liabilities, such as
+those related to pending lawsuits and other possible losses for which a company might be liable. As you
+will learn in this chapter, standard-setters have provided more transparency in reporting liability-type
+transactions. However, much still needs to be done. For example, the IASB is considering a number of
+changes in how to recognize and measure contingent liabilities, a difficult task. Consider a simple
+illustration involving a company that sells hamburgers:
+The hamburgers are sold in a jurisdiction where the law states that the seller must pay €100,000
+to each customer who purchases a contaminated hamburger;
+At the end of the reporting period, the company has sold one hamburger; and
+Past experience indicates there is a one in a million chance that a hamburger sold by the entity is
+contaminated. No other information is available.
+Does the company have a liability? What is the conceptual justification, if any, to record a liability or
+for that matter, not to record a liability? And if you conclude that the sale of the hamburger results in a
+liability, how do you measure it? Another way to ask the question is whether the hamburger issue is a
+recognition issue or a measurement issue. This example illustrates some of the difficult questions that
+the IASB faces in this area.
+The current discussion related to contingent liabilities centers on several areas. First, as discussed in
+Chapter 2, the most recent revision of the Conceptual Framework by the IASB has modified the
+definition of a liability. As a result, the IASB will need to consider its guidance related to all liabilities,
+including contingent liabilities, to ensure that it conforms to the new definition. In addition, the IASB
+has decided to consider a number of specific questions related to its current guidance in this area,
+including the following.
+1. What specific future costs should be considered when determining the amount of a contingent
+liability?
+2. When the amount of a contingent liability is based on the present value of future cash flows, what
+discount rate should be used?
+3. When there is uncertainty in the amount of future cash flows related to a contingent liability
+(which there almost always is), how should this uncertainty be considered when measuring the
+contingent liability?
+4. When a company has a contingent liability but it also has a right to be reimbursed by another party
+for all or part of that liability, what level of certainty must be achieved in order to recognize the
+reimbursement right?
+5. When an event that confirms that a contingent asset exists occurs after the end of the reporting
+period, but before the financial statements are issued, should the subsequent event be considered
+in determining if the contingent assets existed at the reporting date?
+As you can probably tell, each of these questions represents important issues that need to be addressed
+in the IASB standards. After studying this chapter, you will be better equipped to tackle these and other
+difficult questions related to liabilities. Stay tuned as this important topic continues to evolve.
+
+Review and Practice
+Go to the Review and Practice section at the end of the chapter for a targeted summary review
+and practice problem with solution. Multiple-choice questions with annotated solutions, as well
+as additional exercises and practice problem with solutions, are also available online.
+Current Liabilities
+LEARNING OBJECTIVE 1
+Describe the nature, valuation, and reporting of current liabilities.
+The question, “What is a liability?” is not easy to answer. For example, are preference shares a liability
+or an ownership claim? The first reaction is to say that preference shares are in fact an ownership
+claim, and companies should report them as part of equity. In fact, preference shares have many
+elements of debt as well. The issuer (and in some cases the holder) often has the right to call the
+shares within a specific period of time—making them similar to a repayment of principal. The
+dividends on the preference shares are in many cases almost guaranteed (the cumulative provision)—
+making them look like interest. As a result, preference shares are but one of many financial
+instruments that are difficult to classify.1
+To help resolve some of these controversies, the IASB, as part of its Conceptual Framework, defines a
+liability as a present obligation of the entity to transfer an economic resource as a result of past events
+(see Underlying Concepts). In other words, a liability has three essential characteristics:
+1. It is a present obligation.
+2. It requires a transfer of economic resources (cash, goods, services).
+3. It arises from past events. [1] (See the Authoritative Literature References section near the end of
+the chapter.)
+Underlying Concepts
+To determine the appropriate classification of specific financial instruments, companies need
+proper definitions of assets, liabilities, and equities. They often use the Conceptual Framework
+definitions as the basis for resolving controversial classification issues.
+Because liabilities involve future disbursements of assets or services, one of their most important
+features is the date on which they are payable. A company must satisfy currently maturing obligations
+in the ordinary course of business to continue operating. Liabilities with a more distant due date do
+not, as a rule, represent a claim on the company’s current resources. They are therefore in a slightly
+different category. This feature gives rise to the basic division of liabilities into (1) current liabilities
+and (2) non-current liabilities.
+Recall that current assets are cash or other assets that companies reasonably expect to convert into
+cash, sell, or consume in operations within a single operating cycle or within a year (if completing more
+than one cycle each year). Similarly, a current liability is reported if one of two conditions exists: 2
+1. The liability is expected to be settled within its normal operating cycle; or
+2. The liability is expected to be settled within 12 months after the reporting date.
+This definition has gained wide acceptance because it recognizes operating cycles of varying lengths in
+different industries.
+
+The operating cycle is the period of time elapsing between the acquisition of goods and services
+involved in the manufacturing process and the final cash realization resulting from sales and
+subsequent collections. Industries that manufacture products requiring an aging process, as well as
+certain capital-intensive industries, have an operating cycle of considerably more than one year. In
+these cases, companies classify operating items, such as accounts payable and accruals for wages and
+other expenses, as current liabilities, even if they are due to be settled more than 12 months after the
+reporting period.
+Here are some typical current liabilities:
+1. Accounts payable.
+6. Customer advances and deposits.
+2. Notes payable.
+7. Unearned revenues.
+3. Current maturities of long-term debt.
+8. Sales and value-added taxes payable.
+4. Short-term obligations expected to be refinanced.
+9. Income taxes payable.
+5. Dividends payable.
+10. Employee-related liabilities.
+Accounts Payable
+Accounts payable, or trade accounts payable, are balances owed to others for goods, supplies, or
+services purchased on open account. Accounts payable arise because of the time lag between the
+receipt of services or acquisition of title to assets and the payment for them. The terms of the sale (e.g.,
+2/10, net 30 or 1/10, E.O.M.) usually state this period of extended credit, commonly 30 to 60 days.
+Most companies record liabilities for purchases of goods upon receipt of the goods. If title has passed
+to the purchaser before receipt of the goods, the company should record the transaction at the time of
+title passage. A company must pay special attention to transactions occurring near the end of one
+accounting period and at the beginning of the next. It needs to ascertain that the record of goods
+received (the inventory) agrees with the liability (accounts payable), and that it records both in the
+proper period.
+Measuring the amount of an account payable poses no particular difficulty. The invoice received from
+the creditor specifies the due date and the exact outlay in money that is necessary to settle the account.
+The only calculation that may be necessary concerns the amount of cash discount. See Chapter 8 for
+illustrations of entries related to accounts payable and purchase discounts.
+Notes Payable
+Notes payable are written promises to pay a certain sum of money on a specified future date. They
+may arise from purchases, financing, or other transactions. Some industries require notes (often
+referred to as trade notes payable) as part of the sales/purchases transaction in lieu of the normal
+extension of open account credit. Notes payable to banks or loan companies generally arise from cash
+loans. Companies classify notes as short-term or long-term, depending on the payment due date. Notes
+may also be interest-bearing or zero-interest-bearing.
+Interest-Bearing Note Issued
+Assume that Castle Bank agrees to lend €100,000 on March 1, 2022, to Landscape Co. if Landscape
+signs a €100,000, 6 percent, four-month note. Landscape records the cash received on March 1 as
+follows.
+March 1, 2022
+Cash
+Notes Payable
+(To record issuance of 6%, 4-month note to Castle Bank)
+
+If Landscape prepares financial statements semiannually, it makes the following adjusting entry to
+recognize interest expense and interest payable of €2,000 (€100,000 × .06 × 4⁄12) at June 30, 2022.
+June 30, 2022
+Interest Expense
+Interest Payable
+(To accrue interest for 4 months on Castle Bank note)
+If Landscape prepares financial statements monthly, its interest expense at the end of each month is
+€500 (€100,000 × .06 × 1⁄12).
+At maturity (July 1, 2022), Landscape must pay the face value of the note (€100,000) plus €2,000
+interest (€100,000 × .06 × 4⁄12). Landscape records payment of the note and accrued interest as follows.
+July 1, 2022
+Notes Payable
+Interest Payable
+Cash
+(To record payment of Castle Bank interest-bearing note and accrued interest at
+maturity)
+Zero-Interest-Bearing Note Issued
+A company may issue a zero-interest-bearing note instead of an interest-bearing note. A zero-interest-
+bearing note does not explicitly state an interest rate on the face of the note. Interest is still
+charged, however. At maturity, the borrower must pay back an amount greater than the cash received
+at the issuance date. In other words, the borrower receives in cash the present value of the note. The
+present value equals the face value of the note at maturity minus the interest or discount charged by
+the lender for the term of the note.
+To illustrate, assume that Landscape issues a €102,000, four-month, zero-interest-bearing note to
+Castle Bank on March 1, 2022. The present value of the note is €100,000. Landscape records this
+transaction as follows.
+March 1, 2022
+Cash
+Notes Payable
+(To record issuance of 4-month, zero-interest-bearing note to Castle Bank)
+Landscape credits the Notes Payable account for the present value of the note, which is €100,000. If
+Landscape prepares financial statements semiannually, it makes the following adjusting entry to
+recognize the interest expense and the increase in the note payable of €2,000 at June 30, 2022.
+June 30, 2022
+Interest Expense
+Notes Payable
+(To accrue interest for 4 months on Castle Bank note)
+At maturity (July 1, 2022), Landscape must pay the face value of the note, as follows.
+July 1, 2022
+Notes Payable
+Cash
+
+July 1, 2022
+(To record payment of Castle Bank zero-interest-bearing at maturity)
+In this case, the amount of interest expense recorded and the total cash outlay are exactly the same
+whether Landscape signed a loan agreement with a stated interest rate or used the zero-interest-rate
+approach. This circumstance rarely happens, because often the borrower on an interest-bearing note
+will have to make monthly cash payments for interest during the term of the note. We discuss
+additional accounting issues related to notes payable in Chapter 14.
+Current Maturities of Long-Term Debt
+Ahold Delhaize Group (NLD/BEL) reports as part of its current liabilities the portion of bonds,
+mortgage notes, and other long-term indebtedness that matures within the next fiscal year. It
+categorizes this amount as current maturities of long-term debt. Companies such as Ahold
+Delhaize exclude currently maturing long-term debts from current liabilities if they are to be:
+1. Refinanced, or retired from the proceeds of a new long-term debt issue (discussed in the next
+section); or,
+2. Converted into ordinary shares.
+When only a part of a long-term debt is to be paid within the next 12 months, as in the case of serial
+bonds that a company retires through a series of annual installments, a company reports the
+maturing portion of long-term debt as a current liability and the remaining portion as a long-
+term debt.
+However, a company should classify as current any liability that is due on demand (callable by the
+creditor), or will be due on demand within one year (or operating cycle, if longer). Liabilities often
+become callable by the creditor when there is a violation of the debt agreement. For example, most
+debt agreements specify that a given level of equity to debt be maintained, or specify that working
+capital be of a minimum amount. If the company violates an agreement, it must classify the debt as
+current because it is a reasonable expectation that existing working capital will be used to satisfy the
+debt.
+To illustrate a breach of a covenant, assume that Gyro Company on November 1, 2022, has a long-term
+note payable to Sanchez SA, which is due on April 1, 2024. Unfortunately, Gyro breaches a covenant in
+the note, and the obligation becomes payable on demand. Gyro is preparing its financial statements at
+December 31, 2022. Given the breach in the covenant, Gyro must classify its obligation as current.
+However, Gyro can classify the liability as non-current if Sanchez agrees before December 31, 2022, to
+provide a grace period for the breach of the agreement. The grace period must end at least 12 months
+after December 31, 2022, to be reported as a non-current liability. If the agreement is not finalized by
+December 31, 2022, Gyro must classify the note payable as a current liability. [2]
+Short-Term Obligations Expected to Be Refinanced
+Short-term obligations are debts scheduled to mature within one year after the date of a company’s
+statement of financial position or within its normal operating cycle. Some short-term obligations
+are expected to be refinanced on a long-term basis. These short-term obligations will not require
+the use of working capital during the next year (or operating cycle).3
+At one time, the accounting profession generally supported the exclusion of short-term obligations
+from current liabilities if they were “expected to be refinanced.” But the profession provided no specific
+guidelines, so companies determined whether a short-term obligation was “expected to be refinanced”
+based solely on management’s intent to refinance on a long-term basis. Classification was not clear-
+cut. For example, a company might obtain a five-year bank loan but handle the actual financing with
+90-day notes, which it must keep turning over (renewing). In this case, is the loan a long-term debt or a
+current liability? It depends on refinancing criteria.
+
+Refinancing Criteria
+To resolve these classification problems, the IASB has developed criteria for determining the
+circumstances under which short-term obligations may be properly excluded from current liabilities.
+Specifically, a company can exclude a short-term obligation from current liabilities if, at the financial
+statement date, it has the right to defer settlement of the liability for at least 12 months after the
+reporting date. A common scenario for deferral is a refinancing.
+The right to refinance on a long-term basis means that the company expects to refinance the short-
+term obligation so that it will not require the use of working capital during the ensuing fiscal year (or
+operating cycle, if longer). Entering into a financing arrangement that clearly permits the company to
+refinance the debt on a long-term basis on terms that are readily determinable before the next
+reporting date is one way to satisfy the refinancing condition. In addition, the fact that a company has
+the right to refinance at any time permits the company to classify the liability as non-current.
+Illustration 13.1 presents an analysis of refinancing.
+
+Refinancing
+Facts: Haddad SE provides the following information related to its note payable.
+Issued note payable of €3,000,000 on November 30, 2022, due on February 28, 2023. Haddad’s
+reporting date is December 31, 2022.
+Haddad expects to extend the maturity date of the loan (refinance the loan) to June 30, 2024.
+Its December 31, 2022, financial statements are authorized for issue on March 15, 2023.
+The necessary paperwork to refinance the loan is completed on January 15, 2023. Haddad did not
+have an unconditional right to defer settlement of the obligation at December 31, 2022.
+The refinancing events are shown in the following timeline.
+Questions: (1) What is the accounting treatment for Haddad’s short-term debt to be
+refinanced if a contract to refinance is completed on January 15, 2023? (2) What is the
+accounting treatment for the short-term debt to be refinanced if a contract to refinance
+is completed by December 31, 2022?
+Solution:
+1. Haddad must classify its note payable as a current liability because the contract for refinancing
+is not completed by December 31, 2022. The rationale: Refinancing a liability after the
+statement of financial position date does not affect the liquidity or solvency at statement of
+financial position, the reporting of which should reflect contractual agreements in force only up
+to the financial statement sheet date. [2]
+2. Haddad should classify the note payable as non-current because it has a contract, which gives it
+the right to defer payment to June 30, 2024, and the contract is in effect as of December 31,
+As indicated in Illustration 13.1, decisions about the classification of debt are based on facts and
+circumstances that exist as of the reporting date (that is, as of the statement of financial position
+date). [3]
+ILLUSTRATION 13.1 Refinancing Analysis
+
+What Do the Numbers Mean?
+Going, Going, Gone
+A classic example of the need for rules for liabilities expected to be refinanced is the case of Penn
+Central Railroad (USA) before it went bankrupt. The railroad was deep into short-term debt but
+classified it as long-term debt. Why? Because the railroad believed it had commitments from
+lenders to keep refinancing the short-term debt. When those commitments suddenly disappeared,
+it was “good-bye Pennsy.” As the Greek philosopher Epictetus once said, “Some things in this
+world are not and yet appear to be.”
+Dividends Payable
+A cash dividend payable is an amount owed by a company to its shareholders as a result of the
+board of directors’ authorization (or in other cases, vote of shareholders). At the date of declaration,
+the company assumes a liability that places the shareholders in the position of creditors in the amount
+of dividends declared. Because companies always pay cash dividends within one year of declaration
+(generally within three months), they classify them as current liabilities.
+On the other hand, companies do not recognize accumulated but undeclared dividends on cumulative
+preference shares as a liability. Why? Because preference dividends in arrears are not an
+obligation until the board of directors authorizes the payment. Nevertheless, companies should
+disclose the amount of cumulative dividends unpaid in a note, or show it parenthetically in the share
+capital section (see Underlying Concepts).
+Underlying Concepts
+Preference dividends in arrears do represent a probable future economic sacrifice, but the
+expected sacrifice does not result from a past transaction or past event. The sacrifice will result
+from a future event (declaration by the board of directors). Note disclosure improves the
+predictive value of the financial statements.
+Dividends payable in the form of additional shares are not recognized as a liability. Such share
+dividends (as we discuss in Chapter 15) do not require future outlays of assets or services. Companies
+generally report such undistributed share dividends in the equity section because they represent
+retained earnings in the process of transfer to share capital.
+Customer Advances and Deposits
+Current liabilities may include returnable cash deposits received from customers and employees.
+Companies may receive deposits from customers to guarantee performance of a contract or service or
+as guarantees to cover payment of expected future obligations. For example, a company like Vodafone
+(GBR) often requires a deposit on equipment that customers use to connect to the Internet or to access
+Vodafone’s other services. Vodafone also may receive deposits from customers as guarantees for
+possible damage to property. Additionally, some companies require their employees to make deposits
+for the return of keys or other company property.
+The classification of these items as current or non-current liabilities depends on the time between the
+date of the deposit and the termination of the relationship that required the deposit.
+Unearned Revenues
+A magazine publisher such as Hachette (FRA) receives payment when a customer subscribes to its
+magazines. An airline company such as China Southern Airlines (CHN) sells tickets for future
+flights. And software companies like Microsoft (USA) issue coupons that allow customers to upgrade
+
+to the next version of their software. How do these companies account for unearned revenues that
+they receive before providing goods or performing services?
+1. When a company receives an advance payment, it debits Cash and credits a current liability
+account identifying the source of the unearned revenue.
+2. When a company recognizes revenue, it debits the unearned revenue account and credits a
+revenue account.
+To illustrate, assume that Logo University sells 10,000 season soccer tickets at $50 each for its five-
+game home schedule. Logo University records the sales of season tickets as follows.
+August 6
+Cash
+Unearned Sales Revenue
+(To record sale of 10,000 season tickets)
+After each game, Logo University makes the following entry.
+September 7
+Unearned Sales Revenue
+Sales Revenue
+(To record soccer ticket revenue)
+The account Unearned Sales Revenue represents unearned revenue. Logo University reports it as a
+current liability in the statement of financial position because the school has a performance obligation.
+As ticket holders attend games, Logo recognizes revenue and reclassifies the amount from Unearned
+Sales Revenue to Sales Revenue. Unearned revenue is material for some companies: In the airline
+industry, for example, tickets sold for future flights represent almost 50 percent of total current
+liabilities.
+Illustration 13.2 shows specific unearned revenue and revenue accounts sometimes used in selected
+types of businesses.
+Account Title
+Type of 
+Business
+Unearned Revenue
+Revenue
+Airline
+Unearned Passenger Ticket Revenue Passenger Revenue
+Magazine publisher Unearned Subscription Revenue
+Subscription Revenue
+Hotel
+Unearned Rental Revenue
+Rental Revenue
+Auto dealer
+Unearned Warranty Revenue
+Warranty Revenue
+Retailers
+Unearned Gift Card Revenue
+Sales Revenue
+ILLUSTRATION 13.2 Unearned Revenue and Revenue Accounts
+The statement of financial position reports obligations for any commitments that are redeemable in
+goods and services. The income statement reports revenues related to performance obligations
+satisfied during the period.
+
+What Do the Numbers Mean?
+SAP’s Liabilities—Good or Bad?
+Users of financial statements generally examine current liabilities to assess a company’s liquidity
+and overall financial flexibility. Companies must pay many current liabilities, such as accounts
+payable, wages payable, and taxes payable, sooner rather than later. A substantial increase in
+these liabilities should therefore raise a red flag about a company’s financial position. However,
+this is not the case for all current liabilities.
+For example, SAP (DEU) has a current liability account entitled “Contract liabilities/deferred
+income” with a balance in the most recent period of €3.028 billion, which is almost 24 percent of
+total current liabilities and over 13 percent of total liabilities. This account has been increasing
+year after year. Deferred income is a liability account that arises from SAP’s sales of cloud
+subscription services and software support services where the payments are collected in advance.
+Market analysts read such an increase in deferred income as a positive signal about SAP’s sales
+and profitability. When SAP’s sales are growing, its deferred income account increases. Thus, an
+increase in a liability is good news about SAP’s sales. At the same time, a decline in deferred
+income is bad news. As one commentator noted, a slowdown or reversal of the growth in SAP’s
+deferred income indicates both slowing sales and cash flows, which is bad news for investors.
+Thus, increases in current liabilities can sometimes be viewed as good signs instead of bad.
+Sources: Adapted from Glenn Wisegarver, “The SaaS Addiction to Deferred Revenue,”
+www.forbes.com/sites/forbesexecutivefinancecouncil/2017/04/07/the-saas-addiction-to-deferred-revenue (April 7, 2017).
+Sales and Value-Added Taxes Payable
+Most countries have a consumption tax. Consumption taxes are generally either a sales tax or a value-
+added tax (VAT). The purpose of these taxes is to generate revenue for the government similar to the
+company or personal income tax. These two taxes accomplish the same objective—to tax the final
+consumer of the good or service. However, the two systems use different methods to accomplish this
+objective.
+Sales Taxes Payable
+To illustrate the accounting for sales taxes, assume that Halo Supermarket sells loaves of bread to
+consumers on a given day for €2,400. Assuming a sales tax rate of 10 percent, Halo Supermarket
+makes the following entry to record the sale.
+Cash
+Sales Revenue
+Sales Taxes Payable
+In this situation, Halo Supermarket records a liability to provide for taxes collected from customers but
+not yet remitted to the appropriate tax authority. At the proper time, Halo Supermarket remits the
+€240 to the tax authority.
+Sometimes, the sales tax collections credited to the liability account are not equal to the liability as
+computed by the governmental formula. In such a case, companies make an adjustment of the liability
+account by recognizing a gain or a loss on sales tax collections. Many companies do not segregate the
+sales tax and the amount of the sale at the time of sale. Instead, the company credits both amounts in
+total in the Sales Revenue account. Then, to reflect correctly the actual amount of sales and the liability
+for sales taxes, the company debits the Sales Revenue account for the amount of the sales taxes due the
+government on these sales and credits the Sales Taxes Payable account for the same amount.
+
+To illustrate, assume that the Sales Revenue account balance of €150,000 includes sales taxes of 4
+percent. Thus, the amount recorded in the Sales Revenue account is comprised of the sales amount
+plus sales tax of 4 percent of the sales amount. Sales therefore are €144,230.77 (€150,000 ÷ 1.04) and
+the sales tax liability is €5,769.23 (€144,230.77 × 0.04, or €150,000 − €144,230.77). The following
+entry records the amount due to the tax authority.
+Sales Revenue
+Sales Taxes Payable
+Value-Added Taxes Payable
+Value-added taxes (VAT) are used by tax authorities more than sales taxes (over 100 countries require
+that companies collect a value-added tax). As indicated earlier, a value-added tax is a consumption
+tax. This tax is placed on a product or service whenever value is added at a stage of production and at
+final sale. A VAT is a cost to the end user, normally a private individual, similar to a sales tax.
+However, a VAT should not be confused with a sales tax. A sales tax is collected only once at the
+consumer’s point of purchase. No one else in the production or supply chain is involved in the
+collection of the tax. In a VAT taxation system, the VAT is collected every time a business purchases
+products from another business in the product’s supply chain. To illustrate, let’s return to the Halo
+Supermarket example but now assume that a VAT is imposed rather than a sales tax. To understand
+how a VAT works, we need to understand how the loaves of bread were made ready for purchase. Here
+is what happened.
+1. Hill Farms Wheat grows wheat and sells it to Sunshine Baking for €1,000. Hill Farms Wheat
+makes the following entry to record the sale, assuming the VAT is 10 percent.
+Cash
+Sales Revenue
+Value-Added Taxes Payable
+Hill Farms Wheat then remits the €100 to the tax authority.
+2. Sunshine Baking makes loaves of bread from this wheat and sells it to Halo Supermarket for
+€2,000. Sunshine Baking makes the following entry to record the sale, assuming the VAT is 10
+percent.
+Cash
+Sales Revenue
+Value-Added Taxes Payable
+Sunshine Baking then remits €100 to the government, not €200. The reason: Sunshine Baking has
+already paid €100 to Hill Farms Wheat. At this point, the tax authority is only entitled to €100.
+Sunshine Baking receives a credit for the VAT paid to Hill Farms Wheat, which reduces the VAT
+payable.
+3. Halo Supermarket sells the loaves of bread to consumers for €2,400. Halo Supermarket makes the
+following entry to record the sale, assuming the VAT is 10 percent.
+Cash
+Sales Revenue
+Value-Added Taxes Payable
+Halo Supermarket then sends only €40 to the tax authority, because it deducts the €200 VAT
+already paid to Sunshine Baking.
+Who, then, in this supply chain ultimately pays the VAT of €240? The consumers. A summary of the
+process is provided in Illustration 13.3.
+
+1. Hill Farms Wheat collected €100 of VAT and remitted this amount to the tax authority; it did not
+have a net cash outlay for these taxes.
+2. Sunshine Baking collected €200 of VAT but only remitted €100 to the tax authority because it
+received credit for the €100 VAT that it paid to Hill Farms Wheat; it did not have a net cash outlay
+for these taxes.
+3. Halo Supermarket collected €240 of VAT but only remitted €40 to the tax authority because it
+received credit for the €200 of VAT it paid to Sunshine Baking; it did not have a net cash outlay
+for these taxes.
+In summary, the total VAT collected and remitted by the companies in the supply chain is as follows.
+VAT Collected VAT Remitted VAT Credited VAT Owed
+Hill Farms Wheat
+€
+€0
+Sunshine Baking
+Halo Supermarket
+Totals
+€0
+So who actually pays the VAT? It is the consumers who bear the €240 VAT cost as part of their
+purchase price, not the companies that produced and distributed the bread.
+ILLUSTRATION 13.3 Who Pays the VAT?
+An advantage of a VAT is that it is easier to collect than a sales tax because it has a self-correcting
+mechanism built into the tax system. For example, look again at Sunshine Baking in Illustration 13.3.
+If Sunshine Baking is considering not paying the VAT, it knows that Halo Supermarket will report its
+purchase from Sunshine Baking in order to claim its credit. As a result, the tax authority has records
+that a purchase was made and therefore could charge Sunshine Baking with fraud if it fails to remit the
+VAT. A sales tax does not have this self-correcting mechanism and is thus easier to avoid. For example,
+if the sales tax is high, consumers can buy goods in different jurisdictions than their residence, or
+pretend to be a business in the supply chain rather than the ultimate consumer. On the other hand, a
+disadvantage of a VAT is the increased amount of record-keeping involved in implementing the system.
+For example, companies must keep track of credits for VAT payments and adjust Inventory (or Cost of
+Goods Sold) when remitting VAT taxes.
+Income Taxes Payable
+Most income tax varies in proportion to the amount of annual income. Using the best information and
+advice available, a business must prepare an income tax return and compute the income taxes payable
+resulting from the operations of the current period. Companies should classify as a current liability the
+taxes payable on net income, as computed per the tax return. However, in many countries
+proprietorships and partnerships are not taxable entities. Because the individual proprietor and the
+members of a partnership are subject to personal income taxes on their share of the business’s taxable
+income, income tax liabilities do not appear on the financial statements of proprietorships and
+partnerships.
+Most companies must make periodic tax payments throughout the year to the appropriate government
+agency. These payments are based upon estimates of the total annual tax liability. As the estimated
+total tax liability changes, the periodic payments also change. If, in a later year, the taxing authority
+assesses an additional tax on the income of an earlier year, the company should credit Income Taxes
+Payable and charge the related debit to current operations.
+Differences between taxable income under the tax laws and accounting income under IFRS sometimes
+occur. Because of these differences, the amount of income taxes payable to the government in any
+
+given year may differ substantially from income tax expense as reported on the financial statements.
+Chapter 19 is devoted solely to income tax matters and presents an extensive discussion of this
+complex topic.
+Employee-Related Liabilities
+Companies also report as a current liability amounts owed to employees for salaries or wages at the
+end of an accounting period. In addition, they often also report as current liabilities the following items
+related to employee compensation.
+1. Payroll deductions.
+2. Compensated absences.
+3. Bonuses.
+Payroll Deductions
+The most common types of payroll deductions are taxes, insurance premiums, employee savings, and
+union dues. To the extent that a company has not remitted the amounts deducted to the
+proper authority at the end of the accounting period, it should recognize them as current
+liabilities.
+Social Security Taxes
+Most governments provide a level of social benefits (for retirement, unemployment, income, disability,
+and medical benefits) to individuals and families. The benefits are generally funded from taxes
+assessed on both the employer and the employees. These taxes are often referred to as Social
+Security taxes or Social Welfare taxes. Employers collect the employee’s share of this tax by
+deducting it from the employee’s gross pay, and remit it to the government along with their share. The
+government often taxes both the employer and the employee at the same rate. Companies should
+report the amount of unremitted employee and employer Social Security tax on gross
+wages paid as a current liability.
+Income Tax Withholding
+Income tax laws generally require employers to withhold from each employee’s pay the applicable
+income tax due on those wages. The employer computes the amount of income tax to withhold
+according to a government-prescribed formula or withholding tax table. That amount depends on the
+length of the pay period and each employee’s taxable wages, marital status, and claimed dependents.
+Illustration 13.4 summarizes payroll deductions and liabilities.
+ILLUSTRATION 13.4 Summary of Payroll Liabilities
+Payroll Deductions Example
+Assume a weekly payroll of $10,000 entirely subject to Social Security taxes (8 percent), with income
+tax withholding of $1,320 and union dues of $88 deducted. The company records the wages and
+salaries paid and the employee payroll deductions as follows.
+Salaries and Wages Expense
+
+Withholding Taxes Payable
+Social Security Taxes Payable
+Union Dues Payable
+Cash
+It records the employer payroll taxes as follows.
+Payroll Tax Expense
+Social Security Taxes Payable
+The employer must remit to the government its share of Social Security tax along with the amount of
+Social Security tax deducted from each employee’s gross compensation. It should record all unremitted
+employer Social Security taxes as payroll tax expense and payroll tax payable.4
+Compensated Absences
+Compensated absences are paid absences from employment—such as vacation, illness, and
+maternity, paternity, and jury leaves.5 The following considerations are relevant to the accounting for
+compensated absences.
+Vested rights exist when an employer has an obligation to make payment to an employee even after
+terminating his or her employment. Thus, vested rights are not contingent on an employee’s future
+service. Accumulated rights are those that employees can carry forward to future periods if not used
+in the period in which earned. For example, assume that you earn four days of vacation pay as of
+December 31, the end of your employer’s fiscal year. Company policy is that you will be paid for this
+vacation time even if you terminate employment. In this situation, your four days of vacation pay are
+vested, and your employer must accrue the amount.
+Now assume that your vacation days are not vested but that you can carry the four days over into later
+periods. Although the rights are not vested, they are accumulated rights for which the employer must
+make an accrual. However, the amount of the accrual is adjusted to allow for estimated forfeitures due
+to turnover.
+Non-accumulating rights do not carry forward; they lapse if not used. As a result, a company does
+not recognize a liability or expense until the time of absence (benefit). Thus, if an employee takes a
+vacation day during a month and it is non-accumulating, the vacation day is an expense in that month.
+Similarly, a benefit such as a maternity or paternity leave is contingent upon a future event and does
+not accumulate. Therefore, these costs are recognized only when the absence commences. [4]
+A modification of the general rules relates to the issue of sick pay. If sick pay benefits vest, a company
+must accrue them. If sick pay benefits accumulate but do not vest, a company may choose whether to
+accrue them. Why this distinction? Companies may administer compensation designated as sick pay in
+one of two ways. In some companies, employees receive sick pay only if illness causes their absence.
+Therefore, these companies may or may not accrue a liability because its payment depends on future
+employee illness. Other companies allow employees to accumulate unused sick pay and take
+compensated time off from work even when not ill. For this type of sick pay, a company must accrue a
+liability because the company will pay it, regardless of whether employees become ill.
+Companies should recognize the expense and related liability for compensated absences
+in the year earned by employees. For example, if new employees receive rights to two weeks’ paid
+vacation at the beginning of their second year of employment, a company considers the vacation pay to
+be earned during the first year of employment.
+What rate should a company use to accrue the compensated absence cost—the current rate or an
+expected rate? IFRS recommends the use of the expected rate. However, companies will likely use the
+current rather than expected rates because future rates are not known. To illustrate, assume that
+Amutron NV began operations on January 1, 2022. The company employs 10 individuals and pays each
+
+€480 per week. Employees earned 20 unused vacation weeks in 2022. In 2023, the employees used the
+vacation weeks, but now they each earn €540 per week. Amutron accrues the accumulated vacation pay
+on December 31, 2022, as follows.
+Salaries and Wages Expense
+Salaries and Wages Payable (€480 × 20)
+At December 31, 2022, the company reports on its statement of financial position a liability of €9,600.
+In 2023, it records the payment of vacation pay as follows.
+Salaries and Wages Payable 9,600
+Salaries and Wages Expense 1,200
+Cash (€540 × 20)
+In 2023, the use of the vacation weeks extinguishes the liability. Note that Amutron records the
+difference between the amount of cash paid and the reduction in the liability account as an adjustment
+to Salaries and Wages Expense in the period when paid. This difference arises because it accrues the
+liability account at the rates of pay in effect during the period when employees earned the
+compensated time. The cash paid, however, depends on the rates in effect during the period when
+employees used the compensated time. If Amutron used the future rates of pay to compute the accrual
+in 2022, then the cash paid in 2023 would equal the liability.6
+Profit-Sharing and Bonus Plans
+Many companies give a bonus to certain or all employees in addition to their regular salaries or wages.
+Frequently, the bonus amount depends on the company’s yearly profit. A company may consider
+bonus payments to employees as additional salaries and wages and should include them as a
+deduction in determining the net income for the year.
+To illustrate the entries for an employee bonus, assume that Palmer Inc. shows income for the year
+2022 of $100,000. It will pay out bonuses of $10,700 in January 2023. Palmer makes an adjusting
+entry dated December 31, 2022, to record the bonuses as follows.
+Salaries and Wages Expense
+Salaries and Wages Payable
+In January 2023, when Palmer pays the bonus, it makes this journal entry:
+Salaries and Wages Payable 10,700
+Cash
+Palmer should show the expense account in the income statement as an operating expense. The
+liability, Salaries and Wages Payable, is usually payable within a short period of time.
+Companies should include it as a current liability in the statement of financial position.
+An obligation under a profit-sharing or bonus plan must be accounted for as an expense and not a
+distribution of profit, since it results from employee service and not a transaction with owners.
+Similar to bonus agreements are contractual agreements for conditional expenses. Examples would
+be agreements covering rents or royalty payments conditional on the amount of revenues recognized or
+the quantity of product produced or extracted. Conditional expenses based on revenues or units
+produced are usually less difficult to compute than bonus arrangements.
+For example, assume that a lease calls for a fixed rent payment of $500 per month and 1 percent of all
+sales over $300,000 per year. The company’s annual rent obligation would amount to $6,000 plus
+$0.01 of each dollar of revenue over $300,000. In other examples, a royalty agreement may give to a
+patent owner $1 for every ton of product resulting from the patented process, or give to a mineral
+rights owner $0.50 on every barrel of oil extracted. As the company produces or extracts each
+additional unit of product, it creates an additional obligation, usually a current liability.
+
+Provisions
+LEARNING OBJECTIVE 2
+Explain the accounting for different types of provisions.
+A provision is a liability of uncertain timing or amount (sometimes referred to as an estimated
+liability). Provisions are very common and may be reported as either current or non-current depending
+on the date of expected payment. [5] Common types of provisions are obligations related to litigation,
+warrantees or product guarantees, business restructurings, and environmental damage.7
+For example, Petronas (MYS) reported RM35,266 million related to a provision for decommissioning
+oil and gas properties. Nokia (FIN) reported €195 million for warranties, intellectual property
+infringement, and restructuring costs. And Adecoagro SA (BRA) reported R$3,620,000 for labor,
+legal, and other claims.
+The difference between a provision and other liabilities (such as accounts or notes payable, salaries
+payable, and dividends payable) is that a provision has greater uncertainty about the timing or
+amount of the future expenditure required to settle the obligation. For example, when
+Siemens AG (DEU) reports an accounts payable, there is an invoice or formal agreement as to the
+existence and the amount of the liability. Similarly, when Siemens accrues interest payable, the timing
+and the amount are known.8
+Recognition of a Provision
+Companies accrue an expense and related liability for a provision only if the following three conditions
+are met.
+1. A company has a present obligation (legal or constructive) as a result of a past event;
+2. It is probable that an outflow of resources embodying economic benefits will be required to settle
+the obligation; and
+3. A reliable estimate can be made of the amount of the obligation.
+If these three conditions are not met, no provision is recognized. [6]
+In applying the first condition, the past event (often referred to as the past obligatory event) must have
+occurred. In applying the second condition, the term probable is defined as “more likely than not to
+occur.” This phrase is interpreted to mean the probability of occurrence is greater than 50 percent. If
+the probability is 50 percent or less, the provision is not recognized.
+Recognition Examples
+We provide three examples to illustrate when a provision should be recognized. It is assumed for each
+of these examples that a reliable estimate of the amount of the obligation can be determined.
+Illustration 13.5 presents the first example in which a company has a legal obligation to honor its
+warranties. A legal obligation generally results from a contract or legislation.
+
+Warranty
+Facts: Santos SA gives warranties to its customers related to the sale of its electrical products. The
+warranties are for three years from the date of sale. Based on past experience, it is probable that there
+will be some claims under the warranties.
+Question: Should Santos recognize at the statement of financial position date a provision
+for the warranty costs yet to be settled?
+Solution: (1) The warranty is a present obligation as a result of a past obligating event—the past
+obligating event is the sale of the product with a warranty, which gives rise to a legal obligation. (2)
+The warranty results in the outflow of resources embodying benefits in settlement—it is probable
+that there will be some claims related to these warranties. Santos should recognize the provision
+based on past experience.
+ILLUSTRATION 13.5 Recognition of a Provision—Warranty
+A constructive obligation is an obligation that derives from a company’s actions where:
+1. By an established pattern of past practice, published policies, or a sufficiently specific current
+statement, the company has indicated to other parties that it will accept certain responsibilities;
+and
+2. As a result, the company has created a valid expectation on the part of those other parties that it
+will discharge those responsibilities.
+The second example, presented in Illustration 13.6, demonstrates how a constructive obligation is
+reported.
+Refunds
+Facts: Christian Dior (FRA) has a policy of refunding purchases to dissatisfied customers even
+though it is under no legal obligation to do so. Its policy of making refunds is generally known.
+Question: Should Christian Dior record a provision for these refunds?
+Solution: (1) The refunds are a present obligation as a result of a past obligating event—the sale of
+the product. This sale gives rise to a constructive obligation because the conduct of the company has
+created a valid expectation on the part of its customers that it will refund purchases. (2) The refunds
+result in the outflow of resources in settlement—it is probable that a proportion of goods will be
+returned for refund. A provision is recognized for the best estimate of the costs of refunds.
+ILLUSTRATION 13.6 Recognition of a Provision—Refunds
+The third example, the case of Wm Morrison Supermarkets (GBR) in Illustration 13.7, presents
+a situation in which the recognition of the provision depends on the probability of future payment.
+
+Lawsuit
+Facts: Assume that an employee filed a £1,000,000 lawsuit on November 30, 2022, against Wm
+Morrison Supermarkets for damages suffered when the employee slipped and suffered a serious
+injury at one of the company’s facilities. Morrison’s lawyers believe that Morrison will not lose the
+lawsuit, putting the probability of future payments at less than 50 percent.
+Question: Should Morrison recognize a provision for legal claims at December 31, 2022?
+Solution: Although a past obligating event has occurred (the injury leading to the filing of the
+lawsuit), it is not probable (more likely than not) that Morrison will have to pay any damages.
+Morrison therefore does not need to record a provision. If, on the other hand, Morrison’s lawyer
+determined that it is probable that the company will lose the lawsuit, then Morrison should
+recognize a provision at December 31, 2022.
+ILLUSTRATION 13.7 Recognition of a Provision—Lawsuit
+Measurement of Provisions
+How does a company like Toyota (JPN), for example, determine the amount to report for its warranty
+cost on its automobiles? How does a company like Carrefour (FRA) determine its liability for
+customer refunds? How does Novartis (CHE) determine the amount to report for a lawsuit that it
+probably will lose? And how does a company like Total SA (FRA) determine the amount to report as a
+provision for its remediation costs related to environmental clean-up?
+IFRS provides an answer: The amount recognized should be the best estimate of the expenditure
+required to settle the present obligation. Best estimate represents the amount that a company
+would pay to settle the obligation at the statement of financial position date. [7]
+In determining the best estimate, the management of a company must use judgment, based on past or
+similar transactions, discussions with experts, and any other pertinent information. Here is how this
+judgment might be used in three different types of situations to arrive at best estimate:
+Toyota warranties. Toyota sells many cars and must make an estimate of the number of
+warranty repairs and related costs it will incur. Because it is dealing with a large population of
+automobiles, it is often best to weight all possible outcomes by associated probabilities. For
+example, it might determine that 80 percent of its cars will not have any warranty cost, 12 percent
+will have substantial costs, and 8 percent will have a much smaller cost. In this case, by weighting
+all the possible outcomes by their associated probabilities, Toyota arrives at an expected value
+for its warranty liability.
+Carrefour refunds. Carrefour sells many items at varying selling prices. Refunds to customers
+for products sold may be viewed as a continuous range of refunds, with each point in the range
+having the same probability of occurrence. In this case, the midpoint in the range can be used
+as the basis for measuring the amount of the refunds.
+Novartis lawsuit. Large companies like Novartis are involved in numerous litigation issues
+related to their products. Where a single obligation such as a lawsuit is being measured, the most
+likely outcome of the lawsuit may be the best estimate of the liability.
+In each of these situations, the measurement of the liability should consider the time value of money,
+if material. In addition, future events that may have an impact on the measurement of the costs should
+be considered. For example, a company like Total SA, which might have high remediation costs related
+to environmental clean-up, may consider future technological innovations that reduce future
+remediation costs.
+
+Common Types of Provisions
+Here are some common areas for which provisions may be recognized in the financial statements:
+1. Lawsuits
+4. Environmental
+2. Warranties
+5. Onerous contracts
+3. Consideration payable 6. Restructuring
+Although companies generally report only one current and one non-current amount for provisions in
+the statement of financial position, IFRS also requires extensive disclosure related to provisions in the
+notes to the financial statements. Companies do not record or report in the notes to the financial
+statements general risk contingencies inherent in business operations (e.g., the possibility of war,
+strike, uninsurable catastrophes, or a business recession). [8]
+Litigation Provisions
+Companies must consider the following factors, among others, in determining whether to record a
+liability with respect to pending or threatened litigation and actual or possible claims and
+assessments.
+1. The time period in which the underlying cause of action occurred.
+2. The probability of an unfavorable outcome.
+3. The ability to make a reasonable estimate of the amount of loss.
+To report a loss and a liability in the financial statements, the cause for litigation must have
+occurred on or before the date of the financial statements. It does not matter that the company
+became aware of the existence or possibility of the lawsuit or claims after the date of the financial
+statements but before issuing them. To evaluate the probability of an unfavorable outcome, a company
+considers the following: the nature of the litigation, the progress of the case, the opinion of legal
+counsel, its own and others’ experience in similar cases, and any management response to the lawsuit.
+With respect to unfiled suits and unasserted claims and assessments, a company must
+determine (1) the degree of probability that a suit may be filed or a claim or assessment may be
+asserted, and (2) the probability of an unfavorable outcome. For example, assume that a regulatory
+body investigates the Nawtee Company for restraint of trade and institutes enforcement proceedings.
+Private claims of triple damages for redress often follow such proceedings. In this case, Nawtee must
+determine the probability of the claims being asserted and the probability of triple damages being
+awarded. If both are probable, if the loss is reasonably estimable, and if the cause for action is dated on
+or before the date of the financial statements, then Nawtee should accrue the liability.
+Companies can seldom predict the outcome of pending litigation, however, with any assurance. And,
+even if evidence available at the statement of financial position date does not favor the company, it is
+hardly reasonable to expect the company to publish in its financial statements a dollar estimate of the
+probable negative outcome. Such specific disclosures might weaken the company’s position in the
+dispute and encourage the plaintiff to intensify its efforts. As a result, many companies provide a
+general provision for the costs expected to be incurred without relating the disclosure to any specific
+lawsuit or set of lawsuits. Illustration 13.8 provides the disclosure by Nestlé Group (CHE) related
+to its litigation claims.
+
+Nestlé Group
+Notes to the financial statements (partial)
+Legal and tax
+Legal provisions have been set up to cover legal and administrative proceedings that arise in the
+ordinary course of business. Tax provisions include disputes and uncertainties on non-income taxes
+(mainly VAT and sales taxes). It covers numerous separate cases whose detailed disclosure could be
+detrimental to the Group interests. The Group does not believe that any of these cases will have an
+adverse impact on its financial position. The timing of outflows is uncertain as it depends upon the
+outcome of these cases. Group Management does not believe it is possible to make assumptions on
+the evolution of the cases beyond the balance sheet date.
+ILLUSTRATION 13.8 Litigation Disclosure
+Warranty Provisions
+A warranty (product guarantee) is a promise made by a seller to a buyer to make good on a
+deficiency of quantity, quality, or performance in a product. Manufacturers commonly use it as a sales
+promotion technique. Automakers, for instance, “hype” their sales by extending their new-car warranty
+to seven years or 100,000 miles. For a specified period of time following the date of sale to the
+consumer, the manufacturer may promise to bear all or part of the cost of replacing defective parts, to
+perform any necessary repairs or servicing without charge, to refund the purchase price, or even to
+“double your money back.”
+Warranties and guarantees entail future costs. These additional costs, sometimes called “after costs” or
+“post-sale costs,” frequently are significant. Although the future cost is indefinite as to amount, due
+date, and even customer, a liability is probable in most cases. Companies should recognize this liability
+in the accounts if they can reasonably estimate it. The estimated amount of the liability includes all the
+costs that the company will incur after sale and delivery and that are incidental to the correction of
+defects or deficiencies required under the warranty provisions. Thus, warranty costs are a classic
+example of a provision.
+Companies often provide one of two types of warranties to customers:
+1. Warranty that the product meets agreed-upon specifications in the contract at the time the product
+is sold. This type of warranty is included in the sales price of a company’s product and is often
+referred to as an assurance-type warranty.
+2. Warranty that provides an additional service beyond the assurance-type warranty. This warranty is
+not included in the sales price of the product and is referred to as a service-type warranty. As a
+result, it is recorded as a separate performance obligation.
+Assurance-Type Warranty
+Companies do not record a separate performance obligation for assurance-type warranties. This type of
+warranty is nothing more than a quality guarantee that the good or service is free from defects at the
+point of sale. These types of obligations should be expensed in the period the goods are provided or
+services performed. In addition, the company should record a warranty liability. The estimated amount
+of the liability includes all the costs that the company will incur after sale due to the correction of
+defects or deficiencies required under the warranty provisions. Illustration 13.9 provides an example
+of an assurance-type warranty.
+
+Assurance-Type Warranty
+Facts: Denson Machinery Company begins production of a new machine in July 2022 and sells 100 of
+these machines for $5,000 cash by year-end for a total sales revenue of $500,000 (100 × $5,000).
+Each machine is under warranty for 1 year. Denson estimates, based on past experience with similar
+machines, that the warranty cost will average $200 per unit for a total expected warranty expense of
+$20,000 (100 × $200). Further, as a result of parts replacements and services performed in
+compliance with machinery warranties, it incurs $4,000 in warranty costs in 2022 and $16,000 in
+Question: What are the journal entries for the sale and the related warranty costs for
+2022 and 2023?
+Solution: For the sale of the machines and related warranty costs in 2022, the entries are as follows.
+1. To recognize sales of machines:
+July–December 2022
+Cash
+Sales Revenue
+2. To record payment for warranty expenditures incurred in 2022:
+July–December 2022
+Warranty Expense
+Cash, Inventory, Accrued Payroll
+3. The adjusting entry to record estimated warranty expense and warranty liability for expected
+warranty claims in 2023:
+December 31, 2022
+Warranty Expense
+Warranty Liability
+As a consequence of this adjusting entry at December 31, 2022, the statement of financial
+position reports a warranty liability (current) of $16,000 ($20,000 − $4,000). The income
+statement for 2022 reports sales revenue of $500,000 and warranty expense of $20,000.
+4. To record payment for warranty expenditures incurred in 2023 related to 2022 machinery sales:
+January 1–December 31, 2023
+Warranty Liability
+Cash, Inventory, Accrued Payroll
+At the end of 2023, no warranty liability is reported for the machinery sold in 2022.
+ILLUSTRATION 13.9 Accounting for an Assurance-Type Warranty
+Service-Type Warranty
+A warranty is sometimes sold separately from the product. For example, when you purchase a
+television, you are entitled to an assurance-type warranty. You also will undoubtedly be offered an
+extended warranty on the product at an additional cost, referred to as a service-type warranty. In most
+
+cases, service-type warranties provide the customer a service beyond fixing defects that existed at the
+time of sale.
+Companies record a service-type warranty as a separate performance obligation. For example, in the
+case of the television, the seller recognizes the sale of the television with the assurance-type warranty
+separately from the sale of the service-type warranty. The sale of the service-type warranty is usually
+recorded in an Unearned Warranty Revenue account.
+Companies then recognize revenue on a straight-line basis over the period the service-type warranty is
+in effect. Companies only defer and amortize costs that vary with and are directly related to the sale of
+the contracts (mainly commissions). Companies expense employees’ salaries and wages, advertising,
+and general and administrative expenses because these costs occur even if the company did not sell the
+service-type warranty. Illustration 13.10 presents an example of both an assurance-type and service-
+type warranty.
+
+Warranties
+Facts: You purchase an automobile from Hamlin Auto for €30,000 on January 2, 2022. Hamlin
+estimates the assurance-type warranty costs on the automobile to be €700 (Hamlin will pay for
+repairs for the first 36,000 kilometers or 3 years, whichever comes first). You also purchase for €900
+a service-type warranty for an additional 3 years or 36,000 kilometers. Hamlin incurs warranty costs
+related to the assurance-type warranty of €500 in 2022 and €100 in 2023 and 2024. Hamlin records
+revenue on the service-type warranty on a straight-line basis.
+Question: What entries should Hamlin make in 2022 and 2025?
+Solution:
+1. To record the sale of the automobile and related warranties:
+January 2, 2022
+Cash (€30,000 + €900)
+Unearned Warranty Revenue
+Sales Revenue
+2. To record warranty expenditures incurred in 2022:
+January 2–December 31, 2022
+Warranty Expense
+Cash, Inventory, Accrued Payroll
+3. The adjusting entry to record estimated warranty expense and warranty liability for expected
+assurance warranty claims in 2023:
+December 31, 2022
+Warranty Expense
+Warranty Liability
+As a consequence of this adjusting entry at December 31, 2022, the statement of financial
+position reports a warranty liability of €200 (€700 – €500) for the assurance-type warranty.
+The income statement for 2022 reports sales revenue of €30,000 and warranty expense of
+4. To record revenue recognized in 2025 on the service-type warranty:
+December 31, 2025
+Unearned Warranty Revenue (€900 ÷ 3) 300
+Warranty Revenue
+Warranty expenditures under the service-type warranty will be expensed as incurred in 2025–
+ILLUSTRATION 13.10 Assurance-Type and Service-Type Warranties
+Consideration Payable
+Companies often make payments (provide consideration) to their customers as part of a revenue
+arrangement. Consideration paid or payable may include discounts, volume rebates, free products, or
+services. For example, numerous companies offer premiums (either on a limited or continuing basis)
+to customers in return for box tops, certificates, coupons, labels, or wrappers. The premium may be
+
+silverware, dishes, a small appliance, a toy, or free transportation. Also, printed coupons that can be
+redeemed for a cash discount on items purchased are extremely popular (see Underlying Concepts).
+Another popular marketing innovation is the cash rebate, which the buyer can obtain by returning
+the store receipt and a rebate coupon to the manufacturer.
+Underlying Concepts
+Premiums and coupons are loss contingencies that satisfy the conditions necessary for a liability.
+Regarding the income statement, the expense recognition principle requires that companies
+report the related expense in the period in which the sale occurs.
+Companies offer premiums, coupon offers, and rebates to stimulate sales. And to the extent that the
+premiums reflect a material right promised to the customer, a performance obligation exists and
+should be recorded as a liability. However, the period that benefits is not necessarily the period in
+which the company pays the premium. At the end of the accounting period, many premium offers may
+be outstanding and must be redeemed when presented in subsequent periods. In order to reflect the
+existing current liability, the company estimates the number of outstanding premium offers that
+customers will present for redemption. The company then charges the cost of premium offers to
+Premium Expense. It credits the outstanding obligations to an account titled Premium Liability.
+Illustration 13.11 provides an example of the accounting for consideration payable using provisions.9
+
+Consideration Payable
+Facts: Fluffy Cake Mix Ltd. sells boxes of cake mix for £3 per box. In addition, Fluffy Cake Mix offers
+its customers a large durable mixing bowl in exchange for £1 and 10 box tops. The mixing bowl costs
+Fluffy Cake Mix £2, and the company estimates that customers will redeem 60 percent of the box
+tops. The premium offer began in June 2022. During 2022, Fluffy Cake Mix purchased 20,000 mixing
+bowls at £2, sold 300,000 boxes of cake mix for £3 per box, and redeemed 60,000 box tops.
+Question: What entries should Fluffy Cake Mix record in 2022?
+Solution:
+1. To record purchase of 20,000 mixing bowls at £2 per bowl in 2022:
+Inventory of Premiums (20,000 mixing bowls × £2) 40,000
+Cash
+2. The entry to record the sale of the cake mix boxes in 2022 is as follows:
+Cash (300,000 boxes of cake mix × £3) 900,000
+Sales Revenue
+3. To record the actual redemption of 60,000 box tops, the receipt of £1 per 10 box tops, and the
+delivery of the mixing bowls:
+Cash [(60,000 ÷ 10) × £1]
+Premium Expense
+Inventory of Premiums [(60,000 ÷ 10) × £2]
+4. The adjusting entry to record additional premium expense and the estimated premium liability
+at December 31, 2022, is as follows:
+Premium Expense
+Premium Liability
+12,000*
+*Computation of Premium Liability at 12/31/22:
+Total box tops sold in 2022
+Estimated redemptions
+×.60
+Total estimated redemptions
+Cost of estimated redemptions [(180,000 box tops ÷ 10) × (£2 – £1)] £18,000
+Redemptions to date
+Liability at 12/31/22
+The December 31, 2022, statement of financial position of Fluffy Cake Mix reports Premium
+inventory of £28,000 (£40,000 − £12,000) as a current asset and Premium Liability of £12,000 as a
+current liability. The 2022 income statement reports £18,000 (£6,000 + £12,000) premium expense
+as a selling expense.
+Note the solution is based on the assumption that the mixing bowls represent an immaterial item and are therefore not accounted for
+as a separate performance obligation. We will cover accounting for transactions with multiple performance obligations in Chapter 18.
+You should make the same assumptions related to premiums as you do the homework problems for this chapter.
+ILLUSTRATION 13.11 Accounting for Consideration Payable
+
+What Do the Numbers Mean?
+Frequent Flyers
+Numerous companies offer premiums to customers in the form of a promise of future goods or
+services as an incentive for purchases today. Premium plans that have widespread adoption are
+the frequent-flyer programs used by all major airlines. On the basis of mileage accumulated,
+frequent-flyer members receive discounted or free airline tickets. Airline customers can earn
+miles toward free travel by making long-distance phone calls, staying in hotels, and charging
+gasoline and groceries on a credit card. Those free tickets represent an enormous potential
+liability because people using them may displace paying passengers.
+When airlines first started offering frequent-flyer bonuses, everyone assumed that they could
+accommodate the free-ticket holders with otherwise empty seats. That made the additional cost of
+the program so minimal that airlines didn’t accrue it or report the small liability. But, as more and
+more paying passengers have been crowded off flights by frequent-flyer awardees, the loss of
+revenues has grown enormously. For example, Qantas Airways Limited (AUS) recently
+reported a liability of $5,781 million for advance ticket sales, including frequent-flyer obligations.
+Environmental Provisions
+Estimates to clean up existing toxic waste sites are substantial. In addition, cost estimates of cleaning
+up our air and preventing future deterioration of the environment run even higher.
+In many industries, the construction and operation of long-lived assets involves obligations for the
+retirement of those assets. When a mining company opens up a strip mine, it may also commit to
+restore the land once it completes mining. Similarly, when an oil company erects an offshore drilling
+platform, it may be legally obligated to dismantle and remove the platform at the end of its useful life.
+Accounting Recognition of Environmental Liabilities
+As with other provisions, a company must recognize an environmental liability when it has an
+existing legal obligation associated with the retirement of a long-lived asset and when it can reasonably
+estimate the amount of the liability.
+Obligating events.
+Examples of existing legal obligations that require recognition of a liability include but are not limited
+to:
+Decommissioning nuclear facilities.
+Dismantling, restoring, and reclamation of oil and gas properties.
+Certain closure, reclamation, and removal costs of mining facilities.
+Closure and postclosure costs of landfills.
+In order to capture the benefits of these long-lived assets, the company is generally legally
+obligated for the costs associated with retirement of the asset, whether the company hires
+another party to perform the retirement activities or performs the activities with its own
+workforce and equipment. Environmental liabilities give rise to various recognition patterns. For
+example, the obligation may arise at the outset of the asset’s use (e.g., erection of an oil rig), or it may
+build over time (e.g., a landfill that expands over time).
+
+Measurement.
+A company initially measures an environmental liability at the best estimate of its future costs. The
+estimate should reflect the amount a company would pay in an active market to settle its obligation
+(essentially fair value). While active markets do not exist for many environmental liabilities,
+companies should estimate fair value based on the best information available. Such information could
+include market prices of similar liabilities, if available. Alternatively, companies may use present value
+techniques to estimate fair value.
+Recognition and allocation.
+To record an environmental liability in the financial statements, a company includes the cost
+associated with the environmental liability in the carrying amount of the related long-lived asset, and
+records a liability for the same amount. It records the environmental costs as part of the related asset
+because these costs are tied to operating the asset and are necessary to prepare the asset for its
+intended use. Therefore, the specific asset (e.g., mine, drilling platform, nuclear power plant) should be
+increased because the future economic benefit comes from the use of this productive asset.
+Companies should not record the capitalized environmental costs in a separate account
+because there is no future economic benefit that can be associated with these costs alone.
+In subsequent periods, companies allocate the cost of the asset to expense over the period of the
+related asset’s useful life. Companies may use the straight-line method for this allocation, as well as
+other systematic and rational allocations.
+Example of accounting provisions.
+To illustrate the accounting for these types of environmental liabilities, assume that on January 1,
+2022, Wildcat Oil Company erected an oil platform in the Gulf of Mexico. Wildcat is legally required to
+dismantle and remove the platform at the end of its useful life, estimated to be five years. Wildcat
+estimates that dismantling and removal will cost $1,000,000. Based on a 10 percent discount rate, the
+fair value of the environmental liability is estimated to be $620,920 ($1,000,000 × .62092). Wildcat
+records this liability as follows.
+January 1, 2022
+Drilling Platform
+Environmental Liability
+During the life of the asset, Wildcat allocates the asset cost to expense. Using the straight-line method,
+Wildcat makes the following entries to record this expense.
+December 31, 2022, 2023, 2024, 2025, 2026
+Depreciation Expense ($620,920 ÷ 5)
+Accumulated Depreciation—Plant Assets
+In addition, Wildcat must accrue interest expense each period. Wildcat records interest expense and
+the related increase in the environmental liability on December 31, 2022, as follows.
+December 31, 2022
+Interest Expense ($620,920 × .10) 62,092
+Environmental Liability
+On January 10, 2027, Wildcat contracts with Rig Reclaimers, Inc. to dismantle the platform at a
+contract price of $995,000. Wildcat makes the following journal entry to record settlement of the
+liability.
+
+January 10, 2027
+January 10, 2027
+Environmental Liability
+Gain on Settlement of Environmental Liability
+Cash
+As indicated, as a result of the discounting, Wildcat incurs two types of costs: (1) an operating cost
+related to depreciation expense, and (2) a finance cost related to interest expense. The recording of the
+interest expense is often referred to as “unwinding the discount,” which refers to the fact that the
+obligation was discounted as a result of present value computations. This discount can be substantial.
+For example, BP (GBR) in a recent year changed its policy related to the appropriate discount rate to
+use to estimate its provision for decommissioning and environmental costs. The 0.5 percent decrease
+in the discount rate resulted in a $2.415 billion decrease in the liability.
+A company like Wildcat can consider future events when evaluating the measurement of the liability.
+For example, a technological development that will make restoration less expensive and is virtually
+certain to happen should be considered. Generally, future events are limited to those that are virtually
+certain to happen, as well as technology advances or proposed legislation that will impact future costs.
+
+Evolving Issue
+Greenhouse Gases: Let’s Be Standard-Setters
+Here is your chance to determine what to do about a very fundamental issue—how to account for
+greenhouse gases (GHG), often referred to as carbon emissions. Many governments are trying a
+market-based system, in which companies pay for an excessive amount of carbon emissions put
+into the atmosphere. In this market-based system, companies are granted carbon allowance
+permits. Each permit allows them to discharge, as an example, one metric ton of carbon dioxide
+(CO2). In some cases, companies may receive a number of these permits free—in other situations,
+they must pay for them. Other approaches require companies to pay only when they exceed a
+certain amount.
+The question is how to account for these permits and related liabilities. For example, what
+happens when the permits issued by the government are free? Should an asset and revenue be
+reported? And if an asset is recorded, should the debit be to an intangible asset or inventory? Also,
+should the company recognize a liability related to its pollution? And how do we account for
+companies that have to purchase permits because they have exceeded their allowance? Two views
+seem to have emerged. The first is referred to as the net liability approach. In this approach, a
+company does not recognize an asset or liability. A company only recognizes a liability once GHG
+exceed the permits granted.
+To illustrate, Holton Refinery receives permits on January 1, 2022, representing the right to emit
+10,000 tons of GHG for the year 2022. Other data:
+The market price of each permit at date of issuance is €10 per ton.
+During the year, Holton emits 12,000 tons.
+The market price for a permit is €16 per ton at December 31, 2022.
+Under the net liability approach, Holton records only a liability of €32,000 for the additional
+amount that it must pay for the 2,000 permits it must purchase at €16 per ton.
+Another approach is referred to as the government grant approach. In this approach, permits
+granted by the government are recorded at their fair value based on the initial price of €10 per
+ton. The asset recorded is an intangible asset. At the same time, an unearned revenue account is
+credited, which is subsequently recognized in income over the 2022 year. During 2022, a liability
+and a related emission expense of €132,000 is recognized (10,000 tons × €10 + 2,000 tons × €16).
+The following chart compares the results of each approach on the financial statements.
+So what do you think—net liability or government grant approach? As indicated, companies
+presently can report this information either way, plus some other variants which were not
+mentioned here. Please feel free to contact the IASB regarding your views.
+
+Onerous Contract Provisions
+Sometimes, companies have what are referred to as onerous contracts. These contracts are ones in
+which “the unavoidable costs of meeting the obligations exceed the economic benefits expected to be
+received.” [9] An example of an onerous contract is a loss recognized on unfavorable non-cancelable
+purchase commitments related to inventory items (discussed in Chapter 9).
+To illustrate another situation, assume that Sumart Sports operates profitably in a factory that it has
+leased and on which it pays monthly rentals. Sumart decides to relocate its operations to another
+facility. However, the lease on the old facility continues for the next three years. Unfortunately, Sumart
+cannot cancel the lease, nor will it be able to sublet the factory to another party. The expected costs to
+satisfy this onerous contract are €200,000. In this case, Sumart makes the following entry.
+Loss on Lease Contract
+Lease Contract Liability
+The expected costs should reflect the least net cost of exiting from the contract, which is the lower of
+(1) the cost of fulfilling the contract, or (2) the compensation or penalties arising from failure to fulfill
+the contract.
+To illustrate, assume the same facts as above for the Sumart example. The expected costs to fulfill the
+contract are €200,000. However, Sumart can cancel the lease by paying a penalty of €175,000. In this
+case, Sumart should record the liability at €175,000.
+Illustration 13.12 indicates how Nestlé Group (CHE) discloses onerous contracts.
+Nestlé Group
+Notes to the financial statements (partial)
+Other Provisions
+Other provisions are mainly constituted by onerous contracts and various damage claims having
+occurred during the year but not covered by insurance companies. Onerous contracts result from
+termination of contracts or supply agreements above market prices in which the unavoidable costs of
+meeting the obligations under the contracts exceed the economic benefits expected to be received or
+for which no benefits are expected to be received.
+ILLUSTRATION 13.12 Onerous Contract Disclosure
+Restructuring Provisions
+The accounting for restructuring provisions is controversial. Once companies make a decision to
+restructure part of their operations, they have the temptation to charge as many costs as possible to
+this provision. The rationale: Many believe analysts often dismiss these costs as not part of continuing
+operations and therefore somewhat irrelevant in assessing the overall performance of the company.
+Burying as many costs as possible in a restructuring provision therefore permits companies to provide
+a more optimistic presentation of current operating results.
+On the other hand, companies are continually in a state of flux, and what constitutes a restructuring is
+often difficult to assess. One thing is certain—companies should not be permitted to provide for future
+operating losses in the current period when accounting for restructuring costs. Nor should they be
+permitted to bury operating costs in the restructuring cost classification. [10]
+
+As a consequence, IFRS is very restrictive regarding when a restructuring provision can be recorded
+and what types of costs may be included in a restructuring provision. Restructurings are defined as a
+“program that is planned and controlled by management and materially changes either (1) the scope of
+a business undertaken by the company; or (2) the manner in which that business is conducted.”
+Examples of restructurings are the sale of a line of business, changes in management structures such
+as eliminating a layer of management, or closure of operations in a country.
+For a company to record restructuring costs and a related liability, it must meet the general
+requirements for recording provisions discussed earlier. In addition, to assure that the restructuring is
+valid, companies are required to have a detailed formal plan for the restructuring and to have raised a
+valid expectation to those affected by implementation or announcement of the plan.
+The case presented in Illustration 13.13 provides an example of a restructuring.
+Closure of Division
+Facts: On December 12, 2022, Rodea Group decided to close down a division making solar panels. On
+December 20, 2022, a detailed plan for closing down the division was finalized; letters were sent to
+customers warning them to seek an alternative source of supply and termination notices were sent to
+the staff of the division. Rodea estimates that it is probable that it will have €500,000 in restructuring
+costs.
+Question: Should Rodea report a restructuring liability if it has costs related to the
+restructuring?
+Solution: (1) The past obligating event for Rodea is the communication of the decision to the
+customers and employees, which gives rise to a constructive obligation on December 31, 2022,
+because it creates a valid expectation that the division will be closed. (2) An outflow of resources in
+settlement is probable and reliably estimated. A provision is recognized at December 31, 2022, for
+the best estimate of closing the division, in this case, €500,000.
+ILLUSTRATION 13.13 Accounting for Restructuring
+Only direct incremental costs associated with the restructuring may be included in the restructuring
+provision. At the same time, IFRS provides specific guidance related to certain costs and losses that
+should be excluded from the restructuring provision. Illustration 13.14 provides a summary of costs
+that may and may not be included in a restructuring provision.
+Costs Included (direct, incremental)
+Costs Excluded
+Employee termination costs
+related directly to the
+restructuring.
+Contract termination costs, such as
+lease termination penalties.
+Onerous contract provisions.
+Investment in new systems.
+Lower utilization of facilities.
+Costs of training or relocating staff.
+Costs of moving assets or operations.
+Administration or marketing costs.
+Allocations of company overhead.
+Expected future operating costs or expected operating
+losses unless they relate to an onerous contract.
+ILLUSTRATION 13.14 Costs Included/Excluded from Restructuring Provision
+
+In general, the costs-excluded list is comprised of expenditures that relate to the future operations of
+the business and are not liabilities associated with the restructuring as of the end of the reporting
+period. Therefore, such expenditures are recognized on the same basis as if they arose independently of
+a restructuring. [11]
+Self-Insurance
+As discussed earlier, liabilities are not recorded for general risks (e.g., losses that might arise due to
+poor expected economic conditions). Similarly, companies do not record liabilities for more specific
+future risks such as allowances for repairs. These items do not meet the definition of a liability because
+they do not arise from a past transaction but instead relate to future events.
+Some companies take out insurance policies against the potential losses from fire, flood, storm, and
+accident. Other companies do not. The reasons: Some risks are not insurable, the insurance rates are
+prohibitive (e.g., earthquakes and riots), or the companies make a business decision to self-insure.
+Self-insurance is another item that is not recognized as a provision.
+Despite its name, self-insurance is not insurance but risk assumption. Any company that
+assumes its own risks puts itself in the position of incurring expenses or losses as they occur. There is
+little theoretical justification for the establishment of a liability based on a hypothetical charge to
+insurance expense (see Underlying Concepts). This is “as if” accounting. The conditions for accrual
+stated in IFRS are not satisfied prior to the occurrence of the event. Until that time, there is no
+diminution in the value of the property. And unlike an insurance company, which has contractual
+obligations to reimburse policyholders for losses, a company can have no such obligation to itself and,
+hence, no liability either before or after the occurrence of damage.10
+Underlying Concepts
+Even if companies can estimate the amount of losses with a high degree of certainty, the losses
+are not liabilities because they result from a future event and not from a past event.
+Exposure to risks of loss resulting from uninsured past injury to others, however, is an
+existing condition involving uncertainty about the amount and timing of losses that may develop. A
+company with a fleet of vehicles for example, would have to accrue uninsured losses resulting from
+injury to others or damage to the property of others that took place prior to the date of the financial
+statements (if the experience of the company or other information enables it to make a reasonable
+estimate of the liability).11 However, it should not establish a liability for expected future injury to
+others or damage to the property of others, even if it can reasonably estimate the amount of losses.
+Disclosures Related to Provisions
+The disclosures related to provisions are extensive. A company must provide a reconciliation of its
+beginning to ending balance for each major class of provisions, identifying what caused the change
+during the period. In addition, the provision must be described and the expected timing of any outflows
+disclosed. Also, disclosure about uncertainties related to expected outflows as well as expected
+reimbursements should be provided. [12] Illustration 13.15 provides an example, based on the
+provisions note in Nokia’s (FIN) annual report.
+
+Nokia
+Notes to the Financial Statements (partial)
+29. Provisions
+(€ in millions)
+Restructuring Warranty Litigation Environmental
+Project
+losses
+Divestment-
+related
+Mat
+liab
+At January 1,
+Translation
+differences
+Reclassification
+Charged to
+income
+statement:
+Additional
+provisions
+Changes in
+estimates
+Total after
+changes to
+income:
+Utilized during
+the year
+At December
+As of December 31, 2018, the restructuring provision amounted to EUR 493 million including personnel
+restructuring related costs, such as real estate exit costs. The provision consists of EUR 427 million glob
+to the announcement on April 6, 2016 and EUR 66 million relating to the restructuring provisions recog
+previously announced restructuring programs. The majority of the restructuring-related cash outflows is
+over the next two years.
+The warranty provision relates to sold products. Cash outflows related to the warranty provision are gen
+occur within the next 18 months.
+The litigation provision includes estimated potential future settlements for litigation. Cash outflows rela
+provision are inherently uncertain and generally occur over several periods.
+The environmental provision includes estimated costs to sufficiently clean and refurbish contaminated s
+necessary, and where necessary, continuing surveillance at sites where the environmental remediation e
+significant. Cash outflows related to the environmental liability are inherently uncertain and generally o
+periods.
+The project loss provision relates to onerous customer contracts. Cash outflows related to the project los
+generally expected to occur over the next 12 months.
+
+The divestment-related provision relates to the sale of businesses, and includes certain liabilities where 
+required to indemnify the buyer. Cash outflows related to the divestment-related provision are inherentl
+The material liability provision relates to non-cancelable purchase commitments with suppliers, in exces
+requirements as of each reporting date. Cash outflows related to the material liability provision are expe
+the next 12 months.
+Other provisions include provisions for various contractual obligations, other obligations and uncertain 
+outflows related to other provisions are generally expected to occur over the next two years.
+ILLUSTRATION 13.15 Provisions Disclosure
+Contingencies
+LEARNING OBJECTIVE 3
+Explain the accounting for loss and gain contingencies.
+In a general sense, all provisions are contingent because they are uncertain in timing or amount.
+However, IFRS uses the term “contingent” for liabilities and assets that are not recognized in the
+financial statements. [13]
+Contingent Liabilities
+Contingent liabilities are not recognized in the financial statements because they are (1) a possible
+obligation (not yet confirmed as a present obligation), (2) a present obligation for which it is not
+probable that payment will be made, or (3) a present obligation for which a reliable estimate of the
+obligation cannot be made. Examples of contingent liabilities are:
+A lawsuit in which it is only possible that the company might lose.
+A guarantee related to collectibility of a receivable.
+Illustration 13.16 presents the general guidelines for the accounting and reporting of contingent
+liabilities.
+Outcome
+Probability*
+Accounting Treatment
+Virtually certain
+At least 90%
+Report as liability (provision).
+Probable (more likely than
+not)
+51–89% probable
+Report as liability (provision).
+Possible but not probable
+5–50%
+Disclosure required.
+Remote
+Less than 5%
+No disclosure required.
+*In practice, the percentages for virtually certain and remote may deviate from those presented
+here.
+ILLUSTRATION 13.16 Contingent Liability Guidelines
+Unless the possibility of any outflow in settlement is remote, companies should disclose the contingent
+liability at the end of the reporting period, providing a brief description of the nature of the contingent
+liability and, where practicable:
+1. An estimate of its financial effect;
+2. An indication of the uncertainties relating to the amount or timing of any outflow; and
+3. The possibility of any reimbursement.
+
+Illustration 13.17 provides a disclosure by Barloworld Limited (ZAF) related to its contingent
+liabilities.
+Barloworld Limited
+(R in millions)
+Contingent liabilities (in part)
+Performance guarantees given to customers, other guarantees and claims
+Buy-back and repurchase commitments not reflected on the statement of financial
+position
+During 2018 the Barloworld Equipment division has entered into a 25% risk share agreement with
+Caterpillar Financial in South Africa and Portugal. The risk share agreement only relates to certain
+agreed upon customer risk profiles and relates to exposure at default less any recoveries. As of 30
+September 2018 the maximum exposure of this guarantee was estimated to be R278 million.
+In October 2017, the Barloworld Equipment South Africa (BWE SA) business received notification
+from the Competition Commission that it is investigating a complaint against the Contractors Plant
+Hire Association of which Barloworld Equipment was a member. The matter is ongoing but no action
+has been taken by the Competition Authorities.
+The company and its subsidiaries are continuously subject to various tax and customs audits in the
+territories in which it operates. While in most cases the companies are able to successfully defend the
+tax positions taken, the outcomes of some of the audits are being disputed. Where, based on our own
+judgement and the advice of external legal counsel, we believe there is a probable likelihood of the
+group being found liable, adequate provisions have been recognised in the financial statements.
+ILLUSTRATION 13.17 Contingent Liability Disclosure
+Contingent Assets
+A contingent asset is a possible asset that arises from past events and whose existence will be
+confirmed by the occurrence or non-occurrence of uncertain future events not wholly within the
+control of the company. [14] Typical contingent assets are:
+1. Possible receipts of monies from gifts, donations, and bonuses.
+2. Possible refunds from the government in tax disputes.
+3. Pending court cases with a probable favorable outcome.
+Contingent assets are not recognized on the statement of financial position. If realization of the
+contingent asset is virtually certain, it is no longer considered a contingent asset and is recognized as
+an asset. Virtually certain is generally interpreted to be at least a probability of 90 percent or more.
+The general rules related to contingent assets are presented in Illustration 13.18.
+
+Outcome
+Probability*
+Accounting Treatment
+Virtually certain
+At least 90% probable
+Report as asset (no longer contingent).
+Probable (more likely than
+not)
+51–90% probable
+Disclose.
+Possible but not probable
+5–50%
+No disclosure required.
+Remote
+Less than 5%
+No disclosure required.
+*In practice, the percentages for virtually certain and remote may deviate from those presented
+here.
+ILLUSTRATION 13.18 Contingent Asset Guidelines
+Contingent assets are disclosed when an inflow of economic benefits is considered more likely than not
+to occur (greater than 50 percent). However, it is important that disclosures for contingent assets avoid
+giving misleading indications of the likelihood of income arising. As a result, it is not surprising that
+the thresholds for allowing recognition of contingent assets are more stringent than those for
+liabilities.
+What might be an example of a contingent asset that becomes an asset to be recorded? To illustrate,
+assume that Marcus Realty leases a property to Marks and Spencer plc (M&S) (GBR). The contract
+is non-cancelable for five years. On December 1, 2022, before the end of the contract, M&S withdraws
+from the contract and is required to pay £245,000 as a penalty. At the time M&S cancels the contract, a
+receivable and related income should be reported by Marcus. The disclosure includes the nature and,
+where practicable, the estimated financial effects of the asset.
+Presentation and Analysis
+LEARNING OBJECTIVE 4
+Indicate how to present and analyze liability-related information.
+Presentation of Current Liabilities
+In practice, current liabilities are usually recorded and reported in financial statements at
+their full maturity value. Because of the short time periods involved, frequently less than one year,
+the difference between the present value of a current liability and the maturity value is usually not
+large. The profession accepts as immaterial any slight overstatement of liabilities that results from
+carrying current liabilities at maturity value.
+The current liabilities accounts are commonly presented after non-current liabilities in the statement
+of financial position. Within the current liabilities section, companies may list the accounts in order of
+maturity, in descending order of amount, or in order of liquidation preference. Illustration 13.19
+presents an adapted excerpt of Wilmar International Limited’s (SGP) financial statements that is
+representative of the reports of large companies.
+
+Wilmar International Limited
+December 31
+(in thousands)
+Current assets
+Inventories
+Trade receivables
+Other financial receivables
+Other non-financial assets
+Derivative financial instruments
+Investment securities
+Other bank deposits
+Cash and bank balances
+Current liabilities
+Trade payables
+Other financial payables
+Other non-financial liabilities
+Derivative financial instruments
+Loans and borrowings
+Tax payables
+ILLUSTRATION 13.19 Current Assets and Current Liabilities
+Detail and supplemental information concerning current liabilities should be sufficient to meet the
+requirement of full disclosure. Companies should clearly identify secured liabilities, as well as indicate
+the related assets pledged as collateral. If the due date of any liability can be extended, a company
+should disclose the details. Companies should not offset current liabilities against assets that they will
+apply to their liquidation. As discussed earlier, current maturities of long-term debt are classified as
+current liabilities.
+Analysis of Current Liabilities
+The distinction between current and non-current liabilities is important. It provides information about
+the liquidity of the company. Liquidity regarding a liability is the expected time to elapse before its
+payment. In other words, a liability soon to be paid is a current liability. A liquid company is better able
+to withstand a financial downturn. Also, it has a better chance of taking advantage of investment
+opportunities that develop.
+Analysts use certain basic ratios such as net cash flow provided by operating activities to current
+liabilities, and the turnover ratios for receivables and inventory, to assess liquidity. Two other ratios
+used to examine liquidity are the current ratio and the acid-test ratio.
+Current Ratio
+
+The current ratio is the ratio of total current assets to total current liabilities. Illustration 13.20
+shows its formula.
+Current Ratio =
+Current Assets
+Current Liabilities
+ILLUSTRATION 13.20 Formula for Current Ratio
+The ratio is frequently expressed as a coverage of so many times. Sometimes it is called the working
+capital ratio because working capital is the excess of current assets over current liabilities.
+A satisfactory current ratio does not provide information on the portion of the current assets that may
+be tied up in slow-moving inventories. With inventories, especially raw materials and work in process,
+there is a question of how long it will take to transform them into the finished product and what
+ultimately will be realized in the sale of the merchandise. Eliminating the inventories, along with any
+prepaid expenses, from the amount of current assets might provide better information for short-term
+creditors. Therefore, some analysts use the acid-test ratio in place of the current ratio.
+Acid-Test Ratio
+Many analysts favor an acid-test or quick ratio that relates total current liabilities to cash, short-
+term investments, and receivables. Illustration 13.21 shows the formula for this ratio. As you can
+see, the acid-test ratio does not include inventories and prepaid expenses.
+Acid-Test Ratio =
+ILLUSTRATION 13.21 Formula for Acid-Test Ratio
+To illustrate the computation of these two ratios, we use the information for Wilmar International
+Limited (SGP) in Illustration 13.19. Illustration 13.22 shows the computation of the current and
+acid-test ratios for Wilmar.
+Current Ratio =
+=
+= 2.02 times
+Acid-Test Ratio =
+=
+= 1.27
+ILLUSTRATION 13.22 Computation of Current and Acid-Test Ratios for Wilmar
+Review and Practice
+Key Terms Review
+accumulated rights
+acid-test (quick) ratio
+assessments
+assurance-type warranty
+bonus
+cash dividend payable
+claims
+compensated absences
+constructive obligation
+Cash + Short-Term Investments + Net Receivables
+Current Liabilities
+Current Assets
+Current Liabilities
+Cash + Short-Term Investments + Net Receivables
+Current Liabilities
+
+contingent assets
+contingent liabilities
+current liability
+current maturity of long-term debt
+current ratio
+environmental liabilities
+liability
+litigation
+non-accumulating rights
+notes payable (trade notes payable)
+onerous contracts
+operating cycle
+preference dividends in arrears
+premiums
+probable
+provision
+restructuring
+returnable cash deposits
+self-insurance
+service-type warranty
+short-term obligations expected to be refinanced
+Social Security taxes
+trade accounts payable
+trade notes payable
+unearned revenues
+value-added tax
+vested rights
+virtually certain
+warranty
+working capital ratio
+Learning Objectives Review
+1 Describe the nature, valuation, and reporting of current liabilities.
+Current liabilities. A current liability is generally reported if one of two conditions exists: (1) the
+liability is expected to be settled within its normal operating cycle, or (2) the liability is expected to be
+settled within 12 months after the reporting date. This definition has gained wide acceptance because it
+recognizes operating cycles of varying lengths in different industries. Theoretically, liabilities should be
+measured by the present value of the future outlay of cash required to liquidate them. In practice,
+companies usually record and report current liabilities at their full maturity value.
+
+There are several types of current liabilities, such as (1) accounts payable, (2) notes payable, (3) current
+maturities of long-term debt, (4) dividends payable, (5) customer advances and deposits, (6) unearned
+revenues, (7) taxes payable, and (8) employee-related liabilities.
+Short-term debt expected to be refinanced. A short-term obligation is excluded from current
+liabilities if, at the reporting date, the company has a right to defer settlement of the liability (e.g., a
+refinancing) for at least 12 months after the reporting date.
+Employee-related liabilities. The employee-related liabilities are (1) payroll deductions, (2)
+compensated absences, and (3) bonus agreements.
+2 Explain the accounting for different types of provisions.
+A provision is a liability of uncertain timing or amount (sometimes referred to as an estimated
+liability). Provisions are very common and may be reported as either current or non-current depending
+on the date of expected payment. Common types of provisions are (1) litigation obligations, (2)
+warranty obligations, (3) consideration payable, (4) environmental obligations, (5) onerous
+obligations, and (6) restructuring obligations. Companies accrue an expense and related liability for a
+provision only if the following three conditions are met: (1) a company has a present obligation (legal
+or constructive) as a result of a past event, (2) it is probable that an outflow of resources embodying
+economic benefits will be required to settle the obligation, and (3) a reliable estimate can be made of
+the amount of the obligation. If any of these three conditions is not met, no provision is recognized.
+3 Explain the accounting for loss and gain contingencies.
+Contingent liabilities are not recognized in the financial statements because they are possible
+obligations (not yet confirmed as present obligations) or they are present obligations but it is not
+probable that payment will be necessary or a reliable estimate of the obligations cannot be made.
+Contingent assets are not recognized on the statement of financial position. If realization of the
+contingent asset is virtually certain, it is no longer considered a contingent asset and is recognized as
+an asset. Virtually certain is generally interpreted to be at least a probability of 90 percent or more.
+4 Indicate how to present and analyze liability-related information.
+Current liabilities are usually recorded and reported in financial statements at full maturity value.
+Current liabilities are commonly presented after non-current liabilities in the statement of financial
+position. Within the current liabilities section, companies may list the accounts in order of maturity, in
+descending order of amount, or in order of liquidation preference. Two ratios used to analyze liquidity
+are the current and acid-test ratio.
+Enhanced Review and Practice
+Go online for multiple-choice questions with solutions, review exercises with solutions, and a full
+glossary of all key terms.
+Practice Problem
+Listed below are selected transactions of Baileys’ Department Store for the current year ending
+December 31.
+1. On December 5, the store received $500 from the Jackson Players as a deposit to be returned
+after certain furniture to be used in stage production was returned on January 15.
+
+2. During December, cash sales totaled $798,000, which includes the 5% sales tax that must be
+remitted to the state by the fifteenth day of the following month.
+3. On December 10, the store purchased for cash three delivery trucks for $120,000. The trucks
+were purchased in a state that applies a 5% sales tax.
+4. Baileys’ determined it will cost $100,000 to restore the area (considered a land improvement)
+surrounding one of its parking lots, when the store closes in 2 years. Baileys’ estimates the fair
+value of the obligation at December 31 is $84,000.
+5. As a result of uninsured accidents during the year, personal injury suits for $350,000 and
+$60,000 have been filed against the company. It is the judgment of Baileys’ legal counsel that an
+unfavorable outcome is unlikely in the $60,000 case but that an unfavorable verdict
+approximating $250,000 (reliably estimated) will probably result in the $350,000 case.
+6. Baileys’ Midwest store division, consisting of 12 stores in “Tornado Alley,” is uninsurable
+because of the special risk of injury to customers and employees, losses due to severe weather,
+and subpar construction standards in older malls. The year 2022 is considered one of the safest
+(luckiest) in the division’s history because no loss due to injury or casualty was suffered. Having
+suffered an average of three casualties a year in the last decade (ranging from $60,000 to
+$700,000), management is certain that next year the company will probably not be so fortunate.
+Instructions
+a. Prepare all the journal entries necessary to record the transactions noted above as they occurred
+and any adjusting journal entries relative to the transactions that would be required to present
+fair financial statements at December 31. Date each entry. For simplicity, assume that adjusting
+entries are recorded only once a year on December 31.
+b. For items 5 and 6, indicate what should be reported relative to each situation in the financial
+statements and accompanying notes. Explain why.
+Solution
+a. 
+1. Dec. 5
+Cash
+Due to Customer
+2. Dec. 1–31
+Cash
+Sales Revenue ($798,000 ÷ 1.05)
+Sales Taxes Payable ($760,000 × .05)
+3. Dec. 10
+Trucks ($120,000 × 1.05)
+Cash
+4. Dec. 31
+Land Improvements
+Environmental Liability
+5.
+Lawsuit Loss
+Lawsuit Liability
+6. No entry required.  
+ 
+ 
+b. 
+5. A loss and a liability have been recorded in the first case assuming (i) information is available
+that indicates it is probable that a liability had been incurred at the date of the financial
+statements and (ii) the amount is reasonably estimable. That is, the occurrence of the
+
+uninsured accidents during the year plus the outstanding injury suits and the attorney’s
+estimate of probable loss requires recognition of a loss contingency.
+6. Even though Baileys’ Midwest store division is uninsurable due to high risk and has sustained
+repeated losses in the past, as of the statement of financial position date no assets have been
+impaired or liabilities incurred, nor is an amount reasonably estimable. Therefore, this
+situation does not satisfy the criteria for recognition of a loss contingency. Also, unless a
+casualty has occurred or there is some other evidence to indicate impairment of an asset prior
+to the issuance of the financial statements, there is no disclosure required relative to a loss
+contingency. Disclosure is required when one or more of the criteria for a loss contingency are
+not satisfied, and there is a reasonable possibility that a liability may have been incurred or an
+asset impaired, or it is probable that a claim will be asserted and there is a reasonable
+possibility of an unfavorable outcome.
+Exercises, Problems, Problem Solution Walkthrough Videos, Data Analytics Activities, and many
+more assessment tools and resources are available for practice in Wiley’s online courseware.
+Questions
+1. Distinguish between a current liability and a non-current liability.
+2. Assume that your friend Hans Jensen, who is a music major, asks you to define and discuss the
+nature of a liability. Assist him by preparing a definition of a liability and by explaining to him what
+you believe are the elements or factors inherent in the concept of a liability.
+3. Why is the liabilities section of the statement of financial position of primary significance to
+bankers?
+4. How are current liabilities related to a company’s operating cycle?
+5. Leong Hock, a newly hired loan analyst, is examining the current liabilities of a company loan
+applicant. He observes that unearned revenues have declined in the current year compared to the prior
+year. Is this a positive indicator about the client’s liquidity? Explain.
+6. How is present value related to the concept of a liability?
+7. Explain how to account for a zero-interest-bearing note payable.
+8. How should a debt callable by the creditor be reported in the debtor’s financial statements?
+9. Under what conditions should a short-term obligation be excluded from current liabilities?
+10. What evidence is necessary to demonstrate the ability to defer settlement of short-term debt?
+11. Discuss the accounting treatment or disclosure that should be accorded a declared but unpaid cash
+dividend; an accumulated but undeclared dividend on cumulative preference shares; and a share
+dividend distributable.
+12. How does unearned revenue arise? Why can it be classified properly as a current liability? Give
+several examples of business activities that result in unearned revenues.
+13. What are compensated absences?
+14. Under what conditions must an employer accrue a liability for the cost of compensated absences?
+15. What do the terms vested rights, accumulated rights, and non-accumulated rights mean in relation
+to compensated absences? Explain their accounting significance.
+16. Faith Battle operates a health-food store, and she has been the only employee. Her business is
+growing, and she is considering hiring some additional staff to help her in the store. Explain to her the
+various payroll deductions that she will have to account for, including their potential impact on her
+financial statements, if she hires additional staff.
+
+17. Explain the difference between a value-added tax and a sales tax.
+18. Define a provision, and give three examples of a provision.
+19. Under what conditions should a provision be recorded?
+20. Distinguish between a current liability, such as accounts payable, and a provision.
+21. How are the terms “probable” and “virtually certain” related to provisions and contingencies?
+22. Explain the difference between a legal obligation and a constructive obligation.
+23. Explain the accounting for an assurance-type warranty.
+24. Grant plc has had a record-breaking year in terms of growth in sales and profitability. However,
+market research indicates that it will experience operating losses in two of its major businesses next
+year. The controller has proposed that the company record a provision for these future losses this year
+since it can afford to take the charge and still show good results. Advise the controller on the
+appropriateness of this charge.
+25. How does an assurance-type warranty differ from a service-type warranty?
+26. What is an onerous contract? Give two examples of an onerous contract.
+27. Define a restructuring. What costs should not be accrued in a restructuring?
+28. When must a company recognize an environmental provision?
+29. Should a liability be recorded for risk of loss due to lack of insurance coverage? Discuss.
+30. What factors must be considered in determining whether to record a liability for pending
+litigation? For threatened litigation?
+31. Within the current liabilities section, how do you believe the accounts should be listed? Defend
+your position.
+32. How does the acid-test ratio differ from the current ratio? How are they similar?
+33. When should liabilities for each of the following items be recorded on the books of an ordinary
+business?
+a. Acquisition of goods by purchase on credit.
+b. Onerous contract.
+c. Special bonus to employees.
+d. Warranty.
+e. Profit-sharing payment.
+Brief Exercises

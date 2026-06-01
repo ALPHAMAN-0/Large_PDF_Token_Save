@@ -1,0 +1,1978 @@
+CHAPTER 4
+Income Statement and Related Information
+LEARNING OBJECTIVES
+After studying this chapter, you should be able to:
+1. Identify the uses and limitations of an income statement.
+2. Describe the content and format of the income statement.
+3. Discuss how to report various income items.
+4. Explain the reporting of accounting changes and errors.
+5. Describe related equity statements.
+This chapter also includes numerous conceptual discussions that are
+integral to the topics presented here.
+PREVIEW OF CHAPTER 4
+As the following opening story indicates, companies are attempting to provide income
+statement information they believe is useful for decision-making. Investors need
+complete and comparable information on income and its components to assess
+company profitability correctly. In this chapter, we examine the many different types of
+revenues, expenses, gains, and losses that affect the income statement and related
+information, as follows.
+Financial Statements Are Changing
+RPC Group plc (GBR) reported the following additional information in its most recent
+annual report (in £ millions).
+Operating profit based on GAAP
+
+Acquisition costs
+Impairment losses
+Restructuring costs
+Net post-acquisition consideration and remuneration
+Amortization of purchased intangible assets
+Insurance proceeds and other
+Adjusted operation profit
+The company indicated that it presents the adjusted operating profit, which is called an
+alternative performance measure, because it believes that this additional information, which
+is beyond the scope of IFRS-mandated data to be reported, helps users to better understand
+the company. For example, RPC Group management uses this measure in analyzing
+performance, allocating resources, budgeting, and paying employee incentives. It further
+notes that this measure, although defined by IFRS, may not be directly comparable with
+other companies’ profit measures. Finally, the company states that it is not intended to be a
+substitute for, or superior to, IFRS measurements of profit.
+Why do companies make these additional adjustments? One major reason is that companies
+believe the items on the income statement are not representative of operating results. Here
+is another example using Marks and Spencer plc (M&S) (GBR). At one time, M&S
+reported in a separate schedule adjustments to net income for items such as strategic
+programme costs, restructuring costs, and impairment charges. All these adjustments made
+the adjusted income measure higher than reported income.
+Skeptics of these practices note that these adjustments generally lead to higher adjusted net
+income. In addition, they note that it is difficult to compare these adjusted or pro forma
+numbers because one company may have a different view of to what it believes to be
+fundamental to the business. In many ways, the pro forma reporting practices by companies
+such as RPC and M&S represent implied criticisms of certain financial reporting standards,
+including how the information is presented on the income statement.
+The IASB has initiated a project on financial statement presentation to address users’
+concerns about these practices. Users believe there are too many alternatives for classifying
+and reporting income statement information. For example, some companies disaggregate
+product costs (such as materials and labor), as well as general and administrative costs
+(such as rent and utilities) in their income statements. Other companies simply report
+product costs and general and administrative costs in the aggregate, which makes it difficult
+to understand the nature of these costs (recurring or non-recurring, fixed or variable). The
+result is that two different companies can comply with existing standards for income
+statement presentation but vary considerably in the detail provided.
+What is needed is a common set of principles to be followed when income statement
+information is presented. The IASB’s continuing work on financial statement presentation is
+progressing, with an exposure draft expected soon. See the IFRS website for more
+information on the status of the project. It is hoped that this project on financial statement
+presentation will provide those necessary principles.
+
+Review and Practice
+Go to the Review and Practice section at the end of the chapter for a targeted
+summary review and practice problem with solution. Multiple-choice questions with
+annotated solutions, as well as additional exercises and practice problem with solutions,
+are also available online.
+Income Statement
+LEARNING OBJECTIVE 1
+Identify the uses and limitations of an income statement.
+The income statement is the report that measures the success of company operations for
+a given period of time. (It is also often called the statement of income or statement of
+earnings.1) The business and investment community uses the income statement to
+determine profitability, investment value, and creditworthiness. It provides investors and
+creditors with information that helps to predict the amounts, timing, and uncertainty
+of future cash flows.
+Usefulness of the Income Statement
+The income statement helps users of financial statements predict future cash flows in a
+number of ways. For example, investors and creditors use the income statement information
+to:
+1. Evaluate the past performance of the company. Examining revenues and
+expenses indicates how the company performed and allows comparison to its
+competitors. For example, analysts use the income data provided by Hyundai (KOR) to
+compare its performance to that of Toyota (JPN).
+2. Provide a basis for predicting future performance. Information about past
+performance helps to determine important trends which, if they continue, provide
+information about future performance. For example, General Electric (GE) (USA) at
+one time reported consistent increases in revenues. Obviously, past success does not
+necessarily translate into future success. However, analysts can better predict future
+
+revenues, earnings, and cash flows if a reasonable correlation exists between past and
+future performance.
+3. Help assess the risk or uncertainty of achieving future cash flows. Information
+on the various components of income—revenues, expenses, gains, and losses—
+highlights the relationships among them. It also helps to assess the risk of not
+achieving a particular level of cash flows in the future. For example, investors and
+creditors often segregate Siemens AG’s (DEU) operating performance from
+discontinued operations because Siemens primarily generates revenues and cash
+through its operations. Thus, results from continuing operations have greater
+significance for predicting future performance than do results from discontinued
+operations.
+In summary, information in the income statement—revenues, expenses, gains, and losses—
+helps users evaluate past performance. It also provides insights into the likelihood of
+achieving a particular level of cash flows in the future.
+Limitations of the Income Statement
+Because net income is an estimate and reflects a number of assumptions, income statement
+users need to be aware of certain limitations associated with its information. Some of these
+limitations include:
+
+1. Companies omit items from the income statement that they cannot measure
+reliably. Current practice prohibits recognition of certain items from the
+determination of income even though the effects of these items can arguably affect the
+company’s performance. For example, a company may not record in income unrealized
+gains and losses on certain investment securities when there is uncertainty that it will
+ever realize the changes in value. In addition, an increasing number of companies, such
+as L’Oréal (FRA) and Daimler AG (DEU), experience increases in value due to brand
+recognition, customer service, and product quality. A common framework for
+identifying and reporting these types of values is still lacking.
+2. Income numbers are affected by the accounting methods employed. One
+company may depreciate its plant assets on an accelerated basis; another chooses
+straight-line depreciation. Assuming all other factors are equal, the first company will
+report lower income. In effect, we are comparing apples to oranges.
+3. Income measurement involves judgment. For example, one company in good faith
+may estimate the useful life of an asset to be 20 years while another company uses a 15-
+year estimate for the same type of asset. Similarly, some companies may make
+optimistic estimates of future warranty costs and bad debt expenses, which result in
+lower expense and higher income.
+
+In summary, several limitations of the income statement reduce the usefulness of its
+information for predicting the amounts, timing, and uncertainty of future cash flows.
+Quality of Earnings
+Our discussion so far has highlighted the importance of information in the income
+statement for investment and credit decisions, including the evaluation of the company and
+its managers.2 Companies try to meet or beat market expectations so that the market price
+of their shares and the value of management’s compensation increase. As a result,
+companies have incentives to manage income to meet earnings targets or to make earnings
+look less risky.
+Regulators have expressed concern that the motivations to meet earnings targets may
+override good business practices. This erodes the quality of earnings and the quality of
+financial reporting. As a former regulator noted, “Managing may be giving way to
+manipulation; integrity may be losing out to illusion.”3
+What is earnings management? It is often defined as the planned timing of revenues,
+expenses, gains, and losses to smooth out bumps in earnings. In most cases, companies use
+earnings management to increase income in the current year at the expense of income in
+future years. For example, they prematurely recognize sales in order to boost earnings. As
+one commentator noted, “… it’s like popping a cork in [opening] a bottle of wine before it is
+ready.”
+Companies also use earnings management to decrease current earnings in order to increase
+income in the future. The classic case is the use of “cookie jar” reserves. Companies
+establish these reserves by using unrealistic assumptions to estimate liabilities for such
+items as environmental liabilities, restructuring charges, and warranty returns. The
+companies then reduce these reserves to increase reported income in the future.
+Such earnings management negatively affects the quality of earnings if it distorts the
+information in a way that is less useful for predicting future earnings and cash flows.
+Markets rely on trust. The bond between shareholders and the company must remain
+strong. Investors or others losing faith in the numbers reported in the financial statements
+will damage capital markets.
+
+What Do the Numbers Mean?
+Four: The Loneliest Number
+Managing earnings up or down adversely affects the quality of earnings. Why do
+companies engage in such practices? Research concludes that many companies tweak
+quarterly earnings to meet investor expectations. How do they do it? Research findings
+indicate that companies tend to nudge their earnings numbers up by a 10th of a cent or
+two. That lets them round results up to the highest cent, as illustrated in the following
+chart.
+What the research shows is that the number “4” appeared less often in the 10th’s place
+than any other digit and significantly less often than would be expected by chance. This
+effect is called “quadrophobia.” For the typical company in the study, an increase of
+$31,000 in quarterly net income would boost earnings per share by a 10th of a cent. A
+more recent analysis of quarterly results for more than 2,600 companies found that
+rounding up remains more common than rounding down.
+Another recent study reinforces the concerns about earnings management. Based on a
+survey of 169 public-company chief financial officers (and with in-depth interviews of
+12), the study concludes that high-quality earnings are sustainable when backed by
+actual cash flows and when they avoid “unreliable long-term estimates.” However,
+about 20 percent of firms manage earnings to misrepresent their economic
+performance. And when they do manage earnings, it could move EPS by an average of
+10 percent.
+Is such earnings management a problem for investors? It is if they cannot determine
+the impact on earnings quality. Indeed, the surveyed CFOs “believe that it is difficult for
+outside observers to unravel earnings management, especially when such earnings are
+managed using subtle unobservable choices or real actions.” What’s an investor to do?
+The survey authors say the CFOs “advocate paying close attention to the key managers
+
+running the firm, the lack of correlation between earnings and cash flows, significant
+deviations between firm and peer experience, and unusual behavior in accruals.”
+Sources: S. Thurm, “For Some Firms, a Case of ‘Quadrophobia’,” Wall Street Journal (February 14, 2010); and
+H. Greenberg, “CFOs Concede Earnings Are ‘Managed’,” www.cnbc.com (July 19, 2012). The study referred to is by
+I. Dichev, J. Graham, C. Harvey, and S. Rajgopal, “Earnings Quality: Evidence from the Field,” Journal of
+Accounting and Economics (2013), pp. 1–33.
+Content and Format of the Income Statement
+LEARNING OBJECTIVE 2
+Describe the content and format of the income statement.
+Elements of the Income Statement
+Net income results from revenue, expense, gain, and loss transactions. The income
+statement summarizes these transactions. This method of income measurement, the
+transaction approach, focuses on the income-related activities that have occurred during
+the period.4 The statement can further classify income by customer, product line, or
+function; by operating and non-operating; and by continuing and discontinued. The two
+major elements of the income statement are as follows.
+Elements of Financial Statements
+Income. Income is increases in assets, or decreases in liabilities, that result in
+increases in equity, other than those relating to contributions from holders of equity
+claims.
+Expenses. Expenses are decreases in assets, or increases in liabilities, that result in
+decreases in equity, other than those relating to distributions to holders of equity
+claims. [1] (See the Authoritative Literature References Section near the end of the
+chapter.)
+The definition of income includes both revenues and gains. Revenues arise from the
+ordinary activities of a company and take many forms, such as sales, fees, interest,
+dividends, and rents. Gains represent other items that meet the definition of income and
+may or may not arise in the ordinary activities of a company. Gains include, for example,
+gains on the sale of long-term assets or unrealized gains on trading securities.
+The definition of expenses includes both expenses and losses. Expenses generally arise from
+the ordinary activities of a company and take many forms, such as cost of goods sold,
+depreciation, rent, salaries and wages, and taxes. Losses represent other items that meet the
+definition of expenses and may or may not arise in the ordinary activities of a company.
+Losses include losses on restructuring charges, losses related to sale of long-term assets, or
+unrealized losses on trading securities.5
+When gains and losses are reported on an income statement, they are generally separately
+disclosed because knowledge of them is useful for assessing future cash flows. For example,
+
+when Goody’s Burger House (GRC) sells a hamburger, it records the selling price as
+revenue. However, when Goody’s Burger House sells land, it records any excess of the
+selling price over the book value as a gain. This difference in treatment results because the
+sale of the hamburger is part of Goody’s Burger House’s regular operations. The sale of land
+is not.
+We cannot overemphasize the importance of reporting these elements. Most decision-
+makers find the parts of a financial statement to be more useful than the whole. As we
+indicated earlier, investors and creditors are interested in predicting the amounts, timing,
+and uncertainty of future income and cash flows. Having income statement elements shown
+in some detail and in comparison with prior years’ data allows decision-makers to better
+assess future income and cash flows.6
+Intermediate Components of the Income Statement
+Companies generally present some or all of the following sections and totals within the
+income statement, as shown in Illustration 4.1. [2]
+
+1.
+Sales or Revenue Section. Presents sales, discounts, allowances, returns, and other
+related information. Its purpose is to arrive at the net amount of sales revenue.
+2.
+Cost of Goods Sold Section. Shows the cost of goods sold to produce the sales.
+ 
+Gross Profit. Revenue less cost of goods sold.
+3.
+Selling Expenses. Reports expenses resulting from the company’s efforts to make
+sales.
+4.
+Administrative or General Expenses. Reports expenses of general administration.
+5.
+Other Income and Expense. Includes most other transactions that do not fit into
+the revenues and expenses categories provided above. Items such as gains and losses
+on sales of long-lived assets, impairments of assets, and restructuring charges are
+reported in this section. In addition, revenues such as rent revenue, dividend revenue,
+and interest revenue are often reported.
+ 
+Income from Operations. Company’s results from normal operations.
+6.
+Financing Costs. A separate item that identifies the financing cost of the company,
+hereafter referred to as interest expense.
+ 
+Income before Income Tax. The total income before income tax.
+7.
+Income Tax. A short section reporting taxes levied on income before income tax.
+ 
+Income from Continuing Operations. A company’s results before any gain or loss
+on discontinued operations. If the company does not have any gain or loss on
+discontinued operations, this section is not reported and this amount is reported as net
+income.
+8.
+Discontinued Operations. Gains or losses resulting from the disposition of a
+component of a company.
+ 
+Net Income. The net results of the company’s performance over a period of time.
+9.
+Non-Controlling Interest. Presents an allocation of net income to the controlling
+shareholders and to the non-controlling interest.
+10. Earnings per Share. Per share amounts that are reported.
+ILLUSTRATION 4.1 Income Statement Format
+Illustration 4.2 presents an income statement for Boc Hong Company. Boc Hong’s income
+statement includes all of the major items in the list above, except for discontinued
+operations. In arriving at net income, the statement presents the following subtotals and
+totals: gross profit, income from operations, income before income tax, and net income.
+
+Boc Hong Company
+Income Statement
+For the Year Ended December 31, 2022
+Sales
+ 
+ 
+ 
+Sales revenue
+ 
+ 
+Less: Sales discounts
+ 
+Sales returns and allowances
+ 
+Net sales
+ 
+ 
+Cost of goods sold
+ 
+ 
+Gross profit
+ 
+ 
+Selling expenses
+ 
+ 
+ 
+Sales salaries and commissions
+ 
+Sales office salaries
+ 
+Travel and entertainment
+ 
+Advertising expense
+ 
+Delivery expense
+ 
+Shipping supplies and expense
+ 
+Postage and stationery
+ 
+Telephone and Internet expense
+ 
+Depreciation of sales equipment
+Administrative expenses
+ 
+ 
+ 
+Officers’ salaries
+ 
+Office salaries
+ 
+Legal and professional services
+ 
+Utilities expense
+ 
+Insurance expense
+ 
+Depreciation of building
+ 
+Depreciation of office equipment
+ 
+Stationery, supplies, and postage
+ 
+Miscellaneous office expenses
+Other income and expense
+ 
+ 
+ 
+Dividend revenue
+ 
+Rent revenue
+ 
+Gain on sale of plant assets
+ 
+Income from operations
+ 
+ 
+Interest on bonds and notes
+ 
+ 
+Income before income tax
+ 
+ 
+Income tax
+ 
+ 
+
+Net income for the year
+ 
+ 
+Attributable to:
+ 
+ 
+ 
+Shareholders of Boc Hong
+ 
+ 
+Non-controlling interest
+ 
+ 
+Earnings per share
+ 
+ 
+ILLUSTRATION 4.2 Income Statement
+Condensed Income Statements
+In some cases, an income statement cannot possibly present all the desired expense detail.
+To solve this problem, a company includes only the totals of components in the statement of
+income. It then also prepares supplementary schedules to support the totals. This format
+may reduce the income statement itself to a few lines on a single sheet. For this reason,
+readers who wish to study all the reported data on operations must give their attention to
+the supporting schedules.
+For example, consider the income statement shown in Illustration 4.3 for Boc Hong
+Company. This statement is a condensed version of the more detailed income statement
+presented in Illustration 4.2. It is more representative of the type found in practice.
+Illustration 4.4 shows an example of a supporting schedule, cross-referenced as Note D
+and detailing the selling expenses.
+Boc Hong Company
+Income Statement
+For the Year Ended December 31, 2022
+Net sales
+ 
+Cost of goods sold
+ 
+Gross profit
+ 
+Selling expenses (see Note D) $453,028  
+Administrative expenses
+Other income and expense
+ 
+Income from operations
+ 
+Interest expense
+ 
+Income before income tax
+ 
+Income tax
+ 
+Net income for the year
+ 
+Attributable to:
+ 
+ 
+Shareholders of Boc Hong
+ 
+Non-controlling interest
+ 
+Earnings per share
+ 
+ILLUSTRATION 4.3 Condensed Income Statement
+
+Note D: Selling expenses
+ 
+Sales salaries and commissions
+Sales office salaries
+Travel and entertainment
+Advertising expense
+Delivery expense
+Shipping supplies and expense
+Postage and stationery
+Telephone and Internet expense
+Depreciation of sales equipment
+Total selling expenses
+ILLUSTRATION 4.4 Sample Supporting Schedule
+How much detail should a company include in the income statement? On the one hand, a
+company wants to present a simple, summarized statement so that readers can readily
+discover important factors. On the other hand, it wants to disclose the results of all activities
+and to provide more than just a skeleton report. As a result, the income statement always
+includes certain basic elements, but companies can present them in various formats.
+
+What Do the Numbers Mean?
+You May Need a Map
+Many companies (like RPC Group in the opening story) promote their performance
+through the reporting of various “alternative” performance measures. The basic
+approach is to adjust a number such as operating income by adding back both non-
+recurring expenses and losses, and also expenses that are recurring but are not viewed
+by management as useful in understanding the performance of the business. This
+commonly results in a performance measure that is substantially better than the
+traditional IFRS-based measures. This difference led one accounting regulator to quip
+that these alternative measures should be called EBS—“Everything but Bad Stuff.”
+According to the IASB, “there has been an increasing trend for companies to emphasise
+‘adjusted’ earnings—known as non-IFRS earnings—which can paint a misleading
+picture of their true financial situations.” Indeed, U.S. public companies are required to
+reconcile non-U.S. GAAP financial measures to U.S. GAAP, thereby giving investors a
+roadmap to analyze the adjustments companies make to their U.S. GAAP numbers to
+arrive at pro forma results.
+Recently, WeWork (USA) came under intense scrutiny as it prepared for its initial
+public offering. The shared work space provider has for a number of years reported
+significant losses using U.S. GAAP measures. But its own alternative performance
+measure, called “community adjusted EBITDA,” has shown a different outcome. For
+example in a recent year when the company reported a $931 million operating loss, it
+also reported that community adjusted EBITDA for the same period showed a profit of
+$231 million. Quite a difference!
+In order to assist users of financial statements, companies that include these alternative
+performance measures have begun to publish notes and even full guides to explain the
+measures and how they are computed. For example, Vodafone Group plc (GBR)
+included a significant number of pages in its most recent annual report to provide an
+explanation for its alternative performance measures reported. Similarly, Nestlé (CHE)
+now publishes annually a separate alternative performance measures guide to explain
+the 14 different alternative performance measures the company uses.
+Finding the right balance between allowing a company to tell its own story, including
+both IFRS-based performance measures and alternative measures that the company has
+created, has drawn significant attention from regulators around the world. The U.S.
+Securities and Exchange Commission (SEC) only allows companies to, in essence,
+report the alternative measures less prominently than the U.S. GAAP measures.
+Furthermore, the alternative measures must be reconciled to U.S. GAAP measures. The
+U.K. Financial Reporting Council has also examined alternative performance measures
+reported by companies under its authority. It reported 10 different concerns, including
+that many alternative performance measures were given greater prominence in the
+financial reports and that many lacked explanation about why items had been excluded
+from adjusted profit measures.
+Sources: L. Turner, “Remarks to the 39th Annual Corporate Counsel Institute,” U.S. Securities and Exchange
+Commission (October 12, 2000); H. Hoogervorst, “Performance Reporting and the Pitfalls of Non-GAAP Metrics,”
+speech given at the Annual Conference of the European Accounting Association (May 11, 2016). See also SEC
+Regulation G, “Conditions for Use of Non-GAAP Financial Measures,” Release No. 33–8176 (March 28, 2003);
+
+and “Corporate Reporting Thematic Review: Alternative Performance Measures,” Financial Reporting Council
+(November 2017).
+Reporting Various Income Items
+LEARNING OBJECTIVE 3
+Discuss how to report various income items.
+Gross Profit
+Boc Hong Company’s gross profit is computed by deducting cost of goods sold from net
+sales. The disclosure of net sales is useful because Boc Hong reports regular sales revenue as
+a separate item. It discloses unusual or incidental revenues in other income and expense. As
+a result, analysts can more easily understand and assess trends in revenue from continuing
+operations.
+Similarly, the reporting of gross profit provides a useful number for evaluating performance
+and predicting future earnings. Statement readers may study the trend in gross profits to
+understand how competitive pressure affected profit margins.
+Income from Operations
+Boc Hong Company determines income from operations by deducting selling and
+administrative expense as well as other income and expense from gross profit. Income from
+operations highlights items that affect regular business activities. As such, it is a metric
+often used by analysts in helping to predict the amount, timing, and uncertainty of future
+cash flows.
+Expense Classification
+Companies are required to present an analysis of expenses classified either by their nature
+(such as cost of materials used, direct labor incurred, delivery expense, advertising expense,
+employee benefits, depreciation expense, and amortization expense) or their function (such
+as cost of goods sold, selling expenses, and administrative expenses).
+An advantage of the nature-of-expense method is that it is simple to apply because
+allocations of expense to different functions are not necessary. For manufacturing
+companies that must allocate costs to the product produced, using a nature-of-expense
+approach permits companies to report expenses without making arbitrary allocations.
+The function-of-expense method, however, is often viewed as more relevant because
+this method identifies the major cost drivers of the company and therefore helps users
+assess whether these amounts are appropriate for the revenue generated. As indicated, a
+disadvantage of this method is that the allocation of costs to the varying functions may be
+arbitrary and therefore the expense classification becomes misleading.
+To illustrate these two methods, assume that the accounting firm of Telaris Group performs
+audit, tax, and consulting services. It has the following revenues and expenses.
+Service revenues
+
+Cost of services
+ 
+Staff salaries (related to various services performed)
+Supplies expense (related to various services performed)
+Selling expenses
+ 
+Advertising costs
+Entertainment expense
+Administrative expenses
+ 
+Utilities expense
+Depreciation on building
+If Telaris Group uses the nature-of-expense approach, its income statement presents each
+expense item but does not classify the expenses into various subtotals. This approach is
+shown in Illustration 4.5.
+Telaris Group
+Income Statement
+For the Month of January 2022
+Service revenues
+Staff salaries
+Supplies expense
+Advertising costs
+Utilities expense
+Depreciation on building
+Entertainment expense
+Net income
+ILLUSTRATION 4.5 Nature-of-Expense Approach
+If Telaris uses the function-of-expense approach, its income statement is presented as
+shown in Illustration 4.6.
+Telaris Group
+Income Statement
+For the Month of January 2022
+Service revenues
+Cost of services
+Selling expenses
+Administrative expenses
+Net income
+ILLUSTRATION 4.6 Function-of-Expense Approach
+The function-of-expense method is generally used in practice, although many companies
+believe both approaches have merit. These companies use the function-of-expense approach
+
+on the income statement but provide detail of the expenses (as in the nature-of-expense
+approach) in the notes to the financial statements. For example, Boc Hong’s condensed
+income statement, shown in Illustrations 4.3 and 4.4, indicates how this information might
+be reported.7 For homework purposes, use the function-of-expense approach shown in the
+Boc Hong example in Illustration 4.3, unless directed otherwise.
+Gains and Losses
+What should be included in net income is controversial. For example, should companies
+report gains and losses, and corrections of revenues and expenses of prior years, as part of
+retained earnings? Or, should companies first present them in the income statement and
+then carry them to retained earnings?
+This issue is extremely important because the number and magnitude of these items are
+substantial. For example, Illustration 4.7 identifies the most common types and number
+of gains and losses reported in a survey of 500 large companies. Notice that more than 40
+percent of the surveyed firms reported restructuring charges, which often contain write-offs
+and other one-time items. A survey of 200 IFRS adopters indicates that about 27 percent of
+the surveyed firms reported a discontinued operation charge.8
+ILLUSTRATION 4.7 Number of Unusual Items Reported in a Recent Year by
+500 Large Companies
+As our opening story discusses, we need consistent and comparable income reporting
+practices to avoid “promotional” information reported by companies. Developing a
+framework for reporting these gains and losses is important to ensure reliable income
+information.9 Some users argue that the most useful income measure reflects only regular
+and recurring revenue and expense elements. Unusual, non-recurring items do not reflect a
+company’s future earning power.
+In contrast, others warn that a focus on income that excludes these items potentially misses
+important information about a company’s performance. Any gain or loss experienced by the
+company, whether directly or indirectly related to operations, contributes to its long-run
+profitability. As one analyst notes, “write-offs matter.… They speak to the volatility of past
+earnings.”10
+In general, the IASB takes the position that both revenues and expenses and
+other income and expense should be reported as part of income from
+
+operations. For example, it would be inappropriate to exclude items clearly related to
+operations (such as inventory write-downs and restructuring and relocation expenses)
+because they occur irregularly or infrequently, or are unusual in amount. Similarly, it would
+be inappropriate to exclude items on the grounds that they do not involve cash flows, such
+as depreciation and amortization expenses. However, companies can provide
+additional line items, headings, and subtotals when such presentation is
+relevant to an understanding of the entity’s financial performance.
+IFRS indicates additional items that may need disclosure on the income statement to help
+users predict the amount, timing, and uncertainty of future cash flows. Examples of these
+unusual items are as follows.
+Losses on write-downs of inventories to net realizable value or of property, plant, and
+equipment to recoverable amount, as well as reversals of such write-downs.
+Losses on restructurings of the activities of a company and reversals of any provisions
+for the costs of restructuring.
+Gains or losses on the disposal of items of property, plant, and equipment, or
+investments.
+Litigation settlements.
+Other reversals of liabilities.
+Most companies therefore report these items as part of operations and disclose them in
+great detail if material in amount. Some, for example, simply show each item as a separate
+item on the income statement before income from operations. Other companies use the
+caption Other income and expense and then itemize them in this section or in the notes
+to the financial statements. For homework purposes, itemize gains, losses, revenues, and
+expenses that are not reported as part of the revenue and expense sections of the income
+statement in the “Other income and expense” section.
+Income Before Income Tax
+Boc Hong computes income before income tax by deducting interest expense (often referred
+to as financing costs) from income from operations. Under IFRS, companies must report
+their financing costs on the income statement. The reason for this requirement is to
+differentiate between a company’s business activities (how it uses capital to create value)
+and its financing activities (how it obtains capital).
+In most cases, the financing costs involve interest expense. In other situations, companies
+offset items, such as interest expense, against interest revenue. Illustration 4.8 indicates
+how Network Rail (GBR) presents its financing costs involving only interest expense.
+As indicated, some companies offset interest revenue and interest expense, and identify it as
+either finance costs or interest expense and interest revenue, net. For homework purposes,
+consider only interest expense as financing costs. Interest revenue (income) should be
+reported as part of “Other income and expense.”
+
+Network Rail
+On its income statement:
+(in millions)
+Finance costs
+Note 9
+Note 9 Finance costs
+Interest on bank loans and overdrafts
+£
+Interest on loan issued by Department of Transport
+Interest on bonds issued under the Debt Issuance Programme
+Interest on derivative instruments
+Defined benefit pension interest cost
+Debt Issuance Programme financial indemnity fee
+Other interest
+Total borrowing costs
+Less: capitalised interest
+Total finance costs
+Borrowing costs are included in the costs of qualifying assets to the extent that the asset is
+financed by the group. The average rate used during the year was 3.7 per cent.
+ILLUSTRATION 4.8 Presentation of Finance Costs
+Net Income
+Boc Hong deducts income tax from income before income tax to arrive at net income. Net
+income represents the income after all revenues and expenses for the period are considered.
+It is viewed by many as the most important measure of a company’s success or failure for a
+given period of time.
+Income tax is reported on the income statement right before net income because this
+expense cannot be computed until all revenues and expenses are determined. In practice, an
+understanding of how the company arrived at the income tax for the period is important. For
+example, some of the revenue items may have different tax rates associated with them. In
+other cases, expense items may not be deductible for income tax purposes. Understanding
+these situations enables users to better predict what the future holds for the company. As a
+result, there is often extensive disclosure related to how the number for income tax expense
+is determined. Chapter 19 discusses this subject in detail.
+Earnings per Share
+A company customarily sums up the results of its operations in one important figure: net
+income. However, the financial world has widely accepted an even more distilled figure as
+the most significant business indicator—earnings per share (EPS).
+
+The computation of earnings per share is usually straightforward. Earnings per share is
+net income minus preference dividends (income available to ordinary
+shareholders), divided by the weighted average of ordinary shares outstanding.11
+To illustrate, assume that Lancer, Inc. reports net income of $350,000. It declares and pays
+preference dividends of $50,000 for the year. The weighted-average number of ordinary
+shares outstanding during the year is 100,000 shares. Lancer computes earnings per share
+of $3, as shown in Illustration 4.9.
+= Earnings per Share
+= $3
+ILLUSTRATION 4.9 Equation Illustrating Computation of Earnings per Share
+Note that EPS measures the number of dollars earned by each ordinary share. It does not
+represent the dollar amount paid to shareholders in the form of dividends.
+Prospectuses, proxy material, and annual reports to shareholders commonly use the “net
+income per share” or “earnings per share” ratio. The financial press and securities analysts
+also highlight EPS. Because of its importance, companies must disclose earnings per
+share on the face of the income statement.
+Many companies have simple capital structures that include only ordinary shares. For these
+companies, a presentation such as “Earnings per share” is appropriate on the income
+statement. In many instances, however, companies’ earnings per share are subject to
+dilution (reduction) in the future because existing contingencies permit the issuance of
+additional shares.12[3]
+In summary, the simplicity and availability of EPS figures lead to their widespread use.
+Because of the importance that the public, even the well-informed public, attaches to
+earnings per share, companies must make the EPS figure as meaningful as possible.
+Discontinued Operations
+As discussed previously, one of the most common types of unusual items is discontinued
+operations. The IASB defines a discontinued operation as a component of an entity that
+either has been disposed of, or is classified as held-for-sale, and:
+1. Represents a major line of business or geographical area of operations, or
+2. Is part of a single, coordinated plan to dispose of a major line of business or
+geographical area of operations, or
+3. Is a subsidiary acquired exclusively with a view to resell. [4]
+To illustrate a component, Unilever plc (GBR) manufactures and sells consumer
+products. It has several product groups, each with different product lines and brands. For
+Unilever, a product group is the lowest level at which it can clearly distinguish the
+operations and cash flows from the rest of the company’s operations. Therefore, each
+Net Income  − Preference Dividends
+Weighted Average of Ordinary Shares Outstanding
+$350,000 −$50,000
+
+product group is a component of the company. If a component were disposed of, Unilever
+would classify it as a discontinued operation.
+Here is another example. Assume that Softso Inc. has experienced losses with certain brands
+in its beauty-care products group. As a result, Softso decides to sell that part of its business.
+It will discontinue any continuing involvement in the product group after the sale. In this
+case, Softso eliminates the operations and the cash flows of the product group from its
+ongoing operations, and reports it as a discontinued operation.
+On the other hand, assume Softso decides to remain in the beauty-care business but will
+discontinue the brands that experienced losses. Because Softso cannot differentiate the cash
+flows from the brands from the cash flows of the product group as a whole, it cannot
+consider the brands a component. Softso does not classify any gain or loss on the sale of the
+brands as a discontinued operation.
+Companies report as discontinued operations (in a separate income statement category) the
+gain or loss from disposal of a component of a business. In addition, companies report
+the results of operations of a component that has been or will be disposed of
+separately from continuing operations. Companies show the effects of discontinued
+operations net of tax as a separate category, after continuing operations.
+To illustrate, Multiplex Products, a highly diversified company, decides to discontinue its
+electronics division. During the current year, the electronics division lost £300,000 (net of
+tax). Multiplex sold the division at the end of the year at a loss of £500,000 (net of tax).
+Illustration 4.10 shows the reporting of discontinued operations for Multiplex.
+Income from continuing operations
+ 
+Discontinued operations
+ 
+ 
+Loss from operation of discontinued electronics division (net of
+tax)
+ 
+Loss from disposal of electronics division (net of tax)
+Net income
+ 
+ILLUSTRATION 4.10 Income Statement Presentation of Discontinued
+Operations
+Companies use the phrase “Income from continuing operations” only when gains or
+losses on discontinued operations occur.13
+A company that reports a discontinued operation must report per share amounts for the line
+item either on the face of the income statement or in the notes to the financial statements.
+[5] To illustrate, consider the income statement for Poquito Industries SA, shown in
+Illustration 4.11. Notice the order in which Poquito shows the data, with per share
+information at the bottom. Assume that the company had 100,000 shares outstanding for
+the entire year. The Poquito income statement, as Illustration 4.11 shows, is highly
+condensed. Poquito would need to describe items such as “Other income and expense” and
+“Discontinued operations” fully and appropriately in the statement or related notes.
+
+Poquito Industries SA
+Income Statement
+For the Year Ended December 31, 2022
+Sales revenue
+ 
+Cost of goods sold
+ 
+Gross profit
+ 
+Selling and administrative expenses
+ 
+Other income and expense
+ 
+ 
+Interest revenue
+Loss on disposal of part of Textile Division
+Loss on sale of investments
+Income from operations
+ 
+Interest expense
+ 
+Income before income tax
+ 
+Income tax
+ 
+Income from continuing operations
+ 
+Discontinued operations
+ 
+ 
+Income from operations of Pizza Division, less applicable
+income tax of R$24,800
+ 
+Loss on disposal of Pizza Division, less applicable income tax
+savings of R$41,000
+Net income
+ 
+Per share
+ 
+ 
+Income from continuing operations
+ 
+Income from operations of discontinued division, net of tax
+ 
+Loss on disposal of discontinued operation, net of tax
+ 
+Net income
+ 
+ILLUSTRATION 4.11 Income Statement
+Intraperiod Tax Allocation
+Companies report discontinued operations on the income statement net of tax. The
+allocation of tax to this item is called intraperiod tax allocation, that is, allocation within
+a period. It relates the income tax expense (sometimes referred to as the income tax
+provision) of the fiscal period to the specific items that give rise to the amount of the
+income tax provision.
+Intraperiod tax allocation helps financial statement users better understand the impact of
+income taxes on the various components of net income. For example, readers of financial
+statements will understand how much income tax expense relates to “income from
+continuing operations.” This approach should help users to better predict the amount,
+timing, and uncertainty of future cash flows. In addition, intraperiod tax allocation
+
+discourages statement readers from using pretax measures of performance when evaluating
+financial results, and thereby recognizes that income tax expense is a real cost.
+Companies use intraperiod tax allocation on the income statement for the following items:
+(1) income from continuing operations and (2) discontinued operations. The general concept
+is “let the tax follow the income.”
+To compute the income tax expense attributable to “Income from continuing operations,” a
+company would find the income tax expense related to both the revenue and expense
+transactions as well as other income and expense used in determining this income subtotal.
+(In this computation, the company does not consider the tax consequences of items
+excluded from the determination of “Income from continuing operations.”) Companies then
+associate a separate tax effect (e.g., for discontinued operations). Here, we look in more
+detail at calculation of intraperiod tax allocation for discontinued gain or discontinued loss.
+Discontinued Operations (Gain)
+In applying the concept of intraperiod tax allocation, assume that Schindler AG has income
+before income tax of €250,000. It has a gain of €100,000 from a discontinued operation.
+Assuming a 30 percent income tax rate, Schindler presents the information on the income
+statement, as shown in Illustration 4.12.
+Income before income tax
+ 
+Income tax
+ 
+Income from continuing operations  
+Gain on discontinued operations
+Less: Applicable income tax
+Net income
+ 
+ILLUSTRATION 4.12 Intraperiod Tax Allocation, Discontinued Operations
+Gain
+Schindler determines the income tax of €75,000 (€250,000 × 30%) attributable to “Income
+before income tax” from revenue and expense transactions related to this income. Schindler
+omits the tax consequences of items excluded from the determination of “Income before
+income tax.” The company shows a separate tax effect of €30,000 related to the “Gain on
+discontinued operations.”
+Discontinued Operations (Loss)
+To illustrate the reporting of a loss from discontinued operations, assume that Schindler AG
+has income before income tax of €250,000. It suffers a loss from discontinued operations of
+€100,000. Assuming a 30 percent tax rate, Schindler presents the income tax on the income
+statement as shown in Illustration 4.13. In this case, the loss provides a positive tax
+benefit of €30,000. Schindler, therefore, subtracts it from the €100,000 loss.
+
+Income before income tax
+ 
+Income tax
+ 
+Income from continuing operations
+ 
+Loss from discontinued operations
+Less: Applicable income tax reduction
+Net income
+ 
+ILLUSTRATION 4.13 Intraperiod Tax Allocation, Discontinued Operations
+Loss
+Companies may also report the tax effect of a discontinued item by means of a note
+disclosure, as Illustration 4.14 shows.
+Income before income tax
+Income tax
+Income from continuing operations
+Loss on discontinued operations, less applicable income tax reduction (Note 1)
+Net income
+Note 1: During the year the Company suffered a loss on discontinuing operations of
+€70,000, net of applicable income tax reduction of €30,000.
+ILLUSTRATION 4.14 Note Disclosure of Intraperiod Tax Allocation
+Allocation to Non-Controlling Interest
+A company like Siemens (DEU) owns substantial interests in other companies. Siemens
+generally consolidates the financial results of these companies into its own financial
+statements. In these cases, Siemens is referred to as the parent, and the other companies are
+referred to as subsidiaries. Non-controlling interest is then the portion of equity (net
+assets) interest in a subsidiary not attributable to the parent company.
+To illustrate, assume that Boc Hong acquires 70 percent of the outstanding shares of LTM
+Group. Because Boc Hong owns more than 50 percent of LTM, it consolidates LTM’s
+financial results with its own. Consolidated net income is then allocated to the controlling
+(Boc Hong) and non-controlling shareholders’ percentage of ownership in LTM. In other
+words, under this arrangement, the ownership of LTM is divided into two classes: (1) the
+controlling interest represented by shareholders who own the majority of the shares, and (2)
+the non-controlling interest represented by shareholders who are not part of the controlling
+group. When Boc Hong prepares a consolidated income statement, IFRS requires that net
+income be allocated to both the controlling and non-controlling interests. This allocation is
+reported at the bottom of the income statement, after net income. An example of how Boc
+Hong reports its non-controlling interest is shown in Illustration 4.15.
+
+Net income
+Attributable to:
+ 
+Shareholders of Boc Hong $120,000
+Non-controlling interest
+ILLUSTRATION 4.15 Presentation of Non-Controlling Interest
+These amounts are to be presented as allocations of net income or net loss, not as an item of
+income or expense.
+Summary
+Illustration 4.16 provides a summary of the primary income items.
+As indicated, companies report all revenues, gains, expenses, and losses on the income
+statement and, at the end of the period, close them to Income Summary. They provide
+useful subtotals on the income statement, such as gross profit, income from operations,
+income before income tax, and net income. Companies classify discontinued operations of a
+component of a business as a separate item in the income statement, after “Income from
+continuing operations.” Companies present other income and expense in a separate section,
+before income from operations. Providing intermediate income figures helps readers
+evaluate earnings information in assessing the amounts, timing, and uncertainty of future
+cash flows.
+
+What Do the Numbers Mean?
+Different Income Concepts
+The IASB is working on a project related to the presentation of financial statements. As
+part of this project, it conducted field tests on two groups: preparers and users.
+Preparers were asked to recast their financial statements and then comment on the
+results. Users examined the recast statements and commented on their usefulness.
+One part of the field test asked analysts to indicate which primary performance metric
+they use or create from a company’s income statement. They were provided with the
+following options: (a) Net income; (b) Pretax income; (c) Earnings before interest and
+taxes (EBIT); (d) Income before interest, taxes, depreciation, and amortization
+(EBITDA); (e) Operating income; (f) Comprehensive income; and (g) Other. The chart
+highlights their responses.
+As indicated, Operating income (31%) and EBITDA (27%) were identified as the two
+primary performance metrics that respondents use or create from a company’s income
+statement. A majority of the respondents identified a primary performance metric that
+uses net income as its foundation (pretax income would be in this group). Clearly, users
+and preparers look at more than just the bottom line income number, which supports
+the IFRS requirement to provide subtotals within the income statement.
+In response, the IASB has been moving forward with the project and is now proposing
+that additional subtotals be added to the income statement. Specifically, the current
+proposal has a new subtotal called “business profit” and EBIT that would be added to
+the required information in the income statement.
+Source: “FASB-IASB Report on Analyst Field Test Results,” Financial Statement Presentation Informational
+Board Meeting (September 21, 2009); and “Primary Financial Statements: Project Overview,” IASB (September
+
+Type of
+Situation
+Criteria
+Examples
+Placement on
+Income Statement
+Sales or
+service
+revenues
+Revenues arising from the
+ordinary activities of the
+company.
+Sales revenue, service
+revenue.
+Sales or revenue
+section.
+Cost of goods
+sold
+Expense arising from the cost
+of inventory sold or services
+provided.
+In a merchandising
+company, Cost of
+goods sold; in a
+service company,
+Cost of services.
+Deduct from sales (to
+arrive at gross profit)
+or service revenue.
+Selling and
+administrative
+expenses
+Expenses arising from the
+ordinary activities of the
+company.
+Sales salaries,
+Freight-out, Rent,
+Depreciation,
+Utilities.
+Deduct from gross
+profit; if the function-
+of-expense approach
+is used, depreciation
+and amortization
+expense and labor
+costs must be
+disclosed.
+Other income
+and expense
+Gains and losses and other
+ancillary revenues and
+expenses.
+Gain on sale of long-
+lived assets,
+Impairment loss on
+intangible assets,
+Investment revenue,
+Dividend and Interest
+revenue, Casualty
+losses.
+Report as part of
+income from
+operations.
+Financing
+costs
+Separates cost of financing
+from operating costs.
+Interest expense.
+Report in a separate
+section between
+income from
+operations and
+income before income
+tax.
+Income tax
+Levies imposed by
+governmental bodies on the
+basis of income.
+Taxes computed on
+income before
+income tax.
+Report in separate
+section between
+income before income
+tax and net income.
+Earnings per
+share
+Must be reported on the face
+of the income statement.
+Net income minus
+preference dividends
+divided by weighted
+average of ordinary
+shares outstanding.
+Report separate EPS
+for income from
+continuing operations
+(if applicable) and net
+income.
+Discontinued
+operations
+A component of a company
+that has either been disposed
+of or is classified as held-for-
+sale.
+A sale by a diversified
+company of a major
+division representing
+its only activities in
+the electronics
+Report gains or losses
+on discontinued
+operations net of tax
+in a separate section
+between income from
+
+industry.
+Food distributor that
+sells wholesale to
+supermarkets decides
+to discontinue the
+division in a major
+geographic area.
+continuing operations
+and net income.
+Non-
+controlling
+interest
+Allocation of net income or
+loss divided between two
+classes: (1) the majority
+interest represented by the
+shareholders who own the
+controlling interest, and (2)
+the non-controlling interest.
+Net income (loss)
+attributable to non-
+controlling
+shareholders.
+Report as a separate
+item below net
+income or loss as an
+allocation of the net
+income or loss (not as
+an item of income or
+expense).
+ILLUSTRATION 4.16 Summary of Various Income Items
+Accounting Changes and Errors
+LEARNING OBJECTIVE 4
+Explain the reporting of accounting changes and errors.
+Changes in Accounting Principle
+Changes in accounting occur frequently in practice because important events or conditions
+may be in dispute or uncertain at the statement date. One type of accounting change results
+when a company adopts a different accounting principle. Changes in accounting
+principle include a change in the method of inventory pricing from FIFO to average-cost,
+or the change from an existing accounting principle to a new accounting principle (see
+Underlying Concepts).14[6]
+Underlying Concepts
+Companies can change principles, but they must demonstrate that the newly adopted
+principle is preferable to the old one. Such changes result in lost consistency from
+period to period.
+A company recognizes a change in accounting principle by making a retrospective
+adjustment to the financial statements. Such an adjustment recasts the prior years’
+statements so that they are consistent with the newly adopted principle. The company
+records the cumulative effect of the change for prior periods as an adjustment to beginning
+retained earnings of the earliest year presented.
+To illustrate, Gaubert Inc. (which began operations in 2020) decided in March 2022 to
+change from FIFO to weighted-average inventory pricing. Gaubert’s income before income
+tax, using the new weighted-average method in 2022, is $30,000. Illustration 4.17
+presents the pretax income data for 2020 and 2021 for this example.
+
+Year
+FIFO
+Weighted-Average Method Excess of FIFO over Weighted-Average Method
+Total  
+ 
+ILLUSTRATION 4.17 Calculation of a Change in Accounting Principle
+Illustration 4.18 shows the information Gaubert presented in its comparative income
+statements, based on a 30 percent tax rate.
+ 
+Income before income tax $30,000 $27,000 $35,000
+Income tax
+Net income
+ILLUSTRATION 4.18 Income Statement Presentation of a Change in
+Accounting Principle
+Thus, under the retrospective approach, the company recasts the prior years’ income
+numbers under the newly adopted method. This approach therefore preserves comparability
+across years.
+Changes in Accounting Estimates
+Changes in accounting estimates are inherent in the accounting process. For example,
+companies estimate useful lives and residual values of depreciable assets, uncollectible
+receivables, inventory obsolescence, and the number of periods expected to benefit from a
+particular expenditure. Not infrequently, due to the passage of time, circumstances, or new
+information, even estimates originally made in good faith must be changed. A company
+accounts for such changes prospectively, which means in the period of change if they
+affect only that period, or in the period of change and future periods if the change affects
+both.
+To illustrate a change in estimate that affects only the period of change, assume that DuPage
+Materials AG consistently estimated its bad debt expense at 1 percent of accounts receivable.
+In 2022, however, DuPage determines that it must revise upward the estimate of bad debts
+for the current year’s credit sales to 2 percent, or double the prior years’ percentage. The 2
+percent rate is necessary to reduce accounts receivable to net realizable value. Using 2
+percent results in a bad debt charge of CHF240,000, or double the amount using the 1
+percent estimate for prior years. DuPage records the bad debt expense and related allowance
+at December 31, 2022, as follows.
+Bad Debt Expense
+Allowance for Doubtful Accounts  
+DuPage includes the entire change in estimate in 2022 income because the effect of the
+change does not affect future periods. Companies do not handle changes in estimate
+retrospectively. That is, such changes are not carried back to adjust prior years. (We
+examine changes in estimate that affect both the current and future periods in greater detail
+in Chapter 22.) Changes in estimate are not considered errors.
+
+Corrections of Errors
+Errors occur as a result of mathematical mistakes, mistakes in the application of accounting
+principles, or oversight or misuse of facts that existed at the time financial statements were
+prepared. In recent years, many companies have corrected for errors in their financial
+statements. The errors involved such items as improper reporting of revenue, accounting for
+share options, allowances for receivables, inventories, and other provisions.
+Companies correct errors by making proper entries in the accounts and reporting the
+corrections in the financial statements. Corrections of errors are treated as prior period
+adjustments, similar to changes in accounting principles. Companies record a correction of
+an error in the year in which it is discovered. They report the error in the financial
+statements as an adjustment to the beginning balance of retained earnings. If a company
+prepares comparative financial statements, it should restate the prior statements for the
+effects of the error.
+To illustrate, in 2022, Tsang Ltd. determined that it incorrectly overstated its accounts
+receivable and sales revenue by NT$100,000 in 2021. In 2022, Tsang makes the following
+entry to correct for this error (ignore income taxes).
+Retained Earnings
+Accounts Receivable  
+Retained Earnings is debited because sales revenue, and therefore net income, was
+overstated in a prior period. Accounts Receivable is credited to reduce this overstated
+balance to the correct amount.
+Summary
+The impact of changes in accounting principle and error corrections are debited or credited
+directly to retained earnings, if related to a prior period. Illustration 4.19 summarizes the
+basic concepts related to these two items, as well as the accounting and reporting for
+changes in estimates. Although simplified, the chart provides a useful framework for
+determining the treatment of special items affecting the income statement.
+
+Type of
+Situation
+Criteria
+Examples
+Placement on
+Income Statement
+Changes in
+accounting
+principle
+Change from
+one generally
+accepted
+accounting
+principle to
+another.
+Change in the basis of inventory pricing
+from FIFO to average-cost.
+Recast prior years’
+income statements
+on the same basis as
+the newly adopted
+principle.
+Changes in
+accounting
+estimates
+Normal,
+recurring
+corrections
+and
+adjustments.
+Changes in the realizability of receivables
+and inventories; changes in estimated
+lives of equipment, intangible assets;
+changes in estimated liability for warranty
+costs, income taxes, and salary payments.
+Show change only in
+the affected accounts
+(not shown net of
+tax) and disclose the
+nature of the change.
+Corrections
+of errors
+Mistake,
+misuse of
+facts.
+Error in reporting income and expense.
+Restate prior years’
+income statements
+to correct for error.
+ILLUSTRATION 4.19 Summary of Accounting Changes and Errors
+Related Equity Statements
+LEARNING OBJECTIVE 5
+Describe related equity statements.
+Retained Earnings Statement
+Net income increases retained earnings. A net loss decreases retained earnings. Both cash
+and share dividends decrease retained earnings. Changes in accounting principle (generally)
+and prior period adjustments may increase or decrease retained earnings. Companies charge
+or credit these adjustments (net of tax) to the opening balance of retained earnings.
+Companies may show retained earnings information in different ways. For example, some
+companies prepare a separate retained earnings statement, as Illustration 4.20 shows.
+
+Choi Ltd.
+Retained Earnings Statement
+For the Year Ended December 31, 2022
+Retained earnings, January 1, as reported
+ 
+₩1,050,000
+Correction for understatement of net income in prior period
+(inventory error)
+ 
+Retained earnings, January 1, as adjusted
+ 
+Add: Net income
+ 
+ 
+ 
+Less: Cash dividends
+₩100,000  
+Share dividends
+Retained earnings, December 31
+ 
+₩1,160,000
+ILLUSTRATION 4.20 Retained Earnings Statement
+The reconciliation of the beginning to the ending balance in retained earnings provides
+information about why net assets increased or decreased during the year. The association of
+dividend distributions with net income for the period indicates what management is doing
+with earnings: It may be “plowing back” into the business part or all of the earnings,
+distributing all current income, or distributing current income plus the accumulated
+earnings of prior years.
+Restrictions of Retained Earnings
+Companies often restrict retained earnings to comply with contractual requirements, board
+of directors’ policy, or current necessity. Generally, companies disclose in the notes to the
+financial statements the amounts of restricted retained earnings. In some cases, companies
+transfer the amount of retained earnings restricted to an account titled Appropriated
+Retained Earnings. The retained earnings section may therefore report two separate
+amounts: (1) retained earnings free (unrestricted) and (2) retained earnings appropriated
+(restricted). The total of these two amounts equals the total retained earnings.
+Comprehensive Income Statement
+Companies generally include in income all revenues, expenses, and gains and losses
+recognized during the period. These items are classified within the income statement so that
+financial statement readers can better understand the significance of various components of
+net income. Changes in accounting principle and corrections of errors are excluded from the
+calculation of net income because their effects relate to prior periods.
+In recent years, use of fair values for measuring assets and liabilities has increased.
+Furthermore, possible reporting of gains and losses related to changes in fair value has
+placed a strain on income reporting. Because fair values are continually changing, some
+argue that recognizing these gains and losses in net income is misleading. The IASB agrees
+and has identified a limited number of transactions that should be recorded directly to
+equity. One example is unrealized gains and losses on non-trading equity securities.15 These
+gains and losses are excluded from net income, thereby reducing volatility in net income due
+
+to fluctuations in fair value. At the same time, disclosure of the potential gain or loss is
+provided.
+Companies include these items that bypass the income statement in a measure called
+comprehensive income. Comprehensive income includes all changes in equity during a
+period except those resulting from investments by owners and distributions to owners.
+Comprehensive income, therefore, includes the following: all revenues and gains, expenses
+and losses reported in net income, and all gains and losses that bypass net income but affect
+equity. These items—non-owner changes in equity that bypass the income statement—are
+referred to as other comprehensive income.
+Companies must display the components of other comprehensive income in one of two
+ways: (1) a single continuous statement (one statement approach) or (2) two separate
+but consecutive statements of net income and other comprehensive income (two
+statement approach). The one statement approach is often referred to as the statement of
+comprehensive income. The two statement approach uses the traditional term income
+statement for the first statement and the comprehensive income statement for the second
+statement.
+Under either approach, companies display each component of net income and each
+component of other comprehensive income. In addition, net income and comprehensive
+income are reported. Companies are not required to report earnings per share information
+related to comprehensive income.16
+We illustrate these two alternatives in the next two sections. In each case, assume that Gill
+SpA reports the following information for 2022: sales revenue €800,000, cost of goods sold
+€600,000, operating expenses €90,000, and an unrealized holding gain on non-trading
+equity securities of €30,000, net of tax.
+One Statement Approach
+In this approach, the traditional net income is a subtotal, with total comprehensive income
+shown as a final total. The combined statement has the advantage of not requiring the
+creation of a new financial statement. However, burying net income as a subtotal on the
+statement is a disadvantage. Illustration 4.21 shows the one statement format for Gill
+SpA.
+
+Gill SpA
+Statement of Comprehensive Income
+For the Year Ended December 31, 2022
+Sales revenue
+Cost of goods sold
+Gross profit
+Operating expenses
+Net income
+Other comprehensive income
+ 
+Unrealized holding gain on nontrading equity securities, net of tax
+Comprehensive income
+ILLUSTRATION 4.21 One Statement Format: Comprehensive Income
+Two Statement Approach
+Illustration 4.22 shows the two statement format for Gill. Reporting comprehensive
+income in a separate statement indicates that the gains and losses identified as other
+comprehensive income have the same status as traditional gains and losses.
+Gill SpA
+Income Statement
+For the Year Ended December 31, 2022
+Sales revenue
+Cost of goods sold
+Gross profit
+Operating expenses
+Net income
+Gill SpA
+Comprehensive Income Statement
+For the Year Ended December 31, 2022
+Net income
+Other comprehensive income
+ 
+Unrealized holding gain, net of tax
+Comprehensive income
+ILLUSTRATION 4.22 Two Statement Format: Comprehensive Income
+Statement of Changes in Equity
+In addition to a statement of comprehensive income, companies are also required to present
+a statement of changes in equity. Equity is generally comprised of share capital—
+ordinary, share premium—ordinary, retained earnings, and the accumulated balances in
+other comprehensive income. The statement reports the change in each equity account and
+in total equity for the period. The following items are disclosed in this statement.
+
+1. Accumulated other comprehensive income for the period.
+2. Contributions (issuances of shares) and distributions (dividends) to owners.
+3. Reconciliation of the carrying amount of each component of equity from the beginning
+to the end of the period.
+Companies often prepare the statement of changes in equity in column form. In this format,
+they use columns for each account and for total equity.
+To illustrate, assume the same information for Gill SpA as shown in Illustration 4.22. The
+company had the following equity account balances at the beginning of 2022: Share Capital
+—Ordinary €300,000, Retained Earnings €50,000, and Accumulated Other Comprehensive
+Income €60,000, related to unrealized gains on non-trading equity securities. No changes in
+the Share Capital—Ordinary account occurred during the year. Cash dividends during the
+period were €10,000. Illustration 4.23 shows a statement of changes in equity for Gill.
+Total comprehensive income is comprised of net income of €110,000 added to retained
+earnings and €30,000 related to the unrealized gain. Separate columns are used to report
+each additional item of other comprehensive income.17 Thus, this statement is useful for
+understanding how equity changed during the period.
+Gill SpA
+Statement of Changes in Equity
+For the Year Ended December 31, 2022
+ 
+Total
+Retained
+Earnings
+Accumulated Other
+Comprehensive
+Income
+Share
+Capital—
+Ordinary
+Beginning balance
+Net income
+ 
+Dividends
+ 
+Other comprehensive income
+ 
+ 
+ 
+ 
+Unrealized holding gain on non-
+trading equity securities, net of tax
+ 
+ 
+Ending balance
+ILLUSTRATION 4.23 Statement of Changes in Equity
+Regardless of the display format used, Gill reports the accumulated other
+comprehensive income of €90,000 in the equity section of the statement of financial
+position as shown in Illustration 4.24.18
+
+Gill SpA
+Statement of Financial Position
+As of December 31, 2022
+(Equity Section)
+Equity
+ 
+Share capital—ordinary
+Retained earnings
+Accumulated other comprehensive income
+Total equity
+ILLUSTRATION 4.24 Presentation of Accumulated Other Comprehensive
+Income in the Statement of Financial Position
+By providing information on the components of comprehensive income, as well as
+accumulated other comprehensive income, the company communicates information about
+all changes in net assets.19 With this information, users will better understand the quality of
+the company’s earnings.
+Review and Practice
+Key Terms Review
+accumulated other comprehensive income
+Appropriated Retained Earnings
+capital maintenance approach
+changes in accounting estimates
+changes in accounting principle
+comprehensive income
+discontinued operation
+earnings management
+earnings per share
+function-of-expense method
+income statement
+intraperiod tax allocation
+nature-of-expense method
+non-controlling interest
+other comprehensive income
+other income and expense
+prior period adjustments
+quality of earnings
+
+statement of comprehensive income (comprehensive income statement)
+statement of changes in equity
+transaction approach
+Learning Objectives Review
+1 Identify the uses and limitations of an income statement.
+The income statement provides investors and creditors with information that helps them
+predict the amounts, timing, and uncertainty of future cash flows. Also, the income
+statement helps users determine the risk (level of uncertainty) of not achieving particular
+cash flows. The limitations of an income statement are as follows. (1) The statement does
+not include many items that contribute to general growth and well-being of a company. (2)
+Income numbers are often affected by the accounting methods used. (3) Income measures
+are subject to estimates.
+2 Describe the content and format of the income statement.
+Net income results from revenue, expense, gain, and loss transactions. This method of
+income measurement, the transaction approach, focuses on the income-related activities
+that have occurred during a given period. Instead of presenting only a net change in net
+assets, it discloses the components of the change.
+The following sections are generally shown on an income statement: sales or revenue, cost
+of goods sold, selling expense, administrative or general expense, financing costs, and
+income tax. If present, a company also reports discontinued operations (net of tax). Earnings
+per share is reported, and an allocation of net income or loss to the non-controlling interest
+is also presented, where applicable. Companies determine net income by deducting expenses
+from revenues but also classify various revenues and expenses in order to report useful
+subtotals within the income statement. These subtotals are gross profit, income from
+operations, income before income tax, and a final total, net income.
+3 Discuss how to report various income items.
+Companies generally provide some detail on revenues and expenses on the face of the
+income statement but may prepare a condensed income statement with details on various
+components presented in the notes to the financial statements. Companies are required to
+classify expense either by nature or by function. Unusual and non-recurring items should be
+reported in income from operations, but financing costs are reported separate from
+operating revenues and expenses. Companies report the effects of discontinued operations
+of a component of a business as a separate item, after income from continuing operations.
+Companies should relate the tax expense for the year to specific items on the income
+statement to provide a more informative disclosure to statement users. This procedure,
+intraperiod tax allocation, relates the income tax expense for the fiscal period to the
+following items that affect the amount of the tax provisions: (1) income from continuing
+operations and (2) discontinued operations.
+
+Companies must disclose earnings per share on the face of the income statement. A
+company that reports a discontinued operation must report per share amounts for these line
+items either on the face of the income statement or in the notes to the financial statements.
+4 Explain the reporting of accounting changes and errors.
+Changes in accounting principle and corrections of errors are adjusted through retained
+earnings following a retrospective approach. Changes in accounting estimates are a normal
+part of the accounting process. The effects of these changes are handled prospectively, with
+the effects recorded in income in the period of change and in future periods without
+adjustment to retained earnings.
+5 Describe related equity statements.
+The retained earnings statement should disclose net income (loss), dividends, adjustments
+due to changes in accounting principles, error corrections, and restrictions of retained
+earnings.
+Companies report the components of other comprehensive income in one of two ways: (1) a
+combined statement of comprehensive income (one statement format) or (2) in a second
+statement (two statement format).
+Companies also present a statement of changes in equity. This statement reports the change
+in each equity account and in total equity for the period.
+Enhanced Review and Practice
+Go online for multiple-choice questions with solutions, review exercises with solutions,
+and a full glossary of all key terms.
+Practice Problem
+Presented below are income statement items from Braun Company for the year ended
+December 31, 2022.
+Sales revenue
+Cost of goods sold
+Interest revenue
+Loss from abandonment of plant assets
+Gain from extinguishment of debt
+Selling and administrative expenses
+Effect of change in estimated useful lives of fixed assets
+Loss from earthquake
+Gain on disposal of discontinued operation
+Instructions
+
+a. Using the information above, prepare an income statement. Assume a tax rate of 30%
+and 100,000 ordinary shares outstanding during 2022.
+b. Compute comprehensive income for Braun in 2022, assuming Braun had an
+unrealized holding loss on non-trading equity securities of $12,000, net of tax.
+Solution
+a. 
+Braun Company
+Income Statement
+For the Year Ended December 31, 2022
+Sales revenue
+ 
+Cost of goods sold
+ 
+Gross profit
+ 
+Selling and administrative expenses
+ 
+ 
+ 
+Other income and expense
+ 
+ 
+Interest revenue
+Gain on debt extinguishment
+Loss from plant abandonment
+Loss from earthquake
+Income from operations
+ 
+Income tax (30%)
+ 
+Income from continuing operations
+ 
+Discontinued operations
+ 
+ 
+Gain on disposal of discontinued operation
+Less: Applicable income tax (30%)
+Net income
+ 
+$
+Per ordinary share
+ 
+ 
+Income from continuing operations
+ 
+$
+Discontinued operations
+ 
+Net income
+ 
+$
+b. 
+Net income
+Unrealized holding loss on non-trading
+equity securities, net of tax
+ 
+Comprehensive income
+ 
+
+Exercises, Problems, Problem Solution Walkthrough Videos, Data Analytics Activities,
+and many more assessment tools and resources are available for practice in Wiley’s
+online courseware.
+Questions
+1. What kinds of questions about future cash flows do investors and creditors attempt to
+answer with information in the income statement?
+2. How can information based on past transactions be used to predict future cash flows?
+3. Identify at least two situations in which important changes in value are not reported in
+the income statement.
+4. Identify at least two situations in which application of different accounting methods or
+accounting estimates results in difficulties in comparing companies.
+5. Explain the transaction approach to measuring income. Why is the transaction approach
+to income measurement preferable to other ways of measuring income?
+6. What is earnings management?
+7. How can earnings management affect the quality of earnings?
+8. Why should caution be exercised in the use of the net income figure derived in an income
+statement? What are the objectives of IFRS in its application to the income statement?
+9. An article in the financial press noted that MicroStrategy (USA) reported higher income
+than its competitors by using a more aggressive policy for recognizing revenue on future
+upgrades to its products. Some contend that MicroStrategy’s quality of earnings is low. What
+does the term “quality of earnings” mean?
+10. What is the major distinction between income and expenses under IFRS?
+11. Do the elements of financial statements, income and expense, include gains and losses?
+Explain.
+12. What are the sections of the income statement that comprise (1) gross profit and (2)
+income from operations?
+13. Ahold Delhaize (NLD/BEL), in its consolidated income statement, reported a
+“settlement of securities class action” €803 million loss. In what section of the income
+statement is this amount reported?
+14. Explain where the following items are reported on the income statement: (1) interest
+expense and (2) income tax.
+15. Explain the difference between the “nature-of-expense” and “function-of-expense”
+classifications.
+16. Discuss the appropriate treatment in the income statement for the following items:
+a. Loss on discontinued operations.
+b. Non-controlling interest allocation.
+c. Earnings per share.
+
+d. Gain on sale of equipment.
+17. Discuss the appropriate treatment in the financial statements of each of the following.
+a. Write-down of plant assets due to impairment.
+b. A delivery expense on goods sold.
+c. Additional depreciation on factory machinery because of an error in computing
+depreciation for the previous year.
+d. Rent received from subletting a portion of the office space.
+e. A patent infringement suit, brought 2 years ago against the company, was settled this
+year by a cash payment of NT$725,000.
+f. A reduction in the Allowance for Doubtful Accounts balance, because the account
+appears to be considerably in excess of the probable loss from uncollectible receivables.
+18. Indicate where the following items would ordinarily appear on the financial statements
+of Boleyn, plc for the year 2022.
+a. The service life of certain equipment was changed from 8 to 5 years. If a 5-year life had
+been used previously, additional depreciation of £425,000 would have been charged.
+b. In 2022, a flood destroyed a warehouse that had a book value of £1,600,000.
+c. In 2022, the company wrote off £1,000,000 of inventory that was considered obsolete.
+d. Interest expense for the year was £45,000.
+e. In 2019, a supply warehouse with an expected useful life of 7 years was erroneously
+expensed.
+f. Boleyn, plc changed from weighted-average to FIFO inventory pricing.
+19. Indicate the section of an income statement in which each of the following is shown.
+a. Loss on inventory write-down.
+b. Loss from strike.
+c. Bad debt expense.
+d. Loss on disposal of a discontinued business.
+e. Gain on sale of machinery.
+f. Interest expense.
+g. Depreciation expense.
+h. Interest revenue.
+20. Santo SA has eight expense accounts in its general ledger which could be classified as
+selling expenses. Should Santo report these eight expenses separately in its income
+statement or simply report one total amount for selling expenses? Explain.
+21. Cooper Investments reported an unusual gain from the sale of certain assets in its 2022
+income statement. How does intraperiod tax allocation affect the reporting of this unusual
+
+gain?
+22. What effect does intraperiod tax allocation have on reported net income?
+23. Neumann Company computed earnings per share as follows.
+Neumann has a simple capital structure. What possible errors might the company have
+made in the computation? Explain.
+24. How should a loss on the disposal of a discontinued business be disclosed in the income
+statement?
+25. Qualls SE reported 2021 earnings per share of €7.21. In 2022, Qualls reported earnings
+per share as follows.
+On income from continuing operations €8.00
+On loss on discontinued operations
+On net income
+Is the decrease in earnings per share from €7.21 to €7.12 a negative trend? Explain.
+26. What is meant by “tax allocation within a period”? What is the justification for such a
+practice?
+27. When does tax allocation within a period become necessary? How should this allocation
+be handled?
+28. Linus Paper Company decided to close two small pulp mills in Conway, New
+Hampshire, and Corvallis, Oregon. Would these closings be reported in a separate section
+entitled “Discontinued operations after income from continuing operations”? Discuss.
+29. How should corrections of errors be reported in the financial statements?
+30. Explain how a change in accounting principle affects the current year’s net income.
+31. What major types of items are reported in the retained earnings statement?
+32. IFRS usually requires the use of accrual accounting to “fairly present” income. If the
+cash receipts and disbursements method of accounting will “clearly reflect” taxable income,
+why does this method also not usually “fairly present” income?
+33. What are two ways that other comprehensive income may be displayed (reported)?
+34. Gribble AG reported the following amounts in 2022: Net income, €150,000; Unrealized
+gain related to revaluation of buildings, €10,000, net of tax; Unrealized loss related to non-
+trading equity securities, €(35,000), net of tax. Determine Gribble’s total comprehensive
+income for 2022.
+Brief Exercises
+LEARNING OBJECTIVE 6
+Compare the income statement under IFRS and U.S. GAAP.
+Standards issued by the FASB (U.S. GAAP) are the primary global alternative to IFRS. As in
+IFRS, the income statement is a required statement for U.S. GAAP. In addition, the content
+and presentation of the U.S. GAAP income statement are similar to those used for IFRS. A
+number of U.S. GAAP standards have been issued that provide guidance on issues related to
+income statement presentation.
+Relevant Facts
+Following are the key similarities and differences between U.S. GAAP and IFRS related to
+the income statement.
+Similarities
+Both U.S. GAAP and IFRS require companies to indicate the amount of net income
+attributable to non-controlling interest.
+Both U.S. GAAP and IFRS follow the same presentation guidelines for discontinued
+operations, but IFRS defines a discontinued operation more narrowly. Both standard-
+
+setters have indicated a willingness to develop a similar definition to be used in the
+joint project on financial statement presentation.
+Both U.S. GAAP and IFRS have items that are recognized in equity as part of other
+comprehensive income but do not affect net income. Both U.S. GAAP and IFRS allow a
+one statement or two statement approach to preparing the statement of comprehensive
+income.
+Differences
+Presentation of the income statement under U.S. GAAP follows either a single-step or
+multiple-step format. IFRS does not mention a single-step or multiple-step approach.
+The U.S. SEC requires companies to have a functional presentation of expenses. Under
+IFRS, companies must classify expenses by either nature or function. U.S. GAAP does
+not have that requirement.
+U.S. GAAP has no minimum information requirements for the income statement.
+However, the U.S. SEC rules have more rigorous presentation requirements. IFRS
+identifies certain minimum items that should be presented on the income statement.
+U.S. SEC regulations define many key measures and provide requirements and
+limitations on companies reporting non-U.S. GAAP information. IFRS does not define
+key measures like income from operations.
+U.S. GAAP does not permit revaluation accounting. Under IFRS, revaluation of property,
+plant, and equipment, and intangible assets is permitted and is reported as other
+comprehensive income. The effect of this difference is that application of IFRS results
+in more transactions affecting equity but not net income.
+About the Numbers
+The terminology used in the IFRS literature is sometimes different than what is used in U.S.
+GAAP. For example, here are some of the differences related to this chapter.
+IFRS
+U.S. GAAP
+Equity or shareholders’
+equity
+Shareholders’ equity or stockholders’ equity
+Share capital—ordinary
+Common stock
+Share capital—preference
+Preferred stock
+Ordinary shares
+Common shares
+Preference shares
+Preferred shares
+Share premium—ordinary
+Premium on common stock or Paid-in capital in excess of par—
+common
+Share premium—
+preference
+Premium on preferred stock or Paid-in capital in excess of par—
+preferred
+Reserves
+Retained earnings and accumulated other comprehensive
+income
+Statement of financial
+position
+Balance sheet or Statement of financial position
+
+Profit or loss
+Net income or Net loss
+On the Horizon
+At one time, the IASB and the FASB worked on a project to converge their standards related
+to financial statement presentation, including the income statement. A key feature of that
+project was that each of the statements would be organized in the same format, to separate
+an entity’s financing activities from its operating and investing activities, and to separate
+financing activities into transactions with owners and creditors. Thus, the same
+classifications used in the income statement could be used in the statement of cash flows
+and the statement of financial position. That original convergence project has been on hold,
+and both Boards are now focusing on performance reporting (the income statement). The
+Boards expect to issue similar new guidelines for reporting in the income statement,
+involving additional income subtotals and increased disaggregation—referred to as
+additional “rows and columns”—to provide more useful information in the income
+statement. Go to the IASB and FASB websites and search performance reporting for more
+information.
+GAAP Self-Test Questions
+1. Which of the following is required to be reported in an income statement under U.S.
+GAAP but not under IFRS?
+a. Discontinued operations.
+b. Income from operations.
+c. Cost of goods sold.
+d. Income tax.
+2. Which of the following statements is correct regarding income reporting under IFRS
+compared to U.S. GAAP?
+a. IFRS does not permit revaluation of property, plant, and equipment, and intangible
+assets.
+b. IFRS provides the same options for reporting comprehensive income as U.S. GAAP.
+c. Companies must classify expenses by nature.
+d. IFRS provides a definition for all items presented in the income statement.
+3. Under U.S. GAAP:
+a. companies must report comprehensive income in a single statement.
+b. companies must report comprehensive income using a two statement approach.
+c. companies must report income using a multiple step format.
+d. companies can report comprehensive income using either a one statement or two
+statement approach.
+4. The non-controlling interest section of the income statement is:
+
+a. required under U.S. GAAP but not under IFRS.
+b. required under IFRS but not under U.S. GAAP.
+c. required under IFRS and U.S. GAAP.
+d. not reported under U.S. GAAP or IFRS.
+5. Common terminology under U.S. GAAP includes all of the following except:
+a. common stock.
+b. retained earnings.
+c. net income/loss.
+d. reserves.
+GAAP Concepts and Application
+GAAP 4.1 What are U.S. GAAP’s requirements with respect to expense classification?
+GAAP 4.2 Bradshaw Company experienced a loss that was deemed to be both unusual in
+nature and infrequent in occurrence. How should Bradshaw report this item in accordance
+with U.S. GAAP?
+GAAP 4.3 Explain the U.S. GAAP reporting guidelines for items recognized in
+comprehensive income that do not affect net income.
+GAAP 4.4 Presented below is the income statement for Campbell Soup Company
+(USA). Campbell prepares its financial statements in accordance with U.S. GAAP.
+ 
+Net sales
+Costs and expenses
+ 
+ 
+ 
+Cost of products sold
+Marketing and selling expenses
+Administrative expenses
+Research and development expenses
+Other expenses (income)
+Restructuring charges
+Total costs and expenses
+Earnings before interest and taxes
+Interest expense
+Interest income
+—
+Earnings before taxes
+Taxes on earnings
+Earnings from continuing operations
+Loss from discontinued operations
+Net earnings
+
+Less: Net earnings (loss) attributable to noncontrolling interests
+—
+—
+—
+Net earnings attributable to Campbell Soup Company
+Per Share—Basic
+ 
+ 
+ 
+Earnings from continuing operations attributable to Campbell
+Soup Company
+Loss from discontinued operations
+Net earnings attributable to Campbell Soup Company
+Weighted average shares outstanding—basic
+Per Share—Assuming Dilution
+ 
+ 
+ 
+Earnings from continuing operations attributable to Campbell
+Soup Company
+Loss from discontinued operations
+Net earnings attributable to Campbell Soup Company
+Weighted average shares outstanding—assuming dilution
+Instructions
+a. Review the Campbell income statement and identify similarities and differences
+between the U.S. GAAP income statement and an income statement of an IFRS
+company as presented in the chapter.
+b. Identify non-recurring items reported by Campbell, if any. Is the reporting of these non-
+recurring items in the income statement under U.S. GAAP similar to reporting of these
+items in IFRS companies’ income statements? Explain.
+Answers to GAAP Self-Test Questions
+1. b 2. b 3. d 4. c 5. d
+Notes
+1 We will use the term income statement except in situations where a company reports other
+comprehensive income (discussed later in the chapter). In that case, we will use the term
+statement of comprehensive income or comprehensive income statement. Also,
+note that IFRS uses other names to refer to the income statement, including the
+statement of profit or loss, and the statement of financial performance.
+2 In support of the usefulness of income information, accounting researchers have
+documented an association between the market prices of companies and reported
+income. See W. H. Beaver, “Perspectives on Recent Capital Markets Research,” The
+Accounting Review (April 2002), pp. 453–474.
+3 A. Levitt, “The Numbers Game.” Remarks to NYU Center for Law and Business, September
+28, 1998 (Securities and Exchange Commission, 1998). A recent study indicates that
+earnings management is pervasive across U.S., European, and Asian companies, whether
+they use U.S. GAAP or IFRS. See M. Evans, R. Houston, M. Peters, and J. Pratt,
+“Reporting Regulatory Environments and Earnings Management: U.S. and Non-U.S.
+
+Firms Using U.S. GAAP or IFRS,” The Accounting Review (September 2015), pp. 1969–
+4 The most common alternative to the transaction approach is the capital maintenance
+approach to income measurement. Under this approach, a company determines income
+for the period based on the change in equity, after adjusting for capital contributions (e.g.,
+investments by owners) or distributions (e.g., dividends). The main drawback associated
+with the capital maintenance approach is that the components of income are not evident
+in its measurement. Various tax authorities use the capital maintenance approach to
+identify unreported income and refer to this approach as the “net worth check.”
+5 The IASB takes the position that income includes both revenues and gains because they
+both reflect increases in economic benefits. Similarly, expenses include both expenses
+and losses because they both reflect decreases in economic benefits.
+6 If a company prepares a statement of comprehensive income, then disclosure is required
+for (1) other comprehensive income classified by nature, (2) comprehensive income of
+associates and joint ventures, and (3) total comprehensive income. The statement of
+comprehensive income is discussed in more detail later in the chapter.
+7 Manufacturing companies that follow the nature-of-expense method generally report
+direct labor, raw materials used, and changes in inventory related to work-in-process and
+finished goods. The overhead items are listed as basic expenses. If the function-of-
+expense method is used, depreciation expense, amortization expense, and labor costs
+must also be disclosed because this information is considered useful for predicting future
+cash flows.
+8 Accounting Trends and Techniques (New York: AICPA) and IFRS Accounting Trends and
+Techniques (New York: AICPA).
+9 As indicated in the opening story, the IASB is working on a project on financial statement
+presentation, on how to best report income as well as information presented in the
+statement of financial position and the statement of cash flows.
+10 D. McDermott, “Latest Profit Data Stir Old Debate Between Net and Operating Income,”
+Wall Street Journal (May 3, 1999); and T. Shumsky, “IASB Chair Rings Alarm Over Use of
+Non-GAAP Measures,” Wall Street Journal (May 11, 2016).
+11 In calculating earnings per share, companies deduct preference dividends from net
+income if the dividends are declared or if they are cumulative, though not declared. In
+addition, any amount allocated to the non-controlling interest should be deducted from
+net income in determining earnings per share.
+12 We discuss the computational problems involved in accounting for these dilutive
+securities in earnings per share computations in Chapter 16.
+13 In practice, companies are required to report only one line on the income statement, such
+as “Loss on discontinued operations,” and then in the notes explain the two loss
+components that total £800,000. For homework purposes, report both amounts on the
+face of the income statement, net of tax, if both amounts are provided.
+
+14 Formally, an entity changes an accounting principle when the change is required by IFRS
+or the change results in the financial statements providing a more reliable and faithfully
+representative depiction of the effect of transactions or events. IAS 8 refers to this as a
+change in accounting policy. In Chapter 22, we examine in greater detail the problems
+related to accounting changes, and changes in estimates (discussed in the next section).
+15 We further discuss non-trading equity securities in Chapter 17. Additional examples of
+other comprehensive items are translation gains and losses on foreign currency,
+unrealized gains and losses on certain hedging transactions (Chapter 17 Appendix),
+actuarial gains and losses in certain situations (Chapter 20), and changes in revaluation
+surplus (Chapters 11 and 12).
+16 A company must display the components of other comprehensive income either (1) net of
+related tax effects, or (2) before related tax effects, with one amount shown for the
+aggregate amount of tax related to the total amount of other comprehensive income. Both
+alternatives must show each component of other comprehensive income, net of related
+taxes, either on the face of the statement or in the notes. [7]
+17 The other comprehensive income section shall present line items for amounts of other
+comprehensive income, grouped into those that, in accordance with other IFRSs, (a) will
+not be reclassified subsequently to profit or loss, and (b) will be reclassified subsequently
+to profit or loss when specific conditions are met. If a company has non-controlling
+interest, an additional column would be added to report changes in non-controlling
+interest amounts. [8]
+18 Many companies use the term Reserve to include all items in equity except for
+contributed capital. Contributed capital is comprised of Share Capital (ordinary and
+preference) and Share Premium (ordinary and preference). Rather than the term Reserve,
+we use Retained Earnings and Accumulated Other Comprehensive Income because these
+concepts are more descriptive of the items in the equity section.
+19 Corrections of errors and changes in accounting principle are not considered other
+comprehensive income items.
+Sources: H. Hoogervorst, “The Imprecise World of Accounting,” Speech to the International Association for Accounting
+Education and Research (June 20, 2012); and N. Trentmann, “IASB Plans Overhaul of Financial Definitions,” Wall
+Street Journal (November 2, 2016); and “Primary Financial Statements: Project Overview” (IASB: September 2018).

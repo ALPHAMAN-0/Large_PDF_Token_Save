@@ -1,0 +1,1743 @@
+CHAPTER 22
+Accounting Changes and Error Analysis
+LEARNING OBJECTIVES
+After studying this chapter, you should be able to:
+1. Discuss the types of accounting changes and the accounting for changes in accounting
+policies.
+2. Describe the accounting and reporting for changes in estimates.
+3. Describe the accounting for correction of errors.
+4. Analyze the effect of errors.
+This chapter also includes numerous conceptual discussions that are integral to
+the topics presented here.
+PREVIEW OF CHAPTER 22
+As the following opening story indicates, changes in accounting policies and errors in
+financial information are significant. When these changes occur, companies must follow
+specific accounting and reporting requirements. To ensure comparability among
+companies, the IASB has standardized reporting of accounting changes, changes in
+accounting estimates, error corrections, and related earnings per share information. In this
+chapter, we discuss these reporting standards, which help investors better understand a
+company’s financial condition. The content and organization of the chapter are as follows.
+Needed: Valid Comparisons
+The IASB’s Conceptual Framework describes comparability (including consistency) as one of the
+qualitative characteristics that contribute to the usefulness of accounting information.
+Unfortunately, companies are finding it difficult to maintain comparability and consistency due
+to the numerous changes in accounting policies mandated by the IASB.
+Presented below is a condensed version of the change in accounting policy note of United
+Business Media (UBM) (IRL) in a recent annual report.
+
+New and amended IFRSs (in part)
+The following new and amended IFRSs may have an impact on the Group’s consolidated
+financial statements:
+IFRS 9 Financial Instruments—Financial assets will be measured at amortised cost or
+fair value. Liabilities will be measured in accordance with the existing requirements of IAS
+39, but the portion of the change in fair value of a liability arising from changes in the
+entity’s own credit risk will be presented in other comprehensive income, rather than in the
+income statement.
+IFRS 15 Revenue Recognition and IFRS 15 (amendment)—IFRS 15 applies to all
+contracts with customers excluding those covered by other IFRSs such as lease contracts,
+insurance contracts, and financial instruments. Core principle of the standard: Recognise
+revenue to depict the transfer of goods or services to customers in an amount that reflects
+the consideration to which the entity expects to be entitled in exchange for those goods or
+services.
+IFRS 16 Leases—IFRS 16 specifies how an IFRS reporter will recognise, measure, present
+and disclose leases. The standard provides a single lessee accounting model, requiring
+lessees to recognise assets and liabilities for all leases unless the lease term is 12 months or
+less or the underlying asset has a low value. Lessors continue to classify leases as operating
+or finance, with IFRS 16’s approach to lessor accounting substantially unchanged from its
+predecessor, IAS 17.
+What these excerpts indicate is that the IASB is constantly attempting to improve financial
+reporting as conditions change in the financial world. And as you have learned in our study of
+impairment of financial assets, revenue, and leases in Chapters 17, 18 and 21, we are
+experiencing a period of significant accounting change and related implementation challenges.
+Beyond accounting changes, a number of companies have faced restatements due to errors in
+their financial statements. This accompanying chart shows the total restatements per year since
+2004. There is much good news in the chart. In 2007, restatements declined by 32 percent (from
+1,868 to 1,274). In 2008, restatements declined another 24 percent (from 1,274 to 968).
+Although the declining trend continued in 2009, restatements stabilized from 2010–2014 but
+then saw additional declines from 2015–2018. The overall decline is attributed to improved
+reliability of internal controls, but some observers suspect that the drop may also be due to
+relaxed enforcement by market regulators.
+
+The trend in restatements is a positive development. However, when restatements and
+accounting changes arise, financial statement users still need high-quality accounting
+information to make valid comparisons of financial performance to performance in periods
+before the accounting change or restatement.
+Review and Practice
+Go to the Review and Practice section at the end of the chapter for a targeted summary
+review and practice problem with solution. Multiple-choice questions with annotated
+solutions, as well as additional exercises and practice problem with solutions, are also
+available online.
+Accounting Changes
+LEARNING OBJECTIVE 1
+Discuss the types of accounting changes and the accounting for changes in accounting
+policies.
+Background
+Accounting alternatives diminish the comparability of financial information between periods
+and between companies; they also obscure useful historical trend data. For example, if Toyota
+(JPN) revises its estimates for equipment useful lives, depreciation expense for the current year
+will not be comparable to depreciation expense reported by Toyota in prior years. Similarly, if
+Tesco (GBR) changes to FIFO inventory pricing while Marks and Spencer plc (GBR) uses
+the retail method, it will be difficult to compare these companies’ reported results. A reporting
+framework helps preserve comparability when there is an accounting change.
+The IASB has established a reporting framework that involves two types of accounting changes.
+[1] (See the Authoritative Literature References section near the end of the chapter.) The two
+types of accounting changes are:
+1. Change in accounting policy. A change from one accepted accounting policy to another
+one. For example, Alcatel Lucent Enterprise (FRA) changed its method of accounting for
+actuarial gains and losses from using the corridor approach to immediate recognition.
+2. Change in accounting estimate. A change that occurs as the result of new information
+or additional experience. As an example, Daimler AG (DEU) recently revised its estimates
+of the useful lives of its depreciable property due to modifications in its productive
+processes.
+A third category necessitates changes in accounting, though it is not classified as an accounting
+change.
+3. Errors in financial statements. Errors result from mathematical mistakes, mistakes in
+applying accounting policies, or oversight or misuse of facts that existed when preparing the
+financial statements. For example, a company may incorrectly apply the retail inventory
+method for determining its final inventory value.
+
+The IASB classifies changes in these categories because each category involves different
+methods of recognizing changes in the financial statements. In this chapter, we discuss these
+classifications. We also explain how to report each item in the accounts and how to disclose the
+information in comparative statements.
+Changes in Accounting Policy
+By definition, a change in accounting policy involves a change from one accepted
+accounting policy to another. For example, a company might change the basis of inventory
+pricing from average-cost to FIFO. Or it might change its method of revenue recognition for
+long-term construction contracts from the cost-recovery to the percentage-of-completion
+method.
+Companies must carefully examine each circumstance to ensure that a change in policy has
+actually occurred. Adoption of a new policy in recognition of events that have occurred for
+the first time, or that were previously immaterial, is not a change in accounting policy. For
+example, a change in accounting policy has not occurred when a company adopts an inventory
+method (e.g., FIFO) for newly acquired items of inventory, even if FIFO differs from that used
+for previously recorded inventory. Another example: certain marketing expenditures that
+were previously immaterial and expensed in the period incurred. It is not considered a change in
+accounting policy if they become material and should properly be deferred and amortized.
+Finally, what if a company previously followed an accounting policy that was not acceptable? Or
+what if the company applied a policy incorrectly? In such cases, this type of change is a
+correction of an error. For example, a switch from the cash (income tax) basis of accounting
+to the accrual basis is a correction of an error. Or if a company deducted residual value when
+computing double-declining depreciation on plant assets and later recomputed depreciation
+without deducting estimated residual value, it has corrected an error.
+There are three possible approaches for reporting changes in accounting policies:
+1. Report changes currently. In this approach, companies report the cumulative effect of
+the change in the current year’s income statement. The cumulative effect represents the
+difference in prior years’ income between the newly adopted and prior accounting policy.
+Under this approach, the effect of the change on prior years’ income appears only in the
+current-year income statement. The company does not alter prior-year financial
+statements.
+Advocates of this position argue that changing prior years’ financial statements results in a
+loss of confidence in financial reports. How do investors react when told that the earnings
+computed three years ago are now entirely different? Changing prior periods, if permitted,
+also might upset contractual arrangements based on the old figures. For example, profit-
+sharing arrangements computed on the old basis might have to be recomputed and
+completely new distributions made, creating numerous legal problems. Many practical
+difficulties also exist: The cost of changing prior period financial statements may be
+excessive, or determining the amount of the prior period effect may be impossible on the
+basis of available data.
+2. Report changes retrospectively. Retrospective application refers to the application
+of a different accounting policy to recast previously issued financial statements—as if the
+new policy had always been used. In other words, the company “goes back” and adjusts
+prior years’ statements on a basis consistent with the newly adopted policy. The
+company shows any cumulative effect of the change as an adjustment to beginning retained
+earnings of the earliest year presented.
+
+Advocates of this position argue that retrospective application ensures comparability. Think
+for a moment what happens if this approach is not used: The year previous to the change
+will be on the old method; the year of the change will report the entire cumulative
+adjustment; and the following year will present financial statements on the new basis
+without the cumulative effect of the change. Such lack of consistency fails to provide
+meaningful earnings-trend data and other financial relationships necessary to evaluate the
+business.
+3. Report changes prospectively (in the future). In this approach, previously reported
+results remain. As a result, companies do not adjust opening balances to reflect the change
+in policy. Advocates of this position argue that once management presents financial
+statements based on acceptable accounting policies, they are final; management cannot
+change prior periods by adopting a new policy. According to this line of reasoning, the
+current-period cumulative adjustment is not appropriate because that approach includes
+amounts that have little or no relationship to the current year’s income or economic events.
+Given these three possible approaches, which does the accounting profession prefer? The IASB
+requires that companies use the retrospective approach. Why? Because it provides
+financial statement users with more useful information than the cumulative-effect or
+prospective approaches. [2] The rationale is that changing the prior statements so that they are
+on the same basis as the newly adopted policy results in greater consistency across accounting
+periods. Users can then better compare results from one period to the next.
+
+What Do the Numbers Mean?
+Comparison Challenges—Squared
+As discussed in the opening story, accounting changes create comparability (consistency)
+challenges when evaluating a company over time. This explains the importance of
+accounting rules that ensure investors have the information to understand accounting
+reports prepared under different sets of rules. However, the comparability challenges can
+be compounded by both the number of required accounting changes as well as the variation
+in implementation dates. The following table provides a summary of recent accounting
+standards and their effective dates.
+Effective Date, Year
+Beginning
+Standards
+January 1, 2019
+IFRS 16 Leases
+January 1, 2019
+IAS 12 Income Taxes—Income tax consequences of payments on
+financial instruments classified as equity
+January 1, 2020
+Definition of Material (Amendments to IAS 1 and IAS 8)
+January 1, 2020
+The Conceptual Framework for Financial Reporting
+January 1, 2021
+IFRS 17 Insurance Contracts
+Given the range of new standards coming online (the list in the table is a sampling of new
+standards that became or will become effective from 2019–2021), it is easy to understand
+why financial statement users would find it difficult to compare accounting results, to the
+extent that companies are differentially affected by these new standards. Furthermore,
+implementation guidance for some standards allows companies to adopt early if they wish.
+This is the case for the changes in rules for leases in the table above. This early-adoption
+option further magnifies the comparability challenges in the wake of new standards.
+Source: Adapted from Ernst & Young, “IFRS Update of Standards and Interpretations,” EY Core Tools (March 31,
+Retrospective Accounting Change Approach
+A presumption exists that once a company adopts an accounting policy, it should not change.
+That presumption is understandable, given the idea that consistent use of an accounting policy
+enhances the usefulness of financial statements. [3] However, the environment continually
+changes, and companies change in response. Recent changes in standards, such as those for
+borrowing costs, operating segments, revenue recognition, and financial instruments, indicate
+that changes in accounting policies will continue to occur.
+As a consequence, the IASB permits companies to change an accounting policy if:
+1. It is required by IFRS (e.g., the IFRS on financial instruments is subject to the proper
+accounting for changes in accounting policy); or
+2. It results in the financial statements providing more representationally faithful and
+relevant information about a company’s financial position, financial performance, and cash
+flows. For example, a company may determine that changing from the average-cost method
+of inventory valuation to the FIFO method provides more representationally faithful and
+relevant information on the current value of its inventory.1
+
+When a company changes an accounting policy, it should report the change using retrospective
+application. In general terms, here is what the company must do:
+1. Adjust (recast) its financial statements for each prior period presented. Thus, financial
+statement information about prior periods is consistent with the new accounting policy.
+2. Adjust the carrying amounts of assets and liabilities as of the beginning of the first year
+presented. These accounts reflect the cumulative effect of the change to new accounting
+policy on periods prior to those presented. The company also makes an offsetting
+adjustment to the opening balance of retained earnings or other appropriate component of
+equity or net assets as of the beginning of the first year presented.
+For example, assume that Carrefour (FRA) decides to change its inventory valuation method
+in 2022 from FIFO to average-cost. It provides comparative information for 2020 and 2021
+based on the new method (see Underlying Concepts). Carrefour would adjust its assets,
+liabilities, and retained earnings for periods prior to 2020 and report these amounts in the 2020
+financial statements, when it prepares comparative financial statements.
+Underlying Concepts
+Retrospective application contributes to comparability (consistency).
+Retrospective Accounting Change: Long-Term Contracts
+To illustrate the retrospective approach, assume that Denson SA has accounted for its income
+from long-term construction contracts using the cost-recovery (zero-profit) method. In 2022, as
+a result of adopting the new revenue standard, the company changed to recognizing revenue
+over time (percentage-of-completion). For tax purposes, the company uses the cost-recovery
+method and plans to continue doing so in the future. (We assume a 40 percent enacted tax rate.)
+Illustration 22.1 shows portions of three income statements for 2020–2022—for both the
+cost-recovery and percentage-of-completion methods. (There were no differences in income
+between the old and new accounting methods before 2020.)
+
+Cost-Recovery Method
+Denson SA
+Income Statement (partial)
+For the Year Ended December 31
+Income before income tax €400,000 €160,000 €190,000
+Income tax (40%)
+Net income
+Percentage-of-Completion Method
+Denson SA
+Income Statement (partial)
+For the Year Ended December 31
+Income before income tax €600,000 €180,000 €200,000
+Income tax (40%)
+Net income
+ILLUSTRATION 22.1 Comparative Income Statements for Cost-Recovery versus
+Percentage-of-Completion Methods
+To record a change from the cost-recovery to the percentage-of-completion method, we analyze
+the various effects, as Illustration 22.2 shows.
+Pretax Income from
+Difference in Income
+Year
+Percentage-of-
+Completion
+Cost-
+Recovery Difference
+Tax Effect
+Income Effect
+(net of tax)
+Prior to 2021
+In 2021
+Total at beginning of 2022
+Total in 2022
+ILLUSTRATION 22.2 Data for Retrospective Change Example
+The entry to record the change at the beginning of 2022 would be:
+Construction in Process 220,000
+Deferred Tax Liability
+Retained Earnings
+The Construction in Process account increases by €220,000 (as indicated in the first column
+under “Difference in Income” in Illustration 22.2). The credit to Retained Earnings of €132,000
+reflects the cumulative income effects prior to 2022 (third column under “Difference in Income”
+in Illustration 22.2). The company credits Retained Earnings because prior years’ income is
+closed to this account each year. The credit to Deferred Tax Liability represents the adjustment
+to prior years’ tax expense. The company now recognizes that amount, €88,000, as a tax liability
+for future taxable amounts. That is, in future periods, taxable income will be higher than book
+income as a result of current temporary differences. Therefore, Denson must report a deferred
+tax liability in the current year.
+
+Reporting a Change in Policy
+The disclosure of changes in accounting policies is particularly important. Financial statement
+users want consistent information from one period to the next. Such consistency ensures the
+usefulness of financial statements. The major disclosure requirements are as follows.
+1. The nature of the change in accounting policy;
+2. The reasons why applying the new accounting policy provides representationally faithful
+and more relevant information;
+3. For the current period and each prior period presented, to the extent practicable, the
+amount of the adjustment:
+a. For each financial statement line item affected; and
+b. Basic and diluted earnings per share.
+4. The amount of the adjustment relating to periods before those presented, to the extent
+practicable.2
+The disclosure here relates to a voluntary change in accounting policy, such as a change from
+the average-cost to FIFO method of inventory measurement. The requirements for disclosure
+are slightly different if the change is mandated by the issuance of a new IFRS. In that case,
+transitional adjustments are also considered, as required by the standard.
+To illustrate, Denson will prepare comparative financial statements for 2021 and 2022 using the
+percentage-of-completion method (the new-construction accounting method). Illustration
+22.3 indicates how Denson presents this information.
+
+Denson SA
+Income Statement (partial)
+For the Year Ended
+As adjusted (Note A)
+Income before income tax
+Income tax (40%)
+Net income
+Note A: Change in Method of Accounting for Long-Term Contracts. The company has
+accounted for revenue and costs for long-term construction contracts by the percentage-of-
+completion (over time) method in 2022, whereas in all prior years revenue and costs were
+determined by the cost-recovery method (point in time). The new method of accounting for
+long-term contracts was adopted to recognize … [state justification for change in accounting
+policy] …, and financial statements of prior years have been restated to apply the new method
+retrospectively. For income tax purposes, the cost-recovery method has been continued. The
+effect of the accounting change on 2022 income was an increase of €6,000 net of related taxes,
+and, as previously reported, the effect on 2021 income was an increase of €12,000 net of related
+taxes. The balances of retained earnings for 2021 and 2022 have been adjusted for the effect of
+applying retrospectively the new method of accounting. As a result of the accounting change,
+retained earnings as of January 1, 2021, increased by €120,000 compared to that reported using
+the cost-recovery method.
+ILLUSTRATION 22.3 Comparative Information Related to Accounting Change
+(Percentage-of-Completion)
+As Illustration 22.3 shows, Denson SA reports net income under the newly adopted percentage-
+of-completion method for both 2021 and 2022. The company retrospectively adjusted the 2021
+income statement to report the information on a percentage-of-completion basis. Also, the note
+to the financial statements indicates the nature of the change, why the company made the
+change, and the years affected.
+In addition, companies are required to provide data on important differences between the
+amounts reported under percentage-of-completion versus cost-recovery. When identifying the
+significant differences, some companies show the entire financial statements and line-by-line
+differences between the two methods. However, most companies will show only line-by-line
+differences. For example, Denson would show the differences in construction in process,
+retained earnings, gross profit, and net income for 2021 and 2022 under the cost-recovery and
+percentage-of-completion methods.
+Retained Earnings Adjustment
+As indicated earlier, one of the disclosure requirements is to show the cumulative effect of the
+change on retained earnings, beginning with the earliest period presented. For Denson SA, that
+date is January 1, 2021. Denson disclosed that information by means of a narrative description
+(see Note A in Illustration 22.3). Denson also would disclose this information in its retained
+earnings statement. Assuming a retained earnings balance of €1,360,000 at the beginning of
+2020, Illustration 22.4 shows Denson’s retained earnings statement under the cost-recovery
+method—that is, before giving effect to the change in accounting policy. (The income
+information comes from Illustration 22.1.)
+
+Denson SA
+Retained Earnings Statement
+For the Year Ended
+Retained earnings, January 1
+Net income
+Retained earnings, December 31 €1,810,000 €1,696,000 €1,600,000
+ILLUSTRATION 22.4 Retained Earnings Statement before Retrospective Change
+If Denson presents comparative statements for 2021 and 2022 under percentage-of-completion,
+then it must change the beginning balance of retained earnings at January 1, 2021. The
+difference between the retained earnings balances under cost-recovery and percentage-of-
+completion is computed as follows.
+Retained earnings, January 1, 2021 (percentage-of-completion) €1,720,000
+Retained earnings, January 1, 2021 (cost-recovery)
+Cumulative-effect difference
+The €120,000 difference is the cumulative effect. Illustration 22.5 shows a comparative
+retained earnings statement for 2021 and 2022, giving effect to the change in accounting policy
+to percentage-of-completion.
+Denson SA
+Retained Earnings Statement
+For the Year Ended
+Retained earnings, January 1, as reported
+—
+Add: Adjustment for the cumulative effect on prior years of applying
+retrospectively the new method of accounting for construction
+contracts
+Retained earnings, January 1, as adjusted
+Net income
+Retained earnings, December 31
+ILLUSTRATION 
+Retained 
+Earnings 
+Statement 
+after 
+Retrospective
+Application
+Denson adjusted the beginning balance of retained earnings on January 1, 2021, for the excess of
+percentage-of-completion net income over cost-recovery net income in 2020. This comparative
+presentation indicates the type of adjustment that a company needs to make. It follows that this
+adjustment would be much larger if a number of prior periods were involved.
+Retrospective Accounting Change: Inventory Methods
+As a second illustration of the retrospective approach, assume that Lancer Company has
+accounted for its inventory using the average-cost method. In 2022, the company changes to the
+FIFO method because management believes this approach provides a more appropriate measure
+
+of its inventory costs. Illustration 22.6 provides additional information related to Lancer
+Company.
+1. Lancer Company started its operations on January 1, 2020. At that time, shareholders
+invested $100,000 in the business in exchange for ordinary shares.
+2. All sales, purchases, and operating expenses for the period 2020–2022 are cash
+transactions. Lancer’s cash flows over this period are as follows.
+Sales
+Purchases
+Operating expenses
+Cash flow from operations
+3. Lancer has used the average-cost method for financial reporting since its inception.
+4. Inventory determined under average-cost and FIFO for the period 2020–2022 is as
+follows.
+Average-Cost
+Method
+FIFO
+Method Difference
+January 1, 2020
+$
+$
+$
+December 31, 2020
+December 31, 2021
+December 31, 2022
+5. Cost of goods sold under average-cost and FIFO for
+the period 2020–2022 is as follows.
+Cost of Goods Sold
+Average-Cost
+FIFO
+Difference
+6. Earnings per share information is not required on the income statement.
+7. All tax effects for this illustration should be ignored.
+ILLUSTRATION 22.6 Lancer Company Information
+
+Illustration 22.7 shows Lancer Company’s income statement, retained earnings statement,
+statement of financial position, and statement of cash flows for 2020–2022 under average-cost.
+
+Lancer Company
+Income Statement
+For the Year Ended December 31
+Sales
+Cost of goods sold (average-cost)
+Operating expenses
+Net income
+Lancer Company
+Retained Earnings Statement
+For the Year Ended December 31
+Retained earnings (beginning)
+$
+Add: Net income
+Retained earnings (ending)
+Lancer Company
+Statement of Financial Position
+At December 31
+Inventory (average-cost)
+Cash
+Total assets
+Share capital
+Retained earnings
+Total equity
+Lancer Company
+Statement of Cash Flows
+For the Year Ended December 31
+Cash flows from operating activities
+Sales
+Purchases
+Operating expenses
+Net cash provided by operating activities
+Cash flows from financing activities Issuance of ordinary
+shares
+—
+—
+Net increase in cash
+Cash at beginning of year
+Cash at end of year
+ILLUSTRATION 22.7 Lancer Financial Statements (Average-Cost)
+
+As Illustration 22.7 indicates, under average-cost Lancer Company reports $120,000 net income
+in 2020, $100,000 net income in 2021, and $87,000 net income in 2022. The amount of
+inventory reported on Lancer’s statement of financial position reflects average-cost inventory
+accounting.
+Illustration 22.8 shows Lancer’s income statement, retained earnings statement, statement of
+financial position, and statement of cash flows for 2020–2022 under FIFO. You can see that
+the cash flow statement under FIFO is the same as under average-cost. Although the
+net incomes are different in each period, there is no cash flow effect from these differences in
+net income. (If we considered income taxes, a cash flow effect would result.)
+
+Lancer Company
+Income Statement
+For the Year Ended December 31
+Sales
+Cost of goods sold (FIFO)
+Operating expenses
+Net income
+Lancer Company
+Retained Earnings Statement
+For the Year Ended December 31
+Retained earnings (beginning)
+$
+Add: Net income
+Retained earnings (ending)
+Lancer Company
+Statement of Financial Position
+At December 31
+Inventory (FIFO)
+Cash
+Total assets
+Share capital
+Retained earnings
+Total equity
+Lancer Company
+Statement of Cash Flows
+For the Year Ended December 31
+Cash flows from operating activities
+Sales
+Purchases
+Operating expenses
+Net cash provided by operating activities
+Cash flows from financing activities Issuance of ordinary
+shares
+—
+—
+Net increase in cash
+Cash at beginning of year
+Cash at end of year
+ILLUSTRATION 22.8 Lancer Financial Statements (FIFO)
+
+Compare the financial statements reported in Illustration 22.7 and Illustration 22.8. You can see
+that, under retrospective application, the change to FIFO inventory valuation affects reported
+inventories, cost of goods sold, net income, and retained earnings. In the following sections, we
+discuss the accounting and reporting of Lancer’s accounting change from average-cost to FIFO.
+Given the information provided in Illustrations 22.6, 22.7, and 22.8, we now are ready to account
+for and report on the accounting change.
+Our first step is to adjust the financial records for the change from average-cost to FIFO. To do
+so, we perform the analysis in Illustration 22.9.
+Net Income
+Difference in Income
+Year
+Average-Cost
+FIFO
+Total at beginning of 2022
+Total in 2022
+ILLUSTRATION 22.9 Data for Recording Change in Accounting Policy
+The entry to record the change to the FIFO method at the beginning of 2022 is as follows.
+Inventory
+Retained Earnings
+The change increases the inventory account by $5,000. This amount represents the difference
+between the ending inventory at December 31, 2021, under average-cost ($20,000) and the
+ending inventory under FIFO ($25,000). The credit to Retained Earnings indicates the amount
+needed to change the income from prior years, assuming that Lancer had used FIFO in previous
+periods.
+Reporting a Change in Policy
+Lancer Company will prepare comparative financial statements for 2021 and 2022 using FIFO
+(the new inventory method). Illustration 22.10 indicates how Lancer might present this
+information.
+
+ILLUSTRATION 22.10 Comparative Information Related to Accounting Change
+(FIFO)
+As Illustration 22.10 shows, Lancer Company reports net income under the newly adopted FIFO
+method for both 2021 and 2022. The company retrospectively adjusted the 2021 income
+statement to report the information on a FIFO basis. In addition, the note to the financial
+statements indicates the nature of the change, why the company made the change, and the years
+affected. The note also provides data on important differences between the amounts reported
+under average-cost versus FIFO. (When identifying the significant differences, some companies
+show the entire financial statements and line-by-line differences between average-cost and
+FIFO.)
+Retained Earnings Adjustment
+As indicated earlier, one of the disclosure requirements is to show the cumulative effect of the
+change on retained earnings as of the beginning of the earliest period presented. For Lancer
+Company, that date is January 1, 2021. Lancer disclosed that information by means of a
+narrative description (see Note A in Illustration 22.10). Lancer also would disclose this
+information in its retained earnings statement. Illustration 22.11 shows Lancer’s retained
+earnings statement under average-cost—that is, before giving effect to the change in accounting
+policy. (This information comes from Illustration 22.7.)
+
+Retained earnings, January 1
+Net income
+Retained earnings, December 31 $307,000 $220,000 $120,000
+ILLUSTRATION 22.11 Retained Earnings Statements (Average-Cost)
+If Lancer presents comparative statements for 2021 and 2022 under FIFO, then it must change
+the beginning balance of retained earnings at January 1, 2021. The difference between the
+retained earnings balances under average-cost and FIFO is computed as follows.
+Retained earnings, January 1, 2021 (FIFO)
+Retained earnings, January 1, 2021 (average-cost)
+Cumulative effect difference
+$
+The $2,000 difference is the cumulative effect. Illustration 22.12 shows a comparative
+retained earnings statement for 2021 and 2022, demonstrating the effect of the change in
+accounting policy to FIFO.
+Retained earnings, January 1, as reported
+Add: Adjustment for the cumulative effect on prior years of applying
+retrospectively the new method of accounting for inventory
+Retained earnings, January 1, as adjusted
+Net income
+Retained earnings, December 31
+ILLUSTRATION 22.12 Retained 
+Earnings 
+Statements 
+after 
+Retrospective
+Application
+Lancer adjusted the beginning balance of retained earnings on January 1, 2021, for the excess of
+FIFO net income over average-cost net income in 2020. This comparative presentation indicates
+the type of adjustment that a company needs to make. It follows that the amount of this
+adjustment would be much larger if a number of prior periods were involved.
+Direct and Indirect Effects of Changes
+Are there other effects that a company should report when it makes a change in accounting
+policy? For example, when a company like Lancer has a bonus plan based on net income and the
+prior year’s net income changes, what happens when FIFO is retrospectively applied? Should
+Lancer also change the reported amount of bonus expense? What happens if we do not ignore
+income taxes in the Lancer example? Should Lancer adjust net income, given that taxes will be
+different under average-cost and FIFO in prior periods? The answers depend on whether the
+effects are direct or indirect.
+Direct Effects
+The IASB takes the position that companies should retrospectively apply the direct effects of a
+change in accounting policy. An example of a direct effect is an adjustment to an
+inventory balance as a result of a change in the inventory valuation method. For example,
+
+Lancer Company should change the inventory amounts in prior periods to indicate the change to
+the FIFO method of inventory valuation. Another inventory-related example would be an
+impairment adjustment resulting from applying the lower-of-cost-or-net realizable value test to
+the adjusted inventory balance. Related changes, such as deferred income tax effects of the
+impairment adjustment, are also considered direct effects. This entry was illustrated in the
+Denson example, in which the change to percentage-of-completion accounting resulted in
+recording a deferred tax liability.
+Indirect Effects
+In addition to direct effects, companies can have indirect effects related to a change in
+accounting policy. An indirect effect is any change to current or future cash flows of a
+company that result from making a change in accounting policy that is applied retrospectively.
+An example of an indirect effect is a change in profit-sharing or royalty payment that is based on
+a reported amount such as revenue or net income. The IASB is silent on what to do in this
+situation. U.S. GAAP (likely because its standard in this area was issued after IAS 8) states that
+indirect effects do not change prior period amounts.
+For example, let’s assume that Lancer has an employee profit-sharing plan based on net income.
+As Illustration 22.9 showed, Lancer would report higher income in 2021 and 2022 under the
+FIFO method. In addition, let’s assume that the profit-sharing plan requires that Lancer pay the
+incremental amount due based on the FIFO income amounts. In this situation, Lancer reports
+this additional expense in the current period; it would not change prior periods for this
+expense. If the company prepares comparative financial statements, it follows that it does not
+recast the prior periods for this additional expense.3
+If the terms of the profit-sharing plan indicate that no payment is necessary in the current
+period due to this change, then the company need not recognize additional profit-sharing
+expense in the current period. Neither does it change amounts reported for prior periods.
+When a company recognizes the indirect effects of a change in accounting policy, it includes in
+the financial statements a description of the indirect effects. In doing so, it discloses the
+amounts recognized in the current period and related per share information.
+Impracticability
+It is not always possible for companies to determine how they would have reported prior
+periods’ financial information under retrospective application of an accounting policy change.
+Retrospective application is considered impracticable if a company cannot determine the prior
+period effects using every reasonable effort to do so.
+Companies should not use retrospective application if one of the following conditions exists:
+1. The company cannot determine the effects of the retrospective application.
+2. Retrospective application requires assumptions about management’s intent in a prior
+period.
+3. Retrospective application requires significant estimates for a prior period, and the company
+cannot objectively verify the necessary information to develop these estimates.
+If any of the above conditions exists, it is deemed impracticable to apply the retrospective
+approach. In this case, the company prospectively applies the new accounting policy at the
+earliest feasible date. [6]
+
+For example, assume that Williams Company changed its accounting policy for depreciable
+assets to more fully apply component depreciation under revaluation accounting. Unfortunately,
+the company does not have detailed accounting records to establish a basis for the components
+of these assets. As a result, Williams determines it is not practicable to account for the change to
+full component depreciation using the retrospective application approach. It therefore applies
+the policy prospectively, starting at the beginning of the current year.
+Williams must disclose only the effect of the change on the results of operations in the period of
+change. Also, the company should explain the reasons for omitting the computations of the
+cumulative effect for prior years. Finally, it should disclose the justification for the change to
+component depreciation. [7]
+Changes in Accounting Estimates
+LEARNING OBJECTIVE 2
+Describe the accounting and reporting for changes in estimates.
+To prepare financial statements, companies must estimate the effects of future conditions and
+events. For example, the following items require estimates.
+1. Bad debts.
+2. Inventory obsolescence.
+3. Useful lives and residual values of assets.
+4. Periods benefited by deferred costs.
+5. Liabilities for warranty costs and income taxes.
+6. Recoverable mineral reserves.
+7. Change in depreciation estimates.
+8. Fair value of financial assets or financial liabilities.
+A company cannot perceive future conditions and events and their effects with certainty.
+Therefore, estimating requires the exercise of judgment. Accounting estimates will change as
+new events occur, as a company acquires more experience, or as it obtains additional
+information.
+Prospective Reporting
+Companies report prospectively changes in accounting estimates. That is, companies
+should not adjust previously reported results for changes in estimates. Instead, they account for
+the effects of all changes in estimates in (1) the period of change if the change affects that period
+only (e.g., a change in the estimate of the amount of bad debts affects only the current period’s
+income), or (2) the period of change and future periods if the change affects both (e.g., a change
+in the estimated useful life of a depreciable asset affects depreciation expense in the current and
+future periods). [8] The IASB views changes in estimates as normal recurring corrections
+and adjustments, the natural result of the accounting process. It prohibits retrospective
+treatment.
+The circumstances related to a change in estimate differ from those for a change in accounting
+policy. If companies reported changes in estimates retrospectively, continual adjustments of
+
+prior years’ income would occur. It seems proper to accept the view that, because new
+conditions or circumstances exist, the revision fits the new situation (not the old one).
+Companies should therefore handle such a revision in the current and future periods.
+To illustrate, Lao Labs purchased for ¥3,000,000 a building that it originally estimated to have a
+useful life of 15 years and no residual value. It recorded depreciation for five years on a straight-
+line basis. On January 1, 2022, Lao Labs revises the estimate of the useful life. It now considers
+the asset to have a total life of 25 years. (Assume that the useful life for financial reporting and
+tax purposes and depreciation method are the same.) Illustration 22.13 shows the accounts at
+the beginning of the sixth year.
+Buildings
+¥3,000,000
+Less: Accumulated depreciation—buildings (5 × ¥200,000)
+Book value of building
+¥2,000,000
+ILLUSTRATION 22.13 Book Value After Five Years’ Depreciation
+Lao Labs records depreciation for the year 2022 as follows.
+Depreciation Expense
+Accumulated Depreciation—Building
+The company computes the ¥100,000 depreciation charge as shown in Illustration 22.14.
+Depreciation Charge =
+=
+= ¥100,000
+ILLUSTRATION 22.14 Depreciation After Change in Estimate
+Companies sometimes find it difficult to differentiate between a change in estimate and a
+change in accounting policy. Is it a change in policy or a change in estimate when a company
+changes from deferring and amortizing marketing costs to expensing them as incurred because
+future benefits of these costs have become doubtful? If it is impossible to determine
+whether a change in policy or a change in estimate has occurred, the rule is this:
+Consider the change as a change in estimate.
+Another example is a change in depreciation (as well as amortization or depletion) methods.
+Because companies change depreciation methods based on changes in estimates about future
+benefits from long-lived assets, it is not possible to separate the effect of the accounting policy
+change from that of the estimates. As a result, companies account for a change in
+depreciation methods as a change in estimate.
+A similar problem occurs in differentiating between a change in estimate and a correction of an
+error, although here the answer is more clear-cut. How does a company determine whether it
+overlooked the information in earlier periods (an error) or whether it obtained new information
+(a change in estimate)? Proper classification is important because the accounting treatment
+differs for corrections of errors versus changes in estimates. The general rule is this:
+Companies should consider careful estimates that later prove to be incorrect as
+changes in estimates. Only when a company obviously computed the estimate incorrectly
+because of lack of expertise or in bad faith should it consider the adjustment an error. There is
+no clear demarcation line here. Companies must use good judgment in light of all the
+circumstances.
+Book Value of Asset
+Remaining Service Life
+¥2,000,000
+25 years – 5 years
+
+What Do the Numbers Mean?
+A Change for the Better?
+As we have discussed, changes in accounting estimates are expected in any given year, as
+conditions change. The following table indicates the 10 most common changes in
+accounting estimates for a sampling of 10,000 accounting changes from 2000 to 2017 for
+large companies.
+Top 10 Categories of Changes in Accounting Estimates
+Estimate Category
+% of Total
+Depreciation, amortization, and depletion
+Percentage-of-completion and contract revenue recognition
+Restructuring reserves
+Income taxes, including valuation allowance
+Contingencies and commitments, including litigation
+Share-based compensation
+Revenue recognition
+Pension and other post-retirement benefits
+Insurance loss reserves
+Asset retirement obligations
+The hope is that management changes accounting estimates in order to make the financial
+statements more useful. However, the following chart indicates that in each of the past
+eight years, the result of the accounting estimate change was an increase in income.
+It appears that management may be making changes in estimates in order to make
+financial results look better, not more useful. If so, this violates the concept of neutrality.
+
+Source: Adapted from Accounting change and restatement data from J. Pakaluka, “Overview of 17 Years of Changes
+in Accounting Estimates,” Audit Analytics (October 24, 2017).
+Disclosures
+A company should disclose the nature and amount of a change in an accounting estimate that
+has an effect in the current period or is expected to have an effect in future periods (unless it is
+impracticable to estimate that effect). [9] Illustration 22.15 shows disclosure of a change in
+estimated useful lives, which appeared in a recent annual report of Portugal Telecom, SGPS,
+S.A. (PRT).
+Portugal Telecom, SGPS, S.A.
+Note 4 (in Part): Changes in Accounting Policies and Estimates
+The change in estimate of the useful life of the UMTS license was effective as at June 30.
+According to IAS 8 this change should be applicable on a prospective basis and, on an annual
+basis, the impact of this change will be a reduction in depreciation and amoritization costs by
+€26 million.
+ILLUSTRATION 22.15 Disclosure of Change in Estimated Useful Lives
+For the most part, companies need not disclose changes in accounting estimates made as part of
+normal operations, such as bad debt allowances or inventory obsolescence, unless such changes
+are material.
+Accounting Errors
+LEARNING OBJECTIVE 3
+Describe the accounting for correction of errors.
+No business, large or small, is immune from errors. As the opening story discussed, the number
+of accounting errors that lead to restatement has declined. However, without accounting and
+disclosure guidelines for the reporting of errors, investors can be left in the dark about the
+effects of errors.
+Certain errors, such as misclassifications of balances within a financial statement, are not as
+significant to investors as other errors. For example, significant errors include those resulting in
+overstating assets or income. However, investors should know the potential impact of all errors.
+Even “harmless” misclassifications can affect important ratios. Also, some errors could signal
+important weaknesses in internal controls that could lead to more significant errors.
+In general, accounting errors include the following types:
+1. A change from an accounting policy that is not generally accepted to an accounting policy
+that is acceptable. The rationale is that the company incorrectly presented prior periods
+
+because of the application of an improper accounting policy. For example, a company may
+change from the cash (income tax) basis of accounting to the accrual basis.
+2. Mathematical mistakes, such as incorrectly totaling the inventory count sheets when
+computing the inventory value.
+3. Changes in estimates that occur because a company did not prepare the estimates in good
+faith. For example, a company may have adopted a clearly unrealistic depreciation rate.
+4. An oversight, such as the failure to accrue or defer certain expenses and revenues at the end
+of the period.
+5. A misuse of facts, such as the failure to use residual value in computing the depreciation
+base for the straight-line approach.
+6. The incorrect classification of a cost as an expense instead of an asset, and vice versa.
+Accounting errors occur for a variety of reasons. Illustration 22.16 indicates 11 major
+categories of accounting errors that drive restatements.
+
+Accounting Category
+Type of Restatement
+Expense recognition
+Recording expenses in the incorrect period or for an incorrect amount.
+Revenue recognition
+Improper revenue accounting, including instances in which revenue
+was improperly recognized, questionable revenues were recognized, or
+any other number of related errors occurred that led to misreported
+revenue.
+Misclassification
+Misclassifying significant accounting items on the statement of
+financial position, income statement, or statement of cash flows.
+These include restatements due to misclassification of current or non-
+current accounts or those that impact cash flows from operations.
+Equity—other
+Improper accounting for EPS, restricted shares, warrants, and other
+equity instruments.
+Reserves/Contingencies Errors involving accounts receivables’ bad debts, inventory reserves,
+income tax allowances, and loss contingencies.
+Long-lived assets
+Asset impairments of property, plant, and equipment; goodwill; or
+other related items.
+Taxes
+Errors involving correction of tax provision, improper treatment of tax
+liabilities, and other tax-related items.
+Equity—other
+comprehensive income
+Improper accounting for comprehensive income equity transactions,
+including foreign currency items, revaluations of plant assets,
+unrealized gains and losses on certain investments in debt, equity
+securities, and derivatives.
+Inventory
+Inventory costing valuations, quantity issues, and cost of sales
+adjustments.
+Equity—share options
+Improper accounting for employee share options.
+Other
+Any restatement not covered by the listed categories, including those
+related to improper accounting for acquisitions or mergers.
+Sources: T. Baldwin and D. Yoo, “Restatements—Traversing Shaky Ground,” Trend Alert,
+Glass Lewis & Co. (June 2, 2005), p. 8; and “2018 Financial Restatements: An Eighteen Year
+Comparison,” Audit Analytics Trend Reports (August 26, 2019).
+ILLUSTRATION 22.16 Accounting-Error Types
+As soon as a company discovers an error, it must correct it. Companies record corrections of
+errors from prior periods as an adjustment to the beginning balance of retained earnings in the
+current period. Such corrections are called prior period adjustments.
+If it presents comparative statements, a company should restate the prior statements affected to
+correct for the error.4 The company need not repeat the disclosures in the financial statements
+of subsequent periods.
+Example of Error Correction
+To illustrate, in 2023 the bookkeeper for Selectro plc discovered an error: In 2022, the company
+failed to record £20,000 of depreciation expense on a newly constructed building. This building
+is the only depreciable asset Selectro owns. The company correctly included the depreciation
+expense in its tax return and correctly reported its income taxes payable. Illustration 22.17
+
+presents Selectro’s income statement for 2022 (starting with income before depreciation
+expense) with and without the error.
+Selectro plc
+Income Statement
+For the Year Ended December 31, 2022
+Without Error
+With Error
+Income before depreciation expense
+Depreciation expense
+Income before income tax
+Current
+Deferred
+–0–
+Net income
+ILLUSTRATION 22.17 Error Correction Comparison
+Illustration 22.18 shows the entries that Selectro should have made and did make for
+recording depreciation expense and income taxes.
+Entries Company Should Have Made
+(Without Error)
+Entries Company Did Make
+(With Error)
+Depreciation Expense
+No entry made for
+depreciation
+Accumulated Depreciation—
+Buildings
+Income Tax Expense
+Income Tax Expense
+Income Taxes Payable
+Deferred Tax Liability
+Income Taxes Payable
+ILLUSTRATION 22.18 Error Entries
+As Illustration 22.18 indicates, the £20,000 omission error in 2022 results in the following
+effects.
+Income Statement Effects
+Depreciation expense (2022) is understated £20,000.
+Income tax expense (2022) is overstated £8,000 (£20,000 × .40).
+Net income (2022) is overstated £12,000 (£20,000 − £8,000).
+Statement of Financial Position Effects
+Accumulated depreciation—buildings is understated £20,000.
+Deferred tax liability is overstated £8,000 (£20,000 × .40).
+To make the proper correcting entry in 2023, Selectro should recognize that net income in 2022
+is overstated by £12,000, the Deferred Tax Liability is overstated by £8,000, and Accumulated
+Depreciation—Buildings is understated by £20,000. The entry to correct this error in 2023 is as
+follows.
+Retained Earnings
+
+Deferred Tax Liability
+Accumulated Depreciation—Buildings
+The debit to Retained Earnings results because net income for 2022 is overstated. The debit to
+the Deferred Tax Liability is made to remove this account, which was caused by the error. The
+credit to Accumulated Depreciation—Buildings reduces the book value of the building to its
+proper amount.
+Financial Statement Presentation
+To demonstrate how to show this information, assume that Selectro has a beginning retained
+earnings balance at January 1, 2023, of £350,000. The company reports net income of £400,000
+in 2023. Illustration 22.19 shows Selectro’s retained earnings statement for 2023.
+Selectro plc
+Retained Earnings Statement
+For the Year Ended December 31, 2023
+Retained earnings, January 1, as reported
+Correction of an error (depreciation)
+Less: Applicable income tax reduction
+Retained earnings, January 1, as adjusted
+Add: Net income
+Retained earnings, December 31
+ILLUSTRATION 22.19 Reporting an Error—Retained Earnings Statement
+The statement of financial position in 2023 will not have any deferred tax liability related to the
+building, and Accumulated Depreciation—Buildings is now restated at a higher amount. The
+income statement would not be affected.
+Comparative Statements
+If preparing comparative financial statements, a company should make adjustments to correct
+the amounts for all affected accounts reported in the statements for all periods reported. The
+company should restate the data to the correct basis for each year presented. It should show
+any catch-up adjustment as a prior period adjustment to retained earnings for the
+earliest period it reported. These requirements are essentially the same as those for
+reporting a change in accounting policy.
+For example, in the case of Selectro, the error of omitting the depreciation of £20,000 in 2022,
+discovered in 2023, results in the restatement of the 2022 financial statements. Illustration
+22.20 shows the accounts that Selectro restates in the 2022 financial statements.
+
+In the statement of financial position:
+Accumulated depreciation—buildings
+£20,000 increase
+Deferred tax liability
+8,000 decrease
+Retained earnings, ending balance
+12,000 decrease
+In the income statement:
+Depreciation expense—buildings
+£20,000 increase
+Income tax expense
+8,000 decrease
+Net income
+12,000 decrease
+In the retained earnings statement:
+Retained earnings, ending balance (due to lower net income for the period) £12,000 decrease
+ILLUSTRATION 22.20 Reporting an Error—Comparative Financial Statements
+Selectro prepares the 2023 financial statements in comparative form with those of 2022 as if
+the error had not occurred. In addition, Selectro must disclose that it has restated its
+previously issued financial statements, and it must describe the nature of the error. Selectro also
+must disclose the following:
+1. The effect of the correction on each financial statement line item and any per share
+amounts affected for each prior period presented.
+2. The cumulative effect of the change on retained earnings or other appropriate components
+of equity or net assets in the statement of financial position, as of the beginning of the
+earliest period presented.
+As indicated earlier, it is sometimes impracticable to adjust comparative information for one or
+more prior periods for changes in accounting policies. It is also sometimes impracticable to
+correct a prior period error through retrospective restatement. For example, the company may
+have made errors in computing fringe-benefit amounts in prior years but is unable to now
+reconstruct this information fully. As a result, any adjustment is made at the beginning of the
+earliest period for which retrospective application is applicable.
+
+What Do the Numbers Mean?
+Guard the Financial Statements!
+Restatements sometimes occur because of financial fraud. Financial frauds involve the
+intentional misstatement or omission of material information in the organization’s
+financial reports. Common methods of financial fraud manipulation include recording
+fictitious revenues, concealing liabilities or expenses, and artificially inflating reported
+assets. Financial malfeasance made up around 8 percent of the frauds in a recent study on
+occupational fraud but caused a median loss of just under $1 million—by far the most
+costly category of fraud. The following chart compares loss amounts for 2018, 2016 and
+2014 for financial statement fraud, corruption, and asset misappropriation.
+While the trend in the dollar amount of losses is going in the right direction, another recent
+study indicates that the number of fraud reports at 1,400 companies in the “Quarterly
+Corporate Fraud Index” has climbed—from 2,348 reported frauds 10 years ago to over 7,800
+in a recent quarter. While there is some debate about whether the reporting of fraud has
+increased because of regulation that provides whistleblower protections (i.e., the incidence
+of fraud is not increasing as much as the reporting of fraud), companies must increase their
+efforts to protect their statements from the negative effects of fraud.
+Sources: C. McDonald, “Fraud Reports Climb Still Higher,” CFO.com (September 26, 2012); and Report to the
+Nations on Occupational Fraud and Abuse, 2018 Global Fraud Study, Association of Certified Fraud Examiners
+Summary of Accounting Changes and Correction of Errors
+Having guidelines for reporting accounting changes and corrections has helped resolve several
+significant and long-standing accounting problems. Yet, because of diversity in situations and
+characteristics of the items encountered in practice, use of professional judgment is of
+paramount importance. In applying these guidelines, the primary objective is to serve the users
+of the financial statements. Achieving this objective requires accuracy and full disclosure, which
+guard against users making incorrect inferences based on the accounting reports.
+
+Illustration 22.21 summarizes the main distinctions and treatments presented in the
+discussion in this chapter.
+ILLUSTRATION 22.21 Summary of Guidelines for Accounting Changes and
+Errors
+Changes in accounting policy are appropriate only when a company demonstrates that the
+newly adopted generally accepted accounting policy is more representationally faithful and
+relevant than the existing one. Companies and accountants determine usefulness on the basis of
+whether the new policy constitutes an improvement in financial reporting, not on the basis
+of the income tax effect alone.
+But it is not always easy to determine an improvement in financial reporting. How does one
+measure preferability or improvement? For example, a change from average-cost to FIFO
+because the accounting system is now computerized and has scanning capabilities seems
+justifiable. However, determining an improved method requires some “standard” or “objective.”
+Because no universal standard or objective is generally accepted, the problem of determining
+improvement continues to be difficult and requires good judgment.
+
+What Do the Numbers Mean?
+What’s Your Motivation?
+Difficult as it is to determine which accounting standards have the strongest conceptual
+support, other complications make the process even more complex. These complications
+stem from the fact that managers naturally wish to show their company’s financial
+performance in the best light. Research provides insights into why companies may prefer
+certain accounting methods. Some of these reasons are as follows.
+1. Political costs. As companies become larger and more politically visible, politicians
+and regulators devote more attention to them. The larger the firm, the more likely it is
+to become subject to antitrust regulation, and the more likely it is to be required to pay
+higher taxes. Therefore, companies that are politically visible may seek to report low
+income numbers to avoid the scrutiny of regulators. In addition, other constituents,
+such as labor unions, may be less willing to ask for wage increases if reported income
+is low. Researchers have found that the larger the company, the more likely it is to
+adopt income-decreasing approaches in selecting accounting methods.
+2. Capital structure. A number of studies have indicated that the capital structure of
+the company can affect the selection of accounting methods. For example, a company
+with a high debt to equity ratio is more likely to be constrained by debt covenants. The
+debt covenant may indicate that the company cannot pay dividends if retained earnings
+fall below a certain level. As a result, such a company is more likely to select
+accounting methods that will increase net income.
+3. Bonus payments. Studies have found that if compensation plans tie managers’
+bonus payments to income, management will select accounting methods that
+maximize their bonus payments.
+4. Smooth earnings. Substantial earnings increases attract the attention of politicians,
+regulators, and competitors. In addition, large increases in income are difficult to
+achieve in subsequent years. Further, executive compensation plans would use these
+higher numbers as a baseline and make it difficult for managers to earn bonuses in
+subsequent years. Conversely, investors and competitors might view large decreases in
+earnings as a signal that the company is in financial trouble. Also, substantial
+decreases in income raise concerns on the part of shareholders, lenders, and other
+interested parties about the competency of management. For all these reasons,
+companies have an incentive to “manage” or “smooth” earnings. In general,
+management tends to believe that a steady 10 percent annual growth is much better
+than a 30 percent growth one year and a 10 percent decline the next. In other words,
+managers usually prefer a gradually increasing income report and sometimes change
+accounting methods to ensure such a result.
+Management pays careful attention to the accounting it follows and often changes
+accounting methods for economic, not conceptual, reasons. As indicated throughout this
+text, such rationales have become known as economic consequences arguments, which
+focus on the alleged impact of an accounting method on the behavior of investors,
+creditors, competitors, governments, or managers of the reporting companies themselves.
+To counter these pressures, standard-setters such as the IASB have declared, as part of their
+conceptual framework, that they will assess the merits of proposed standards from a
+position of neutrality. They evaluate the soundness of standards on the basis of
+
+conceptual soundness, not on the grounds of possible impact on behavior. It is not the
+IASB’s place to choose standards according to the kinds of behavior it wishes to promote
+and the kinds it wishes to discourage.
+Sources: Ross L. Watts and Jerold L. Zimmerman, “Positive Accounting Theory: A Ten-Year Perspective,” The
+Accounting Review (January 1990); and O. Douglas Moses, “Income Smoothing and Incentives: Empirical Tests Using
+Accounting Changes,” The Accounting Review (April 1987).
+Error Analysis
+LEARNING OBJECTIVE 4
+Analyze the effect of errors.
+In this section, we show some additional types of accounting errors. Companies generally do not
+correct for errors that do not have a significant effect on the presentation of the financial
+statements. For example, should a company with a total annual payroll of $1,750,000 and net
+income of $940,000 correct its financial statements if it finds it failed to record accrued wages of
+$500? No—it would not consider this error significant (material).
+Obviously, defining materiality is difficult, and managers and auditors must use experience and
+judgment to determine whether adjustment is necessary for a given error. We assume all
+errors discussed in this section to be material and to require adjustment. (Also, we
+ignore all tax effects in this section.)
+Companies must answer three questions in error analysis:
+1. What type of error is involved?
+2. What entries are needed to correct for the error?
+3. After discovery of the error, should financial statements be restated? If so, how?
+As indicated earlier, companies treat errors as prior period adjustments and report them
+in the current year as adjustments to the beginning balance of Retained Earnings.
+When a company presents comparative statements, it restates the prior affected statements to
+correct for the error.
+Statement of Financial Position Errors
+Statement of financial position errors affect only the presentation of asset, liability, or equity
+accounts. Examples are the classification of a short-term receivable as part of the investment
+section, the classification of a note payable as an account payable, and the classification of plant
+assets as inventory.
+When the error is discovered, the company reclassifies the item to its proper position. If the
+company prepares comparative statements that include the error year, it should correctly restate
+the statement of financial position for the error year.
+Income Statement Errors
+Income statement errors involve the improper classification of revenues or expenses. Examples
+include recording interest revenue as part of sales, purchases as bad debt expense, and
+
+depreciation expense as interest expense. An income statement classification error has no effect
+on the statement of financial position and no effect on net income.
+A company must make a reclassification entry when it discovers the error if it makes the
+discovery in the same year in which the error occurs. If the error occurred in prior periods, the
+company does not need to make a reclassification entry at the date of discovery because the
+accounts for the current year are correctly stated. (Remember that the company has closed the
+income statement accounts from the prior period to retained earnings.) If the company prepares
+comparative statements that include the error year, it restates the income statement for the
+error year.
+Statement of Financial Position and Income Statement Errors
+The third type of error involves both the statement of financial position and the income
+statement. For example, assume that the bookkeeper overlooked accrued wages payable at the
+end of the accounting period. The effect of this error is to understate expenses, understate
+liabilities, and overstate net income for that period of time. This type of error affects both the
+statement of financial position and the income statement. We classify this type of error in one of
+two ways—counterbalancing or non-counterbalancing.
+Counterbalancing errors are those that will be offset or corrected over two periods. For
+example, the failure to record accrued wages is a counterbalancing error, because over a two-
+year period the error will no longer be present. In other words, the failure to record accrued
+wages in the previous period means (1) net income for the first period is overstated, (2) accrued
+wages payable (a liability) is understated, and (3) wages expense is understated. In the next
+period, net income is understated, accrued wages payable (a liability) is correctly stated, and
+wages expense is overstated. For the two years combined (1) net income is correct, (2) wages
+expense is correct, and (3) accrued wages payable at the end of the second year is correct. Most
+errors in accounting that affect both the statement of financial position and income statement
+are counterbalancing errors.
+Non-counterbalancing errors are those that are not offset in the next accounting period. An
+example is the failure to capitalize equipment that has a useful life of five years. If we expense
+this asset immediately, expenses will be overstated in the first period but understated in the
+next four periods. At the end of the second period, the effect of the error is not fully offset. Net
+income is correct in the aggregate only at the end of five years because the asset is fully
+depreciated at this point. Thus, non-counterbalancing errors are those that take longer
+than two periods to correct themselves.
+Only in rare instances is an error never reversed. An example is if a company initially expenses
+land. Because land is not depreciable, theoretically the error is never offset, unless the land is
+sold.
+Counterbalancing Errors
+We illustrate the usual types of counterbalancing errors on the following pages. In studying
+these illustrations, keep in mind a couple of points, discussed below.
+First, determine whether the company has closed the books for the period in which the error is
+found:
+1. If the company has closed the books in the current year:
+a. If the error is already counterbalanced, no entry is necessary.
+
+b. If the error is not yet counterbalanced, make an entry to adjust the present balance of
+retained earnings.
+2. If the company has not closed the books in the current year:
+a. If the error is already counterbalanced, make an entry to correct the error in the current
+period and to adjust the beginning balance of Retained Earnings.
+b. If the error is not yet counterbalanced, make an entry to adjust the beginning balance
+of Retained Earnings.
+Second, if the company presents comparative statements, it must restate the amounts for
+comparative purposes. Restatement is necessary even if a correcting journal entry is
+not required.
+To illustrate, assume that Sanford’s Cement failed to accrue revenue in 2020 when it fulfilled its
+performance obligation but recorded the revenue in 2021 when it received payment. The
+company discovered the error in 2023. It does not need to make an entry to correct for this error
+because the effects have been counterbalanced by the time Sanford discovered the error in 2023.
+However, if Sanford presents comparative financial statements for 2020 through 2023, it must
+restate the accounts and related amounts for the years 2020 and 2021 for financial
+reporting purposes.
+The examples that follow in Illustrations 22.22 through 22.28 demonstrate the accounting
+for the usual types of counterbalancing errors.
+Failure to Record Accrued Wages
+Facts: On December 31, 2022, Hurley Enterprises did not accrue wages in the amount of
+Question: What is the entry on December 31, 2023, to correct this error, assuming
+Hurley has not closed the books?
+Solution: The entry to correct this error is as follows.
+Retained Earnings
+Salaries and Wages Expense
+The rationale for this entry is:
+1. When Hurley pays the 2022 accrued wages in 2023, it makes an additional debit of
+$1,500 to 2023 Salaries and Wages Expense.
+2. Salaries and Wages Expense in 2023 is overstated by $1,500.
+3. Because the company did not record 2022 accrued wages as Salaries and Wages Expense
+in 2022, the net income for 2022 is overstated by $1,500.
+4. Because 2022 net income is overstated by $1,500, the Retained Earnings account is
+overstated by $1,500 (because net income is closed to Retained Earnings).
+ILLUSTRATION 22.22 Errors—Accrued Wages
+
+If Hurley has closed the books for 2023, it makes no entry, because the error is
+counterbalanced.
+Failure to Record Prepaid Expenses
+Facts: In January 2022, Hurley Enterprises purchased a 2-year insurance policy costing $1,000.
+It debited Insurance Expense and credited Cash. The company made no adjusting entries at the
+end of 2022.
+Question: What is the entry on December 31, 2023, to correct this error, assuming
+Hurley has not closed the books for 2023?
+Solution: The entry to correct this error on December 31, 2023, is as follows.
+Insurance Expense
+Retained Earnings
+ILLUSTRATION 22.23 Errors—Prepaid Expenses
+If Hurley has closed the books for 2023, it makes no entry, because the error is
+counterbalanced.
+Understatement of Unearned Revenue
+Facts: On December 31, 2022, Hurley Enterprises received $50,000 as a prepayment for
+renting certain office space for the following year. At the time of receipt of the rent payment,
+the company recorded a debit to Cash and a credit to Rent Revenue. It made no adjusting entry
+as of December 31, 2022.
+Question: What is the entry on December 31, 2023, to correct this error, assuming
+Hurley has not closed the books for 2023?
+Solution: The entry to correct this error on December 31, 2023, is as follows.
+Retained Earnings 50,000
+Rent Revenue
+ILLUSTRATION 22.24 Errors—Unearned Revenues
+If Hurley has closed the books for 2023, it makes no entry, because the error is
+counterbalanced.
+
+Overstatement of Accrued Revenue
+Facts: On December 31, 2022, Hurley Enterprises accrued as interest revenue $8,000 that
+applied to 2023. On that date, the company recorded a debit to Interest Receivable and a credit
+to Interest Revenue.
+Question: What is the entry on December 31, 2023, to correct this error, assuming
+Hurley has not closed the books for 2023?
+Solution: The entry to correct this error on December 31, 2023, is as follows.
+Retained Earnings 8,000
+Interest Revenue
+ILLUSTRATION 22.25 Errors—Accrued Revenue
+If Hurley has closed the books for 2023, it makes no entry, because the error is
+counterbalanced.
+Overstatement of Purchases
+Facts: Hurley’s accountant recorded a purchase of merchandise for $9,000 in 2022 that applied
+to 2023. The physical inventory for 2022 was correctly stated. The company uses the periodic
+inventory method.
+Question: What is the entry on December 31, 2023, to correct this error, assuming
+Hurley has not closed the books for 2023?
+Solution: The entry to correct this error on December 31, 2023, is as follows.
+Purchases
+Retained Earnings
+ILLUSTRATION 22.26 Errors—Purchases
+If Hurley has closed the books for 2023, it makes no entry, because the error is
+counterbalanced
+Non-Counterbalancing Errors
+The entries for non-counterbalancing errors are more complex. Companies must make
+correcting entries, even if they have closed the books.
+
+Failure to Record Depreciation
+Facts: Assume that on January 1, 2022, Hurley Enterprises purchased a machine for $10,000
+that had an estimated useful life of 5 years. The accountant incorrectly expensed this machine
+in 2022 but discovered the error in 2023.
+Question: What is the entry on December 31, 2023, to correct this error, assuming
+Hurley has not closed the books for 2023?
+Solution: If we assume that Hurley uses straight-line depreciation on this asset, the entry to
+correct this error on December 31, 2023, is as follows.
+Equipment
+Depreciation Expense
+Retained Earnings
+8,000*
+Accumulated Depreciation—Equipment (.20 × $10,000 × 2)
+*Computations:
+Retained Earnings
+Overstatement of expense in 2022
+Proper depreciation for 2022 (.20 × $10,000)
+Retained earnings understated as of Dec. 31, 2022
+ILLUSTRATION 22.27 Non-Counterbalancing Errors—Depreciation
+If Hurley has closed the books for 2023, the entry is:
+Equipment
+Retained Earnings
+6,000*
+Accumulated Depreciation—Equipment
+*Computations:
+Retained Earnings
+Retained earnings understated as of Dec. 31, 2022 $ 8,000
+Proper depreciation for 2023 (.20 × $10,000)
+Retained earnings understated as of Dec. 31, 2023 $ 6,000
+
+Failure to Adjust for Bad Debts
+Facts: Companies sometimes use a specific charge-off method in accounting for bad debt
+expense when a percentage-of-receivables method is more appropriate. They then make
+adjustments to change from the specific write-off to some type of allowance method. For
+example, assume that Hurley Enterprises has recognized bad debt expense when it has the
+following uncollectible debts.
+From 2022 sales $550 $690
+From 2023 sales
+Hurley estimates that it will charge off an additional $1,400 in 2024, of which $300 is
+applicable to 2022 sales and $1,100 to 2023 sales.
+Question: What is the entry on December 31, 2023, to correct this error, assuming
+Hurley has not closed the books for 2023?
+Solution: The entry to correct this error on December 31, 2023, is as follows.
+Bad Debt Expense
+Retained Earnings
+Allowance for Doubtful Accounts
+Allowance for doubtful accounts: Additional $300 for 2022 sales and $1,100 for 2023
+sales.
+Bad debts and retained earnings balance:
+Bad debts charged for
+$1,240*
+Additional bad debts anticipated in 2024
+Proper bad debt expense
+Charges currently made to each period
+Bad debt adjustment
+$
+*$550 + $690 = $1,240
+ILLUSTRATION 22.28 Non-Counterbalancing Errors—Bad Debts
+If Hurley has closed the books for 2023, the entry is:
+Retained Earnings
+Allowance for Doubtful Accounts
+Comprehensive Example: Numerous Errors
+In some circumstances, a combination of errors occurs. The company therefore prepares a
+worksheet to facilitate the analysis. The following problem demonstrates use of the worksheet.
+
+The mechanics of its preparation should be obvious from the solution format. The income
+statements of Hudson Haulers indicate the following net incomes for the years ended December
+31, 2021, 2022, and 2023.
+An examination of the accounting records for these years indicates that Hudson made several
+errors in arriving at the net income amounts reported:
+1. The company consistently omitted from the records wages earned by workers but not paid
+at December 31. The amounts omitted were:
+December 31, 2021 €1,000
+December 31, 2022
+December 31, 2023
+When the wages were paid in the year following that in which they were earned, Hudson
+recorded the amounts as expenses.
+2. The company overstated merchandise inventory on December 31, 2021, by €1,900, as the
+result of errors made in the footings and extensions on the inventory sheets.
+3. On December 31, 2022, Hudson expensed unexpired insurance of €1,200, applicable to
+4. The company did not record on December 31, 2022, interest receivable in the amount of
+5. On January 2, 2022, Hudson sold for €1,800 a piece of equipment costing €3,900. At the
+date of sale, the equipment had accumulated depreciation of €2,400. The company recorded
+the cash received as Miscellaneous Income in 2022. In addition, the company continued to
+record depreciation for this equipment in both 2022 and 2023 at the rate of 10 percent of
+cost.
+The first step in preparing the worksheet is to prepare a schedule showing the corrected net
+income amounts for the years ended December 31, 2021, 2022, and 2023. Each correction of the
+amount originally reported is clearly labeled. The next step is to indicate the statement of
+financial position accounts affected as of December 31, 2023. Illustration 22.29 shows the
+completed worksheet for Hudson Haulers.
+Assuming that Hudson has not closed the books, correcting entries on December 31, 2023,
+are as follows.
+
+ILLUSTRATION 22.29 Worksheet to Correct Income and Statement of Financial
+Position Errors
+If Hudson Haulers has closed the books for 2023, the correcting entries are:
+Preparation of Financial Statements with Error Corrections
+
+Until now, our discussion of error analysis has focused on identifying the type of error involved
+and accounting for its correction in the records. We have noted that companies must present the
+correction of the error on comparative financial statements.
+The following example illustrates how a company would restate a typical year’s financial
+statements, given many different errors.
+Dick & Wally’s Outlet is a small retail outlet in the town of Holiday. Lacking expertise in
+accounting, the company does not keep adequate records, and numerous errors have occurred in
+recording accounting information.
+1. The bookkeeper inadvertently failed to record a cash receipt of $1,000 on the sale of
+merchandise in 2023.
+2. Accrued wages expense at the end of 2022 was $2,500; at the end of 2023, $3,200. The
+company does not accrue for wages; all wages are charged to Administrative Expenses.
+3. The company had not provided an allowance for estimated uncollectible receivables. Dick
+and Wally decided to set up such an allowance for the estimated probable losses, as of
+December 31, 2023, for 2022 accounts of $700, and for 2023 accounts of $1,500. They also
+decided to correct the charge against each year so that it showed the losses (actual and
+estimated) relating to that year’s sales. The company has written off accounts to bad debt
+expense (selling expense) as follows.
+In 2022 In 2023
+2022 accounts
+2023 accounts
+4. Unexpired insurance not recorded at the end of 2022 was $600, and at the end of 2023,
+$400. All insurance is charged to Administrative Expenses.
+5. An account payable of $6,000 should have been a note payable.
+6. During 2022, the company sold for $7,000 an asset that cost $10,000 and had a book value
+of $4,000. At the time of sale, Cash was debited and Miscellaneous Income was credited for
+7. As a result of the last transaction, the company overstated depreciation expense (an
+administrative expense) in 2022 by $800 and in 2023 b y $1,200.
+Illustration 22.30 presents a worksheet that begins with the unadjusted trial balance of Dick
+& Wally’s Outlet. You can determine the correcting entries and their effect on the financial
+statements by examining the worksheet.
+
+ILLUSTRATION 22.30 Worksheet to Analyze Effect of Errors in Financial
+Statements
+Review and Practice
+Key Terms Review
+changes in accounting estimates
+change in accounting policy
+corrections of an error
+counterbalancing errors
+cumulative effect
+
+direct effects of a change in accounting policy
+economic consequences
+impracticable
+indirect effects related to a change in accounting policy
+non-counterbalancing errors
+prior period adjustments
+prospectively
+retrospective application
+retrospective restatement (n)
+Learning Objectives Review
+1 Discuss the types of accounting changes and the accounting for changes in
+accounting policies.
+The two different types of accounting changes are as follows. (1) Change in accounting policy: a
+change from one accepted accounting policy to another accepted accounting policy. (2) Change
+in accounting estimate: a change that occurs as the result of new information or as additional
+experience is acquired.
+A change in accounting policy involves a change from one accepted accounting policy to
+another. A change in accounting policy is not considered to result from the adoption of a new
+policy in recognition of events that have occurred for the first time or that were previously
+immaterial. If the accounting policy previously followed was not acceptable or if the policy was
+applied incorrectly, a change to an accepted accounting policy is considered a correction of an
+error.
+The general requirement for changes in accounting policy is retrospective application. Under
+retrospective application, companies change prior years’ financial statements on a basis
+consistent with the newly adopted policy. They treat any part of the effect attributable to years
+prior to those presented as an adjustment of the earliest retained earnings presented.
+Retrospective application is impracticable if the prior period effect cannot be determined
+using every reasonable effort to do so. For example, in changing to average-cost, the base-year
+inventory for all subsequent average-cost calculations may be the opening inventory in the year
+the company adopts the method. There is no restatement of prior years’ income because it is
+often too impractical.
+2 Describe the accounting and reporting for changes in estimates.
+Companies report changes in estimates prospectively. That is, companies should make no
+changes in previously reported results. They do not adjust opening balances nor change financial
+statements of prior periods.
+3 Describe the accounting for correction of errors.
+Companies must correct errors as soon as they discover them, by proper entries in the accounts,
+and report them in the financial statements. The profession requires that a company treat
+
+corrections of errors as prior period adjustments, record them in the year in which it
+discovered the errors, and report them in the financial statements in the proper periods. If
+presenting comparative statements, a company should restate the prior statements affected to
+correct for the errors. The company need not repeat the disclosures in the financial statements
+of subsequent periods.
+4 Analyze the effect of errors.
+Three types of errors can occur. (1) Statement of financial position errors, which affect only the
+presentation of asset, liability, or equity accounts. (2) Income statement errors, which affect
+only the presentation of revenue, expense, gain, or loss accounts in the income statement. (3)
+Statement of financial position and income statement errors, which involve both the statement
+of financial position and income statement. The third type of error is further classified into two
+types. (1) Counterbalancing errors are offset or corrected over two periods. (2) Non-
+counterbalancing errors are not offset in the next accounting period and take longer than two
+periods to correct themselves.
+As an aid to understanding accounting changes, we provide the following glossary. [10]
+Enhanced Review and Practice
+Go online for multiple-choice questions with solutions, review exercises with solutions,
+and a full glossary of all key terms.
+
+Key Terms Related to Accounting Changes
+Accounting Policies. The specific principles, bases, conventions, rules, and practices
+applied by an entity in preparing and presenting financial statements.
+Change in Accounting Estimate. An adjustment of the carrying amount of an asset or a
+liability, or the amount of the periodic consumption of an asset, that results from the
+assessment of the present status of, and expected future benefits and obligations associated
+with, assets and liabilities. Changes in accounting estimates result from new information or
+new developments and, accordingly, are not corrections of errors.
+Direct Effects of a Change in Accounting Policy. Those recognized changes in assets
+or liabilities necessary to effect a change in accounting policy.
+Errors. Omissions from, and misstatements in, the entity’s financial statements for one or
+more prior periods arising from the failure to use, or misuse of, representationally faithful
+information that: (1) was available when financial statements for those periods were
+authorized for issue; and (2) could reasonably be expected to have been obtained and taken
+into account in the preparation and presentation of those financial statements. Such errors
+include the effects of mathematical mistakes, mistakes in applying accounting policies,
+oversights or misinterpretations of facts, and fraud.
+Impracticable. Applying a requirement is impracticable when the entity cannot apply it
+after making every reasonable effort to do so. For a particular prior period, it is
+impracticable to apply a change in an accounting policy retrospectively or to make a
+retrospective restatement to correct an error when (1) the effects of the retrospective
+application or retrospective restatement are not determinable; (2) the retrospective
+application or retrospective restatement requires assumptions about what management’s
+intent would have been in that period; or (3) the retrospective application or retrospective
+restatement requires significant estimates of amounts, and it is impossible to report
+objectively based on those estimates.
+Indirect Effects of a Change in Accounting Policy. Any changes to current or future
+cash flows of an entity that result from making a change in accounting policy that is applied
+retrospectively.
+Prospective Application. Change in accounting policy that requires (1) applying the new
+accounting policy to transactions, other events, and conditions occurring after the date at
+which the policy is changed; and (2) recognizing the effect of the change in the accounting
+estimate in the current and future periods affected by the change.
+Retrospective Application. Applying a new accounting policy to transactions, other
+events, and conditions, as if that policy had always been applied.
+Retrospective Restatement. Correcting the recognition, measurement, and disclosure of
+amounts of elements of financial statements, as if a prior period error had never occurred.
+Practice Problem
+Wangerin Company is in the process of adjusting and correcting its books at the end of 2022.
+In reviewing its records, the following information is compiled.
+
+1. At December 31, 2022, Wangerin decided to change the depreciation method on its office
+equipment from double-declining-balance to straight-line. The equipment had an original
+cost of $200,000 when purchased on January 1, 2020. It has a 10-year useful life and no
+residual value. Depreciation expense recorded prior to 2022 under the double-declining-
+balance method was $72,000. Wangerin has already recorded 2022 depreciation expense
+of $25,600 using the double-declining-balance method.
+2. Before 2022, Wangerin accounted for its income from long-term construction contracts
+using the zero-profit method. Early in 2022, Wangerin changed to the percentage-of-
+completion basis for accounting purposes. It continues to use the zero-profit method for
+tax purposes. Income for 2022 has been recorded using the percentage-of-completion
+method. The following information is available.
+Pretax Income
+Percentage-of-Completion Completed-Contract
+Prior to 2022
+3. Insurance for a 12-month period purchased on November 1 of this year was charged to
+insurance expense in the amount of $3,300 because “the amount of the check is about
+the same every year.”
+4. Reported sales revenue for the year is $1,908,000. This includes all sales taxes collected
+for the year. The sales tax rate is 6%. Because the sales tax is forwarded to the
+Department of Revenue, the Sales Tax Expense account is debited. The bookkeeper
+thought that “the sales tax is a selling expense.” At the end of the current year, the
+balance in the Sales Tax Expense account is $103,400.
+Instructions
+Prepare the journal entries necessary at December 31, 2022, to record the above corrections
+and changes. The books are still open for 2022. The income tax rate is 40%. Wangerin has not
+yet recorded its 2022 income tax expense and payable amounts so current-year tax effects may
+be ignored. Prior-year tax effects must be considered in item 2.
+Solution
+1. Accumulated Depreciation—Equipment
+Depreciation Expense
+9,600*
+*Equipment cost
+Depreciation before 2022
+Book value
+Depreciation recorded
+Depreciation to be taken ($128,000 ÷ 8)
+Difference
+2. Construction in Process
+Deferred Tax Liability
+54,000*
+Retained Earnings
+*($450,000 – $315,000) × .40
+
+3. Prepaid Insurance ($3,300 × 10⁄12)
+Insurance Expense
+4. Sales Revenue [$1,908,000 ÷ (1.00 + .06) × .06]
+Sales Taxes Payable
+Sales Taxes Payable
+Sales Tax Expense
+Exercises, Problems, Problem Solution Walkthrough Videos, Data Analytics Activities, and
+many more assessment tools and resources are available for practice in Wiley’s online
+courseware.
+Questions
+1. In recent years, the financial press has indicated that many companies have changed their
+accounting policies. What are the major reasons why companies change accounting policies?
+2. State how each of the following items is reflected in the financial statements.
+a. Change from FIFO to average-cost method for inventory valuation purposes.
+b. Charge for failure to record depreciation in a previous period.
+c. Litigation won in current year, related to prior period.
+d. Change in the realizability of certain receivables.
+e. Impairment of receivables.
+f. Change from the percentage-of-completion to the cost-recovery method for reporting net
+income.
+3. Discuss briefly the three approaches that have been suggested for reporting changes in
+accounting policies.
+4. Identify and describe the approach the IASB requires for reporting changes in accounting
+policies.
+5. What is an indirect effect of a change in accounting policy? Briefly describe the approach to
+reporting the indirect effects of a change in accounting policy.
+6. Define a change in estimate and provide an illustration.
+7. Lenexa State Bank has followed the practice of capitalizing certain marketing costs and
+amortizing these costs over their expected life. In the current year, the bank determined that the
+future benefits from these costs were doubtful. Consequently, the bank adopted the policy of
+expensing these costs as incurred. How should the bank report this accounting change in the
+comparative financial statements?
+8. Indicate how the following items are recorded in the accounting records in the current year of
+Coronet Co.
+a. Impairment of goodwill.
+b. A change in depreciating plant assets from the accelerated to the straight-line method.
+c. Large write-off of inventories because of obsolescence.
+
+d. Change from the cash basis to the accrual basis of accounting.
+e. Change from average-cost to FIFO method for inventory valuation purposes.
+f. Change in the estimate of service lives for plant assets.
+9. Whittier Construction had followed the practice of expensing all materials assigned to a
+construction job without recognizing any residual inventory. On December 31, 2022, it was
+determined that residual inventory should be valued at CHF52,000. Of this amount, CHF29,000
+arose during the current year. How does this information affect the financial statements to be
+prepared at the end of 2022?
+10. Parsons Inc. wishes to change from the cost-recovery to the percentage-of-completion
+method for financial reporting purposes. The auditor indicates that a change would be permitted
+only if it is to a preferable method. What difficulties develop in assessing preferability?
+11. Discuss how a change in accounting policy is handled when it is impracticable to determine
+previous amounts.
+12. What relevance do political costs have to accounting changes?
+13. What are some of the key motivations that managers might have to change accounting
+policies?
+14. Distinguish between counterbalancing and non-counterbalancing errors. Give an example of
+each.
+15. Discuss and illustrate how a correction of an error in previously issued financial statements
+should be handled.
+16. Prior to 2022, Heberling Inc. excluded manufacturing overhead costs from work in process
+and finished goods inventory. These costs were expensed as incurred. In 2022, the company
+decided to change its accounting methods for manufacturing inventories to full costing by
+including these costs as product costs. Assuming that these costs are material, how should this
+change be reflected in the financial statements for 2021 and 2022?
+17. Elliott AG failed to record accrued salaries for 2020, €2,000; 2021, €2,100; and 2022,
+€3,900. What is the amount of the overstatement or understatement of Retained Earnings at
+December 31, 2023?
+18. In January 2021, installation costs of £6,000 on new equipment were charged to
+Maintenance and Repairs Expense. Other costs of this equipment of £30,000 were correctly
+recorded and have been depreciated using the straight-line method with an estimated life of 10
+years and no residual value. At December 31, 2022, it is decided that all of the equipment has a
+remaining useful life of 20 years, starting with January 1, 2022. What entry or entries should be
+made in 2022 to correctly record transactions related to equipment, assuming the equipment
+has no residual value? The books have not been closed for 2022, and depreciation expense has
+not yet been recorded for 2022.
+19. An entry to record Purchases and related Accounts Payable of ¥130,000 for merchandise
+purchased on December 23, 2022, was recorded in January 2023. This merchandise was not
+included in inventory at December 31, 2022. What effect does this error have on reported net
+income for 2022? What entry should be made to correct for this error, assuming that the books
+are not closed for 2022?
+20. Equipment was purchased on January 2, 2022, for $24,000, but no portion of the cost has
+been charged to depreciation. The company wishes to use the straight-line method for these
+assets, which have been estimated to have a life of 10 years and no residual value. What effect
+
+does this error have on net income in 2022? What entry is necessary to correct for this error,
+assuming that the books are not closed for 2022?
+Brief Exercises
+LEARNING OBJECTIVE 5
+Compare the procedures for accounting changes and error analysis under IFRS and U.S.
+GAAP.
+The FASB has issued guidance on changes in accounting policies, changes in estimates, and
+corrections of errors. These changes essentially converge U.S. GAAP with IAS 8.
+Relevant Facts
+Following are the key similarities and differences between U.S. GAAP and IFRS related to the
+accounting for accounting changes.
+Similarities
+The accounting for changes in estimates is similar between U.S. GAAP and IFRS.
+Both U.S. GAAP and IFRS use the retrospective approach for accounting for a change in
+accounting policy (principle).
+Under U.S. GAAP and IFRS, if determining the effect of a change in accounting policy is
+considered impracticable, then a company should report the effect of the change in the
+period in which it believes it practicable to do so, which may be the current period.
+Differences
+One area in which U.S. GAAP and IFRS differ is the reporting of error corrections in
+previously issued financial statements. While both sets of standards require restatement,
+U.S. GAAP is an absolute standard—there is no exception to this rule.
+Under U.S. GAAP, the impracticability exception applies only to changes in accounting
+principle (policy). Under IFRS, this exception applies both to changes in accounting
+principles (policies) and to the correction of errors.
+U.S. GAAP has detailed guidance on the accounting and reporting of indirect effects. As
+indicated in the chapter, IFRS (IAS 8) does not specifically address the accounting and
+reporting for indirect effects of changes in accounting principles.
+About the Numbers
+A tangential discussion of accounting changes concerns how companies that follow IFRS report
+financial information related to the equity method of accounting. Under the equity method, the
+
+investor increases its investment for the pro-rata share of the net income of the investee (often
+referred to as an associated company under IFRS). On the other hand, the investor reduces its
+investment for any dividends received from the investee. Both IFRS and U.S. GAAP follow this
+accounting approach.
+However, there is a subtle difference between IFRS and U.S. GAAP in how the investor evaluates
+the accounting policies of the investee. To illustrate, assume that Kirkland Company (the
+investor company) uses the FIFO inventory method, and Margo Company (the investee
+company) uses average-cost for its inventory valuation. If Kirkland follows IFRS, Kirkland must
+conform the accounting policies of Margo to its own accounting policies. Therefore, Kirkland
+adjusts the net income of Margo so its net income is reported on the FIFO basis.
+This procedure is not used under U.S. GAAP. Under U.S. GAAP, Kirkland ignores the fact that
+Margo uses a different method of inventory valuation. Kirkland records its pro-rata share of the
+net income of Margo without adjusting for the fact that Margo uses a different inventory
+valuation method. As a result, under U.S. GAAP there is a lack of comparability in the inventory
+methods used to report net income for Kirkland Company.
+On the Horizon
+Because U.S. GAAP and IFRS are, for the most part, similar in the area of accounting changes
+and reporting the effects of errors, there is no active project in this area. A related development
+involves the presentation of comparative data. U.S. GAAP (SEC) requires comparative
+information for a three-year period. Under IFRS, when a company prepares financial statements
+on a new basis, two years of comparative data are reported. Use of the shorter comparative data
+period must be addressed before U.S. companies can adopt IFRS. The IASB has a project related
+to materiality and accounting changes, which could lead to additional differences in the
+accounting for this area relative to U.S. GAAP. See the IFRS website for more information.
+GAAP Self-Test Questions
+1. Which of the following is false?
+a. U.S. GAAP and IFRS have the same absolute standard regarding the reporting of error
+corrections in previously issued financial statements.
+b. The accounting for changes in estimates is similar between U.S. GAAP and IFRS.
+c. Under IFRS, the impracticability exception applies both to changes in accounting principles
+and to the correction of errors.
+d. U.S. GAAP has detailed guidance on the accounting and reporting of indirect effects; IFRS
+does not.
+2. Which of the following is not classified as an accounting change by U.S. GAAP?
+a. Change in accounting policy.
+b. Change in accounting estimate.
+c. Errors in financial statements.
+d. None of the above.
+3. U.S. GAAP requires companies to use which of the following methods for reporting changes
+in accounting policies?
+
+a. Cumulative effect approach.
+b. Retrospective approach.
+c. Prospective approach.
+d. Averaging approach.
+4. Under U.S. GAAP, the retrospective approach should not be used if:
+a. retrospective application requires assumptions about management’s intent in a prior
+period.
+b. the company does not have trained staff to perform the analysis.
+c. the effects of the change have counterbalanced.
+d. the effects of the change have not counterbalanced.
+5. Which of the following is true regarding whether U.S. GAAP specifically addresses the
+accounting and reporting for effects of changes in accounting policies?
+Direct effects Indirect effects
+a.
+Yes
+Yes
+b.
+No
+No
+c.
+No
+Yes
+d.
+Yes
+No
+GAAP Concepts and Application
+GAAP22.1 What is the major difference in accounting for errors under IFRS versus U.S. GAAP?
+GAAP22.2 How are direct and indirect changes in accounting policy reported under U.S.
+GAAP?
+GAAP22.3 What is the difference in approach between U.S. GAAP and IFRS regarding the
+equity method of accounting for the investor?
+Answers to GAAP Self-Test Questions
+1. a 2. c 3. b 4. a 5. a
+Notes
+1 In some cases, a particular transaction is not specifically addressed by IFRS. In this situation,
+IAS 8 sets out a hierarchy of guidance to be considered in the selection of an accounting
+policy. The primary requirement is that management must use judgment to develop
+information that is relevant and representationally faithful. In making that judgment, it
+should use the following sources in descending order: (1) the requirements and guidance in
+IFRS dealing with similar and related issues; (2) the definitions, recognition criteria, and
+measurement concepts for the elements in the Conceptual Framework; and (3) other
+materials, such as standards from other countries, that use a similar conceptual framework.
+[4]
+2 Financial statements of subsequent periods need not repeat these disclosures. [5]
+
+3 The rationale for this approach is that companies should recognize, in the period the adoption
+of the new accounting policy occurs (not the prior period), the effect on cash flows. That is,
+the accounting change is a necessary “past event” in the definition of an asset or liability that
+gives rise to the accounting recognition of the indirect effect in the current period.
+4 The term retrospective restatement is used for the process of revising previously issued
+financial statements to reflect a correction of an error. This term distinguishes an error
+correction from a change in accounting policy, referred to as retrospective application.
+Source: Adapted from “2018 Financial Restatements: An Eighteen Year Comparison,” Audit Analytics Trend Reports
+(August 26, 2019).

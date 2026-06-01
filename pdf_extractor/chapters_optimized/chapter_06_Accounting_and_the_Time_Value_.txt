@@ -1,0 +1,1382 @@
+CHAPTER 6
+Accounting and the Time Value of Money
+LEARNING OBJECTIVES
+After studying this chapter, you should be able to:
+1. Describe the fundamental concepts related to the time value of money.
+2. Solve future and present value of 1 problems.
+3. Solve future value of ordinary and annuity due problems.
+4. Solve present value of ordinary and annuity due problems.
+5. Solve present value problems related to deferred annuities, bonds, and expected cash flows.
+This chapter also includes numerous conceptual discussions that are integral to the
+topics presented here.
+PREVIEW OF CHAPTER 6
+As indicated in the following opening story, as a financial expert in today’s accounting
+environment, you will be expected to make present and future value measurements and to
+understand their implications. The purpose of this chapter is to present the tools and techniques
+that will help you measure the present value of future cash inflows and outflows. The content and
+organization of the chapter are as follows. (Note that this chapter does not include a Global
+Accounting Insights section as the time value of money concept is universal.)
+How Do I Measure That?
+A significant part of accounting is measurement. And as we discussed in Chapter 2, we have a mixed-
+attribute measurement model. That is, many items are measured based on historical cost (e.g.,
+property, plant, and equipment, inventory), but increasingly accounting measurements are based on
+fair value (e.g., financial instruments, impairments). Determining fair value of an item is fairly
+straightforward when market prices are available (Level 1 in the fair value hierarchy). However, when a
+market price is not available, accountants must rely on valuation models to develop a fair value
+estimate (Level 3 of the fair value hierarchy).
+
+Developing fair value estimates based on a valuation model generally involves discounted cash flow
+techniques, which have three primary elements: (1) estimating the amounts and timing of future cash
+flows, (2) developing probability estimates for those cash flows, and (3) determining the appropriate
+discount rate to apply to the expected cash flows to arrive at a fair value estimate. Seems pretty
+straightforward, right? Actually, this can be a challenging process when applied to the variety of
+complex assets and liabilities for which IFRS requires a fair value estimate.
+For example, many European financial institutions faced this challenge when they had to deal with
+losses on Greek bond holdings. Major banks, such as Crédit Agricole (FRA), Royal Bank of
+Scotland (GBR), and Dexia (FRA–BEL), and many others incurred substantial losses after securities
+markets seized up to the point where valid market prices for investment and loans were not readily
+available. A similar valuation challenge arose for companies with investments in auction rates
+securities (ARS). The fair value of ARS is generally determined at quarterly auctions. However, these
+auctions failed during the financial crisis, and ARS investors were forced to use valuation models
+rather than market prices to determine fair value.
+The IASB provides fair value estimation guidance (IFRS 13). Most recently, as part of the updated
+Conceptual Framework, the IASB explicitly addressed measurement based on current values, which
+could be fair value, value in use, or current cost. The Board also performs ongoing assessment of
+whether and to what extent additional valuation guidance is needed in determining when to apply
+current cost concepts. In this regard, standard-setters have established advisory groups comprised of
+accounting and valuation professionals, preparers and users of financial statements, regulators, and
+other industry representatives. An example is the Valuation Resource Group (VRG), which
+provides multiple viewpoints on application issues relating to current value (including fair value) for
+financial reporting purposes. A sampling of the issues discussed by the VRG follows.
+Measurement of contingent consideration in a business combination.
+Determining the carrying amount of a reporting unit when performing the goodwill impairment
+test.
+Measurement of uncertainty analysis disclosures.
+The list of topics illustrates the variety and complexity of the issues that must be addressed in
+implementing the current value measurement principle. The VRG discussion of these items helps
+develop appropriate approaches for applying valuation guidance to specific examples. For example,
+with respect to the contingent consideration topic, the VRG noted that taxes must be considered when
+developing future cash flow estimates and that, in some cases, these tax effects are different for assets
+and liabilities.
+The VRG provides good counsel to the standard-setters with respect to applying the fair value
+measurement principle. After studying this chapter, you should have a better understanding of time
+value of money principles and discounted cash flow techniques as they are applied in accounting
+measurements.
+Review and Practice
+Go to the Review and Practice section at the end of the chapter for a targeted summary review
+and practice problem with solution. Multiple-choice questions with annotated solutions, as well
+as additional exercises and practice problem with solutions, are also available online.
+Basic Time Value Concepts
+LEARNING OBJECTIVE 1
+Describe the fundamental concepts related to the time value of money.
+
+In accounting (and finance), the phrase time value of money indicates a relationship between time
+and money—that a dollar received today is worth more than a dollar promised at some time in the
+future. Why? Because of the opportunity to invest today’s dollar and receive interest on the
+investment. Yet, when deciding among investment or borrowing alternatives, it is essential to be able
+to compare today’s dollar and tomorrow’s dollar on the same footing—to compare “apples to apples.”
+Investors do that by using the concept of present value, which has many applications in accounting.
+Applications of Time Value Concepts
+Financial reporting uses different measurements in different situations—historical cost for equipment,
+net realizable value for inventories, fair value for investments. As we discussed in Chapters 2 and 5, the
+IASB increasingly is requiring the use of fair values in the measurement of assets and liabilities.
+According to the IASB’s recent guidance on fair value measurements, the most useful fair value
+measures are based on market prices in active markets. Within the fair value hierarchy, these are
+referred to as Level 1. Recall that Level 1 fair value measures are the least subjective because they are
+based on quoted prices, such as a closing share price in an active market.
+However, for many assets and liabilities, market-based fair value information is not readily available.
+In these cases, fair value can be estimated based on the expected future cash flows related to the asset
+or liability. Such fair value estimates are generally considered Level 3 (most subjective) in the fair
+value hierarchy because they are based on unobservable inputs, such as a company’s own data or
+assumptions related to the expected future cash flows associated with the asset or liability. As
+discussed in the fair value guidance, present value techniques are used to convert expected cash flows
+into present values, which represent an estimate of fair value. [1] (See the Authoritative Literature
+References section near the end of the chapter.)
+Because of the increased use of present values in this and other contexts, it is important to understand
+present value techniques.1 We list some of the applications of present value–based measurements to
+accounting topics below; we discuss many of these in the following chapters.
+Present Value–Based Accounting Measurements
+1. Notes. Valuing non-current receivables and payables that carry no stated interest rate or a
+lower than market interest rate.
+2. Leases. Valuing assets and obligations to be capitalized under long-term leases and
+measuring the amount of the lease payments and annual leasehold amortization.
+3. Pensions and Other Postretirement Benefits. Measuring service cost components of
+employers’ postretirement benefits expense and postretirement benefits obligation.
+4. Non-Current Assets. Evaluating alternative long-term investments by discounting future
+cash flows. Determining the value of assets acquired under deferred payment contracts.
+Measuring impairments of assets.
+5. Share-Based Compensation. Determining the fair value of employee services in
+compensatory share-option plans.
+6. Business Combinations. Determining the value of receivables, payables, liabilities,
+accruals, and commitments acquired or assumed in a “purchase.”
+7. Disclosures. Measuring the value of future cash flows from oil and gas reserves for
+disclosure in supplementary information.
+8. Environmental Liabilities. Determining the fair value of future obligations for asset
+retirements.
+
+In addition to accounting and business applications, compound interest, annuity, and present value
+concepts apply to personal finance and investment decisions. In purchasing a home or car, planning for
+retirement, and evaluating alternative investments, you will need to understand time value of money
+concepts.
+The Nature of Interest
+Interest is payment for the use of money. It is the excess cash received or repaid over and above the
+amount lent or borrowed (principal). For example, Corner Bank lends Hillfarm Properties $10,000
+with the understanding that it will repay $11,500. The excess over $10,000, or $1,500, represents
+interest expense for Hillfarm and interest revenue for Corner Bank.
+The lender generally states the amount of interest as a rate over a specific period of time. For example,
+if Hillfarm borrowed $10,000 for one year before repaying $10,600, the rate of interest is 6 percent per
+year ($600 ÷ $10,000). The custom of expressing interest as a percentage rate is an established
+business practice.2 In fact, business managers make investing and borrowing decisions on the basis of
+the rate of interest involved, rather than on the actual dollar amount of interest to be received or paid.
+How is the interest rate determined? One important factor is the level of credit risk (risk of non-
+payment) involved. Other factors being equal, the higher the credit risk, the higher the interest rate.
+Low-risk borrowers like Nokia (FIN) or adidas (DEU) can probably obtain a loan at or slightly below
+the going market rate of interest. However, a bank would probably charge the neighborhood grocer
+several percentage points above the market rate, if granting the loan at all.
+The amount of interest involved in any financing transaction is a function of the following three
+variables.
+Variables in Interest Computation
+1. Principal. The amount borrowed or invested.
+2. Interest Rate. A percentage of the outstanding principal.
+3. Time. The number of years or fractional portion of a year that the principal is outstanding.
+Thus, the following three relationships apply:
+The larger the principal amount, the larger the dollar amount of interest.
+The higher the interest rate, the larger the dollar amount of interest.
+The longer the time period, the larger the dollar amount of interest.
+Simple Interest
+Companies compute simple interest on the amount of the principal only. It is the return on (or
+growth of) the principal for one time period. The following equation expresses simple interest.3
+Interest = p × i × n
+where
+p = principal
+i = rate of interest for a single period
+n = number of periods
+To illustrate, Barstow Electric Inc. borrows $10,000 for three years with a simple interest rate of 8%
+per year. It computes the total interest it will pay as follows.
+Interest = p × i × n
+
+= $10,000 × .08 × 3
+= $2,400
+If Barstow borrows $10,000 for three months at 8%, the interest is $200, computed as follows.
+Interest = $10,000 × .08 × 3/12
+= $200
+Compound Interest
+John Maynard Keynes, the legendary English economist, supposedly called it magic. Mayer Rothschild,
+the founder of the famous European banking firm, proclaimed it the eighth wonder of the world.
+Today, people continue to extol its wonder and its power. The object of their affection? Compound
+interest.
+We compute compound interest on principal and on any interest earned that has not been paid or
+withdrawn. It is the return on (or growth of) the principal for two or more time periods. Compounding
+computes interest not only on the principal but also on the interest earned to date on that principal,
+assuming the interest is left on deposit.
+To illustrate the difference between simple and compound interest, assume that Vasquez Company
+deposits $10,000 in the Last National Bank, where it will earn simple interest of 9% per year. It
+deposits another $10,000 in the First State Bank, where it will earn compound interest of 9% per year
+compounded annually. In both cases, Vasquez will not withdraw any interest until three years from the
+date of deposit. Illustration 6.1 shows the computation of interest Vasquez will receive, as well as its
+accumulated year-end balance.
+ILLUSTRATION 6.1 Simple vs. Compound Interest
+Note in Illustration 6.1 that simple interest uses the initial principal of $10,000 to compute the interest
+in all three years. Compound interest uses the accumulated balance (principal plus interest
+to date) at each year-end to compute interest in the succeeding year. This explains the larger
+balance in the compound interest account.
+Obviously, any rational investor would choose compound interest, if available, over simple interest. In
+the example above, compounding provides $250.29 of additional interest revenue. For practical
+purposes, compounding assumes that unpaid interest earned becomes a part of the principal.
+Furthermore, the accumulated balance at the end of each year becomes the new principal sum on
+which interest is earned during the next year.
+Compound interest is the typical interest computation applied in business situations. This occurs
+particularly in our global economy, where companies use and finance large amounts of long-lived
+assets over long periods of time. Financial managers view and evaluate their investment opportunities
+in terms of a series of periodic returns, each of which they can reinvest to yield additional returns.
+
+Simple interest usually applies only to short-term investments and debts that involve a time span of
+one year or less.
+What Do the Numbers Mean?
+A Pretty Good Start
+The continuing debate by governments as to how to provide retirement benefits to their citizens
+serves as a great context to illustrate the power of compounding. One proposed idea is for the
+government to give $1,000 to every citizen at birth. This gift would be deposited in an account
+that would earn interest tax-free until the citizen retires. Assuming the account earns a modest
+5% annual return until retirement at age 65, the $1,000 would grow to $23,839. With monthly
+compounding, the $1,000 deposited at birth would grow to $25,617.
+Why start so early? If the government waited until age 18 to deposit the money, it would grow to
+only $9,906 with annual compounding. That is, reducing the time invested by a third results in
+more than a 50% reduction in retirement money. This example illustrates the importance of
+starting early when the power of compounding is involved.
+Compound Interest Tables
+We present five different types of compound interest tables at the end of this chapter. These tables
+should help you study this chapter as well as solve other problems involving interest.
+Interest Tables and Their Contents
+1. Future Value of 1 Table. Contains the amounts to which 1 will accumulate if deposited
+now at a specified rate and left for a specified number of periods (Table 6.1).
+2. Present Value of 1 Table. Contains the amounts that must be deposited now at a specified
+rate of interest to equal 1 at the end of a specified number of periods (Table 6.2).
+3. Future Value of an Ordinary Annuity of 1 Table. Contains the amounts to which
+periodic rents of 1 will accumulate if the payments (rents) are invested at the end of each
+period at a specified rate of interest for a specified number of periods (Table 6.3).
+4. Present Value of an Ordinary Annuity of 1 Table. Contains the amounts that must be
+deposited now at a specified rate of interest to permit withdrawals of 1 at the end of regular
+periodic intervals for the specified number of periods (Table 6.4).
+5. Present Value of an Annuity Due of 1 Table. Contains the amounts that must be
+deposited now at a specified rate of interest to permit withdrawals of 1 at the beginning of
+regular periodic intervals for the specified number of periods (Table 6.5).
+Illustration 6.2 shows the general format and content of these tables. It illustrates how much
+principal plus interest a dollar accumulates to at the end of each of five periods, at three different rates
+of compound interest.
+
+Future Value of 1 at Compound Interest
+(Excerpt from Table 6.1)
+Period
+4%
+5%
+6%
+ILLUSTRATION 6.2 Excerpt from Table 6.1
+The compound tables rely on basic formulas. For example, the formula to determine the future value
+factor (FVF) for 1 is:
+FVFn,i = (1 + i)n
+where
+FVFn,i = future value factor for n periods at i interest
+n = number of periods
+i = rate of interest for a single period
+Financial calculators include preprogrammed FVFn,i and other time value of money formulas.
+To illustrate the use of interest tables to calculate compound amounts, assume an interest rate of 5%.
+Illustration 6.3 shows the future value to which 1 accumulates (the future value factor).
+Period Beginning-of-Period Amount × Multiplier (1 + i) = End-of-Period Amount* Formula (1 + i)n
+*Note that these amounts appear in Table 6.1 in the 5% column.
+ILLUSTRATION 6.3 Accumulation of Compound Amounts
+Throughout our discussion of compound interest tables, note the intentional use of the term periods
+instead of years. Interest is generally expressed in terms of an annual rate. However, many business
+circumstances dictate a compounding period of less than one year. In such circumstances, a company
+must convert the annual interest rate to correspond to the length of the period. To convert the “annual
+interest rate” into the “compounding period interest rate,” a company divides the annual rate by
+the number of compounding periods per year.
+In addition, companies determine the number of periods by multiplying the number of years
+involved by the number of compounding periods per year. To illustrate, assume an investment
+of $1 for 6 years at 8% annual interest compounded quarterly. Using Table 6.1, read the factor that
+appears in the 2% (8% ÷ 4) column on the 24th row—6 years × 4 compounding periods per year,
+namely 1.60844, or approximately $1.61. Thus, all compound interest tables use the term periods, not
+years, to express the quantity of n. Illustration 6.4 shows how to determine (1) the interest rate per
+compounding period and (2) the number of compounding periods in four situations of differing
+compounding frequency.4
+
+12% Annual Interest Rate over 5
+Years Compounded
+Interest Rate per
+Compounding Period
+Number of Compounding Periods
+Annually (1)
+.12 ÷ 1 = .12
+5 years × 1 compounding per year
+= 5 periods
+Semiannually (2)
+.12 ÷ 2 = .06
+5 years × 2 compoundings per year
+= 10 periods
+Quarterly (4)
+.12 ÷ 4 = .03
+5 years × 4 compoundings per year
+= 20 periods
+Monthly (12)
+.12 ÷ 12 = .01
+5 years × 12 compoundings per
+year = 60 periods
+ILLUSTRATION 6.4 Frequency of Compounding
+How often interest is compounded can substantially affect the rate of return. For example, a 9% annual
+interest compounded daily provides a 9.42% yield, or a difference of 0.42%. The 9.42% is the effective
+yield.5 The annual interest rate (9%) is the stated, nominal, or face rate. When the compounding
+frequency is greater than once a year, the effective-interest rate will always exceed the stated rate.
+Illustration 6.5 shows how compounding for five different time periods affects the effective yield and
+the amount earned by an investment of $10,000 for one year.
+Compounding Periods
+Interest Rate Annually Semiannually Quarterly Monthly Daily
+8%
+9%
+ILLUSTRATION 6.5 Comparison of Different Compounding Periods
+Fundamental Variables
+The following four variables are fundamental to all compound interest problems.
+Fundamental Variables
+1. Rate of Interest. Unless otherwise stated, an annual rate that must be adjusted to reflect
+the length of the compounding period if less than a year.
+2. Number of Time Periods. The number of compounding periods. (A period may be equal to
+or less than a year.)
+3. Future Value. The value at a future date of a given sum or sums invested assuming
+compound interest.
+4. Present Value. The value now (present time) of a future sum or sums discounted assuming
+compound interest.
+Illustration 6.6 depicts the relationship of these four fundamental variables in a time diagram.
+
+ILLUSTRATION 6.6 Basic Time Diagram
+In some cases, all four of these variables are known. However, at least one variable is unknown in
+many business situations. To better understand and solve the problems in this chapter, we encourage
+you to sketch compound interest problems in the form of the preceding time diagram.
+Single-Sum Problems
+LEARNING OBJECTIVE 2
+Solve future and present value of 1 problems.
+Many business and investment decisions involve a single amount of money that either exists now or
+will exist in the future. Single-sum problems are generally classified into one of the following two
+categories.
+1. Computing the unknown future value of a known single sum of money that is invested now for
+a certain number of periods at a certain interest rate.
+2. Computing the unknown present value of a known single sum of money in the future that is
+discounted for a certain number of periods at a certain interest rate.
+When analyzing the information provided, determine first whether the problem involves a future value
+or a present value. Then apply the following general rules, depending on the situation:
+If solving for a future value, accumulate all cash flows to a future point. In this instance,
+interest increases the amounts or values over time so that the future value exceeds the present
+value.
+If solving for a present value, discount all cash flows from the future to the present. In this
+case, discounting reduces the amounts or values, so that the present value is less than the future
+amount.
+Preparation of time diagrams aids in identifying the unknown as an item in the future or the present.
+Sometimes, the problem involves neither a future value nor a present value. Instead, the unknown is
+the interest or discount rate, or the number of compounding or discounting periods.
+Future Value of a Single Sum
+To determine the future value of a single sum, multiply the future value factor by its present value
+(principal), as follows.
+FV = PV(FVFn,i)
+where
+FV = future value
+
+PV = present value (principal or single sum)
+FVFn,i = future value factor for n periods at i interest
+As an example, Illustration 6.7 presents a single-sum problem for an investment.
+Single-Sum Problem
+Facts: Bruegger AG wants to determine the future value of €50,000 invested for five years
+compounded annually at an interest rate of 6%.
+Problem: Show this situation in time diagram form and determine the future value.
+Solution:
+Using the future value formula, Bruegger solves this investment problem as follows.
+Future value = PV(FVFn,i)
+= €50,000(FVF5,6%)
+= €50,000(1 + .06)5
+= €50,000(1.33823)
+= €66,912
+To determine the future value factor of 1.33823 in the formula above, Bruegger uses a financial
+calculator or reads the appropriate table, in this case Table 6.1 (6% column and the five-period row).
+ILLUSTRATION 6.7 Future Value Problem (n = 5, i = 6%)
+Companies can apply this time diagram and formula approach to routine business situations.
+Illustration 6.8 presents a future value problem in a business context.
+
+Future Value Problem
+Facts: Shanghai Electric Power (CHN) deposited ¥250 million in an escrow account with
+Industrial and Commercial Bank of China (CHN) at the beginning of 2022 as a commitment
+toward a power plant to be completed December 31, 2025.
+Problem: Show this situation in time diagram form and determine how much the
+company will have on deposit at the end of four years if interest is 10%, compounded
+semiannually.
+Solution:
+With a known present value of ¥250 million, a total of eight compounding periods (4 × 2), and an
+interest rate of 5% per compounding period (10% ÷ 2), the company can time-diagram this problem
+and determine the future value.
+Future value = ¥250,000,000(FVF8,5%)
+= ¥250,000,000(1 + .05)8
+= ¥250,000,000(1.47746)
+= ¥369,365,000
+Using a future value factor found in Table 6.1 (5% column, eight-period row), we find that the
+deposit of ¥250 million will accumulate to ¥369,365,000 by December 31, 2025.
+ILLUSTRATION 6.8 Future Value Problem (n = 8, i = 5%)
+Present Value of a Single Sum
+The Bruegger example showed that €50,000 invested at an annually compounded interest rate of 6%
+will equal €66,912 at the end of five years. It follows, then, that €66,912, five years in the future, is
+worth €50,000 now. That is, €50,000 is the present value of €66,912. The present value is the
+amount needed to invest now, to produce a known future value.
+The present value is always a smaller amount than the known future value, due to earned
+and accumulated interest. In determining the future value, a company moves forward in time using
+a process of accumulation. In determining present value, it moves backward in time using a process
+of discounting.
+As indicated earlier, a “present value of 1 table” appears at the end of this chapter as Table 6.2.
+Illustration 6.9 demonstrates the nature of such a table. It shows the present value of 1 for five
+different periods at three different rates of interest.
+
+Present Value of 1 at Compound Interest
+(Excerpt from Table 6.2)
+Period
+4%
+5%
+6%
+ILLUSTRATION 6.9 Excerpt from Table 6.2
+The following formula is used to determine the present value of 1 (present value factor):
+PV Fn,i =
+where
+PVFn,i = present value factor for n periods at i interest
+To illustrate, assuming an interest rate of 5%, the present value of 1 discounted for three periods is as
+shown in Illustration 6.10.
+Discount Periods
+÷ (1 + i)n = Present Value* Formula 1÷(1 + i)n
+1÷(1.05)1
+1÷(1.05)2
+1÷(1.05)3
+*Note that these amounts appear in Table 6.2 in the 5% column.
+ILLUSTRATION 6.10 Present Value of $1 Discounted at 5% for Three Periods
+The present value of any single sum (future value), then, is as follows.
+PV = FV(PVFn,i)
+where
+PV = present value
+FV = future value
+PVFn,i = present value factor for n periods at i interest
+As an example, Illustration 6.11 presents a present value of a single-sum problem.
+(1 + i)n
+
+Present Value of a Single Sum
+Facts: We know a future value of €73,466 is to be paid or received in five years, and want to know the
+present value.
+Problem: Show this situation in time diagram form and determine the present value of
+€73,466 to be received or paid in five years discounted at 8% compounded annually.
+Solution:
+Using the formula, we solve this problem as follows.
+Present value = FV(PVFn,i)
+= €73,466(PVF5,8%)
+= €73,466(
+)
+= €73,466(.68058)
+= €50,000 (rounded by €.51)
+To determine the present value factor of 0.68058, use a financial calculator or read the present
+value of a single sum in Table 6.2 (8% column, five-period row).
+ILLUSTRATION 6.11 Present Value Problem (n = 5, i = 8%)
+The time diagram and formula approach can be applied in a variety of situations. Illustration 6.12
+presents another present value problem.
+(1 + .08)5
+
+Present Value of a Single Sum
+Facts: A rich relative decides to give you $2,000 for a trip to Europe when you graduate from college
+three years from now. He proposes to finance the trip by investing a sum of money now at 8%
+compound interest that will provide you with $2,000 upon your graduation. The only conditions are
+that you graduate and that you tell him how much to invest now.
+Problem: Show this situation in time diagram form and determine the present value.
+Solution:
+Present value = $2,000(PVF3,8%)
+= $2,000(
+)
+= $2,000(.79383)
+= $1,587.66
+Advise your relative to invest $1,587.66 now to provide you with $2,000 upon graduation. To satisfy
+your relative’s other condition, you must pass this course (and many more).
+ILLUSTRATION 6.12 Present Value Problem (n = 3, i = 8%)
+Solving for Other Unknowns in Single-Sum Problems
+In computing either the future value or the present value in the previous single-sum illustrations, both
+the number of periods and the interest rate were known. In many business situations, both the future
+value and the present value are known, but the number of periods or the interest rate is unknown. The
+following two examples are single-sum problems (future value and present value) with either an
+unknown number of periods (n) or an unknown interest rate (i). These examples, and the
+accompanying solutions, demonstrate that knowing any three of the four values (future value, FV;
+present value, PV; number of periods, n; interest rate, i) allows you to derive the remaining unknown
+variable.
+Example—Computation of the Number of Periods
+The Village of Somonauk wants to accumulate $70,000 for the construction of a veterans monument
+in the town square. At the beginning of the current year, the Village deposited $47,811 in a memorial
+fund that earns 10% interest compounded annually. How many years will it take to accumulate
+$70,000 in the memorial fund?
+In this illustration, the Village knows both the present value ($47,811) and the future value ($70,000),
+along with the interest rate of 10%. Illustration 6.13 depicts this investment problem as a time
+diagram.
+(1 + .08)3
+
+ILLUSTRATION 6.13 Time Diagram to Solve for Unknown Number of Periods
+Knowing both the present value and the future value allows the Village to solve for the unknown
+number of periods. It may use either the future value or the present value formulas, as shown in
+Illustration 6.14.
+Future Value Approach
+Present Value Approach
+FV
+= PV (FV Fn,10%)
+$70,000 = $47,811(FV Fn,10%)
+FV Fn,10%
+=
+= 1.46410
+PV
+= FV (PV Fn,10%)
+$47,811 = $70,000(PV Fn,10%)
+PV Fn,10%
+=
+= .68301
+ILLUSTRATION 6.14 Solving for Unknown Number of Periods
+Using the future value factor of 1.46410, refer to Table 6.1 and read down the 10% column to find that
+factor in the 4-period row. Thus, it will take four years for the $47,811 to accumulate to $70,000 if
+invested at 10% interest compounded annually. Or, using the present value factor of 0.68301, refer to
+Table 6.2 and read down the 10% column to find that factor in the 4-period row.
+Example—Computation of the Interest Rate
+Advanced Design, SA needs €1,070,584 for basic research five years from now. The company currently
+has €800,000 to invest for that purpose. At what rate of interest must it invest the €800,000 to fund
+basic research projects of €1,070,584, five years from now?
+The time diagram in Illustration 6.15 depicts this investment situation.
+ILLUSTRATION 6.15 Time Diagram to Solve for Unknown Interest Rate
+Advanced Design may determine the unknown interest rate from either the future value approach or
+the present value approach, as Illustration 6.16 shows.
+
+Future Value Approach
+Present Value Approach
+FV
+= PV (FV F5,i)
+€1,070,584 = €800,000(FV F5,i)
+FV F5,i
+=
+= 1.33823
+PV
+= FV (PV F5,i)
+€800,000 = €1,070,584(PV F5,i)
+PV F5,i
+=
+= .74726
+ILLUSTRATION 6.16 Solving for Unknown Interest Rate
+Using the future value factor of 1.33823, refer to Table 6.1 and read across the 5-period row to find that
+factor in the 6% column. Thus, the company must invest the €800,000 at 6% to accumulate to
+€1,070,584 in five years. Or, using the present value factor of .74726 and Table 6.2, again find that
+factor at the juncture of the 5-period row and the 6% column.
+Annuities (Future Value)
+LEARNING OBJECTIVE 3
+Solve future value of ordinary and annuity due problems.
+The preceding discussion involved only the accumulation or discounting of a single principal sum.
+However, many situations arise in which a series of dollar amounts are paid or received periodically,
+such as installment loans or sales; regular, partially recovered invested funds; or a series of realized
+cost savings.
+For example, a life insurance contract involves a series of equal payments made at equal intervals of
+time. Such a process of periodic payment represents the accumulation of a sum of money through an
+annuity. An annuity, by definition, requires the following: (1) periodic payments or receipts (called
+rents) of the same amount, (2) the same length interval between such rents, and (3) compounding of
+interest once each interval. The future value of an annuity is the sum of all the rents plus the
+accumulated compound interest on them.
+Note that the rents may occur at either the beginning or the end of the periods. If the rents occur at the
+end of each period, an annuity is classified as an ordinary annuity. If the rents occur at the
+beginning of each period, an annuity is classified as an annuity due.
+Future Value of an Ordinary Annuity
+One approach to determining the future value of an annuity computes the value to which each of the
+rents in the series will accumulate, and then totals their individual future values.
+For example, assume that $1 is deposited at the end of each of five years (an ordinary annuity) and
+earns 5% interest compounded annually. Illustration 6.17 shows the computation of the future
+value, using the “future value of 1” table (Table 6.1) for each of the five $1 rents.
+
+ILLUSTRATION 6.17 Solving for the Future Value of an Ordinary Annuity
+Because an ordinary annuity consists of rents deposited at the end of the period, those rents earn no
+interest during the period in which they are deposited. For example, the third rent earns interest for
+only two periods (periods 4 and 5). It earns no interest for the third period since it is not deposited
+until the end of the third period. When computing the future value of an ordinary annuity, the number
+of compounding periods will always be one less than the number of rents.
+The foregoing procedure for computing the future value of an ordinary annuity always produces the
+correct answer. However, it can become cumbersome if the number of rents is large. A formula
+provides a more efficient way of expressing the future value of an ordinary annuity of 1. This formula
+sums the individual rents plus the compound interest, as follows.
+FV F-OAn,i =
+where
+FVF-OAn,i = future value factor of an ordinary annuity
+i = rate of interest per period
+n = number of compounding periods
+For example, FVF-OA5,5% refers to the value to which an ordinary annuity of 1 will accumulate in 5
+periods at 5% interest.
+Using the formula above has resulted in the development of tables, similar to those used for the
+“future value of 1” and the “present value of 1” for both an ordinary annuity and an annuity due.
+Illustration 6.18 provides an excerpt from the “future value of an ordinary annuity of 1” table.
+Future Value of an Ordinary Annuity of 1
+(Excerpt from Table 6.3)
+Period
+4%
+5%
+6%
+5.52563*
+*Note that this annuity table factor is the same as the sum of the future values of 1 factors shown in Illustration 6.17.
+ILLUSTRATION 6.18 Excerpt from Table 6.3
+Interpreting the table, if $1 is invested at the end of each year for four years at 5% interest compounded
+annually, the value of the annuity at the end of the fourth year is $4.31 (4.31013 × $1.00). Now,
+multiply the factor from the appropriate line and column of the table by the dollar amount of one rent
+(1 + i)n −1
+i
+
+involved in an ordinary annuity. The result: the accumulated sum of the rents and the compound
+interest to the date of the last rent.
+The following formula computes the future value of an ordinary annuity.
+Future value of an ordinary annuity = R(FVF-OAn,i)
+where
+R = periodic rent
+FVF-OAn,i = future value of an ordinary annuity factor for n periods at i interest
+As an example, Illustration 6.19 presents a future value of an ordinary annuity problem.
+Future Value of an Ordinary Annuity
+Facts: Five $5,000 deposits are made at the end of each of the next five years.
+Problem: Show this situation in time diagram form and determine the future value.
+Solution:
+Use of the formula solves this investment problem as follows.
+Future value of an ordinary annuity = R(FVF-OAn,i)
+= 5,000(FVF-OA5,6%)
+= $5,000(
+)
+= $5,000(5.63709)
+= $28,185.45
+To determine the future value of an ordinary annuity factor of 5.63709 in the formula use a
+financial calculator or read the appropriate table, in this case, Table 6.3 (6% column and the 5-period
+row).
+ILLUSTRATION 6.19 Future Value of Ordinary Annuity Problem (n = 5, i = 6%)
+As an example, Illustration 6.20 shows a future value of an ordinary annuity problem in a business
+context.
+(1 + .06)5 −1
+
+Future Value of an Ordinary Annuity
+Facts: Hightown Electronics deposits $75,000 at the end of each six-month period for the next three
+years, to accumulate enough money to meet debts that mature in three years.
+Problem: Show this situation in time diagram format and determine the future value that
+the company will have on deposit at the end of three years if the annual interest rate is
+Solution:
+The formula solution for the Hightown Electronics situation is as follows.
+Future value of an ordinary annuity = R (FVF-OAn,i)
+= $75,000(FVF-OA6,5%)
+= $75,000(
+)
+= $75,000(6.80191)
+= $510,143.25
+Thus, six six-month deposits of $75,000 earning 5% per period will grow to $510,143.25.
+ILLUSTRATION 6.20 Future Value of Ordinary Annuity Problem (n = 6, i = 5%)
+Future Value of an Annuity Due
+The preceding analysis of an ordinary annuity assumed that the periodic rents occur at the end of each
+period. Recall that an annuity due assumes periodic rents occur at the beginning of each period.
+This means an annuity due will accumulate interest during the first period (in contrast to an ordinary
+annuity rent, which will not). In other words, the two types of annuities differ in the number of
+interest accumulation periods involved even though the same number of rents occur.
+If rents occur at the end of a period (ordinary annuity), in determining the future value of an
+annuity there will be one less interest period than if the rents occur at the beginning of the period
+(annuity due). Illustration 6.21 shows this distinction.
+(1 + .05)6 −1
+
+ILLUSTRATION 6.21 Comparison of the Future Value of an Ordinary Annuity with an
+Annuity Due
+In this example, the cash flows from the annuity due come exactly one period earlier than for an
+ordinary annuity. As a result, the future value of the annuity due factor is exactly 12% higher than the
+ordinary annuity factor. For example, the value of an ordinary annuity factor at the end of period one at
+12% is 1.00000, whereas for an annuity due it is 1.12000.
+To find the future value of an annuity due factor, multiply the future value of an ordinary
+annuity factor by 1 plus the interest rate. For example, to determine the future value of an
+annuity due interest factor for five periods at 12% compound interest, simply multiply the future value
+of an ordinary annuity interest factor for five periods (6.35285), by one plus the interest rate (1 + .12),
+to arrive at 7.11519 (6.35285 × 1.12).
+To illustrate the use of the ordinary annuity tables in converting to an annuity due, assume that Erin
+Berge plans to deposit £800 a year on each birthday of her son Venden. She makes the first deposit on
+his tenth birthday, at 6% interest compounded annually. Erin wants to know the amount she will have
+accumulated for college expenses by her son’s eighteenth birthday.
+If the first deposit occurs on Venden’s tenth birthday, Erin will make a total of eight deposits over the
+life of the annuity (assume no deposit on the eighteenth birthday), as shown in Illustration 6.22.
+Because all the deposits are made at the beginning of the periods, they represent an annuity due.
+ILLUSTRATION 6.22 Annuity Due Time Diagram
+
+Referring to the “future value of an ordinary annuity of 1” table for eight periods at 6%, Erin finds a
+factor of 9.89747. She then multiplies this factor by (1 + .06) to arrive at the future value of an annuity
+due factor. As a result, the accumulated value on Venden’s eighteenth birthday is £8,393.06, as
+calculated in Illustration 6.23.
+1. Future value of an ordinary annuity of 1 for 8 periods at 6% (Table 6.3)
+2. Factor (1 + .06)
+×
+3. Future value of an annuity due of 1 for 8 periods at 6%
+4. Periodic deposit (rent)
+×
+5. Accumulated value on son’s 18th birthday
+ILLUSTRATION 6.23 Computation of Accumulated Value of Annuity Due
+Depending on the college he chooses, Venden may have enough to finance only part of his first year of
+school.
+Examples of Future Value of Annuity Problems
+The foregoing annuity examples relied on three known values—amount of each rent, interest rate, and
+number of periods. Using these values enables us to determine the unknown fourth value, future
+value.
+The first two future value problems we present illustrate the computations of (1) the amount of the
+rents and (2) the number of rents. The third problem illustrates the computation of the future value of
+an annuity due.
+Computation of Rent
+Assume that you plan to accumulate CHF14,000 for a down payment on a condominium apartment
+five years from now. For the next five years, you earn an annual return of 8% compounded
+semiannually. How much should you deposit at the end of each six-month period?
+The CHF14,000 is the future value of 10 (5 × 2) semiannual end-of-period payments of an unknown
+amount, at an interest rate of 4% (8% ÷ 2). Illustration 6.24 depicts this problem as a time diagram.
+ILLUSTRATION 6.24 Future Value of Ordinary Annuity Time Diagram (n = 10, i = 4%)
+Using the formula for the future value of an ordinary annuity, you determine the amount of each rent
+as follows.
+Future value of an ordinary annuity = R(FVF-OAn,i)
+CHF14,000 = R(FVF-OA10,4%)
+CHF14,000 = R(12.00611)
+R = CHF1,166.07
+
+Thus, you must make 10 semiannual deposits of CHF1,166.07 each in order to accumulate CHF14,000
+for your down payment.
+Computation of the Number of Periodic Rents
+Suppose that a company’s goal is to accumulate $117,332 by making periodic deposits of $20,000 at the
+end of each year, which will earn 8% compounded annually while accumulating. How many deposits
+must it make?
+The $117,332 represents the future value of n(?) $20,000 deposits, at an 8% annual rate of interest.
+Illustration 6.25 depicts this problem in a time diagram.
+ILLUSTRATION 6.25 Future Value of Ordinary Annuity Time Diagram, to Solve for
+Unknown Number of Periods
+Using the future value of an ordinary annuity formula, the company obtains the following factor.
+Future value of an ordinary annuity = R(FVF-OAn,i)
+$117,332 = $20,000(FVF-OAn,8%)
+FVF-OAn,8% = 
+ = 5.86660
+Use Table 6.3 and read down the 8% column to find 5.86660 in the five-period row. Thus, the company
+must make five deposits of $20,000 each.
+Computation of the Future Value
+To create his retirement fund, Walter Goodwrench, a mechanic, now works weekends. Mr.
+Goodwrench deposits $2,500 today in a savings account that earns 9% interest. He plans to deposit
+$2,500 every year for a total of 30 years. How much cash will Mr. Goodwrench accumulate in his
+retirement savings account, when he retires in 30 years? Illustration 6.26 depicts this problem in a
+time diagram.
+ILLUSTRATION 6.26 Future Value Annuity Due Time Diagram (n = 30, i = 9%)
+Using the “future value of an ordinary annuity of 1” table, Mr. Goodwrench computes the solution as
+shown in Illustration 6.27.
+
+1. Future value of an ordinary annuity of 1 for 30 periods at 9% 136.30754
+2. Factor (1 + .09)
+×
+3. Future value of an annuity due of 1 for 30 periods at 9%
+4. Periodic rent
+× $2,500
+5. Accumulated value at end of 30 years
+ILLUSTRATION 6.27 Computation of Accumulated Value of an Annuity Due
+Annuities (Present Value)
+LEARNING OBJECTIVE 4
+Solve present value of ordinary and annuity due problems.
+The present value of an annuity is the single sum that, if invested at compound interest now, would
+provide for an annuity (a series of withdrawals) for a certain number of future periods at the end of the
+period.
+Present Value of an Ordinary Annuity
+The present value of an ordinary annuity is the present value of a series of equal rents to be withdrawn
+at equal intervals at the end of the period.
+One approach to finding the present value of an annuity determines the present value of each of the
+rents in the series and then totals their individual present values. For example, we may view an annuity
+of $1, to be received at the end of each of five periods, as separate amounts. We then compute each
+present value using the table of present values (see Table 6.2), assuming an interest rate of 5%.
+Illustration 6.28 shows this approach.
+ILLUSTRATION 6.28 Solving for the Present Value of an Ordinary Annuity
+This computation tells us that if we invest the single sum of $4.33 today at 5% interest for five periods,
+we will be able to withdraw $1 at the end of each period for five periods. We can summarize this
+cumbersome procedure by the following formula.
+PV F-OAn,i =
+The expression PVF-OAn,i refers to the present value of an ordinary annuity of 1 factor for n periods at i
+interest. Ordinary annuity tables base present values on this formula. Illustration 6.29 shows an
+excerpt from such a table.
+1 −
+(1 + i)n
+i
+
+Present Value of an Ordinary Annuity of 1
+(Excerpt from Table 6.4)
+Period
+4%
+5%
+6%
+4.32948*
+*Note that this annuity table factor is equal to the sum of the present value of 1 factors shown in Illustration 6.28.
+ILLUSTRATION 6.29 Excerpt from Table 6.4
+The general formula for the present value of any ordinary annuity is as follows.
+Present value of an ordinary annuity = R(PVF-OAn,i)
+where
+R = periodic rent (ordinary annuity)
+PVF-OAn,i = present value of an ordinary annuity of 1 for n periods at i interest
+As an example, Illustration 6.30 presents a present value of an ordinary annuity problem.
+Present Value of an Ordinary Annuity
+Facts: Rental receipts of $6,000 each will be received at the end of each of the next five years.
+Problem: Show this situation in time diagram form and determine the present value of
+these payments when discounted at 6%.
+Solution:
+The formula for this calculation is as shown below.
+Present value of an ordinary annuity = R(PVF-OAn,i)
+= $6,000(PVF-OA5,6%)
+= $6,000(4.21236)
+= $25,274.16
+The present value of the five ordinary annuity rental receipts of $6,000 each is $25,274.16. To
+determine the present value of the ordinary annuity factor 4.21236, use a financial calculator or read
+the appropriate table, in this case Table 6.4 (6% column and five-period row).
+ILLUSTRATION 6.30 Present Value of Ordinary Annuity Problem
+
+What Do the Numbers Mean?
+Up in Smoke
+Time value of money concepts also can be relevant to public policy debates. For example, many
+governments must evaluate the financial cost-benefit of selling to a private operator the future
+cash flows associated with government-run services, such as toll roads and bridges. In these cases,
+the policymaker must estimate the present value of the future cash flows in determining the price
+for selling the rights. In another example, some governmental entities had to determine how to
+receive the payments from tobacco companies as settlement for a national lawsuit against the
+companies for the healthcare costs of smoking.
+In one situation, a governmental entity was due to collect 25 years of payments totaling $5.6
+billion. The government could wait to collect the payments, or it could sell the payments to an
+investment bank (a process called securitization). If it were to sell the payments, it would receive
+a lump-sum payment today of $1.26 billion. Is this a good deal for this governmental entity?
+Assuming a discount rate of 8% and that the payments will be received in equal amounts (e.g., an
+annuity), the present value of the tobacco payment is:
+$5.6 billion ÷ 25 = $224 million
+$224 million × 10.67478* = $2.39 billion
+*PV-OA (i = 8%, n = 25)
+Why would the government be willing to take just $1.26 billion today for an annuity whose
+present value is almost twice that amount? One reason is that the governmental entity was facing
+a hole in its budget that could be plugged in part by the lump-sum payment. Also, some believed
+that the risk of not getting paid by the tobacco companies in the future made it prudent to get the
+money earlier.
+If this latter reason has merit, then the present value computation above should have been based
+on a higher interest rate. Assuming a discount rate of 15%, the present value of the annuity is
+$1.448 billion ($5.6 billion ÷ 25 = $224 million; $224 million × 6.46415), which is much closer to
+the lump-sum payment offered to the governmental entity.
+Present Value of an Annuity Due
+In our discussion of the present value of an ordinary annuity, we discounted the final rent based on the
+number of rent periods. In determining the present value of an annuity due, there is always one fewer
+discount period. Illustration 6.31 shows this distinction.
+
+ILLUSTRATION 6.31 Comparison of Present Value of an Ordinary Annuity with an
+Annuity Due
+Because each cash flow comes exactly one period sooner in the present value of the annuity due, the
+present value of the cash flows is exactly 12% higher than the present value of an ordinary annuity.
+Thus, to find the present value of an annuity due factor, multiply the present value of an
+ordinary annuity factor by 1 plus the interest rate (that is, 1 + i).
+To determine the present value of an annuity due interest factor for 5 periods at 12% interest, take the
+present value of an ordinary annuity for 5 periods at 12% interest (3.60478) and multiply it by 1.12 to
+arrive at the present value of an annuity due, 4.03735 (3.60478 × 1.12). We provide present value of
+annuity due factors in Table 6.5.
+As an example, Illustration 6.32 presents an annuity due problem.
+
+Annuity Due
+Facts: Space Odyssey, Inc., rents a communications satellite for four years with annual rental
+payments of $4.8 million to be made at the beginning of each year.
+Problem: Show this situation in time diagram form and determine the present value of
+the rental obligations, assuming an annual interest rate of 5%.
+Solution:
+The computations to solve this problem are as follows.
+1. Present value of an ordinary annuity of 1 for 4 periods at 5% (Table 6.4)
+2. Factor (1 + .05)
+×
+3. Present value of an annuity due of 1 for 4 periods at 5%
+4. Periodic deposit (rent)
+× $4,800,000
+5. Present value of payments
+Using Table 6.5 also locates the desired factor 3.72325 and computes the present value of the lease
+payments to be $17,871,600.
+ILLUSTRATION 6.32 Present Value of Annuity Due Problem (n = 4, i = 5%)
+Examples of Present Value of Annuity Problems
+In the following three examples, we demonstrate the computation of (1) the present value, (2) the
+interest rate, and (3) the amount of each rent.
+Computation of the Present Value of an Ordinary Annuity
+You have just won a lottery totaling $4,000,000. You learn that you will receive a check in the amount
+of $200,000 at the end of each of the next 20 years. What amount have you really won? That is, what is
+the present value of the $200,000 checks you will receive over the next 20 years? Illustration 6.33
+shows a time diagram of this enviable situation (assuming an appropriate interest rate of 10%).
+
+ILLUSTRATION 6.33 Time Diagram to Solve for Present Value of Lottery Payments
+You calculate the present value as follows.
+Present value of an ordinary annuity =R(PVF-OAn,i)
+= $200,000(PVF-OA20,10%)
+= $200,000(8.51356)
+= $1,702,712
+As a result, if the state deposits $1,702,712 now and earns 10% interest, it can withdraw $200,000 a
+year for 20 years to pay you the $4,000,000.
+Computation of the Interest Rate
+Many shoppers use credit cards to make purchases. When you receive the statement for payment, you
+may pay the total amount due or you may pay the balance in a certain number of payments. For
+example, assume you receive a statement from MasterCard (USA) with a balance due of €528.77. You
+may pay it off in 12 equal monthly payments of €50 each, with the first payment due one month from
+now. What rate of interest would you be paying?
+The €528.77 represents the present value of the 12 payments of €50 each at an unknown rate of
+interest. The time diagram in Illustration 6.34 depicts this situation.
+ILLUSTRATION 6.34 Time Diagram to Solve for Effective-Interest Rate on Loan
+You calculate the rate as follows.
+Present value of an ordinary annuity = R(PVF-OAn,i)
+€528.77 = €50(PVF-OA12,i)
+(PVFOA12,i) = 
+ = 10.57540
+Referring to Table 6.4 and reading across the 12-period row, you find 10.57534 in the 2% column. Since
+2% is a monthly rate, the nominal annual rate of interest is 24% (12 × 2%). The effective annual rate is
+26.82423% [(1 + .02)12 − 1]. Obviously, you are better off paying the entire bill now if possible.
+
+Computation of a Periodic Rent
+Juan and Marcia Perez have saved $36,000 to finance their daughter Maria’s college education. They
+deposited the money in the Santos Bank, where it earns 4% interest compounded semiannually. What
+equal amounts can their daughter withdraw at the end of every six months during her four college
+years, without exhausting the fund? Illustration 6.35 shows a time diagram of this situation.
+ILLUSTRATION 6.35 Time Diagram for Ordinary Annuity for a College Fund
+Determining the answer by simply dividing $36,000 by eight withdrawals is wrong. Why? Because that
+ignores the interest earned on the money remaining on deposit. Maria must consider that interest is
+compounded semiannually at 2% (4% ÷ 2) for 8 periods (4 years × 2). Thus, using the same present
+value of an ordinary annuity formula, she determines the amount of each withdrawal that she can
+make as follows.
+Present value of an ordinary annuity = R(PVF-OAn,i)
+$36,000 = R(PVF-OA8,2%)
+$36,000 = R(7.32548)
+R = $4,914.35
+Other Time Value of Money Issues
+LEARNING OBJECTIVE 5
+Solve present value problems related to deferred annuities, bonds, and expected cash flows.
+Solving time value problems often requires using more than one table. For example, a business
+problem may need computations of both present value of a single sum and present value of an annuity.
+In addition, IFRS may require the use of expected cash flows in determining present value. In this
+section, we examine:
+1. Deferred annuities.
+2. Bond problems.
+3. Present value measurement.
+Deferred Annuities
+A deferred annuity is an annuity in which the rents begin after a specified number of periods. A
+deferred annuity does not begin to produce rents until two or more periods have expired. For example,
+“an ordinary annuity of six annual rents deferred four years” means that no rents will occur during
+the first four years and that the first of the six rents will occur at the end of the fifth year. “An annuity
+due of six annual rents deferred four years” means that no rents will occur during the first four years
+and that the first of six rents will occur at the beginning of the fifth year.
+
+Future Value of a Deferred Annuity
+Computing the future value of a deferred annuity is relatively straightforward. Because there is no
+accumulation or investment on which interest may accrue, the future value of a deferred annuity is the
+same as the future value of an annuity not deferred. That is, computing the future value simply ignores
+the deferred period. Illustration 6.36 shows a future value of a deferred annuity problem.
+Future Value of a Deferred Annuity
+Facts: Sutton Corporation plans to purchase land in six years for the construction of its new company
+headquarters. Because of cash flow problems, Sutton budgets deposits of $80,000 on which it expects
+to earn 5% annually, only at the end of the fourth, fifth, and sixth periods.
+Problem: Show this situation in time diagram form and determine the future value
+Sutton will have accumulated at the end of the sixth year.
+Solution:
+Sutton determines the value accumulated by using the standard formula for the future value of an
+ordinary annuity:
+Future value of an ordinary annuity = R(FVF-OAn,i)
+= $80,000(FVF-OA3,5%)
+= $80,000(3.15250)
+= $252,200
+ILLUSTRATION 6.36 Future Value of Deferred Annuity Problem
+Present Value of a Deferred Annuity
+Computing the present value of a deferred annuity requires recognizing the interest that accrues on the
+original investment during the deferral period.
+To compute the present value of a deferred annuity, we compute the present value of an ordinary
+annuity of 1 as if the rents had occurred for the entire period. We then subtract the present value of
+rents that were not received during the deferral period. We are left with the present value of the rents
+actually received subsequent to the deferral period.
+To illustrate, Bob Boyd has developed and copyrighted tutorial software for students in advanced
+accounting. He agrees to sell the copyright to Campus Micro Systems for six annual payments of
+$5,000 each. The payments will begin five years from today. Given an annual interest rate of 8%, what
+is the present value of the six payments?
+This situation is an ordinary annuity of six payments deferred four periods. The time diagram in
+Illustration 6.37 depicts this sales agreement.
+
+ILLUSTRATION 6.37 Time Diagram for Present Value of Deferred Annuity
+Two options are available to solve this problem. The first is to use only Table 6.4, as shown in
+Illustration 6.38.
+1. Each periodic rent
+2. Present value of an ordinary annuity of 1 for total periods (10) [number of rents
+(6) plus number of deferred periods (4)] at 8%
+3. Less: Present value of an ordinary annuity of 1 for the number of deferred
+periods (4) at 8%
+4. Difference
+× 3.39795
+5. Present value of 6 rents of $5,000 deferred 4 periods
+ILLUSTRATION 6.38 Computation of the Present Value of a Deferred Annuity
+The subtraction of the present value of an annuity of 1 for the deferred periods eliminates the non-
+existent rents during the deferral period. It converts the present value of an ordinary annuity of $1.00
+for 10 periods to the present value of six rents of $1.00, deferred four periods.
+Alternatively, Boyd can use both Table 6.2 and Table 6.4 to compute the present value of the six rents.
+He can first discount the annuity for six periods. However, because the annuity is deferred four
+periods, he must treat the present value of the annuity as a future amount to be discounted another
+four periods. The time diagram in Illustration 6.39 depicts this two-step process.
+ILLUSTRATION 6.39 Time Diagram for Present Value of Deferred Annuity (Two-Step
+Process)
+Calculation using formulas would be done in two steps, as follows.
+Step 1: Present value of an ordinary
+annuity
+= R(PVF-OAn,i)
+= $5,000(PVF-OA6,8%)
+= $5,000(4.62288) (Table 6.4, Present value of an ordinary
+annuity)
+
+= $23,114.40
+Step 2: Present value of a single sum
+= FV(PVFn,i)
+= $23,114.40(PVF4,8%)
+= $23,114.40(.73503) (Table 6.2, Present value of a single
+sum)
+= $16,989.78
+The present value of $16,989.78 is the same as in Illustration 6.38 although computed differently. (The
+$0.03 difference is due to rounding.)
+Valuation of Long-Term Bonds
+A long-term bond produces two cash flows: (1) periodic interest payments during the life of the bond,
+and (2) the principal (face value) paid at maturity. At the date of issue, bond buyers determine the
+present value of these two cash flows using the market rate of interest.
+The periodic interest payments represent an annuity. The principal represents a single-sum problem.
+The current market value of the bonds is the combined present values of the interest annuity and the
+principal amount. Illustration 6.40 presents an example of the present value of an interest-bearing
+bond.
+Bond Valuation
+Facts: Alltech Corporation on January 1, 2022, issues $100,000 of 5% bonds due in five years with
+interest payable annually at year-end. The current market rate of interest for bonds of similar risk is
+Problem: Show this situation in time diagram form and determine the amount that
+buyers will pay for this bond issue.
+Solution:
+Alltech computes the present value of the two cash flows by discounting at 6%, as follows.
+1. Present value of the principal: FV(PVF5,6%) = $100,000(.74726)
+2. Present value of the interest payments: R(PVF-OA5,6%) = $5,000(4.21236)
+3. Combined present value (market price)—carrying value of bonds
+By paying $95,787.80 at date of issue, the buyers of the bonds will realize an effective yield of 6%
+over the five-year term of the bonds. This is true because Alltech discounted the cash flows at 6%.
+ILLUSTRATION 6.40 Bond Valuation Problem
+Effective-Interest Method of Amortization of Bond Discount or Premium
+
+In the previous example (Illustration 6.40), Alltech Corporation issued bonds at a discount, computed
+as shown in Illustration 6.41.
+Maturity value (face amount) of bonds
+Present value of the principal
+Present value of the interest
+Proceeds (present value and cash received)
+Discount on bonds issued
+$
+ILLUSTRATION 6.41 Computation of Bond Discount
+Alltech amortizes (writes off to interest expense) the amount of this discount over the life of the bond
+issue.
+The preferred procedure for amortization of a discount or premium is the effective-interest method.
+Under the effective-interest method:
+1. The company issuing the bond first computes bond interest expense by multiplying the carrying
+value of the bonds at the beginning of the period by the effective-interest rate.
+2. The company then determines the bond discount or premium amortization by comparing the bond
+interest expense with the interest to be paid.
+Illustration 6.42 depicts the computation of bond amortization.
+Bond Interest Expense
+Bond Interest Paid
+⎛
+⎜
+⎝
+Carrying Value
+Effective-
+of Bonds at
+×
+Interest
+Beginning of Period
+Rate
+⎞
+⎟
+⎠
+−
+⎛
+⎜
+⎝
+Stated
+Face Amount
+×
+Interest
+of Bonds
+Rate
+⎞
+⎟
+⎠
+=
+Amortiz
+Amou
+ILLUSTRATION 6.42 Amortization Computation
+The effective-interest method produces a periodic interest expense equal to a constant percentage
+of the carrying value of the bonds. Since the percentage used is the effective rate of interest
+incurred by the borrower at the time of issuance, the effective-interest method results in matching
+expenses with revenues.
+We can use the data from the Alltech Corporation example to illustrate the effective-interest method of
+amortization. Alltech issued $100,000 face value of bonds at a discount of $4,212.20, resulting in a
+carrying value of $95,787.80. Illustration 6.43 shows the effective-interest amortization schedule for
+Alltech’s bonds.
+
+Schedule of Bond Discount Amortization
+5-Year, 5% Bonds Sold to Yield 6%
+Date
+Cash Interest Paid Interest Expense Bond Discount Amortization Carrying Value of Bonds
+1/1/22
+12/31/22
+$ 5,000.00a
+$ 5,747.27b
+$ 747.27c
+96,535.07d
+12/31/23
+12/31/24
+12/31/25
+12/31/26
+5,943.19e
+a$100,000 × .05 = $5,000 
+b$95,787.80 × .06 = $5,747.27 
+c$5,747.27 − $5,000 = $747.27 
+d$95,787.80 + $747.27 = $96,535.07 
+e$0.22 difference due to rounding.
+ILLUSTRATION 6.43 Effective-Interest Amortization Schedule
+We use the amortization schedule illustrated above for note and bond transactions in Chapters 7 and
+Present Value Measurement
+In the past, most accounting calculations of present value relied on the most likely cash flow amount.
+IFRS 13 explains in detail a different approach called the expected cash flow approach. [7] It uses a
+range of cash flows and incorporates the probabilities of those cash flows to provide a more relevant
+measurement of present value.
+To illustrate the expected cash flow model, assume that there is a 30% probability that future cash
+flows will be $100, a 50% probability that they will be $200, and a 20% probability that they will be
+$300. In this case, the expected cash flow would be $190 [($100 × 0.3) + ($200 × 0.5) + ($300 × 0.2)].
+Traditional present value approaches would use the most likely estimate ($200). However, that
+estimate fails to consider the different probabilities of the possible cash flows.
+Choosing an Appropriate Interest Rate
+After determining expected cash flows, a company must then use the proper interest rate to discount
+the cash flows. The interest rate used for this purpose has the following three components.
+Three Components of Interest
+1. Pure Rate of Interest (2%–4%). The amount a lender would charge if there were no
+possibilities of default and no expectation of inflation.
+2. Expected Inflation Rate of Interest (0%–?). Lenders recognize that in an inflationary
+economy, they are being paid back with less valuable dollars. As a result, they increase their
+interest rate to compensate for this loss in purchasing power. When inflationary expectations
+are high, interest rates are high.
+3. Credit Risk Rate of Interest (0%–5%). The government has little or no credit risk (i.e.,
+risk of non-payment) when it issues bonds. A business enterprise, however, depending upon
+its financial stability, profitability, etc., may have a low or a high credit risk.
+
+The IASB takes the position that after computing the expected cash flows, a company should discount
+those cash flows by the risk-free rate of return. That rate is defined as the pure rate of return
+plus the expected inflation rate. The Board notes that the expected cash flow framework adjusts
+for credit risk because it incorporates the probability of receipt or payment into the computation of
+expected cash flows. Therefore, the rate used to discount the expected cash flows should consider only
+the pure rate of interest and the inflation rate.6
+Example of Expected Cash Flow
+To illustrate, assume that Juno’s Appliance Outlet offers a two-year warranty on all products sold. In
+2022, Juno’s Appliance sold $250,000 of a particular type of clothes dryer. Juno’s Appliance entered
+into an agreement with Lorenzo’s Repair to provide all warranty service on the dryers sold in 2022. To
+determine the warranty expense to record in 2022 and the amount of warranty liability to record on the
+December 31, 2022, statement of financial position, Juno’s Appliance must measure the fair value of
+the agreement. Since there is not a ready market for these warranty contracts, Juno’s Appliance uses
+expected cash flow techniques to value the warranty obligation.
+Based on prior warranty experience, Juno’s Appliance estimates the expected cash outflows associated
+with the dryers sold in 2022, as shown in Illustration 6.44.
+Cash Flow Estimate × Probability Assessment = Expected Cash Flow
+Total
+Total
+ILLUSTRATION 6.44 Expected Cash Outflows—Warranties
+Applying expected cash flow concepts to these data, Juno’s Appliance estimates warranty cash outflows
+of $6,160 in 2022 and $6,900 in 2023.
+Illustration 6.45 shows the present value of these cash flows, assuming a risk-free rate of 5% and
+cash flows occurring at the end of the year.
+Year Expected Cash Flow × PV Factor, i = 5% = Present Value
+Total
+ILLUSTRATION 6.45 Present Value of Cash Flows
+Review and Practice
+Key Terms Review
+annuity
+annuity due
+compound interest
+
+deferred annuity
+discounting
+effective-interest method
+effective yield
+expected cash flow approach
+face rate
+future value
+future value of an annuity
+interest
+nominal rate
+ordinary annuity
+present value
+principal
+risk-free rate of return
+simple interest
+stated rate
+time value of money
+Learning Objectives Review
+1 Describe the fundamental concepts related to the time value of money.
+Some of the applications of present value-based measurements to accounting topics are (1)
+notes, (2) leases, (3) pensions and other postretirement benefits, (4) non-current term assets, (5)
+sinking funds, (6) business combinations, (7) disclosures, and (8) installment contracts. See items 1
+and 2 in the Fundamental Concepts on the following page for the distinctions between simple and
+compound interest.
+In order to identify which of the five compound interest tables to use, determine whether you are
+solving for (1) the future value of a single sum, (2) the present value of a single sum, (3) the future
+value of a series of sums (an annuity), or (4) the present value of a series of sums (an annuity). In
+addition, when a series of sums (an annuity) is involved, identify whether these sums are received or
+paid (1) at the beginning of each period (annuity due) or (2) at the end of each period (ordinary
+annuity).
+The following four variables are fundamental to all compound interest problems. (1) Rate of
+interest: unless otherwise stated, an annual rate, adjusted to reflect the length of the compounding
+period if less than a year. (2) Number of time periods: the number of compounding periods (a period
+may be equal to or less than a year). (3) Future value: the value at a future date of a given sum or sums
+invested assuming compound interest. (4) Present value: the value now (present time) of a future sum
+or sums discounted assuming compound interest.
+2 Solve future and present value of 1 problems.
+See items 5(a) and 6(a) in the Fundamental Concepts.
+3 Solve future value of ordinary and annuity due problems.
+
+See item 5(b) in the Fundamental Concepts.
+4 Solve present value of ordinary and annuity due problems.
+See item 6(b) in the Fundamental Concepts.
+5 Solve present value problems related to deferred annuities, bonds, and expected
+cash flows.
+Deferred annuities are annuities in which rents begin after a specified number of periods. The
+future value of a deferred annuity is computed the same as the future value of an annuity not deferred.
+To find the present value of a deferred annuity, compute the present value of an ordinary annuity of 1
+as if the rents had occurred for the entire period, and then subtract the present value of rents not
+received during the deferral period. The current market price of bonds combines the present
+values of the interest annuity and the principal amount. The expected cash flow approach uses a
+range of cash flows and the probabilities of those cash flows to provide the most likely estimate of
+expected cash flows. The proper interest rate used to discount the cash flows is the risk-free rate of
+return.
+Enhanced Review and Practice
+Go online for multiple-choice questions with solutions, review exercises with solutions, and a full
+glossary of all key terms.
+
+Fundamental Concepts
+1. Simple Interest. Interest on principal only, regardless of interest that may have accrued in
+the past.
+2. Compound Interest. Interest accrues on the unpaid interest of past periods as well as on
+the principal.
+3. Rate of Interest. Interest is usually expressed as an annual rate, but when the
+compounding period is shorter than one year, the interest rate for the shorter period must be
+determined.
+4. Annuity. A series of payments or receipts (called rents) that occur at equal intervals of time.
+Types of annuities:
+a. Ordinary Annuity. Each rent is payable (receivable) at the end of the period.
+b. Annuity Due. Each rent is payable (receivable) at the beginning of the period.
+5. Future Value. Value at a later date of a single sum that is invested at compound interest.
+a. Future Value of 1 (or future value of a single sum). The future value of $1 (or a single
+given sum), FV, at the end of n periods at i compound interest rate (Table 6.1).
+b. Future Value of an Annuity. The future value of a series of rents invested at
+compound interest. In other words, the accumulated total that results from a series of
+equal deposits at regular intervals invested at compound interest. Both deposits and
+interest increase the accumulation.
+1. Future Value of an Ordinary Annuity. The future value on the date of the last
+rent (Table 6.3).
+2. Future Value of an Annuity Due. The future value one period after the date of
+the last rent. When an annuity due table is not available, use Table 6.3 with the
+following formula.
+Value of annuity due of 1 for n
+rents
+= (Value of ordinary annuity for n rents) × (1 +
+interest rate)
+6. Present Value. The value at an earlier date (usually now) of a given future sum discounted
+at compound interest.
+a. Present Value of 1 (or present value of a single sum). The present value (worth) of $1
+(or a given sum), due n periods hence, discounted at i compound interest (Table 6.2).
+b. Present Value of an Annuity. The present value (worth) of a series of rents
+discounted at compound interest. In other words, it is the sum when invested at
+compound interest that will permit a series of equal withdrawals at regular intervals.
+1. Present Value of an Ordinary Annuity. The value now of $1 to be received or
+paid at the end of each period (rents) for n periods, discounted at i compound
+interest (Table 6.4).
+2. Present Value of an Annuity Due. The value now of $1 to be received or paid at
+the beginning of each period (rents) for n periods, discounted at i compound interest
+(Table 6.5). To use Table 6.4 for an annuity due, apply this formula.
+Present value of annuity due of
+1 for n rents
+= (Present value of an ordinary annuity of n
+rents)× (1 + interest rate)
+Practice Problem
+
+Vesper Inc. is a manufacturer of scooters. It is facing several decisions involving time value of money
+considerations.
+Instructions
+Provide the requested information for (a)-(d) below. (Round all answers to the nearest dollar.)
+a. Vesper recently signed a lease for a new office building for a lease period of 10 years. Under the
+lease agreement, a security deposit of $12,000 is made, with the deposit to be returned at the
+expiration of the lease, with interest compounded at 10% per year. What amount will the
+company receive at the time the lease expires?
+b. Recently, the vice president of operations of the company has requested construction of a new
+plant to meet the increasing demand for the company’s scooters. After a careful evaluation of
+the request, the board of directors has decided to raise funds for the new plant by issuing
+$3,000,000 of 11% bonds on March 1, 2022, due on March 1, 2037, with interest payable each
+March 1 and September 1. At the time of issuance, the market interest rate for similar financial
+instruments is 10%. Determine the selling price of the bonds.
+c. The company, having issued the bonds in part (b), is committed to make annual sinking fund
+deposits of $90,000. The deposits are made on the last day of each year and yield a return of
+10%. Will the fund at the end of 15 years be sufficient to retire the bonds? If not, what will the
+deficiency be?
+d. Vesper has 50 employees. Recently, after a long negotiation with the local labor union, the
+company decided to initiate a pension plan as a part of its employee compensation plan. The
+plan will start on January 1, 2022. Each employee covered by the plan is entitled to a pension
+payment each year after retirement. As required by accounting standards, the controller of the
+company needs to report the pension obligation (liability). The following estimates have been
+collected.
+Average length of time to retirement
+15 years
+Expected life duration after retirement
+10 years
+Total pension payment expected each year after retirement for all
+employees
+$800,000 per year
+On the basis of the information above, determine the present value of the pension liability.
+Assume that payments are made at the end of the year and that the interest rate is 8%.
+Solution
+a. Future value of $12,000 at 10% for 10 years
+($12,000 × 2.59374) = $
+b. Formula for the interest payments:
+Formula for the principal:
+PV-OA = R(PVF-OAn,i)
+PV = FV(PVFn,i)
+PV-OA = $165,000(PVF-OA30,5%) PV = $3,000,000(PVF30,5%)
+PV-OA = $165,000(15.37245)
+PV = $3,000,000(0.23138)
+PV-OA = $2,536,454
+PV = $694,140
+The selling price of the bonds = $2,536,454 + $694,140 = $3,230,594.
+c. Future value of an ordinary annuity of $90,000
+at 10% for 15 years ($90,000 × 31.77248) $2,859,523
+Deficiency ($3,000,000 − $2,859,523) $
+
+d. Compute the value of the deferred annuity and then discount that amount to the present.
+1. Present value of the expected annual pension payments at the end of the tenth year:
+PV-OA = R(PVF-OAn,i)
+PV-OA = $800,000(PVF-OA10,8%)
+PV-OA = $800,000(6.71008)
+PV-OA = $5,368,064
+2. Present value of the expected annual pension payments at the beginning of the current year:
+PV = FV(PVFn,i)
+PV = $5,368,064(PVF15,8%)
+PV = $5,368,064(0.31524)
+PV = $1,692,228
+The company’s pension obligation (liability) is $1,692,228.
+Exercises, Problems, Problem Solution Walkthrough Videos, Data Analytics Activities, and many
+more assessment tools and resources are available for practice in Wiley’s online courseware.
+Questions
+1. What is the time value of money? Why should accountants have an understanding of compound
+interest, annuities, and present value concepts?
+2. Identify three situations in which accounting measures are based on present values. Do these
+present value applications involve single sums or annuities, or both single sums and annuities?
+Explain.
+3. What is the nature of interest? Distinguish between “simple interest” and “compound interest.”
+4. What are the components of an interest rate? Why is it important for accountants to understand
+these components?
+5. The following are a number of values taken from compound interest tables involving the same
+number of periods and the same rate of interest. Indicate what each of these four values represents.
+a. 6.71008.
+b. 2.15892.
+c. 0.46319.
+d. 14.48656.
+6. Jose Oliva is considering two investment options for a R$1,500 gift he received for graduation. Both
+investments have 8% annual interest rates. One offers quarterly compounding; the other compounds
+on a semiannual basis. Which investment should he choose? Why?
+7. Regina Henry deposited $20,000 in a money market certificate that provides interest of 10%
+compounded quarterly if the amount is maintained for 3 years. How much will Regina have at the end
+of 3 years?
+8. Will Smith will receive $80,000 5 years from now, from a trust fund established by his father.
+Assuming the appropriate interest rate for discounting is 12% (compounded semiannually), what is the
+present value of this amount today?
+9. What are the primary characteristics of an annuity? Differentiate between an “ordinary annuity” and
+an “annuity due.”
+
+10. Kehoe AG owes €40,000 to Ritter Company. How much would Kehoe have to pay each year if the
+debt is retired through four equal payments (made at the end of the year), given an interest rate on the
+debt of 12%? (Round to two decimal places.)
+11. Kenji is planning for a retirement home. He estimates he will need ¥20,000,000 4 years from now
+to purchase this home. Assuming an interest rate of 10%, what amount must be deposited at the end of
+each of the 4 years to fund the home price? (Round to two decimal places.)
+12. Assume the same situation as in Question 11, except that the four equal amounts are deposited at
+the beginning of the period rather than at the end. In this case, what amount must be deposited at the
+beginning of each period? (Round to two decimals.)
+13. Explain how the future value of an ordinary annuity interest table is converted to the future value
+of an annuity due interest table.
+14. Explain how the present value of an ordinary annuity interest table is converted to the present
+value of an annuity due interest table.
+15. In a book named Treasure, the reader has to figure out where a 2.2 pound, 24 kt gold horse has
+been buried. If the horse is found, a prize of $25,000 a year for 20 years is provided. The actual cost to
+the publisher to purchase an annuity to pay for the prize is $245,000. What interest rate (to the nearest
+percent) was used to determine the amount of the annuity? (Assume end-of-year payments.)
+16. Alexander Enterprises leases property to Hamilton Ltd. Because Hamilton is experiencing financial
+difficulty, Alexander agrees to receive five rents of £20,000 at the end of each year, with the rents
+deferred 3 years. What is the present value of the five rents discounted at 12%?
+17. Answer the following questions.
+a. On May 1, 2022, Goldberg Company sold some machinery to Newlin Company on an installment
+contract basis. The contract required five equal annual payments, with the first payment due on
+May 1, 2022. What present value concept is appropriate for this situation?
+b. On June 1, 2022, Lin Inc. purchased a new machine that it does not have to pay for until June 1,
+2024. The total payment on June 1, 2024, will include both principal and interest. Assuming
+interest at a 12% rate, the cost of the machine would be the total payment multiplied by what time
+value of money concept?
+c. Gruhr Inc. wishes to know how much money it will have available in 5 years if five equal amounts
+of $35,000 are invested, with the first amount invested immediately. What interest table is
+appropriate for this situation?
+d. Megan Hoffman invests in a “jumbo” $200,000, 3-year certificate of deposit at ING Bank. What
+table would be used to determine the amount accumulated at the end of 3 years?
+18. Recently, Glenda Estes was interested in purchasing a Honda Acura. The salesperson indicated that
+the price of the car was either R$27,600 cash or R$6,900 at the end of each of 5 years. Compute the
+effective-interest rate to the nearest percent that Glenda would pay if she chooses to make the five
+annual payments.
+19. Property and casualty insurance companies have been criticized because they reserve for a total
+loss as early as 5 years before an eventuality. Tax authorities have joined the debate because they say
+the full reserve is unfair from a taxation viewpoint. What do you believe is the tax authorities’
+position?
+Brief Exercises
+(Unless instructed otherwise, round answers to the nearest currency unit.)

@@ -1,0 +1,3170 @@
+CHAPTER 9
+Inventories: Additional Valuation Issues
+LEARNING OBJECTIVES
+After studying this chapter, you should be able to:
+1. Describe and apply the lower-of-cost-or-net realizable value rule.
+2. Identify other inventory valuation issues.
+3. Determine ending inventory by applying the gross profit method.
+4. Determine ending inventory by applying the retail inventory method.
+5. Explain how to report and analyze inventory.
+This chapter also includes numerous conceptual discussions that are
+integral to the topics presented here.
+PREVIEW OF CHAPTER 9
+As the following opening story indicates, information on inventories helps to predict
+financial performance—in particular, profits. In this chapter, we discuss some of the
+valuation and estimation concepts that companies use to develop relevant inventory
+information. The content and organization of the chapter are as follows.
+Not What It Seems to Be
+Investors need comparable information about inventory when evaluating a retailer’s
+financial statements. For a complete assessment, investors need to determine what
+inventory method a retailer is using (e.g., FIFO, average-cost, or a combination of methods)
+and then adjust the company’s financial information to a common method. That is a good
+start. Subsequently, investors compute relevant metrics about the company such as
+inventory turnover, number of days sales in inventory, gross profit rate, and liquidity
+measures such as the current ratio.
+
+--- Page 704 ---
+These calculations are critical. Inventory is a significant component of working capital, and
+the gross profit resulting from sales of inventory is often viewed as the most important
+income component in measuring a retailer’s progress. For example, consider the financial
+statements of a typical grocery retailer, Ahold Delhaize (NLD/BEL), shown in the
+following table. Inventory comprises over 36 percent of current assets, and gross profit
+represents 27 percent of sales revenue.
+Ahold Delhaize (in millions)
+Consolidated Statement of Financial Position Consolidated Income Statement
+Current Assets
+Sales revenue
+€62,791
+Other current assets
+€ 765 Cost of sales
+45,839
+Inventories
+3,196 Gross profit
+€16,952
+Receivables
+1,759
+Cash and cash equivalents
+3,122 Net income
+€ 1,793
+Total current assets
+€8,842
+Analysis can be conducted based on these numbers. However, there are often still questions
+about the reliability of the information reported in the financial statements. That is,
+subjective estimates are involved because of the possible impairment of the inventory.
+As indicated in the following table, Ahold’s disclosures of its subjective estimates concerning
+the measurement and valuation of inventory (related to markdowns and inventory losses)
+could have a significant impact on an investor’s ability to compare inventory levels (and their
+impact on gross profit) at Ahold over time and relative to other retailers.
+Thus, inventory balances may not be what they seem, not only due to the cost flow
+assumptions (e.g., FIFO/weighted-average) you learned about in Chapter 8 but also due to
+significant markdowns and losses that you will learn about in this chapter.
+Review and Practice
+Go to the Review and Practice section at the end of the chapter for a targeted
+summary review and practice problem with solution. Multiple-choice questions with
+annotated solutions, as well as additional exercises and practice problem with solutions,
+are also available online.
+
+--- Page 705 ---
+Lower-of-Cost-or-Net Realizable Value (LCNRV)
+LEARNING OBJECTIVE 1
+Describe and apply the lower-of-cost-or-net realizable value rule.
+Inventories are recorded at their cost. However, if inventory declines in value below its
+original cost, a major departure from the historical cost principle occurs. Whatever the
+reason for a decline—obsolescence, price-level changes, or damaged goods—a company
+should write down the inventory to net realizable value to report this loss. A company
+abandons the historical cost principle when the future utility (revenue-
+producing ability) of the asset drops below its original cost.
+Net Realizable Value
+Recall that cost is the acquisition price of inventory computed using one of the historical
+cost-based methods—specific identification, average-cost, or FIFO. The term net realizable
+value (NRV) refers to the net amount that a company expects to realize from the sale of
+inventory. Specifically, net realizable value is the estimated selling price in the normal course
+of business less estimated costs to complete and to make a sale. [1] (See the Authoritative
+Literature References section near the end of the chapter.)
+To illustrate, assume that Mander AG has unfinished inventory with a cost of €950, a sales
+value of €1,000, estimated cost of completion of €50, and estimated selling costs of €200.
+Mander’s net realizable value is computed as shown in Illustration 9.1.
+Inventory value—unfinished
+€1,000
+Less: Estimated cost of completion € 50
+Estimated cost to sell
+200
+250
+Net realizable value
+€ 750
+ILLUSTRATION 9.1 Computation of Net Realizable Value
+Mander reports inventory on its statement of financial position at €750. In its income
+statement, Mander reports a Loss on Inventory Write-Down of €200 (€950 − €750). A
+departure from cost is justified because inventories should not be reported at amounts
+higher than their expected realization from sale or use. In addition, a company like Mander
+should charge the loss of utility against revenues in the period in which the loss occurs, not
+in the period of sale.
+Companies therefore report their inventories at the lower-of-cost-or-net realizable
+value (LCNRV) at each reporting date. Illustration 9.2 shows how two companies
+indicate measurement at LCNRV.
+
+--- Page 706 ---
+Nokia (FIN)
+Inventories are stated at the lower of cost or net realizable value. Cost is determined using
+standard cost, which approximates actual cost on a FIFO basis. Net realizable value is the
+amount that can be realized from the sale of the inventory in the normal course of business
+after allowing for the costs of realization. In addition to the cost of materials and direct
+labor, an appropriate proportion of production overhead is included in the inventory values.
+An allowance is recorded for excess inventory and obsolescence based on the lower-of-cost-
+or-net realizable value.
+Carrefour Group (FRA)
+In accordance with IAS 2 – Inventories, goods inventories and the inventories of the
+property development business (properties under construction) are measured at the lower
+of cost and net realisable value.
+The cost of goods inventories corresponds to the latest purchase price plus all related
+expenses. This method is appropriate given the rapid inventory turnover, and the resulting
+values are close to those obtained by the first in-first out (FIFO) method. The cost of goods
+inventories includes all components of the purchase cost of goods sold (with the exception
+of exchange gains and losses) and takes into account the rebates and commercial income
+negotiated with suppliers.
+Net realisable value corresponds to the estimated selling price in the ordinary course of
+business, less the estimated additional costs necessary to make the sale.
+ILLUSTRATION 9.2 LCNRV Disclosures
+Illustration of LCNRV
+As indicated, a company values inventory at LCNRV. A company estimates net realizable
+value based on the most reliable evidence of the inventories’ realizable amounts (expected
+selling price, expected costs of completion, and expected costs to sell). [2] To illustrate, Jinn-
+Feng Foods computes its inventory at LCNRV, as shown in Illustration 9.3 (amounts in
+thousands).
+
+--- Page 707 ---
+Food
+Cost
+Net Realizable Value
+Final Inventory Value
+Spinach
+¥ 80,000
+¥120,000
+¥ 80,000
+Carrots
+100,000
+110,000
+100,000
+Cut beans
+50,000
+40,000
+40,000
+Peas
+90,000
+72,000
+72,000
+Mixed vegetables
+95,000
+92,000
+92,000
+¥384,000
+Final Inventory Value:
+Spinach
+Cost (¥80,000) is selected because it is lower than net realizable value.
+Carrots
+Cost (¥100,000) is selected because it is lower than net realizable value.
+Cut beans
+Net realizable value (¥40,000) is selected because it is lower than cost.
+Peas
+Net realizable value (¥72,000) is selected because it is lower than cost.
+Mixed vegetables Net realizable value (¥92,000) is selected because it is lower than cost.
+ILLUSTRATION 9.3 Determining Final Inventory Value
+As indicated, the final inventory value of ¥384,000 equals the sum of the LCNRV for each of
+the inventory items. That is, Jinn-Feng applies the LCNRV rule to each individual type of
+food.
+Methods of Applying LCNRV
+In the Jinn-Feng Foods illustration, we assumed that the company applied the LCNRV rule
+to each individual type of food. However, companies may apply the LCNRV rule to a group of
+similar or related items, or to the total of the inventory. For example, in the textile industry,
+sometimes it is not possible to determine selling price for each textile individually, and
+therefore, it may be necessary to perform the net realizable value assessment on all textiles
+that will be used to produce clothing for a particular season.1
+If a company follows a similar-or-related-items or total-inventory approach in determining
+LCNRV, increases in market prices tend to offset decreases in market prices. To illustrate,
+assume that Jinn-Feng Foods separates its food products into two major groups, frozen and
+canned, as shown in Illustration 9.4.
+
+--- Page 708 ---
+LCNRV by:
+Cost
+LCNRV
+Individual Items Major Groups Total Inventory
+Frozen
+Spinach
+¥ 80,000 ¥120,000
+¥ 80,000
+Carrots
+100,000
+110,000
+100,000
+Cut beans
+50,000
+40,000
+40,000
+Total frozen
+230,000
+270,000
+¥230,000
+Canned
+Peas
+90,000
+72,000
+72,000
+Mixed vegetables
+95,000
+92,000
+92,000
+Total canned
+185,000
+164,000
+164,000
+Total
+¥415,000 ¥434,000
+¥384,000
+¥394,000
+¥415,000
+ILLUSTRATION 9.4 Alternative Applications of LCNRV
+If Jinn-Feng applies the LCNRV rule to individual items, the amount of inventory is
+¥384,000. If Jinn-Feng applies the rule to major groups, it jumps to ¥394,000. If the
+company applies LCNRV to the total inventory, it totals ¥415,000. Why this difference?
+When a company uses a major group or total-inventory approach, net realizable values
+higher than cost offset net realizable values lower than cost. For Jinn-Feng, using the
+similar-or-related-items approach partially offsets the high net realizable value for spinach.
+Using the total-inventory approach totally offsets it.2
+In most situations, companies price inventory on an item-by-item basis. In fact, tax rules in
+some countries require that companies use an individual-item basis barring practical
+difficulties. In addition, the individual-item approach gives the lowest valuation for
+statement of financial position purposes. In some cases, a company prices inventory on a
+total-inventory basis when it offers only one end product (comprised of many different raw
+materials). If it produces several end products, a company might use a similar-or-related-
+items approach instead. Whichever method a company selects, it should apply the
+method consistently from one period to another.3
+Recording Net Realizable Value Instead of Cost
+One of two methods may be used to record the income effect of valuing inventory at net
+realizable value. One method, referred to as the cost-of-goods-sold method, debits cost of
+goods sold for the write-down of the inventory to net realizable value. As a result, the
+company does not report a loss in the income statement because the cost of goods sold
+already includes the amount of the loss (see Underlying Concepts). The second method,
+referred to as the loss method, debits a loss account for the write-down of the inventory to
+net realizable value. We use the following inventory data for Ricardo SpA to illustrate entries
+under both methods.
+
+--- Page 709 ---
+Underlying Concepts
+The income statement under the cost-of-goods-sold method presentation lacks
+representational faithfulness. That is, the cost-of-goods-sold method does not represent
+what it purports to represent. However, allowing this presentation illustrates the
+concept of materiality.
+Cost of goods sold (before adjustment to net realizable value) €108,000
+Ending inventory (cost)
+82,000
+Ending inventory (at net realizable value)
+70,000
+Illustration 9.5 shows the entries for both the cost-of-goods-sold and loss methods,
+assuming the use of a perpetual inventory system.
+ILLUSTRATION 9.5 Accounting for the Reduction of Inventory to Net
+Realizable Value—Perpetual Inventory System
+The cost-of-goods-sold method buries the loss in the Cost of Goods Sold account. The loss
+method, by identifying the loss due to the write-down, shows the loss separate from Cost of
+Goods Sold in the income statement.
+Illustration 9.6 contrasts the differing amounts reported in the income statement under
+the two approaches, using data from the Ricardo example.
+IFRS does not specify a particular account to debit for the write-down. We believe the loss
+method presentation is preferable because it clearly discloses the loss resulting from a
+decline in inventory net realizable values.
+
+--- Page 710 ---
+Cost-of-Goods-Sold Method
+Sales revenue
+€200,000
+Cost of goods sold (after adjustment to net realizable value*)
+120,000
+Gross profit on sales
+€ 80,000
+Loss Method
+Sales revenue
+€200,000
+Cost of goods sold
+108,000
+Gross profit on sales
+92,000
+Loss due to decline of inventory to net realizable value
+12,000
+€ 80,000
+*Cost of goods sold (before adjustment to net realizable value)
+€108,000
+Difference between inventory at cost and net realizable value (€82,000 −
+€70,000)
+12,000
+Cost of goods sold (after adjustment to net realizable value)
+€120,000
+ILLUSTRATION 9.6 Income Statement Presentation—Cost-of-Goods-Sold and
+Loss Methods of Reducing Inventory to Net Realizable Value
+Use of an Allowance
+Instead of crediting the Inventory account for net realizable value adjustments, companies
+generally use an allowance account, often referred to as Allowance to Reduce Inventory to
+Net Realizable Value. For example, using an allowance account under the loss method,
+Ricardo SpA makes the following entry to record the inventory write-down to net realizable
+value.
+Loss Due to Decline of Inventory to Net Realizable Value 12,000
+Allowance to Reduce Inventory to Net Realizable Value
+12,000
+Use of the allowance account results in reporting both the cost and the net realizable value of
+the inventory. Ricardo reports inventory in the statement of financial position as shown in
+Illustration 9.7.
+Inventory (at cost)
+€82,000
+Less: Allowance to reduce inventory to net realizable value
+12,000
+Inventory at net realizable value
+€70,000
+ILLUSTRATION 9.7 Presentation of Inventory Using an Allowance Account
+The use of the allowance under the cost-of-goods-sold or loss method permits both the
+income statement and the statement of financial position to reflect inventory measured at
+€82,000, although the statement of financial position shows a net amount of €70,000. It
+also keeps subsidiary inventory ledgers and records in correspondence with the control
+account without changing prices. For homework purposes, use an allowance account to
+record net realizable value adjustments, unless instructed otherwise.
+
+--- Page 711 ---
+Recovery of Inventory Loss
+In periods following the write-down, economic conditions may change such that the net
+realizable value of inventories previously written down may be greater than cost, or there
+may be clear evidence of an increase in the net realizable value. In this situation, the amount
+of the write-down is reversed, with the reversal limited to the amount of the original write-
+down. [4]
+Continuing the Ricardo example, assume that in the subsequent period, market conditions
+change, such that the net realizable value increases to €74,000 (an increase of €4,000). As a
+result, only €8,000 is needed in the allowance. Ricardo makes the following entry, using the
+loss method.
+Allowance to Reduce Inventory to Net Realizable Value 4,000
+Recovery of Inventory Loss (€74,000 − €70,000)
+4,000
+The allowance account is then adjusted in subsequent periods, such that
+inventory is reported at the LCNRV. Illustration 9.8 shows the net realizable value
+evaluation for Vuko Company and the effect of net realizable value adjustments on income.
+Date
+Inventory
+at Cost
+Inventory at Net
+Realizable Value
+Amount Required in
+Allowance Account
+Adjustment of
+Allowance Account
+Balance
+Effect on
+Net
+Income
+Dec.
+31,
+2022
+ 188,000
+ 176,000
+ 12,000
+ 12,000 inc. Decrease
+Dec.
+31,
+2023
+194,000
+187,000
+7,000
+5,000 dec. Increase
+Dec.
+31,
+2024
+173,000
+174,000
+0
+7,000 dec. Increase
+Dec.
+31,
+2025
+182,000
+180,000
+2,000
+2,000 inc. Decrease
+ILLUSTRATION 9.8 Effect on Net Income of Adjusting Inventory to Net
+Realizable Value
+If prices are falling, the company records an additional write-down. If prices are rising, the
+company records an increase in income. We can think of the net increase as a recovery of a
+previously recognized loss. Under no circumstances should the inventory be reported at a
+value above original cost.
+Evaluation of the LCNRV Rule
+The LCNRV rule suffers from some conceptual deficiencies:
+1. A company recognizes decreases in the value of the asset and the charge to expense in
+the period in which the loss in utility occurs—not in the period of sale. On the other
+
+--- Page 712 ---
+hand, it recognizes increases in the value of the asset (in excess of original cost) only at
+the point of sale. This inconsistent treatment can distort income data.
+2. Application of the rule results in inconsistency because a company may value the
+inventory at cost in one year and at net realizable value in the next year.
+3. The LCNRV rule values the inventory in the statement of financial position
+conservatively, but its effect on the income statement may or may not be conservative.
+Net income for the year in which a company takes the loss is definitely lower. Net
+income of the subsequent period may be higher than normal if the expected reductions
+in sales price do not materialize.
+Many financial statement users appreciate the LCNRV rule because they at least know that it
+prevents overstatement of inventory. In addition, recognizing all losses but anticipating no
+gains generally avoids overstatement of income.
+Valuation Bases
+LEARNING OBJECTIVE 2
+Identify other inventory valuation issues.
+Net Realizable Value
+For the most part, companies record inventory at LCNRV.4 However, there are some
+situations in which companies depart from the LCNRV rule. Such treatment may be justified
+in situations when cost is difficult to determine, the items are readily marketable at quoted
+market prices, and units of product are interchangeable. In this section, we discuss two
+common situations in which net realizable value is the general rule for valuing inventory:
+Agricultural assets (including biological assets and agricultural produce).
+Commodities held by broker-traders.
+Agricultural Inventory
+Under IFRS, net realizable value measurement is used for inventory when the inventory is
+related to agricultural activity. In general, agricultural activity results in two types of
+agricultural assets: (1) biological assets or (2) agricultural produce at the point of harvest.
+[6]
+A biological asset (classified as a non-current asset) is a living animal or plant, such as
+sheep, cows, fruit trees, or cotton plants. Agricultural produce is the harvested product of
+a biological asset, such as wool from a sheep, milk from a dairy cow, picked fruit from a fruit
+tree, or cotton from a cotton plant. The accounting for these assets is as follows.
+Biological assets are measured on initial recognition and at the end of each reporting
+period at fair value less costs to sell (net realizable value). Companies record a gain or
+loss due to changes in the net realizable value of biological assets in income when it
+arises.5
+
+--- Page 713 ---
+Agricultural produce (which is harvested from biological assets) is measured at fair
+value less costs to sell (net realizable value) at the point of harvest. Once harvested, the
+net realizable value of the agricultural produce becomes its cost, and this asset is
+accounted for similar to other inventories held for sale in the normal course of
+business.6
+Illustration of Agricultural Accounting at Net Realizable Value
+To illustrate the accounting at net realizable value for agricultural assets, assume that
+Bancroft Dairy produces milk for sale to local cheese makers. Bancroft begins operations on
+January 1, 2022, by purchasing 420 milking cows for €460,000. Illustration 9.9 presents
+Bancroft’s information related to the milking cows.
+Milking cows
+Carrying value, January 1, 2022*
+€460,000
+Change in fair value due to growth and price changes
+€35,000
+Decrease in fair value due to harvest
+(1,200)
+Change in carrying value
+33,800
+Carrying value, January 31, 2022
+€493,800
+Milk harvested during January**
+€ 36,000
+*The carrying value is measured at fair value less costs to sell (net realizable value). The fair
+value of milking cows is determined based on market prices of livestock of similar age,
+breed, and genetic merit.
+**Milk is initially measured at its fair value less costs to sell (net realizable value) at the
+time of milking. The fair value of milk is determined based on market prices in the local
+area.
+ILLUSTRATION 9.9 Agricultural Assets—Bancroft Dairy
+As indicated, the carrying value of the milking cows increased during the month. Part of the
+change is due to changes in market prices (less costs to sell) for milking cows (see
+Underlying Concepts). The change in market price may also be affected by growth—the
+increase in value as the cows mature and develop increased milking capacity. At the same
+time, as mature cows are milked, their milking capacity declines (fair value decrease due to
+harvest).7
+Underlying Concepts
+IFRS uses the terms book value, carrying value, and carrying amount interchangeably.
+Bancroft makes the following entry to record the change in carrying value of the milking
+cows.
+Biological Assets (milking cows) (€493,800 − €460,000) 33,800
+Unrealized Holding Gain or Loss—Income
+33,800
+As a result of this entry, Bancroft’s statement of financial position reports Biological Assets
+(milking cows) as a non-current asset at fair value less costs to sell (net realizable value). In
+
+--- Page 714 ---
+addition, the unrealized gains and losses are reported as “Other income and expense” on the
+income statement. In subsequent periods at each reporting date, Bancroft continues to report
+Biological Assets at net realizable value and records any related unrealized gains or losses in
+income. Because there is a ready market for the biological assets (milking cows), valuation at
+net realizable value provides more relevant information about these assets.
+In addition to recording the change in the biological assets, Bancroft makes the following
+summary entry to record the milk harvested for the month of January.
+Inventory (milk)
+36,000
+Unrealized Holding Gain or Loss—Income
+36,000
+The milk inventory is recorded at net realizable value at the time it is harvested and
+Unrealized Holding Gain or Loss—Income is recognized in income. As with the biological
+assets, net realizable value is considered the most relevant for purposes of valuation at
+harvest. What happens to the milk inventory that Bancroft records upon harvesting the milk
+from the cows? Assuming the milk harvested in January was sold to a local cheese maker for
+€38,500, Bancroft records the sale as follows.
+Cash
+38,500
+Cost of Goods Sold 36,000
+Inventory (milk)
+36,000
+Sales Revenue
+38,500
+Once harvested, the net realizable value of the harvested milk becomes its cost. The milk is
+accounted for similarly to other inventories held for sale in the normal course of business.
+A final note: Some animals or plants may not be considered biological assets but would be
+classified and accounted for as other types of assets (not at net realizable value). For
+example, a pet shop may hold an inventory of dogs, purchased from breeders, that it then
+sells. Because the pet shop is not breeding the dogs, these dogs are not considered biological
+assets. As a result, the dogs are accounted for as inventory held for sale (at LCNRV).
+Commodity Broker-Traders
+Commodity broker-traders also generally measure their inventories at fair value less costs to
+sell (net realizable value), with changes in net realizable value recognized in income in the
+period of the change. Broker-traders buy or sell commodities (such as harvested corn, wheat,
+precious metals, and heating oil) for others or on their own account. The primary purpose for
+holding these inventories is to sell the commodities in the near term and generate a profit
+from fluctuations in price. Thus, net realizable value is the most relevant measure in this
+industry because it indicates the amount that the broker-trader will receive from this
+inventory in the future.
+Assessing whether a company is acting in the role of a broker-trader requires judgment.
+Companies should consider the length of time they are likely to hold the inventory and the
+extent of additional services related to the commodity. If there are significant additional
+services, such as distribution, storage, or repackaging, the company is likely not acting as a
+broker-dealer. Thus, measurement of the commodity inventory at net realizable value is not
+appropriate. For example, Columbia Coffee Wholesalers buys coffee beans and resells the
+commodity in the same condition after a short period of time. Accounting for the coffee
+
+--- Page 715 ---
+inventory at net realizable value appears appropriate. However, if Columbia expands the
+business to roast the beans and repackage them for resale to local coffee shops, the coffee
+inventory should be accounted for at LCNRV, similar to other inventory held for sale.8
+Relative Standalone Sales Value
+A special problem arises when a company buys a group of varying units in a single lump-
+sum purchase, also called a basket purchase.
+To illustrate, assume that Woodland Developers purchases land for $1 million that it will
+subdivide into 400 lots. These lots are of different sizes and shapes but can be roughly sorted
+into three groups graded A, B, and C. As Woodland sells the lots, it apportions the purchase
+cost of $1 million among the lots sold and the lots remaining on hand.
+Why would Woodland not simply divide the total cost of $1 million by 400 lots, to get a cost
+of $2,500 for each lot? This approach would not recognize that the lots vary in size, shape,
+and attractiveness. Therefore, to accurately value each unit, the common and most logical
+practice is to allocate the total among the various units on the basis of their relative
+standalone sales value.
+Illustration 9.10 shows the allocation of relative standalone sales value for the Woodland
+Developers example.
+Lots
+Number of
+Lots
+Sales Price
+per Lot
+Total Sales
+Price
+Relative Sales
+Price
+Total Cost
+Cost
+Allocated to
+Lots
+Cost
+per Lot
+A
+100
+$10,000 $1,000,000
+100/250 $1,000,000
+$ 400,000 $4,000
+B
+100
+6,000
+600,000
+60/250
+1,000,000
+240,000
+2,400
+C
+200
+4,500
+900,000
+90/250
+1,000,000
+360,000
+1,800
+$2,500,000
+$1,000,000
+ILLUSTRATION 9.10 Allocation of Costs, Using Relative Standalone Sales
+Value
+Using the amounts given in the “Cost per Lot” column, Woodland can determine the cost of
+lots sold and the gross profit as shown in Illustration 9.11.
+Lots Number of Lots Sold Cost per Lot Cost of Lots Sold
+Sales
+Gross Profit
+A
+77
+$4,000
+$308,000 $ 770,000
+$ 462,000
+B
+80
+2,400
+192,000
+480,000
+288,000
+C
+100
+1,800
+180,000
+450,000
+270,000
+$680,000 $1,700,000 $1,020,000
+ILLUSTRATION 9.11 Determination of Gross Profit, Using Relative Standalone
+Sales Value
+The ending inventory is therefore $320,000 ($1,000,000 − $680,000).
+Woodland also can compute this inventory amount another way. The ratio of cost to selling
+price for all the lots is $1 million divided by $2,500,000, or 40 percent. Accordingly, if the
+total sales price of lots sold is, say $1,700,000, then the cost of the lots sold is 40 percent of
+
+--- Page 716 ---
+$1,700,000, or $680,000. The inventory of lots on hand is then $1 million less $680,000, or
+$320,000.
+The petroleum industry widely uses the relative standalone sales value method to value (at
+cost) the many products and by-products obtained from a barrel of crude oil.
+Purchase Commitments—A Special Problem
+In many lines of business, a company’s survival and continued profitability depend on its
+having a sufficient stock of merchandise to meet customer demand. Consequently, it is quite
+common for a company to make purchase commitments, which are agreements to buy
+inventory weeks, months, or even years in advance. Generally, the seller retains title to the
+merchandise or materials covered in the purchase commitments. Indeed, the goods may
+exist only as natural resources, such as unplanted seed (in the case of agricultural
+commodities), or as work-in-process (in the case of a product).9
+Usually, it is neither necessary nor proper for the buyer to make any entries to reflect
+commitments for purchases of goods that the seller has not shipped. Ordinary orders, for
+which the buyer and seller will determine prices at the time of shipment and which are
+subject to cancellation, do not represent either an asset or a liability to the buyer.
+Therefore, the buyer need not record such purchase commitments or report them in the
+financial statements.
+What happens, though, if a buyer enters into a formal, non-cancelable purchase contract?
+Even then, the buyer recognizes no asset or liability at the date of inception because the
+contract is “executory” in nature: Neither party has fulfilled its part of the contract.
+However, if material, the buyer should disclose such contract details in a note to its financial
+statements. Illustration 9.12 shows an example of a purchase commitment disclosure.
+Note 1: Contracts for the purchase of raw materials in 2023 have been executed in the
+amount of $600,000. The market price of such raw materials on December 31, 2022, is
+$640,000.
+ILLUSTRATION 9.12 Disclosure of Purchase Commitment
+In the disclosure in Illustration 9.12, the contract price was less than the market price at the
+statement of financial position date. If the contract price is greater than the market
+price and the buyer expects that losses will occur when the purchase is made, the
+buyer should recognize a liability and corresponding loss in the period during
+which such declines in market prices take place (see Underlying Concepts).10
+Underlying Concepts
+Reporting the loss is conservative. However, reporting the decline in market price is
+debatable because no asset is recorded. This area demonstrates the need for good
+definitions of assets and liabilities.
+To illustrate the accounting problem, assume that Apres Paper AG signed timber-cutting
+contracts with Galling Land Ltd. to be executed in 2023 at a price of €10,000,000. Assume
+further that the market price of the timber-cutting rights on December 31, 2022, dropped to
+€7,000,000. Apres would make the following entry on December 31, 2022.
+
+--- Page 717 ---
+Unrealized Holding Gain or Loss—Income
+3,000,000
+Purchase Commitment Liability (€10,000,000 − €7,000,000)
+3,000,000
+Apres reports this unrealized holding loss in the income statement under “Other income and
+expense.” And because the contract is to be executed within the next fiscal year, Apres
+reports the Purchase Commitment Liability (often referred to as a provision) in the current
+liabilities section on the statement of financial position. When Apres cuts the timber at a cost
+of €10 million, it would make the following entry.
+Purchases (Inventory)
+7,000,000
+Purchase Commitment Liability 3,000,000
+Cash
+10,000,000
+The result of the purchase commitment was that Apres paid €10 million for a contract worth
+only €7 million. It recorded the loss in the previous period—when the price actually declined.
+If Apres can partially or fully recover the contract price before it cuts the timber, it reduces
+the Purchase Commitment Liability. In that case, it then reports in the period of the price
+increase a resulting gain for the amount of the partial or full recovery. For example, assume
+that Galling Land Ltd. permits Apres to reduce its commitment from €10,000,000 to
+€9,000,000. The entry to record this transaction is as follows.
+Purchase Commitment Liability (€10,000,000 − €9,000,000) 1,000,000
+Unrealized Holding Gain or Loss—Income
+1,000,000
+If the market price at the time Apres cuts the timber is more than €2,000,000 below the
+contract price, Apres will have to recognize an additional loss in the period of cutting and
+record the purchase at the LCNRV.
+Are purchasers at the mercy of market price declines? Not totally. Purchasers can protect
+themselves against the possibility of market price declines of goods under contract by
+hedging. Through hedging, the purchaser in the purchase commitment simultaneously
+enters into a contract in which it agrees to sell in the future the same quantity of the same
+(or similar) goods at a fixed price. Thus, the company holds a buy position in a purchase
+commitment and a sell position in a futures contract in the same commodity. The purpose of
+the hedge is to offset the price risk of the buy and sell positions. The company will be better
+off under one contract by approximately (maybe exactly) the same amount by which it is
+worse off under the other contract.
+For example, Apres could have hedged its purchase commitment contract with a futures
+contract for timber rights of the same amount. In that case, its loss of €3,000,000 on the
+purchase commitment could have been offset by a €3,000,000 gain on the futures contract.11
+Although it sounds relatively easy, accounting for purchase commitments is controversial.
+Some argue that companies should report purchase commitments as assets and liabilities at
+the time they sign the contract. Others believe that delaying the recognition to the delivery
+date is more appropriate. Although the discussion in the Conceptual Framework does not
+exclude the possibility of recording assets and liabilities for purchase commitments, it
+contains no definitive conclusion about whether companies should record them. [9]
+The Gross Profit Method of Estimating Inventory
+
+--- Page 718 ---
+LEARNING OBJECTIVE 3
+Determine ending inventory by applying the gross profit method.
+Companies take a physical inventory to verify the accuracy of the perpetual inventory records
+or, if no records exist, to arrive at an inventory amount. Sometimes, however, taking a
+physical inventory is impractical. In such cases, companies use substitute measures to
+approximate inventory on hand.
+One substitute method of verifying or determining the inventory amount is the gross profit
+method (also called the gross margin method). Auditors widely use this method in
+situations where they need only an estimate of the company’s inventory (e.g., interim
+reports). Companies also use this method when fire or other catastrophe destroys either
+inventory or inventory records. The gross profit method relies on three assumptions:
+1. The beginning inventory plus purchases equal total goods to be accounted for.
+2. Goods not sold must be on hand.
+3. The sales, reduced to cost, deducted from the sum of the opening inventory plus
+purchases, equal ending inventory.
+To illustrate, assume that Cetus SE has a beginning inventory of €60,000 and purchases of
+€200,000, both at cost. Sales at selling price amount to €280,000. The gross profit on selling
+price is 30 percent. Cetus applies the gross profit method as shown in Illustration 9.13.
+Beginning inventory (at cost)
+€ 60,000
+Purchases (at cost)
+200,000
+Goods available (at cost)
+260,000
+Sales (at selling price)
+€280,000
+Less: Gross profit (.30 x €280,000)
+84,000
+Sales (at cost)
+196,000
+Approximate inventory (at cost)
+€ 64,000
+ILLUSTRATION 9.13 Application of Gross Profit Method
+The current period’s records contain all the information Cetus needs to compute inventory at
+cost, except for the gross profit percentage. Cetus determines the gross profit percentage by
+reviewing company policies or prior period records. In some cases, companies must adjust
+this percentage if they consider prior periods unrepresentative of the current period.12
+Computation of Gross Profit Percentage
+In most situations, the gross profit percentage is stated as a percentage of selling price.
+The previous illustration, for example, used a 30 percent gross profit on sales. Gross profit
+on selling price is the common method for quoting the profit for several reasons. (1) Most
+companies state goods on a retail basis, not a cost basis. (2) A profit quoted on selling price is
+lower than one based on cost. This lower rate gives a favorable impression to the consumer.
+(3) The gross profit based on selling price can never exceed 100 percent.13
+
+--- Page 719 ---
+In Illustration 9.13, the gross profit was a given. But how did Cetus derive that figure? To see
+how to compute a gross profit percentage, assume that an article costs €15 and sells for €20,
+a gross profit of €5. As shown in the computations in Illustration 9.14, this markup is ¼
+or 25 percent of retail, and ⅓ or 33⅓ percent of cost.
+=
+= 25% at retail
+=
+= 33⅓% on cost
+ILLUSTRATION 9.14 Computation of Gross Profit Percentage
+Although companies normally compute the gross profit on the basis of selling price, you
+should understand the basic relationship between markup on cost and markup on selling
+price. For example, assume that a company marks up a given item by 25 percent on cost.
+What, then, is the gross profit on selling price? To find the answer, assume that the item
+sells for €1. In this case, the following formula applies.
+Cost + Gross profit = Selling price
+C + .25C = SP
+(1 + .25)C = SP
+1.25C = €1.00
+C = €0.80
+The gross profit equals €0.20 (€1.00 − €0.80). The rate of gross profit on selling price is
+therefore 20 percent (€0.20/€1.00).
+Conversely, assume that the gross profit on selling price is 20 percent. What is the markup
+on cost? To find the answer, assume that the item sells for €1. Again, the same formula
+holds:
+Cost + Gross profit = Selling price
+C + .20SP = SP
+C = (1 − .20)SP
+C = .80SP
+C = .80(€1.00)
+C = €0.80
+As in the previous example, the markup equals €0.20 (€1.00 − €0.80). The markup on cost
+is 25 percent (€0.20 ÷ €0.80).
+Illustration 9.15 presents formulas that retailers use to express these relationships:
+Markup
+Retail
+€5
+€20
+Markup
+Cost
+€5
+€15
+
+--- Page 720 ---
+1. Gross Profit on Selling Price =
+2. Percentage Markup on Cost =
+ILLUSTRATION 9.15 Formulas Relating to Gross Profit
+To understand how to use these formulas, consider their application in the calculations
+shown in Illustration 9.16.
+ILLUSTRATION 9.16 Application of Gross Profit Formulas
+Because selling price exceeds cost, and with the gross profit amount the same for both,
+gross profit on selling price will always be less than the related percentage based
+on cost. Note that companies do not multiply sales by a cost-based markup percentage.
+Instead, they must convert the gross profit percentage to a percentage based on selling price.
+Evaluation of Gross Profit Method
+What are the major disadvantages of the gross profit method? One disadvantage is that it
+provides an estimate. As a result, companies must take a physical inventory to verify the
+inventory. Second, the gross profit method uses past percentages in determining the
+markup. Although the past often provides answers to the future, a current rate is more
+appropriate. Note that whenever significant fluctuations occur, companies should adjust the
+percentage as appropriate. Third, companies must be careful in applying a blanket gross
+profit rate. Frequently, a store or department handles merchandise with widely varying
+rates of gross profit. In these situations, the company may need to apply the gross profit
+method by subsections, lines of merchandise, or a similar basis that classifies merchandise
+according to their respective rates of gross profit. The gross profit method is normally
+unacceptable for financial reporting purposes because it provides only an
+estimate. IFRS requires a physical inventory as additional verification of the inventory
+indicated in the records. Note that the gross profit method will follow closely the inventory
+method used (FIFO or average-cost) because it relies on historical records.
+Percentage Markup on Cost
+100% + Percentage Markup on Cost
+Gross Profit on Selling Price
+100% − Percentage Markup on Cost
+
+--- Page 721 ---
+What Do the Numbers Mean?
+I’ll Trade You
+Now that we know how to record a decline in value below cost, you might wonder what
+managers do with problem inventory that has been written down. Unfortunately, the
+solution for many companies is either to (a) negotiate with liquidators to get the best
+price for the inventory, which is typically only 10 to 40 percent of book value, or (b) even
+worse, ignore it. As one manager remarked: “We’ll figure it out later. There are more
+pressing matters to attend to right now.” However, without a good plan to deal with
+problem inventory, other challenges arise, such as problem inventory taking up space
+that could be used for newer, more profitable products; storage costs; and waste
+(inventory that perishes or whose date has expired often simply gets thrown out).
+Reducing wasted inventory is critical for cost control and profitability. So, what to do?
+An increasingly popular approach to managing excess problematic inventory is corporate
+barter—the exchange of goods and services for problem inventory on a non-cash basis
+through the use of commercial trade credit. This is how it works. The company with the
+problem inventory seeks a trading partner that could provide something of value in
+exchange for the problem inventory. Media services, including TV and radio commercial
+air time and print advertising space, have long been the barter instrument of choice.
+The company with the problem inventory receives advertising and other services—
+services that are especially valuable for companies with no or limited media budgets.
+Logistics barter is also common, which includes services such as ocean or air freight,
+less than truckload (LTL), full truck, intermodal, and drayage. All companies require
+some form of logistics to do business, and logistics barter can be typically used by
+companies whose annual sales revenue is as little as $50 million.
+A liquidator may still be involved to sell the problem inventory, but the barter partner
+usually receives three to four times the cash liquidation value. This is because the
+liquidator sells the inventory under restrictions, such as limiting redistribution of the
+assets to certain geographic areas or to certain accounts such as non-competitive
+accounts or to inappropriate selling environments, such as discount or secondhand
+outlets. The company that unloads the problem inventory now has a trade credit that
+can be used to purchase raw materials, capital equipment, or professional services.
+While a barter transaction cannot help a company avoid the accounting consequences of
+an inventory impairment, it represents an innovative way to make the best of a bad
+situation.
+Source: Modified from Nicholas Isasi, “Achieving a Higher Value for Problematic Inventory via Corporate Barter,”
+Accounting Today (October 21, 2015).
+Retail Inventory Method
+LEARNING OBJECTIVE 4
+Determine ending inventory by applying the retail inventory method.
+
+--- Page 722 ---
+Accounting for inventory in a retail operation presents several challenges. Retailers with
+certain types of inventory may use the specific identification method to value their
+inventories. Such an approach makes sense when a retailer holds significant individual
+inventory units, such as automobiles, pianos, or fur coats. However, imagine attempting to
+use such an approach at Carrefour (FRA), Debenhams (GBR), or Bloomingdale’s (USA)
+—high-volume retailers and supermarkets that have many different types of merchandise. It
+would be extremely difficult to determine the cost of each sale, to enter cost codes on the
+tickets, to change the codes to reflect declines in value of the merchandise, to allocate costs
+such as transportation, and so on.
+An alternative is to compile the inventories at retail prices. For most retailers, an observable
+pattern between cost and selling price exists. The retailer can then use a formula to convert
+retail prices to cost. This method is called the retail inventory method. It requires that
+the retailer keep a record of (1) the total cost and retail value of goods purchased,
+(2) the total cost and retail value of the goods available for sale, and (3) the sales
+for the period. Use of the retail inventory method is very common. For example,
+Carrefour supermarkets uses the retail inventory method, as do Walmart (USA) and
+Debenhams (GBR).
+Here is how it works at a company like Debenhams. Beginning with the retail value of the
+goods available for sale, Debenhams deducts the sales for the period. This calculation
+determines an estimated inventory (goods on hand) at retail. It next computes the cost-to-
+retail ratio for all goods. The formula for this computation is to divide the total goods
+available for sale at cost by the total goods available at retail price. Finally, to obtain ending
+inventory at cost, Debenhams applies the cost-to-retail ratio to the ending inventory valued
+at retail. Illustration 9.17 shows the retail inventory method calculations for Debenhams
+using assumed data.
+Cost
+Retail
+Beginning inventory
+£14,000 £ 20,000
+Purchases
+63,000
+90,000
+Goods available for sale
+£77,000
+110,000
+Deduct: Sales
+85,000
+Ending inventory, at retail
+£ 25,000
+Ratio of cost to retail (£77,000 ÷ £110,000) =
+70%
+Ending inventory at cost (.70 x £25,000) = £17,500
+ILLUSTRATION 9.17 Retail Inventory Method Calculations
+There are different versions of the retail inventory method. These include the conventional
+method (based on LCNRV) and the cost method. Regardless of which version a company
+uses, tax authorities, various retail associations, and the accounting profession all sanction
+use of the retail inventory method. One of its advantages is that a company like Debenhams
+can approximate the inventory balance without a physical count. However, to avoid a
+potential overstatement of the inventory, Debenhams makes periodic inventory counts. Such
+counts are especially important in retail operations where loss due to shoplifting or breakage
+is common.
+
+--- Page 723 ---
+The retail inventory method is particularly useful for any type of interim report because such
+reports usually need a fairly quick and reliable measure of the inventory. Also, insurance
+adjusters often use this method to estimate losses from fire, flood, or other type of casualty.
+This method also acts as a control device because a company will have to explain any
+discrepancies between the results of the retail method and a physical count at the end of the
+year. Finally, the retail method expedites the physical inventory count at year-end. The
+crew taking the physical inventory need record only the retail price of each item. The crew
+does not need to look up each item’s invoice cost, thereby saving time and expense.
+Retail-Method Concepts
+The amounts shown in the “Retail” column of Illustration 9.17 represent the original retail
+prices, assuming no price changes. In practice, though, retailers frequently mark up or mark
+down the prices they charge buyers.
+For retailers, the term markup means an additional markup of the original retail price. (In
+another context, such as in the previous discussion of gross profit, we often think of markup
+on the basis of cost.) Markup cancellations are decreases in prices of merchandise that
+the retailer had marked up above the original retail price.
+In a competitive market, retailers often need to use markdowns, which are decreases in the
+original sales prices. Such cuts in sales prices may be necessary due to a decrease in the
+general level of prices, special sales, soiled or damaged goods, overstocking, and market
+competition. Markdowns are common in retailing these days. Markdown cancellations
+occur when the markdowns are later offset by increases in the prices of goods that the
+retailer had marked down—such as after a one-day sale. Neither a markup cancellation nor a
+markdown cancellation can exceed the original markup or markdown.
+To illustrate these concepts, assume that Designer Clothing Store recently purchased 100
+dress shirts from Marroway Group. The cost for these shirts was €1,500, or €15 a shirt.
+Designer Clothing established the selling price on these shirts at €30 a shirt. The shirts were
+selling quickly, so the manager added a markup of €5 per shirt. This markup made the price
+too high for customers, and sales slowed. The manager then reduced the price to €32. At this
+point, we would say that the shirts at Designer Clothing have had a markup of €5 and a
+markup cancellation of €3.
+A month later, the manager marked down the remaining shirts to a sales price of €23. At this
+point, an additional markup cancellation of €2 has taken place, and a €7 markdown has
+occurred. If the manager later increases the price of the shirts to €24, a markdown
+cancellation of €1 would occur.
+Retail Inventory Method with Markups and Markdowns—Conventional
+Method
+Retailers use markup and markdown concepts in developing the proper inventory valuation
+at the end of the accounting period. To obtain the appropriate inventory figures, companies
+must give proper treatment to markups, markup cancellations, markdowns, and markdown
+cancellations.
+To illustrate the different possibilities, consider the data for In-Fusion SA shown in
+Illustration 9.18. In-Fusion can calculate its ending inventory at cost under two
+assumptions, A and B. (We’ll explain the reasons for the two later.)
+
+--- Page 724 ---
+Assumption A: Computes a cost ratio after markups (and markup cancellations) but
+before markdowns.
+Assumption B: Computes a cost ratio after both markups and markdowns (and
+cancellations).
+Cost
+Retail
+Beginning inventory
+€ 500
+€ 1,000
+Purchases (net)
+20,000
+35,000
+Markups
+3,000
+Markup cancellations
+1,000
+Markdowns
+2,500
+Markdown cancellations
+2,000
+Sales (net)
+25,000
+In-Fusion SA
+Cost
+Retail
+Beginning inventory
+€ 500
+€ 1,000
+Purchases (net)
+20,000
+35,000
+Merchandise available for sale
+20,500
+36,000
+Add: Markups
+€3,000
+Less: Markup cancellations
+1,000
+Net markups
+ 
+2,000
+20,500
+38,000
+(A)
+Cost-to-retail ratio =
+= 53.9%
+Deduct:
+Markdowns
+2,500
+Less: Markdown cancellations
+(2,000)
+Net markdowns
+500
+€20,500
+37,500
+(B)
+Cost-to-retail ratio =
+= 54.7%
+Deduct: Sales (net)
+25,000
+Ending inventory, at retail
+€12,500
+ILLUSTRATION 9.18 Retail Inventory Method with Markups and Markdowns
+The computations for In-Fusion are:
+Ending Inventory at Retail × Cost Ratio = Value of Ending Inventory
+Assumption A: €12,500 × .539 = €6,737.50
+€20,500
+€38,000
+€20,500
+€37,500
+
+--- Page 725 ---
+Assumption B: €12,500 × .547 = €6,837.50
+The question becomes: Which assumption and which percentage should In-Fusion use to
+compute the ending inventory valuation? The answer depends on which retail inventory
+method In-Fusion chooses.
+One approach uses only Assumption A (a cost ratio using markups but not
+markdowns). It approximates the lower-of-average-cost-or-net realizable value.
+We will refer to this approach as the conventional retail inventory method or the
+LCNRV.
+To understand why this method considers only the markups, not the markdowns, in the cost
+percentage, you must understand how a retail business operates. A markup normally
+indicates an increase in the sales value of the item. On the other hand, a markdown means a
+decline in the utility of that item. Therefore, to approximate the LCNRV, we would consider
+markdowns a current loss and so would not include them in calculating the cost-to-retail
+ratio. Omitting the markdowns would make the cost-to-retail ratio lower, which leads to an
+approximate LCNRV.
+An example will make the distinction between the two methods clear. Assume In-Fusion
+purchased two items for €5 apiece; the original sales price was €10 each. One item was
+subsequently marked down to €2. Assuming no sales for the period, if markdowns are
+considered in the cost-to-retail ratio (Assumption B—the cost method), we compute the
+ending inventory as shown in Illustration 9.19.
+Markdowns Included in Cost-to-Retail Ratio
+Cost
+Retail
+Purchases
+€10
+€20
+Deduct: Markdowns (€10 − €2)
+8
+Ending inventory, at retail
+€12
+Cost-to-retail ratio =
+= 83.3%
+Ending inventory at cost (€12 × .833) = €10
+ILLUSTRATION 9.19 Retail Inventory Method Including Markdowns—Cost
+Method
+This approach (the cost method) reflects an average cost of the two items of the
+commodity without considering the loss on the one item. It values ending inventory at €10.
+If markdowns are not considered in the cost-to-retail ratio (Assumption A—the
+conventional retail method), we compute the ending inventory as shown in Illustration
+9.20.
+€10
+€12
+
+--- Page 726 ---
+Markdowns Not Included in Cost-to-Retail Ratio
+Cost
+Retail
+Purchases
+€10
+€20
+Cost-to-retail ratio =
+= 50%
+Deduct: Markdowns
+8
+Ending inventory, at retail
+€12
+Ending inventory at cost (€12 × .50) = €6
+ILLUSTRATION 9.20 Retail Inventory Method Excluding Markdowns—
+Conventional Method (LCNRV)
+Under this approach (the conventional retail method, in which markdowns are not
+considered), ending inventory would be €6. The inventory valuation of €6 reflects two
+inventory items, one inventoried at €5 and the other at €1. It reflects the fact that In-Fusion
+reduced the sales price from €10 to €2, and reduced the cost from €5 to €1.14
+To approximate the LCNRV, In-Fusion must establish the cost-to-retail ratio. It does this
+by dividing the cost of goods available for sale by the sum of the original retail price of these
+goods plus the net markups. This calculation excludes markdowns and markdown
+cancellations. Illustration 9.21 shows the basic format for the retail inventory method
+using the LCNRV approach along with the In-Fusion information.
+ILLUSTRATION 9.21 Comprehensive Conventional Retail Inventory Method
+Format
+€10
+€20
+
+--- Page 727 ---
+Because an averaging effect occurs, an exact LCNRV inventory valuation is ordinarily not
+obtained, but an adequate approximation can be achieved. In contrast, adding net markups
+and deducting net markdowns yield approximate cost.
+Special Items Relating to Retail Method
+The retail inventory method becomes more complicated when we consider such items as
+freight-in, purchase returns and allowances, and purchase discounts. In the retail method,
+we treat such items as follows.
+Freight costs are part of the purchase cost.
+Purchase returns are ordinarily considered as a reduction of the price at both cost and
+retail.
+Purchase discounts and allowances usually are considered as a reduction of the
+cost of purchases.
+In short, the treatment for the items affecting the cost column of the retail inventory
+approach follows the computation for cost of goods available for sale.15
+Note also that sales returns and allowances are considered as proper adjustments to
+gross sales. However, when sales are recorded gross, companies do not recognize sales
+discounts. To adjust for the sales discount account in such a situation would provide an
+ending inventory figure at retail that would be overvalued.
+In addition, a number of special items require careful analysis:
+Transfers-in from another department are reported in the same way as purchases from
+an outside enterprise.
+Normal shortages (breakage, damage, theft, shrinkage) should reduce the retail
+column because these goods are no longer available for sale. Such costs are reflected in
+the selling price because a certain amount of shortage is considered normal in a retail
+enterprise. As a result, companies do not consider this amount in computing the cost-to-
+retail percentage. Rather, to arrive at ending inventory at retail, they show normal
+shortages as a deduction similar to sales.
+Abnormal shortages, on the other hand, are deducted from both the cost and retail
+columns and reported as a special inventory amount or as a loss. To do otherwise
+distorts the cost-to-retail ratio and overstates ending inventory.
+Employee discounts (given to employees to encourage loyalty and better
+performance) are deducted from the retail column in the same way as sales. These
+discounts should not be considered in the cost-to-retail percentage because they do not
+reflect an overall change in the selling price.16
+Illustration 9.22 shows some of these concepts. The company, Extreme Sport Apparel,
+determines its inventory using the conventional retail inventory method.
+
+--- Page 728 ---
+ILLUSTRATION 9.22 Conventional Retail Inventory Method—Special Items
+Included
+Evaluation of Retail Inventory Method
+Companies such as Carrefour (FRA), Marks and Spencer (GBR), and your local
+department store use the retail inventory method of computing inventory for the following
+reasons: (1) to permit the computation of net income without a physical count of inventory,
+(2) as a control measure in determining inventory shortages, (3) in regulating quantities of
+merchandise on hand, and (4) for insurance information.
+One characteristic of the retail inventory method is that it has an averaging effect on
+varying rates of gross profit. This can be problematic when companies apply the method
+to an entire business, where rates of gross profit vary among departments. There is no
+allowance for possible distortion of results because of such differences. Companies refine the
+retail method under such conditions by computing inventory separately by departments, or
+by classes of merchandise with similar gross profits. In addition, the reliability of this
+method assumes that the distribution of items in inventory is similar to the “mix” in the total
+goods available for sale.
+Presentation and Analysis
+LEARNING OBJECTIVE 5
+Explain how to report and analyze inventory.
+Presentation of Inventories
+
+--- Page 729 ---
+Accounting standards require financial statement disclosure of the following items related to
+inventories:
+1. The accounting policies adopted in measuring inventories, including the cost formula
+used (weighted-average, FIFO).
+2. The total carrying amount of inventories and the carrying amount in classifications
+(common classifications of inventories are merchandise, production supplies, raw
+materials, work-in-process, and finished goods).
+3. The carrying amount of inventories carried at fair value less costs to sell.
+4. The amount of inventories recognized as an expense during the period (cost of goods
+sold).
+5. The amount of any write-down of inventories recognized as an expense in the period and
+the amount of any reversal of write-downs recognized as a reduction of expense in the
+period.
+6. The circumstances or events that led to the reversal of a write-down of inventories.
+7. The carrying amount of inventories pledged as security for liabilities, if any.
+This information can be disclosed in the statement of financial position or in a separate
+schedule in the notes. The relative mix of raw materials, work-in-process, and finished goods
+helps in assessing liquidity and in computing the stage of inventory completion. Significant
+or unusual financing arrangements relating to inventories may require note disclosure.
+Examples include transactions with related parties, product financing arrangements, firm
+purchase commitments, and pledging of inventories as collateral. [10] For example,
+Illustration 9.23 shows the disclosures from the annual report of Lectra SA (FRA).
+
+--- Page 730 ---
+ILLUSTRATION 9.23 Disclosure of Inventory Methods
+If Lectra changes the method of pricing any of its inventory elements, it must report a
+change in accounting principle. For example, if Lectra changes its method of accounting for
+its finished goods from weighted-average to FIFO, it should separately report this change,
+along with the effect on income, in the current and prior periods (as discussed in Chapter
+22). Changes in accounting principle require an explanatory paragraph in the auditor’s report
+describing the change in method.
+As another example of inventory disclosure practices, Pernod Ricard (FRA) reported its
+inventories in its annual report, as shown in Illustration 9.24 (note the “trade practice”
+followed in classifying some long-cycle inventories among the current assets).
+
+--- Page 731 ---
+Pernod Ricard
+Current assets
+Inventories (Note 4.4)
+€5,305
+Note 4.4 Inventories
+Inventories are measured at the lowest of either cost (acquisition cost and cost of
+production, including indirect production overheads) or net realizable value. Net realizable
+value is the selling price less the estimated costs of completion and sale of the inventories.
+Most inventories are valued using the weighted average cost method. The cost of long-cycle
+inventories is calculated using a single method which includes distilling and ageing
+maturing costs. These inventories are classified in current assets, although a substantial
+part remains in inventory for more than one year before being sold in order to undergo the
+ageing process used for certain Wines and Spirits.
+The breakdown of inventories and work-in-progress at the balance sheet date is as follows:
+Movements in the year
+In euro
+millions
+Beginning
+of year
+Change
+in gross
+value
+Change in
+impairment
+Foreign
+currency
+gains and
+losses
+Other
+movements
+End of
+year
+Raw materials
+132
+(4)
+—
+(3)
+(1)
+124
+Work-in-
+progress
+4,454
+142
+—
+(103)
+7
+4,500
+Goods in
+inventory
+476
+(15)
+—
+(10)
+0
+451
+Finished
+products
+286
+(4)
+—
+(3)
+(4)
+275
+GROSS VALUE
+5,348
+119
+—
+(119)
+2
+5,350
+Raw materials
+(10)
+—
+(1)
+0
+1
+(10)
+Work-in-
+progress
+(17)
+—
+5
+0
+0
+(12)
+Goods in
+inventory
+(16)
+—
+3
+1
+0
+(12)
+Finished
+products
+(11)
+—
+0
+0
+0
+(11)
+IMPAIRMENT
+(54)
+—
+7
+1
+1
+(45)
+NET
+INVENTORIES
+5,294
+119
+7
+(118)
+3
+5,305
+Other movements are mostly due to foreign currency gains and losses. At year-end,
+maturing inventories intended mainly for use in whisky and cognac production accounted
+for 84% of work-in-progress. Pernod Ricard is not significantly dependent on its suppliers.
+
+--- Page 732 ---
+ILLUSTRATION 9.24 Disclosure of Trade Practice in Valuing Inventories
+As indicated in the prior illustration, companies also disclose inventory revaluations and
+valuation allowances to arrive at inventory recorded at net realizable value. Thus, for Pernod
+Ricard, its inventories at cost (or net realizable value) at year-end are €5,305 million.
+Analysis of Inventories
+The amount of inventory that a company carries can have significant economic
+consequences. As a result, companies must manage inventories. But, inventory management
+is a double-edged sword. It requires constant attention. On the one hand, management wants
+to stock a great variety and quantity of items. Doing so will provide customers with the
+greatest selection. However, such an inventory policy may incur excessive carrying costs
+(e.g., investment, storage, insurance, taxes, obsolescence, and damage). On the other hand,
+low inventory levels lead to stockouts, lost sales, and disgruntled customers.
+Using financial ratios helps companies to chart a middle course between these two dangers.
+Common ratios used in the management and evaluation of inventory levels are inventory
+turnover and a related measure, average days to sell the inventory.
+Inventory Turnover
+The inventory turnover measures the number of times on average a company sells the
+inventory during the period. It measures the liquidity of the inventory. To compute inventory
+turnover, divide the cost of goods sold by the average inventory on hand during the period.
+Barring seasonal factors, analysts compute average inventory from beginning and ending
+inventory balances. For example, in its 2019 annual report, Tate & Lyle plc (GBR) reported
+a beginning inventory of £419 million, an ending inventory of £434 million, and cost of goods
+sold of £1,621 million for the year. Illustration 9.25 shows the inventory turnover formula
+and Tate & Lyle’s 2019 ratio computation.
+Inventory Turnover =
+=
+= 3.80 times
+ILLUSTRATION 9.25 Inventory Turnover
+Average Days to Sell Inventory
+A variant of the inventory turnover ratio is the average days to sell inventory. This
+measure represents the average number of days’ sales for which a company has inventory on
+hand. For example, the inventory turnover for Tate & Lyle of 3.80 times divided into 365 is
+approximately 96 days.
+There are typical levels of inventory in every industry. However, companies that keep their
+inventory at lower levels with higher turnovers than those of their competitors, while still
+satisfying customer needs, are generally the most successful.
+Review and Practice
+Cost of Goods Sold
+Average Inventory
+£1,621
+(£419 + £434) ÷ 2
+
+--- Page 733 ---
+Key Terms Review
+agricultural produce
+average days to sell inventory
+biological asset
+conventional retail inventory method
+cost-of-goods-sold method
+cost-to-retail ratio
+gross profit method
+gross profit percentage
+hedging
+inventory turnover
+loss method
+lower-of-cost-or-net realizable value (LCNRV)
+lump-sum (basket) purchase
+markdown
+markdown cancellations
+markup
+markup cancellations
+net realizable value (NRV)
+onerous (contract) (n)
+purchase commitments
+relative standalone sales value
+retail inventory method
+Learning Objectives Review
+1 Describe and apply the lower-of-cost-or-net realizable value rule.
+If inventory declines in value below its original cost, for whatever reason, a company should
+write down the inventory to reflect this loss. The general rule is to abandon the historical
+cost principle when the future utility (revenue-producing ability) of the asset drops below its
+original cost.
+2 Identify other inventory valuation issues.
+Companies value inventory at net realizable value when cost is difficult to determine, the
+items are readily marketable at quoted market prices, and units of product are
+interchangeable. Three common situations in which net realizable value is the general rule
+for valuing inventory are (1) agricultural inventory (including biological assets and
+
+--- Page 734 ---
+agricultural produce), (2) minerals and mineral products, and (3) commodities held by
+broker-traders.
+When a company purchases a group of varying units at a single lump-sum price—a so-called
+basket purchase—the company may allocate the total purchase price to the individual items
+on the basis of relative standalone sales value.
+Accounting for purchase commitments is controversial. Some argue that companies
+should report purchase commitment contracts as assets and liabilities at the time the
+contract is signed. Others believe that recognition at the delivery date is most appropriate. If
+a company has a firm purchase commitment and the price falls below the contract price, a
+loss should be recognized. IFRS refers to this situation as an onerous contract.
+3 Determine ending inventory by applying the gross profit method.
+Companies follow these steps to determine ending inventory by the gross profit method. (1)
+Compute the gross profit percentage on selling price. (2) Compute gross profit by multiplying
+net sales by the gross profit percentage. (3) Compute cost of goods sold by subtracting gross
+profit from net sales. (4) Compute ending inventory by subtracting cost of goods sold from
+total goods available for sale.
+4 Determine ending inventory by applying the retail inventory method.
+Companies follow these steps to determine ending inventory by the retail method. (1) To
+estimate inventory at retail, deduct the sales for the period from the retail value of the goods
+available for sale. (2) To find the cost-to-retail ratio for all goods passing through a
+department or firm, divide the total goods available for sale at cost by the total goods
+available at retail. (3) Convert the inventory valued at retail to approximate cost by applying
+the cost-to-retail ratio.
+5 Explain how to report and analyze inventory.
+IFRS inventory disclosure requirements are shown with the examples in Illustrations 9.23
+and 9.24. Accounting standards also require the consistent application of costing methods
+from one period to another. Common ratios used in the management and evaluation of
+inventory levels are inventory turnover and average days to sell the inventory.
+Enhanced Review and Practice
+Go online for multiple-choice questions with solutions, review exercises with solutions,
+and a full glossary of all key terms.
+Practice Problem
+Norwood Company makes miniature circuit boards that are components of wireless
+phones and personal organizers. The company has experienced strong growth, and you are
+especially interested in how well Norwood is managing its inventory balances. You have
+collected the following information for the current year.
+
+--- Page 735 ---
+Inventory at the beginning of year
+$ 1,026,000
+Inventory at the end of year, before any adjustments
+1,007,000
+Total cost of goods sold, before any adjustments
+11,776,000
+The company values inventory at lower-of-cost (using FIFO cost flow assumption)-or-net
+realizable value and uses the cost-of-goods-sold method.
+Instructions
+a. Compute Norwood’s inventory turnover before any adjustment.
+b. Recompute the inventory turnover after adjusting Norwood’s inventory information
+for the following items.
+1. During the year, Norwood recorded sales and costs of goods sold on $22,000 of
+units shipped to various wholesalers on consignment. At year-end, none of these
+units have been sold by wholesalers.
+2. Shipping contracts changed 2 months ago from f.o.b. shipping point to f.o.b.
+destination point. At the end of the year, $25,000 of products are en route to
+China and will not arrive until after financial statements are released. Current
+inventory balances do not reflect this change in policy.
+3. At the end of the year, Norwood determined that a certain section of inventory
+with an historical cost of $112,000 has a net realizable value of $100,800. There is
+no need to make a lower-of-cost-or-net realizable value adjustment to other
+inventory.
+Solution
+a. 
+= 11.6 times
+b. Adjustments to ending inventory
+Item
+Adjustment
+to Ending
+Inventory
+Explanation
+1. Consigned
+goods
+$22,000
+Norwood should count the goods it has consigned in other
+stores.
+2. Goods in
+transit
+$25,000
+Goods officially change hands at the point of destination.
+Norwood should still show these goods in inventory (not
+cost of goods sold), until they reach the destination.
+3. Lower-of-
+cost-or-net
+realizable
+value
+$(11,200)
+($112,000 − $100,800). The correct valuation is $100,800
+since the net realizable value of $100,800 is less than the
+original cost.
+Adjusted inventory turnover =
+$11,776,000
+($1,026,000 + $1,007,000) ÷ 2
+$11,740,200a
+($1,026,000 + $1,042,800)b ÷ 2
+
+--- Page 736 ---
+aCost of goods sold: $11,776,000 − $22,000 − $25,000 + $11,200 = $11,740,200
+bEnding inventory: $1,007,000 + $22,000 + $25,000 − $11,200 = $1,042,800
+Exercises, Problems, Problem Solution Walkthrough Videos, Data Analytics Activities,
+and many more assessment tools and resources are available for practice in Wiley’s
+online courseware.
+Questions
+1. Where there is evidence that the utility of inventory goods, as part of their disposal in the
+ordinary course of business, will be less than cost, what is the proper accounting treatment?
+2. Why are inventories valued at the lower-of-cost-or-net realizable value (LCNRV)? What
+are the arguments against the use of the LCNRV method of valuing inventories?
+3. What approaches may be employed in applying the LCNRV procedure? Which approach is
+normally used and why?
+4. In some instances, accounting principles require a departure from valuing inventories at
+cost alone. Determine the proper unit inventory price in the following cases.
+Cases
+1
+2
+3
+4
+5
+Cost
+€15.90 €16.10 €15.90 €15.90 €15.90
+Sales value
+14.80
+19.20
+15.20
+10.40
+17.80
+Estimated cost to complete
+1.50
+1.90
+1.65
+.80
+1.00
+Estimated cost to sell
+.50
+.70
+.55
+.40
+.60
+5. What method(s) might be used in the accounts to record a loss due to a price decline in
+the inventories? Discuss.
+6. What exceptions might call for inventory valuation at net realizable value?
+7. Briefly describe the valuation of (a) biological assets and (b) agricultural produce.
+8. Under what circumstances is relative standalone sales value an appropriate basis for
+determining the price assigned to inventory?
+9. At December 31, 2022, Ashley plc has outstanding purchase commitments for purchase of
+150,000 gallons, at £6.20 per gallon, of a raw material to be used in its manufacturing
+process. The company prices its raw material inventory at cost or net realizable value,
+whichever is lower. Assuming that the market price as of December 31, 2022, is £5.90, how
+would you treat this situation in the accounts?
+10. What are the major uses of the gross profit method?
+11. Distinguish between gross profit as a percentage of cost and gross profit as a percentage
+of sales price. Convert the following gross profit percentages based on cost to gross profit
+percentages based on sales price: 25% and 331⁄3%. Convert the following gross profit
+percentages based on sales price to gross profit percentages based on cost: 331⁄3% and 60%.
+
+--- Page 737 ---
+12. With annual net sales of $5 million, Adriana Co. maintains a markup of 25% based on
+cost. Adriana’s expenses average 15% of net sales. What is Adriana’s gross profit and net
+profit in dollars?
+13. A fire destroys all of the merchandise of Assante Company on February 10, 2022. The
+following is information compiled up to the date of the fire.
+Inventory, January 1, 2022
+$ 400,000
+Sales to February 10, 2022
+1,950,000
+Purchases to February 10, 2022
+1,140,000
+Freight-in to February 10, 2022
+60,000
+Rate of gross profit on selling price
+40%
+What is the approximate inventory on February 10, 2022?
+14. What conditions must exist for the retail inventory method to provide valid results?
+15. The conventional retail inventory method yields results that are essentially the same as
+those yielded by the LCNRV method. Explain. Prepare an illustration of how the retail
+inventory method reduces inventory to net realizable value.
+16.
+a. Determine the ending inventory under the conventional retail method for the furniture
+department of Mayron Department Stores from the following data (amounts in
+thousands). (Round to nearest percent.)
+Cost
+Retail
+Inventory, Jan. 1 ¥ 149,000 ¥ 283,500
+Purchases
+1,400,000 2,160,000
+Freight-in
+70,000
+Markups, net
+92,000
+Markdowns, net
+48,000
+Sales
+2,175,000
+b. If the results of a physical inventory indicated an inventory at retail of ¥295,000, what
+inferences would you draw?
+17. Tesco (GBR) reported inventory in its statement of financial position as follows:
+Inventories £2,430,000,000
+What additional disclosures might be necessary to present the inventory fairly?
+18. Of what significance is inventory turnover to a retail store?
+Brief Exercises
+BE9.1 (LO 1) Presented below is information related to Rembrandt Inc.’s inventory.
+(per unit)
+Skis
+Boots
+Parkas
+Historical cost
+$190.00 $106.00 $53.00
+
+--- Page 738 ---
+Selling price
+212.00
+145.00
+73.75
+Cost to sell
+19.00
+8.00
+2.50
+Cost to complete
+32.00
+29.00
+21.25
+Determine the following: (a) the net realizable value for each item, and (b) the carrying value
+of each item under LCNRV.
+BE9.2 (LO 1) Floyd SE has the following four items in its ending inventory.
+Item
+Cost
+Net Realizable Value (NRV)
+Jokers
+€2,000
+€2,100
+Penguins
+5,000
+4,950
+Riddlers
+4,400
+4,625
+Scarecrows
+3,200
+3,830
+Determine (a) the LCNRV for each item, and (b) the amount of write-down, if any, using (1)
+an item-by-item LCNRV evaluation and (2) a total-group LCNRV evaluation.
+BE9.3 (LO 1) Kumar SA uses a perpetual inventory system. At January 1, 2022, inventory
+was R$214,000,000 at both cost and net realizable value. At December 31, 2022, the
+inventory was R$286,000,000 at cost and R$265,000,000 at net realizable value. Prepare the
+necessary December 31 entry under (a) the cost-of-goods-sold method and (b) the loss
+method.
+BE9.4 (LO 2) Keyser’s Fleece owns a herd of sheep. Keyser shears the sheep on a
+semiannual basis and then sells the harvested wool into the specialty knitting market. Keyser
+has the following information related to the shearing sheep at January 1, 2022, and during
+the first 6 months of 2022.
+Shearing sheep
+Carrying value (equal to net realizable value), January 1, 2022 €74,000
+Change in fair value due to growth and price changes
+4,700
+Change in fair value due to harvest
+(575)
+Wool harvested during the first 6 months (at NRV)
+9,000
+Prepare the journal entry (or entries) for Keyser’s biological asset (shearing sheep) for the
+first 6 months of 2022.
+BE9.5 (LO 2) Refer to the data in BE9.4 for Keyser’s Fleece. Prepare the journal entries for
+(a) the wool harvested in the first 6 months of 2022, and (b) when the wool harvested is sold
+for €10,500 in July 2022.
+BE9.6 (LO 2) Benke Ltd. buys 1,000 computer game CDs from a distributor who is
+discontinuing those games. The purchase price for the lot is ¥8,000. Benke will group the
+CDs into three price categories for resale, as indicated below (yen in thousands).
+Group No. of CDs Price per CD
+1
+100
+¥ 5
+2
+800
+10
+3
+100
+15
+
+--- Page 739 ---
+Determine the cost per CD for each group, using the relative standalone sales value method.
+BE9.7 (LO 2) Kemper Company signed a long-term, non-cancelable purchase commitment
+with a major supplier to purchase raw materials in 2023 at a cost of $1,000,000. At
+December 31, 2022, the raw materials to be purchased have a fair value of $950,000. Prepare
+any necessary December 31 entry.
+BE9.8 (LO 2) Use the information for Kemper Company from BE9.7. In 2023, Kemper paid
+$1,000,000 to obtain the raw materials which were worth $950,000. Prepare the entry to
+record the purchase.
+BE9.9 (LO 3) Fosbre NV’s April 30 inventory was destroyed by fire. January 1 inventory was
+€150,000, and purchases for January through April totaled €500,000. Sales for the same
+period were €700,000. Fosbre’s normal gross profit percentage is 35% on sales. Using the
+gross profit method, estimate Fosbre’s April 30 inventory that was destroyed by fire.
+BE9.10 (LO 4) Boyne Inc. had beginning inventory of $12,000 at cost and $20,000 at retail.
+Net purchases were $120,000 at cost and $170,000 at retail. Net markups were $10,000; net
+markdowns were $7,000; and sales were $147,000. Compute ending inventory at cost using
+the conventional retail method.
+BE9.11 (LO 5) Recently, Inditex (ESP) reported ending inventory of €1,581.297
+(€1,297.009 the previous year). Cost of sales were €6,486.825 and net sales were €15,946.143
+(all amounts in millions). Compute Inditex’s inventory turnover and average days to sell
+inventory.
+Exercises
+E9.1 (LO 1) (LCNRV) The inventory of Oheto Company on December 31, 2022, consists of
+the following items.
+Part No.
+Quantity
+Cost per Unit
+Net Realizable Value per Unit
+110
+600
+$95
+$100
+111
+1,000
+60
+52
+112
+500
+80
+76
+113
+200
+170
+180
+120
+400
+205
+208
+121a
+1,600
+16
+1
+122
+300
+240
+235
+aPart No. 121 is obsolete and has a realizable value of $1 each as scrap.
+Instructions
+a. Determine the inventory as of December 31, 2022, by the LCNRV method, applying this
+method to each item.
+b. Determine the inventory by the LCNRV method, applying the method to the total of the
+inventory.
+E9.2 (LO 1) (LCNRV) Riegel Company uses the LCNRV method, on an individual-item
+basis, in pricing its inventory items. The inventory at December 31, 2022, consists of
+
+--- Page 740 ---
+products D, E, F, G, H, and I. Relevant per-unit data for these products appear below.
+Item D Item E Item F Item G Item H Item I
+Estimated selling price
+€120
+€110
+€95
+€90
+€110
+€90
+Cost
+75
+80
+80
+80
+50
+36
+Cost to complete
+30
+30
+25
+35
+30
+30
+Selling costs
+10
+18
+10
+20
+10
+20
+Instructions
+Using the LCNRV rule, determine the proper unit value for statement of financial position
+reporting purposes at December 31, 2022, for each of the inventory items above.
+E9.3 (LO 1) (LCNRV) Sedato Company follows the practice of pricing its inventory at
+LCNRV, on an individual-item basis.
+Item No. Quantity Cost per Unit Estimated Selling Price Cost to Complete and Sell
+1320
+1,200
+$3.20
+$4.50
+$1.60
+1333
+900
+2.70
+3.40
+1.00
+1426
+800
+4.50
+5.00
+1.40
+1437
+1,000
+3.60
+3.20
+1.35
+1510
+700
+2.25
+3.25
+1.40
+1522
+500
+3.00
+3.90
+0.80
+1573
+3,000
+1.80
+2.50
+1.20
+1626
+1,000
+4.70
+6.00
+1.50
+Instructions
+Using the information above, determine the amount of Sedato Company inventory.
+E9.4 (LO 1) (LCNRV—Journal Entries) Dover plc began operations in 2022 and
+determined its ending inventory at cost and at NRV at December 31, 2022, and December 31,
+2023. This information is presented below.
+Cost
+Net Realizable Value
+12/31/22 £346,000
+£322,000
+12/31/23
+410,000
+390,000
+Instructions
+a. Prepare the journal entries required at December 31, 2022, and December 31, 2023,
+assuming inventory is recorded at LCNRV and a perpetual inventory system using the
+cost-of-goods-sold method.
+b. Prepare journal entries required at December 31, 2022, and December 31, 2023,
+assuming inventory is recorded at cost with a perpetual system. Use the loss method to
+record any LCNRV.
+c. Which of the two methods above provides the higher net income in each year?
+
+--- Page 741 ---
+E9.5 (LO 1) (LCNRV—Valuation Account) Presented below is information related to
+Knight Enterprises.
+Jan. 31 Feb. 28 Mar. 31 Apr. 30
+Inventory at cost
+$15,000 $15,100 $17,000 $14,000
+Inventory at NRV
+14,500
+12,600
+15,600
+13,300
+Purchases for the month
+17,000 24,000
+26,500
+Sales for the month
+29,000 35,000 40,000
+Instructions
+a. From the information, prepare (as far as the data permit) monthly income statements in
+columnar form for February, March, and April. The inventory is to be shown in the
+statement at cost; the gain or loss due to NRV market fluctuations is to be shown
+separately (using a valuation account).
+b. Prepare the journal entry required to establish the valuation account at January 31 and
+entries to adjust it monthly thereafter.
+E9.6 (LO 1) (LCNRV—Error Effect) LaGreca SA uses the LCNRV method, on an
+individual-item basis, in pricing its inventory items. The inventory at December 31, 2022,
+includes product X. Relevant per-unit data for product X are as follows.
+Estimated selling price
+€50
+Cost
+40
+Estimated selling expenses
+14
+There are 1,000 units of product X on hand at December 31, 2022. Product X is incorrectly
+valued at €38 per unit for reporting purposes. All 1,000 units are sold in 2023.
+Instructions
+Compute the effect of this error on net income for 2022 and the effect on net income for
+2023, and indicate the direction of the misstatement for each year.
+E9.7 (LO 2) (Valuation at Net Realizable Value) Matsumura Dairy began operations
+on April 1, 2022, with the purchase of 200 milking cows for ¥6,700,000. It has completed the
+first month of operations and has the following information for its milking cows at the end
+of April 2022 (yen in thousands).
+Milking cows
+Change in fair value due to growth and price changes*
+¥(200,000)
+Decrease in fair value due to harvest
+(12,000)
+Milk harvested during April 2022 (at net realizable value)
+72,000
+*Due to a very high rate of calving in the past month, there is a glut of milking cows on the
+market.
+Instructions
+
+--- Page 742 ---
+a. Prepare the journal entries for Matsumura’s biological asset (milking cows) for the
+month of April 2022.
+b. Prepare the journal entry for the milk harvested by Matsumura during April 2022.
+c. Matsumura sells the milk harvested in April on the local milk exchange and receives
+¥74,000. Prepare the summary journal entry to record the sale of the milk.
+E9.8 (LO 2) (Valuation at Net Realizable Value) Mt. Horeb Alpaca Co. has a herd of
+150 alpaca. The alpaca are sheared once a quarter to harvest valuable wool that is used in
+designer sweaters. Mt. Horeb has the following information related to the alpaca herd at July
+1, 2022, and during the first quarter of the fiscal year.
+Alpaca
+Carrying value (equal to net realizable value), July 1, 2022
+$120,000
+Change in fair value due to growth and price changes
+7,700
+Decrease in fair value due to harvest
+(975)
+Alpaca wool harvested during the first quarter (at net realizable value)
+13,000
+Instructions
+a. Prepare the journal entries for Mt. Horeb’s biological asset (Alpaca herd) for the first
+quarter.
+b. Prepare the journal entries for the Alpaca wool harvested in the first quarter.
+c. Prepare the journal entry when the Alpaca wool is sold for $14,500.
+d. Briefly discuss the impact on income of the following events related to the alpaca
+biological asset: (1) a female alpaca gives birth to a baby alpaca, and (2) an older alpaca
+can only be sheared once every other quarter due to irritation caused by repeated
+shearing over its life.
+E9.9 (LO 2) (Relative Standalone Sales Value Method) Larsen Realty Ltd. purchased a
+tract of unimproved land for £55,000. This land was improved and subdivided into building
+lots at an additional cost of £30,000. These building lots were all of the same size. However,
+owing to differences in location, the lots were offered for sale at different prices as follows.
+Group No. of Lots Price per Lot
+1
+9
+£3,000
+2
+15
+4,000
+3
+19
+2,000
+Operating expenses for the year allocated to this project total £18,200. Lots unsold at the
+year-end were as follows.
+Group 1 5 lots
+Group 2 7 lots
+Group 3 2 lots
+Instructions
+
+--- Page 743 ---
+At the end of the fiscal year, Larsen Realty instructs you to arrive at the net income realized
+on this operation to date.
+E9.10 (LO 2) (Relative Standalone Sales Value Method) During 2022, Crawford
+Furniture purchases a carload of wicker chairs. The manufacturer sells the chairs to
+Crawford for a lump sum of £60,000 because it is discontinuing manufacturing operations
+and wishes to dispose of its entire stock. Three types of chairs are included in the carload.
+The three types and the estimated selling price for each are listed below.
+Type
+No. of Chairs Estimated Selling Price Each
+Lounge chairs
+400
+£90
+Armchairs
+300
+80
+Straight chairs
+800
+50
+During 2022, Crawford sells 200 lounge chairs, 100 armchairs, and 120 straight chairs.
+Instructions
+What is the amount of gross profit realized during 2022? What is the amount of inventory of
+unsold straight chairs on December 31, 2022?
+E9.11 (LO 2) (Purchase Commitments) Prater Company has had difficulty obtaining key
+raw materials for its manufacturing process. The company therefore signed a long-term, non-
+cancelable purchase commitment with its largest supplier of this raw material on November
+30, 2022, at an agreed price of $400,000. At December 31, 2022, the raw material had
+declined in price to $375,000.
+Instructions
+What entry would you make on December 31, 2022, to recognize these facts?
+E9.12 (LO 2) (Purchase Commitments) At December 31, 2022, Volkan AG has
+outstanding non-cancelable purchase commitments for 40,000 gallons, at €3.00 per gallon,
+of raw material to be used in its manufacturing process. The company prices its raw material
+inventory at lower-of-cost-or-net realizable value.
+Instructions
+a. Assuming that the market price as of December 31, 2022, is €3.30, how would this
+matter be treated in the accounts and statements? Explain.
+b. Assuming that the market price as of December 31, 2022, is €2.70 instead of €3.30, how
+would you treat this situation in the accounts and statements?
+c. Give the entry in January 2023, when the 40,000-gallon shipment is received, assuming
+that the situation given in (b) above existed at December 31, 2022, and that the market
+price in January 2023 is €2.70 per gallon. Give an explanation of your treatment.
+E9.13 (LO 3) (Gross Profit Method) Each of the following gross profit percentages is
+expressed in terms of cost.
+1. 20%.
+2. 25%.
+
+--- Page 744 ---
+3. 33⅓%.
+4. 50%.
+Instructions
+Indicate the gross profit percentage in terms of sales for each of the above.
+E9.14 (LO 3) (Gross Profit Method) Astaire ASA uses the gross profit method to
+estimate inventory for monthly reporting purposes. Presented below is information for the
+month of May.
+Inventory, May 1
+€ 160,000
+Purchases (gross)
+640,000
+Freight-in
+30,000
+Sales
+1,000,000
+Sales returns
+70,000
+Purchase discounts
+12,000
+Instructions
+a. Compute the estimated inventory at May 31, assuming that the gross profit is 25% of
+sales.
+b. Compute the estimated inventory at May 31, assuming that the gross profit is 25% of
+cost.
+E9.15 (LO 3) (Gross Profit Method) Zidek Corp. requires an estimate of the cost of goods
+lost by fire on March 9. Merchandise on hand on January 1 was $38,000. Purchases since
+January 1 were $92,000; freight-in, $3,400; purchase returns and allowances, $2,400. Sales
+are made at 33⅓% above cost and totaled $120,000 to March 9. Goods costing $10,900 were
+left undamaged by the fire; remaining goods were destroyed.
+Instructions
+a. Compute the cost of goods destroyed.
+b. Compute the cost of goods destroyed, assuming that the gross profit is 33⅓% of sales.
+E9.16 (LO 3) (Gross Profit Method) Castlevania SA lost most of its inventory in a fire in
+December just before the year-end physical inventory was taken. The company’s books
+disclosed the following.
+Beginning inventory
+R$170,000 Sales
+R$650,000
+Purchases for the year
+450,000 Sales returns
+24,000
+Purchase returns
+30,000 Rate of gross margin on net sales
+30%
+Merchandise with a selling price of R$21,000 remained undamaged after the fire. Damaged
+merchandise with an original selling price of R$15,000 had a net realizable value of R$5,300.
+Instructions
+
+--- Page 745 ---
+Compute the amount of the loss as a result of the fire, assuming that the company had no
+insurance coverage.
+E9.17 (LO 3) (Gross Profit Method) Yao Ming of Rocket Ltd. calls you on July 16 and
+asks you to prepare a claim for insurance as a result of a theft that took place the night
+before. You suggest that an inventory be taken immediately. The following data are available
+(amounts in thousands).
+Inventory, July 1
+¥ 38,000
+Purchases—goods placed in stock July 1–15
+90,000
+Sales—goods delivered to customers (gross)
+116,000
+Sales returns—goods returned to stock
+4,000
+Your client reports that the goods on hand on July 16 cost ¥30,500, but you determine that
+this figure includes goods of ¥6,000 received on a consignment basis. Your past records show
+that sales are made at approximately 25% over cost. Rocket’s insurance covers only goods
+owned.
+Instructions
+Compute the claim against the insurance company.
+E9.18 (LO 3) (Gross Profit Method) Sliver Lumber Company handles three principal
+lines of merchandise with these varying rates of gross profit on cost.
+Lumber
+25%
+Millwork 30%
+Hardware 40%
+On August 18, a fire destroyed the office, lumber shed, and a considerable portion of the
+lumber stacked in the yard. To file a report of loss for insurance purposes, the company must
+know what the inventories were immediately preceding the fire. No detail or perpetual
+inventory records of any kind were maintained. The only pertinent information you are able
+to obtain are the following facts from the general ledger, which was kept in a fireproof vault
+and escaped destruction.
+Lumber
+Millwork Hardware
+Inventory, Jan. 1, 2022
+$ 250,000 $ 90,000 $ 45,000
+Purchases to Aug. 18, 2022 1,500,000
+375,000
+160,000
+Sales to Aug. 18, 2022
+2,050,000
+533,000
+245,000
+Instructions
+Submit your estimate of the inventory amounts immediately preceding the fire.
+E9.19 (LO 3) (Gross Profit Method) Presented below is information related to Jerrold
+Ltd. for the current year.
+Beginning inventory
+£ 600,000
+Purchases
+1,500,000
+Total goods available for sale
+£2,100,000
+
+--- Page 746 ---
+Sales
+2,300,000
+Instructions
+Compute the ending inventory, assuming that (a) gross profit is 40% of sales, (b) gross profit
+is 60% of cost, (c) gross profit is 35% of sales, and (d) gross profit is 25% of cost.
+E9.20 (LO 4) (Retail Inventory Method) Presented below is information related to
+Luzon SA.
+Cost
+Retail
+Beginning inventory R$ 58,000 R$100,000
+Purchases (net)
+122,000
+200,000
+Net markups
+20,000
+Net markdowns
+30,000
+Sales
+186,000
+Instructions
+a. Compute the ending inventory at retail.
+b. Compute a cost-to-retail percentage (round to two decimals) under the following
+conditions.
+1. Excluding both markups and markdowns.
+2. Excluding markups but including markdowns.
+3. Excluding markdowns but including markups.
+4. Including both markdowns and markups.
+c. Which of the methods in (b) above (1, 2, 3, or 4) does the following?
+1. Provides the most conservative estimate of ending inventory.
+2. Provides an approximation of LCNRV.
+3. Is used in the conventional retail method.
+d. Compute ending inventory at LCNRV (round to nearest dollar).
+e. Compute cost of goods sold based on (d).
+f. Compute gross margin based on (d).
+E9.21 (LO 4) (Retail Inventory Method) Presented below is information related to
+Kuchinsky Company.
+Cost
+Retail
+Beginning inventory
+€ 200,000 € 280,000
+Purchases
+1,425,000
+2,140,000
+Markups
+95,000
+Markup cancellations
+15,000
+Markdowns
+35,000
+
+--- Page 747 ---
+Markdown cancellations
+5,000
+Sales
+2,250,000
+Instructions
+Compute the inventory by the conventional retail inventory method.
+E9.22 (LO 4) (Retail Inventory Method) The records of Mandy’s Boutique report the
+following data for the month of April.
+Sales
+£95,000 Purchases (at cost)
+£55,000
+Sales returns
+2,000 Purchases (at sales price)
+88,000
+Markups
+10,000 Purchase returns (at cost)
+2,000
+Markup cancellations
+1,500 Purchase returns (at sales price)
+3,000
+Markdowns
+9,300 Beginning inventory (at cost)
+30,000
+Markdown cancellations
+2,800 Beginning inventory (at sales price)
+46,500
+Freight on purchases
+2,400
+Instructions
+Compute the ending inventory by the conventional retail inventory method.
+E9.23 (LO 5) (Analysis of Inventories) The financial statements of AB InBev’s (BEL)
+2018 annual report disclosed the following information.
+(in millions) 31 December 2018 31 December 2017
+Inventories
+$4,234
+$4,119
+Fiscal Year
+2018
+2017
+Sales
+$54,619
+$56,444
+Cost of sales
+20,359
+21,386
+Net income
+5,691
+9,183
+Instructions
+Compute AB InBev’s (a) inventory turnover and (b) average days to sell inventory for 2018.
+Problems
+P9.1 (LO 1) (LCNRV) Remmers SE manufactures desks. Most of the company’s desks are
+standard models and are sold on the basis of catalog prices. At December 31, 2022, the
+following finished desks appear in the company’s inventory.
+Finished Desks
+A
+B
+C
+D
+2022 catalog selling price
+€450 €480 €900 €1,050
+FIFO cost per inventory list 12/31/22
+470
+450
+830
+960
+Estimated cost to complete and sell
+50
+110
+260
+200
+2023 catalog selling price
+500
+540
+900
+1,200
+
+--- Page 748 ---
+The 2022 catalog was in effect through November 2022, and the 2023 catalog is effective as
+of December 1, 2022. All catalog prices are net of the usual discounts.
+Instructions
+At what amount should each of the four desks appear in the company’s December 31, 2022,
+inventory, assuming that the company has adopted a lower-of-FIFO-cost-or-net realizable
+value approach for valuation of inventories on an individual-item basis?
+P9.2 (LO 1) 
+ (LCNRV) Garcia Home Improvement plc installs replacement
+siding, windows, and louvered glass doors for single-family homes and condominium
+complexes. The company is in the process of preparing its annual financial statements for
+the fiscal year ended May 31, 2022. Jim Alcide, controller for Garcia, has gathered the
+following data concerning inventory.
+At May 31, 2022, the balance in Garcia’s Raw Materials Inventory account was £408,000,
+and Allowance to Reduce Inventory to NRV had a credit balance of £27,500. Alcide
+summarized the relevant inventory cost and market data at May 31, 2022, in the schedule
+below.
+Alcide assigned Patricia Devereaux, an intern from a local college, the task of calculating the
+amount that should appear on Garcia’s May 31, 2022, financial statements for inventory
+under the LCNRV rule as applied to each item in inventory. Devereaux expressed concern
+over departing from the historical cost principle.
+Cost
+Sales Price Net Realizable Value
+Aluminum siding
+£ 70,000
+£ 64,000
+£ 56,000
+Cedar shake siding
+86,000
+94,000
+84,800
+Louvered glass doors
+112,000
+186,400
+168,300
+Thermal windows
+140,000
+154,800
+140,000
+Total
+£408,000
+£499,200
+£449,100
+Instructions
+a. 
+1. Determine the proper balance in Allowance to Reduce Inventory to Net Realizable
+Value at May 31, 2022.
+2. For the fiscal year ended May 31, 2022, determine the amount of the gain or loss
+that would be recorded (using the loss method) due to the change in Allowance to
+Reduce Inventory to Net Realizable Value.
+b. Explain the rationale for the use of the LCNRV rule as it applies to inventories.
+P9.3 (LO 1) (LCNRV—Cost-of-Goods-Sold and Loss) Malone Company determined its
+ending inventory at cost and at LCNRV at December 31, 2022, December 31, 2023, and
+December 31, 2024, as shown below.
+Cost
+LCNRV
+12/31/22 $650,000 $650,000
+12/31/23
+780,000
+712,000
+12/31/24
+905,000
+830,000
+
+--- Page 749 ---
+Instructions
+a. Prepare the journal entries required at December 31, 2023, and at December 31, 2024,
+assuming that a perpetual inventory system and the cost-of-goods-sold method of
+adjusting to LCNRV are used.
+b. Prepare the journal entries required at December 31, 2023, and at December 31, 2024,
+assuming that a perpetual inventory is recorded at cost and reduced to LCNRV using the
+loss method.
+P9.4 (LO 2) (Valuation at Net Realizable Value) Finn Berge realized his lifelong dream
+of becoming a vineyard owner when he was able to purchase the Hillside Vineyard at an
+estate auction in August 2022 for €750,000. Finn retained the Hillside name for his new
+business. The purchase was risky because the growing season was coming to an end, the
+grapes had to be harvested in the next several weeks, and Finn had limited experience in
+carrying off a grape harvest.
+At the end of the first quarter of operations, Finn felt pretty good about his early results. The
+first harvest was a success; 300 bushels of grapes were harvested with a value of €30,000
+(based on current local commodity prices at the time of harvest). And, given the strong yield
+from area vineyards during the season, the net realizable value of Finn’s vineyard had
+increased by €15,000 at the end of the quarter. After storing the grapes for a short period of
+time, Finn was able to sell the entire harvest for €35,000.
+Instructions
+a. Prepare the journal entries for the Hillside biological asset (grape vines) for the first
+quarter of operations (the beginning carrying and net realizable value is €750,000).
+b. Prepare the journal entry for the grapes harvested during the first quarter.
+c. Prepare the journal entry to record the sale of the grapes harvested in the first quarter.
+d. Determine the total effect on income for the quarter related to the Hillside biological
+asset and agricultural produce.
+e. Looking to the next growing season, Finn is doing some forecasting, based on the
+following two developments: (1) demand is expected to increase for the type of grapes
+his vineyard produces and (2) there are new producing vineyards coming on line that
+will increase the supply of similar grapevines in the market. Briefly discuss how these
+developments are likely to affect the value of Hillside’s biological assets and agricultural
+produce in the next growing season.
+P9.5 (LO 3) (Gross Profit Method) Yu Ltd. lost most of its inventory in a fire in
+December just before the year-end physical inventory was taken. Company records disclose
+the following (yen in thousands).
+Inventory (beginning) ¥ 80,000 Sales
+¥415,000
+Purchases
+290,000 Sales returns
+21,000
+Purchase returns
+28,000 Gross profit % based on net selling price
+35%
+Merchandise with a selling price of ¥30,000 remained undamaged after the fire, and
+damaged merchandise has a residual value of ¥8,150. The company does not carry fire
+
+--- Page 750 ---
+insurance on its inventory.
+Instructions
+Prepare a formal labeled schedule computing the fire loss incurred. (Do not use the retail
+inventory method.)
+P9.6 (LO 3) 
+ (Gross Profit Method) On April 15, 2022, fire damaged the office
+and warehouse of Stanislaw ASA. The only accounting record saved was the general ledger,
+from which the trial balance below was prepared.
+Stanislaw ASA
+Trial Balance
+March 31, 2022
+Cash
+€ 20,000
+Accounts receivable
+40,000
+Inventory, December 31, 2021
+75,000
+Land
+35,000
+Equipment
+110,000
+Accumulated depreciation—equipment
+€ 41,300
+Other assets
+3,600
+Accounts payable
+23,700
+Other expense accruals
+10,200
+Share capital—ordinary
+100,000
+Retained earnings
+52,000
+Sales revenue
+135,000
+Purchases
+52,000
+Miscellaneous expenses
+26,600
+€362,200 €362,200
+The following data and information have been gathered.
+1. The fiscal year of the company ends on December 31.
+2. An examination of the April bank statement and canceled checks revealed that checks
+written during the period April 1–15 totaled €13,000: €5,700 paid to accounts payable as
+of March 31, €3,400 for April merchandise shipments, and €3,900 paid for other
+expenses. Deposits during the same period amounted to €12,950, which consisted of
+receipts on account from customers with the exception of a €950 refund from a vendor
+for merchandise returned in April.
+3. Correspondence with suppliers revealed unrecorded obligations at April 15 of €15,600
+for April merchandise shipments, including €2,300 for shipments in transit (f.o.b.
+shipping point) on that date.
+4. Customers acknowledged indebtedness of €46,000 at April 15, 2022. It was also
+estimated that customers owed another €8,000 that will never be acknowledged or
+recovered. Of the acknowledged indebtedness, €600 will probably be uncollectible.
+
+--- Page 751 ---
+5. The companies insuring the inventory agreed that Stanislaw’s fire-loss claim should be
+based on the assumption that the overall gross profit ratio for the past 2 years was in
+effect during the current year. The company’s audited financial statements disclosed this
+information:
+Year Ended
+December 31
+2021
+2020
+Net sales
+€530,000 €390,000
+Net purchases
+280,000
+235,000
+Beginning inventory
+50,000
+66,000
+Ending inventory
+75,000
+50,000
+6. Inventory with a cost of €7,000 was salvaged and sold for €3,500. The balance of the
+inventory was a total loss.
+Instructions
+Prepare a schedule computing the amount of inventory fire loss. The supporting schedule of
+the computation of the gross profit should be in good form.
+P9.7 (LO 4) (Retail Inventory Method) The records for the Clothing Department of
+Wei’s Discount Store are summarized below for the month of January (HK$ in thousands).
+Inventory, January 1: at retail HK$25,000; at cost HK$17,000
+Purchases in January: at retail HK$137,000; at cost HK$82,500
+Freight-in: HK$7,000
+Purchase returns: at retail HK$3,000; at cost HK$2,300
+Transfers-in from suburban branch: at retail HK$13,000; at cost HK$9,200
+Net markups: HK$8,000
+Net markdowns: HK$4,000
+Inventory losses due to normal breakage, etc.: at retail HK$400
+Sales at retail: HK$95,000
+Sales returns: HK$2,400
+Instructions
+a. Compute the inventory for this department as of January 31, at retail prices.
+b. Compute the ending inventory using lower-of-average-cost-or-net realizable value.
+P9.8 (LO 4) (Retail Inventory Method) Presented below is information related to
+Waveland Inc.
+Cost
+Retail
+Inventory, 12/31/22
+$250,000 $ 390,000
+Purchases
+914,500 1,460,000
+
+--- Page 752 ---
+Purchase returns
+60,000
+80,000
+Purchase discounts
+18,000
+—
+Gross sales (after employee discounts)
+—
+1,410,000
+Sales returns
+—
+97,500
+Markups
+—
+120,000
+Markup cancellations
+—
+40,000
+Markdowns
+—
+45,000
+Markdown cancellations
+—
+20,000
+Freight-in
+42,000
+—
+Employee discounts granted
+—
+8,000
+Loss from breakage (normal)
+—
+4,500
+Instructions
+Assuming that Waveland Inc. uses the conventional retail inventory method, compute the
+cost of its ending inventory at December 31, 2022.
+P9.9 (LO 4) 
+ (Retail Inventory Method) Fuque Ltd. uses the retail inventory
+method to estimate ending inventory for its monthly financial statements. The following
+data pertain to a single department for the month of October 2022.
+Inventory, October 1, 2022
+At cost
+£ 52,000
+At retail
+78,000
+Purchases (exclusive of freight and returns)
+At cost
+272,000
+At retail
+423,000
+Freight-in
+16,600
+Purchase returns
+At cost
+5,600
+At retail
+8,000
+Markups
+9,000
+Markup cancellations
+2,000
+Markdowns (net)
+3,600
+Normal spoilage and breakage
+10,000
+Sales
+390,000
+Instructions
+a. Using the conventional retail method, prepare a schedule computing estimated LCNRV
+inventory for October 31, 2022.
+b. A department store using the conventional retail inventory method estimates the cost of
+its ending inventory as £60,000. An accurate physical count reveals only £47,000 of
+
+--- Page 753 ---
+inventory at LCNRV. List the factors that may have caused the difference between the
+computed inventory and the physical count.
+P9.10 (LO 1, 2, 5) (Statement and Note Disclosure, LCNRV, and Purchase
+Commitment) Maddox Specialty Company, a division of Lost World Inc., manufactures
+three models of gear shift components for bicycles that are sold to bicycle manufacturers,
+retailers, and catalog outlets. Since beginning operations in 1986, Maddox has used normal
+absorption costing and has assumed a first-in, first-out cost flow in its perpetual inventory
+system. The balances of the inventory accounts at the end of Maddox’s fiscal year, November
+30, 2022, are shown below. The inventories are stated at cost before any year-end
+adjustments.
+Finished goods
+$647,000
+Work-in-process
+112,500
+Raw materials
+264,000
+Factory supplies
+69,000
+The following information relates to Maddox’s inventory and operations.
+1. The finished goods inventory consists of the items analyzed below.
+Cost
+Net Realizable Value
+Down tube shifter
+Standard model
+$ 67,500
+$ 67,000
+Click adjustment model
+94,500
+89,000
+Deluxe model
+108,000
+110,000
+Total down tube shifters
+270,000
+266,000
+Bar end shifter
+Standard model
+83,000
+90,050
+Click adjustment model
+99,000
+97,550
+Total bar end shifters
+182,000
+187,600
+Head tube shifter
+Standard model
+78,000
+77,650
+Click adjustment model
+117,000
+119,300
+Total head tube shifters
+195,000
+196,950
+Total finished goods
+$647,000
+$650,550
+2. One-half of the head tube shifter finished goods inventory is held by catalog outlets on
+consignment.
+3. Three-quarters of the bar end shifter finished goods inventory has been pledged as
+collateral for a bank loan.
+4. One-half of the raw materials balance represents derailleurs acquired at a contracted
+price 20% above the current market price. The net realizable value of the rest of the raw
+materials is $127,400.
+5. The net realizable value of the work-in-process inventory is $108,700.
+
+--- Page 754 ---
+6. Included in the cost of factory supplies are obsolete items with an historical cost of
+$4,200. The net realizable value of the remaining factory supplies is $65,900.
+7. Maddox applies the LCNRV method to each of the three types of shifters in finished
+goods inventory. For each of the other three inventory accounts, Maddox applies the
+LCNRV method to the total of each inventory account.
+8. Consider all amounts presented above to be material in relation to Maddox’s financial
+statements taken as a whole.
+Instructions
+a. Prepare the inventory section of Maddox’s statement of financial position as of
+November 30, 2022, including any required note(s).
+b. Without prejudice to your answer to (a), assume that the net realizable value of
+Maddox’s inventories is less than cost. Explain how this decline would be presented in
+Maddox’s income statement for the fiscal year ended November 30, 2022.
+c. Assume that Maddox has a firm purchase commitment for the same type of derailleur
+included in the raw materials inventory as of November 30, 2022, and that the purchase
+commitment is at a contracted price 15% greater than the current market price. These
+derailleurs are to be delivered to Maddox after November 30, 2022. Discuss the impact,
+if any, that this purchase commitment would have on Maddox’s financial statements
+prepared for the fiscal year ended November 30, 2022.
+P9.11 (LO 1) 
+ (LCNRV) Taipai Ltd. follows the practice of valuing its inventory at
+the LCNRV. The following information is available from the company’s inventory records as
+of December 31, 2022 (amounts in thousands).
+Item Quantity Unit Cost Estimated Selling Price/Unit Completion & Selling Cost/Unit
+A
+1,100 NT$7.50
+NT$10.50
+NT$1.50
+B
+800
+8.20
+9.40
+1.30
+C
+1,000
+5.60
+7.20
+1.75
+D
+1,000
+3.80
+6.30
+1.80
+E
+1,400
+6.40
+6.70
+0.70
+Instructions
+Jay Shin is an accounting clerk in the accounting department of Taipai Co., and he cannot
+understand how completion and selling costs affect the determination of net realizable value.
+Jay is very confused, and he is the one who records inventory purchases and calculates
+ending inventory. You are the manager of the department and an accountant.
+a. Calculate the LCNRV using the “individual-item” approach.
+b. Show the journal entry he will need to make in order to write down the ending inventory
+from cost to NRV.
+c. Then, write a memo to Jay explaining what net realizable value is, as well as how it is
+computed. Use your calculations to aid in your explanation.
+
+--- Page 755 ---
+Concepts for Analysis
+CA9.1 (LO 1) 
+ (LCNRV) You have been asked by the financial vice president to
+develop a short presentation on the LCNRV method for inventory purposes. The financial VP
+needs to explain this method to the president because it appears that a portion of the
+company’s inventory has declined in value.
+Instructions
+The financial vice president asks you to answer the following questions.
+a. What is the purpose of the LCNRV method?
+b. What is meant by “net realizable value”?
+c. Do you apply the LCNRV method to each individual item, to a category, or to the total of
+the inventory? Explain.
+d. What are the potential disadvantages of the LCNRV method?
+CA9.2 (LO 1) 
+ (LCNRV) The net realizable value of Lake Corporation’s inventory
+has declined below its cost. Allyn Conan, the controller, wants to use the loss method to
+write down inventory because it more clearly discloses the decline in the net realizable value
+and does not distort the cost of goods sold. His supervisor, financial vice president Bill Ortiz,
+prefers the cost-of-goods-sold method to write down inventory because it does not call
+attention to the decline in net realizable value.
+Instructions
+Answer the following questions.
+a. What, if any, is the ethical issue involved?
+b. Is any stakeholder harmed if Bill Ortiz’s preference is used?
+c. What should Allyn Conan do?
+CA9.3 (LO 1) (LCNRV) Ogala NV purchased a significant amount of raw materials
+inventory for a new product that it is manufacturing.
+Ogala uses the LCNRV rule for these raw materials. The net realizable value of the raw
+materials is below the original cost.
+Ogala uses the FIFO inventory method for these raw materials. In the last 2 years, each
+purchase has been at a lower price than the previous purchase, and the ending inventory
+quantity for each period has been higher than the beginning inventory quantity for that
+period.
+Instructions
+a. 
+1. At which amount should Ogala’s raw materials inventory be reported on the
+statement of financial position? Why?
+2. In general, why is the LCNRV rule used to report inventory?
+b. What would have been the effect on ending inventory and cost of goods sold had Ogala
+used the average-cost inventory method instead of the FIFO inventory method for the
+
+--- Page 756 ---
+raw materials? Why?
+CA9.4 (LO 4) 
+ (Retail Inventory Method) Saurez Company, your client,
+manufactures paint. The company’s president, Maria Saurez, has decided to open a retail
+store to sell Saurez paint as well as wallpaper and other supplies that would be purchased
+from other suppliers. She has asked you for information about the conventional retail
+method of pricing inventories at the retail store.
+Instructions
+Prepare a report to the president explaining the retail method of pricing inventories. Your
+report should include the following points.
+a. Description and accounting features of the method.
+b. The conditions that may distort the results under the method.
+c. A comparison of the advantages of using the retail method with those of using cost
+methods of inventory pricing.
+d. The accounting theory underlying the treatment of net markdowns and net markups
+under the method.
+CA9.5 (LO 1, 4) (Cost Determination, LCNRV, Retail Method) Olson ASA, a retailer
+and wholesaler of brand-name household lighting fixtures, purchases its inventories from
+various suppliers.
+Instructions
+a. 
+1. What criteria should be used to determine which of Olson’s costs are inventoriable?
+2. Are Olson’s administrative costs inventoriable? Defend your answer.
+b. 
+1. Olson uses the LCNRV rule for its wholesale inventories. What are the theoretical
+arguments for that rule?
+2. The net realizable value of the inventories is below the original cost. What amount
+should be used to value the inventories? Why?
+c. Olson calculates the estimated cost of its ending inventories held for sale at retail using
+the conventional retail inventory method. How would Olson treat the beginning
+inventories and net markdowns in calculating the cost ratio used to determine its ending
+inventories? Why?
+CA9.6 (LO 2) 
+ (Purchase Commitments) Prophet Company signed a long-term
+purchase contract to buy timber from the government forest service at $300 per thousand
+board feet. Under these terms, Prophet must cut and pay $6,000,000 for this timber during
+the next year. Currently, the market governmental price is $250 per thousand board feet. At
+this rate, the market price is $5,000,000. Hu Cho, the controller, wants to recognize the loss
+in value on the year-end financial statements, but the financial vice president, Rondo Star,
+argues that the loss is temporary and should be ignored. Cho notes that market price has
+remained near $250 for many months, and he sees no sign of significant change.
+Instructions
+a. What are the ethical issues, if any?
+
+--- Page 757 ---
+b. Is any particular stakeholder harmed by the financial vice president’s decision?
+c. What should the controller do?
+Using Your Judgment
+Financial Reporting Problem
+Marks and Spencer plc (M&S)
+The financial statements of M&S (GBR) are presented in Appendix A. The company’s
+complete annual report, including the notes to the financial statements, is available online.
+Instructions
+Refer to M&S’s financial statements and the accompanying notes to answer the following
+questions.
+a. How does M&S value its inventories? Which inventory costing method does M&S use as
+a basis for reporting its inventories?
+b. How does M&S report its inventories in the statement of financial position? In the notes
+to its financial statements, what descriptions are used to classify its inventories?
+c. What was M&S inventory turnover in 2019? What is its gross profit percentage?
+Evaluate M&S’s inventory turnover and its gross profit percentage.
+Comparative Analysis Case
+adidas and Puma
+The financial statements of adidas (DEU) and Puma (DEU) are presented in Appendices B
+and C, respectively. The complete annual reports, including the notes to the financial
+statements, are available online.
+Instructions
+Use the companies’ financial information to answer the following questions.
+a. What is the amount of inventory reported by adidas at December 31, 2018, and by Puma
+at December 31, 2018? What percent of total assets is invested in inventory by each
+company?
+b. What inventory costing methods are used by adidas and Puma? How does each company
+value its inventories?
+c. In the notes, what classifications (description) are used by adidas and Puma to
+categorize their inventories?
+d. Compute and compare the inventory turnovers and days to sell inventory for adidas and
+Puma for 2018. Indicate why there might be a significant difference between the two
+companies.
+Financial Statement Analysis Case
+Barrick Gold Corporation
+
+--- Page 758 ---
+Barrick Gold Corporation (CAN) is the world’s largest and most profitable gold mining
+company outside South Africa. Part of the key to Barrick’s success has been its ability to
+maintain cash flow while improving production and increasing its reserves of gold claims.
+Recently, Barrick has achieved record growth in cash flow, production, and reserves.
+The company maintains an aggressive policy of developing previously identified target areas
+that may contain large amounts of gold ore and that have not been previously developed.
+Barrick limits their risk by choosing sites that are located in politically stable regions and by
+their use of internally generated funds, rather than debt, to finance growth.
+Barrick’s inventories are as follows.
+Barrick Gold Corporation
+Inventories (in millions, U.S. dollars)
+Current
+Gold in process
+$133
+Mine operating supplies
+82
+$215
+Non-current (included in Other assets)
+Ore in stockpiles
+$ 65
+Instructions
+a. Why do you think that there are no finished goods inventories? Why do you think that
+the raw material (stockpiles of ore) is considered to be a non-current asset?
+b. Consider that Barrick has no finished goods inventories. What journal entries are made
+to record a sale?
+c. Suppose that gold bullion that cost $1.8 million to produce was sold for $2.4 million.
+The journal entry was made to record the sale, but no entry was made to remove the
+gold from the gold in process inventory. How would this error affect the following?
+Statement of Financial Position Income Statement
+Inventory
+? Cost of goods sold ?
+Retained earnings
+? Net income
+?
+Accounts payable
+?
+Working capital
+?
+Current ratio
+?
+Accounting, Analysis, and Principles
+Englehart Company sells two types of pumps. One is large and is for commercial use. The
+other is smaller and is used in residential swimming pools. The following inventory data are
+available for the month of March.
+Units Value per Unit
+Total
+Residential Pumps
+
+--- Page 759 ---
+Inventory at Feb. 28:
+200
+$ 400 $ 80,000
+Purchases:
+March 10
+500
+$ 450 $225,000
+March 20
+400
+$ 475 $190,000
+March 30
+300
+$ 500 $150,000
+Sales:
+March 15
+500
+$ 540 $270,000
+March 25
+400
+$ 570 $228,000
+Inventory at Mar. 31:
+500
+Commercial Pumps
+Inventory at Feb. 28:
+600
+$ 800 $480,000
+Purchases:
+March 3
+600
+$ 900 $540,000
+March 12
+300
+$ 950 $285,000
+March 21
+500
+$1,000 $500,000
+Sales:
+March 18
+900
+$1,080 $972,000
+March 29
+600
+$1,140 $684,000
+Inventory at Mar. 31:
+500
+In addition to the above information, due to a downturn in the economy that has hit
+Englehart’s commercial customers especially hard, Englehart expects commercial pump
+prices from March 31 onward to be considerably different (and lower) than at the beginning
+of and during March. Englehart has developed the following additional information.
+Commercial Pumps Residential Pumps
+Expected selling price (per unit, net of costs to sell)
+$1,050
+$580
+Costs to complete
+150
+30
+Englehart uses the FIFO accounting method.
+Accounting
+a. Determine the dollar amount that Englehart should report on its March 31 statement of
+financial position for inventory. Assume Englehart applies LCNRV at the individual-
+product level.
+b. Repeat part (a) but assume Englehart applies LCNRV at the major-group level.
+Englehart places both commercial and residential pumps into the same (and only)
+group.
+Analysis
+Which of the two above approaches (individual-product or major-group level) for applying
+LCNRV gives the financial statement reader better information?
+
+--- Page 760 ---
+Principles
+Assume that during April, the net realizable value of commercial pumps rebounds to $1,060.
+Briefly describe how Englehart’s April financial statements changed with respect to its
+inventory remaining from March 31 under IFRS.
+Bridge to the Profession
+Authoritative Literature References
+[1] International Accounting Standard 2, Inventories (London, U.K.: International
+Accounting Standards Committee Foundation, 2003), par. 6.
+[2] International Accounting Standard 2, Inventories (London, U.K.: International
+Accounting Standards Committee Foundation, 2003), paras. 28–29.
+[3] International Accounting Standard 2, Inventories (London, U.K.: International
+Accounting Standards Committee Foundation, 2003), par. 29.
+[4] International Accounting Standard 2, Inventories (London, U.K.: International
+Accounting Standards Committee Foundation, 2003), par. 33.
+[5] International Accounting Standard 2, Inventories (London, U.K.: International
+Accounting Standards Committee Foundation, 2003), par. 21.
+[6] International Accounting Standard 41, Agriculture (London, U.K.: International
+Accounting Standards Committee Foundation, 2001).
+[7] International Accounting Standard 2, Inventories (London, U.K.: International
+Accounting Standards Committee Foundation, 2003), paras. 3–4.
+[8] International Accounting Standard 37, Provisions, Contingent Liabilities and Contingent
+Assets (London, U.K.: International Accounting Standards Committee Foundation, 2001),
+paras. 66–68.
+[9] Conceptual Framework for Financial Reporting (London, U.K.: International
+Accounting Standards Committee Foundation, 2018), par. 4.46.
+[10] International Accounting Standard 2, Inventories (London, U.K.: International
+Accounting Standards Committee Foundation, 2001), par. 36.
+Research Case
+Jones Co. is in a technology-intensive industry. Recently, one of its competitors introduced a
+new product with technology that might render obsolete some of Jones’s inventory. The
+accounting staff wants to follow the appropriate authoritative literature in determining the
+accounting for this significant market event.
+Instructions
+Access the IFRS authoritative literature at the IFRS website (you may register for free IFRS
+access at this site). When you have accessed the documents, you can use the search tool in
+your Internet browser to respond to the following questions. (Provide paragraph citations.)
+a. Identify the authoritative literature addressing inventory pricing.
+
+--- Page 761 ---
+b. List three types of goods that are classified as inventory. What characteristic will
+automatically exclude an item from being classified as inventory?
+c. Define “net realizable value” as used in the phrase “lower-of-cost-or-net realizable
+value.”
+d. Explain when it is acceptable to state inventory above cost and which industries allow
+this practice.
+Global Accounting Insights
+LEARNING OBJECTIVE 6
+Compare the accounting for inventories under IFRS and U.S. GAAP.
+In most cases, IFRS and U.S. GAAP related to inventory are the same. The major differences
+are that IFRS prohibits the use of the LIFO cost flow assumption and records market in the
+LCNRV differently.
+Relevant Facts
+Following are the key similarities and differences between U.S. GAAP and IFRS related to
+inventories.
+Similarities
+U.S. GAAP and IFRS account for inventory acquisitions at historical cost and evaluate
+inventory for lower-of-cost-or-net realizable value (market) subsequent to acquisition.
+Who owns the goods—goods in transit, consigned goods, special sales agreements—as
+well as the costs to include in inventory are essentially accounted for the same under
+U.S. GAAP and IFRS.
+Differences
+U.S. GAAP provides more detailed guidelines in inventory accounting. The requirements
+for accounting for and reporting inventories are more principles-based under IFRS.
+A major difference between U.S. GAAP and IFRS relates to the LIFO cost flow
+assumption. U.S. GAAP permits the use of LIFO for inventory valuation. IFRS prohibits
+its use. FIFO and average-cost are the only two acceptable cost flow assumptions
+permitted under IFRS. Both sets of standards permit specific identification where
+appropriate.
+In the lower-of-cost-or-market test for inventory valuation, U.S. GAAP defines market as
+replacement cost subject to the constraints of net realizable value (the ceiling) and net
+realizable value less a normal markup (the floor) for inventories accounted for under
+LIFO or retail methods. IFRS defines market as net realizable value and does not use a
+ceiling or a floor to determine market.
+Under U.S. GAAP, if inventory is written down under the lower-of-cost-or-market
+valuation, the new basis is now considered its cost. As a result, the inventory may not be
+written up back to its original cost in a subsequent period. Under IFRS, the write-down
+
+--- Page 762 ---
+may be reversed in a subsequent period up to the amount of the previous write-down.
+Both the write-down and any subsequent reversal should be reported on the income
+statement.
+IFRS requires both biological assets and agricultural produce at the point of harvest to
+be reported at net realizable value. U.S. GAAP does not require companies to account for
+all biological assets in the same way. Furthermore, these assets generally are not
+reported at net realizable value. Disclosure requirements also differ between the two
+sets of standards.
+About the Numbers
+Illustration GAAP 9.1 presents a disclosure under U.S. GAAP related to inventories for
+Altria Group, Inc. (USA), which reflects application of U.S. GAAP to its inventories.
+On the Horizon
+One convergence issue that will be difficult to resolve relates to the use of the LIFO cost flow
+assumption. As indicated, IFRS specifically prohibits its use. Conversely, the LIFO cost flow
+assumption is widely used in the United States because of its favorable tax advantages. In
+addition, many argue that LIFO from a financial reporting point of view provides a better
+matching of current costs against revenue and therefore enables companies to compute a
+more realistic income.
+Altria Group, Inc. (USA)
+Current assets (in millions of $)
+Inventories (Note 2):
+Leaf tobacco
+$ 940
+Other raw materials
+186
+Work-in-process
+647
+Finished product
+558
+Total
+$2,331
+Note 2: Inventories
+The last-in, first-out (“LIFO”) method is used to determine the cost of substantially all
+tobacco inventories. The cost of the remaining inventories is determined using the first-in,
+first-out (“FIFO”) and average cost methods. Inventories that are measured using the LIFO
+method are stated at the lower of cost or market. Inventories that are measured using the
+FIFO and average cost methods are stated at the lower of cost and net realizable value. It is
+a generally recognized industry practice to classify leaf tobacco and wine inventories as
+current assets, although part of such inventory, because of the duration of the curing and
+aging process, ordinarily would not be used within one year.
+ILLUSTRATION GAAP 9.1 U.S. GAAP Inventory, Presentation and Disclosure
+GAAP Self-Test Questions
+1. All of the following are key similarities between U.S. GAAP and IFRS with respect to
+accounting for inventories except:
+
+--- Page 763 ---
+a. costs to include in inventories are similar.
+b. LIFO cost flow assumption where appropriate is used by both sets of standards.
+c. fair value valuation of inventories is prohibited by both sets of standards.
+d. guidelines on ownership of goods are similar.
+2. All of the following are key differences between U.S. GAAP and IFRS with respect to
+accounting for inventories except the:
+a. definition of the lower-of-cost-or-market test for inventory valuation differs between
+U.S. GAAP and IFRS.
+b. average-cost method is prohibited under IFRS.
+c. inventory basis determination for write-downs differs between U.S. GAAP and IFRS.
+d. guidelines are more principles-based under IFRS than they are under U.S. GAAP.
+3. Starfish Company (a company using U.S. GAAP and the LIFO inventory method) is
+considering changing to IFRS and the FIFO inventory method. How would a comparison of
+these methods affect Starfish’s financials?
+a. During a period of inflation, working capital would decrease when IFRS and the FIFO
+inventory method are used as compared to U.S. GAAP and LIFO.
+b. During a period of inflation, the taxes will decrease when IFRS and the FIFO inventory
+method are used as compared to U.S. GAAP and LIFO.
+c. During a period of inflation, net income would be greater if IFRS and the FIFO inventory
+method are used as compared to U.S. GAAP and LIFO.
+d. During a period of inflation, the current ratio would decrease when IFRS and the FIFO
+inventory method are used as compared to U.S. GAAP and LIFO.
+4. Assume that Darcy Industries had the following inventory values.
+Inventory cost (on December 31, 2022)
+$1,500
+Inventory market (on December 31, 2022) amount between ceiling and floor $1,280
+Inventory net realizable value (on December 31, 2022)
+$1,300
+Under U.S. GAAP, what is the inventory carrying value on December 31, 2022?
+a. $1,500.
+b. $1,570.
+c. $1,300.
+d. $1,280.
+5. Under U.S. GAAP, biological assets:
+a. are accounted for the same way as under IFRS.
+b. are all to be accounted for in the same way.
+
+--- Page 764 ---
+c. generally are not accounted for at net realizable value.
+d. None of the answer choices is correct.
+GAAP Concepts and Application
+GAAP9.1 Briefly describe some of the similarities and differences between U.S. GAAP and
+IFRS with respect to the accounting for inventories.
+GAAP9.2 LaTour SA is based in France and prepares its financial statements in accordance
+with IFRS. In 2022, it reported cost of goods sold of €578 million and average inventory of
+€154 million. Briefly discuss how analysis of LaTour’s inventory turnover (and comparisons
+to a company using U.S. GAAP) might be affected by differences in inventory accounting
+between IFRS and U.S. GAAP.
+GAAP9.3 Reed Pentak, a finance major, has been following globalization and made the
+following observation concerning accounting convergence: “I do not see many obstacles
+concerning development of a single accounting standard for inventories.” Prepare a response
+to Reed to explain the main obstacle to achieving convergence in the area of inventory
+accounting.
+Answers to GAAP Self-Test Questions
+1.b 2.b 3.c 4.d 5.c
+Notes
+1 It may be necessary to write down an entire product line or a group of inventories in a given
+geographic area that cannot be practicably evaluated separately. However, it is not
+appropriate to write down an entire class of inventory, such as finished goods or all
+inventory of a particular industry. [3]
+2 The rationale for use of the individual-item approach whenever practicable is to avoid
+realization of unrealized gains, which can arise when applying LCNRV on a similar-or-
+related-items approach (e.g., unrealized gains on some items offset unrealized losses on
+other items). In general, IFRS prohibits recognition of unrealized gains in income.
+3 Materials and other supplies held for use in the production of inventories are not written
+down below cost if the finished products in which they will be incorporated are expected
+to be sold at or above cost. However, a decline in the price of materials may indicate that
+the cost of the finished products exceeds net realizable value. In this situation, the
+materials are written down to net realizable value.
+4 Manufacturing companies frequently employ a standardized cost system that both
+predetermines the unit costs for material, labor, and manufacturing overhead, and values
+raw materials, work-in-process, and finished goods inventories at their standard costs.
+Standard costs take into account normal levels of materials and supplies, labor, efficiency,
+and capacity utilization, and are regularly reviewed and, if necessary, revised in the light of
+current conditions. For financial reporting purposes, the standard cost method may be
+used for convenience if the results approximate cost. [5] Nokia (FIN) and Hewlett-
+Packard (USA) use standard costs for valuing at least a portion of their inventories.
+
+--- Page 765 ---
+5 A gain may arise on initial recognition of a biological asset, such as when a calf is born. A
+gain or loss may arise on initial recognition of agricultural produce as a result of
+harvesting. Losses may arise on initial recognition for agricultural assets because costs to
+sell are deducted in determining fair value less costs to sell.
+6 Measurement at fair value or selling price less point of sale costs corresponds to the net
+realizable value measure in the LCNRV test (selling price less estimated costs to complete
+and sell) since at harvest, the agricultural product is complete and is ready for sale. [7]
+7 Changes in fair value arising from growth and harvesting from mature cows can be
+estimated based on changes in the market prices of the cows in the herd, depending on
+their age.
+8 Minerals and mineral products, such as coal or iron ore, may also be measured at net
+realizable value in accordance with well-established industry practices. In the mining
+industry, when minerals have been extracted, there is often an assured sale in an active
+market, or under a forward contract or government guarantee. Because there is negligible
+risk of failure to sell, measurement at net realizable value is justified. In these contexts,
+and similar to the accounting for agricultural assets, minerals and mineral products are
+recorded at net realizable value at the point of extraction, with a gain recorded in the
+period of extraction. In subsequent periods, changes in value of minerals and mineral
+products inventory are recognized in profit or loss in the period of the change.
+9 In a survey of 175 international companies, commitments to purchase goods and services
+were mentioned 83 times. See P. Walters, IFRS Accounting Trends and Techniques
+(AICPA, 2012).
+10 Such a contract is deemed to be onerous, which is defined as a contract under which the
+unavoidable costs of satisfying the obligations exceed the economic benefits expected. [8]
+This concept is discussed in more detail in Chapter 13.
+11 Appendix 17A provides a complete discussion of hedging and the use of derivatives such as
+futures.
+12 An alternative method of estimating inventory using the gross profit percentage is
+considered by some to be less complicated than the traditional method. This alternative
+method uses the standard income statement format as follows. (Assume the same data as
+in the Cetus example above.)
+Relationships
+Solution
+Sales revenue
+€280,000
+€280,000
+Cost of sales
+Beginning inventory
+€ 60,000
+€ 60,000
+Purchases
+200,000
+200,000
+Goods available for sale
+260,000
+260,000
+Ending inventory
+(3) ?
+(3) 64,000 Est.
+Cost of goods sold
+(2) ?
+(2)196,000 Est.
+Gross profit on sales (30%)
+(1) ?
+(1) 84,000 Est.
+
+--- Page 766 ---
+Compute the unknowns as follows: first the gross profit amount, then cost of goods sold, and finally the ending
+inventory, as shown below.
+(1) €280,000 × .30 = €84,000 (gross profit on sales).
+(2) €280,000 − €84,000 = €196,000 (cost of goods sold).
+(3) €260,000 − €196,000 = €64,000 (ending inventory).
+13 The terms gross margin percentage, rate of gross profit, and percentage markup are
+synonymous, although companies more commonly use markup in reference to cost and
+gross profit in reference to sales.
+14 This figure is not really net realizable value, but it is net realizable value less the normal
+margin that is allowed. In other words, the sales price of the goods written down is €2, but
+subtracting a normal margin of 50 percent (€5 cost ÷ €10 price), the figure becomes €1.
+To the extent the profit margin approximates expected costs to complete and sell an item,
+this measure approximates net realizable value.
+15 When the purchase allowance is not reflected by a reduction in the selling price, no
+adjustment is made to the retail column.
+16 Note that if employee sales are recorded gross, no adjustment is necessary for employee
+discounts in the retail column.
+
+--- Page 767 ---

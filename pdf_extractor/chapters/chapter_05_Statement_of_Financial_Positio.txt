@@ -1,0 +1,4173 @@
+CHAPTER 5
+Statement of Financial Position and Statement of Cash Flows
+LEARNING OBJECTIVES
+After studying this chapter, you should be able to:
+1. Explain the uses, limitations, and content of the statement of financial position.
+2. Prepare a classified statement of financial position.
+3. Explain the purpose, content, and preparation of the statement of cash flows.
+4. Describe additional types of information provided.
+This chapter also includes numerous conceptual discussions that are integral to the
+topics presented here.
+PREVIEW OF CHAPTER 5
+As the following opening story indicates, the IASB is currently working to improve the
+presentation of financial information on the statement of financial position, as well as other
+financial statements. In this chapter, we examine the many different types of assets, liabilities,
+and equity items that affect the statement of financial position and the statement of cash flows.
+The content and organization of the chapter are as follows.
+Hey, It Doesn’t Balance!
+A good accounting student knows by now that Total Assets = Total Liabilities + Total Equity. From this
+equation, we can also determine net assets, which are determined as follows: Total Assets − Total
+Liabilities = Net Assets. O.K., this is simple so far. But let’s look at the discussion paper by the IASB on
+how the statement of financial position (often referred to as the balance sheet) should be structured.
+The statement of financial position is divided into five major parts, with many assets and liabilities
+netted against one another. Here is the general framework for the new statement of financial position:
+Business
+Operating assets and liabilities
+Investing assets and liabilities
+Financing
+Financing assets
+
+--- Page 380 ---
+Financing liabilities
+Income Taxes
+Discontinued Operations
+Equity
+The new statement looks a bit different than the traditional one. And although it does balance—in that
+net assets equal equity (as shown in the following example)—isn’t it important to know total assets and
+total liabilities?
+Statement of Financial Position
+Business
+Operating
+Inventories
+€ 400,000
+Receivables
+200,000
+Total short-term assets
+€
+600,000
+Property (net)
+500,000
+Intangible assets
+50,000
+Total long-term assets
+550,000
+Accounts payable
+30,000
+Wages payable
+40,000
+Total short-term liabilities
+(70,000)
+Lease liability
+10,000
+Other long-term debt
+35,000
+Total long-term liabilities
+(45,000)
+Net operating assets
+1,035,000
+Investing
+Trading securities
+45,000
+Other securities
+5,000
+Total investing assets
+50,000
+Total net business assets
+1,085,000
+Financing
+Financing assets
+Cash
+30,000
+Total financing assets
+30,000
+Financing liabilities
+Short- and long-term borrowing
+130,000
+Total financing liabilities
+130,000
+Net financing liabilities
+100,000
+Income Taxes
+Deferred income taxes
+70,000
+Discontinued Operations
+Assets held for sale
+420,000
+Net assets
+€1,475,000
+
+--- Page 381 ---
+Equity
+Share capital—ordinary
+€1,000,000
+Retained earnings
+475,000
+Total equity
+€1,475,000
+As some have observed, the statement of financial position will not balance the way we expect it to.
+That is, assets won’t equal liabilities and equity. This is because the assets and liabilities are grouped
+into the business, financing, discontinued operations, and income taxes categories. This new model
+raises a number of questions, such as:
+Does separating “business activities” from “financing activities” provide information that is more
+decision-useful?
+Does information on income taxes and discontinued operations merit separate categories?
+As discussed in Chapter 4, although the original comprehensive financial statement presentation
+project has been on hold, the IASB may at some time restart this project to get answers to the
+questions above. Indeed, as part of its research on the statement of financial position, the IASB found
+good comparability in the structure and the content of the statement of financial position but noted
+that companies are not presenting sufficient detail or note disclosure, to the extent that there may be
+merit in tweaking current reporting requirements to meet the IFRS objective for the statement of
+financial position. And while the IASB has an active project on performance reporting (see the IFRS
+website for more information), market analysts are keenly aware of the content in the statement of
+financial position—in whatever form—as an important input for assessing overall accounting quality.
+Review and Practice
+Go to the Review and Practice section at the end of the chapter for a targeted summary review
+and practice problem with solution. Multiple-choice questions with annotated solutions, as well
+as additional exercises and practice problem with solutions, are also available online.
+Statement of Financial Position
+LEARNING OBJECTIVE 1
+Explain the uses, limitations, and content of the statement of financial position.
+The statement of financial position, also referred to as the balance sheet, reports the assets,
+liabilities, and equity of a business enterprise at a specific date.1 This financial statement provides
+information about the nature and amounts of investments in enterprise resources, obligations to
+creditors, and the equity in net resources. It therefore helps in predicting the amounts, timing, and
+uncertainty of future cash flows.
+Usefulness of the Statement of Financial Position
+By providing information on assets, liabilities, and equity, the statement of financial position provides
+a basis for computing rates of return and evaluating the capital structure of the enterprise. Analysts
+also use information in the statement of financial position to assess a company’s risk2 and future cash
+flows. In this regard, analysts use the statement of financial position to assess a company’s liquidity,
+solvency, and financial flexibility.
+Liquidity describes “the amount of time that is expected to elapse until an asset is realized or
+otherwise converted into cash or until a liability has to be paid.” Creditors are interested in short-term
+liquidity ratios, such as the ratio of cash (or near cash) to short-term liabilities. These ratios indicate
+
+--- Page 382 ---
+whether a company, like adidas (DEU), will have the resources to pay its current and maturing
+obligations. Similarly, shareholders assess liquidity to evaluate the possibility of future cash dividends
+or the buyback of shares. In general, the greater adidas’s liquidity, the lower its risk of failure.
+Solvency refers to the ability of a company to pay its debts as they mature. For example, when a
+company carries a high level of long-term debt relative to assets, it has lower solvency than a similar
+company with a low level of long-term debt. Companies with higher debt are relatively more risky
+because they will need more of their assets to meet their fixed obligations (interest and principal
+payments).
+Liquidity and solvency affect a company’s financial flexibility, which measures the ability of a
+company to take effective actions to alter the amounts and timing of cash flows so it can respond to
+unexpected needs and opportunities. For example, a company may become so loaded with debt—so
+financially inflexible—that it has little or no sources of cash to finance expansion or to pay off maturing
+debt. A company with a high degree of financial flexibility is better able to survive bad times, to recover
+from unexpected setbacks, and to take advantage of profitable and unexpected investment
+opportunities. Generally, the greater an enterprise’s financial flexibility, the lower its risk of failure.
+Limitations of the Statement of Financial Position
+Some of the major limitations of the statement of financial position are:
+
+--- Page 383 ---
+1. Most assets and liabilities are reported at historical cost. As a result, the information provided in
+the statement of financial position is often criticized for not reporting a more relevant fair value.
+For example, Pemex (MEX) owns crude oil and natural gas that may appreciate in value. Yet, it
+reports any increase only if and when it sells the assets.
+2. Companies use judgments and estimates to determine many of the items reported in the
+statement of financial position. For example, in its statement of financial position, Lenovo (CHN)
+estimates the amount of receivables that it will collect, the useful life of its warehouses, and the
+number of computers that will be returned under warranty.
+3. The statement of financial position necessarily omits many items that are of financial value
+but that a company cannot record objectively. For example, the knowledge and skill of Intel (USA)
+employees in developing new computer chips are arguably the company’s most significant asset.
+However, because Intel cannot reliably measure the value of its employees and other intangible
+assets (such as customer base, research superiority, and reputation), it does not recognize these
+items in the statement of financial position. Similarly, many liabilities are reported in an “off-
+balance-sheet” manner, if at all.
+The bankruptcy of Enron (USA), the seventh-largest U.S. company at the time, highlights the
+omission of important items in the statement of financial position. In Enron’s case, it failed to disclose
+certain off-balance-sheet financing obligations in its main financial statements.
+Classification in the Statement of Financial Position
+Statement of financial position accounts are classified. That is, a statement of financial position
+groups together similar items to arrive at significant subtotals. Furthermore, the material is arranged
+so that important relationships are shown.
+The IASB indicates that the parts and subsections of financial statements are more informative than
+the whole. Therefore, the IASB discourages the reporting of summary accounts alone (total assets, net
+assets, total liabilities, etc.). Instead, companies should report and classify individual items in
+sufficient detail to permit users to assess the amounts, timing, and uncertainty of future cash flows.
+Such classification also makes it easier for users to evaluate the company’s liquidity and financial
+flexibility, profitability, and risk.
+To classify items in financial statements, companies group those items with similar characteristics and
+separate items with different characteristics. For example, companies should report separately:
+1. Assets and liabilities with different general liquidity characteristics. For example, Nokia
+(FIN) reports cash separately from inventories.
+2. Assets that differ in their expected function in the company’s central operations or other
+activities. For example, Puma (DEU) reports merchandise inventories separately from property,
+plant, and equipment. Similarly, a company like Marks and Spencer plc (GBR) that uses assets
+
+--- Page 384 ---
+in its operations should report these assets differently from assets held for investments and assets
+subject to restrictions, such as leased facilities.
+3. Liabilities that differ in their amounts, nature, and timing. For example, Ahold Delhaize
+(NLD/BEL) should report accounts payable separately from its pension liability.
+The three general classes of items included in the statement of financial position are assets, liabilities,
+and equity. We defined them in Chapter 2 as follows.3
+Elements of the Statement of Financial Position
+1. Asset. A present economic resource controlled by the entity as a result of past events (an
+economic resource is a right that has the potential to produce economic benefits).
+2. Liability. A present obligation of the entity to transfer an economic resource as a result of
+past events.
+3. Equity. The residual interest in the assets of the entity after deducting all its liabilities.
+Companies then further divide these items into several subclassifications. Illustration 5.1 indicates
+the general format of statement of financial position presentation.
+Assets
+Equity and Liabilities
+Non-current assets
+Equity
+Investments
+Share capital
+Property, plant, and equipment
+Share premium
+Intangible assets
+Retained earnings
+Other assets
+Accumulated other comprehensive income
+Current assets
+Non-controlling interest
+Non-current liabilities
+Current liabilities
+ILLUSTRATION 5.1 Statement of Financial Position Classification
+
+--- Page 385 ---
+What Do the Numbers Mean?
+What Comes First?
+There is much discussion involving the format of the financial statements. An interesting
+question is whether current assets or non-current assets should be shown first on the statement
+of financial position. One survey of 175 international companies shows the following order in
+which assets are presented.
+Format of Statement of Financial Position
+Classified
+Number of
+Companies*
+Current assets, non-current assets, current liabilities, non-current
+liabilities, equity
+84
+Non-current assets, current assets, equity, non-current liabilities, current
+liabilities
+54
+Non-current assets, current assets, current liabilities, non-current
+liabilities, equity
+16
+Non-current assets, current assets, non-current liabilities, current
+liabilities, equity
+0
+*Of the 175 companies surveyed.
+This survey shows that companies appear to favor reporting current assets first on the statement
+of financial position. Recognize that companies are required to present a classified statement of
+financial position except when one based on liquidity provides more relevant information.
+Therefore, either current assets or non-current assets can be shown first. The important point is
+that financial statement users have a good understanding of what is going to be realized in cash in
+the short-term versus the long-term.
+Source: Adapted from P. Walters, “IFRS Financial Statements,” Accounting Trends and Techniques (New York: AICPA), p.
+117.
+Non-Current Assets
+Current assets are cash and other assets a company expects to convert to cash, sell, or consume either
+in one year or the operating cycle, whichever is longer. Non-current assets are those not meeting the
+definition of current assets. They include a variety of items, as we discuss in the following sections.
+Long-Term Investments
+Long-term investments, often referred to simply as investments, normally consist of one of four
+types:
+1. Investments in securities, such as bonds, ordinary shares, or long-term notes.
+2. Investments in tangible assets not currently used in operations, such as land held for speculation.
+3. Investments set aside in special funds, such as a sinking fund, pension fund, or plant expansion
+fund.
+4. Investments in non-consolidated subsidiaries or associated companies.
+Companies group investments in debt and equity securities into three separate portfolios for valuation
+and reporting purposes:
+
+--- Page 386 ---
+Held-for-collection: Debt securities that a company manages to collect contractual principal
+and interest payments.
+Trading: Debt and equity securities bought and held primarily for sale in the near term to
+generate income on short-term price changes.
+Non-trading equity: Certain equity securities held for purposes other than trading (e.g., to meet
+a legal or contractual requirement).
+We further discuss the held-for-collection and non-trading equity investments in Chapter 17.4
+A company should report trading securities (whether debt or equity) as current assets. It classifies
+individual held-for-collection and non-trading equity securities as current or non-current, depending
+on the circumstances. It should report held-for-collection securities at amortized cost. All trading and
+non-trading equity securities are reported at fair value. [3]
+Christian Dior (FRA) reported its investments as shown in Illustration 5.2.
+Christian Dior
+(in millions)
+Investments in joint ventures and associates € 638
+Non-current financial assets
+3,481
+ILLUSTRATION 5.2 Statement of Financial Position Presentation of Long-Term
+Investments
+Property, Plant, and Equipment
+Property, plant, and equipment are tangible, long-lived assets used in the regular operations of the
+business. These assets consist of physical property such as land, buildings, machinery, furniture, tools,
+and wasting resources (minerals). With the exception of land, a company either depreciates (e.g.,
+buildings) or depletes (e.g., oil reserves) these assets.
+ÆON Co. Ltd. (JPN) presented its property, plant, and equipment in its statement of financial
+position as shown in Illustration 5.3.
+
+--- Page 387 ---
+ÆON Co. Ltd.
+(in millions)
+Property, Buildings and Equipment
+Land
+¥ 828,326
+Buildings and Structures
+1,529,041
+Furniture and Fixtures
+228,380
+Vehicles
+459
+Lease Assets
+75,653
+Construction in Progress
+93,251
+¥2,755,110
+Summary of Significant Accounting Policy
+Property, buildings, and equipment—Property, buildings, and equipment are stated at cost.
+Depreciation of property, buildings, and equipment is computed under the straight-line method based
+on the estimated useful lives of the assets. The range of useful lives is principally from 20 to 39 years
+for store buildings, from 38 to 50 years for office buildings, from 3 to 20 years for structures, from 2
+to 20 years for furniture and fixtures, and from 4 to 6 years for vehicles. Accumulated depreciation of
+property, buildings, and equipment at year-end was ¥2,282,350 million.
+ILLUSTRATION 5.3 Statement of Financial Position Presentation of Property, Plant,
+and Equipment
+A company discloses the basis it uses to value property, plant, and equipment; any liens against the
+properties; and accumulated depreciation—usually in the notes to the statements.
+Intangible Assets
+Intangible assets lack physical substance and are not financial instruments.5 These identifiable
+assets include patents, copyrights, franchises, trademarks, trade names, and customer lists. A company
+writes off (amortizes) limited-life intangible assets over the lesser of legal life or their useful lives. It
+periodically assesses indefinite-life intangibles (such as certain trade names) for impairment.
+Intangibles can represent significant economic resources, yet financial analysts often ignore them,
+because valuation is difficult. Research and development costs are expensed as incurred except for
+certain development costs, which are capitalized when it is probable that a development project will
+generate future economic benefits.
+Nokia (FIN) reported intangible assets in its statement of financial position as shown in Illustration
+5.4.
+
+--- Page 388 ---
+Nokia Corporation
+(in millions)
+Goodwill
+€5,452
+Other intangible assets
+3,353
+Total intangibles
+€8,805
+ILLUSTRATION 5.4 Statement of Financial Position Presentation of Intangible Assets
+Other Assets
+The items included in the section “Other assets” vary widely in practice. Some include items such as
+long-term prepaid expenses and non-current receivables. Other items that might be included are assets
+in special funds, property held for sale, and restricted cash or securities. A company should limit this
+section to include only unusual items sufficiently different from assets included in specific categories.
+Current Assets
+As indicated earlier, current assets are cash and other assets a company expects to convert
+into cash, sell, or consume either in one year or in the operating cycle, whichever is
+longer.6 The operating cycle is the average time between when a company acquires materials and
+supplies and when it receives cash for sales of the product (for which it acquired the materials and
+supplies). The cycle operates from cash through inventory, production, receivables, and back to cash.
+When several operating cycles occur within one year (which is generally the case for service
+companies), a company uses the one-year period. If the operating cycle is more than one year, a
+company uses the longer period.
+The five major items found in the current assets section, and their bases of valuation, are shown in
+Illustration 5.5. These assets are generally presented in the following order.
+Item
+Basis of Valuation
+Inventories
+Lower-of-cost-or-net realizable value
+Prepaid expenses
+Cost
+Receivables
+Estimated amount collectible
+Short-term investments
+Generally, fair value
+Cash and cash equivalents Fair value
+ILLUSTRATION 5.5 Current Assets and Basis of Valuation
+A company does not report these five items as current assets if it does not expect to realize them in one
+year or in the operating cycle, whichever is longer. For example, a company excludes from the current
+assets section cash restricted for purposes other than payment of current obligations or for use in
+current operations. Generally, if a company expects to convert an asset into cash or to use it
+to pay a current liability within a year or the operating cycle, whichever is longer, it
+classifies the asset as current.
+This rule, however, is subject to interpretation. A company classifies an investment in non-trading
+equity securities as either a current asset or a non-current asset, depending on management’s intent.
+When it has holdings of ordinary or preference shares that it will hold long-term, it should not classify
+them as current.
+
+--- Page 389 ---
+Although a current asset is well defined, certain theoretical problems also develop. For example, how is
+inclusion of prepaid expenses in the current assets section justified? The rationale is that if a company
+did not pay these items in advance, it would instead need to use other current assets during the
+operating cycle. If we follow this logic to its ultimate conclusion, however, any asset previously
+purchased saves the use of current assets during the operating cycle and would be considered current.
+Another problem occurs in the current-asset definition when a company consumes plant assets during
+the operating cycle. Conceptually, it seems that a company should place in the current assets section an
+amount equal to the current depreciation charge on the plant assets, because it will consume them in
+the next operating cycle. However, this conceptual problem is ignored. This example illustrates that the
+formal distinction made between some current and non-current assets is somewhat arbitrary.
+Inventories
+To present inventories properly, a company discloses the basis of valuation (e.g., lower-of-cost-or-net
+realizable value) and the cost flow assumption used (e.g., FIFO or average-cost). Illustration 5.6
+shows how Ahold Delhaize (NLD/BEL) reports its inventories.
+Ahold Delhaize
+(in millions)
+Current assets
+Inventories (Note 16)
+€3,196
+Note 16
+Inventories are stated at cost or net realizable value, whichever is lower. Cost consists of all costs of
+purchase, cost of conversion and other costs incurred in bringing the inventories to their present
+location and condition, net of vendor allowances attributable to inventories. The cost of inventories is
+determined using either the first-in, first-out (“FIFO”) method or the weighted average cost method,
+depending on their nature or use. For certain inventories, cost is measured using the retail method,
+whereby the sales value of the inventories is reduced by the appropriate percentage gross margin. Net
+realizable value is the estimated selling price in the ordinary course of business, less the estimated
+marketing, distribution, and selling expenses.
+ILLUSTRATION 5.6 Statement of Financial Position Presentation of Inventories
+A manufacturing company, like Acer Incorporated (TWN), also indicates the stage of completion for
+inventory, as shown in Illustration 5.7. Note that Acer shows amounts both in New Taiwan dollars
+(NT$) and U.S. dollars ($).
+
+--- Page 390 ---
+Acer Incorporated
+(in millions)
+Current assets
+Inventories (Note 7)
+NT$ 40,028,195 $1,219,702
+Note 7
+Inventories
+NT$
+US$
+Raw materials
+14,528,727
+442,706
+Work in process
+49,437
+1,506
+Finished goods
+16,907,906
+515,202
+Spare parts
+4,544,547
+138,477
+Inventories in transit
+9,233,802
+281,364
+Less: provision for inventory obsolescence and net realizable value
+(5,236,224)
+(159,553)
+40,028,195
+1,219,702
+ILLUSTRATION 5.7 Statement of Financial Position Presentation of Inventories
+Receivables
+A company should clearly identify any anticipated loss due to uncollectible accounts, the amount and
+nature of any non-trade receivables, and any receivables used as collateral. Major categories of
+receivables should be shown in the statement of financial position or the related notes. For receivables
+arising from unusual transactions (such as sale of property, or a loan to associates or employees),
+companies should separately classify these as long-term, unless collection is expected within one year.
+RELX Group (GBR) reported its receivables as shown in Illustration 5.8.
+
+--- Page 391 ---
+RELX Group
+(in millions)
+Current assets
+Trade and other receivables
+Note 20
+€2,015
+Note 20 Trade and other receivables
+Trade receivables
+€ 1,829
+Allowance for doubtful debts
+(87)
+1,742
+Prepayments and accrued income
+224
+Net finance lease receivable
+49
+Total
+€2,015
+Trade receivables are predominantly non-interest bearing and their carrying amounts approximate
+their fair value.
+ILLUSTRATION 5.8 Statement of Financial Position Presentation of Receivables
+Prepaid Expenses
+A company includes prepaid expenses in current assets if it will receive benefits (usually services)
+within one year or the operating cycle, whichever is longer. As we discussed earlier, these items are
+current assets because if they had not already been paid, they would require the use of cash during the
+next year or the operating cycle. A company reports prepaid expenses at the amount of the unexpired or
+unconsumed cost.
+A common example is the prepayment for an insurance policy. A company classifies it as a prepaid
+expense because the payment precedes the receipt of the benefit of coverage. Other common prepaid
+expenses include prepaid rent, advertising, taxes, and office or operating supplies. adidas (DEU)
+reports prepaid expenses in other current assets, along with tax receivables other than income taxes
+and derivative financial assets, as shown in Illustration 5.9.
+
+--- Page 392 ---
+adidas
+(in millions)
+Other current assets
+Note 11 €725
+Note 11 Other current assets
+Other current assets consist of the following:
+Prepaid expenses
+€242
+Tax receivables other than income taxes
+124
+Return assets
+258
+Sundry
+107
+Other current assets, gross
+731
+Less: accumulated allowances
+(6)
+Other current assets, net
+€725
+ILLUSTRATION 5.9 Statement of Financial Position Presentation of Prepaid Expenses
+Short-Term Investments
+As indicated earlier, a company should report trading securities (whether debt or equity) as current
+assets. It classifies individual non-trading investments as current or non-current, depending on the
+circumstances. It should report held-for-collection securities at amortized cost. All trading securities
+are reported at fair value.7
+Illustration 5.10 provides an excerpt from the annual report of AB InBev (BEL) with respect to its
+short-term financial assets.
+AB InBev
+(in millions)
+Investment securities (Note 17)
+€87
+Note 17
+Current investments
+Financial assets at fair value through profit or loss €87
+ILLUSTRATION 5.10 Statement of Financial Position Presentation of Short-Term
+Investments
+Cash
+Cash is generally considered to consist of currency and demand deposits (monies available on demand
+at a financial institution). Cash equivalents are short-term, highly liquid investments that will
+mature within three months or less. Most companies use the caption “Cash and cash equivalents,” and
+
+--- Page 393 ---
+they indicate that this amount approximates fair value. As an example, see the excerpt from adidas
+(DEU) in Illustration 5.11.
+adidas
+(in millions)
+Cash (Note 6)
+€2,629
+Note 6 Cash and cash equivalents
+Cash and cash equivalents consist of cash at banks and on hand as well as short-term bank deposits.
+ILLUSTRATION 5.11 Statement of Financial Position Presentation of Cash and Cash
+Equivalents
+A company must disclose any restrictions or commitments related to the availability of cash. If a
+company restricts cash for purposes other than current obligations, it excludes the cash from current
+assets. Illustration 5.12 shows an example of this, from the annual report of Vodafone plc (GBR).
+Vodafone plc
+(in millions)
+Non-current assets
+Other investments (Note 15)
+£7,060
+Note 15 Other investments
+Other investments comprise the following, all of which are classified as listed and unlisted, with the
+exception of other debt and bonds, which are classified as loans and receivables, and cash held as
+restricted deposits.
+Listed securities
+Equity securities
+£3,931
+Unlisted securities
+Equity securities
+833
+Public debt and bonds
+20
+Other debt and bonds
+2,094
+Cash held as restricted deposits
+182
+£7,060
+ILLUSTRATION 5.12 Statement of Financial Position Presentation of Restricted Cash
+Equity
+The equity (also referred to as shareholders’ equity) section is one of the most difficult sections to
+prepare and understand. This is due to the complexity of ordinary and preference share agreements
+and the various restrictions on equity imposed by company laws, liability agreements, and boards of
+directors. Companies usually divide the section into six parts:
+
+--- Page 394 ---
+Equity Section
+1. Share Capital. The par or stated value of shares issued. It includes ordinary shares
+(sometimes referred to as common shares) and preference shares (sometimes referred to as
+preferred shares).
+2. Share Premium. The excess of amounts paid-in over the par or stated value.
+3. Retained Earnings. The company’s undistributed earnings.
+4. Accumulated Other Comprehensive Income. The aggregate amount of the other
+comprehensive income items.
+5. Treasury Shares. Generally, the amount of ordinary shares repurchased.
+6. Non-Controlling Interest. A portion of the equity of subsidiaries not owned by the
+reporting company.
+For ordinary shares, companies must disclose the par value and the authorized, issued, and
+outstanding share amounts. The same holds true for preference shares. A company usually presents
+the share premium (for both ordinary and preference shares) in one amount, although subtotals are
+informative if the sources of additional capital are varied and material. The retained earnings amount
+may be divided between the unappropriated (the amount that is usually available for dividend
+distribution) and restricted (e.g., by bond indentures or other loan agreements) amounts. In addition,
+companies show any shares reacquired (treasury shares) as a reduction of equity.
+Accumulated other comprehensive income includes such items as unrealized gains and losses on non-
+trading equity securities and unrealized gains and losses on certain derivative transactions. Non-
+controlling interest is also shown as a separate item (where applicable) as a part of equity.
+Illustration 5.13 presents an example of the equity section for Ahold Delhaize (NLD/BEL).
+Ahold Delhaize
+(in millions)
+Share capital
+€
+13
+Additional paid-in capital
+13,999
+Currency translation reserve
+(60)
+Cash flow hedging reserve
+(2)
+Reserve participations
+407
+Other reserves including retained earnings
+460
+Equity attributable to common shareholders € 14,817
+ILLUSTRATION 5.13 Statement of Financial Position Presentation of Equity
+Many companies reporting under IFRS often use the term “reserve” as an all-inclusive catch-all for
+items such as retained earnings, share premium, and accumulated other comprehensive income. An
+example of such a presentation is shown in Illustration 5.14 for Lenovo Group Limited (CHN).
+
+--- Page 395 ---
+Lenovo Group Limited
+(in millions)
+Share capital
+$3,185,923
+Reserves
+210,530
+Equity attributed to owners of the Company
+3,396,453
+Perpetual securities
+993,670
+Other non-controlling interests
+473,178
+Put option written on non-controlling interest
+(766,238)
+Total equity
+$4,097,063
+ILLUSTRATION 5.14 Statement of Financial Position Presentation of Reserves
+The equity accounts in a corporation differ considerably from those in a partnership or proprietorship.
+Partners show separately their permanent capital accounts and the balance in their temporary accounts
+(drawing accounts). Proprietorships ordinarily use a single capital account that handles all of the
+owner’s equity transactions.
+Non-Current Liabilities
+Non-current liabilities are obligations that a company does not reasonably expect to liquidate
+within the longer of one year or the normal operating cycle. Instead, it expects to pay them at some
+date beyond that time. That is, non-current liabilities are those that do not meet the definition of
+current liabilities (see footnote 6). The most common examples are bonds payable, notes payable,
+deferred income taxes, lease obligations, and pension obligations. Companies classify non-current
+liabilities that mature within the current operating cycle or one year as current liabilities
+if payment of the obligation requires the use of current assets.
+Generally, non-current liabilities are of three types:
+1. Obligations arising from specific financing situations, such as the issuance of bonds, long-term
+lease obligations, and long-term notes payable.
+2. Obligations arising from the ordinary operations of the company, such as pension obligations and
+deferred income tax liabilities.
+3. Obligations that depend on the occurrence or non-occurrence of one or more future events to
+confirm the amount payable, or the payee, or the date payable, such as service or product
+warranties, environmental liabilities, and restructurings, often referred to as provisions.
+Companies generally provide a great deal of supplementary disclosure for non-current liabilities
+because most long-term debt is subject to various covenants and restrictions for the protection of
+lenders.
+Companies frequently describe the terms of all non-current liability agreements (including maturity
+date or dates, rates of interest, nature of obligation, and any security pledged to support the debt) in
+notes to the financial statements. Illustration 5.15 provides an example of this, taken from an
+excerpt from Silver Fern Farms Limited’s (NZL) financials.
+
+--- Page 396 ---
+Silver Fern Farms Limited
+(in thousands)
+Non-current liabilities
+Long-term payables
+NZD
+603
+Finance leases
+55
+Provisions
+9,547
+NZD 10,205
+ILLUSTRATION 5.15 Statement of Financial Position Presentation of Non-Current
+Liabilities
+Current Liabilities
+Current liabilities are the obligations that a company generally expects to settle in its normal
+operating cycle or one year, whichever is longer. This concept includes:
+1. Payables resulting from the acquisition of goods and services: accounts payable, salaries and wages
+payable, income taxes payable, and so on.
+2. Collections received in advance for the delivery of goods or performance of services, such as
+unearned rent revenue or unearned subscriptions revenue.
+3. Other liabilities whose liquidation will take place within the operating cycle or one year, such as
+the portion of long-term bonds to be paid in the current period, short-term obligations arising
+from purchase of equipment, or estimated liabilities, such as a warranty liability. As indicated
+earlier, estimated liabilities are often referred to as provisions.
+At times, a liability that is payable within the next year is not included in the current liabilities section.
+This occurs when the company refinances the debt on a long-term basis before the end of the reporting
+period. [7] This approach is used because liquidation does not result from the use of current assets or
+the creation of other current liabilities.
+Companies do not report current liabilities in any consistent order. In general, though, companies most
+commonly list notes payable, accounts payable, or short-term debt as the first item. Income tax
+payables or other current liabilities are commonly listed last. For example, see Siemens AG’s (DEU)
+current liabilities section in Illustration 5.16.
+
+--- Page 397 ---
+Siemens AG
+(in millions)
+Current liabilities
+Short-term debt and current maturities of long-term debt
+€ 5,057
+Trade payables
+10,716
+Other current financial liabilities
+1,485
+Current liabilities
+14,464
+Current provisions
+3,931
+Current income tax liabilities
+3,102
+Other current liabilities
+9,118
+Liabilities associated with assets classified as held for disposal
+1
+Total current liabilities
+€47,874
+ILLUSTRATION 5.16 Statement of Financial Position Presentation of Current Liabilities
+Current liabilities include such items as trade and non-trade notes and accounts payable, advances
+received from customers, and current maturities of long-term debt. If the amounts are material,
+companies classify income taxes and other accrued items separately. A company should fully describe
+in the notes any information about a secured liability—for example, shares held as collateral on notes
+payable—to identify the assets providing the security.
+The excess of total current assets over total current liabilities is referred to as working capital (or
+sometimes net working capital). Working capital represents the net amount of a company’s
+relatively liquid resources. That is, it is the liquidity buffer available to meet the financial demands of
+the operating cycle.
+Companies seldom disclose on the statement of financial position an amount for working capital. But
+bankers and other creditors compute it as an indicator of the short-run liquidity of a company. To
+determine the actual liquidity and availability of working capital to meet current obligations, however,
+requires analysis of the composition of the current assets and their nearness to cash.
+
+--- Page 398 ---
+What Do the Numbers Mean?
+Warning Signals
+Analysts use statement of financial position information in models designed to predict financial
+distress. Researcher E. I. Altman pioneered a bankruptcy-prediction model that derives a “Z-
+score” by combining statement of financial position and income measures in the following
+equation.
+Z =
+× 1.2 +
+× 1.4 +
+× 3.3 +
+×
+Following extensive testing, Altman found that companies with Z-scores above 3.0 are unlikely to
+fail. Those with Z-scores below 1.81 are very likely to fail.
+Altman developed the original model for publicly held manufacturing companies. He and others
+have modified the model to apply to companies in various industries, emerging companies, and
+companies not traded in public markets.
+At one time, the use of Z-scores was virtually unheard of among practicing accountants. Today,
+auditors, management consultants, and courts of law use this measure to help evaluate the
+overall financial position and trends of a firm. In addition, banks use Z-scores for loan evaluation.
+While a low score does not guarantee bankruptcy, the model has been proven accurate in many
+situations.
+Source: Adapted from E. I. Altman and E. Hotchkiss, Corporate Financial Distress and Bankruptcy, Third Edition (Hoboken,
+NJ: John Wiley and Sons, 2006).
+Preparation of the Statement of Financial Position
+LEARNING OBJECTIVE 2
+Prepare a classified statement of financial position.
+As indicated earlier, IFRS does not specify the order or format in which a company presents items in
+the statement of financial position (see the “What Do the Numbers Mean?” box entitled “What Comes
+First?”). Thus, some companies present assets first, followed by equity, and then liabilities. Other
+companies report current assets first in the assets section, and current liabilities first in the liabilities
+section. Many companies report items such as receivables and property, plant, and equipment net and
+then disclose the additional information related to the contra accounts in the notes.
+Account Form
+In general, companies use either the account form or the report form to present the statement of
+financial position information. The account form lists assets, by sections, on the left side, and equity
+and liabilities, by sections, on the right side. The main disadvantage is the need for a sufficiently wide
+space in which to present the items side by side. Often, the account form requires two facing pages.
+Report Form
+The report form lists the sections one above the other, on the same page. See, for example,
+Illustration 5.17, which lists assets, followed by equity and liabilities directly below, on the same
+page.
+Working Text
+Total assets
+Re tained earnings
+Total assets
+EBIT
+Total assets
+Sales
+Total assets
+
+--- Page 399 ---
+Scientific Products, Inc.
+Statement of Financial Position
+December 31, 2022
+Assets
+Non-current assets
+Long-term investments
+Investments in held-for-collection securities
+$ 82,000
+Land held for future development
+5,500 $
+87,500
+Property, plant, and equipment
+Land
+125,000
+Buildings
+$975,800
+Less: Accumulated depreciation
+341,200
+634,600
+Total property, plant, and equipment
+759,600
+Intangible assets
+Capitalized development costs
+6,000
+Goodwill
+66,000
+Other identifiable intangible assets
+28,000
+100,000
+Total non-current assets
+947,100
+Current assets
+Inventory
+489,713
+Prepaid expenses
+16,252
+Accounts receivable
+165,824
+Less: Allowance for doubtful accounts
+1,850
+163,974
+Short-term investments
+51,030
+Cash and cash equivalents
+52,485
+Total current assets
+773,454
+Total assets
+$1,720,554
+Equity and Liabilities
+Equity
+Share capital—preference
+$300,000
+Share capital—ordinary
+400,000
+Share premium—preference
+10,000
+Share premium—ordinary
+27,500
+Retained earnings
+170,482
+Accumulated other comprehensive income (loss)
+(8,650)
+Less: Treasury shares
+12,750
+Equity attributable to owners
+$886,582
+Non-controlling interest
+13,500
+Total equity
+$ 900,082
+Non-current liabilities
+Bond liabilities due January 31, 2031
+425,000
+Provisions related to pensions
+75,000
+
+--- Page 400 ---
+Total non-current liabilities
+500,000
+Current liabilities
+Notes payable
+80,000
+Accounts payable
+197,532
+Interest payable
+20,500
+Salaries and wages payable
+5,560
+Provisions related to warranties
+12,500
+Deposits received from customers
+4,380
+Total current liabilities
+320,472
+Total liabilities
+820,472
+Total equity and liabilities
+$1,720,554
+ILLUSTRATION 5.17 Classified Report-Form Statement of Financial Position
+Infrequently, companies use other statement of financial position formats. For example, companies
+sometimes deduct current liabilities from current assets to arrive at working capital. Or, they deduct all
+liabilities from all assets.
+Statement of Cash Flows
+LEARNING OBJECTIVE 3
+Explain the purpose, content, and preparation of the statement of cash flows.
+Chapter 2 indicated that an important element of the objective of financial reporting is “assessing the
+amounts, timing, and uncertainty of cash flows.” The three financial statements we have looked at so
+far—the income statement (or statement of comprehensive income), the statement of changes in
+equity, and the statement of financial position—all present some information about the cash flows of
+an enterprise during a period. But they do so to a limited extent. For instance, the income statement
+provides information about resources provided by operations but not exactly cash. The statement of
+changes in equity shows the amount of cash used to pay dividends or purchase treasury shares.
+Comparative statements of financial position might show what assets the company has acquired or
+disposed of and what liabilities it has incurred or liquidated.
+Useful as they are, none of these statements presents a detailed summary of all the cash inflows and
+outflows, or the sources and uses of cash during the period. To fill this need, the IASB requires the
+statement of cash flows (also called the cash flow statement). [8]
+Purpose of the Statement of Cash Flows
+The primary purpose of the statement of cash flows is to provide relevant information about the cash
+receipts and cash payments of an enterprise during a period. To achieve this purpose, the statement of
+cash flows reports the following: (1) the cash effects of operations during a period, (2) investing
+transactions, (3) financing transactions, and (4) the net increase or decrease in cash during the period.8
+Reporting the sources, uses, and net increase or decrease in cash helps investors, creditors, and others
+know what is happening to a company’s most liquid resource (see Underlying Concepts). Because
+most individuals maintain a checkbook and prepare a tax return on a cash basis, they can comprehend
+the information reported in the statement of cash flows.
+
+--- Page 401 ---
+Underlying Concepts
+The statement of cash flows meets the objective of financial reporting—to help assess the
+amounts, timing, and uncertainty of future cash flows.
+The statement of cash flows provides answers to the following simple but important questions:
+1. Where did the cash come from during the period?
+2. What was the cash used for during the period?
+3. What was the change in the cash balance during the period?
+Content of the Statement of Cash Flows
+Companies classify cash receipts and cash payments during a period into three different activities in
+the statement of cash flows—operating, investing, and financing activities, defined as follows.
+1. Operating activities involve the cash effects of transactions that enter into the determination of
+net income.
+2. Investing activities include making and collecting loans and acquiring and disposing of
+investments (both debt and equity) and property, plant, and equipment.
+3. Financing activities involve liability and equity items. They include (a) obtaining resources
+from owners and providing them with a return on their investment, and (b) borrowing money
+from creditors and repaying the amounts borrowed.
+Illustration 5.18 shows the basic format of the statement of cash flows.
+Statement of Cash Flows
+Cash flows from operating activities $XXX
+Cash flows from investing activities
+XXX
+Cash flows from financing activities
+XXX
+Net increase (decrease) in cash
+XXX
+Cash at beginning of year
+XXX
+Cash at end of year
+$XXX
+ILLUSTRATION 5.18 Basic Format of Cash Flow Statement
+Illustration 5.19 graphs the inflows and outflows of cash classified by activity.
+
+--- Page 402 ---
+ILLUSTRATION 5.19 Cash Inflows and Outflows
+The statement’s value is that it helps users evaluate liquidity, solvency, and financial
+flexibility. As stated earlier, liquidity refers to the “nearness to cash” of assets and liabilities.
+Solvency is the firm’s ability to pay its debts as they mature. Financial flexibility is a company’s
+ability to respond and adapt to financial adversity and unexpected needs and opportunities.
+We have devoted Chapter 23 entirely to the detailed preparation and content of the statement of cash
+flows. The intervening chapters will cover several elements and complex topics that affect the content
+of a typical statement of cash flows. The presentation in this chapter is introductory—a reminder of the
+existence of the statement of cash flows and its usefulness.
+
+--- Page 403 ---
+What Do the Numbers Mean?
+Watch That Cash Flow
+Investors usually focus on net income measured on an accrual basis. However, information on
+cash flows can be important for assessing a company’s liquidity, financial flexibility, and overall
+financial performance. The graph shows W. T. Grant’s (USA) financial performance over seven
+years.
+Although W. T. Grant showed consistent profits and even some periods of earnings growth, its
+cash flow began to “go south” starting in about year three. The company filed for bankruptcy
+shortly after year seven. Financial statement readers who studied the company’s cash flows would
+have found early warnings of its problems. The Grant experience is a classic case, illustrating the
+importance of cash flows as an early-warning signal of financial problems.
+The recent picture at IBM (USA) is similar and raises some red flags as to the company’s financial
+flexibility. As shown in the chart, IBM’s earnings per share (EPS) growth has held fairly steady,
+but free cash flow is on the decline.
+
+--- Page 404 ---
+A look under the hood indicates that while debt levels are increasing, IBM has been using free
+cash flow for increased dividends and share buybacks. Recall that buybacks increase EPS by
+reducing shares outstanding. Free cash flow going toward dividends and share repurchases
+indicates IBM’s “low quality of earnings.” As one market commentator noted, “negative free cash
+flow leads to increased borrowing.” These are metrics that investors ignore at their peril.
+Source: A. Shields, “Why IBM Has Generated Higher Earnings Despite Falling Revenue,” Market Realist,
+marketrealist.com/2014/07/why-ibm-has-generated-higher-earnings-despite-falling-revenues/ (July 11, 2014).
+Preparation of the Statement of Cash Flows
+Sources of Information
+Companies obtain the information to prepare the statement of cash flows from several sources: (1)
+comparative statements of financial position, (2) the current income statement, and (3) selected
+transaction data.
+The following simple example demonstrates how companies use these sources in preparing a
+statement of cash flows.
+On January 1, 2022, in its first year of operations, Telemarketing Inc. issued 50,000 ordinary shares of
+$1 par value for $50,000 cash. The company rented its office space, furniture, and telecommunications
+equipment and performed marketing services throughout the first year. In June 2022, the company
+purchased land for $15,000. Illustration 5.20 shows the company’s comparative statements of
+financial position at the beginning and end of 2022.
+
+--- Page 405 ---
+Telemarketing Inc.
+Statements of Financial Position
+Assets
+Dec. 31, 2022 Jan. 1, 2022 Increase/Decrease
+Land
+$15,000
+$–0–
+$15,000 Increase
+Accounts receivable
+41,000
+–0–
+41,000 Increase
+Cash
+31,000
+–0–
+31,000 Increase
+Total
+$87,000
+$–0–
+Equity and Liabilities
+Share capital
+$50,000
+$–0–
+50,000 Increase
+Retained earnings
+25,000
+–0–
+25,000 Increase
+Accounts payable
+12,000
+–0–
+12,000 Increase
+Total
+$87,000
+$–0–
+ILLUSTRATION 5.20 Comparative Statements of Financial Position
+Illustration 5.21 presents the income statement and additional information.
+Telemarketing Inc.
+Income Statement
+For the Year Ended December 31, 2022
+Revenues
+$172,000
+Operating expenses
+120,000
+Income before income tax
+52,000
+Income tax
+13,000
+Net income
+$ 39,000
+Additional information:
+Dividends of $14,000 were paid during the year.
+ILLUSTRATION 5.21 Income Statement Data
+Preparing the Statement of Cash Flows
+Preparing the statement of cash flows from these sources involves four steps:
+1. Determine the net cash provided by (or used by) operating activities.
+2. Determine the net cash provided by (or used by) investing and financing activities.
+3. Determine the change (increase or decrease) in cash during the period.
+4. Reconcile the change in cash with the beginning and the ending cash balances.
+Net cash provided by operating activities is the excess of cash receipts over cash payments from
+operating activities. Companies determine this amount by converting net income on an accrual basis to
+a cash basis. To do so, they add to or deduct from net income those items in the income statement that
+do not affect cash. This procedure requires that a company analyze not only the current year’s income
+statement but also the comparative statements of financial position and selected transaction data.
+Analysis of Telemarketing’s comparative statements of financial position reveals two items that will
+affect the computation of net cash provided by operating activities:
+1. The increase in accounts receivable reflects a non-cash increase of $41,000 in revenues.
+2. The increase in accounts payable reflects a non-cash increase of $12,000 in expenses.
+
+--- Page 406 ---
+Therefore, to arrive at net cash provided by operating activities, Telemarketing Inc. deducts from net
+income the increase in accounts receivable ($41,000), and it adds back to net income the increase in
+accounts payable ($12,000). As a result of these adjustments, the company determines net cash
+provided by operating activities to be $10,000, computed as shown in Illustration 5.22.
+Net income
+$39,000
+Adjustments to reconcile net income to net cash provided by operating activities:
+Increase in accounts receivable
+$(41,000)
+Increase in accounts payable
+12,000 (29,000)
+Net cash provided by operating activities
+$10,000
+ILLUSTRATION 5.22 Computation of Net Cash Provided by Operating Activities
+Next, the company determines its investing and financing activities. Telemarketing Inc.’s only
+investing activity was the land purchase. It had two financing activities. (1) Share capital—
+ordinary increased $50,000 from the issuance of 50,000 ordinary shares for cash. (2) The company
+paid $14,000 cash in dividends. Knowing the amounts provided or used by operating, investing, and
+financing activities, the company determines the net increase in cash. Illustration 5.23 presents
+Telemarketing Inc.’s statement of cash flows for 2022.
+Telemarketing Inc.
+Statement of Cash Flows
+For the Year Ended December 31, 2022
+Cash flows from operating activities
+Net income
+$39,000
+Adjustments to reconcile net income to net cash provided by operating
+activities:
+Increase in accounts receivable
+$(41,000)
+Increase in accounts payable
+12,000 (29,000)
+Net cash provided by operating activities
+10,000
+Cash flows from investing activities
+Purchase of land
+(15,000)
+Net cash used by investing activities
+(15,000)
+Cash flows from financing activities
+Issuance of ordinary shares
+50,000
+Payment of cash dividends
+(14,000)
+Net cash provided by financing activities
+36,000
+Net increase in cash
+31,000
+Cash at beginning of year
+–0–
+Cash at end of year
+$31,000
+ILLUSTRATION 5.23 Statement of Cash Flows
+The increase in cash of $31,000 reported in the statement of cash flows is equal to $31,000 in cash
+calculated from the comparative statements of financial position.9
+Significant Non-Cash Activities
+Not all of a company’s significant activities involve cash. Examples of significant non-cash activities
+are:
+
+--- Page 407 ---
+1. Issuance of ordinary shares to purchase assets.
+2. Conversion of bonds into ordinary shares.
+3. Issuance of debt to purchase assets.
+4. Exchanges of long-lived assets.
+Significant financing and investing activities that do not affect cash are not reported in the body of the
+statement of cash flows. Rather, these activities are reported in a separate note to the financial
+statements. Such reporting of these non-cash activities satisfies the full disclosure principle.
+Illustration 5.24 shows an example of a comprehensive statement of cash flows. Note that the
+company purchased equipment through the issuance of €50,000 of bonds, which is a significant non-
+cash transaction. For homework purposes, you should present significant non-cash activities in a
+separate note entitled “Cash Flow Note.”
+Nestor SA
+Statement of Cash Flows
+For the Year Ended December 31, 2022
+Cash flows from operating activities
+Net income
+€320,750
+Adjustments to reconcile net income to net cash provided by operating
+activities:
+Depreciation expense
+€88,400
+Amortization of intangibles
+16,300
+Gain on sale of plant assets
+(8,700)
+Increase in accounts receivable (net)
+(11,000)
+Decrease in inventory
+15,500
+Decrease in accounts payable
+(9,500)
+91,000
+Net cash provided by operating activities
+411,750
+Cash flows from investing activities
+Sale of plant assets
+90,500
+Purchase of equipment
+(182,500)
+Purchase of land
+(70,000)
+Net cash used by investing activities
+(162,000)
+Cash flows from financing activities
+Payment of cash dividend
+(19,800)
+Issuance of ordinary shares
+100,000
+Redemption of bonds
+(50,000)
+Net cash provided by financing activities
+30,200
+Net increase in cash
+279,950
+Cash at beginning of year
+135,000
+Cash at end of year
+€414,9501
+1Cash Flow Note
+A non-cash investing and financing activity was the purchase of equipment through issuance of
+€50,000 of bonds.
+ILLUSTRATION 5.24 Comprehensive Statement of Cash Flows
+
+--- Page 408 ---
+Usefulness of the Statement of Cash Flows
+“Happiness is a positive cash flow” is certainly true. Although net income provides a long-term
+measure of a company’s success or failure, cash is its lifeblood. Without cash, a company will not
+survive. For small and newly developing companies, cash flow is the single most important element for
+survival. Even medium and large companies must control cash flow.
+Creditors examine the cash flow statement carefully because they are concerned about being paid. They
+begin their examination by finding net cash provided by operating activities. A high amount indicates
+that a company is able to generate sufficient cash from operations to pay its bills without further
+borrowing. Conversely, a low or negative amount of net cash provided by operating activities indicates
+that a company may have to borrow or issue equity securities to acquire sufficient cash to pay its bills.
+Consequently, creditors look for answers to the following questions in the company’s cash flow
+statements.
+1. How successful is the company in generating net cash provided by operating activities?
+2. What are the trends in net cash flow provided by operating activities over time?
+3. What are the major reasons for the positive or negative net cash provided by operating activities?
+You should recognize that companies can fail even though they report net income. The difference
+between net income and net cash provided by operating activities can be substantial. Companies
+sometimes report high net income numbers but negative net cash provided by operating activities. This
+type of situation can eventually lead to bankruptcy.
+In addition, substantial increases in receivables and/or inventory can explain the difference between
+positive net income and negative net cash provided by operating activities. For example, in its first year
+of operations Hu Ltd. reported a net income of HK$80,000. Its net cash provided by operating
+activities, however, was a negative HK$95,000, as shown in Illustration 5.25.
+Hu.Ltd
+Net Cash Flow from Operating Activities
+Cash flows from operating activities
+Net income
+HK$ 80,000
+Adjustments to reconcile net income to net cash provided by
+operating activities:
+Increase in receivables
+HK$ (75,000)
+Increase in inventory
+(100,000)
+(175,000)
+Net cash provided by operating activities
+HK$ (95,000)
+ILLUSTRATION 5.25 Negative Net Cash Provided by Operating Activities
+Hu could easily experience a “cash crunch” because it has its cash tied up in receivables and inventory.
+If Hu encounters problems in collecting receivables, or if inventory moves slowly or becomes obsolete,
+its creditors may have difficulty collecting on their loans.
+Financial Liquidity
+Readers of financial statements often assess liquidity by using the current cash debt coverage. It
+indicates whether the company can pay off its current liabilities from its operations in a given year.
+Illustration 5.26 shows the formula for this ratio.
+= Current Cash Debt Coverage
+ILLUSTRATION 5.26 Formula for Current Cash Debt Coverage
+Net Cash Provided by Operating Activities
+Average Current Liabilities
+
+--- Page 409 ---
+The higher the current cash debt coverage, the less likely a company will have liquidity problems. For
+example, a ratio near 1:1 is good. It indicates that the company can meet all of its current obligations
+from internally generated cash flow.
+Financial Flexibility
+The cash debt coverage provides information on financial flexibility. It indicates a company’s ability
+to repay its liabilities from net cash provided by operating activities, without having to liquidate the
+assets employed in its operations. Illustration 5.27 shows the formula for this ratio. Notice its
+similarity to the current cash debt coverage. However, because it uses average total liabilities in place
+of average current liabilities, it takes a somewhat longer-range view.
+= Cash Debt Coverage
+ILLUSTRATION 5.27 Formula for Cash Debt Coverage
+The higher this ratio, the less likely the company will experience difficulty in meeting its obligations as
+they come due. It signals whether the company can pay its debts and survive if external sources of
+funds become limited or too expensive.
+Free Cash Flow
+A more sophisticated way to examine a company’s financial flexibility is to develop a free cash flow
+analysis. Free cash flow is the amount of discretionary cash flow a company has. It can use this cash
+flow to purchase additional investments, retire its debt, purchase treasury shares, or simply add to its
+liquidity. Financial statement users calculate free cash flow as shown in Illustration 5.28.
+Net Cash Provided by Operating Activities
+by Operating
+Activities
+−
+Capital
+Expenditures −Cash Dividends =
+Free
+Cash Flow
+ILLUSTRATION 5.28 Formula for Free Cash Flow
+In a free cash flow analysis, we first deduct capital spending to indicate it is the least discretionary
+expenditure a company generally makes. (Without continued efforts to maintain and expand facilities,
+it is unlikely that a company can continue to maintain its competitive position.) We then deduct
+dividends. Although a company can cut its dividend, it usually will do so only in a financial
+emergency. The amount resulting after these deductions is the company’s free cash flow. Obviously,
+the greater the amount of free cash flow, the greater the company’s amount of financial flexibility.
+Questions that a free cash flow analysis answers are:
+1. Is the company able to pay its dividends without resorting to external financing?
+2. If business operations decline, will the company be able to maintain its needed capital
+investment?
+3. What is the amount of discretionary cash flow that can be used for additional investment,
+retirement of debt, purchase of treasury shares, or addition to liquidity?
+Illustration 5.29 is a free cash flow analysis using the cash flow statement for Nestor SA (shown in
+Illustration 5.24).
+Net Cash Provided by Operating Activities
+Average Total Liabilities
+
+--- Page 410 ---
+Nestor SA
+Free Cash Flow Analysis
+Net cash provided by operating activities
+€411,750
+Capital expenditures
+(252,500)
+Dividends
+(19,800)
+Free cash flow
+€139,450
+ILLUSTRATION 5.29 Free Cash Flow Computation
+This computation shows that Nestor has a positive, and substantial, net cash provided by operating
+activities of €411,750. Nestor’s statement of cash flows reports that the company purchased equipment
+of €182,500 and land of €70,000 for total capital spending of €252,500. Nestor has more than
+sufficient cash flow to meet its dividend payment and therefore has satisfactory financial flexibility.
+As you can see from looking back at Illustration 5.24, Nestor used its free cash flow to redeem bonds
+and add to its liquidity. If it finds additional investments that are profitable, it can increase its spending
+without putting its dividend or basic capital spending in jeopardy. Companies that have strong financial
+flexibility can take advantage of profitable investments even in tough times. In addition, strong
+financial flexibility frees companies from worry about survival in poor economic times. In fact, those
+with strong financial flexibility often fare better in a poor economy because they can take advantage of
+opportunities that other companies cannot.
+Additional Information
+LEARNING OBJECTIVE 4
+Describe additional types of information provided.
+IFRS requires that a complete set of financial statements be presented annually. Along with the current
+year’s financial statements, companies must also provide comparative information from the
+previous period. In other words, a complete set of financial statements and related notes for two years
+must be reported.
+A complete set of financial statements comprise the following.
+1. A statement of financial position at the end of the period.
+2. A statement of comprehensive income for the period to be presented either as:
+a. One single statement of comprehensive income.
+b. A separate income statement and statement of comprehensive income. In this situation, the
+income statement is presented first.
+3. A statement of changes in equity.
+4. A statement of cash flows.
+5. Notes, comprising a summary of significant accounting policies and other explanatory
+information. [9]
+Chapters 4 and 5 discussed the first four items. However, the primary financial statements cannot
+provide the complete picture related to the financial position and financial performance of the
+company. Descriptive information is also required by IFRS in the notes to the financial statements to
+amplify or explain the items presented in the main body of the statements.
+Notes to the Financial Statements
+
+--- Page 411 ---
+As indicated earlier, notes are an integral part of reporting financial statement information. Notes can
+explain in qualitative terms information related to specific financial statement items. In addition, they
+can provide supplemental data of a quantitative nature to expand the information in financial
+statements. Notes also can explain restrictions imposed by financial arrangements or basic contractual
+agreements. Although notes may be technical and difficult to understand in some cases, they provide
+meaningful information for the user of the financial statements.
+Accounting Policies
+Accounting policies are the specific principles, bases, conventions, rules, and practices applied by a
+company in preparing and presenting financial information. The IASB recommends disclosure of all
+significant accounting principles and methods that involve selection from among alternatives or those
+that are peculiar to a given industry. For instance, companies can compute inventories under several
+cost flow assumptions (e.g., average-cost and FIFO), depreciate plant and equipment under several
+accepted methods (e.g., double-declining balance and straight-line), and carry investments at different
+valuations (e.g., cost, equity, and fair value). Sophisticated users of financial statements know of these
+possibilities and examine the statements closely to determine the methods used.
+Companies therefore present a “Summary of Significant Accounting Policies” generally as the first note
+to the financial statements. This disclosure is important because, under IFRS, alternative treatments of
+a transaction are sometimes permitted. If these policies are not understood, users of the financial
+statements are not able to use the financial statements to make comparisons between companies.
+Illustrations 5.30 to 5.33 present some examples of various accounting policy disclosures adapted
+from companies’ annual reports.
+LG
+(KOR)
+Inventories
+Inventories are stated at the lower of cost and net realizable value. Cost is determined using the
+weighted-average method, except for inventories in-transit, which is determined using the specific
+identification method. The cost of finished goods and work-in-process comprises raw materials, direct
+labour, other direct costs and related production overheads (based on normal operating capacity). The
+Group periodically reviews a possibility of significant changes in net realizable value of inventories
+not in use, decrease in market value and obsolescence, and recognizes as Allowances for Valuation of
+Inventories. Net realizable value is the estimated selling price in the ordinary course of business, less
+applicable selling expenses.
+ILLUSTRATION 5.30 Accounting Policies—Inventory
+Stora Enso
+(FIN)
+Intangible assets are stated at historical cost and are amortized on a straight-line basis over their
+expected useful lives, which usually vary from 3 to 10 years and up to 20 years for patents.
+ILLUSTRATION 5.31 Accounting Policies—Intangible Asset
+
+--- Page 412 ---
+Sports Direct
+(GBR)
+Property, plant and equipment
+Property, plant and equipment are stated at historical cost less depreciation less any recognised
+impairment losses. Cost includes expenditure that is directly attributable to the acquisition or
+construction of these items. Subsequent costs are included in the asset’s carrying amount only when it
+is probable that future economic benefits associated with the item will flow to the Group and the costs
+can be measured reliably.
+All other costs, including repairs and maintenance costs, are charged to the income statement in the
+period in which they are incurred.
+Depreciation is provided on all property, plant and equipment other than freehold land and is
+calculated on a reducing balance basis or straight-line basis, whichever is deemed by the directors to
+be more appropriate, to allocate cost less assessed residual value, other than assets in the course of
+construction, over the estimated useful lives, as follows:
+Freehold buildings—between 4% and 10% per annum—straight line
+Leasehold improvements—20% or over the term of the lease, whichever is shortest—straight line
+Plant and equipment—between 20% and 33% per annum—straight line
+The assets’ useful lives and residual values are reviewed and, if appropriate, adjusted at each balance
+sheet date. The gain or loss arising on disposal or scrapping of an asset is determined as the difference
+between the sales proceeds, net of selling costs, and the carrying amount of the asset and is recognised
+in the income statement.
+Property, plant and equipment where the carrying amount is recovered principally through a sales
+transaction and where a sale is considered to be highly probable is stated at the lower of carrying value
+and fair value less costs to sell.
+ILLUSTRATION 5.32 Accounting Policies—Property, Plant, and Equipment
+Ahold Delhaize
+(NLD/BEL)
+Non-derivative Financial Liabilities
+IFRS 9 Financial Instruments: Recognition and Measurement contains two categories for non-
+derivative financial liabilities (hereafter “financial liabilities”): financial liabilities at fair value through
+profit or loss and financial liabilities measured at amortized cost. Ahold Delhaize holds only financial
+liabilities measured at amortized cost, which are included in “Debts,” “Borrowings,” “Accounts
+payable” and “Other liabilities.”
+ILLUSTRATION 5.33 Accounting Policies—Financial Liabilities
+Additional Notes to the Financial Statements
+
+--- Page 413 ---
+In addition to a note related to explanation of the companies’ accounting policies, companies use
+specific notes to discuss items in the financial statements. Judgment must be exercised to identify the
+important aspects of financial information that need amplification in the notes. In many cases, IFRS
+requires specific disclosures. For example, using the statement of financial position as an example,
+note disclosures include:
+1. Items of property, plant, and equipment are disaggregated into classes such as land, buildings, etc.,
+in the notes, with related accumulated depreciation reported where applicable.
+2. Receivables are disaggregated into amounts receivable from trade customers, receivables from
+related parties, prepayments, and other amounts.
+3. Inventories are disaggregated into classifications such as merchandise, production supplies, work
+in process, and finished goods.
+4. Provisions are disaggregated into provisions for employee benefits and other items.
+In addition, there are often schedules and computations required by a specific standard. For example,
+for receivables, IFRS requires a maturity analysis for receivables. Illustration 5.34 shows a maturity
+analysis for Lenovo Group (CHN).
+Lenovo Group
+(in thousands)
+Current
+Trade receivables
+$6,761,826
+Less: allowance
+(100,342)
+$6,661,484
+22. Trade and other receivables
+Customers are generally granted credit term ranging from 0 to 120 days. Ageing analysis of trade
+receivables of the Group at the balance sheet date, based on invoice date, is as follows:
+2019
+0–30 days
+4,560,771
+31–60 days
+1,332,471
+61–90 days
+430,207
+Over 90 days
+438,377
+6,761,826
+Less: loss allowance
+(100,342)
+Trade receivables—net
+6,661,484
+ILLUSTRATION 5.34 Maturity Analysis for Receivables
+Another maturity analysis is required for financial liabilities. Illustration 5.35 shows such an
+adapted analysis for Christian Dior (FRA).
+
+--- Page 414 ---
+Christian Dior
+(in euro millions)
+Note 18.2
+Analysis of gross borrowings by payment date before derivatives
+Gross borrowings
+Fixed rate
+Floating rate
+Total
+Maturity
+December 31, 2019
+4,940
+610
+5,550
+December 31, 2020
+1,900
+13
+1,913
+December 31, 2021
+1,735
+5
+1,740
+December 31, 2022
+1,262
+3
+1,265
+December 31, 2023
+22
+4
+26
+December 31, 2024
+1,217
+1
+1,218
+Thereafter
+184
+7
+191
+Total
+11,260
+643
+11,903
+ILLUSTRATION 5.35 Maturity Analysis for Financial Liabilities
+Also, companies are required to reconcile the balances for many of the assets and liabilities reported in
+the financial statements from the beginning to the end of the year (sometimes referred to as a roll-
+forward of financial information). For example, a reconciliation of the balances in property, plant, and
+equipment; intangible assets; and provisions are generally provided. An example for property, plant,
+and equipment for Nestlé (CHE) is shown in Illustration 5.36.
+Nestlé
+(in millions)
+Land and
+buildings
+Machinery and
+equipment
+Tools, furniture and
+other equipment
+Vehicles Total
+Gross value
+At 1 January
+17,841
+31,103
+8,013
+615 57,572
+Currency retranslations
+(617)
+(980)
+(160)
+(5) (1,762)
+Capital expenditure
+1,025
+2,013
+782
+40
+3,860
+Disposals
+(135)
+(592)
+(466)
+(88) (1,281)
+Reclassification
+(to)/from held for sale
+(387)
+(260)
+(85)
+(2)
+(734)
+Modification of the
+scope of consolidation
+20
+9
+(15)
+—
+14
+At 31 December
+17,747
+31,293
+8,069
+560 57,669
+ILLUSTRATION 5.36 Reconciliation Schedule for Property, Plant, and Equipment
+
+--- Page 415 ---
+Note disclosure is extensive using IFRS. Many companies’ annual reports are substantial in nature, and
+it is not unusual for a large company to have over 20 pages of notes to the financial statements.
+Techniques of Disclosure
+Companies should disclose as completely as possible the effect of various uncertainties on financial
+condition, the methods of valuing assets and liabilities, and the company’s contracts and agreements.
+To disclose this pertinent information, companies may use parenthetical explanations and cross-
+reference and contra items.
+Parenthetical Explanations
+Companies often provide additional information by parenthetical explanations following the item. For
+example, Illustration 5.37 shows a parenthetical explanation of the number of shares issued by
+Hitachi (JPN) on the statement of financial position under “Equity.”
+Hitachi
+Equity
+Common stock (4,637,785,317 outstanding) ¥427,776
+ILLUSTRATION 5.37 Parenthetical Disclosure of Shares Issued
+This additional pertinent statement of financial position information adds clarity and completeness. It
+has an advantage over a note because it brings the additional information into the body of the
+statement where readers will less likely overlook it. Companies, however, should avoid lengthy
+parenthetical explanations, which might be distracting.
+Cross-Reference and Contra Items
+Companies “cross-reference” a direct relationship between an asset and a liability on the statement of
+financial position. For example, as shown in Illustration 5.38, on December 31, 2022, a company
+might show the following entries—one listed among the current assets, and the other listed among the
+current liabilities.
+Current Assets (in part)
+Cash on deposit with sinking fund
+trustee for redemption of bonds
+payable—see Current liabilities
+$800,000
+Current Liabilities (in part)
+Bonds payable to be redeemed in
+2022—see Current assets
+$2,300,000
+ILLUSTRATION 5.38 Cross-Referencing and Contra Items
+This cross-reference points out that the company will redeem $2,300,000 of bonds payable currently,
+for which it has only set aside $800,000. Therefore, it needs additional cash from unrestricted cash,
+from sales of investments, from profits, or from some other source. Alternatively, the company can
+show the same information parenthetically.
+Another common procedure is to establish contra or adjunct accounts. A contra account on a
+statement of financial position reduces either an asset, liability, or equity account. Examples include
+Accumulated Depreciation and Allowance for Doubtful Accounts. Contra accounts provide some
+
+--- Page 416 ---
+flexibility in presenting the financial information. With the use of the Accumulated Depreciation
+account, for example, a reader of the statement can see the original cost of the asset as well as the
+depreciation to date.
+An adjunct account, on the other hand, increases either an asset, liability, or equity account. An
+example is Fair Value Adjustment, which, when added to the Non-Trading Equity Investment account,
+describes the total investment asset of the company.
+Other Guidelines
+In addition to the specifics related to individual financial statements and notes to these statements,
+IAS No. 1 also addresses important issues related to presentation. [10]
+Offsetting
+IAS No. 1 indicates that it is important that assets and liabilities, and income and expense, be reported
+separately. Otherwise, it may be difficult for users to understand the transactions or events that
+occurred at the company. Therefore, it is improper for a company like Sinopec (CHN) to offset
+accounts payable against cash. Similarly, it is improper for Sinopec to offset debt used to purchase
+buildings against the buildings on the statement of financial position. However, it is proper for Sinopec
+to measure assets net of valuation allowances, such as allowance for doubtful accounts or inventory
+net of impairment. In these cases, the company is simply reporting the appropriate value on the
+financial statement and, therefore, it is not considered offsetting. In general, unless a specific IFRS
+permits offsetting, it is not permitted.
+Consistency
+The Conceptual Framework discussed in Chapter 2 notes that one of the enhancing qualitative
+characteristics is comparability. As part of comparability, the Conceptual Framework indicates that
+companies should follow consistent principles and methods from one period to the next. [11] As a
+result, accounting policies must be consistently applied for similar transactions and events unless an
+IFRS requires a different policy. Thus, Woolworths (AUS), which uses the straight-line method for
+depreciating property, plant, and equipment, reports on the straight-line method for all periods
+presented.
+Fair Presentation
+Companies must present fairly the financial position, financial performance, and cash flows of the
+company. Fair presentation means the faithful representation of transactions and events using the
+definitions and recognition criteria in the Conceptual Framework. It is presumed that the use of IFRS
+with appropriate disclosure results in financial statements that are fairly presented. In other words,
+inappropriate use of accounting policies cannot be overcome by explanatory notes to the financial
+statements.
+In some rare cases, as indicated in Chapter 2, companies can use a “true and fair” override. This
+situation develops, for example, when the IFRS for a given company appears to conflict with the
+objective of financial reporting. This situation might occur when a regulatory body indicates that a
+specific IFRS may be misleading. As indicated earlier, a true and fair override is highly unlikely in
+today’s reporting environment.10
+
+--- Page 417 ---
+Evolving Issue
+Statement of Financial Position Reporting: Gross or Net?
+In addition to the issue of financial statement presentation discussed in the opening story, a
+second area of controversy for statement of financial position reporting is the issue of offsetting
+(or netting) of assets and liabilities. It is generally accepted that offsetting of recognized assets
+and recognized liabilities detracts from the ability of users both to understand the transactions
+and conditions that have occurred and to assess the company’s future cash flows. In other words,
+providing information on assets, liabilities, and equity helps users to compute rates of return and
+evaluate capital structure. However, netting assets and liabilities limits a user’s ability to assess
+the future economic benefits and obligations.
+That is, offsetting hides the existence of assets and liabilities, making it difficult to evaluate
+liquidity, solvency, and financial flexibility. As a result, U.S. GAAP does not permit the reporting
+of summary accounts alone (e.g., total assets, net assets, and total liabilities). The IASB and FASB
+have worked to develop common criteria for offsetting on the statement of financial position.
+Current offsetting rules under IFRS are more restrictive than under U.S. GAAP. The rules
+proposed would allow offsetting only in rare circumstances (e.g., when right of offset is legally
+enforceable).
+Implementation of these rules in the United States would result in a dramatic “grossing up” of
+statements of financial position (particularly for financial institutions). For example, one study
+estimated that the new rules would gross up U.S. banks’ statements of financial position by $900
+billion (or an average of 68%, ranging from a 31.4% increase for Citigroup to 104.7% for
+Morgan Stanley).* Not surprisingly, the FASB received significant push-back from some of its
+constituents (particularly financial institutions) to the proposed rules. The U.S. banks feared the
+new rules could place them in a less favorable light when compared to their international
+counterparts, such as Deutsche Bank (DEU) and BNP Paribas (FRA). As a result, there is not
+a converged standard in this area.
+However, the Boards have issued converged disclosure requirements. The disclosure rules require
+companies to disclose both gross information and net information about instruments and
+transactions that are eligible for offset in the statement of financial position. While the Boards
+have not been able to develop a converged set of criteria for offsetting, the information provided
+under the new converged disclosure rules should enable users of a company’s financial
+statements to evaluate the effects of netting arrangements on its financial position. In doing so,
+the rules support the full disclosure principle. As discussed earlier, the IASB is not actively
+pursuing a project on the statement of financial position. Its project on improvements to the
+structure and content of the primary financial statements is focused on the statement(s) of
+financial performance (see the IFRS website for more information).
+Source: Adapted from Y. N’Diaye, “S&P: Accounting Rule Could Boost Bank Balance Sheets by Average 68%,”
+mninews.deutsche-boerse.com (September 22, 2011).
+APPENDIX 5A
+Ratio Analysis—A Reference
+Using Ratios to Analyze Performance
+LEARNING OBJECTIVE *5
+Identify the major types of financial ratios and what they measure.
+
+--- Page 418 ---
+Analysts and other interested parties can gather qualitative information from financial statements by
+examining relationships between items on the statements and identifying trends in these relationships.
+A useful starting point in developing this information is ratio analysis.
+A ratio expresses the mathematical relationship between one quantity and another. Ratio analysis
+expresses the relationship among pieces of selected financial statement data, in a percentage, a rate,
+or a simple proportion.
+To illustrate, Acer Group (TWN) recently had current assets of NT$186,391 million and current
+liabilities of NT$149,315 million. We find the ratio between these two amounts by dividing current
+assets by current liabilities. The alternative means of expression are:
+Percentage: Current assets are 125% of current liabilities.
+Rate:
+Current assets are 1.25 times as great as current liabilities.
+Proportion: The relationship of current assets to current liabilities is 1.25:1.
+To analyze financial statements, we classify ratios into four types, as follows.
+Major Types of Ratios
+Liquidity Ratios. Measures of the company’s short-term ability to pay its maturing obligations.
+Activity Ratios. Measures of how effectively the company uses its assets.
+Profitability Ratios. Measures of the degree of success or failure of a given company or division
+for a given period of time.
+Coverage Ratios. Measures of the degree of protection for long-term creditors and investors.
+In Chapter 5, we discussed three measures related to the statement of cash flows (current cash debt
+coverage, cash debt coverage, and free cash flow). Throughout the remainder of the text, we provide
+ratios to help you understand and interpret the information presented in financial statements.
+Illustration 5A.1 presents the ratios that we will use throughout the text. You should find this chart
+helpful as you examine these ratios in more detail in the following chapters. An appendix to Chapter 24
+further discusses financial statement analysis.
+
+--- Page 419 ---
+Ratio
+Formula
+Purpose or
+Use
+I. Liquidity
+ 
+ 
+1. Current
+ratio
+Measures short-
+term debt-paying
+ability
+2. Quick or
+acid-test
+ratio
+Measures
+immediate short-
+term liquidity
+3. Current
+cash debt
+coverage
+Measures a
+company’s ability
+to pay off its
+current liabilities
+in a given year
+from its operations
+II. Activity
+ 
+ 
+4. Accounts
+receivable
+turnover
+Measures liquidity
+of receivables
+5. Inventory
+turnover
+Measures liquidity
+of inventory
+6. Asset
+turnover
+Measures how
+efficiently assets
+are used to
+generate sales
+III.
+Profitability
+ 
+ 
+7. Profit
+margin
+on sales
+Measures net
+income generated
+by each dollar of
+sales
+8. Return
+on assets
+Measures overall
+profitability of
+assets
+9. Return
+Measures
+profitability of
+Current assets
+Current liabilities
+Cash + Short-term investments + Accounts receivable (net)
+Current liabilities
+Net cash provided by operating activities
+Average current liabilities
+Net sales
+Average net accounts receivable
+Cost of goods sold
+Average inventory
+Net sales
+Average total assets
+Net income
+Net sales
+Net income
+Average total assets
+
+--- Page 420 ---
+on share
+capital—
+ordinary
+owners’
+investment
+10. Earnings
+per share
+Measures net
+income earned on
+each ordinary
+share
+11. Price-
+earnings
+ratio
+Measures the ratio
+of the market price
+per share to
+earnings per share
+12. Payout
+ratio
+Measures
+percentage of
+earnings
+distributed in the
+form of cash
+dividends
+IV. Coverage  
+ 
+13. Debt to
+assets
+ratio
+Measures the
+percentage of total
+assets provided by
+creditors
+14. Times
+interest
+earned
+Measures ability to
+meet interest
+payments as they
+come due
+15. Cash debt
+coverage
+Measures a
+company’s ability
+to repay its total
+liabilities in a given
+year from its
+operations
+16. Book
+value per
+share
+Measures the
+amount each
+ordinary share
+would receive if the
+company were
+liquidated at the
+amounts reported
+on the statement of
+financial position
+Net income - Preference dividends
+Average shareholders’ equity—ordinary
+Net income - Preference dividends
+Weighted-average ordinary shares outstanding
+Market price of share
+Earnings per share
+Cash dividends
+Net income
+Total liabilities
+Total assets
+Net income + Interest expense + Income tax expense
+Interest expense
+Net cash provided by operating activities
+Average total liabilities
+Shareholders’ equity—ordinary
+Outstanding shares
+
+--- Page 421 ---
+p
+17. Free cash
+flow
+Net cash provided by operating activities − Capital expenditures −
+Cash dividends
+Measures the
+amount of
+discretionary cash
+flow
+ILLUSTRATION 5A.1 A Summary of Financial Ratios
+Review and Practice
+Key Terms Review
+account form
+accounting policies
+accumulated other comprehensive income
+*activity ratios
+adjunct account
+balance sheet
+cash debt coverage
+comparative information
+contra account
+*coverage ratios
+current assets
+current cash debt coverage
+current liabilities
+equity (shareholders)
+financial flexibility
+financial instrument (n)
+financing activities
+free cash flow
+held-for-collection securities
+intangible assets
+investing activities
+liquidity
+*liquidity ratios
+long-term investments
+non-controlling interest
+non-current assets
+non-current liabilities
+non-trading equity securities
+operating activities
+
+--- Page 422 ---
+*profitability ratios
+property, plant, and equipment
+*ratio analysis
+report form
+retained earnings
+share capital
+share premium
+solvency
+statement of cash flows
+statement of financial position
+trading securities
+treasury shares
+working capital
+Learning Objectives Review
+1 Explain the uses, limitations, and content of the statement of financial position.
+The statement of financial position provides information about the nature and amounts of investments
+in a company’s resources, obligations to creditors, and equity. The statement of financial position
+contributes to financial reporting by providing a basis for (1) computing rates of return, (2) evaluating
+the capital structure of the enterprise, and (3) assessing the liquidity, solvency, and financial flexibility
+of the enterprise.
+Three limitations of a statement of financial position are as follows. (1) The statement of
+financial position generally does not reflect fair value because accountants use a historical cost basis in
+valuing and reporting most assets and liabilities. (2) Companies must use judgments and estimates to
+determine certain amounts, such as the collectibility of receivables and the useful life of long-term
+tangible and intangible assets. (3) The statement of financial position omits many items that are of
+financial value to the business but cannot be recorded objectively, such as human resources, customer
+base, and reputation.
+The general elements of the statement of financial position are assets, equity, and liabilities.
+The major classifications of assets are non-current assets; long-term investments; property, plant, and
+equipment; intangible assets; other assets; and current assets. The major classifications of liabilities
+are non-current and current liabilities. The statement of financial position of a company generally
+classifies equity as share capital, share premium, and retained earnings.
+2 Prepare a classified statement of financial position.
+The report form lists equity and liabilities directly below assets on the same page. The account form
+lists assets, by sections, on the left side, and equity and liabilities, by sections, on the right side.
+3 Explain the purpose, content, and preparation of the statement of cash flows.
+The primary purpose of a statement of cash flows is to provide relevant information about a
+company’s cash receipts and cash payments during a period. Reporting the sources, uses, and net
+change in cash enables financial statement readers to know what is happening to a company’s most
+liquid resource.
+
+--- Page 423 ---
+In the statement of cash flows, companies classify the period’s cash receipts and cash payments into
+three different activities. (1) Operating activities: Involve the cash effects of transactions that enter
+into the determination of net income. (2) Investing activities: Include making and collecting loans, and
+acquiring and disposing of investments (both debt and equity) and of property, plant, and equipment.
+(3) Financing activities: Involve liability and equity items. Financing activities include (a) obtaining
+capital from owners and providing them with a return on their investment, and (b) borrowing money
+from creditors and repaying the amounts borrowed.
+The information to prepare the statement of cash flows usually comes from comparative statements
+of financial position, the current income statement, and selected transaction data. Companies follow
+four steps to prepare the statement of cash flows from these sources. (1) Determine the net cash
+provided by (or used in) operating activities. (2) Determine the net cash provided by (or used in)
+investing and financing activities. (3) Determine the change (increase or decrease) in cash during the
+period. (4) Reconcile the change in cash with the beginning and ending cash balances.
+Creditors examine the cash flow statement carefully because they are concerned about being paid.
+The net cash flow provided by operating activities in relation to the company’s liabilities is helpful in
+making this assessment. Two ratios used in this regard are the current cash debt coverage and the cash
+debt coverage. In addition, the amount of free cash flow provides creditors and shareholders with a
+picture of the company’s financial flexibility.
+4 Describe additional types of information provided.
+In addition to a complete set of financial statements, IFRS also requires additional reporting in the
+notes to the financial statements. Disclosure in the notes includes (1) accounting policies and (2)
+expanded disclosures and detailed schedules related to such items as property, plant, and equipment;
+receivables; liabilities and provisions; and equity.
+Companies use two methods to disclose pertinent information in the statement of financial
+position. (1) Parenthetical explanations: Parenthetical explanations provide additional information or
+description following the item. (2) Cross-reference and contra items: Companies “cross-reference” a
+direct relationship between an asset and a liability on the statement of financial position. IFRS also
+provides guidelines related to offsetting amounts (generally not permitted), consistency in application
+of accounting policies, and “true and fair” presentation.
+* 5 Identify the major types of financial ratios and what they measure.
+Ratios express the mathematical relationship between one quantity and another, expressed as a
+percentage, a rate, or a proportion. Liquidity ratios measure the short-term ability to pay maturing
+obligations. Activity ratios measure the effectiveness of asset usage. Profitability ratios measure the
+success or failure of an enterprise. Coverage ratios measure the degree of protection for long-term
+creditors and investors.
+Enhanced Review and Practice
+Go online for multiple-choice questions with solutions, review exercises with solutions, and a full
+glossary of all key terms.
+Practice Problem
+Cassy Corporation’s statement of financial position at the end of 2021 included the following items.
+Land
+$ 36,000
+Buildings
+144,000
+
+--- Page 424 ---
+Equipment
+108,000
+Accumulated depreciation—buildings
+(36,000)
+Accumulated depreciation—equipment
+(13,200)
+Patents
+48,000
+Current assets
+282,000
+Total
+$568,800
+Share capital—ordinary
+$216,000
+Retained earnings
+52,800
+Bonds payable
+120,000
+Current liabilities
+180,000
+Total
+$568,800
+The following information is available for 2022.
+1. Treasury shares were purchased at a cost of $13,200.
+2. Cash dividends of $36,000 were declared and paid.
+3. A long-term investment in shares was purchased for $19,200.
+4. Current assets other than cash increased by $34,800. Current liabilities increased by $15,600.
+5. Depreciation expense was $4,800 on the building and $10,800 on equipment.
+6. Net income was $66,000.
+7. Bonds payable of $60,000 were issued.
+8. An addition to the building was completed at a cost of $32,400.
+9. Patent amortization was $3,000.
+10. Equipment (cost $24,000 and accumulated depreciation $9,600) was sold for $12,000.
+Instructions
+a. Prepare a statement of financial position at December 31, 2022.
+b. Prepare a statement of cash flows for 2022.
+Solution
+a. 
+Cassy Corporation
+Statement of Financial Position
+December 31, 2022
+Assets
+Long-term investments
+$ 19,200
+Property, plant, and equipment
+Land
+$ 36,000
+Buildings ($144,000 + $32,400)
+$176,400
+Less: Accumulated depreciation—buildings ($36,000 + $4,800)
+40,800
+135,600
+Equipment ($108,000 − $24,000)
+84,000
+Less: Accumulated depreciation—equipment ($13,200 − $9,600
+14,400
+69,600
+
+--- Page 425 ---
++ $10,800)
+Total property, plant, and equipment
+241,200
+Intangible assets—patents ($48,000 − $3,000)
+45,000
+Current assets ($282,000 + $34,800 + $39,000)
+355,800
+Total assets
+$661,200
+Equity and Liabilities
+Equity
+Share capital—ordinary
+$216,000
+Retained earnings ($52,800 + $66,000 − $36,000)
+82,800
+Total
+298,800
+Less: Cost of treasury shares
+13,200
+Total equity
+$285,600
+Non-current liabilities
+Bonds payable ($120,000 + $60,000)
+180,000
+Current liabilities ($180,000 + $15,600)
+195,600
+Total liabilities
+375,600
+Total equity and liabilities
+$661,200
+Notes: The amount determined for current assets is computed last and is a “plug” figure. That is,
+total equity and liabilities is computed because information is available to determine this amount.
+Because the total assets amount is the same as the total equity and liabilities amount, the amount
+of total assets can be determined. Information is available to compute all the asset amounts
+except current assets. Therefore, current assets can be determined by deducting the total of all the
+other asset balances from the total asset balance (i.e., $661,200 − $45,000 − $241,200 −
+$19,200).
+b. 
+Cassy Corporation
+Statement of Cash Flows
+For the Year Ended December 31, 2022
+Cash flows from operating activities
+Net income
+$66,000
+Adjustments to reconcile net income to net cash provided by operating
+activities:
+Loss on sale of equipment
+$ 2,400
+Depreciation expense
+15,600
+Patent amortization
+3,000
+Increase in current liabilities
+15,600
+Increase in current assets (other than cash)
+(34,800)
+1,800
+Net cash provided by operating activities
+67,800
+Cash flows from investing activities
+Sale of equipment
+12,000
+Addition to building
+(32,400
+Investment in shares
+(19,200)
+Net cash used by investing activities
+(39,600)
+
+--- Page 426 ---
+Cash flows from financing activities
+Issuance of bonds
+60,000
+Payment of dividends
+(36,000)
+Purchase of treasury shares
+(13,200)
+Net cash provided by financing activities
+10,800
+Net increase in cash
+$39,000
+Exercises, Problems, Problem Solution Walkthrough Videos, Data Analytics Activities, and many
+more assessment tools and resources are available for practice in Wiley’s online courseware.
+Questions
+1. How does information from the statement of financial position help users of the financial
+statements?
+2. What is meant by solvency? What information in the statement of financial position can be used to
+assess a company’s solvency?
+3. A financial magazine indicated that the airline industry has poor financial flexibility. What is meant
+by financial flexibility, and why is it important?
+4. Discuss at least two situations in which estimates could affect the usefulness of information in the
+statement of financial position.
+5. Perez SA reported an increase in inventories in the past year. Discuss the effect of this change on the
+current ratio (current assets ÷ current liabilities). What does this tell a statement user about Perez’s
+liquidity?
+6. What is meant by liquidity? Rank the following assets from one to five in order of liquidity.
+a. Goodwill.
+b. Inventory.
+c. Buildings.
+d. Short-term investments.
+e. Accounts receivable.
+7. What are the major limitations of the statement of financial position as a source of information?
+8. Discuss at least two items that are important to the value of companies such as Louis Vuitton
+(LVMH Group) (FRA) or adidas (DEU) but that are not recorded in their statements of financial
+position. What are some reasons why these items are not recorded in the statement of financial
+position?
+9. How does separating current assets from property, plant, and equipment in the statement of
+financial position help analysts?
+10. In its December 31, 2022, statement of financial position, Oakley Corporation reported as an asset,
+“Net notes and accounts receivable, €7,100,000.” What other disclosures are necessary?
+11. Should non-trading equity securities always be reported as a current asset? Explain.
+12. What is the relationship between current assets and current liabilities?
+13. Manchester United sold 10,000 season tickets at £2,000 each. By December 31, 2022, 8 of the 20
+home games had been played. What amount should be reported as a current liability at December 31,
+2022?
+
+--- Page 427 ---
+14. What is working capital? How does working capital relate to the operating cycle?
+15. In what section of the statement of financial position should the following items appear, and what
+statement of financial position terminology would you use?
+a. Treasury shares (recorded at cost).
+b. Checking account at bank.
+c. Land (held as an investment).
+d. Sinking fund.
+e. Provision for warranties (short-term).
+f. Copyrights.
+g. Pension fund assets.
+h. Share capital—ordinary.
+i. Long-term investments (pledged against bank loans payable).
+j. Non-controlling interest.
+16. Where should the following items be shown on the statement of financial position, if shown at all?
+a. Allowance for doubtful accounts.
+b. Merchandise held on consignment.
+c. Advances received on sales contract.
+d. Accumulated other comprehensive income.
+e. Land.
+f. Merchandise out on consignment.
+g. Franchises.
+h. Accumulated depreciation of plant and equipment.
+i. Materials in transit—purchased f.o.b. destination.
+17. State the usual basis of valuation of each of the following assets.
+a. Trade accounts receivable.
+b. Land.
+c. Inventory.
+d. Trading securities (ordinary shares of other companies).
+e. Prepaid expenses.
+18. Refer to the definition of assets in this chapter. Discuss how a leased building might qualify as an
+asset of the lessee (tenant) under this definition.
+19. Kathleen Battle says, “Retained earnings should be reported as an asset, since it is earnings which
+are reinvested in the business.” How would you respond to Battle?
+20. The creditors of Chan Ho Ltd. agree to accept promissory notes for the amount of its indebtedness
+with a condition that two-thirds of the annual profits must be applied to their liquidation. How should
+these notes be reported on the statement of financial position of the issuing company? Give a reason
+for your answer.
+
+--- Page 428 ---
+21. What is the purpose of a statement of cash flows? How does it differ from a statement of financial
+position and a statement of comprehensive income?
+22. The net income for the year for Genesis plc is £750,000, but the statement of cash flows reports
+that net cash provided by operating activities is £640,000. What might account for the difference?
+23. Net income for the year for Carrie, Inc. was $750,000, but the statement of cash flows reports that
+net cash provided by operating activities was $860,000. What might account for the difference?
+24. Differentiate between operating activities, investing activities, and financing activities.
+25. Each of the following items must be considered in preparing a statement of cash flows. Indicate
+where each item is to be reported in the statement, if at all. Assume that net income is reported as
+¥90,000 (amounts in thousands).
+a. Accounts receivable increased from ¥34,000 to ¥39,000 from the beginning to the end of the year.
+b. During the year, 10,000 ordinary shares with a par value of ¥100 per share were issued at ¥115 per
+share.
+c. Depreciation expense amounted to ¥14,000, and intangible asset amortization amounted to
+¥5,000.
+d. Land increased from ¥10,000 to ¥30,000 due to purchase through issuance of long-term debt.
+26. Sergey SpA has net cash provided by operating activities of €1,200,000. Its average current
+liabilities for the period are €1,000,000, and its average total liabilities are €1,500,000. Comment on
+the company’s liquidity and financial flexibility given this information.
+27. Net income for the year for Tanizaki, Inc. was $750,000, but the statement of cash flows reports
+that net cash provided by operating activities was $860,000. Tanizaki also reported capital
+expenditures of $75,000 and paid dividends in the amount of $30,000. Compute Tanizaki’s free cash
+flow.
+28. What is the purpose of a free cash flow analysis?
+29. What is a “Summary of Significant Accounting Policies”?
+30. What are some of the techniques of disclosure for financial statement information?
+Brief Exercises
+BE5.1 (LO 1, 2) Harding NV has the following accounts included in its December 31, 2022, trial
+balance: Accounts Receivable €110,000, Inventory €290,000, Allowance for Doubtful Accounts
+€8,000, Patents €72,000, Prepaid Insurance €9,500, Accounts Payable €77,000, and Cash €30,000.
+Prepare the current assets section of the statement of financial position, listing the accounts in the
+sequence shown in the chapter.
+BE5.2 (LO 1, 2) Koch AG’s adjusted trial balance contained the following asset accounts at December
+31, 2022: Cash €7,000, Land €40,000, Patents €12,500, Accounts Receivable €90,000, Prepaid
+Insurance €5,200, Inventory €30,000, Allowance for Doubtful Accounts €4,000, and Trading
+Securities €11,000. Prepare the current assets section of the statement of financial position, listing the
+accounts in the sequence shown in the chapter.
+BE5.3 (LO 1, 2) Included in Outkast Company’s December 31, 2022, trial balance are the following
+accounts: Prepaid Rent $5,200, Held-for-Collection Securities $56,000, Unearned Service Revenue
+$17,000, Land Held for Investment $39,000, and Notes Receivable (long-term) $42,000. Prepare the
+long-term investments section of the statement of financial position.
+BE5.4 (LO 1, 2) Lowell Company’s December 31, 2022, trial balance includes the following accounts:
+Inventory $120,000, Buildings $207,000, Accumulated Depreciation—Equipment $19,000, Equipment
+$190,000, Land Held for Investment $46,000, Accumulated Depreciation—Buildings $45,000, and
+
+--- Page 429 ---
+Land $71,000. Prepare the property, plant, and equipment section of the statement of financial
+position.
+BE5.5 (LO 1, 2) Crane Ltd. has the following accounts included in its December 31, 2022, trial
+balance: Trading Securities £21,000, Goodwill £150,000, Prepaid Insurance £12,000, Patents
+£220,000, and Franchises £130,000. Prepare the intangible assets section of the statement of financial
+position.
+BE5.6 (LO 1, 2) Patrick Corporation’s adjusted trial balance contained the following asset accounts at
+December 31, 2022: Capitalized Development Costs $18,000, Prepaid Rent $12,000, Goodwill $50,000,
+Franchise Fees Receivable $2,000, Franchises $47,000, Patents $33,000, and Trademarks $10,000.
+Prepare the intangible assets section of the statement of financial position.
+BE5.7 (LO 1, 2) Thomas Corporation’s adjusted trial balance contained the following liability
+accounts at December 31, 2022. Bonds Payable (due in 3 years) $100,000, Accounts Payable $72,000,
+Notes Payable (due in 90 days) $22,500, Salaries and Wages Payable $4,000, and Income Taxes
+Payable $7,000. Prepare the current liabilities section of the statement of financial position.
+BE5.8 (LO 1, 2) Included in Arco A.¸S.’s December 31, 2022, trial balance are the following accounts:
+Accounts Payable 220,000, Pension Liability 375,000, Advances from Customers 41,000, Bonds
+Payable 371,000, Salaries and Wages Payable 27,000, Interest Payable 12,000, Income Taxes
+Payable 29,000, and Provision for Warranties (current 3,000, non-current 6,000). Prepare the
+current liabilities section of the statement of financial position.
+BE5.9 (LO 1, 2) Use the information presented in BE5.8 for Arco A.¸S. to prepare the non-current
+liabilities section of the statement of financial position.
+BE5.10 (LO 1, 2) Hawthorn AG’s adjusted trial balance contained the following accounts at December
+31, 2022: Retained Earnings €120,000, Share Capital—Ordinary €750,000, Bonds Payable €100,000,
+Share Premium—Ordinary €200,000, Goodwill €55,000, Accumulated Other Comprehensive Income
+(Loss) €(150,000), and Non-Controlling Interest €80,000. Prepare the equity section of the statement
+of financial position.
+BE5.11 (LO 1, 2) Stowe SE’s December 31, 2022, trial balance includes the following accounts: Share
+Capital—Ordinary €70,000, Retained Earnings €114,000, Trademarks €31,000, Share Capital—
+Preference €152,000, Trading Securities €55,000, Deferred Income Taxes €88,000, Share Premium—
+Ordinary €174,000, and Non-Controlling Interest €18,000. Prepare the equity section of the statement
+of financial position.
+BE5.12 (LO 3) Keyser Beverage reported the following items in the most recent year.
+Net income
+$40,000
+Dividends paid
+5,000
+Increase in accounts receivable
+10,000
+Increase in accounts payable
+7,000
+Purchase of equipment (capital expenditure)
+8,000
+Depreciation expense
+4,000
+Issue of notes payable
+20,000
+Compute net cash provided by operating activities, the net change in cash during the year, and free
+cash flow.
+BE5.13 (LO 3) Ames Ltd. reported 2022 net income of HK$151,000. During 2022, accounts receivable
+increased by HK$13,000 and accounts payable increased by HK$9,500. Depreciation expense was
+HK$44,000. Prepare the cash flows from operating activities section of the statement of cash flows
+(amounts in thousands).
+BE5.14 (LO 3) Martinez SA engaged in the following cash transactions during 2022.
+
+--- Page 430 ---
+Sale of land and building
+R$191,000
+Purchase of treasury shares
+40,000
+Purchase of land
+37,000
+Payment of cash dividend
+95,000
+Purchase of equipment
+53,000
+Issuance of ordinary shares
+147,000
+Retirement of bonds
+100,000
+Compute the net cash provided (used) by investing activities.
+BE5.15 (LO 3) Use the information presented in BE5.14 for Martinez SA to compute the net cash
+provided (used) by financing activities.
+BE5.16 (LO 3) Using the information in BE5.14, determine Martinez SA’s free cash flow, assuming
+that it reported net cash provided by operating activities of R$400,000.
+Exercises
+E5.1 (LO 1, 2) (Statement of Financial Position Classifications) Presented below are a number
+of statement of financial position accounts of Cunningham plc.
+a. Investment in Preference Shares.
+b. Treasury Shares.
+c. Share Capital—Ordinary.
+d. Dividends Payable.
+e. Accumulated Depreciation—Equipment.
+f. Finished Goods.
+g. Petty Cash.
+h. Interest Payable.
+i. Deficit.
+j. Trading Securities.
+k. Income Taxes Payable.
+l. Unearned Service Revenue.
+m. Work in Process.
+n. Salaries and Wages Payable.
+Instructions
+For each of the accounts above, indicate the proper statement of financial position classification. In the
+case of borderline items, indicate the additional information that would be required to determine the
+proper classification.
+E5.2 (LO 1, 2) (Classification of Statement of Financial Position Accounts) Presented below
+are the captions of Nikos SpAʼs statement of financial position.
+a. Non-current assets.
+1. Investments.
+2. Property, plant, and equipment.
+3. Intangible assets.
+
+--- Page 431 ---
+4. Other assets.
+b. Current assets.
+c. Equity.
+d. Non-current liabilities.
+e. Current liabilities.
+Instructions
+Indicate by letter where each of the following items would be classified.
+1. Share capital—preference.
+2. Goodwill.
+3. Salaries and wages payable.
+4. Accounts payable.
+5. Buildings.
+6. Trading securities.
+7. Current portion of long-term debt.
+8. Patents.
+9. Allowance for doubtful accounts.
+10. Accounts receivable.
+11. Accumulated other comprehensive income.
+12. Notes payable (due next year).
+13. Supplies.
+14. Share capital—ordinary.
+15. Land.
+16. Bond sinking fund.
+17. Inventory.
+18. Prepaid insurance.
+19. Bonds payable.
+20. Income taxes payable.
+E5.3 (LO 1, 2) (Classification of Statement of Financial Position Accounts) Assume that
+Masters Enterprises uses the following headings on its statement of financial position.
+a. Investments.
+b. Property, plant, and equipment.
+c. Intangible assets.
+d. Other assets.
+e. Current assets.
+f. Non-current liabilities.
+g. Current liabilities.
+h. Share capital.
+
+--- Page 432 ---
+i. Share premium.
+j. Retained earnings.
+k. Accumulated other comprehensive income.
+Instructions
+Indicate by letter how each of the following usually should be classified. If an item should be reported
+in a note to the financial statements, use the letter “N” to indicate this fact. If an item need not be
+reported at all on the statement of financial position, use the letter “X.”
+1. Prepaid insurance.
+2. Shares owned in associated companies.
+3. Unearned service revenue.
+4. Advances to suppliers.
+5. Unearned rent revenue.
+6. Share capital—preference.
+7. Share premium—preference.
+8. Copyrights.
+9. Petty cash fund.
+10. Sales taxes payable.
+11. Interest on notes receivable.
+12. Twenty-year bonds payable that will mature within the next year. (No sinking fund exists, and
+refunding is not planned.)
+13. Accounts receivable.
+14. Unrealized gain on non-trading equity securities.
+15. Interest on bonds payable.
+16. Salaries that company budget shows will be paid to employees within the next year.
+17. Accumulated depreciation—equipment.
+E5.4 (LO 1, 2) (Preparation of a Classified Statement of Financial Position) Assume that
+Gulistan AG has the following accounts at the end of the current year.
+1. Share Capital—Ordinary.
+2. Notes Payable (long-term).
+3. Treasury Shares (at cost).
+4. Note Payable (short-term).
+5. Raw Materials.
+6. Long-Term Investment in Preference Shares.
+7. Unearned Rent Revenue.
+8. Work in Process.
+9. Copyrights.
+10. Buildings.
+11. Notes Receivable (short-term).
+
+--- Page 433 ---
+12. Cash.
+13. Salaries and Wages Payable.
+14. Accumulated Depreciation—Buildings.
+15. Cash Restricted for Plant Expansion.
+16. Land Held for Future Plant Site.
+17. Allowance for Doubtful Accounts (Accounts Receivable).
+18. Retained Earnings.
+19. Share Premium—Ordinary.
+20. Unearned Service Revenue.
+21. Receivables—Officers (due in 1 year).
+22. Finished Goods.
+23. Accounts Receivable.
+24. Bonds Payable (due in 4 years).
+Instructions
+Prepare a classified statement of financial position in good form. (No monetary amounts are
+necessary.)
+E5.5 (LO 1, 2) (Preparation of a Corrected Statement of Financial Position) Bruno SpA has
+decided to expand its operations. The bookkeeper recently completed the following statement of
+financial position in order to obtain additional funds for expansion.
+Bruno SpA
+Statement of Financial Position
+December 31, 2022
+Current assets
+Cash
+€260,000
+Accounts receivable (net)
+340,000
+Inventory (at lower-of-average-cost-or-net realizable value)
+401,000
+Trading securities—at cost (fair value €120,000)
+140,000
+Property, plant, and equipment
+Buildings (net)
+570,000
+Equipment (net)
+160,000
+Land held for future use
+175,000
+Other assets
+Goodwill
+80,000
+Intangible assets
+90,000
+Prepaid expenses
+12,000
+Current liabilities
+Accounts payable
+135,000
+Notes payable (due next year)
+125,000
+Pension liability
+82,000
+Rent payable
+49,000
+Premium on bonds payable
+53,000
+
+--- Page 434 ---
+Non-current liabilities
+Bonds payable
+500,000
+Equity
+Share capital—ordinary, €1.00 par, authorized 400,000 shares, issued 290,000
+290,000
+Share premium—ordinary
+180,000
+Retained earnings
+?
+Instructions
+Prepare a revised statement of financial position given the available information. Assume that the
+accumulated depreciation balance for the buildings is €160,000 and for the equipment, €105,000. The
+allowance for doubtful accounts has a balance of €17,000. The pension liability is considered a non-
+current liability.
+E5.6 (LO 1, 2) (Corrections of a Statement of Financial Position) The bookkeeper for Liba Ltd.
+has prepared the following statement of financial position as of July 31, 2022 (amounts in thousands).
+Liba Ltd.
+Statement of Financial Position
+As of July 31, 2022
+Equipment (net)
+¥ 84,000 Equity
+¥155,500
+Patents
+21,000 Non-current liabilities
+75,000
+Inventory
+60,000 Notes and accounts payable
+44,000
+Accounts receivable (net)
+40,500
+¥274,500
+Cash
+69,000
+¥274,500
+The following additional information is provided.
+1. Cash includes ¥1,200 in a petty cash fund and ¥12,000 in a bond sinking fund.
+2. The net accounts receivable balance is comprised of the following three items: (a) accounts
+receivable—debit balances ¥52,000, (b) accounts receivable—credit balances ¥8,000 (customer
+prepayments), and (c) allowance for doubtful accounts ¥3,500.
+3. Inventory costing ¥5,300 was shipped out on consignment on July 31, 2022. The ending inventory
+balance does not include the consigned goods. Receivables in the amount of ¥5,300 were
+recognized on these consigned goods.
+4. Equipment had a cost of ¥112,000 and an accumulated depreciation balance of ¥28,000.
+5. Income taxes payable of ¥9,000 were accrued on July 31. Liba Ltd., however, had set up a cash
+fund to meet this obligation. This cash fund was not included in the cash balance but was offset
+against the income taxes payable amount.
+Instructions
+Prepare a corrected classified statement of financial position as of July 31, 2022, from the available
+information, adjusting the account balances using the additional information.
+E5.7 (LO 1, 2) (Current Assets Section of the Statement of Financial Position) Presented
+below are selected accounts of Aramis SE at December 31, 2022.
+Inventory (finished goods)
+€ 52,000 Cost of Goods Sold
+€2,100,000
+Unearned Service Revenue
+90,000 Notes Receivable
+40,000
+Equipment
+253,000 Accounts Receivable
+161,000
+
+--- Page 435 ---
+Inventory (work in process)
+34,000 Inventory (raw materials)
+187,000
+Cash
+42,000 Supplies Expense
+60,000
+Trading Securities
+31,000 Allowance for Doubtful Accounts
+12,000
+Customer Advances
+36,000 Licenses
+18,000
+Cash Restricted for Plant Expansion
+50,000 Share Premium—Ordinary
+88,000
+Treasury Shares
+22,000
+The following additional information is available.
+1. Inventory is valued at lower-of-cost-or-net realizable value using FIFO.
+2. Equipment is recorded at cost. Accumulated depreciation, computed on a straight-line basis, is
+€50,600.
+3. The trading securities have a fair value of €29,000.
+4. The notes receivable are due April 30, 2024, with interest receivable every April 30. The notes bear
+interest at 6%. (Hint: Accrue interest due on December 31, 2022.)
+5. The allowance for doubtful accounts applies to the accounts receivable. Accounts receivable of
+€50,000 are pledged as collateral on a bank loan.
+6. Licenses are recorded net of accumulated amortization of €14,000.
+7. Treasury shares are recorded at cost.
+Instructions
+Prepare the current assets section of Aramis SE’s December 31, 2022, statement of financial position,
+with appropriate disclosures.
+E5.8 (LO 1, 2) (Current vs. Non-Current Liabilities) Pascal Corporation is preparing its
+December 31, 2022, statement of financial position. The following items may be reported as either a
+current or non-current liability.
+1. On December 15, 2022, Pascal declared a cash dividend of $2 per share to shareholders of record
+on December 31. The dividend is payable on January 15, 2023. Pascal has issued 1,000,000
+ordinary shares of which 50,000 shares are held in treasury.
+2. At December 31, bonds payable of $100,000,000 are outstanding. The bonds pay 8% interest every
+September 30 and mature in installments of $25,000,000 every September 30, beginning
+September 30, 2023.
+3. At December 31, 2021, customer advances were $12,000,000. During 2022, Pascal collected
+$30,000,000 of customer advances; advances of $25,000,000 represent performance obligations,
+which have been satisfied.
+Instructions
+For each item above, indicate the dollar amounts to be reported as a current liability and as a non-
+current liability, if any.
+E5.9 (LO 1, 2) (Current Assets and Current Liabilities) The current assets and current liabilities
+sections of the statement of financial position of Jin Liu Ltd. appear as follows (amounts in
+thousands).
+Jin Liu Ltd.
+Statement of Financial Position (partial)
+December 31, 2022
+Inventory
+¥171,000 Notes payable
+¥ 67,000
+
+--- Page 436 ---
+Accounts receivable
+¥89,000
+Accounts payable
+61,000
+Less: Allowance for doubtful accounts
+7,000
+82,000
+¥ 128,000
+Prepaid expenses
+9,000
+Cash
+40,000
+¥302,000
+The following errors in the company’s accounting have been discovered:
+1. January 2023 cash disbursements entered as of December 2022 included payments of accounts
+payable in the amount of ¥35,000, on which a cash discount of 2% was taken.
+2. The inventory included ¥27,000 of merchandise that had been received at December 31 but for
+which no purchase invoices had been received or entered. Of this amount, ¥10,000 had been
+received on consignment; the remainder was purchased f.o.b. destination, terms 2/10, n/30.
+3. Sales for the first four days in January 2023 in the amount of ¥30,000 were entered in the sales
+book as of December 31, 2022. Of these, ¥21,500 were sales on account and the remainder were
+cash sales.
+4. Cash, not including cash sales, collected in January 2023 and entered as of December 31, 2022,
+totaled ¥35,324. Of this amount, ¥23,324 was received on account after cash discounts of 2% had
+been deducted; the remainder represented the proceeds of a bank loan.
+Instructions
+a. Restate the current assets and current liabilities sections of the statement of financial position in
+accordance with good accounting practice. (Assume that both accounts receivable and accounts
+payable are recorded gross.)
+b. State the net effect of your adjustments on Jin Liu Ltd.’s retained earnings balance.
+E5.10 (LO 1, 2) (Current Liabilities) Mary Pierce is the controller of Arnold Corporation and is
+responsible for the preparation of the year-end financial statements. The following transactions
+occurred during the year.
+a. Bonuses to key employees based on net income for 2022 are estimated to be $150,000.
+b. On December 1, 2022, the company borrowed $900,000 at 8% per year. Interest is paid quarterly.
+c. Credit sales for the year amounted to $10,000,000. Arnold’s expense provision for doubtful
+accounts is estimated to be 2% of credit sales.
+d. On December 15, 2022, the company declared a $2 per share dividend on the 40,000 ordinary
+shares outstanding, to be paid on January 5, 2023.
+e. During the year, customer advances of $160,000 were received; $50,000 of this amount was
+earned by December 31, 2022.
+Instructions
+For each item above, indicate the dollar amount to be reported as a current liability. If a liability is not
+reported, explain why.
+E5.11 (LO 1, 2) (Statement of Financial Position Preparation) Presented below is the adjusted
+trial balance of Abbey plc at December 31, 2022.
+Debit
+Credit
+Cash
+£
+?
+Supplies
+1,200
+
+--- Page 437 ---
+Prepaid Insurance
+1,000
+Equipment
+48,000
+Accumulated Depreciation—Equipment
+£ 9,000
+Trademarks
+950
+Accounts Payable
+10,000
+Salaries and Wages Payable
+500
+Unearned Service Revenue
+2,000
+Bonds Payable (due 2025)
+9,000
+Share Capital—Ordinary
+10,000
+Retained Earnings
+20,000
+Service Revenue
+10,000
+Salaries and Wages Expense
+9,000
+Insurance Expense
+1,400
+Rent Expense
+1,200
+Interest Expense
+900
+Total
+£
+?
+£
+?
+Additional information:
+1. Net loss for the year was £2,500.
+2. No dividends were declared during 2022.
+Instructions
+Prepare a classified statement of financial position as of December 31, 2022.
+E5.12 (LO 1, 2) (Preparation of a Statement of Financial Position) Presented below is the trial
+balance of Vivaldi SpA at December 31, 2022.
+Debit
+Credit
+Cash
+€
+197,000
+Sales Revenue
+€ 7,900,000
+Trading Securities (at cost, €145,000)
+153,000
+Cost of Goods Sold
+4,800,000
+Long-term Investments in Bonds
+299,000
+Long-term Investments in Shares
+277,000
+Notes Payable (short-term)
+90,000
+Accounts Payable
+455,000
+Selling Expenses
+2,000,000
+Investment Revenue
+63,000
+Land
+260,000
+Buildings
+1,040,000
+Dividends Payable
+136,000
+Accrued Liabilities
+96,000
+Accounts Receivable
+435,000
+Accumulated Depreciation—Buildings
+352,000
+
+--- Page 438 ---
+Allowance for Doubtful Accounts
+25,000
+Administrative Expenses
+900,000
+Interest Expense
+211,000
+Inventory
+597,000
+Pension Liability (long-term)
+80,000
+Notes Payable (long-term)
+900,000
+Equipment
+600,000
+Bonds Payable
+1,000,000
+Accumulated Depreciation—Equipment
+60,000
+Franchises
+160,000
+Share Capital—Ordinary (€5 par)
+1,000,000
+Treasury Shares
+191,000
+Patents
+195,000
+Retained Earnings
+78,000
+Accumulated Other Comprehensive Income
+80,000
+Total
+€12,315,000 €12,315,000
+Instructions
+Prepare a statement of financial position at December 31, 2022, for Vivaldi SpA. (Ignore income taxes.)
+E5.13 (LO 3) (Statement of Cash Flows—Classifications) The major classifications of activities
+reported in the statement of cash flows are operating, investing, and financing. Classify each of the
+transactions listed below as:
+1. Operating activity—add to net income.
+2. Operating activity—deduct from net income.
+3. Investing activity.
+4. Financing activity.
+5. Reported as significant non-cash activity in the notes to the financial statements.
+The transactions are as follows.
+a. Issuance of ordinary shares.
+b. Purchase of land and building.
+c. Redemption of bonds.
+d. Sale of equipment.
+e. Depreciation of machinery.
+f. Amortization of patent.
+g. Issuance of bonds for plant assets.
+h. Payment of cash dividends.
+i. Exchange of furniture for office equipment.
+j. Purchase of treasury shares.
+k. Loss on sale of equipment.
+l. Increase in accounts receivable during the year.
+
+--- Page 439 ---
+m. Decrease in accounts payable during the year.
+E5.14 (LO 3) (Preparation of a Statement of Cash Flows) The comparative statements of
+financial position of Lopez Inc. at the beginning and the end of the year 2022 appear as follows.
+Lopez Inc.
+Statements of Financial Position
+Assets
+Dec. 31, 2022 Jan. 1, 2022 Inc./Dec.
+Equipment
+$ 39,000
+$ 22,000 $17,000 Inc.
+Less: Accumulated depreciation—equipment
+(17,000)
+(11,000)
+6,000 Inc.
+Accounts receivable
+91,000
+88,000
+3,000 Inc.
+Cash
+45,000
+13,000 32,000 Inc.
+Total
+$158,000
+$112,000
+Equity and Liabilities
+Share capital—ordinary
+$100,000
+$ 80,000 20,000 Inc.
+Retained earnings
+38,000
+17,000
+21,000 Inc.
+Accounts payable
+20,000
+15,000
+5,000 Inc.
+Total
+$158,000
+$112,000
+Net income of $34,000 was reported, and dividends of $13,000 were paid in 2022. New equipment was
+purchased and none was sold.
+Instructions
+Prepare a statement of cash flows for the year 2022.
+E5.15 (LO 3) (Preparation of a Statement of Cash Flows) Presented below is a condensed
+version of the comparative statements of financial position for Yoon Ltd. for the last 2 years at
+December 31 (amounts in millions).
+2022
+2021
+Investments
+₩ 52,000 ₩ 74,000
+Equipment
+298,000
+240,000
+Less: Accumulated depreciation—equipment
+(106,000)
+(89,000)
+Accounts receivable
+180,000
+185,000
+Cash
+157,000
+78,000
+Share capital—ordinary
+160,000
+160,000
+Retained earnings
+287,000
+177,000
+Current liabilities
+134,000
+151,000
+Additional information:
+Investments were sold at a loss of ₩ 7,000; no equipment was sold; cash dividends paid were ₩
+50,000; and net income was ₩ 160,000.
+Instructions
+a. Prepare a statement of cash flows for 2022 for Yoon Ltd.
+b. Determine Yoon’s free cash flow.
+E5.16 (LO 3) (Preparation of a Statement of Cash Flows) A comparative statement of financial
+position for Orozco AG is presented below.
+
+--- Page 440 ---
+December 31
+Assets
+2022
+2021
+Land
+€ 71,000 €110,000
+Equipment
+270,000
+200,000
+Accumulated depreciation—equipment (69,000) (42,000)
+Inventory
+180,000
+189,000
+Accounts receivable
+82,000
+66,000
+Cash
+63,000
+22,000
+Total
+€597,000 €545,000
+Equity and Liabilities
+Share capital—ordinary (€1 par)
+€214,000 €164,000
+Retained earnings
+199,000
+134,000
+Bonds payable
+150,000
+200,000
+Accounts payable
+34,000
+47,000
+Total
+€597,000 €545,000
+Additional information:
+1. Net income for 2022 was €105,000.
+2. Cash dividends of €40,000 were declared and paid.
+3. Bonds payable amounting to €50,000 were retired through issuance of ordinary shares.
+Instructions
+a. Prepare a statement of cash flows for 2022 for Orozco AG.
+b. Determine Orozco’s current cash debt coverage, cash debt coverage, and free cash flow. Comment
+on its liquidity and financial flexibility.
+E5.17 (LO 1, 2, 3) (Preparation of a Statement of Cash Flows and a Statement of Financial
+Position) Chekov Corporation’s statement of financial position at the end of 2021 included the
+following items.
+Land
+$ 30,000 Bonds payable
+$100,000
+Buildings
+120,000 Current liabilities
+150,000
+Equipment
+90,000 Share capital—ordinary
+180,000
+Accum. depr.—buildings
+(30,000) Retained earnings
+44,000
+Accum. depr.—equipment
+(11,000)
+Total
+$474,000
+Patents
+40,000
+Current assets
+235,000
+Total
+$474,000
+The following information is available for 2022.
+1. Net income was $55,000.
+2. Equipment (cost $20,000 and accumulated depreciation $8,000) was sold for $9,000.
+3. Depreciation expense was $4,000 on the building and $9,000 on equipment.
+4. Patent amortization was $2,500.
+
+--- Page 441 ---
+5. Current assets other than cash increased by $25,000. Current liabilities increased by $13,000.
+6. An addition to the building was completed at a cost of $27,000.
+7. A long-term investment in debt securities was purchased for $16,000.
+8. Bonds payable of $50,000 were issued.
+9. Cash dividends of $25,000 were declared and paid.
+10. Treasury shares were purchased at a cost of $11,000.
+Instructions
+(Show only totals for current assets and current liabilities.)
+a. Prepare a statement of cash flows for 2022.
+b. Prepare a statement of financial position at December 31, 2022.
+E5.18 (LO 3, 4) (Preparation of a Statement of Cash Flows, Analysis) The comparative
+statements of financial position of Menachem NV at the beginning and end of the year 2022 appear
+below.
+Menachem NV
+Statements of Financial Position
+Assets
+Dec. 31, 2022 Jan. 1, 2022
+Inc./Dec.
+Equipment
+€ 37,000
+€ 22,000 €15,000 Inc.
+Less: Accumulated depreciation—equipment
+(17,000)
+(11,000)
+6,000 Inc.
+Accounts receivable
+106,000
+88,000
+18,000 Inc.
+Cash
+22,000
+13,000
+9,000 Inc.
+Total
+€148,000
+€112,000
+Equity and Liabilities
+Share capital—ordinary
+€100,000
+€ 80,000
+20,000 Inc.
+Retained earnings
+28,000
+17,000
+11,000 Inc.
+Accounts payable
+20,000
+15,000
+5,000 Inc.
+Total
+€148,000
+€112,000
+Net income of €34,000 was reported, and dividends of €23,000 were paid in 2022. New equipment was
+purchased and none was sold.
+Instructions
+a. Prepare a statement of cash flows for the year 2022.
+b. Compute the current ratio (current assets ÷ current liabilities) as of January 1, 2022, and
+December 31, 2022, and compute free cash flow for the year 2022.
+c. In light of the analysis in (b), comment on Menachem’s liquidity and financial flexibility.
+Problems
+P5.1 (LO 2) (Preparation of a Classified Statement of Financial Position, Periodic
+Inventory) Presented below is a list of accounts in alphabetical order.
+Accounts Receivable
+Accumulated Depreciation—Buildings
+
+--- Page 442 ---
+Accumulated Depreciation—Equipment
+Advances to Employees
+Advertising Expense
+Allowance for Doubtful Accounts
+Bond Sinking Fund
+Bonds Payable
+Buildings
+Cash (in bank)
+Cash (on hand)
+Commission Expense
+Copyrights
+Delivery Expense
+Dividends Payable
+Equipment
+Gain on Sale of Equipment
+Interest Receivable
+Inventory (beginning)
+Inventory (ending)
+Land
+Land for Future Plant Site
+Loss from Flood
+Non-Controlling Interest
+Notes Payable (due next year)
+Patents
+Payroll Taxes Payable
+Pension Liability
+Petty Cash
+Prepaid Rent
+Purchase Returns and Allowances
+Purchases
+Retained Earnings
+Salaries and Wages Expense (sales)
+Salaries and Wages Payable
+Sales Discounts
+Sales Revenue
+Share Capital—Ordinary
+Share Capital—Preference
+Share Premium—Ordinary
+
+--- Page 443 ---
+Trading Securities
+Treasury Shares (at cost)
+Unearned Service Revenue
+Instructions
+Prepare a classified statement of financial position in good form. (No monetary amounts are to be
+shown.)
+P5.2 (LO 1, 2) (Statement of Financial Position Preparation) Presented below are a number of
+statement of financial position items for Montoya SA, for the current year, 2022.
+Goodwill
+€ 125,000 Inventory
+€ 239,800
+Payroll taxes payable
+177,591 Rent payable (short-term)
+45,000
+Bonds payable
+285,000 Income taxes payable
+98,362
+Cash
+360,000 Long-term rental obligations
+480,000
+Land
+480,000 Share capital—ordinary, 
+€1 par value
+200,000
+Notes receivable
+445,700
+Notes payable (to banks)
+265,000
+Share capital—preference, €10 par
+value
+150,000
+Accounts payable
+490,000 Prepaid expenses
+87,920
+Retained earnings
+? Equipment
+1,470,000
+Income taxes receivable
+97,630 Trading securities
+121,000
+Unsecured notes payable (long-term)
+1,600,000 Accumulated depreciation— buildings
+270,200
+Accumulated depreciation—
+equipment
+292,000 Buildings
+1,640,000
+Instructions
+Prepare a classified statement of financial position in good form. Share capital—ordinary shares
+authorized was 400,000 shares, and share capital—preference shares authorized was 20,000 shares.
+Assume that notes receivable and notes payable are short-term, unless stated otherwise. Cost and fair
+value of trading securities are the same.
+P5.3 (LO 1, 2) (Statement of Financial Position Adjustment and Preparation) The adjusted
+trial balance of Asian-Pacific Ltd. and other related information for the year 2022 are presented below
+(amounts in thousands).
+Asian-Pacific Ltd.
+Adjusted Trial Balance
+December 31, 2022
+Debit
+Credit
+Cash
+¥
+41,000
+Accounts Receivable
+163,500
+Allowance for Doubtful Accounts
+¥
+8,700
+Prepaid Insurance
+5,900
+Inventory
+208,500
+Long-term Investments
+339,000
+Land
+85,000
+Construction in Process
+124,000
+
+--- Page 444 ---
+Patents
+36,000
+Equipment
+400,000
+Accumulated Depreciation—Equipment
+240,000
+Accounts Payable
+148,000
+Accrued Expenses
+49,200
+Notes Payable
+94,000
+Bonds Payable
+180,000
+Share Capital—Ordinary
+500,000
+Share Premium—Ordinary
+45,000
+Retained Earnings
+         
+138,000
+¥1,402,900 ¥1,402,900
+Additional information:
+1. The average-cost method of inventory value is used.
+2. The cost and fair value of the long-term investments that consist of ordinary shares and bonds are
+the same.
+3. The amount of the Construction in Process account represents the costs expended to date on a
+building in the process of construction. (The company rents factory space at the present time.) The
+land on which the building is being constructed cost ¥85,000, as shown in the trial balance.
+4. The patents were purchased by the company at a cost of ¥40,000 and are being amortized on a
+straight-line basis.
+5. The notes payable represent bank loans that are secured by long-term investments carried at
+¥120,000. These bank loans are due in 2023.
+6. The bonds payable bear interest at 8% payable every December 31, and are due January 1, 2033.
+7. 600,000 ordinary shares with a par value of ¥1 were authorized, of which 500,000 shares were
+issued and outstanding.
+Instructions
+Prepare a statement of financial position as of December 31, 2022, so that all important information is
+fully disclosed.
+P5.4 (LO 1, 2) 
+ (Preparation of a Corrected Statement of Financial Position) The
+statement of financial position of Kishwaukee Ltd. as of December 31, 2022, is as follows.
+Kishwaukee Ltd.
+Statement of Financial Position
+December 31, 2022
+Assets
+Goodwill (Note 1)
+£ 120,000
+Buildings
+1,640,000
+Inventory
+312,100
+Land
+950,000
+Accounts receivable
+170,000
+Treasury shares (50,000 shares)
+87,000
+Cash on hand
+175,900
+
+--- Page 445 ---
+Assets allocated to trustee for plant expansion
+Cash in bank
+70,000
+Treasury notes, at cost and fair value
+138,000
+£3,663,000
+Equities
+Notes payable (Note 2)
+£ 600,000
+Share capital—ordinary, authorized and issued, 1,000,000 shares, no par
+1,150,000
+Retained earnings
+858,000
+Non-controlling interest
+570,000
+Income taxes payable
+75,000
+Accumulated depreciation—buildings
+410,000
+£3,663,000
+Note 1: Goodwill in the amount of £120,000 was recognized because the company believed that book
+value was not an accurate representation of the fair value of the company. The gain of £120,000 was
+credited to Retained Earnings.
+Note 2: Notes payable are non-current except for the current installment due of £100,000.
+Instructions
+Prepare a corrected classified statement of financial position in good form. The notes above are for
+information only.
+P5.5 (LO 1, 2) 
+ (Statement of Financial Position Adjustment and Preparation)
+Presented below is the statement of financial position of Sargent Corporation for the current year,
+2022.
+Sargent Corporation
+Statement of Financial Position
+December 31, 2022
+Investments
+$ 640,000 Equity
+$1,770,000
+Property, plant, and equipment
+1,720,000 Non-current liabilities
+960,000
+Intangible assets
+265,000 Current liabilities
+380,000
+Current assets
+485,000
+$3,110,000
+$3,110,000
+The following information is presented.
+1. The current assets section includes cash $150,000, accounts receivable $170,000 less $10,000 for
+allowance for doubtful accounts, inventory $180,000, and unearned service revenue $5,000.
+Inventory is stated at the lower-of-FIFO-cost-or-net-realizable value.
+2. The investments section includes land held for speculation $40,000; investments in ordinary
+shares, short-term (trading) $80,000 and long-term (non-trading) $270,000; and bond sinking
+fund $250,000. The cost and fair value of investments in ordinary shares are the same.
+3. Property, plant, and equipment includes buildings $1,040,000 less accumulated depreciation
+$360,000, equipment $450,000 less accumulated depreciation $180,000, land $500,000, and land
+held for future use $270,000.
+4. Intangible assets include a franchise $165,000 and goodwill $100,000.
+
+--- Page 446 ---
+5. Current liabilities include accounts payable $140,000; notes payable—short-term $80,000 and
+long-term $120,000; and income taxes payable $40,000.
+6. Non-current liabilities are composed solely of 7% bonds payable due 2030.
+7. Equity as shown includes share capital—preference, $5 par value, authorized 200,000 shares,
+issued 90,000 shares for $450,000; and share capital—ordinary, $1 par value, authorized 400,000
+shares, issued 100,000 shares at an average price of $10. In addition, the company has retained
+earnings of $320,000.
+Instructions
+Prepare a statement of financial position in good form, adjusting the amounts in each statement of
+financial position classification as affected by the information given above.
+P5.6 (LO 1, 2, 3) (Preparation of a Statement of Cash Flows and a Statement of Financial
+Position) Lansbury Inc. had the statement of financial position shown below at December 31, 2021.
+Lansbury Inc.
+Statement of Financial Position
+December 31, 2021
+Investments
+$ 32,000 Share capital—ordinary
+$100,000
+Plant assets (net)
+81,000 Retained earnings
+23,200
+Land
+40,000 Long-term notes payable
+41,000
+Accounts receivable
+21,200 Accounts payable
+30,000
+Cash
+20,000
+$194,200
+$194,200
+During 2022, the following occurred.
+1. Lansbury Inc. sold part of its investment portfolio for $15,000. This transaction resulted in a gain
+of $3,400 for the firm. The company classifies its investments as non-trading equity.
+2. A tract of land was purchased for $18,000 cash.
+3. Long-term notes payable in the amount of $16,000 were retired before maturity by paying $16,000
+cash.
+4. An additional $20,000 in ordinary shares were issued at par.
+5. Dividends totalling $8,200 were declared and paid to shareholders.
+6. Net income for 2022 was $32,000 after allowing for depreciation of $11,000.
+7. Land was purchased through the issuance of $30,000 in bonds.
+8. At December 31, 2022, Cash was $32,000, Accounts Receivable was $41,600, and Accounts Payable
+remained at $30,000.
+Instructions
+a. Prepare a statement of cash flows for 2022.
+b. Prepare a statement of financial position as it would appear at December 31, 2022.
+c. How might the statement of cash flows help the user of the financial statements? Compute free
+cash flow and two cash flow ratios.
+P5.7 (LO 1, 2, 3) 
+ (Preparation of a Statement of Cash Flows and Statement of
+Financial Position) Luo Ltd. had the following statement of financial position at December 31, 2021
+(amounts in thousands).
+
+--- Page 447 ---
+Luo Ltd.
+Statement of Financial Position
+December 31, 2021
+Investments
+¥ 32,000 Share capital—ordinary ¥100,000
+Plant assets (net)
+81,000 Retained earnings
+23,200
+Land
+40,000 Bonds payable
+41,000
+Accounts receivable
+21,200 Accounts payable
+30,000
+Cash
+20,000
+¥194,200
+¥194,200
+During 2022, the following occurred.
+1. Luo liquidated its non-trading equity investment portfolio at a loss of ¥5,000.
+2. A tract of land was purchased for ¥38,000.
+3. An additional ¥30,000 in ordinary shares were issued at par.
+4. Dividends totaling ¥10,000 were declared and paid to shareholders.
+5. Net income for 2022 was ¥35,000, including ¥12,000 in depreciation expense.
+6. Land was purchased through the issuance of ¥30,000 in additional bonds.
+7. At December 31, 2022, Cash was ¥70,200, Accounts Receivable was ¥42,000, and Accounts
+Payable was ¥40,000.
+Instructions
+a. Prepare a statement of cash flows for the year 2022 for Luo.
+b. Prepare the statement of financial position as it would appear at December 31, 2022.
+c. Compute Luo’s free cash flow and the current cash debt coverage for 2022.
+d. Use the analysis of Luo to illustrate how information in the statement of financial position and
+statement of cash flows helps the user of the financial statements.
+Concepts for Analysis
+CA5.1 (LO 2) (Reporting the Financial Effects of Varied Transactions) In an examination of
+Arenes Corporation as of December 31, 2022, you have learned that the following situations exist. No
+entries have been made in the accounting records for these items.
+1. The company erected its present factory building in 2007. Depreciation was calculated by the
+straight-line method, using an estimated life of 35 years. Early in 2022, the board of directors
+conducted a careful survey and estimated that the factory building had a remaining useful life of
+25 years as of January 1, 2022.
+2. When calculating the accrual for officers’ salaries at December 31, 2022, it was discovered that the
+accrual for officers’ salaries for December 31, 2021, had been overstated.
+3. On December 15, 2022, Arenes Corporation declared a cash dividend on its ordinary shares
+outstanding, payable February 1, 2023, to the shareholders of record December 31, 2022.
+Instructions
+Describe fully how each of the items above should be reported in the financial statements of Arenes
+Corporation for the year 2022.
+
+--- Page 448 ---
+CA5.2 (LO 1, 2) (Current Asset and Liability Classification) Below are the titles of a number of
+debit and credit accounts as they might appear on the statement of financial position of Hayduke ASA
+as of October 31, 2022.
+Debit
+Credit
+Interest Accrued on Government
+Share Capital—Preference
+Securities
+6% First Mortgage Bonds, due in 2029
+Notes Receivable
+Preference Dividend, payable Nov. 1, 2022
+Petty Cash Fund
+Allowance for Doubtful Accounts
+Government Securities
+Income Taxes Payable
+Treasury Shares
+Customers’ Advances (on contracts to be completed next
+year)
+Cash in Bank
+Land
+Provision for Warranties
+Inventory of Operating Parts and
+Supplies
+Officers’ 2022 Bonus Accrued
+Inventory of Raw Materials
+Accrued Payroll
+Patents
+Notes Payable
+Cash and Government Bonds Set Aside
+Accrued Interest on Bonds
+for Property Additions
+Accumulated Depreciation
+Investment in Subsidiary
+Accounts Payable
+Accounts Receivable:
+Share Premium—Preference
+Government Contracts
+Accrued Interest on Notes Payable
+Regular
+6½% First Mortgage Bonds, due in 2022 out of 
+current assets
+Goodwill
+Inventory of Finished Goods
+Non-Controlling Interest
+Inventory of Work in Process
+Accumulated Other Comprehensive Income (loss)
+Deficit
+Instructions
+Select the current asset and current liability items from among these debit and credit accounts. If there
+appear to be certain borderline cases that you are unable to classify without further information,
+mention them and explain your difficulty, or give your reasons for making questionable classifications,
+if any.
+CA5.3 (LO 2) (Identifying Statement of Financial Position Deficiencies) The assets of
+Fonzarelli SpA are presented as follows (amounts in thousands).
+Fonzarelli SpA
+Statement of Financial Position
+(Partial) December 31, 2022
+Assets
+Current assets
+Cash
+€ 100,000
+Non-controlling interest
+27,500
+Trading securities (fair value €30,000) at cost
+37,000
+Accounts receivable (less bad debt reserve)
+75,000
+
+--- Page 449 ---
+Inventory—at lower-of-cost (determined by the first-in, first-out method)-
+or-net realizable value
+240,000
+Total current assets
+479,500
+Tangible assets
+Land (less accumulated depreciation)
+80,000
+Buildings and equipment
+€800,000
+Less: Accumulated depreciation
+250,000
+550,000
+Net tangible assets
+630,000
+Investments
+Bonds
+100,000
+Treasury shares
+70,000
+Total investments
+170,000
+Other assets
+Land held for future factory site
+19,400
+Sinking fund
+975,000
+Total other assets
+994,400
+Total assets
+€2,273,900
+Instructions
+Indicate the deficiencies, if any, in the foregoing presentation of Fonzarelli’s assets.
+CA5.4 (LO 1, 2, 3) 
+ (Critique of Statement of Financial Position Format and
+Content) The following is the statement of financial position of Rasheed Brothers Corporation
+(amounts in thousands).
+Rasheed Brothers Corporation
+Statement of Financial Position
+December 31, 2022
+Assets
+Current assets
+Cash
+$26,000
+Short-term investments
+18,000
+Accounts receivable
+25,000
+Inventory
+20,000
+Supplies
+4,000
+Investment in associated company
+20,000 $113,000
+Investments
+Treasury shares
+25,000
+Property, plant, and equipment
+Buildings and land
+91,000
+Less: Accumulated depreciation
+31,000
+60,000
+Other assets
+Cash restricted for plant expansion
+19,000
+Total assets
+$217,000
+
+--- Page 450 ---
+Liabilities and Equity
+Current liabilities
+Accounts payable
+$22,000
+Income taxes payable
+15,000 $ 37,000
+Deferred credits
+Unrealized gains on non-trading equity investments
+2,000
+Non-current liabilities
+Bonds payable
+60,000
+Total liabilities
+99,000
+Equity
+Share capital—ordinary, par $5
+85,000
+Retained earnings
+25,000
+Cash dividends declared
+8,000
+118,000
+Total liabilities and equity
+$217,000
+Instructions
+Evaluate the statement of financial position presented. State briefly the proper treatment of any item
+criticized.
+CA5.5 (LO 1, 2, 4) 
+ (Presentation of Property, Plant, and Equipment) Carol Keene,
+comptroller for Dumaine Industries, is trying to decide how to present “Property, plant, and
+equipment” in the statement of financial position. She realizes that the statement of cash flows will
+show that the company made a significant investment in purchasing new equipment this year, but
+overall she knows the company’s plant assets are rather old. She feels that she can disclose one figure
+titled “Property, plant, and equipment, net of depreciation,” and the result will be a low figure.
+However, it will not disclose the age of the assets. If she chooses to show the cost less accumulated
+depreciation, the age of the assets will be apparent. She proposes the following.
+Property, plant, and equipment, net of depreciation £ 10,000,000
+rather than
+Property, plant, and equipment
+£ 50,000,000
+Less: Accumulated depreciation
+(40,000,000)
+Net book value
+£ 10,000,000
+Instructions
+Answer the following questions.
+a. What are the ethical issues involved?
+b. What should Keene do?
+CA5.6 (LO 3) 
+ (Cash Flow Analysis) The partner in charge of the Kappeler Corporation
+audit comes by your desk and leaves a letter he has started to the CEO and a copy of the cash flow
+statement for the year ended December 31, 2022. Because he must leave on an emergency, he asks you
+to finish the letter by explaining (1) the disparity between net income and cash flow, (2) the
+importance of operating cash flow, (3) the renewable source(s) of cash flow, and (4) possible
+suggestions to improve the cash position.
+Kappeler Corporation
+Statement of Cash Flows
+
+--- Page 451 ---
+For the Year Ended December 31, 2022
+Cash flows from operating activities
+Net income
+$100,000
+Adjustments to reconcile net income to net cash provided by operating
+activities:
+Depreciation expense
+$ 10,000
+Amortization expense
+1,000
+Loss on sale of fixed assets
+5,000
+Increase in accounts receivable (net)
+(40,000)
+Increase in inventory
+(35,000)
+Decrease in accounts payable
+(41,000)
+(100,000)
+Net cash provided by operating activities
+–0–
+Cash flows from investing activities
+Sale of plant assets
+25,000
+Purchase of equipment
+(100,000)
+Purchase of land
+(200,000)
+Net cash used by investing activities
+(275,000)
+Cash flows from financing activities
+Payment of dividends
+(10,000)
+Redemption of bonds
+(100,000)
+Net cash used by financing activities
+(110,000)
+Net decrease in cash
+(385,000)
+Cash balance, January 1, 2022
+400,000
+Cash balance, December 31, 2022
+$ 15,000
+Date
+President Kappeler, CEO
+Kappeler Corporation
+125 Wall Street
+Middleton, Kansas 67458
+Dear Mr. Kappeler:
+I have good news and bad news about the financial statements for the year ended December 31, 2022.
+The good news is that net income of $100,000 is close to what you predicted in the strategic plan last
+year, indicating strong performance this year. The bad news is that the cash balance is seriously low.
+Enclosed is the Statement of Cash Flows, which best illustrates how both of these situations occurred
+simultaneously …
+Instructions
+Complete the letter to the CEO, including the four components requested by your boss.
+Using Your Judgment
+Financial Reporting Problem
+Marks and Spencer plc (M&S)
+
+--- Page 452 ---
+The financial statements of M&S (GBR) are presented in Appendix A. The company’s complete annual
+report, including the notes to the financial statements, is available online.
+Instructions
+Refer to M&S’s financial statements and the accompanying notes to answer the following questions.
+a. What alternative formats could M&S have adopted for its statement of financial position? Which
+format did it adopt?
+b. How much working capital did M&S have on March 30, 2019? On March 31, 2018?
+c. What were M&S’s cash flows from its operating, investing, and financing activities for 2019? What
+were its trends in net cash provided by operating activities over the period 2018 to 2019? Explain
+why the increase in accounts payable and in accrued and other liabilities is added to net income to
+arrive at net cash provided by operating activities.
+d. Compute M&S’s: (1) current cash debt coverage, (2) cash debt coverage, and (3) free cash flow for
+2019. What do these ratios indicate about M&S’s financial conditions?
+Comparative Analysis Case
+adidas and Puma
+The financial statements of adidas (DEU) and Puma (DEU) are presented in Appendices B and C,
+respectively. The complete annual reports, including the notes to the financial statements, are available
+online.
+Instructions
+Use the companies’ financial information to answer the following questions.
+a. What format(s) did these companies use to present their statements of financial position?
+b. How much working capital did each of these companies have at the end of 2018? Speculate as to
+their rationale for the amount of working capital they maintain.
+c. What are some of the significant differences in the asset structure of the two companies? What
+causes these differences?
+d. What were these two companies’ trends in net cash provided by operating activities over the period
+2017 to 2018?
+e. Compute both companies’: (1) current cash debt coverage, (2) cash debt coverage, and (3) free cash
+flow. What do these ratios indicate about the financial condition of the two companies?
+Financial Statement Analysis Cases
+Case 1 Cathay Pacific Airlines
+Cathay Pacific Airways (HKG) is an international airline offering scheduled passenger and cargo
+services to 116 destinations in 35 countries and territories. The company was founded in Hong Kong in
+1946 and remains deeply committed to its home base, making substantial investments to develop Hong
+Kong as one of the world’s leading global transportation hubs. In addition to the fleet of 123 wide-
+bodied aircraft, these investments include catering, aircraft maintenance, and ground-handling
+companies. The following titles were shown on Cathay’s statement of financial position in a recent
+year.
+Current portion of long-term liabilities
+Net non-current assets
+Deferred taxation
+Non-controlling interest
+Fixed assets
+Other long-term receivables and investments
+
+--- Page 453 ---
+Funds attributable to owners of Cathay Pacific Reserves Retirement benefit obligations
+Intangible assets
+Share capital—ordinary
+Investments in associates
+Taxation
+Liquid funds
+Trade and other payables
+Long-term liabilities
+Trade and other receivables
+Unearned transportation revenue
+Instructions
+a. Organize the accounts in the general order in which they would be presented in a classified
+statement of financial position.
+b. When Cathay passengers purchase tickets for travel on future flights, what statement of financial
+position accounts are most likely affected? Do the balances in these accounts decrease or increase?
+Case 2 Christian Dior
+Presented below is information reported by Christian Dior (FRA) related to its off-balance-sheet
+commitments in its 2018 annual report. Christian Dior reported current assets of €29,585 and total
+current liabilities of €17,363 at December 31, 2018. (All amounts are in millions of euros.)
+Christian Dior
+Note 30 (partial): Off-balance-sheet commitments
+As of December 31, 2018, the maturity dates of these commitments break down as follows (euros in
+millions):
+Less than 1
+Year
+One to 5
+Years
+More than 5
+Years
+Total
+Grapes, wines and eaux-de-vie
+659
+1,346
+35 2,040
+Other purchase commitments for raw materials
+123
+91
+1
+215
+Industrial and commercial fixed assets
+601
+121
+(1)
+721
+Investments in joint venture shares and
+noncurrent financial assets
+2,049
+102
+— 2,151
+Total
+3,432
+1,660
+35 5,127
+Lease and similar commitments
+In connection with its business activities, the Group enters into agreements for the rental of premises
+or airport concession contracts. The Group also finances a portion of its equipment through long-term
+operating leases.
+The fixed or minimum portion of commitments in respect of the irrevocable period of operating lease
+or concession contracts were as follows as of December 31, 2018 (euros in millions):
+December 31, 2018
+Less than 1 year
+2,334
+One to 5 years
+6,098
+More than 5 years
+4,141
+Commitments given for operating leases and concession fees
+12,573
+Instructions
+
+--- Page 454 ---
+a. Compute Christian Dior’s working capital and current ratio (current assets ÷ current liabilities)
+with and without the off-balance-sheet items reported in Note 30.
+b. Briefly discuss how the information provided in the off-balance-sheet note would be useful in
+evaluating Christian Dior for loans (1) due in 1 year, and (2) due in 5 years.
+Case 3 LG
+The incredible growth of LG (KOR) has put fear into the hearts of competing appliance makers. The
+following financial information is taken from LG’s financial statements.
+(Korean won in billions)
+Current Year Prior Year
+Current assets
+₩30,517
+₩24,297
+Total assets
+64,782
+54,080
+Current liabilities
+28,110
+21,136
+Total liabilities
+39,048
+32,152
+Cash provided by operations
+10,217
+8,807
+Capital expenditures
+8,190
+5,071
+Dividends paid
+659
+423
+Net income (loss)
+2,967
+3,632
+Sales
+90,222
+76,228
+Instructions
+a. Calculate free cash flow for LG for the current and prior years, and discuss its ability to finance
+expansion from internally generated cash. Assume that LG’s major capital expenditures are related
+to building manufacturing plants and that, to date, it has avoided purchasing large warehouses.
+Instead, it has used those of others. It is possible, however, that in order to continue its growth in
+international sales, the company may have to build its own warehouses. If this happens, how
+might your impression of its ability to finance expansion change?
+b. Discuss any potential implications of the change in LG’s cash provided by operations from the
+prior year to the current year.
+Accounting, Analysis, and Principles
+Early in January 2023, Hopkins plc is preparing for a meeting with its bankers to discuss a loan
+request. Its bookkeeper provided the following accounts and balances at December 31, 2022.
+Debit
+Credit
+Inventory
+£ 65,300
+Accounts Receivable (net)
+38,500
+Cash
+75,000
+Equipment (net)
+84,000
+Patents
+15,000
+Notes and Accounts Payable
+£ 52,000
+Notes Payable (due 2024)
+75,000
+Share Capital—Ordinary
+100,000
+Retained Earnings
+        
+50,800
+£277,800
+£277,800
+Except for the following items, Hopkins has recorded all adjustments in its accounts.
+
+--- Page 455 ---
+1. Net accounts receivable is comprised of £52,000 in accounts receivable and £13,500 in allowance
+for doubtful accounts.
+2. Cash includes £500 petty cash and £15,000 in a bond sinking fund.
+3. Equipment had a cost of £112,000 and accumulated depreciation of £28,000.
+4. On January 8, 2023, one of Hopkins’ customers declared bankruptcy. At December 31, 2022, this
+customer owed Hopkins £9,000.
+Accounting
+Prepare a corrected December 31, 2022, statement of financial position for Hopkins plc.
+Analysis
+Hopkins’ bank is considering granting an additional loan in the amount of £45,000, which will be due
+December 31, 2023. How can the information in the statement of financial position provide useful
+information to the bank about Hopkins’ ability to repay the loan?
+Principles
+In the upcoming meeting with the bank, Hopkins plans to provide additional information about the fair
+value of its equipment and some internally generated intangible assets related to its customer lists.
+This information indicates that Hopkins has significant unrealized gains on these assets, which are not
+reflected on the statement of financial position. What objections is the bank likely to raise about the
+usefulness of this information in evaluating Hopkins for the loan renewal?
+Bridge to the Profession
+Authoritative Literature References
+[1] International Accounting Standard 1, Presentation of Financial Statements (London, U.K.:
+International Accounting Standards Committee Foundation, 2005), par. BC 16.
+[2] International Accounting Standard 1, Presentation of Financial Statements (London, U.K.:
+International Accounting Standards Committee Foundation, 2005), par. 60.
+[3] International Financial Reporting Standard 9, Financial Instruments (London, U.K.: International
+Accounting Standards Board Foundation, 2014), Chapter 5, Measurement.
+[4] International Accounting Standard 32, Financial Instruments: Presentation (London, U.K.:
+International Accounting Standards Committee Foundation, December 2003), par. 11.
+[5] International Accounting Standard 1, Presentation of Financial Statements (London, U.K.:
+International Accounting Standards Committee Foundation, 2005), par. 69.
+[6] International Financial Reporting Standard 9, Financial Instruments (London, U.K.: International
+Accounting Standards Board Foundation, 2014), Chapter 5, Measurement, paras. 4.1.5 and 4.2.2.
+[7] International Accounting Standard 1, Presentation of Financial Statements (London, U.K.:
+International Accounting Standards Committee Foundation, September 2005), par. 72.
+[8] International Accounting Standard 1, Presentation of Financial Statements (London, U.K.:
+International Accounting Standards Committee Foundation, September 2005), par. 10d.
+[9] International Accounting Standard 1, Presentation of Financial Statements (London, U.K.:
+International Accounting Standards Committee Foundation, September 2005), par. 10.
+[10] International Accounting Standard 1, Presentation of Financial Statements (London, U.K.:
+International Accounting Standards Committee Foundation, December 2005).
+[11] International Accounting Standard 8, Accounting Policies, Changes in Accounting Estimates and
+Errors (London, U.K.: International Accounting Standards Committee Foundation, 2003).
+
+--- Page 456 ---
+Research Case
+In light of the full disclosure principle, investors and creditors need to know the balances for assets,
+liabilities, and equity, as well as the accounting policies adopted by management to measure the items
+reported in the statement of financial position.
+Instructions
+Access the IFRS authoritative literature at the IFRS website (you may register for free IFRS access at
+the site). When you have accessed the documents, you can use the search tool in your Internet browser
+to respond to the following questions. (Provide paragraph citations.)
+a. Identify the literature that addresses the disclosure of accounting policies.
+b. How are accounting policies defined in the literature?
+c. What are the guidelines concerning consistency in applying accounting policies?
+d. What are some examples of common disclosures that are required under this statement?
+Global Accounting Insights
+LEARNING OBJECTIVE 6
+Compare the statement of financial position and statement of cash flows under IFRS and U.S.
+GAAP.
+As in IFRS, the statement of financial position and the statement of cash flows are required statements
+for U.S. GAAP. In addition, the content and presentation of a U.S. GAAP statement of financial position
+and cash flow statement are similar to those used for IFRS.
+Relevant Facts
+Following are the key similarities and differences between U.S. GAAP and IFRS related to the
+statement of financial position.
+Similarities
+Both U.S. GAAP and IFRS allow the use of the title “balance sheet” or “statement of financial
+position.” IFRS recommends but does not require the use of the title “statement of financial
+position” rather than balance sheet.
+Both U.S. GAAP and IFRS require disclosures about (1) accounting policies followed, (2)
+judgments that management has made in the process of applying the entity’s accounting policies,
+and (3) the key assumptions and estimation uncertainty that could result in a material adjustment
+to the carrying amounts of assets and liabilities within the next financial year. Comparative prior
+period information must be presented and financial statements must be prepared annually.
+U.S. GAAP and IFRS require presentation of non-controlling interests in the equity section of the
+statement of financial position.
+Differences
+U.S. GAAP follows the same guidelines as presented in the chapter for distinguishing between
+current and non-current assets and liabilities. However, under U.S. GAAP, public companies must
+follow U.S. SEC regulations, which require specific line items. In addition, specific U.S. GAAP
+mandates certain forms of reporting for this information. IFRS requires a classified statement of
+financial position except in very limited situations.
+
+--- Page 457 ---
+Under U.S. GAAP cash is listed first, but under IFRS it is many times listed last. That is, under
+IFRS, current assets are usually listed in the reverse order of liquidity than they are under U.S.
+GAAP.
+U.S. GAAP has many differences in terminology that you will notice in this text. One example is
+the use of common stock under U.S. GAAP, which is referred to as share capital—ordinary under
+IFRS.
+Use of the term “reserve” is discouraged in U.S. GAAP, but there is no such prohibition in IFRS.
+About the Numbers
+The order of presentation in the statement of financial position differs between U.S. GAAP and IFRS.
+As indicated in Illustration GAAP5.1, U.S. companies generally present current assets, non-current
+assets, current and non-current liabilities, and shareholders’ equity.
+Assets
+Liabilities and Owners’ Equity
+Current assets
+Current liabilities
+Long-term investments
+Long-term debt
+Property, plant, and equipment Shareholders’ equity
+Intangible assets
+Common stock
+Other assets
+Additional paid-in capital
+Retained earnings
+ILLUSTRATION GAAP5.1 Statement of Financial Position for U.S. Companies
+In addition, within the current asset and liability classifications, items are presented in order of
+liquidity, as indicated in the following excerpt from Hasbro, Inc. (USA).
+Hasbro, Inc.
+(in thousands)
+Current assets
+Cash and cash equivalents
+$ 715,400
+Accounts receivable, less allowances of $27,700
+556,287
+Inventories
+203,337
+Prepaid expenses and other current assets
+243,291
+Total current assets
+$1,718,315
+On the Horizon
+At one time, the IASB and the FASB worked on a project to converge their standards related to financial
+statement presentation, including the statement of financial position (balance sheet). A key feature of
+the revised framework is that each of the statements will be organized, in the same format, to separate
+an entity’s financing activities from its operating and investing activities, and, further, to separate
+financing activities into transactions with owners and creditors. Thus, the same classifications used in
+the statement of financial position could be used in the statement of comprehensive income and the
+statement of cash flows.
+That original convergence project is on hold, but both Boards have pivoted to focus on performance
+reporting (the income statement). Why abandon a project on the statement of financial position? Well,
+both Boards learned in their research that there is good comparability in the structure and content of
+the statement of financial position. While companies may not be presenting sufficient detail in the
+statement or note disclosures, current reporting requirements could be “tweaked” to meet IFRS or
+
+--- Page 458 ---
+FASB objectives for the statement of financial position (balance sheet) instead of undergoing a major
+overhaul.
+GAAP Self-Test Questions
+1. Which of the following statements about IFRS and U.S. GAAP accounting and reporting
+requirements for the balance sheet is not correct?
+a. Both IFRS and U.S. GAAP distinguish between current and non-current assets and liabilities.
+b. The presentation formats required by IFRS and U.S. GAAP for the balance sheet are similar.
+c. Both IFRS and U.S. GAAP require that comparative information be reported.
+d. One difference between the reporting requirements under IFRS and those of the U.S. GAAP
+balance sheet is that an IFRS balance sheet may list non-current assets first.
+2. Current assets under IFRS are listed generally:
+a. by importance.
+b. in the reverse order of their expected conversion to cash.
+c. by longevity.
+d. alphabetically.
+3. Companies that use IFRS:
+a. may report all their assets on the statement of financial position at fair value.
+b. are not allowed to net assets (assets − liabilities) on their statement of financial positions.
+c. may report non-current assets before current assets on the statement of financial position.
+d. do not have any guidelines as to what should be reported on the statement of financial position.
+4. Franco Company uses IFRS and reports a “reserve” in its statement of financial position. If Franco
+were reporting under U.S. GAAP, it would:
+a. be required to report a reserve in its balance sheet.
+b. be discouraged from using the term “reserve” in its financial statements.
+c. have the option to use the term “reserves.”
+d. report the reserve in the liability section of its balance sheet.
+5. Which of the following is not a required disclosure under IFRS and U.S. GAAP?
+a. Accounting policies followed.
+b. Judgments that management has made in the process of applying the entity’s accounting policies.
+c. Key assumptions and estimation uncertainty that could result in a material adjustment to the
+carrying amounts of assets and liabilities within the next financial year.
+d. Number of employees.
+GAAP Concepts and Application
+GAAP5.1 Briefly describe some of the similarities and differences between IFRS and U.S. GAAP with
+respect to statement of financial position reporting.
+GAAP5.2 Briefly describe the convergence efforts related to financial statement presentation.
+
+--- Page 459 ---
+GAAP5.3 Rainmaker Company prepares its financial statements in accordance with U.S. GAAP. Briefly
+discuss the differences in order of presentation in its statement of financial position compared to IFRS.
+GAAP5.4 The following is the balance sheet (statement of financial position) for Nordstrom, Inc.
+(USA).
+Nordstrom, Inc.
+Consolidated Balance Sheets
+In millions
+Assets
+Current
+Year
+Prior
+Year
+Current assets:
+Cash and cash equivalents
+$ 595
+$ 827
+Accounts receivable, net
+196
+2,306
+Merchandise inventories
+1,945
+1,733
+Current deferred tax assets, net
+—
+256
+Prepaid expenses and other
+278
+102
+Total current assets
+3,014
+5,224
+Land, property and equipment, net
+3,735
+3,340
+Goodwill
+435
+435
+Other assets
+514
+246
+Total Assets
+$7,698
+$9,245
+Liabilities and Shareholder’s Equity
+Current liabilities:
+Accounts payable
+$1,324
+$1,328
+Accrued salaries, wages and related benefits
+416
+416
+Other current liabilities
+1,161
+1,048
+Current portion of long-term debt
+10
+8
+Total current liabilities
+2,911
+2,800
+Long-term debt, net
+2,795
+3,123
+Deferred property incentives, net
+540
+510
+Other liabilities
+581
+372
+Commitments and contingencies (Note 12)
+Shareholders’ equity:
+Common stock, no par value: 1,000 shares authorized; 173.5 and 190.1 shares
+issued and outstanding
+2,539
+2,338
+(Accumulated deficit) Retained earnings
+(1,610)
+166
+Accumulated other comprehensive loss
+(58)
+(64)
+Total shareholders’ equity
+871
+2,440
+Total liabilities and shareholders’ equity
+$7,698
+$9,245
+Instructions
+a. Identify at least three differences in statement of financial position reporting between IFRS and
+U.S. GAAP, as shown in Nordstrom’s balance sheet.
+
+--- Page 460 ---
+b. Review Nordstrom’s balance sheet and identify how the format of this financial statement
+provides useful information, as illustrated in the chapter.
+Answers to GAAP Self-Test Questions
+1. b 2. b 3. c 4. b 5. d
+Notes
+1 The IASB indicates that the title “statement of financial position” better reflects the function of the
+statement and is consistent with the Conceptual Framework discussed in Chapter 2. The title
+“balance sheet” simply reflects the condition that double-entry bookkeeping requires all debits to
+equal all credits and does not identify the content or purpose of the statement. [1] (See the
+Authoritative Literature References section near the end of the chapter.)
+2 Risk conveys the unpredictability of future events, transactions, circumstances, and results of the
+company.
+3 A company may classify the statement of financial position in some other manner, but in practice you
+see little departure from these major subdivisions. In some countries, such as Germany, companies
+often list current assets first. IAS No. 1 requires companies to distinguish current assets and
+liabilities from non-current ones, except in limited situations. [2]
+4 Note that the IASB issued IFRS 9, Financial Instruments, which eliminated the available-for-sale and
+held-to-maturity classifications.
+5 A financial instrument is any contract that gives rise to a financial asset for one company and a
+financial liability or equity instrument for another company. [4]
+6 More specifically, IFRS indicates that “an entity shall classify an asset as current when: (a) it expects
+to realise the asset, or intends to sell or consume it, in its normal operating cycle; (b) it holds the
+asset primarily for the purpose of trading; (c) it expects to realise the asset within twelve months
+after the reporting period; or (d) the asset is cash or a cash equivalent (as defined in IAS 7) unless
+the asset is restricted from being exchanged or used to settle a liability for at least twelve months
+after the reporting period. An entity shall classify all other assets as non-current.” [5]
+7 Under the fair value option, companies may elect to use fair value as the measurement basis for
+selected financial assets and liabilities. For these companies, some of their financial assets (and
+liabilities) may be recorded at historical cost, while others are recorded at fair value. [6]
+8 Cash is generally meant to be “cash and cash equivalents.” Cash equivalents are liquid investments
+that mature within three months or less.
+9 Companies are required either in the statement of cash flows or in the related notes to report the
+amounts paid for interest and income taxes. We assume here that the company is presenting this
+information in the notes to the financial statements. Therefore, for homework purposes, you need
+not present this information in the statement. In Chapter 23, we will explore this issue in more
+detail.
+10 One highly publicized exception is the case of Société Générale (SocGen) (FRA). The bank used
+the true and fair rule to justify reporting losses that occurred in 2008 in the prior year. Although
+allowed under the true and fair rule, such reporting was questioned because it permitted the bank to
+“take a bath,” that is, record as many losses as possible in 2007, which was already a bad year for the
+bank. As a result, SocGen’s 2008 reports looked better. See F. Norris, “SocGen Changes Its
+Numbers,” The New York Times (May 13, 2008).
+Sources: Preliminary Views on Financial Statement Presentation, FASB/IASB Discussion Paper (October 2008); N. Trentmann,
+“IASB Plans Overhaul of Financial Definitions,” Wall Street Journal (November 2, 2016); Primary Financial Statements: Analysis of
+Financial Statements Presentation, IASB Staff Paper (November 2016); J. Kuepper, “Spotting Creative Accounting on the Balance
+
+--- Page 461 ---
+Sheet,” www.investopedia.com (Dec 12, 2017); and Q. Chen, K. Schipper, and N. Zhang, “A Balance-Sheet-Based Measure of
+Accounting Quality,” Duke Working Paper (September 30, 2019).
+
+--- Page 462 ---

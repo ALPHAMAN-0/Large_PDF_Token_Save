@@ -1,0 +1,3293 @@
+CHAPTER 15
+Equity
+LEARNING OBJECTIVES
+After studying this chapter, you should be able to:
+1. Describe the corporate form and the issuance of shares.
+2. Explain the accounting and reporting for treasury shares.
+3. Explain the accounting and reporting issues related to dividends.
+4. Indicate how to present and analyze equity.
+This chapter also includes numerous conceptual discussions that are integral to the
+topics presented here.
+PREVIEW OF CHAPTER 15
+As the following opening story indicates, the growth of global equity capital markets indicates that
+investors around the world need useful information. In this chapter, we explain the accounting
+issues related to the equity of a corporation. The content and organization of the chapter are as
+follows.
+It’s a Global Market
+As mentioned in prior chapters, we are moving toward one set of global financial reporting standards
+and one “common language” for financial information. This change will probably lead to greater
+consolidation of our capital markets. To understand how quickly the global financial world is changing,
+let’s examine a few trends occurring on securities exchanges around the world.
+In 2007, the New York Stock Exchange (NYSE) merged with Paris-based Euronext, creating the world’s
+first transatlantic securities exchange. NYSE Euronext is the world’s largest exchange group, with
+more than 8,000 listed issuers representing over one-third of global equity trading. Similarly,
+NASDAQ, the world’s largest electronic securities market, merged with OMX, the Nordic securities
+market operator. This electronic exchange operates in 29 countries, on six continents, and has over
+3,000 listed issuers, with a market value of approximately $8.5 trillion. Further exchange consolidation
+occurred in 2013, when Intercontinental Exchange merged with NYSE.
+Another reason for the movement toward international financial reporting standards can be found in
+recent initial public offerings (IPOs). For example, total global IPO listings, as well as regional
+percentages, were as follows.
+
+--- Page 1185 ---
+As indicated, global stock listings have been on the rise, and listings in Asia-Pacific continue to be the
+biggest share of IPOs.
+Proceeds in Asia were bolstered by the debut of China’s STAR Market in 2019.
+Europe-Middle East was the second highest grossing sector, steadily increasing from 2016 to 2018,
+recovering from the United Kingdom’s decision to leave the European Union.
+Another indicator of globalization is provided by a review of the world’s largest companies, in terms of
+revenues and profits as shown in the following table.
+Top 10 of the Fortune Global 500
+Rank
+Company
+Revenues (in USD millions) Profits (in USD millions)
+1
+Walmart (USA)
+$514,405
+$ 6,670
+2
+Sinopec Group (CHN)
+414,649
+5,845
+3
+Royal Dutch Shell (NDL/GBR)
+396,556
+23,352
+4
+China National Petroleum (CHN)
+392,976
+2,271
+5
+State Grid (CHN)
+387,056
+8,175
+6
+Saudi Aramco (SAU)
+355,905
+110,975
+7
+BP (GBR)
+303,738
+9,383
+8
+ExxonMobil (USA)
+290,212
+20,840
+9
+Volkswagen (DEU)
+278,342
+14,323
+10 Toyota (JPN)
+272,162
+16,982
+Sources: Adapted from L. Ventura, “World’s Largest Companies 2019,” Global Finance (August 29, 2019).
+The richest companies in the world by revenue are Walmart (USA), petroleum and chemical
+corporation Sinopec (CHN), and Royal Dutch Shell (NDL/GBR). If these companies generate more
+sales, why do stock investors prefer to pour money into tech companies and startups? Because—unlike
+established companies—tech upstarts have a much greater potential for growth. That said, with seven
+different countries represented in the top 10 of the Fortune Global 500, it really is a global market, and
+investors should take care not to avoid these global investment opportunities.
+
+--- Page 1186 ---
+Review and Practice
+Go to the Review and Practice section at the end of the chapter for a targeted summary review
+and practice problem with solution. Multiple-choice questions with annotated solutions, as well
+as additional exercises and practice problem with solutions, are also available online.
+Corporate Capital
+LEARNING OBJECTIVE 1
+Describe the corporate form and the issuance of shares.
+Of the three primary forms of business organization—the proprietorship, the partnership, and
+the corporation—the corporate form dominates. The corporation is by far the leader in terms of the
+aggregate amount of resources controlled, goods and services produced, and people employed.
+Although the corporate form has a number of advantages (as well as disadvantages) over the other two
+forms, its principal benefit is its facility for attracting and accumulating large amounts of capital.
+Corporate Form
+The special characteristics of the corporate form that affect accounting include:
+1. Influence of corporate law.
+2. Use of the share system.
+3. Development of a variety of ownership interests.
+Corporate Law
+Anyone who wishes to establish a corporation must generally submit articles of incorporation to
+the appropriate governmental agency for the country in which incorporation is desired. After fulfilling
+requirements, the governmental agency issues a corporation charter, thereby recognizing the company
+as a legal entity. Regardless of the number of countries in which a corporation has operating divisions,
+it is incorporated in only one country. It is to the company’s advantage to incorporate where laws favor
+the corporate form of business organization.
+Many governments have their own business incorporation acts. The accounting for equity follows the
+provisions of these acts. In many cases, the laws are complex and vary both in their provisions and in
+their definitions of certain terms. Some laws fail to define technical terms. As a result, terms often
+have one meaning in one country and another meaning in a different country. These problems may be
+further compounded because legal authorities often interpret the effects and restrictions of the laws
+differently.
+Share System
+Equity in a corporation generally consists of a large number of units or shares. Within a given class of
+shares, each share exactly equals every other share. The number of shares possessed determines each
+owner’s interest. If a company has ordinary shares divided into 1,000 shares, a person who owns 500
+shares controls one-half of the ownership interest. One holding 10 shares has a one-hundredth
+interest.
+Each share has certain rights and privileges. Only by special contract can a company restrict these
+rights and privileges at the time it issues the shares. Owners must examine the articles of
+incorporation, the share certificates, and the provisions of applicable laws to ascertain such restrictions
+on or variations from the standard rights and privileges. In the absence of restrictive provisions, each
+share carries the following rights:
+
+--- Page 1187 ---
+1. To share proportionately in profits and losses.
+2. To share proportionately in management (the right to vote for directors).
+3. To share proportionately in corporate assets upon liquidation.
+4. To share proportionately in any new issues of shares of the same class—called the preemptive
+right.1
+The first three rights are self-explanatory. The last right is used to protect each shareholder’s
+proportional interest in the company. The preemptive right protects an existing shareholder
+from involuntary dilution of ownership interest. Without this right, shareholders might find
+their interest reduced by the issuance of additional shares without their knowledge and at prices
+unfavorable to them. However, many corporations have eliminated the preemptive right. Why?
+Because this right makes it inconvenient for corporations to issue large amounts of additional shares,
+as they frequently do in acquiring other companies.
+The share system easily allows one individual to transfer an interest in a company to another investor.
+For example, individuals owning shares in Páo de Acucar (BRA) may sell them to others at any
+time and at any price without obtaining the consent of the company or other
+shareholders. Each share is personal property of the owner, who may dispose of it at will. Páo de
+Acucar simply maintains a list or subsidiary ledger of shareholders as a guide to dividend payments,
+issuance of share rights, voting proxies, and the like. Because owners freely and frequently transfer
+shares, Páo de Acucar must revise the subsidiary ledger of shareholders periodically, generally in
+advance of every dividend payment or shareholders’ meeting.
+In addition, the major securities exchanges require ownership controls that the typical corporation
+finds uneconomic to provide. Thus, corporations often use registrars and transfer agents who
+specialize in performing services for recording and transferring shares.
+Variety of Ownership Interests
+In every corporation, one class of shares must represent the basic ownership interest. That class of
+shares is called ordinary. Ordinary shares represent the residual corporate interest that bears the
+ultimate risks of loss and receives the benefits of success. They are guaranteed neither dividends nor
+assets upon dissolution. But ordinary shareholders generally control the management of the
+corporation and tend to profit most if the company is successful. In the event that a corporation has
+only one authorized issue of shares, that issue is by definition ordinary shares, whether so designated
+in the charter or not.
+In an effort to broaden investor appeal, corporations may offer two or more classes of shares, each with
+different rights or privileges. In the preceding section, we pointed out that each share of a given issue
+has the same four inherent rights as other shares of the same issue. By special contracts between the
+corporation and its shareholders, however, the shareholder may sacrifice certain of these rights in
+return for other special rights or privileges. Thus special classes of shares, usually called preference
+shares, are created. In return for any special preference, the preference shareholder always sacrifices
+some of the inherent rights of ordinary shareholders.
+A common type of preference is to give preference shareholders a prior claim on earnings. The
+corporation thus assures them a dividend, usually at a stated rate, before it distributes any amount to
+the ordinary shareholders. In return for this preference, the preference shareholders may sacrifice
+their right to a voice in management and/or their right to share in profits beyond the stated rate.
+
+--- Page 1188 ---
+What Do the Numbers Mean?
+A Class (B) Act
+Some companies grant preferences to different shareholders by issuing different classes of
+ordinary shares. For a family-controlled company, issuing newer classes of lower or non-voting
+shares (referred to as B shares) effectively creates currency for acquisitions, increases liquidity, or
+puts a public value on the company without diluting the family’s powers. For example, the B
+shareholders at Vodafone (GBR) only get a vote if the company is to be dissolved. The following
+are some notable companies with two-tiered shares.
+Company
+Votes Controlled by Class B Shareholders
+Vodafone (GBR)
+0%
+Alphabet (USA)
+63%
+Under Armour (USA)
+65.3%
+Air Canada (CAN)
+(Only Canadian citizens can vote)
+Facebook (USA)
+43%
+Bombardier (CAN)
+0%
+Some trading exchanges impose rules to protect non-controlling investors. For example, the
+Financial Times Stock Exchange (FTSE) requires family owners to hold no more than 50 percent
+of voting shares. For many retail investors, voting rights are not that important. But, investors
+must carefully compare the apparent bargain prices for some classes of shares—they may end up
+as second-class citizens with no voting rights.
+Sources: Data from R. Sullivan, “Dual Share Structure Goes Under Spotlight,” Financial Times (November 1, 2011); M.
+Gottfried, “A Double-Digit Return Is Hiding in Plain Sight at Under Armour: The Yawning Gap Between Under Armour’s Voting
+and Nonvoting Shares Offers an Opportunity,” Wall Street Journal (November 28, 2016); and D. Shultz, “What Are Non-Voting
+Shares?” danashultz.com/2019/03/15/non-voting-shares (March 15, 2019).
+Components of Equity
+Equity is the residual interest in the assets of the company after deducting all liabilities. [1] (See the
+Authoritative Literature References section near the end of the chapter.) Equity is often referred to as
+shareholders’ equity, stockholders’ equity, or corporate capital. Equity is often subclassified on the
+statement of financial position into the following categories (as discussed in Chapter 5).
+1. Share capital.
+2. Share premium.
+3. Retained earnings.
+4. Accumulated other comprehensive income.
+5. Treasury shares.
+6. Non-controlling interest.
+Such classifications help financial statement users to better understand the legal or other restrictions
+related to the ability of the company to pay dividends or otherwise use its equity for certain defined
+purposes.
+Companies often make a distinction between contributed capital (paid-in capital) and earned capital.
+Contributed (paid-in) capital is the total amount paid in on capital shares—the amount provided
+by shareholders to the corporation for use in the business. Contributed capital includes items such as
+the par value of all outstanding shares and premiums less discounts on issuance. Earned capital is
+
+--- Page 1189 ---
+the capital that develops from profitable operations. It consists of all undistributed income that
+remains invested in the company. Retained earnings represents the earned capital of the company.
+As indicated above, equity is a residual interest and therefore its value is derived from the amount of
+the corporations’ assets and liabilities (see Underlying Concepts). Only in unusual cases will a
+company’s equity equal the total fair value of its shares. For example, BMW (DEU) recently had total
+equity of €58,088 million and a market capitalization of €53,560 million. BMW’s equity represents the
+net contributions from shareholders (from both controlling and non-controlling shareholders) plus
+retained earnings and accumulated other comprehensive income. As a residual interest, its equity has
+no existence apart from the assets and liabilities of BMW—equity equals net assets. Equity is not a
+claim to specific assets but a claim against a portion of the total assets. Its amount is not specified or
+fixed; it depends on BMW’s profitability. Equity grows if the company is profitable. It shrinks, or may
+disappear entirely, if BMW loses money.
+Underlying Concepts
+According to the Conceptual Framework, equity is defined as a residual, based on the net of assets
+minus liabilities.
+Issuance of Shares
+In issuing shares, companies follow these procedures. First, the applicable governmental agency must
+authorize the shares, generally in a certificate of incorporation or charter. Next, the corporation offers
+shares for sale, entering into contracts to sell these shares. Then, after receiving amounts for the
+shares, the corporation issues the shares. The corporation generally makes no entry in the general
+ledger accounts when it receives its share authorization from the jurisdiction of incorporation.
+We discuss the accounting problems involved in the issuance of shares under the following topics.
+1. Accounting for par value shares.
+2. Accounting for no-par shares.
+3. Accounting for shares issued in combination with other securities (lump-sum sales).
+4. Accounting for shares issued in non-cash transactions.
+5. Accounting for costs of issuing shares.
+Par Value Shares
+The par value of a share has no relationship to its fair value. At present, the par value associated with
+most ordinary share issuances is very low. For example, par value for China Railway Construction
+Corporation (CHN) is ¥1.00, and for Nestlé S.A. (CHE), it is CHF1. Low par values help companies
+avoid the contingent liability associated with shares sold below par.2
+To show the required information for issuance of par value shares, corporations maintain accounts for
+each class of shares as follows.
+1. Preference Shares or Ordinary Shares. Together, these two share accounts reflect the par
+value of the corporation’s issued shares. The company credits these accounts when it originally
+issues the shares. It makes no additional entries in these accounts unless it issues additional
+shares or retires them.
+2. Share Premium. The Share Premium account indicates any excess over par value paid in by
+shareholders in return for the shares issued to them. Once paid in, the excess over par becomes a
+part of the corporation’s share premium. The individual shareholder has no greater claim on the
+excess paid in than all other holders of the same class of shares.
+
+--- Page 1190 ---
+No-Par Shares
+Many countries permit the issuance of shares without par value, called no-par shares. The reasons
+for issuance of no-par shares are twofold. First, issuance of no-par shares avoids the contingent
+liability (see footnote 2) that might occur if the corporation issued par value shares at a discount.
+Second, some confusion exists over the relationship (or rather the absence of a relationship) between
+the par value and fair value. If shares have no par value, the questionable treatment of using par
+value as a basis for fair value never arises. This is particularly advantageous whenever issuing
+shares for items such as tangible or intangible fixed assets.
+A major disadvantage of no-par shares is that some countries levy a high tax on these issues. In
+addition, in some countries the total issue price for no-par shares may be considered legal capital,
+which could reduce the flexibility in paying dividends.
+Corporations sell no-par shares, like par value shares, for whatever price they will bring. However,
+unlike par value shares, corporations issue them without a premium or a discount. The exact amount
+received represents the credit to ordinary or preference shares. For example, Video Electronics AG is
+organized with 10,000 ordinary shares authorized without par value. Video Electronics makes only a
+memorandum entry for the authorization, inasmuch as no amount is involved. If Video Electronics
+then issues 500 shares for cash at €10 per share, it makes the following entry:
+Cash
+5,000
+Share Capital—Ordinary
+5,000
+If it issues another 500 shares for €11 per share, Video Electronics makes this entry:
+Cash
+5,500
+Share Capital—Ordinary
+5,500
+True no-par shares should be carried in the accounts at issue price without any share
+premium reported. But some countries require that no-par shares have a stated value. The stated
+value is a minimum value below which a company cannot issue the shares; instead of being no-par
+shares, such stated-value shares become, in effect, shares with a very low par value. Therefore, such
+shares are open to all the criticism and abuses that first encouraged the development of no-par shares.
+If no-par shares have a stated value of €5 per share but sell for €11, all amounts in excess of €5 are
+recorded as share premium, which in many jurisdictions is fully or partially available for dividends.
+Thus, no-par shares with a low stated value permit a new corporation to commence its operations with
+share premium that may exceed its stated capital. For example, if a company issues 1,000 of the shares
+with a €5 stated value at €15 per share for cash, it makes the following entry.
+Cash
+15,000
+Share Capital—Ordinary
+5,000
+Share Premium—Ordinary
+10,000
+Most corporations account for no-par shares with a stated value as if they were par value shares with
+par equal to the stated value.
+Shares Issued with Other Securities (Lump-Sum Sales)
+Generally, corporations sell classes of shares separately from one another. The reason to do so is to
+track the proceeds relative to each class as well as relative to each lot. Occasionally, a corporation
+issues two or more classes of securities for a single payment or lump sum, in the acquisition of another
+company. The accounting problem in such lump-sum sales is how to allocate the proceeds among the
+several classes of securities. Companies use one of two methods of allocation: (1) the proportional
+method and (2) the incremental method.
+
+--- Page 1191 ---
+Proportional Method
+If the fair value or other sound basis for determining relative value is available for each class of
+security, the company allocates the lump sum received among the classes of securities on a
+proportional basis. Illustration 15.1 presents an example of the proportional method.
+Proportional Method for Allocation in Lump-Sum Securities Issuance
+Facts: Miller Company issues 1,000 shares of $10 stated value ordinary shares having a fair value of
+$20 per share, and 1,000 shares of $10 par value preference shares having a fair value of $12 per
+share, for a lump sum of $30,000.
+Question: How should Miller Company allocate the proceeds between ordinary and
+preference shares under the proportional method?
+Solution: Miller allocates the $30,000 to the two classes of shares as follows.
+Fair value of ordinary (1,000 × $20) = $20,000
+Fair value of preference (1,000 × $12) = 
+12,000
+Aggregate fair value 
+$32,000
+Allocated to ordinary: 
+× $30,000 = $18,750
+Allocated to preference: 
+× $30,000 = $11,250
+Total allocation 
+$30,000
+ILLUSTRATION 15.1 Allocation in Lump-Sum Securities Issuance—Proportional
+Method
+Incremental Method
+In instances where a company cannot determine the fair value of all classes of securities, it may use
+the incremental method. It uses the fair value of the securities as a basis for those classes that it
+knows, and allocates the remainder of the lump sum to the class for which it does not know the fair
+value. Illustration 15.2 presents an example of the incremental method.
+$20,000
+$32,000
+$12,000
+$32,000
+
+--- Page 1192 ---
+Incremental Method for Allocation in Lump-Sum Securities Issuance
+Facts: Hogan Company issues 1,000 shares of $10 stated value ordinary shares having a fair value of
+$20 per share, and 1,000 shares of $10 par value preference shares having no established fair value,
+for a lump sum of $30,000.
+Question: How should Hogan Company allocate the proceeds between ordinary and
+preference shares under the incremental method?
+Solution: Hogan allocates the $30,000 to the two classes of shares as follows.
+Lump-sum receipt
+$30,000
+Allocated to ordinary (1,000 × $20) (20,000)
+Balance allocated to preference
+$10,000
+ILLUSTRATION 15.2 Allocation in Lump-Sum Securities Issuance—Incremental
+Method
+If a company cannot determine the fair value for any of the classes of shares involved in a
+lump-sum exchange, it may need to use other approaches. In this situation, the company may
+rely on an expert’s appraisal. Or, if the company knows that one or more of the classes of securities
+issued will have a determinable fair value in the near future, it may use a best-estimate basis with the
+intent to adjust later upon establishment of the future fair value.
+Shares Issued in Non-Cash Transactions
+Accounting for the issuance of shares for property or services involves an issue of valuation. The
+general rule is that companies should record shares issued for services or property other
+than cash at the fair value of the goods or services received, unless that fair value cannot
+be measured reliably. If the fair value of the goods or services cannot be measured
+reliably, use the fair value of the shares issued. [2]
+If a company can readily determine both and the transaction results from an arm’s-length exchange,
+there will probably be little difference in their fair values. In such cases, the basis for valuing the
+exchange should not matter.
+If a company cannot readily determine either the fair value of the shares it issues or the property or
+services it receives, it should employ an appropriate valuation technique. Depending on available data,
+the valuation may be based on market transactions involving comparable assets or the use of
+discounted expected future cash flows. Companies should avoid the use of book, par, or stated values
+as a basis of valuation for these transactions.
+A company may exchange unissued shares or treasury shares (issued shares that it has reacquired but
+not retired) for property or services. If it uses treasury shares and the fair value of the property or
+services cannot be reliably estimated, the cost of the treasury shares should not be considered the
+decisive factor in establishing the fair value of the property or services. Instead, it should use the fair
+value of the treasury shares to value the property or services.
+The series of transactions shown in Illustration 15.3 indicate the procedure for recording the
+issuance of 10,000 shares of €10 par value ordinary shares for a patent for Marlowe SA, in various
+circumstances.
+Generally, the board of directors has the power to set the value of non-cash transactions. However,
+boards sometimes abuse this power. The issuance of shares for property or services has resulted in
+cases of overstated corporate capital through intentional overvaluation of the property or services
+
+--- Page 1193 ---
+received. The overvaluation of equity resulting from inflated asset values creates watered shares. The
+corporation should eliminate the “water” by simply writing down the overvalued assets.
+If, as a result of the issuance of shares for property or services, a corporation undervalues the recorded
+assets, it creates secret reserves. An understated corporate structure (secret reserve) may also result
+from other methods: excessive depreciation or amortization charges, expensing capital expenditures,
+excessive write-downs of inventories or receivables, or any other understatement of assets or
+overstatement of liabilities. An example of a liability overstatement is an excessive provision for
+estimated product warranties that ultimately results in an understatement of equity, thereby creating a
+secret reserve.
+ILLUSTRATION 15.3 Issuance of Shares for Patent
+Costs of Issuing Shares
+When a company like Wesfarmers (AUS) issues shares, it should report direct costs incurred to sell
+shares, such as underwriting costs, accounting and legal fees, printing costs, and taxes, as a reduction
+of the amounts paid in. Wesfarmers therefore debits issue costs to Share Premium because they are
+unrelated to corporate operations. In effect, issue costs are a cost of financing. As such, issue costs
+should reduce the proceeds received from the sale of the shares.
+Wesfarmers should expense management salaries and other indirect costs related to the share issue
+because it is difficult to establish a relationship between these costs and the sale proceeds. In addition,
+Wesfarmers expenses recurring costs, primarily registrar and transfer agents’ fees, as incurred.
+Preference Shares
+As noted earlier, preference shares are a special class of shares that possess certain preferences or
+features not possessed by ordinary shares. The following features are those most often associated with
+preference share issues.
+1. Preference as to dividends.
+2. Preference as to assets in the event of liquidation.
+
+--- Page 1194 ---
+3. Convertible into ordinary shares.
+4. Callable at the option of the corporation.
+5. Non-voting.
+The features that distinguish preference shares from ordinary shares may be of a more restrictive and
+negative nature. For example, the preference shares may be non-voting, non-cumulative, and non-
+participating.
+Companies usually issue preference shares with a par value, expressing the dividend preference as a
+percentage of the par value. Thus, holders of 8 percent preference shares with a $100 par value are
+entitled to an annual dividend of $8 per share ($100 × .08). This share is commonly referred to as an 8
+percent preference share. In the case of no-par preference shares, a corporation expresses a dividend
+preference as a specific dollar amount per share, for example, $7 per share. This share is commonly
+referred to as a $7 preference share.
+A preference as to dividends does not assure the payment of dividends. It merely assures that the
+corporation must pay the stated dividend rate or amount applicable to the preference shares before
+paying any dividends on the ordinary shares.
+A company often issues preference shares (instead of debt) because of a high debt to equity ratio. In
+other instances, it issues preference shares through private placements with other corporations at a
+lower-than-market dividend rate because the acquiring corporation often receives largely tax-free
+dividends in certain countries.
+Features of Preference Shares
+A company may attach whatever preferences or restrictions, in whatever combination it desires, to a
+preference share issue, as long as it does not specifically violate its country’s incorporation law. Also, it
+may issue more than one class of preference shares. We discuss the most common features attributed
+to preference shares below.
+Cumulative Preference Shares
+Cumulative preference shares require that if a company fails to pay a dividend in any year, it must
+make it up in a later year before paying any dividends to ordinary shareholders. If the directors fail to
+declare a dividend at the normal date for dividend action, the dividend is said to have been “passed.”
+Any passed dividend on cumulative preference shares constitutes a dividend in arrears. Because no
+liability exists until the board of directors declares a dividend, a corporation does not record a dividend
+in arrears as a liability but discloses it in a note to the financial statements. A corporation seldom
+issues non-cumulative preference shares because a passed dividend is lost forever to the preference
+shareholder. As a result, this type of share issue would be less marketable.
+Participating Preference Shares
+Holders of participating preference shares share ratably with the ordinary shareholders in any
+profit distributions beyond the prescribed rate. That is, 5 percent preference shares, if fully
+participating, will receive not only a 5 percent return, but also dividends at the same rates as those paid
+to ordinary shareholders if paying amounts in excess of 5 percent of par or stated value to ordinary
+shareholders. Note that some participating preference shares are only partially participating.
+Convertible Preference Shares
+Convertible preference shares give the preference shareholders the option to exchange preference
+shares for ordinary shares at a predetermined ratio. The convertible preference shareholder not only
+
+--- Page 1195 ---
+enjoys a preference claim on dividends but also has the option to convert to an ordinary shareholder
+with unlimited participation in earnings.
+Callable Preference Shares
+Callable preference shares permit the company at its option to call or redeem the outstanding
+preference shares at specified future dates and at stipulated prices. Many preference issues are callable.
+The company usually sets the call or redemption price slightly above the original issuance price and
+commonly states it in terms related to the par value. The callable feature permits the company to use
+the capital obtained through the issuance of such shares until the need has passed or it is no longer
+advantageous.
+The existence of a call price or prices tends to set a ceiling on the market price of the preference shares
+unless they are convertible into ordinary shares. When a company redeems preference shares, it must
+pay any dividends in arrears.
+Redeemable Preference Shares
+Recently, more and more issuances of preference shares have features that make the securities more
+like debt (legal obligation to pay) than an equity instrument. For example, redeemable preference
+shares have a mandatory redemption period or a redemption feature that the issuer cannot control.
+Previously, public companies were not permitted to report these debt-like preference share issues in
+equity, but they were not required to report them as a liability either. There were concerns about
+classification of these debt-like securities, which may have been reported as equity or in the
+“mezzanine” section of statements of financial position between equity and debt. There also was
+diversity in practice as to how dividends on these securities were reported. IFRS requires debt-like
+securities, like redeemable preference shares, to be classified as liabilities and to be measured and
+accounted similarly to liabilities. [3]
+Accounting for and Reporting of Preference Shares
+The accounting for preference shares at issuance is similar to that for ordinary shares. A company
+allocates proceeds between the par value of the preference shares and share premium. To illustrate,
+assume that Bishop plc issues 10,000 shares of £10 par value preference shares for £12 cash per share.
+Bishop records the issuance as follows.
+Cash
+120,000
+Share Capital—Preference
+100,000
+Share Premium—Preference
+20,000
+Thus, Bishop maintains separate accounts for these different classes of shares.
+Companies consider convertible preference shares as a part of equity. In addition, when exercising
+convertible preference shares, there is no theoretical justification for recognition of a gain or loss. A
+company recognizes no gain or loss when dealing with shareholders in their capacity as business
+owners. Instead, the company employs the book value method: debit Share Capital—Preference,
+along with any related Share Premium—Preference; credit Share Capital—Ordinary and Share Premium
+—Ordinary (if an excess exists).
+Preference shares generally have no maturity date. Therefore, no legal obligation exists to pay the
+preference shareholder. As a result, companies classify preference shares as part of equity. Companies
+generally report preference shares at par value as the first item in the equity section. They report any
+excess over par value as part of share premium. They also consider dividends on preference shares as a
+distribution of income and not an expense. Companies must disclose the pertinent rights of the
+preference shares outstanding. [4]
+
+--- Page 1196 ---
+Reacquisition of Shares
+LEARNING OBJECTIVE 2
+Explain the accounting and reporting for treasury shares.
+Companies often buy back their own shares. In fact, as indicated in Illustration 15.4, share buybacks
+for companies in the FTSE 100 almost exceed share issuances in recent years and exceed dividends as a
+form of distribution to shareholders. For example, oil company BP (GBR) purchased $90 million
+worth of shares in 2018, and rival Royal Dutch Shell (NLD/GBR) announced a $25 billion share
+buyback scheme that would run until 2020.
+ILLUSTRATION 15.4 Share Issuances/Buybacks 2004–2018
+Companies purchase their outstanding shares for several reasons:
+1. To provide tax-efficient distributions of excess cash to shareholders. Tax rates on sales
+of shares to the company by the shareholders are often much lower than the ordinary tax rate for
+many investors.
+2. To increase earnings per share and return on equity. Reducing both shares outstanding
+and equity often enhances certain performance ratios. For example, Siemens (DEU) announced
+its €4 billion buyback as part of its efforts to improve profitability. However, strategies to hype
+performance measures might increase performance in the short run, but these tactics add no real
+long-term value.
+3. To provide shares for employee compensation contracts or to meet potential merger
+needs. Honeywell Inc. (USA) reported that it would use part of its purchase of one million
+ordinary shares for employee share option contracts. Other companies acquire shares to have
+them available for business acquisitions.
+4. To thwart takeover attempts or to reduce the number of shareholders. By reducing the
+number of shares held by the public, existing owners and managements bar “outsiders” from
+gaining control or significant influence.
+5. To make a market in the shares. As one company executive noted, “Our company is trying to
+establish a floor for its shares.” Purchasing shares in the marketplace creates a demand. This may
+stabilize the share price or, in fact, increase it. For example, HTC (TWN) indicated its recent
+treasury share transaction was one of the options for boosting its sagging share price.
+
+--- Page 1197 ---
+Some publicly held corporations have chosen to “go private,” that is, to eliminate public (outside)
+ownership entirely by purchasing all of their outstanding shares. Companies often accomplish such a
+procedure through a leveraged buyout (LBO), in which the company borrows money to finance the
+share repurchases.
+After reacquiring shares, a company may either retire them or hold them in the treasury for reissue. If
+not retired, such shares are referred to as treasury shares. Technically, treasury shares are a
+corporation’s own shares, reacquired after having been issued and fully paid.
+Treasury shares are not an asset. When a company purchases treasury shares, a reduction occurs
+in both assets and equity. It is inappropriate to imply that a corporation can own a part of itself. A
+corporation may sell treasury shares to obtain funds, but that does not make treasury shares a
+statement of financial position asset (see Underlying Concepts). When a corporation buys back
+some of its own outstanding shares, it has not acquired an asset; the buyback reduces net assets.
+Underlying Concepts
+As we indicated in Chapter 2, an asset should have probable future economic benefits. Treasury
+shares simply reduce ordinary shares outstanding.
+The possession of treasury shares does not give the corporation the right to vote, to exercise
+preemptive rights as a shareholder, to receive cash dividends, or to receive assets upon corporate
+liquidation. Treasury shares are essentially the same as unissued ordinary shares. No one
+advocates classifying unissued ordinary shares as an asset in the statement of financial position.3
+Purchase of Treasury Shares
+Companies use two general methods of handling treasury shares in the accounts: the cost method and
+the par value method. Both methods are generally acceptable.
+The cost method results in debiting the Treasury Shares account for the reacquisition cost and in
+reporting this account as a deduction from equity on the statement of financial position.
+The par (stated) value method records all transactions in treasury shares at their par value and
+reports the treasury shares as a deduction from share capital only.
+No matter which method a company uses, most jurisdictions consider the cost of the treasury shares
+acquired as a restriction on retained earnings.
+Because just about all companies use the cost method to account for treasury shares, we illustrate its
+use here. This method derives its name from the fact that a company maintains the Treasury Shares
+account at the cost of the shares purchased.4 Under the cost method, the company debits the Treasury
+Shares account for the cost of the shares acquired. Upon reissuance of the shares, it credits the account
+for this same cost. The price received for the shares when issued originally does not affect the entries
+to record the acquisition and reissuance of the treasury shares.
+To illustrate, assume that Pacific Company issued 100,000 shares of $1 par value ordinary shares at a
+price of $10 per share. In addition, it has retained earnings of $300,000. Illustration 15.5 shows the
+equity section on December 31, 2021, before purchase of treasury shares.
+
+--- Page 1198 ---
+Equity
+Share capital—ordinary, $1 par, 100,000 shares issued and outstanding
+$ 100,000
+Share premium—ordinary
+900,000
+Retained earnings
+300,000
+Total equity
+$1,300,000
+ILLUSTRATION 15.5 Equity with No Treasury Shares
+On January 20, 2022, Pacific acquires 10,000 of its shares at $11 per share. Pacific records the
+reacquisition as follows.
+January 20, 2022
+Treasury Shares 110,000
+Cash
+110,000
+Note that Pacific debits Treasury Shares for the cost of the shares purchased. The original account,
+Share Capital—Ordinary, is not affected because the number of issued shares does not change. The
+same is true for the Share Premium—Ordinary account. Pacific then deducts treasury shares to
+determine total equity.
+Illustration 15.6 shows the equity section for Pacific after purchase of the treasury shares.
+Equity
+Share capital—ordinary, $1 par value, 100,000 shares issued and 90,000 outstanding $ 100,000
+Share premium—ordinary
+900,000
+Retained earnings
+300,000
+Less: Cost of treasury shares (10,000 shares)
+110,000
+Total equity
+$1,190,000
+ILLUSTRATION 15.6 Equity with Treasury Shares
+Pacific subtracts the cost of the treasury shares from the total of share capital—ordinary, share
+premium—ordinary, and retained earnings. It therefore reduces equity. Many jurisdictions require a
+corporation to restrict retained earnings for the cost of treasury shares purchased. The restriction
+keeps intact the corporation’s capital. When the corporation sells the treasury shares, it lifts the
+restriction.
+Pacific discloses both the number of shares issued (100,000) and the number of shares in the treasury
+(10,000). The difference is the number of shares outstanding (90,000). The term outstanding
+shares means the number of issued shares that shareholders own.
+Sale of Treasury Shares
+Companies usually reissue or retire treasury shares. When selling treasury shares, the accounting for
+the sale depends on the price. If the selling price of the treasury shares equals its cost, the company
+records the sale of the shares by debiting Cash and crediting Treasury Shares. In cases where the
+selling price of the treasury shares is not equal to cost, then accounting for treasury shares sold above
+cost differs from the accounting for treasury shares sold below cost. However, the sale of treasury
+shares either above or below cost increases both total assets and equity.
+Sale of Treasury Shares Above Cost
+When the selling price of the treasury shares exceeds its cost, a company credits the difference to Share
+Premium—Treasury. To illustrate, assume that Pacific acquired 10,000 treasury shares at $11 per
+share. It now sells 1,000 shares at $15 per share on March 10. Pacific records the entry as follows.
+
+--- Page 1199 ---
+March 10, 2022
+March 10, 2022
+Cash (1,000 × $15)
+15,000
+Treasury Shares (1,000 × $11)
+11,000
+Share Premium—Treasury
+4,000
+There are two reasons why Pacific does not credit $4,000 to Gain on Sale of Treasury Shares: (1) gains
+on sales occur when selling assets; treasury shares are not an asset, and (2) a gain or loss should not
+be recognized from share transactions with its own shareholders. Thus, Pacific should not include
+share premium arising from the sale of treasury shares in the measurement of net income. Instead, it
+lists share premium from treasury shares separately on the statement of financial position.
+Sale of Treasury Shares Below Cost
+When a corporation sells treasury shares below its cost, it usually debits the excess of the cost over
+selling price to Share Premium—Treasury. Thus, if Pacific sells an additional 1,000 treasury shares on
+March 21 at $8 per share, it records the sale as follows.
+March 21, 2022
+Cash (1,000 × $8)
+8,000
+Share Premium—Treasury
+3,000
+Treasury Shares (1,000 × $11)
+11,000
+We can make several observations based on the two sale entries (sale above cost and sale below cost):
+(1) Pacific credits Treasury Shares at cost in each entry; (2) Pacific uses Share Premium—Treasury for
+the difference between the cost and the resale price of the shares, and (3) neither entry affects Share
+Capital—Ordinary.
+After eliminating the credit balance in Share Premium—Treasury, the corporation debits any additional
+excess of cost over selling price to Retained Earnings. To illustrate, assume that Pacific sells an
+additional 1,000 shares at $8 per share on April 10. Illustration 15.7 shows the balance in the Share
+Premium—Treasury account (before the April 10 purchase).
+Share Premium—Treasury
+Mar. 21 3,000 Mar. 10 4,000
+Balance 1,000
+ILLUSTRATION 15.7 Treasury Share Transactions in Share Premium—Treasury
+Account
+In this case, Pacific debits $1,000 of the excess to Share Premium—Treasury. It debits the remainder to
+Retained Earnings. The entry is as follows.
+April 10, 2022
+Cash (1,000 × $8)
+8,000
+Share Premium—Treasury
+1,000
+Retained Earnings
+2,000
+Treasury Shares (1,000 × $11)
+11,000
+Retiring Treasury Shares
+The board of directors may approve the retirement of treasury shares. This decision results in
+cancellation of the treasury shares and a reduction in the number of issued shares. Retired treasury
+shares have the status of authorized and unissued shares. The accounting effects are similar to the sale
+of treasury shares except that corporations debit applicable equity accounts related to the
+
+--- Page 1200 ---
+retired shares instead of cash. For example, if a corporation originally sells the shares at par, it debits
+Share Capital—Ordinary for the par value per share. If it originally sells the shares at $3 above par
+value, it also debits Share Premium—Ordinary for $3 per share at retirement.
+What Do the Numbers Mean?
+Signals to Buy?
+As indicated in Illustration 15.4, companies have steadily increased repurchases of their own
+shares in recent years. And why not? Few company announcements are more beloved by investors
+than those that indicate a share buyback is on the horizon. Following a lull in buybacks during the
+financial crisis of 2008, companies have increased their buyback programs. For example,
+buybacks by the companies in the FTSE 100 increased steadily before and after the financial
+crisis, with major companies such as BP (GBR), Royal Dutch Shell (NLD/GBR), and Burberry
+(GBR), as well as insurers Allianz (CHE) and Zurich (CHE), making some of the bigger
+repurchases.
+Increases in buybacks are music to investors’ ears because it indicates that executives at some of
+the companies have confidence that better times are ahead. The buybacks also show that cash
+reserves are healthy enough for companies to believe they not only have enough cash to cover
+their day-to-day functions but also enough to spare to allow for generous buybacks. In fact,
+market experts often look to share buybacks as a buy signal. That strategy is not surprising if you
+look at the performance of the companies that did buybacks. For example, in one study, buyback
+companies outperformed similar companies without buybacks by an average of 23 percent. In a
+recent three-year period, companies followed by BuybackLetter.com (USA) were up 16.4
+percent, while the broader market index was up just 7.1 percent. Why the premium? The
+conventional wisdom is that companies that buy back shares believe their shares are undervalued.
+Thus, analysts view the buyback announcement as an important piece of inside information about
+future company prospects.
+Sources: Data from G. Howes, “FTSE 100 Share Buy-Backs on the Increase: Is This a Good Sign?” Director of Finance Online
+(February 5, 2013); T. Delaney and J. Sohn, “More Buybacks,” Naples Daily News (June 28, 2015); and C. Cornish, “UK Share
+Buybacks Accelerate as Market Lags Behind,” Financial Times (March 16, 2018).
+Dividend Policy
+LEARNING OBJECTIVE 3
+Explain the accounting and reporting issues related to dividends.
+Determining the proper amount of dividends to pay is a difficult financial management decision.
+Companies that are paying dividends are extremely reluctant to reduce or eliminate their dividend.
+They fear that the securities market might view this action negatively. As a consequence, companies
+that have been paying cash dividends will make every effort to continue to do so. In addition, the type
+of shareholder the company has (taxable or non-taxable, retail investor or institutional investor) plays
+a large role in determining dividend policy.5
+Very few companies pay dividends in amounts equal to their legally available retained
+earnings. The major reasons are as follows.
+1. To maintain agreements (bond covenants) with specific creditors to retain all or a portion of the
+earnings in the form of assets, or to build up additional protection against possible loss.
+2. To meet corporation requirements that earnings equivalent to the cost of treasury shares
+purchased be restricted against dividend declarations.
+
+--- Page 1201 ---
+3. To retain assets that would otherwise be paid out as dividends, in order to finance growth or
+expansion. This is sometimes called internal financing, reinvesting earnings, or “plowing” the
+profits back into the business.
+4. To smooth out dividend payments from year to year by accumulating earnings in good years, and
+using such accumulated earnings as a basis for dividends in bad years.
+5. To build up a cushion or buffer against possible losses or errors in the calculation of profits.
+The reasons above are self-explanatory except for the second. The laws of some jurisdictions require
+that the corporation restrict its contributed capital from distribution to shareholders, to protect against
+loss for creditors.6 The applicable law determines the legality of a dividend.
+Financial Condition and Dividend Distributions
+Effective management of a company requires attention to more than the legality of dividend
+distributions. Management must also consider economic conditions, and most importantly, liquidity.
+Assume an extreme situation as shown in Illustration 15.8.
+Statement of Financial Position
+Plant assets €500,000 Share capital
+€400,000
+€500,000 Retained earnings
+100,000
+€500,000
+ILLUSTRATION 15.8 Statement of Financial Position, Showing a Lack of Liquidity
+The depicted company has a retained earnings credit balance. Unless restricted, it can declare a
+dividend of €100,000. But because all its assets are plant assets used in operations, payment of a cash
+dividend of €100,000 would require the sale of plant assets or borrowing.
+Even if a statement of financial position shows current assets, as in Illustration 15.9, the question
+remains as to whether the company needs those cash assets for other purposes.
+Statement of Financial Position
+Plant assets €460,000 Share capital
+€400,000
+Cash
+100,000 Retained earnings
+100,000 €500,000
+€560,000 Current liabilities
+60,000
+€560,000
+ILLUSTRATION 15.9 Statement of Financial Position, Showing Cash but Minimal
+Working Capital
+The existence of current liabilities strongly implies that the company needs some of the cash to meet
+current debts as they mature. In addition, day-to-day cash requirements for payrolls and other
+expenditures not included in current liabilities also require cash.
+Thus, before declaring a dividend, management must consider availability of funds to pay the
+dividend. A company should not pay a dividend unless both the present and future financial position
+warrant the distribution.
+Types of Dividends
+Companies generally base dividend distributions either on accumulated profits (that is, retained
+earnings) or on some other equity item such as share premium. Dividends are of the following types.
+1. Cash dividends.
+2. Property dividends.
+
+--- Page 1202 ---
+3. Liquidating dividends.
+4. Share dividends.
+Although commonly paid in cash, companies occasionally pay dividends in shares or some other asset.
+All dividends, except for share dividends, reduce the total equity in the corporation. When
+declaring a share dividend, the corporation does not pay out assets or incur a liability. It issues
+additional shares to each shareholder and nothing more.
+The natural expectation of any shareholder who receives a dividend is that the corporation has
+operated successfully. As a result, he or she is receiving a share of its profits. A company should
+disclose a liquidating dividend—that is, a dividend not based on retained earnings—to the
+shareholders so that they will not misunderstand its source.
+Cash Dividends
+The board of directors votes on the declaration of cash dividends. Upon approval of the resolution,
+the board declares a dividend. Before paying it, however, the company must prepare a current list of
+shareholders. For this reason, there is usually a time lag between declaration and payment. For
+example, the board of directors might approve a resolution at the January 10 (date of declaration)
+meeting and declare it payable February 5 (date of payment) to all shareholders of record January 25
+(date of record).7 In this example, the period from January 10 to January 25 gives time for the
+company to complete and register any transfers in process. The time from January 25 to February 5
+provides an opportunity for the transfer agent or accounting department, depending on who does this
+work, to prepare a list of shareholders as of January 25 and to prepare and mail dividend checks.
+A declared cash dividend is a liability. Because payment is generally required very soon, it
+is usually a current liability. Companies use the following entries to record the declaration and
+payment of an ordinary dividend payable in cash. For example, Roadway Freight Corp. on June 10
+declared a cash dividend of 50 cents a share on 1.8 million shares payable July 16 to all shareholders of
+record June 24. The entries for this dividend are shown in Illustration 15.10.
+ILLUSTRATION 15.10 Cash Dividend Entries
+To set up a ledger account that shows the amount of dividends declared during the year, Roadway
+Freight might debit Cash Dividends Declared instead of Retained Earnings at the time of declaration. It
+then closes this account to Retained Earnings at year-end.
+A company may declare dividends either as a certain percentage of par, such as a 6 percent dividend on
+preference shares, or as an amount per share, such as 60 cents per share on no-par ordinary shares. In
+the first case, the rate multiplied by the par value of outstanding shares equals the total dividend. In
+the second, the dividend equals the amount per share multiplied by the number of shares outstanding.
+Companies do not declare or pay cash dividends on treasury shares because they are not
+outstanding.
+
+--- Page 1203 ---
+Dividend policies vary among corporations. Some companies take pride in a long, unbroken string of
+quarterly dividend payments. They would lower or pass the dividend only if forced to do so by a
+sustained decline in earnings or a critical shortage of cash.
+“Growth” companies, on the other hand, pay little or no cash dividends because their policy is to
+expand as rapidly as internal and external financing permit. For example, Ophir Energy plc (GBR)
+does not pay cash dividends to its ordinary shareholders so that the cash can be used in exploration and
+production. Investors in these growth companies hope that the price of their shares will appreciate in
+value. The investors will then realize a profit when they sell their shares. Many companies focus more
+on increasing share price, share repurchase programs, and corporate earnings than on dividend payout.
+
+--- Page 1204 ---
+What Do the Numbers Mean?
+Dividends Up, Dividends Down
+An investment strategy focusing on shares with the potential of increasing dividends has been a
+mainstay for many investors. Said one market watcher, “Investors too often overlook the
+importance of dividends, particularly the contribution to total return from reinvested dividends.…
+Dividends also can provide a good hedge against inflation in the form of a growing stream of
+income.” One study, the results of which are summarized in the following table, indicates the
+importance of dividends for investment returns.
+Average Annual Returns and 
+Volatility by Dividend Policy
+Returns
+Dividend growers and initiators
+9.52%
+Dividend payers
+8.74
+No change in dividend policy
+7.15
+Dividend non-payers
+1.61
+Dividend cutters and eliminators
+−0.31
+Equal-weighted S&P 500 Index
+7.03
+Sources: Ned Davis Research (December 2012); stocks within the S&P 500 Index.
+Companies that raised their dividends are classified as dividend growers and initiators, as opposed
+to other companies that are classified as dividend cutters and eliminators. The study also
+identified companies with no change in dividend policy. The table supports the advice to keep an
+eye on dividend growth. What the table tells us is that companies that grew or initiated a dividend
+have experienced the highest returns relative to other shares. That is, over a multiyear investment
+horizon, an investment of $100 would have grown to $4,169, while dividend non-payers only
+increased to $193. In addition, the higher performers offered lower volatility of returns in all
+market environments.
+More recent data on the dividends and investments returns continue to tell the same story. From
+1958 through 2018, a portfolio with the top 20 percent of S&P 500 companies ranked by dividend
+yield and weighted by market capitalization outperformed the overall S&P 500 by 2.13 percentage
+points annually, according to Greenrock Research (USA).
+Indeed, central banks’ low interest rate monetary policies are adding to the current continuing
+appeal of dividend securities. That’s because lower interest rates push bond yields lower, making
+shares more attractive to investors. While most investors buy dividend shares for the steady
+income stream, that is not the only benefit these investments offer, financial experts say. Indeed,
+research shows that dividend shares often outperform their non-dividend-paying counterparts
+over longer periods. That is partly because dividend payments account for a substantial portion of
+the securities market’s total return. Researcher Morningstar Inc. (USA) calculates that
+dividends were responsible for 19 percent of the S&P 500 index’s return over the past five years.
+Other research indicates much higher portions for longer periods, thanks to the compounding of
+reinvested dividends.
+Thus, companies that grow dividends are signaling confidence about future earnings and are most
+likely to perform well throughout market cycles—this makes them good candidates for long-term
+growth.
+Sources: Data from R. Evans, “Here Are the American and European Companies with Incredible Track Records of Raising
+Their Dividends,” The Telegraph (November 4, 2013); Hartford Funds, “The Power of Dividends: Past, Present, and Future,”
+Second Quarter 2014 White Paper (2014); and D. Weil, “Why Dividend Stocks Are Popular Again,” Wall Street Journal (March
+3, 2019).
+
+--- Page 1205 ---
+Property Dividends
+Dividends payable in assets of the corporation other than cash are called property dividends or
+dividends in kind. Property dividends may be merchandise, real estate, or investments, or whatever
+form the board of directors designates. Gold Bullion Development Corporation (CAN) has a long-
+standing practice of paying dividends in gold instead of cash. Because of the obvious difficulties of
+divisibility of units and delivery to shareholders, the usual property dividend is in the form of securities
+of other companies that the distributing corporation holds as an investment.
+When declaring a property dividend, the corporation should remeasure at fair value the property
+it will distribute, recognizing any gain or loss as the difference between the property’s fair value
+and carrying value at date of declaration. The corporation may then record the declared dividend as a
+debit to Retained Earnings (or Property Dividends Declared) and a credit to Property Dividends
+Payable, at an amount equal to the fair value of the distributed property. Upon distribution of the
+dividend, the corporation debits Property Dividends Payable and credits the account containing the
+distributed asset (restated at fair value). Illustration 15.11 presents a property dividend situation.
+Entries for Property Dividends
+Facts: Tsen Ltd. transferred to shareholders some of its investments in securities with a carrying
+value of HK$1,250,000 by declaring a property dividend on December 28, 2021, to be distributed on
+January 30, 2022, to shareholders of record on January 15, 2022.
+Question: If, at the date of declaration, the securities have a fair value of HK$2,000,000,
+what entries does Tsen make at the dates of declaration and distribution?
+Solution: Tsen makes the following entries.
+At date of declaration (December 28, 2021)
+Equity Investments
+750,000
+Unrealized Holding Gain or Loss—Income
+750,000
+Retained Earnings (Property Dividends Declared) 2,000,000
+Property Dividends Payable
+2,000,000
+ 
+At date of distribution (January 30, 2022)
+Property Dividends Payable
+2,000,000
+Equity Investments
+2,000,000
+ILLUSTRATION 15.11 Property Dividend Entries
+Liquidating Dividends
+Some corporations use amounts paid in by shareholders as a basis for dividends. Without proper
+disclosure of this fact, shareholders may erroneously believe the corporation has been operating at a
+profit. To avoid this type of deception, intentional or unintentional, a clear statement of the source of
+every dividend should accompany the dividend check.
+Dividends based on other than retained earnings are sometimes described as liquidating dividends.
+This term implies that such dividends are a return of the shareholder’s investment rather than of
+profits. In other words, any dividend not based on earnings reduces amounts paid in by
+
+--- Page 1206 ---
+shareholders, and to that extent, it is a liquidating dividend. Companies in the extractive
+industries may pay dividends equal to the total of accumulated income and depletion. The portion of
+these dividends in excess of accumulated income represents a return of part of the shareholder’s
+investment. Illustration 15.12 presents a liquidating dividend example.
+Entries for Liquidating Dividends
+Facts: McChesney Mines issued a “dividend” to its ordinary shareholders of £1,200,000. The cash
+dividend announcement noted that shareholders should consider £900,000 as income and the
+remainder a return of capital.
+Question: What are the entries for McChesney at declaration date and at the date of
+distribution?
+Solution: McChesney Mines records the dividend as follows.
+At date of declaration
+Retained Earnings
+900,000
+Share Premium—Ordinary
+300,000
+Dividends Payable
+1,200,000
+ 
+At date of payment
+Dividends Payable
+1,200,000
+Cash
+1,200,000
+ILLUSTRATION 15.12 Liquidating Dividend Entries
+In some cases, management simply decides to cease business and declares a liquidating dividend. In
+these cases, liquidation may take place over a number of years to ensure an orderly and fair sale of
+assets. For example, when Overseas National Airways (USA) dissolved, it agreed to pay a
+liquidating dividend to its shareholders over a period of years equivalent to $8.60 per share. Each
+liquidating dividend payment in such cases reduces the amount paid in by shareholders.
+Share Dividends and Share Splits
+Share Dividends
+Companies sometimes issue a share dividend. In this case, the company distributes no assets.
+Each shareholder maintains exactly the same proportionate interest in the corporation and the same
+total book value after the company issues the share dividend. Of course, the book value per share is
+lower because each shareholder holds more shares.
+A share dividend therefore is the issuance by a corporation of its own shares to its shareholders on a
+pro rata basis, without receiving any consideration. In recording a share dividend, some believe that the
+company should transfer the par value of the shares issued as a dividend from retained earnings to
+share capital.8
+To illustrate a share dividend, assume that Vine plc has outstanding 100,000 shares of £1 par value
+ordinary shares and retained earnings of £50,000. If Vine declares a 10 percent share dividend, it
+issues 10,000 additional shares to current shareholders. The fair value of the shares at the time of the
+share dividend is £8. Given this information, the entry is:
+At date of declaration
+
+--- Page 1207 ---
+At date of declaration
+Retained Earnings (Share Dividend Declared) 10,000
+Ordinary Share Dividend Distributable
+10,000
+Two important points should be noted about this entry. First, the par value, not the fair value, is used
+to record the share dividend. Second, the share dividend does not affect any asset or liability. The entry
+merely reflects a reclassification of equity. If Vine prepares a statement of financial position between
+the dates of declaration and distribution, it should show the ordinary share dividend distributable in
+the equity section as an addition to share capital—ordinary (whereas it shows cash or property
+dividends payable as current liabilities).
+When issuing the shares, the entry is:
+At date of distribution
+Ordinary Share Dividend Distributable 10,000
+Share Capital—Ordinary
+10,000
+No matter what the fair value is at the time of the share dividend, each shareholder retains the same
+proportionate interest in the corporation.
+Some applicable laws and exchange rules specifically prohibit the issuance of share dividends on
+treasury shares. In those jurisdictions that permit treasury shares to participate in the distribution
+accompanying a share dividend or share split, the planned use of the treasury shares influences
+corporate practice. For example, if a corporation issues treasury shares in connection with employee
+share options, the treasury shares may participate in the distribution because the corporation usually
+adjusts the number of shares under option for any share dividends or splits. But no useful purpose is
+served by issuing additional shares to the treasury shares without a specific purpose, since they are
+essentially equivalent to authorized but unissued shares.
+To continue with our example of the effect of the share dividend, note in Illustration 15.13 that the
+share dividend does not change the total equity. Also note that it does not change the proportion of the
+total shares outstanding held by each shareholder.
+
+--- Page 1208 ---
+Before dividend
+Share capital—ordinary, 100,000 shares of £1 par
+£100,000
+Retained earnings
+50,000
+Total equity
+£150,000
+Shareholders’ interests:
+A. 40,000 shares, 40% interest, book value
+£60,000
+B. 50,000 shares, 50% interest, book value
+75,000
+C. 10,000 shares, 10% interest, book value
+15,000
+£150,000
+After declaration but before distribution of 10% share dividend
+Share capital—ordinary, 100,000 shares at £1 par
+£100,000
+Ordinary share dividend distributable, 10,000 shares at £1 par
+10,000
+Retained earnings (£50,000 – £10,000)
+40,000
+Total equity
+£150,000
+After declaration and distribution of 10% share dividend
+Share capital—ordinary, 110,000 shares at £1 par
+£110,000
+Retained earnings (£50,000 – £10,000)
+40,000
+Total equity
+£150,000
+Shareholders’ interest:
+A. 44,000 shares, 40% interest, book value
+£60,000
+B. 55,000 shares, 50% interest, book value
+75,000
+C. 11,000 shares, 10% interest, book value
+15,000
+£150,000
+ILLUSTRATION 15.13 Effects of Share Dividends
+Share Splits
+If a company has undistributed earnings over several years and accumulates a sizable balance in
+retained earnings, the market value of its outstanding shares likely increases. Shares issued at prices
+less than £50 a share can easily attain a market price in excess of £200 a share. The higher the market
+price of a share, however, the less readily some investors can purchase it.
+The managements of many corporations believe that better public relations depend on wider
+ownership of the company shares. They therefore target a market price sufficiently low to be within
+range of the majority of potential investors. To reduce the market price of each share, they use the
+common device of a share split. For example, after its share price increased significantly, Arcam AB
+(SWE) announced a split of its shares 4-for-1. The split should reduce the share price, leading to wider
+distribution of shares at lower trading prices.
+From an accounting standpoint, Arcam records no entry for a share split. However, it enters a
+memorandum note to indicate the changed par value of the shares and the increased number of shares.
+Illustration 15.14 shows the lack of change in equity for a 2-for-1 share split on 100,000 shares of €1
+par value, with the par being halved upon issuance of the additional shares.
+
+--- Page 1209 ---
+Equity Before 2-for-1 Split
+Equity After 2-for-1 Split
+Share capital—ordinary,
+Share capital—ordinary,
+100,000 shares at €1 par €100,000
+200,000 shares at €.50 par €100,000
+Retained earnings
+50,000 Retained earnings
+50,000
+€150,000
+€150,000
+ILLUSTRATION 15.14 Effects of a Share Split
+Share Split and Share Dividend Differentiated
+From a legal standpoint, a share split differs from a share dividend. How? A share split increases the
+number of shares outstanding and decreases the par or stated value per share. A share dividend,
+although it increases the number of shares outstanding, does not decrease the par value;
+thus, it increases the total par value of outstanding shares.
+The reasons for issuing a share dividend are numerous and varied. Share dividends can be primarily a
+publicity gesture because some consider share dividends as dividends. Another reason is that
+the company may simply wish to retain profits in the business by capitalizing a part of retained
+earnings. In such a situation, it makes a transfer on declaration of a share dividend from earned capital
+to contributed capital.
+A company may also use a share dividend, like a share split, to increase the marketability of the shares,
+although marketability is often a secondary consideration. That is, a share dividend has the same effect
+on market price as a share split. However, as discussed earlier, a share dividend does not alter the par
+value per share.
+Illustration 15.15 summarizes and compares the effects in the statement of financial position and
+related items of various types of dividends and share splits.
+Effect on:
+Declaration and
+Distribution of
+Declaration of Cash
+Dividend
+Payment of Cash
+Dividend
+Share
+Dividend
+Share
+Split
+Retained earnings
+Decrease
+–0–
+Decreasea
+–0–
+Share capital
+–0–
+–0–
+Increasea
+–0–
+Share premium
+–0–
+–0–
+–0–
+–0–
+Total equity
+Decrease
+–0–
+–0–
+–0–
+Working capital
+Decrease
+–0–
+–0–
+–0–
+Total assets
+–0–
+Decrease
+–0–
+–0–
+Number of shares
+outstanding
+–0–
+–0–
+Increase
+Increase
+aPar or stated value of shares.
+ILLUSTRATION 15.15 Effects of Dividends and Share Splits on Financial Statement
+Elements
+Presentation and Analysis of Equity
+LEARNING OBJECTIVE 4
+Indicate how to present and analyze equity.
+
+--- Page 1210 ---
+Presentation of Equity
+Statement of Financial Position
+Illustration 15.16 shows a comprehensive equity section from the statement of financial position of
+Frost SpA that includes the equity items we discussed in this chapter.9
+Frost should disclose the pertinent rights and privileges of the various securities outstanding. For
+example, companies must disclose all of the following: dividend and liquidation preferences,
+participation rights, call prices and dates, conversion or exercise prices and pertinent dates, sinking
+fund requirements, unusual voting rights, and significant terms of contracts to issue additional shares.
+Liquidation preferences should be disclosed in the equity section of the statement of financial position,
+rather than in the notes to the financial statements, to emphasize the possible effect of this restriction
+on future cash flows.
+Frost SpA
+Equity
+December 31, 2022
+Share capital—preference, €100 par value, 7% cumulative, 100,000 shares
+authorized, 30,000 shares issued and outstanding
+€3,000,000
+Share capital—ordinary, no par, stated value €10 per share, 500,000 shares
+authorized, 400,000 shares issued
+4,000,000
+Ordinary share dividend distributable
+200,000 € 7,200,000
+Share premium—preference
+150,000
+Share premium—ordinary
+840,000
+990,000
+Retained earnings
+4,360,000
+Treasury shares (2,000 ordinary shares)
+(190,000)
+Accumulated other comprehensive loss
+(360,000)
+Total equity
+€12,000,000
+ILLUSTRATION 15.16 Comprehensive Equity Presentation
+Disclosure of Restrictions on Retained Earnings
+Many companies restrict retained earnings or dividends, without any formal journal entries. Such
+restrictions are best disclosed by note. Parenthetical notations are sometimes used, but restrictions
+imposed by bond indentures and loan agreements commonly require an extended explanation. Notes
+provide a medium for more complete explanations and free the financial statements from abbreviated
+notations. The note disclosure should reveal the source of the restriction, pertinent provisions, and the
+amount of retained earnings subject to restriction or the amount not restricted.
+Restrictions may be based on the retention of a certain retained earnings balance, the ability to
+maintain certain working capital requirements, additional borrowing, and other considerations. The
+example from the annual report of Samsung (KOR) in Illustration 15.17 shows a note disclosing
+potential restrictions on retained earnings and dividends.
+
+--- Page 1211 ---
+Samsung
+21. RETAINED EARNINGS
+Retained earnings as of December 31 consist of the following:
+(in millions of Korean won)
+Current Year
+Prior Year
+Appropriated
+Legal reserve:
+Earned surplus reserve1
+₩ 450,789
+₩ 450,789
+Discretionary reserve:
+Reserve for improvement of financial structure
+204,815
+204,815
+Reserve for business rationalization
+9,512,101
+8,512,101
+Reserve for overseas market development
+510,750
+510,750
+Reserve for overseas investment losses
+164,962
+164,982
+Reserve for research and human resource development
+26,936,458
+22,936,458
+Reserve for export losses
+167,749
+167,749
+Reserve for loss on disposal of treasury stock
+3,100,000
+2,550,000
+Reserve for capital expenditure
+8,816,905
+8,216,439
+49,864,529
+43,714,083
+Unappropriated
+5,555,022
+7,351,091
+Total
+₩55,419,551
+₩51,065,174
+1The Commercial Code of the Republic of Korea requires the Company to appropriate as a legal reserve, an amount equal to a minimum
+of 10% of annual cash dividends declared, until the reserve equals 50% of its issued capital stock. The reserve is not available for the
+payment of cash dividends, but may be transferred to capital stock through a resolution of the Board of Directors or used to reduce
+accumulated deficit, if any, with the ratification of the shareholders.
+ILLUSTRATION 15.17 Disclosure of Restrictions on Retained Earnings and Dividends
+Presentation of Statement of Changes in Equity
+Companies are also required to present a statement of changes in equity. The statement of changes
+in equity includes the following.
+1. Total comprehensive income for the period, showing separately the total amounts attributable to
+owners of the parent and to non-controlling interests.
+2. For each component of equity, the effects of retrospective application or retrospective restatement.
+3. For each component of equity, a reconciliation between the carrying amount at the beginning and
+the end of the period, separately disclosing changes resulting from:
+a. Profit or loss.
+b. Each item of other comprehensive income.
+c. Transactions with owners in their capacity as owners, showing separately contributions by
+and distributions to owners and changes in ownership interests in subsidiaries that do not
+result in a loss of control.
+A statement of changes in equity for BASF Group (DEU) is presented in Illustration 15.18.
+
+--- Page 1212 ---
+In addition, BASF is required to present, either in the statement of changes in equity or in the notes,
+the amount of dividends recognized as distributions to owners during the period and the related
+amount per share. [5]
+BASF Group
+Statement of Equity
+(in millions of euros)
+Number of
+shares
+outstanding
+Subscribed
+capital
+Capital
+reserves
+Retained
+earnings
+Other
+comprehensive
+income
+Equity
+attributable
+to
+shareholders
+of BASF
+Noncontrollin
+interests
+As of
+December 31,
+2017
+918,478,694
+1,176
+3,117
+34,826
+(5,282)
+33,837
+91
+IFRS 9
+transition
+effect
+—
+—
+—
+21
+(49)
+(28)
+(2
+As of
+January 1,
+2018
+918,478,694
+1,176
+3,117
+34,847
+(5,331)
+33,809
+91
+Effects of
+acquisitions
+achieved in
+stages
+—
+—
+—
+—
+—
+—
+—
+Dividend
+paid
+—
+—
+—
+(2,847)
+—
+(2,847)
+(174
+Income after
+taxes
+—
+—
+—
+4,707
+—
+4,707
+27
+Changes to
+income and
+expense
+recognized
+directly in
+equity
+—
+—
+—
+—
+(608)
+(608)
+2
+Changes in
+scope of
+consolidation
+and other
+changes
+—
+—
+1
+(8)
+—
+(7)
+1
+As of
+December
+31, 2018
+918,478,694
+1,176
+3,118
+36,699
+(5,939)
+35,054
+1,05
+ILLUSTRATION 15.18 Statement of Changes in Equity
+
+--- Page 1213 ---
+Analysis
+Analysts use equity ratios to evaluate a company’s profitability and long-term solvency. We discuss and
+illustrate the following three ratios below.
+1. Return on ordinary share equity.
+2. Payout ratio.
+3. Book value per share.
+Return on Ordinary Share Equity
+The return on ordinary share equity (or return on equity) measures profitability from the ordinary
+shareholders’ viewpoint. This ratio shows how many dollars of net income the company earned for
+each dollar invested by the owners. Return on equity (ROE) also helps investors judge the worthiness
+of a share when the overall market is not doing well.
+Return on equity equals net income less preference dividends, divided by average ordinary
+shareholders’ equity. For example, assume that Gerber’s Inc. had net income of $360,000, that it
+declared and paid preference dividends of $54,000, and average ordinary shareholders’ equity of
+$2,550,000. Illustration 15.19 shows how to compute Gerber’s ratio.
+Return on Ordinary Share Equity =
+=
+= 12%
+ILLUSTRATION 15.19 Computation of Return on Ordinary Share Equity
+As shown in Illustration 15.19, when preference shares are present, income available to ordinary
+shareholders equals net income less preference dividends.
+A company can improve its return on ordinary share equity through the prudent use of debt or
+preference share financing. Trading on the equity describes the practice of using borrowed money
+or issuing preference shares in hopes of obtaining a higher rate of return on the money used. Ordinary
+shareholders win if return on the assets is higher than the cost of financing these assets. When this
+happens, the return on ordinary share equity will exceed the return on total assets. In short, the
+company is “trading on the equity at a gain.” In this situation, the money obtained from bondholders or
+preference shareholders earns enough to pay the interest or preference dividends and leaves a profit
+for the ordinary shareholders. On the other hand, if the cost of the financing is higher than the rate
+earned on the assets, the company is trading on equity at a loss and shareholders lose.
+Payout Ratio
+Another ratio of interest to investors, the payout ratio, is the ratio of cash dividends to net income. If
+preference shares are outstanding, this ratio equals cash dividends paid to ordinary shareholders,
+divided by net income available to ordinary shareholders. For example, assume that Troy SA has cash
+dividends of €100,000 and net income of €500,000, and no preference shares outstanding.
+Illustration 15.20 shows the payout ratio computation.
+Net Income  − Preference Dividends
+Average Ordinary Shareholders’ Equity
+$360,000  − $54,000
+$2,550,000
+
+--- Page 1214 ---
+Payout Ratio =
+=
+= 20%
+ILLUSTRATION 15.20 Computation of Payout Ratio
+Recently, the payout ratio has plummeted. In 2000, more than half of earnings were converted to
+dividends. In 2018, just 43 percent of the earnings of global public companies was distributed via
+dividends.10
+Book Value per Share
+Another basis for evaluating net worth is found in the book value or equity value per share. Book
+value per share is the amount each share would receive if the company were liquidated on the basis
+of amounts reported on the statement of financial position. However, the figure loses much of
+its relevance if the valuations on the statement of financial position fail to approximate fair value of
+the assets. Book value per share equals ordinary shareholders’ equity divided by outstanding ordinary
+shares. Assume that Chen Ltd.’s ordinary shareholders’ equity is HK$1,000,000 and that it has
+100,000 shares of ordinary shares outstanding. Illustration 15.21 shows its book value per share
+computation.
+Book Value per Share =
+=
+  =  HK$10 per share
+ILLUSTRATION 15.21 Computation of Book Value per Share
+Cash Dividends
+Net Income  − Preference Dividends
+€100,000
+€500,000
+Ordinary Shareholders’ Equity
+Outstanding Shares
+HK$1,000,000
+100,000
+
+--- Page 1215 ---
+APPENDIX 15A
+Dividend Preferences and Book Value per Share
+Dividend Preferences
+LEARNING OBJECTIVE *5
+Discuss the different types of preference share dividends and their effect on book value per share.
+Illustrations 15A.1 to 15A.4 indicate the effects of various dividend preferences on dividend
+distributions to ordinary and preference shareholders. Assume that in 2022, Mason Company is to
+distribute €50,000 as cash dividends, its outstanding ordinary shares have a par value of €400,000,
+and its 6 percent preference shares have a par value of €100,000. Mason would distribute dividends to
+each class, employing the assumptions given, as follows.
+1. If the preference shares are non-cumulative and non-participating:
+Preference Ordinary
+Total
+6% of €100,000
+€6,000
+€ 6,000
+The remainder to ordinary
+       €44,000
+44,000
+Totals
+€6,000 €44,000 €50,000
+ILLUSTRATION 15A.1 Dividend Distribution, Non-Cumulative and Non-Participating
+Preference
+2. If the preference shares are cumulative and non-participating, and Mason Company did not pay
+dividends on the preference shares in the preceding two years:
+Preference Ordinary
+Total
+Dividends in arrears, 6% of €100,000 for 2 years
+€12,000
+€12,000
+Current year’s dividend, 6% of €100,000
+6,000
+6,000
+The remainder to ordinary
+          €32,000
+32,000
+Totals
+€18,000 €32,000 €50,000
+ILLUSTRATION 15A.2 Dividend Distribution, Cumulative and Non-Participating
+Preference Shares, with Dividends in Arrears
+3. If the preference shares are non-cumulative and are fully participating:11
+
+--- Page 1216 ---
+Preference Ordinary
+Total
+Current year’s dividend, 6%
+€ 6,000 €24,000 €30,000
+Participating dividend of 4%
+4,000
+16,000
+20,000
+Totals
+€10,000 €40,000 €50,000
+The participating dividend was determined as follows:
+Current year’s dividend:
+Preference, 6% of €100,000 = € 6,000
+Ordinary, 6% of €400,000
+= 24,000
+€30,000
+Amount available for participation (€50,000 – €30,000)
+€20,000
+Par value of shares that are to participate (€100,000 + €400,000) €500,000
+Rate of participation (€20,000 ÷ €500,000)
+4%
+Participating dividend:
+Preference, 4% of €100,000
+€ 4,000
+Ordinary, 4% of €400,000
+16,000
+€20,000
+ILLUSTRATION 15A.3 Dividend Distribution, Non-Cumulative and Fully Participating
+Preference Shares
+4. If the preference shares are cumulative and are fully participating, and Mason Company did not
+pay dividends on the preference shares in the preceding two years:
+Preference Ordinary
+Total
+Dividends in arrears, 6% of €100,000 for 2 years
+€12,000
+€12,000
+Current year’s dividend, 6%
+6,000 €24,000
+30,000
+Participating dividend, 1.6% (€8,000 ÷ €500,000)
+1,600
+6,400
+8,000
+Totals
+€19,600 €30,400 €50,000
+ILLUSTRATION 15A.4 Dividend Distribution, Cumulative and Fully Participating
+Preference Shares, with Dividends in Arrears
+
+--- Page 1217 ---
+Book Value per Share
+Book value per share in its simplest form is computed as net assets divided by outstanding shares at
+the end of the year. The computation of book value per share becomes more complicated if a company
+has preference shares in its capital structure. For example, if preference dividends are in arrears, if the
+preference shares are participating, or if preference shares have a redemption or liquidating value
+higher than its carrying amount, the company must allocate retained earnings between the preference
+and ordinary shareholders in computing book value.
+For example, the situation in Illustration 15A.5 assumes that no preference dividends are in arrears
+and that the preference shares are not participating. Now assume that the same facts exist, except that
+the 5 percent preference shares are cumulative, participating shares up to 8 percent, and that dividends
+for three years before the current year are in arrears. Illustration 15A.6 shows how to compute the
+book value of the ordinary shares, assuming that no action has yet been taken concerning dividends for
+the current year.
+Equity
+Preference Ordinary
+Preference shares, 5%
+€300,000
+Ordinary shares
+€400,000
+Share premium—ordinary
+37,500
+Retained earnings
+162,582
+Totals
+€300,000 €600,082
+Shares outstanding
+4,000
+Book value per share
+€150.02
+ILLUSTRATION 15A.5 Computation of Book Value per Share—No Dividends in Arrears
+Equity
+Preference Ordinary
+Preference shares, 5%
+€300,000
+Ordinary shares
+€400,000
+Share premium—ordinary
+37,500
+Retained earnings:
+Dividends in arrears (3 years at 5% a year)
+45,000
+Current year requirement at 5%
+15,000
+20,000
+Participating—additional 3%
+9,000
+12,000
+Remainder to ordinary
+        
+61,582
+Totals
+€369,000 €531,082
+Shares outstanding
+4,000
+Book value per share
+€132.77
+ILLUSTRATION 15A.6 Computation of Book Value per Share—with Dividends in
+Arrears, Participating
+As indicated, retained earnings is allocated between preference and ordinary shareholders in
+computing book value per share.
+In connection with the book value computation, the analyst must know how to handle the following
+items: the number of authorized and unissued shares, the number of treasury shares on hand, any
+commitments with respect to the issuance of unissued shares or the reissuance of treasury shares, and
+the relative rights and privileges of the various types of shares authorized. As an example, if the
+
+--- Page 1218 ---
+liquidating value of the preference shares is higher than its carrying amount, the liquidating amount
+should be used in the book value computation.
+Review and Practice
+Key Terms Review
+book value per share
+callable preference shares
+cash dividends
+contributed (paid-in) capital
+convertible preference shares
+cost method
+cumulative preference shares
+dividend in arrears
+earned capital
+equity
+leveraged buyout (LBO)
+liquidating dividends
+lump-sum sales
+no-par shares
+ordinary shares
+par (stated) value method
+participating preference shares
+payout ratio
+preemptive right
+preference shares
+property dividends
+redeemable preference shares
+residual interest
+retained earnings
+return on ordinary share equity
+share dividends
+share premium
+share split
+stated value
+statement of changes in equity
+trading on the equity
+treasury shares
+Learning Objectives Review
+
+--- Page 1219 ---
+1 Describe the corporate form and the issuance of shares.
+Among the specific characteristics of the corporate form that affect accounting are the (1) influence of
+corporate law, (2) use of the share system, and (3) development of a variety of ownership interests. In
+the absence of restrictive provisions, each ordinary share carries the right to share proportionately in
+(1) profits and losses, (2) management (the right to vote for directors), (3) corporate assets upon
+liquidation, and (4) any new issues of shares of the same class (called the preemptive right).
+Equity is classified into two categories: contributed capital and earned capital. Contributed capital
+(paid-in capital) describes the total amount paid in as share capital. Put another way, it is the amount
+that shareholders advance to the corporation for use in the business. Contributed capital includes
+items such as the par value of all outstanding shares and premiums less any discounts on issuance.
+Earned capital is the capital that develops if the business operates profitably; it consists of all
+undistributed income that remains invested in the company.
+Accounts are kept for the following different types of shares. Par value shares: (a) Share Capital—
+Preference or Share Capital—Ordinary, (b) Share Premium—Preference and Share Premium—Ordinary.
+No-par shares: Share Capital—Ordinary or Share Capital—Ordinary and Share Premium—Ordinary if
+stated value used. For shares issued in combination with other securities (lump-sum sales), the two
+methods of allocation available are (a) the proportional method and (b) the incremental method. When
+issuing shares for services or property other than cash, the company should record the exchange at the
+fair value of the property or services received unless that fair value cannot be reliably measured.
+Otherwise, use the fair value of the shares issued.
+Preference shares are a special class of shares that possess certain preferences or features not
+possessed by the ordinary shares. The features that are most often associated with preference share
+issues are (1) preference as to dividends, (2) preference as to assets in the event of liquidation, (3)
+convertible into ordinary shares, (4) callable at the option of the corporation, and (5) non-voting. At
+issuance, the accounting for preference shares is similar to that for ordinary shares. When convertible
+preference shares are converted, a company uses the book value method. It debits Share Capital—
+Preference, along with any related Share Premium—Preference, and credits Share Capital—Ordinary
+and Share Premium—Ordinary (if an excess exists).
+2 Explain the accounting and reporting for treasury shares.
+The cost method is generally used in accounting for treasury shares. This method derives its name
+from the fact that a company maintains the Treasury Shares account at the cost of the shares
+purchased. Under the cost method, a company debits the Treasury Shares account for the cost of the
+shares acquired and credits it for this same cost upon reissuance. The price received for the shares
+when originally issued does not affect the entries to record the acquisition and reissuance of the
+treasury shares.
+3 Explain the accounting and reporting issues related to dividends.
+The incorporation laws normally provide information concerning the legal restrictions related to the
+payment of dividends. Corporations rarely pay dividends in an amount equal to the legal limit. This is
+due, in part, to the fact that companies use assets represented by undistributed earnings to finance
+future operations of the business. If a company is considering declaring a dividend, it must ask two
+preliminary questions. (1) Is the condition of the corporation such that the dividend is legally
+permissible? (2) Is the condition of the corporation such that a dividend is economically sound?
+Dividends are of the following types: (1) cash dividends, (2) property dividends, (3) liquidating
+dividends (dividends based on other than retained earnings), and (4) share dividends (the issuance by a
+corporation of its own shares to its shareholders on a pro rata basis but without receiving
+consideration).
+
+--- Page 1220 ---
+When declaring a share dividend, a company debits Retained Earnings at the par value of the shares it
+distributes. The entry includes a credit to Ordinary Share Dividend Distributable at par value times the
+number of shares. A share dividend is a capitalization of retained earnings that reduces retained
+earnings. The par value per share and total equity remain unchanged with a share dividend, and all
+shareholders retain their same proportionate share of ownership. A share split (or reverse share split)
+results in an increase or decrease in the number of shares outstanding, with a corresponding decrease
+or increase in the par or stated value per share. No accounting entry is required for a share split.
+4 Indicate how to present and analyze equity.
+The equity section of a statement of financial position includes share capital, share premium, and
+retained earnings. A company may also have additional items such as treasury shares, accumulated
+other comprehensive income (loss), and non-controlling interest. Companies are required to present a
+statement of changes in equity. Ratios that use equity amounts are return on ordinary share equity,
+payout ratio, and book value per share.
+*5 Discuss the different types of preference share dividends and their effect on book
+value per share.
+The dividend preferences of preference shares affect the dividends paid to shareholders. Preference
+shares can be (1) cumulative or non-cumulative, and (2) fully participating, partially participating, or
+non-participating. If preference dividends are in arrears, if the preference shares are participating, or if
+preference shares have a redemption or liquidation value higher than its carrying amount, allocate
+retained earnings between preference and ordinary shareholders in computing book value per share.
+Enhanced Review and Practice
+Go online for multiple-choice questions with solutions, review exercises with solutions, and a full
+glossary of all key terms.
+Practice Problem
+D’Ouville Company was formed on July 1, 2021. It was authorized to issue 500,000 shares of €10 par
+value ordinary shares and 100,000 shares of 4%, €25 par value, cumulative and non-participating
+preference shares. D’Ouville Company has a July 1–June 30 fiscal year. The following information
+relates to the equity accounts of D’Ouville Company.
+Ordinary Shares
+Prior to the 2023–2024 fiscal year, D’Ouville Company had 110,000 shares of outstanding ordinary
+shares issued as follows.
+1. 95,000 shares were issued for cash on July 1, 2021, at €31 per share.
+2. On July 24, 2021, 5,000 shares were exchanged for a plot of land which cost the seller €70,000
+in 2015 and had an estimated fair value of €220,000 on July 24, 2021.
+3. 10,000 shares were issued on March 1, 2023, for €42 per share.
+During the 2023–2024 fiscal year, the following transactions regarding ordinary shares took place.
+Nov.
+30,
+2023
+D’Ouville purchased 2,000 of its own shares on the open market at €39 per share. D’Ouville
+uses the cost method for treasury shares.
+Dec. D’Ouville declared a 5% share dividend for shareholders of record on January 15, 2024, to be
+
+--- Page 1221 ---
+15,
+2023
+issued on January 31, 2024. D’Ouville was having a liquidity problem and could not afford a
+cash dividend at the time. D’Ouville’s ordinary shares were selling at €52 per share on
+December 15, 2023.
+June
+20,
+2024
+D’Ouville sold 500 of its own ordinary shares that it had purchased on November 30, 2023,
+for €21,000.
+Preference Shares
+D’Ouville issued 100,000 preference shares at €44 per share on July 1, 2022.
+Cash Dividends
+D’Ouville generally declares cash dividends in December and June, with payment being made to
+shareholders of record in the following month. The cash dividends which have been declared since
+inception of the company through June 30, 2024, are shown below.
+Declaration Date Ordinary Shares Preference Shares
+12/15/22 €0.30 per share €0.50 per share
+6/15/23 €0.30 per share €0.50 per share
+12/15/23
+—
+€0.50 per share
+No cash dividends were declared during June 2024 due to the company’s liquidity problems.
+Retained Earnings
+As of June 30, 2023, D’Ouville’s retained earnings account had a balance of €550,000. For the fiscal
+year ending June 30, 2024, D’Ouville reported net income of €120,000.
+Instructions
+Prepare the equity section of the statement of financial position, including appropriate notes, for
+D’Ouville Company as of June 30, 2024, as it should appear in its annual report to the shareholders.
+Solution
+D’Ouville Company
+Partial Statement of Financial Position
+June 30, 2024
+Equity
+4% Share capital—preference, €25 par value, cumulative and non-participating, 100,000
+shares authorized, 100,000 shares issued and outstanding (Note A)
+€2,500,000
+Share capital—ordinary, €10 par value, 500,000 shares authorized, 115,400 shares issued,
+with 1,500 shares held in the treasury
+1,154,000
+Share premium—preference
+1,900,000
+Share premium—ordinary
+2,485,000*
+Share premium—treasury
+1,500
+Retained earnings
+Less: Treasury shares, 1,500 shares at cost
+Total equity
+Note A: D’Ouville Company is in arrears on the preference shares in the amount of €100,000.
+*Share premium—ordinary:
+Issue of 95,000 shares × (€31 − €10)
+
+--- Page 1222 ---
+D’Ouville Company
+Partial Statement of Financial Position
+June 30, 2024
+Issue of 5,000 shares for plot of land (€220,000 − €50,000)
+10,000 shares issued (3/1/20) [10,000 × (€42 − €10)]
+**Retained Earnings:
++
++
+−
+−
+−
+−
+=
+=
+Exercises, Problems, Problem Solution Walkthrough Videos, Data Analytics Activities, and many
+more assessment tools and resources are available for practice in Wiley’s online courseware.
+Note: All asterisked Questions, Exercises, and Problems relate to material in the appendix to the
+chapter.
+Questions
+1. In the absence of restrictive provisions, what are the basic rights of shareholders of a corporation?
+2. Why is a preemptive right important?
+3. Distinguish between ordinary and preference shares.
+4. Why is the distinction between contributed capital (paid-in capital) and retained earnings
+important?
+5. Explain each of the following terms: authorized ordinary shares, unissued ordinary shares, issued
+ordinary shares, outstanding ordinary shares, and treasury shares.
+6. What is meant by par value, and what is its significance to shareholders?
+7. Describe the accounting for the issuance for cash of no-par value ordinary shares at a price in excess
+of the stated value of the ordinary shares.
+8. Explain the difference between the proportional method and the incremental method of allocating
+the proceeds of lump-sum sales of share capital.
+9. What are the different bases for share valuation when assets other than cash are received for issued
+shares?
+10. Explain how underwriting costs and accounting and legal fees associated with the issuance of
+shares should be recorded.
+11. For what reasons might a company purchase its own shares?
+12. Discuss the propriety of showing:
+a. Treasury shares as an asset.
+b. “Gain” or “loss” on sale of treasury shares as additions to or deductions from income.
+c. Dividends received on treasury shares as income.
+13. What features or rights may alter the character of preference shares?
+14. Kim Inc. recently noted that its 4% preference shares and 4% participating preference shares are
+both cumulative and have priority as to dividends up to 4% of their par value. Its participating
+preference shares participate equally with the ordinary shares in any dividends in excess of 4%. What is
+meant by the term participating? Cumulative?
+Beginning balance
+€550,000
+Income
+€120,000
+Share dividend
+€54,000
+Preference dividend
+€50,000
+Ret. earnings, end
+€566,000
+
+--- Page 1223 ---
+15. Where in the financial statements are preference shares normally reported?
+16. List five elements included in equity.
+17. BMG purchases 10,000 shares of its own previously issued €10 par ordinary shares for €290,000.
+Assuming the shares are held in the treasury with intent to reissue, what effect does this transaction
+have on (a) net income, (b) total assets, (c) retained earnings, and (d) total equity?
+18. Indicate how each of the following accounts should be classified in the equity section.
+a. Share Capital—Ordinary
+b. Retained Earnings
+c. Share Premium—Ordinary
+d. Treasury Shares
+e. Share Premium—Treasury
+f. Accumulated Other Comprehensive Income
+g. Share Capital—Preference
+19. What factors influence the dividend policy of a company?
+20. What are the principal considerations of a board of directors in making decisions involving
+dividend declarations? Discuss briefly.
+21. Dividends are sometimes said to have been paid “out of retained earnings.” What is the error, if
+any, in that statement?
+22. Distinguish among cash dividends, property dividends, liquidating dividends, and share dividends.
+23. Describe the accounting entry for a share dividend, if any. Describe the accounting entry for a
+share split, if any.
+24. Share splits and share dividends may be used by a corporation to change the number of its shares
+outstanding.
+a. From an accounting viewpoint, explain how the share split differs from an ordinary share
+dividend.
+b. How should a share dividend that has been declared but not yet issued be classified in a statement
+of financial position? Why?
+25. The following comment appeared in the notes of Mona Corporation’s annual report: “Such
+distributions, representing proceeds from the sale of Sarazan, Inc., were paid in the form of partial
+liquidating dividends and were in lieu of a portion of the Company’s ordinary cash dividends.” How
+would a partially liquidating dividend be accounted for in the financial records?
+26. This comment appeared in the annual report of Christensen Inc.: “The Company could pay cash or
+property dividends on the Class A ordinary shares without paying cash or property dividends on the
+Class B ordinary shares. But if the Company pays any cash or property dividends on the Class B
+ordinary shares, it would be required to pay at least the same dividend on the Class A ordinary shares.”
+How is a property dividend accounted for in the financial records?
+27. For what reasons might a company restrict a portion of its retained earnings?
+28. How are restrictions of retained earnings reported?
+*29. Wang Corp. had $100,000 of 7%, $20 par value preference shares and 12,000 shares of $25 par
+value ordinary shares outstanding throughout 2022.
+
+--- Page 1224 ---
+a. Assuming that total dividends declared in 2022 were $64,000 and that the preference shares are
+not cumulative but are fully participating, ordinary shareholders should receive 2022 dividends
+totaling what amount?
+b. Assuming that total dividends declared in 2022 were $64,000 and that the preference shares are
+fully participating and cumulative with preference dividends in arrears for 2021, preference
+shareholders should receive 2022 dividends totaling what amount?
+c. Assuming that total dividends declared in 2022 were $30,000; that the preference shares are
+cumulative, non-participating, and were issued on January 1, 2021; and that $5,000 of preference
+dividends were declared and paid in 2021, the ordinary shareholders should receive 2022 dividends
+totaling what amount?
+Brief Exercises
+BE15.1 (LO 1) Kaymer SA issued 300 shares of €10 par value ordinary shares for €4,500. Prepare
+Kaymer’s journal entry.
+BE15.2 (LO 1) Swarten AG issued 600 shares of no-par ordinary shares for €8,200. Prepare Swarten’s
+journal entry if (a) the shares have no stated value, and (b) the shares have a stated value of €2 per
+share.
+BE15.3 (LO 1, 2, 4) Wilco SE has the following equity balances at December 31, 2022.
+Share capital—ordinary, €5 par value € 510,000
+Treasury shares
+90,000
+Retained earnings
+2,340,000
+Share premium—ordinary
+1,320,000
+Prepare Wilco’s December 31, 2022, equity section in the statement of financial position.
+BE15.4 (LO 1) Ravonette Corporation issued 300 shares of $10 par value ordinary shares and 100
+shares of $50 par value preference shares for a lump sum of $13,500. The ordinary shares have a
+market price of $20 per share, and the preference shares have a market price of $90 per share. Prepare
+the journal entry to record the issuance.
+BE15.5 (LO 1) On February 1, 2022, Gruber plc issued 3,000 shares of its £5 par value ordinary shares
+for land worth £31,000. Prepare the February 1, 2022, journal entry.
+BE15.6 (LO 1) Moonwalker Corporation issued 2,000 shares of its $10 par value ordinary shares for
+$60,000. Moonwalker also incurred $1,500 of costs associated with issuing the shares. Prepare
+Moonwalker’s journal entry to record the issuance of the company’s shares.
+BE15.7 (LO 2) Sprinkle SE has outstanding 10,000 shares of €10 par value ordinary shares. On July 1,
+2022, Sprinkle reacquired 100 shares at €87 per share. On September 1, Sprinkle reissued 60 shares at
+€90 per share. On November 1, Sprinkle reissued 40 shares at €83 per share. Prepare Sprinkle’s
+journal entries to record these transactions using the cost method.
+BE15.8 (LO 2) Arantxa S.A. has outstanding 20,000 shares of R$5 par value ordinary shares. On
+August 1, 2022, Arantxa reacquired 200 shares at R$80 per share. On November 1, Arantxa reissued
+the 200 shares at R$70 per share. Arantxa had no previous treasury share transactions. Prepare
+Arantxa’s journal entries to record these transactions using the cost method.
+BE15.9 (LO 1) Hinges SpA issued 500 shares of €100 par value preference shares for €61,500.
+Prepare Hinges’s journal entry.
+BE15.10 (LO 3) Woolford Inc. declared a cash dividend of $1 per share on its 2 million outstanding
+shares. The dividend was declared on August 1, payable on September 9 to all shareholders of record on
+August 15. Prepare all journal entries necessary on those three dates.
+
+--- Page 1225 ---
+BE15.11 (LO 3) Silva SpA owns shares of Costa S.A. classified as a trading equity investment. At
+December 31, 2022, the trading equity investment was carried in Silva’s accounting records at its cost
+of R$875,000, which equals its fair value. On September 21, 2023, when the fair value of the
+investment was R$1,200,000, Silva declared a property dividend whereby the Costa securities are to be
+distributed on October 23, 2023, to shareholders of record on October 8, 2023. Prepare all journal
+entries necessary on those three dates.
+BE15.12 (LO 3) Zhang Mining Company declared on April 20 a dividend of ¥500,000,000, payable on
+June 1. Of this amount, ¥125,000,000 is a return of capital. Prepare the April 20 and June 1 entries for
+Zhang.
+BE15.13 (LO 3) Green Day Corporation has outstanding 400,000 shares of $10 par value ordinary
+shares. The corporation declares a 5% share dividend when the fair value is $65 per share. Prepare the
+journal entries for Green Day Corporation for both the date of declaration and the date of distribution.
+BE15.14 (LO 3) Use the information from BE15.13 but assume Green Day Corporation declared a
+100% share dividend rather than a 5% share dividend. Prepare the journal entries for both the date of
+declaration and the date of distribution.
+*BE15.15 (LO 5) Nottebart AG has outstanding 10,000 shares of €100 par value, 6% preference
+shares and 60,000 shares of €10 par value ordinary shares. The preference shares were issued in
+January 2022, and no dividends were declared in 2022 or 2023. In 2024, Nottebart declares a cash
+dividend of €300,000. How will the dividend be shared by ordinary and preference shareholders if the
+preference is (a) non-cumulative and (b) cumulative?
+Exercises
+E15.1 (LO 1) (Recording the Issuances of Ordinary Shares) During its first year of operations,
+Sitwell SE had the following transactions pertaining to its ordinary shares.
+Jan.
+10
+Issued 80,000 shares for cash at €6 per share.
+Mar.
+1
+Issued 5,000 shares to attorneys in payment of a bill for €35,000 for services rendered in
+helping the company to incorporate.
+July
+1
+Issued 30,000 shares for cash at €8 per share.
+Sept.
+1
+Issued 60,000 shares for cash at €10 per share.
+Instructions
+a. Prepare the journal entries for these transactions, assuming that the ordinary shares have a par
+value of €3 per share.
+b. Briefly discuss how the entries in part (a) will change if the shares are no-par with a stated value of
+€2 per share.
+E15.2 (LO 1) (Recording the Issuance of Ordinary and Preference Shares) Abernathy
+Corporation was organized on January 1, 2022. It is authorized to issue 10,000 shares of 8%, $50 par
+value preference shares, and 500,000 shares of no-par ordinary shares with a stated value of $2 per
+share. The following share transactions were completed during the first year.
+Jan.
+10
+Issued 80,000 ordinary shares for cash at $5 per share.
+Mar.
+1
+Issued 5,000 preference shares for cash at $108 per share.
+Apr. Issued 24,000 ordinary shares for land. The asking price of the land was $90,000; the fair value
+
+--- Page 1226 ---
+1 of the land was $80,000.
+May
+1
+Issued 80,000 ordinary shares for cash at $7 per share.
+Aug.
+1
+Issued 10,000 ordinary shares to attorneys in payment of their bill of $50,000 for services
+rendered in helping the company organize.
+Sept.
+1
+Issued 10,000 ordinary shares for cash at $9 per share.
+Nov.
+1
+Issued 1,000 preference shares for cash at $112 per share.
+Instructions
+Prepare the journal entries to record the above transactions.
+E15.3 (LO 1) (Shares Issued for Land) Twenty-five thousand shares reacquired by Pierce plc for
+£48 per share were exchanged for undeveloped land that has an appraised value of £1,700,000. At the
+time of the exchange, the ordinary shares were trading at £60 per share on an organized exchange.
+Instructions
+a. Prepare the journal entry to record the acquisition of land, assuming that the purchase of the
+shares was originally recorded using the cost method.
+b. Briefly identify the possible alternatives (including those that are totally unacceptable) for
+quantifying the cost of the land and briefly support the choice you feel is best.
+E15.4 (LO 1) (Lump-Sum Sale of Shares with Bonds) Fogelberg Industries is a regional
+company, whose securities are thinly traded. Fogelberg has issued 10,000 units. Each unit consists of a
+CHF500 par, 12% subordinated debenture and 10 shares of CHF5 par ordinary shares. The investment
+banker has retained 400 units as the underwriting fee. The other 9,600 units were sold to outside
+investors for cash at CHF850 per unit. Prior to this sale, the 2-week ask price of ordinary shares was
+CHF40 per share. Twelve percent is a reasonable market yield for the debentures, and therefore the par
+value of the bonds is equal to the fair value.
+Instructions
+a. Prepare the journal entry to record Fogelberg’s transaction, under the following conditions.
+(Round to the nearest CHF.)
+1. Employing the incremental method.
+2. Employing the proportional method, assuming the recent price quote on the ordinary shares
+reflects fair value.
+b. Briefly explain which method is, in your opinion, the better method.
+E15.5 (LO 1) (Lump-Sum Sales of Ordinary and Preference Shares) Hartman SE issues 500
+shares of €10 par value ordinary shares and 100 shares of €100 par value preference shares for a lump
+sum of €100,000.
+Instructions
+a. Prepare the journal entry for the issuance when the fair value of the ordinary shares is €168 each
+and fair value of the preference shares is €210 each. (Round to the nearest euro.)
+b. Prepare the journal entry for the issuance when only the fair value of the ordinary shares (€170
+per share) is known.
+
+--- Page 1227 ---
+E15.6 (LO 1, 2) (Share Issuances and Repurchase) Loxley Corporation is authorized to issue
+50,000 shares of $10 par value ordinary shares. During 2022, Loxley took part in the following selected
+transactions.
+1. Issued 5,000 shares at $45 per share, less costs related to the issuance of the shares totaling
+$7,000.
+2. Issued 1,000 shares for land appraised at $50,000. The shares were actively traded on a national
+securities exchange at approximately $46 per share on the date of issuance.
+3. Purchased 500 treasury shares at $44 per share. The treasury shares purchased were issued in
+2021 at $40 per share.
+Instructions
+a. Prepare the journal entry to record item 1.
+b. Prepare the journal entry to record item 2.
+c. Prepare the journal entry to record item 3 using the cost method.
+E15.7 (LO 2) (Effect of Treasury Share Transactions on Financials) Goosen SA has
+outstanding 40,000 shares of €5 par ordinary shares which had been issued at €30 per share. Goosen
+then entered into the following transactions.
+1. Purchased 5,000 treasury shares at €45 per share.
+2. Resold 500 of the treasury shares at €40 per share.
+3. Resold 2,000 of the treasury shares at €49 per share.
+Instructions
+Use the following code to indicate the effect each of the three transactions has on the financial
+statement categories listed in the table below, assuming Goosen SA uses the cost method: I = Increase;
+D = Decrease; and NE = No effect.
+# Assets Liabilities Equity Share Premium Retained Earnings Net Income
+1
+2
+3
+E15.8 (LO 1, 5) (Preference Share Entries and Dividends) Weisberg Corporation has 10,000
+shares of $100 par value, 6%, preference shares and 50,000 ordinary shares of $10 par value
+outstanding at December 31, 2022.
+Instructions
+Answer the questions in each of the following independent situations.
+a. If the preference shares are cumulative and dividends were last paid on the preference shares on
+December 31, 2019, what are the dividends in arrears that should be reported on the December 31,
+2022, statement of financial position? How should these dividends be reported?
+b. If the preference shares are convertible into seven shares of $10 par value ordinary shares and
+3,000 shares are converted, what entry is required for the conversion, assuming the preference
+shares were issued at par value?
+c. If the preference shares were issued at $107 per share, how should the preference shares be
+reported in the equity section?
+
+--- Page 1228 ---
+E15.9 (LO 1, 2) (Correcting Entries for Equity Transactions) Davison plc recently hired a new
+accountant with extensive experience in accounting for partnerships. Because of the pressure of the
+new job, the accountant was unable to review what he had learned earlier about corporation
+accounting. During the first month, he made the following entries for the corporation’s ordinary
+shares.
+May
+2 Cash
+192,000
+Share Capital—Ordinary
+192,000
+(Issued 12,000 shares of £10 par value ordinary shares at £16 per
+share)
+10 Cash
+600,000
+Share Capital—Ordinary
+600,000
+(Issued 10,000 shares of £30 par value preference shares at £60 per
+share)
+15 Share Capital—Ordinary
+14,000
+Cash
+14,000
+(Purchased 1,000 ordinary shares for the treasury at £14 per share)
+31 Cash
+8,500
+Share Capital—Ordinary
+5,000
+Gain on Sale of Shares
+3,500
+(Sold 500 treasury shares at £17 per share)
+Instructions
+On the basis of the explanation for each entry, prepare the entries that should have been made for the
+ordinary share transactions.
+E15.10 (LO 1, 2, 4) (Analysis of Equity Data and Equity Section Preparation) For a recent 2-
+year period, the statement of financial position of Jiang Group showed the following equity data at
+December 31 (amounts in millions).
+2023
+2022
+Share premium—ordinary
+HK$ 891
+HK$ 817
+Share capital—ordinary
+545
+540
+Retained earnings
+7,167
+5,226
+Treasury shares
+(1,428)
+(918)
+Total equity
+HK$7,175 HK$5,665
+Ordinary shares issued
+218
+216
+Ordinary shares authorized
+500
+500
+Treasury shares
+34
+27
+Instructions
+a. Answer the following questions.
+1. What is the par value of the ordinary shares?
+2. What is the cost per treasury share at December 31, 2023, and at December 31, 2022?
+b. Prepare the equity section of the statement of financial position at December 31, 2023.
+
+--- Page 1229 ---
+E15.11 (LO 3) (Effect of Equity Items on the Statement of Financial Position) The following
+are selected transactions that may affect equity.
+1. Recorded accrued interest earned on a note receivable.
+2. Declared and distributed a share split.
+3. Declared a cash dividend.
+4. Recorded a retained earnings restriction.
+5. Recorded the expiration of insurance coverage that was previously recorded as prepaid insurance.
+6. Paid the cash dividend declared in item 3 above.
+7. Recorded accrued interest expense on a note payable.
+8. Declared a share dividend.
+9. Distributed the share dividend declared in item 8.
+Instructions
+In the following table, indicate the effect each of the nine transactions has on the financial statement
+elements listed. Use the following code:
+I = Increase D = Decrease NE = No effect
+Item Assets Liabilities Equity Share Premium Retained Earnings Net Income
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+E15.12 (LO 3) (Cash Dividend and Liquidating Dividend) Addison Corporation has 10 million
+shares of ordinary shares issued and outstanding. On June 1, the board of directors voted a 60 cents per
+share cash dividend to shareholders of record as of June 14, payable June 30.
+Instructions
+a. Prepare the journal entry for each of the dates above, assuming the dividend represents a
+distribution of earnings.
+b. How would the entry differ if the dividend were a liquidating dividend?
+E15.13 (LO 3) (Share Split and Share Dividend) The ordinary shares of Otuk Holding are
+currently selling at 110 per share. The directors wish to reduce the share price and increase share
+volume prior to a new issue. The per share par value is 10; book value is 70 per share. Five million
+shares are issued and outstanding.
+Instructions
+a. Prepare the necessary journal entries assuming that the board votes a 2-for-1 share split.
+b. Prepare the necessary journal entries assuming that the board votes a 100% share dividend.
+
+--- Page 1230 ---
+c. Briefly discuss the accounting and securities market differences between these two methods of
+increasing the number of shares outstanding.
+E15.14 (LO 3) (Entries for Share Dividends and Share Splits) The equity accounts of Lawrence
+Group have the following balances on December 31, 2022.
+Share Capital—Ordinary, €10 par, 200,000 shares issued and outstanding €2,000,000
+Share Premium—Ordinary
+1,200,000
+Retained Earnings
+5,600,000
+Shares of Lawrence Group are currently selling at €37.
+Instructions
+Prepare the appropriate journal entries for each of the following cases.
+a. A share dividend of 5% is declared and issued.
+b. A share dividend of 100% is declared and issued.
+c. A 2-for-1 share split is declared and issued.
+E15.15 (LO 3) (Dividend Entries) The following data were taken from the statement of financial
+position accounts of Murless SA on December 31, 2022.
+Current Assets
+R$540,000
+Investments
+624,000
+Share Capital—Ordinary (par value R$10)
+600,000
+Share Premium—Ordinary
+150,000
+Retained Earnings
+840,000
+Instructions
+Prepare the required journal entries for the following unrelated items.
+a. A 5% share dividend is declared and distributed at a time when the market price of the shares is
+R$39 per share.
+b. The par value of the ordinary shares is reduced to R$2 with a 5-for-1 share split.
+c. A dividend is declared January 5, 2023, and paid January 25, 2023, in bonds held as held for
+collection investment. The bonds have a cost of R$90,000 and a fair value of R$125,000.
+E15.16 (LO 1, 2, 3) (Computation of Retained Earnings) The following information has been
+taken from the ledger accounts of Choi Corporation (all amounts in thousands).
+Total Income Since Incorporation
+₩287,000
+Total Cash Dividends Paid
+60,000
+Total Value of Share Dividends Distributed
+40,000
+Gains on Treasury Share Transactions
+18,000
+Accumulated Other Comprehensive Income
+32,000
+Instructions
+Determine the current balance of retained earnings.
+E15.17 (LO 1, 4) (Equity Section) Teller SE’s post-closing trial balance at December 31, 2022, was
+as follows.
+
+--- Page 1231 ---
+Teller SE
+Post-Closing Trial Balance
+December 31, 2022
+Teller SE
+Post-Closing Trial Balance
+December 31, 2022
+Dr.
+Cr.
+Accounts payable
+€ 310,000
+Accounts receivable
+€ 480,000
+Accumulated depreciation—buildings
+185,000
+Allowance for doubtful accounts
+30,000
+Bonds payable
+700,000
+Buildings
+1,450,000
+Cash
+190,000
+Dividends payable (preference shares—cash)
+4,000
+Inventory
+560,000
+Land
+400,000
+Prepaid expenses
+40,000
+Retained earnings
+201,000
+Share capital—ordinary (€1 par value)
+200,000
+Share capital—preference (€50 par value)
+500,000
+Share premium—ordinary
+1,000,000
+Share premium—treasury
+160,000
+Treasury shares (ordinary at cost)
+170,000
+Total
+€3,290,000 €3,290,000
+At December 31, 2022, Teller had the following number of ordinary and preference shares.
+Ordinary Preference
+Authorized
+600,000
+60,000
+Issued
+200,000
+10,000
+Outstanding 190,000
+10,000
+The dividends on preference shares are €4 cumulative. In addition, the preference shares have a
+preference in liquidation of €50 per share.
+Instructions
+Prepare the equity section of Teller’s statement of financial position at December 31, 2022.
+E15.18 (LO 2, 3, 4) 
+ (Dividends and Equity Section) Elizabeth Company reported the
+following amounts in the equity section of its December 31, 2022, statement of financial position.
+Share capital—preference, 8%, $100 par (10,000 shares authorized, 2,000 shares issued) $200,000
+Share capital—ordinary, $5 par (100,000 shares authorized, 20,000 shares issued)
+100,000
+Share premium—preference
+125,000
+Retained earnings
+450,000
+Total
+$875,000
+During 2023, Elizabeth Company took part in the following transactions concerning equity.
+
+--- Page 1232 ---
+1. Paid the annual 2022 $8 per share dividend on preference shares and a $2 per share dividend on
+ordinary shares. These dividends had been declared on December 31, 2022.
+2. Purchased 2,700 shares of its own outstanding ordinary shares for $40 per share. Elizabeth uses
+the cost method.
+3. Reissued 700 treasury shares for land with a fair value of $30,000.
+4. Issued 500 preference shares at $105 per share.
+5. Declared a 10% share dividend on the outstanding ordinary shares when the shares are selling for
+$45 per share.
+6. Issued the share dividend.
+7. Declared the annual 2023 $8 per share dividend on preference shares and the $2 per share
+dividend on ordinary shares. These dividends are payable in 2024.
+Instructions
+a. Prepare journal entries to record the transactions described above.
+b. Prepare the December 31, 2023, equity section of the statement of financial position. Assume 2023
+net income was $330,000.
+E15.19 (LO 4) (Comparison of Alternative Forms of Financing) Shown below is the equity and
+liabilities section of the statement of financial position for Ingalls plc and Wilder Ltd. Each has assets
+totaling £4,200,000.
+Ingalls plc
+Wilder Ltd.
+Share capital—ordinary (£20 par)
+£2,000,000 Share capital—ordinary (£20 par)
+£2,900,000
+Retained earnings (Cash dividends,
+£220,000)
+700,000
+Retained earnings (Cash dividends,
+£328,000)
+700,000
+Non-current liabilities, 10%
+1,200,000 Current liabilities
+600,000
+Current liabilities
+300,000
+£4,200,000
+£4,200,000
+For the year, each company has earned the same income before interest and taxes.
+Ingalls plc Wilder Ltd.
+Income from operations
+£1,200,000 £1,200,000
+Interest expense
+120,000
+–0–
+Income before income tax
+1,080,000
+1,200,000
+Income tax (40%)
+432,000
+480,000
+Net income
+£ 648,000
+£ 720,000
+At year-end, the market price of an Ingalls’ share was £101, and Wilder’s was £63.50. Assume
+statement of financial position amounts are representative for the entire year.
+Instructions
+a. Which company is more profitable in terms of return on total assets?
+b. Which company is more profitable in terms of return on ordinary share equity?
+c. Which company has the greater net income per share? Neither company issued or reacquired
+shares during the year.
+
+--- Page 1233 ---
+d. From the point of view of net income, is it advantageous to the shareholders of Ingalls plc to have
+the non-current liabilities outstanding? Why?
+e. What is the book value per share for each company?
+E15.20 (LO 4) (Trading on the Equity Analysis) Presented below is information from the annual
+report of DeVries Plastics.
+Operating income
+€
+532,150
+Bond interest expense
+135,000
+Income before income tax
+397,150
+Income tax
+183,432
+Net income
+€
+213,718
+Bonds payable
+€1,500,000
+Share capital—ordinary
+875,000
+Retained earnings
+575,000
+Instructions
+a. Compute the return on ordinary share equity and the rate of interest paid on bonds. (Assume
+balances for debt and equity accounts approximate averages for the year.)
+b. Is DeVries Plastics trading on the equity successfully? Explain.
+*E15.21 (LO 5) (Preference Dividends) The outstanding share capital of Pennington Corporation
+consists of 2,000 shares of $100 par value, 6% preference, and 5,000 shares of $50 par value ordinary.
+Instructions
+Assuming that the company has retained earnings of $70,000, all of which is to be paid out in
+dividends, and that preference dividends were not paid during the 2 years preceding the current year,
+determine how much each class of shares should receive under each of the following conditions.
+a. The preference shares are non-cumulative and non-participating.
+b. The preference shares are cumulative and non-participating.
+c. The preference shares are cumulative and participating. (Round dividend rate percentages to four
+decimal places.)
+*E15.22 (LO 5) (Preference Dividends) Martinez SA’s ledger shows the following balances on
+December 31, 2022.
+Share Capital—Preference, 5%—€10 par value, outstanding 20,000 shares € 200,000
+Share Capital—Ordinary—€100 par value, outstanding 30,000 shares
+3,000,000
+Retained Earnings
+630,000
+Instructions
+Assuming that the directors decide to declare total dividends in the amount of €266,000, determine
+how much each class of shares should receive under each of the conditions stated below. One year’s
+dividends are in arrears on the preference shares.
+a. The preference shares are cumulative and fully participating.
+b. The preference shares are non-cumulative and non-participating.
+c. The preference shares are non-cumulative and are participating in distributions in excess of a 7%
+dividend rate on the ordinary shares.
+
+--- Page 1234 ---
+*E15.23 (LO 5) (Preference Share Dividends) Hagar Ltd. has outstanding 2,500 shares of £100
+par, 6% preference shares and 15,000 shares of £10 par value ordinary. The schedule below shows the
+amount of dividends paid out over the last 4 years.
+Instructions
+Allocate the dividends to each type of shares under assumptions (a) and (b). Express your answers in
+per share amounts using the format shown below.
+Assumptions
+(a)
+Preference, non-cumulative, and non-
+participating
+(b)
+Preference, cumulative,and fully
+participating
+Year
+Paid-
+out
+Preference
+Ordinary
+Preference
+Ordinary
+2021 £12,000
+2022 £26,000
+2023 £52,000
+2024 £76,000
+*E15.24 (LO 5) (Computation of Book Value per Share) Johnstone Inc. began operations in
+January 2021 and reported the following results for each of its 3 years of operations.
+2021 $260,000 net loss 2022 $40,000 net loss 2023 $700,000 net income
+At December 31, 2023, Johnstone Inc. share capital accounts were as follows.
+Share Capital—Preference, 6% cumulative, par value $100; authorized, issued, and
+outstanding 5,000 shares
+$500,000
+Share Capital—Ordinary, par value $1.00; authorized 1,000,000 shares; issued and
+outstanding 750,000 shares
+$750,000
+Johnstone Inc. has never paid a cash or share dividend. There has been no change in the share capital
+accounts since Johnstone began operations. The country law permits dividends only from retained
+earnings.
+Instructions
+a. Compute the book value of the ordinary shares at December 31, 2023.
+b. Compute the book value of the ordinary shares at December 31, 2023, assuming that the
+preference shares have a liquidating value of $106 per share.
+Problems
+P15.1 (LO 1, 2, 3, 4) 
+ (Equity Transactions and Statement Preparation) On January
+5, 2022, Phelps Corporation received a charter granting the right to issue 5,000 shares of $100 par
+value, 8% cumulative and non-participating preference shares, and 50,000 shares of $10 par value
+ordinary shares. It then completed these transactions.
+Jan.
+11
+Issued 20,000 ordinary shares at $16 per share.
+Feb.
+1
+Issued to Sanchez Corp. 4,000 preference shares for the following assets: machinery with a fair
+value of $50,000; a factory building with a fair value of $160,000; and land with an appraised
+value of $270,000.
+July Purchased 1,800 of its own ordinary shares at $17 per share. (Use cost method.)
+
+--- Page 1235 ---
+29
+Aug.
+10
+Sold the 1,800 treasury shares at $14 per share.
+Dec.
+31
+Declared a $0.25 per share cash dividend on the ordinary shares and declared the preference
+dividend.
+Dec.
+31
+Closed the Income Summary account. There was $175,700 net income.
+Instructions
+a. Record the journal entries for the transactions listed above.
+b. Prepare the equity section of Phelps Corporation’s statement of financial position as of December
+31, 2022.
+P15.2 (LO 2, 4) (Treasury Share Transactions and Presentation) Clemson SE had the
+following equity as of January 1, 2022.
+Share capital—ordinary, €5 par value, 20,000 shares issued €100,000
+Share premium—ordinary
+300,000
+Retained earnings
+320,000
+Total equity
+€720,000
+During 2022, the following transactions occurred.
+Feb. 1
+Clemson repurchased 2,000 treasury shares at a price of €19 per share.
+Mar. 1
+800 shares of treasury shares repurchased above were reissued at €17 per share.
+Mar. 18 500 shares of treasury shares repurchased above were reissued at €14 per share.
+Apr. 22 600 shares of treasury shares repurchased above were reissued at €20 per share.
+Instructions
+a. Prepare the journal entries to record the treasury share transactions in 2022, assuming Clemson
+uses the cost method.
+b. Prepare the equity section of the statement of financial position as of April 30, 2022. Net income
+for the first 4 months of 2022 was €130,000.
+P15.3 (LO 1, 2, 3, 4) (Equity Transactions and Statement Preparation) Hatch plc has two
+classes of share capital outstanding: 8%, £20 par preference and £5 par ordinary. At December 31,
+2021, the following accounts were included in equity.
+Share Capital—Preference, 150,000 shares £ 3,000,000
+Share Capital—Ordinary, 2,000,000 shares 10,000,000
+Share Premium—Preference
+200,000
+Share Premium—Ordinary
+27,000,000
+Retained Earnings
+4,500,000
+The following transactions affected equity during 2022.
+Jan. 1
+30,000 preference shares issued at £22 per share.
+Feb. 1
+50,000 ordinary shares issued at £20 per share.
+June 1
+2-for-1 share split on ordinary shares (par value reduced to £2.50).
+July 1
+30,000 ordinary treasury shares purchased at £10 per share. Hatch uses the cost method.
+
+--- Page 1236 ---
+Sept.
+15
+10,000 treasury shares reissued at £11 per share.
+Dec. 31 The preference dividend is declared, and an ordinary dividend of 50 pence per share is
+declared.
+Dec. 31 Net income is £2,100,000.
+Instructions
+Prepare the equity section of the statement of financial position for Hatch plc at December 31, 2022.
+Show all supporting computations.
+P15.4 (LO 1) (Share Transactions—Lump Sum) Seles SA’s charter authorized issuance of
+100,000 ordinary shares of €10 par value and 50,000 shares of €50 preference shares. The following
+transactions involving the issuance of shares were completed. Each transaction is independent of the
+others.
+1. Issued a €10,000, 9% bond payable at par and gave as a bonus one preference share, which at that
+time was selling for €106 a share.
+2. Issued 500 ordinary shares for machinery. The machinery had been appraised at €7,100; the
+seller’s book value was €6,200. The most recent market price of the ordinary shares is €16 a share.
+3. Issued 375 ordinary shares and 100 preference shares for a lump sum amounting to €10,800. The
+ordinary shares had been selling at €14 and the preference shares at €65.
+4. Issued 200 shares of ordinary and 50 shares of preference for furniture and fixtures. The ordinary
+shares had a fair value of €16 per share; the furniture and fixtures have a fair value of €6,500.
+Instructions
+Record the transactions listed above in journal entry form.
+P15.5 (LO 2) (Treasury Shares) Before Smith Ltd. engages in the treasury share transactions listed
+below, its general ledger reflects, among others, the following account balances (par value is £30 per
+share).
+Share Premium—Ordinary Share Capital—Ordinary Retained Earnings
+£99,000
+£270,000
+£80,000
+Instructions
+Record the treasury share transactions (given below) under the cost method of handling treasury
+shares: use the FIFO method for purchase-sale purposes.
+a. Bought 380 treasury shares at £40 per share.
+b. Bought 300 treasury shares at £45 per share.
+c. Sold 350 treasury shares at £42 per share.
+d. Sold 110 treasury shares at £38 per share.
+P15.6 (LO 2, 3, 4) 
+ (Treasury Shares—Equity Section Preparation) Washington
+Company has the following equity accounts at December 31, 2022.
+Share Capital—Ordinary—$100 par value, authorized 8,000 shares $480,000
+Retained Earnings
+294,000
+Instructions
+a. Prepare entries in journal form to record the following transactions, which took place during 2023.
+
+--- Page 1237 ---
+1. 280 ordinary shares were purchased at $97 per share. (These are to be accounted for using the
+cost method.)
+2. A $20 per share cash dividend was declared.
+3. The dividend declared in No. 2 above was paid.
+4. The treasury shares purchased in No. 1 above were resold at $102 per share.
+5. 500 shares were purchased at $105 per share.
+6. 350 of the shares purchased in No. 5 above were resold at $96 per share.
+b. Prepare the equity section of Washington Company’s statement of financial position after giving
+effect to these transactions, assuming that the net income for 2023 was $94,000. Country law
+requires restriction of retained earnings for the amount of treasury shares.
+P15.7 (LO 2, 3) (Cash Dividend Entries) The books of Conchita SA carried the following account
+balances as of December 31, 2022.
+Cash
+R$ 195,000
+Share Capital—Preference (6% cumulative, non-participating, R$50 par)
+300,000
+Share Capital—Ordinary (no-par value, 300,000 shares issued)
+1,500,000
+Share Premium—Preference
+150,000
+Treasury Shares (ordinary 2,800 shares at cost)
+33,600
+Retained Earnings
+105,000
+The company decided not to pay any dividends in 2022.
+The board of directors, at their annual meeting on December 21, 2023, declared the following: “The
+current year dividends shall be 6% on the preference and R$0.30 per share on the ordinary. The
+dividends in arrears shall be paid by issuing 1,500 treasury shares.” At the date of declaration, the
+preference is selling at R$80 per share, and the ordinary at R$12 per share. Net income for 2023 is
+estimated at R$77,000.
+Instructions
+a. Prepare the journal entries required for the dividend declaration and payment, assuming that they
+occur simultaneously.
+b. Could Conchita SA give the preference shareholders 2 years’ dividends and ordinary shareholders a
+30 cents per share dividend, all in cash?
+P15.8 (LO 3) 
+ (Dividends and Splits) Myers SpA provides you with the following
+condensed statement of financial position information.
+Assets
+Equity and Liabilities
+Equipment (net)
+€250,000 Equity
+Intangibles
+60,000
+Share capital—ordinary
+(€5 par)
+€ 20,000
+Investments in ABC shares (Trading)
+(10,000 shares)
+70,000
+Share premium—
+ordinary
+110,000
+Retained earnings
+180,000 €310,000
+Current assets
+40,000
+Non-current and current
+liabilities
+110,000
+Total assets
+€420,000
+Total equity and
+liabilities
+€420,000
+
+--- Page 1238 ---
+Instructions
+For each transaction below, indicate the euro impact (if any) on the following five items: (1) total
+assets, (2) share capital—ordinary, (3) share premium—ordinary, (4) retained earnings, and (5) equity.
+(Each situation is independent.)
+a. Myers declares and pays a €1 per share cash dividend.
+b. Myers declares and issues a 10% share dividend when the market price is €14 per share.
+c. Myers declares and issues a 100% share dividend when the market price is €15 per share.
+d. Myers declares and distributes a property dividend. Myers gives one ABC share for every two
+shares held of Myers SpA. ABC is selling for €10 per share on the date the property dividend is
+declared.
+e. Myers declares a 2-for-1 share split and issues new shares.
+P15.9 (LO 1, 2, 3, 4) (Equity Section of Statement of Financial Position) The following is a
+summary of all relevant transactions of Vicario Corporation since it was organized in 2022.
+In 2022, 15,000 shares were authorized and 7,000 ordinary shares ($50 par value) were issued at a
+price of $57. In 2023, 1,000 shares were issued as a share dividend when a share was selling for $60.
+Three hundred ordinary shares were bought in 2024 at a cost of $64 per share. These 300 shares are
+still in the company treasury.
+In 2023, 10,000 preference shares were authorized and the company issued 5,000 of them ($100 par
+value) at $113. Some of the preference shares were reacquired by the company and later reissued for
+$4,700 more than it cost the company.
+The corporation has earned a total of $610,000 in net income and paid out a total of $312,600 in cash
+dividends since incorporation.
+Instructions
+Prepare the equity section of the statement of financial position in proper form for Vicario Corporation
+as of December 31, 2024. Account for treasury shares using the cost method.
+P15.10 (LO 3) 
+ (Share Dividends and Share Split) Ortago S.A.’s €10 par ordinary shares
+are selling for €110 per share. Four million shares are currently issued and outstanding. The board of
+directors wants to stimulate interest in Ortago S.A. ordinary shares before a forthcoming share issue
+but does not wish to distribute cash at this time. The board also believes that too many adjustments to
+the equity section, especially retained earnings, might discourage potential investors.
+The board has considered three options for stimulating interest in the shares:
+1. A 20% share dividend.
+2. A 100% share dividend.
+3. A 2-for-1 share split.
+Instructions
+Acting as financial advisor to the board, you have been asked to report briefly on each option and,
+considering the board’s wishes, make a recommendation. Discuss the effects of each of the foregoing
+options.
+P15.11 (LO 3, 4) (Share and Cash Dividends) Earnhart Corporation has outstanding 3,000,000
+ordinary shares with a par value of $10 each. The balance in its retained earnings account at January 1,
+2022, was $24,000,000, and it then had Share Premium of $5,000,000. During 2022, the company’s
+net income was $4,700,000. A cash dividend of $0.60 per share was declared on May 5, 2022, and was
+paid June 30, 2022, and a 6% share dividend was declared on November 30, 2022, and distributed to
+
+--- Page 1239 ---
+shareholders of record at the close of business on December 31, 2022. You have been asked to advise
+on the proper accounting treatment of the share dividend.
+The existing shares of the company are quoted on a national securities exchange. The market price of
+the shares has been as follows.
+October 31, 2022
+$31
+November 30, 2022 $34
+December 31, 2022 $38
+Instructions
+a. Prepare the journal entry to record the declaration and payment of the cash dividend.
+b. Prepare the journal entry to record the declaration and distribution of the share dividend.
+c. Prepare the equity section (including schedules of retained earnings and share premium) of the
+statement of financial position of Earnhart Corporation for the year 2022 on the basis of the
+foregoing information. Draft a note to the financial statements setting forth the basis of the
+accounting for the share dividend, and add separately appropriate comments or explanations
+regarding the basis chosen.
+P15.12 (LO 1, 2, 3, 4) (Analysis and Classification of Equity Transactions) Penzi plc was
+formed on July 1, 2020. It was authorized to issue 300,000 shares of £10 par value ordinary shares and
+100,000 shares of 8% £25 par value, cumulative and non-participating preference shares. Penzi plc has
+a July 1–June 30 fiscal year.
+The following information relates to the equity accounts of Penzi plc.
+Ordinary Shares
+Prior to the 2022–2023 fiscal year, Penzi plc had 110,000 ordinary shares outstanding issued as
+follows.
+1. 85,000 shares were issued for cash on July 1, 2020, at £31 per share.
+2. On July 24, 2020, 5,000 shares were exchanged for a plot of land which cost the seller £70,000 in
+2014 and had an estimated fair value of £220,000 on July 24, 2020.
+3. 20,000 shares were issued on March 1, 2021, for £42 per share.
+During the 2022–2023 fiscal year, the following transactions regarding ordinary shares took place.
+November
+30, 2022
+Penzi purchased 2,000 of its own shares on the open market at £39 per share. Penzi uses
+the cost method for treasury shares.
+December
+15, 2022
+Penzi declared a 5% share dividend for ordinary shareholders of record on January 15,
+2023, to be issued on January 31, 2023. Penzi was having a liquidity problem and could not
+afford a cash dividend at the time. Penzi’s ordinary shares were selling at £52 per share on
+December 15, 2022.
+June 20,
+2023
+Penzi sold 500 of its own ordinary shares that it had purchased for £21,000 on November
+30, 2022.
+Preference Shares
+Penzi issued 40,000 preference shares at £44 per share on July 1, 2021.
+Cash Dividends
+Penzi has followed a schedule of declaring cash dividends in December and June, with payment being
+made to shareholders of record in the following month. The cash dividends which have been declared
+since inception of the company through June 30, 2023, are shown below.
+
+--- Page 1240 ---
+Declaration Date Ordinary Shares Preference Shares
+12/15/21 £0.30 per share
+£1.00 per share
+6/15/22 £0.30 per share
+£1.00 per share
+12/15/22
+—
+£1.00 per share
+No cash dividends were declared during June 2023 due to the company’s liquidity problems.
+Retained Earnings
+As of June 30, 2022, Penzi’s retained earnings account had a balance of £690,000. For the fiscal year
+ending June 30, 2023, Penzi reported net income of £40,000.
+Instructions
+Prepare the equity section of the statement of financial position, including appropriate notes, for Penzi
+plc as of June 30, 2023, as it should appear in its annual report to the shareholders.
+Concepts for Analysis
+CA15.1 (LO 1) (Preemptive Rights and Dilution of Ownership) Wallace Computer is a small,
+closely held company. Derek Wallace, the president, holds 80% of the shares. Of the remainder, 10%
+are held by members of his family and 10% by Kathy Baker, a former officer who is now retired. The
+statement of financial position of the company at June 30, 2022, was substantially as shown here.
+Assets
+Equity and Liabilities
+Cash
+£ 22,000 Share capital—ordinary £250,000
+Other
+450,000 Retained earnings
+172,000
+£472,000 Current liabilities
+50,000
+£472,000
+Additional authorized ordinary shares of £300,000 par value have never been issued. To strengthen the
+cash position of the company, Wallace issued ordinary shares with a par value of £100,000 to himself
+at par for cash. At the next shareholders’ meeting, Baker objected and claimed that her interests had
+been injured.
+Instructions
+a. Which shareholder’s right was ignored in the issue of shares to Derek Wallace?
+b. How might the damage to Baker’s interests be repaired most simply?
+c. If Derek Wallace offered Baker a personal cash settlement and they agreed to employ you as an
+impartial arbitrator to determine the amount, what settlement would you propose? Present your
+calculations with sufficient explanation to satisfy both parties.
+CA15.2 (LO 1) (Issuance of Shares for Land) Martin Corporation is planning to issue 3,000
+shares of its own $10 par value ordinary shares for two acres of land to be used as a building site.
+Instructions
+a. What general rule should be applied to determine the amount at which the land should be
+recorded?
+b. Under what circumstances should this transaction be recorded at the fair value of the land?
+c. Under what circumstances should this transaction be recorded at the fair value of the shares
+issued?
+d. Assume Martin intentionally records this transaction at an amount greater than the fair value of
+the land and the shares. Discuss this situation.
+
+--- Page 1241 ---
+CA15.3 (LO 1, 2, 3) 
+ (Conceptual Issues—Equity) The IASB has set forth the Conceptual
+Framework that it will use in developing standards. As part of this Conceptual Framework, the IASB
+defines various elements of financial statements.
+Instructions
+Answer the following questions based on the Conceptual Framework.
+a. Define and discuss the term “equity.”
+b. What transactions or events change equity?
+c. What financial statement element other than equity is typically affected by owner investments?
+d. What financial statement element other than equity is typically affected by distributions to
+owners?
+e. What are examples of changes within equity that do not change the total amount of equity?
+CA15.4 (LO 3) (Share Dividends and Splits) The directors of Merchant ASA are considering the
+issuance of a share dividend. They have asked you to discuss the proposed action by answering the
+following questions.
+Instructions
+a. What is a share dividend? How is a share dividend distinguished from a share split (1) from a legal
+standpoint, and (2) from an accounting standpoint?
+b. For what reasons does a company usually declare a share dividend? A share split?
+c. Discuss the amount, if any, of retained earnings to be capitalized in connection with a share
+dividend.
+CA15.5 (LO 3) (Share Dividends) Yamada Inc., a client, is considering the authorization of a 10%
+ordinary share dividend. The financial vice president of Yamada wishes to discuss the accounting
+implications of such an authorization with you before the next meeting of the board of directors.
+Instructions
+a. The first topic the vice president wishes to discuss is the nature of the share dividend to the
+recipient. Discuss the case against considering the share dividend as income to the recipient.
+b. The other topic for discussion is the propriety of issuing the share dividend to all “shareholders of
+record” or to “shareholders of record exclusive of shares held in the name of the corporation as
+treasury shares.” Discuss the case against issuing share dividends on treasury shares.
+CA15.6 (LO 2, 3) (Share Dividend, Cash Dividend, and Treasury Shares) Mask SE has 30,000
+shares of €10 par value ordinary shares authorized and 20,000 shares issued and outstanding. On
+August 15, 2022, Mask purchased 1,000 shares of treasury shares for €18 per share. Mask uses the cost
+method to account for treasury shares. On September 14, 2022, Mask sold 500 shares of the treasury
+shares for €20 per share.
+In October 2022, Mask declared and distributed 1,950 shares as a share dividend from unissued shares
+when the market price of the ordinary shares was €21 per share.
+On December 20, 2022, Mask declared a €1 per share cash dividend, payable on January 10, 2023, to
+shareholders of record on December 31, 2022.
+Instructions
+a. How should Mask account for the purchase and sale of the treasury shares, and how should the
+treasury shares be presented in the statement of financial position at December 31, 2022?
+
+--- Page 1242 ---
+b. How should Mask account for the share dividend, and how would it affect equity at December 31,
+2022? Why?
+c. How should Mask account for the cash dividend, and how would it affect the statement of
+financial position at December 31, 2022? Why?
+CA15.7 (LO 2) 
+ (Treasury Shares) Lois Kenseth, president of Sycamore Corporation, is
+concerned about several large shareholders who have been very vocal lately in their criticisms of her
+leadership. She thinks they might mount a campaign to have her removed as the corporation’s CEO.
+She decides that buying them out by purchasing their shares could eliminate them as opponents, and
+she is confident they would accept a “good” offer. Kenseth knows the corporation’s cash position is
+decent, so it has the cash to complete the transaction. She also knows the purchase of these shares will
+increase earnings per share, which should make other investors quite happy. (Earnings per share is
+calculated by dividing net income available for the ordinary shareholders by the weighted-average
+number of shares outstanding. Therefore, if the number of shares outstanding is decreased by
+purchasing treasury shares, earnings per share increases.)
+Instructions
+Answer the following questions.
+a. Who are the stakeholders in this situation?
+b. What are the ethical issues involved?
+c. Should Kenseth authorize the transaction?
+Using Your Judgment
+Financial Reporting Problem
+Marks and Spencer plc (M&S)
+The financial statements of M&S (GBR) are presented in Appendix A. The company’s complete annual
+report, including the notes to the financial statements, is available online.
+Instructions
+Refer to M&S’s financial statements and the accompanying notes to answer the following questions.
+a. What is the par or stated value of M&S’s preference shares?
+b. What is the par or stated value of M&S’s ordinary shares?
+c. What percentage of M&S’s authorized ordinary shares was issued at year-end 2019?
+d. How many ordinary shares were outstanding at year-end 2018 and 2019?
+e. What was the pound amount effect of the cash dividends on M&S’s equity?
+f. What is M&S’s return on ordinary share equity for 2019 and 2018?
+g. What is M&S’s payout ratio for 2019 and 2018?
+Comparative Analysis Case
+adidas and Puma
+The financial statements of adidas (DEU) and Puma (DEU) are presented in Appendices B and C,
+respectively. The complete annual reports, including the notes to the financial statements, are available
+online.
+
+--- Page 1243 ---
+Instructions
+Use the companies’ financial statements to answer the following questions.
+a. What is the par or stated value of adidas’s and Puma’s ordinary shares?
+b. How many shares were issued by adidas and Puma at December 31, 2018?
+c. How many shares are held as treasury shares by adidas by Puma at December 31, 2018?
+d. How many adidas ordinary shares and how many Puma ordinary shares are outstanding at
+December 31, 2018?
+e. What amounts of cash dividends per share were declared by adidas and Puma in 2018? What were
+the monetary amount effects of the cash dividends on each company’s equity?
+f. What are adidas’s and Puma’s return on equity for 2018 and 2017? Which company gets the higher
+return on the equity of its shareholders?
+g. What are adidas’s and Puma’s payout ratios for 2018?
+Financial Statement Analysis Cases
+Case 1: BHP (formerly BHP Billiton)
+BHP (formerly BHP Billiton) (AUS) is the world’s largest diversified natural resources company. The
+company extracts and processes minerals, oil, and gas from its production operations located primarily
+in Australia, the Americas, and southern Africa. BHP Billiton sells its products globally, with sales and
+marketing taking place through its principal hubs of The Hague and Singapore. Presented below are
+some basic facts for BHP.
+BHP
+(in thousands)
+Current Year Prior Year
+Sales
+$ 65,986
+$ 72,226
+Net earnings
+11,075
+15,532
+Total assets
+138,109
+129,273
+Total liabilities
+66,074
+62,188
+Share capital
+2,255
+2,255
+Reserves
+1,970
+1,912
+Retained earnings
+66,979
+62,236
+Treasury shares
+(540)
+(533)
+Number of shares outstanding (millions)
+5,322
+5,323
+Instructions
+a. What are some of the reasons that management purchases its own shares?
+b. Explain how earnings per share might be affected by treasury share transactions.
+c. Calculate the ratio of debt to assets for the current and prior years, and discuss the implications of
+the change.
+Case 2: Jinpain International Ltd.
+The following note related to equity was reported in Jinpain International’s (CHN) annual report.
+
+--- Page 1244 ---
+On February 1, the Board of Directors declared a 2-for-1 share split, distributed on February 25 to
+shareholders of record on February 10. Accordingly, all numbers of common (ordinary) shares,
+except unissued shares and treasury shares, and all per share data have been restated to reflect
+this share split.
+Instructions
+a. What is the significance of the date of record and the date of distribution?
+b. Why might Jinpain have declared a 2-for-1 for share split?
+c. What impact does Jinpain’s share split have on (1) total equity, (2) total par value, (3) outstanding
+shares, and (4) book value per share?
+Accounting, Analysis, and Principles
+On January 1, 2022, Nadal SE had the following equity accounts.
+Share Capital—Ordinary (€10 par value, 60,000 shares issued and outstanding) €600,000
+Share Premium—Ordinary
+500,000
+Retained Earnings
+620,000
+During 2022, the following transactions occurred.
+Jan. 15 Declared and paid a €1.05 cash dividend per share to shareholders.
+Apr. 15 Declared and issued a 10% share dividend. The market price of the shares was €14 per share.
+May 15 Reacquired 2,000 ordinary shares at a market price of €15 per share.
+Nov. 15 Reissued 1,000 shares held in treasury at a price of €18 per share.
+Dec. 31 Determined that net income for the year was €370,000.
+Accounting
+Journalize the above transactions. (Include entries to close net income to Retained Earnings.)
+Determine the ending balances to be reported for Share Capital—Ordinary, Retained Earnings, and
+Equity.
+Analysis
+Calculate the payout ratio and the return on equity ratio.
+Principles
+The Federer Group is examining Nadal’s financial statements and wonders whether the “gains” or
+“losses” on Nadal’s treasury share transactions should be included in income for the year. Briefly
+explain whether, and the conceptual reasons why, gains or losses on treasury share transactions should
+be recorded in income.
+Bridge to the Profession
+Authoritative Literature References
+[1] Conceptual Framework for Financial Reporting, “Chapter 4, The Framework (1989): The
+Remaining Text” (London, U.K.: IASB, September 2010), par. 4.20.
+[2] International Financial Reporting Standard 2, Share-Based Payment (London, U.K.: International
+Accounting Standards Committee Foundation, 2004), par. 10.
+
+--- Page 1245 ---
+[3] International Accounting Standard 32, Financial Instruments: Presentation (London, U.K.:
+International Accounting Standards Committee Foundation, 2003), paras. 18–20.
+[4] International Accounting Standard 1, Presentation of Financial Statements (London, U.K.:
+International Accounting Standards Committee Foundation, 2003), par. 79.
+[5] International Accounting Standard 1, Presentation of Financial Statements (London, U.K.:
+International Accounting Standards Committee Foundation, 2003), paras. 106–107.
+Research Case
+Recall from Chapter 13 that Hincapie Co. (a specialty bike-accessory manufacturer) is expecting growth
+in sales of some products targeted to the low-price market. Hincapie is contemplating a preference
+share issue to help finance this expansion in operations. The company is leaning toward preference
+shares because ownership will not be diluted, but the investors will get an extra dividend if the
+company does well. The company management wants to be certain that its reporting of this transaction
+is transparent to its current shareholders and wants you to research the disclosure requirements
+related to its capital structure.
+Instructions
+Access the IFRS authoritative literature at the IFRS website (you may register for free IFRS access at
+this site). When you have accessed the documents, you can use the search tool in your Internet
+browser to respond to the following questions. (Provide paragraph citations.)
+a. Identify the authoritative literature that addresses disclosure of information about capital
+structure.
+b. What information about share capital must companies disclose? Discuss how Hincapie should
+report the proposed preference share issue.
+Global Accounting Insights
+LEARNING OBJECTIVE 6
+Compare the accounting procedures for equity under IFRS and U.S. GAAP.
+The accounting for transactions related to equity, such as issuance of shares, purchase of treasury
+shares, and declaration and payment of dividends, is similar under both IFRS and U.S. GAAP. Major
+differences relate to terminology used and presentation of equity information.
+Relevant Facts
+Following are the key similarities and differences between U.S. GAAP and IFRS related to equity.
+Similarities
+The accounting for the issuance of shares and purchase of treasury shares is similar under both
+U.S. GAAP and IFRS.
+The accounting for declaration and payment of dividends and the accounting for share splits is
+similar under both U.S. GAAP and IFRS.
+Differences
+U.S. GAAP requires that small share dividends (referred to as stock dividends) be recorded by
+transferring an amount equal to the fair value of the shares issued from retained earnings to share
+capital accounts. IFRS is silent on the accounting for share dividends.
+
+--- Page 1246 ---
+Major differences relate to terminology used, introduction of concepts such as revaluation surplus,
+and presentation of equity information.
+In the United States and the United Kingdom, many companies rely on substantial investments
+from private investors. Other countries have different investor groups. For example, in Germany,
+financial institutions such as banks are not only the major creditors but often are also the largest
+shareholders as well.
+The accounting for treasury share retirements differs between U.S. GAAP and IFRS. Under U.S.
+GAAP, a company has three options: (1) charge the excess of the cost of treasury shares over par
+value to retained earnings, (2) allocate the difference between paid-in capital and retained
+earnings, or (3) charge the entire amount to paid-in capital. Under IFRS, the excess may have to be
+charged to paid-in capital, depending on the original transaction related to the issuance of the
+shares.
+The statement of changes in equity is usually referred to as the statement of stockholders’ equity
+(or shareholders’ equity) under U.S. GAAP.
+Both U.S. GAAP and IFRS use the term retained earnings. However, U.S. GAAP uses the account
+Accumulated Other Comprehensive Income (Loss). Use of this account is gaining prominence
+within the IFRS literature, which traditionally has relied on the term “reserve” as a dumping
+ground for other types of equity transactions, such as other comprehensive income items, as well
+as various types of unusual transactions related to convertible debt and share option contracts.
+The term surplus is generally not used in U.S. GAAP, as the standards do not allow revaluation
+accounting. Under IFRS, it is common to report “revaluation surplus” related to increases or
+decreases in items such as property, plant, and equipment; mineral resources; and some intangible
+assets.
+About the Numbers
+As indicated, numerous differences in terminology exist in comparing equity under U.S. GAAP and
+IFRS. The following excerpt from a U.S. statement of financial position (balance sheet) illustrates these
+distinctions (you might compare the presentation here to that in Illustration 15.16 under IFRS).
+Frost Company
+Stockholders’ Equity
+December 31, 2022
+Capital stock
+Preferred stock, $100 par value, 7% cumulative, 100,000 shares authorized,
+30,000 shares issued and outstanding
+$ 3,000,000
+Common stock, no par, stated value $10 per share, 500,000 shares
+authorized, 400,000 shares issued
+4,000,000
+Common stock dividend distributable, 20,000 shares
+200,000
+Total capital stock
+7,200,000
+Additional paid-in capital
+Excess over par—preferred
+$150,000
+Excess over stated value—common
+840,000
+990,000
+Total paid-in capital
+8,190,000
+Retained earnings
+4,360,000
+Total paid-in capital and retained earnings
+12,550,000
+Less: cost of treasury stock (2,000 shares, common)
+190,000
+Accumulated other comprehensive loss
+360,000
+
+--- Page 1247 ---
+Frost Company
+Stockholders’ Equity
+December 31, 2022
+Total stockholders’ equity
+$12,000,000
+On the Horizon
+As indicated earlier in the text, the IASB and the FASB have completed some work on a project related
+to financial statement presentation. An important part of this study is to determine whether certain
+line items, subtotals, and totals should be clearly defined, and whether they should be included in the
+financial statements. For example, it is likely that the statement of changes in equity and its
+presentation will be examined closely. In addition, the options of how to present other comprehensive
+income under U.S. GAAP will change in any converged standard.
+GAAP Self-Test Questions
+1. Which of the following does not represent a pair of U.S. GAAP/IFRS–comparable terms?
+a. Treasury stock/Repurchase reserve.
+b. Additional paid-in capital/Share premium.
+c. Common stock/Share capital—ordinary.
+d. Preferred stock/Preference share.
+2. Under U.S. GAAP, the amount of capital received in excess of par value would be credited to:
+a. Retained Earnings.
+b. Contributed Capital.
+c. Share Premium.
+d. Par value is not used under U.S. GAAP.
+3. The term “reserves” is used under U.S. GAAP with reference to all of the following except.
+a. gains and losses on revaluation of property, plant, and equipment.
+b. capital received in excess of the par value of issued shares.
+c. retained earnings.
+d. U.S. GAAP does not use the term reserves.
+4. Which of the following is false?
+a. Under U.S. GAAP, companies cannot record gains on transactions involving their own shares.
+b. Under U.S. GAAP, companies do not make an entry for a share split.
+c. Under U.S. GAAP, the statement of stockholders’ equity is a required statement.
+d. Under U.S. GAAP, a company records a revaluation surplus when it experiences an increase in the
+price of its common stock.
+5. Under U.S. GAAP, a purchase by a company of its own shares results in.
+a. an increase in treasury shares.
+b. a decrease in assets.
+
+--- Page 1248 ---
+c. a decrease in equity.
+d. All of the answer choices are correct.
+GAAP Concepts and Application
+GAAP15.1 Mary Tokar is comparing a U.S. GAAP-based company to a company that uses IFRS. Both
+companies report investments, with unrealized gains and losses not reported in income. The IFRS
+company reports unrealized losses on these investments under the heading “Reserves” in its equity
+section. However, Mary cannot find a similar heading in the U.S. GAAP company financial statements.
+Can Mary conclude that the U.S. GAAP company has no unrealized gains or losses on its investments?
+Explain.
+GAAP15.2 Briefly describe some of the similarities and differences between U.S. GAAP and IFRS with
+respect to the accounting for equity.
+GAAP15.3 Briefly discuss the implications of the financial statement presentation project for the
+reporting of equity.
+Answers to GAAP Self-Test Questions
+1. a 2. b 3. d 4. d 5. d
+Notes
+1 This privilege is referred to as a share right or warrant. The warrants issued in these situations are
+of short duration, unlike the warrants issued with other securities.
+2 Companies rarely, if ever, issue shares at a value below par value. The reason: The corporation may
+call on the original purchaser or the current holder of the shares issued below par to pay in the
+amount of the discount to prevent creditors from sustaining a loss upon liquidation of the
+corporation.
+3 The possible justification for classifying these shares as assets is that the company will use them to
+liquidate a specific liability that appears on the statement of financial position.
+4 If making numerous acquisitions of blocks of treasury shares at different prices, a company may use
+inventory cost flow assumptions—such as specific identification, average-cost, or FIFO—to identify
+the cost at date of reissuance.
+5 One recent study of large international companies showed that in the decade ending in March 2013,
+companies with the highest dividend payouts showed the highest share price increases. See “Rising
+Corporate Cash: What It Means for Investors,” T. Rowe Price Report (Summer 2013) and G.
+Zuckerman and A. Kuriloff, “High-Dividend Stocks Gain Appeal,” Wall Street Journal (February 28,
+2016).
+6 If the corporation buys its own outstanding shares, it reduces its contributed capital and distributes
+assets to shareholders. If permitted, the corporation could, by purchasing treasury shares at any
+price desired, return to the shareholders their investments and leave creditors with little or no
+protection against loss.
+7 Theoretically, the ex-dividend date is the day after the date of record. However, to allow time for
+transfer of the shares, the securities exchanges generally advance the ex-dividend date two to four
+days. Therefore, the party who owns the shares on the day prior to the expressed ex-dividend date
+receives the dividends. The party who buys the shares on and after the ex-dividend date does not
+receive the dividend. Between the declaration date and the ex-dividend date, the market price of the
+shares includes the dividend.
+8 An alternative approach (required in the United States) is the fair value approach. Under this
+approach, for small share dividends (defined as those less than 20–25%) companies transfer the fair
+
+--- Page 1249 ---
+value of the shares issued from retained earnings. This approach was adopted, at least in part, to
+influence the share dividend policies of corporations—some of which were possibly misleading
+investors as to the real impact of the share dividend. That is, some argued that “many recipients of
+share dividends look upon them as distributions of corporate earnings and usually in an amount
+equivalent to the fair value of the additional shares received.” (See Stephen A. Zeff, “The Rise of
+‘Economic Consequences,’” The Journal of Accountancy (December 1978), pp. 53–66 for a complete
+discussion of the evolution of this issue.) IFRS is silent on the accounting for share dividends under
+either the par value or fair value method. We show the par value method because it is more
+conceptually sound, as it is generally accepted that share dividends are not income for investors.
+9 Looking at Illustration 15.16, note that companies may include a number of items in “Accumulated
+other comprehensive loss” or “Accumulated other comprehensive income.” Among these items are
+“Foreign currency translation adjustments” (covered in advanced accounting), “Unrealized holding
+gains and losses for non-trading equity investments” (covered in Chapter 17), and “Unrealized
+holding gains or losses on property, plant, and equipment” (covered in Chapter 11), often referred to
+as revaluation surplus.
+10 Andrew Blackman, “How Well Do You Know … Dividends?” Wall Street Journal (September 10,
+2007), p. R5. Also, see payout data at
+pages.stern.nyu.edu/~%20adamodar/New_Home_Page/data.html and M. Bird, “Dividend Frenzy
+Starts to Cool Down,” Wall Street Journal (November 2, 2016).
+11 When preference shares are participating, there may be different agreements as to how the
+participation feature is to be executed. However, in the absence of any specific agreement the
+following procedure is recommended:
+a. After the preference shares are assigned the current year’s dividend, the ordinary shares will
+receive a “like” percentage of par value outstanding. In example (3), this amounts to 6 percent
+of €400,000.
+b. In example (3), shown in Illustration 15A.3, the remainder of the declared dividend is €20,000.
+We divide this amount by total par value (€500,000) to find the rate of participation to be
+applied to each class of shares. In this case, the rate of participation is 4% (€20,000 ÷
+€500,000), which we then multiply by the par value of each class of shares to determine the
+amount of participation.
+Sources: Ernst and Young, Global IPO Trends Report (Fourth Quarter, 2019); and L. Ventura, “World’s Largest Companies 2019,”
+Global Finance (August 29, 2019).
+
+--- Page 1250 ---
