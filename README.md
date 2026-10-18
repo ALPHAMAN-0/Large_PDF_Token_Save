@@ -4,6 +4,18 @@ Overview
 - This workspace contains tools and output for extracting and cleaning an accounting textbook PDF.
 - Key outputs are the split chapter text files in `chapters/`, the cleaned files in `chapters_optimized/`, and this project’s chapter summaries in `chapters_summaries.md`.
 
+## Architecture / How it Works
+
+```mermaid
+flowchart LR
+    A[User] --> B[Large Pdf Token Save]
+    B --> C{Logic}
+    C --> D[(Data)]
+    C --> E[Output]
+    D --> C
+```
+
+
 What I did
 1. Extracted ~2500 pages into `output.txt`.
 2. Inspected structure and detected 24 chapters.
