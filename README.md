@@ -7,12 +7,15 @@ Overview
 ## Architecture / How it Works
 
 ```mermaid
-flowchart LR
-    A[User] --> B[Large Pdf Token Save]
-    B --> C{Logic}
-    C --> D[(Data)]
-    C --> E[Output]
-    D --> C
+flowchart TD
+    Source_PDFs --> Extract
+    Extract --> Inspect
+    Inspect --> Split_Chapters
+    Split_Chapters --> Chapters_Raw
+    Chapters_Raw --> Optimize_Chapters
+    Optimize_Chapters --> Chapters_Optimized
+    Chapters_Optimized --> Generate_Summaries
+    Generate_Summaries --> Summaries_Output
 ```
 
 
